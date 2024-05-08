@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 487266,
+  "num_followers": 487309,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Choro",
-        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Choro",
-      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Choro",
+        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Terca",
         "url": "https://open.spotify.com/album/3VsZuGjic5VTjiNrXfbAlp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 140554,
       "name": "De Mal En Peor",
       "url": "https://open.spotify.com/track/0zNj2vBwUPu7jP26S9SPGh"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 159387,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd"
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
       },
       "artists": [
         {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 159387,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG"
+      "duration_ms": 203573,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -999,34 +1015,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 203573,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "La Fama de una Dama",
-        "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
-      },
-      "artists": [
-        {
-          "name": "Noelia",
-          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "La Fama de una Dama",
-      "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "La Fama de una Dama",
+        "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
+      },
+      "artists": [
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "La Fama de una Dama",
+      "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Lo Dijiste Todo (En Vivo)",
         "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 154000,
       "name": "Lo Dijiste Todo - En Vivo",
       "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "El Jessy (En Vivo)",
-        "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 179256,
-      "name": "El Jessy (En Vivo)",
-      "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+        "name": "El Jessy (En Vivo)",
+        "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+      "duration_ms": 179256,
+      "name": "El Jessy (En Vivo)",
+      "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
     }
   ],
   "unique_name": "Las Chacalosas",

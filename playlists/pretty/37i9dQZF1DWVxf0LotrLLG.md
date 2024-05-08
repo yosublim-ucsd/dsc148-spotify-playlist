@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,820 likes - 287 songs - 15 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,827 likes - 287 songs - 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

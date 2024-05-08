@@ -1,6 +1,6 @@
 {
   "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:3gC2pjwYVTQdMuHUucgODF\">NEL</a>",
-  "num_followers": 17881,
+  "num_followers": 17891,
   "original_name": "RADAR Polska",
   "owner": {
     "name": "Spotify",
@@ -22,6 +22,10 @@
         {
           "name": "Piotrek Lewandowski",
           "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
+        },
+        {
+          "name": "Konrad Malicki",
+          "url": "https://open.spotify.com/artist/6RXqeoZemBlebxHrp7EGtV"
         }
       ],
       "duration_ms": 175563,

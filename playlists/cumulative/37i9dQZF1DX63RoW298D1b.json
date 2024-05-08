@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "On Silver Hill",
+        "url": "https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm"
+      },
+      "artists": [
+        {
+          "name": "Duke Wolverine",
+          "url": "https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128543,
+      "name": "On Silver Hill",
+      "url": "https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA"
+    },
+    {
+      "album": {
         "name": "Once Forever Ago",
         "url": "https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6"
       },

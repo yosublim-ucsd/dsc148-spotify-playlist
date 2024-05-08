@@ -1,29 +1,13 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2610915,
+  "num_followers": 2611288,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABUoUCveqM/HqMr8XUeCPEK",
+  "snapshot_id": "ZjgdgAAAAACqXAzGFCjI7phQIBIcrzwK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Already Over",
-        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
-    },
     {
       "added_at": null,
       "album": {

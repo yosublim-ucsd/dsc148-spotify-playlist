@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,760 likes - 130 songs - 7 hr 20 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,758 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 82 | [Sever](https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw) | [bardz](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [The Allegory](https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4) | 3:01 |
 | 83 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 |
 | 84 | [Tear It to Pieces](https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Tear It to Pieces](https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w) | 2:55 |
-| 85 | [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 |
+| 85 | [RUN IT](https://open.spotify.com/track/0kn18ll6yY25PIx2TMXnlX) | [dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [RUN IT](https://open.spotify.com/album/7cxNAaXTPIRRwwIPRYeFGS) | 3:02 |
 | 86 | [So Tired](https://open.spotify.com/track/3bRDdINgciG9K03HrSA1uB) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [So Tired](https://open.spotify.com/album/0CAr3lZpImFY59ONS8I40k) | 2:58 |
 | 87 | [Out Loud](https://open.spotify.com/track/49U21MjHXlWGrXnnDvf19I) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Out Loud](https://open.spotify.com/album/7spOlqAzvR0Qy9fXy6UYXM) | 2:52 |
 | 88 | [PLASTIC](https://open.spotify.com/track/6IOhmL97H7DoN493jGhQAQ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 2:44 |

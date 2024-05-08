@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot, Jore & Zpoppa, Cledos ja william.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,788 likes - 119 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,803 likes - 119 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

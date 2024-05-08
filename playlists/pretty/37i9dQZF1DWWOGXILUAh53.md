@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Sofi Tukker
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,165 likes - 64 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,388 likes - 64 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 27 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
 | 28 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 |
 | 29 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
-| 30 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
+| 30 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
 | 31 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
 | 32 | [Heartslap](https://open.spotify.com/track/1jx4IjL8JRO2MLw5hjfkRS) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Heartslap](https://open.spotify.com/album/4sLCcdRe3LPQNwbfMdH2F7) | 3:09 |
 | 33 | [Universe \- Galantis Remix](https://open.spotify.com/track/6WJu3kRMBSanaLp4c5rvgd) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Universe \(Galantis Remix\)](https://open.spotify.com/album/5kmcp5oSdQjaji6PDgbi1O) | 2:44 |

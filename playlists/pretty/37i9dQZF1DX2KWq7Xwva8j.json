@@ -307,6 +307,22 @@
     {
       "added_at": "2024-04-25 22:01:00",
       "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+    },
+    {
+      "added_at": "2024-04-25 22:01:00",
+      "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 160589,
       "name": "De Charco En Charco",
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
-    },
-    {
-      "added_at": "2024-04-25 22:01:00",
-      "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 69641,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
     },
     {
       "added_at": "2024-04-25 22:01:00",
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+      "duration_ms": 69641,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
     },
     {
       "added_at": "2024-04-25 22:01:00",

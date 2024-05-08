@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 289273,
+  "num_followers": 289300,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-25 13:51:17",
       "album": {
-        "name": "Cosm\u00e9ticos",
-        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
-      },
-      "artists": [
-        {
-          "name": "Cosm\u00e9ticos",
-          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Hu Na Na",
-      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
-    },
-    {
-      "added_at": "2024-03-25 13:51:17",
-      "album": {
         "name": "Sentidos Congelados",
         "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 301200,
       "name": "Conexi\u00f3n Par\u00eds",
       "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
+    },
+    {
+      "added_at": "2024-03-25 13:51:17",
+      "album": {
+        "name": "Cosm\u00e9ticos",
+        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
+      },
+      "artists": [
+        {
+          "name": "Cosm\u00e9ticos",
+          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Hu Na Na",
+      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
     }
   ],
   "unique_name": "Los 80 Argentina",

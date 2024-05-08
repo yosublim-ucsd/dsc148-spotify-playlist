@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-736 songs - 1 day 7 hr 54 min
+745 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-25 |  |
 | [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-22 | 2024-03-26 |
 | [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-04-15 | 2024-02-03 |
+| [Arches](https://open.spotify.com/track/4cyhuoZvaQcdF2hXqduc36) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Arches](https://open.spotify.com/album/1LSloEl1e5sfaBZECpkgr0) | 2:42 | 2024-05-07 |  |
 | [Ardaigh](https://open.spotify.com/track/1YvVM2D9iBzfKypuDaZ2i3) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Ardaigh](https://open.spotify.com/album/3bpUKExinYvlZmLhHUXrf2) | 2:05 | 2024-03-25 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-15 | 2024-01-05 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-15 | 2022-07-29 |
@@ -161,6 +162,7 @@
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-15 | 2024-02-03 |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2022-04-15 | 2022-12-24 |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 |  |
+| [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 | 2024-05-07 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-15 | 2024-04-04 |
 | [Elixir](https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Elixir](https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh) | 2:07 | 2023-03-14 |  |
 | [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 | 2022-12-22 |  |
@@ -172,6 +174,7 @@
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-15 | 2024-04-04 |
 | [enfin bref](https://open.spotify.com/track/3jMxdAMOyHBluvKGD6uYxO) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [enfin bref](https://open.spotify.com/album/4BQbyhjyA3xA66YlxsXKI0) | 3:03 | 2022-04-15 | 2024-02-28 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-15 | 2022-06-08 |
+| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-15 | 2024-02-03 |
 | [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 |  |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-04-15 | 2023-08-08 |
@@ -215,6 +218,7 @@
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-15 | 2022-05-14 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-04-15 | 2022-05-14 |
 | [From A Distance](https://open.spotify.com/track/27nwybgVjSFLcbc6tcV7iq) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [From A Distance](https://open.spotify.com/album/232L2kg2qEfo4fEtZRPXLY) | 3:24 | 2022-05-26 |  |
+| [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 | 2024-05-07 |  |
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2022-04-15 | 2023-08-15 |
 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 | 2022-04-15 | 2022-05-14 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-15 | 2022-04-23 |
@@ -279,6 +283,7 @@
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-04-15 | 2023-05-04 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2022-04-15 | 2024-03-26 |
 | [In The Dark Hours](https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [In The Dark Hours](https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh) | 2:55 | 2022-04-15 | 2022-09-21 |
+| [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 | 2024-05-07 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-04-15 | 2022-05-14 |
 | [Infatuation](https://open.spotify.com/track/6ZwJ6siwR4uUw7qhUkJLUp) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Infatuation](https://open.spotify.com/album/0Snt5AfbgRQQMDcOKFLDJm) | 2:00 | 2022-04-15 | 2022-06-08 |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-15 | 2022-05-14 |
@@ -546,6 +551,7 @@
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-15 | 2022-09-21 |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2022-04-15 | 2022-07-29 |
 | [Silent Agreement](https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson](https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR) | [Dreamer](https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms) | 2:15 | 2022-07-15 | 2022-09-21 |
+| [Silent Nightfall](https://open.spotify.com/track/56hknlblBK16mkzaxu3Iyg) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Silent Nightfall](https://open.spotify.com/album/3UuXJyZYyIr27rQ6VDhnYZ) | 2:08 | 2024-05-07 |  |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2022-04-15 | 2022-05-27 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-15 | 2024-04-10 |
 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
@@ -586,10 +592,13 @@
 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 | 2022-04-15 | 2022-12-24 |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-15 | 2022-12-24 |
 | [Stelle Scure](https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0) | [Enrico Parente](https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f) | [Stelle Scure](https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT) | 2:17 | 2022-04-15 | 2022-05-14 |
+| [Stepwise](https://open.spotify.com/track/3R3snF0ylFymhJnFvrbvEQ) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Stepwise](https://open.spotify.com/album/29BNH4O5STyfHl2Wfj03qz) | 3:09 | 2024-05-07 |  |
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2022-12-22 |  |
+| [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 | 2024-05-07 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2022-04-15 | 2022-05-27 |
 | [Stilles Sehnen \- Upright Reframings](https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Stilles Sehnen \(Upright Reframings\)](https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK) | 3:25 | 2023-08-29 |  |
 | [Stjärnöga](https://open.spotify.com/track/2bKFD7mAcSDQvtAV08VXv1) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Stjärnöga](https://open.spotify.com/album/2DyGHcs004UG9Wc5AQsljD) | 3:11 | 2023-03-20 | 2023-08-15 |
+| [Strangers](https://open.spotify.com/track/0GUmktLeQ8WqUU2D9jgWdB) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Strangers](https://open.spotify.com/album/4XQmAOMyocly3p9xA74HWA) | 2:30 | 2024-05-07 |  |
 | [Straubish](https://open.spotify.com/track/32ZjFfX4ZglRmPzfV3QU6d) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Straubish](https://open.spotify.com/album/0JJnxjBA4qAMrpIeWzDNTo) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2022-04-15 | 2022-05-14 |
 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 | 2024-04-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con la Bruja Salguero en portada.",
-  "num_followers": 24512,
+  "num_followers": 24526,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,38 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 176758,
+      "name": "Diez Noches de Desvelo",
+      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -527,38 +559,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
-        "name": "El Amor Es As\u00ed",
-        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 176758,
-      "name": "Diez Noches de Desvelo",
-      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
-      },
-      "artists": [
-        {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 208487,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 172421,
       "name": "CARNAVALITO DEL DUENDE",
       "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "Roble 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
-      },
-      "artists": [
-        {
-          "name": "Mery Murua",
-          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
-        }
-      ],
-      "duration_ms": 299978,
-      "name": "Zamba azul",
-      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 210771,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "Roble 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
+      },
+      "artists": [
+        {
+          "name": "Mery Murua",
+          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
+        }
+      ],
+      "duration_ms": 299978,
+      "name": "Zamba azul",
+      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
         "name": "La Noche Sin Ti",
         "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 284605,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "La Diablera",
-        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
+        "name": "Luz Del Aire",
+        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
       },
       "artists": [
         {
-          "name": "Hilda Herrera",
-          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
+          "name": "Melania Perez",
+          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
         }
       ],
-      "duration_ms": 131306,
-      "name": "Chacarera del Santiague\u00f1o",
-      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
+      "duration_ms": 198504,
+      "name": "La Canastita",
+      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "Luz Del Aire",
-        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
+        "name": "La Diablera",
+        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
       },
       "artists": [
         {
-          "name": "Melania Perez",
-          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
+          "name": "Hilda Herrera",
+          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
         }
       ],
-      "duration_ms": 198504,
-      "name": "La Canastita",
-      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
+      "duration_ms": 131306,
+      "name": "Chacarera del Santiague\u00f1o",
+      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1499,6 +1499,22 @@
       "duration_ms": 206151,
       "name": "La Copla Triste",
       "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
+      },
+      "artists": [
+        {
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
+        }
+      ],
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1531,22 +1547,6 @@
       "duration_ms": 299363,
       "name": "Maria Sabina",
       "url": "https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
-        "name": "Melod\u00edas que sobran",
-        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
-      },
-      "artists": [
-        {
-          "name": "Nosas",
-          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
-        }
-      ],
-      "duration_ms": 208540,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     },
     {
       "added_at": "2024-04-25 19:41:25",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-25 19:41:25",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
-    },
-    {
-      "added_at": "2024-04-25 19:41:25",
-      "album": {
         "name": "Canto de Nadie",
         "url": "https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 190093,
       "name": "Guitarra, D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9"
+    },
+    {
+      "added_at": "2024-04-25 19:41:25",
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
     },
     {
       "added_at": "2024-04-25 19:41:25",

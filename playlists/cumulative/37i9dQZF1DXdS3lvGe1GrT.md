@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bloomsday
 
-1,194 songs - 2 day 23 hr 19 min
+1,195 songs - 2 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [I Am Grateful For My Friends](https://open.spotify.com/track/54pMfMcmRhfZaXWcqU465D) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [I Am Grateful For My Friends](https://open.spotify.com/album/6Fw8uKPETCu8ofWM89JRgp) | 3:35 | 2023-10-25 | 2023-12-11 |
 | [I Am Yesterday](https://open.spotify.com/track/31gOEdNLFZEgIkF5hVrx0f) | [Zoe Boekbinder](https://open.spotify.com/artist/5WDhdWVcgfQkhgxka9j119), [Gracie and Rachel](https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX) | [I Am Yesterday](https://open.spotify.com/album/0xZsPtfxzBTBzEvbb9lx90) | 3:37 | 2022-08-03 | 2022-10-27 |
 | [I Built You](https://open.spotify.com/track/6RMObHeLc2RbqYcp7MTtPn) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Into the Rest](https://open.spotify.com/album/2gNkxKZpuu68ijiQQVhF4u) | 1:07 | 2023-05-24 | 2023-07-27 |
+| [I Can't Be Friends With You](https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb) | [Sara Sommerer](https://open.spotify.com/artist/7t3a0pLRpE216teeNNhKpa) | [I Can't Be Friends With You](https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5) | 2:08 | 2024-05-07 |  |
 | [I Can't Lie](https://open.spotify.com/track/7o0vl7pu4uwYmH8OvItKKH) | [Jayla Kai](https://open.spotify.com/artist/18cfMtyvDerPHm5iXYUcUA) | [I Can't Lie](https://open.spotify.com/album/2Ogm8mVsPFPFihI1N6opk1) | 3:41 | 2023-01-11 | 2023-02-23 |
 | [I Don't Kill](https://open.spotify.com/track/1kCX2JtO3UNip664y11cYG) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [I Don't Kill](https://open.spotify.com/album/7B8d3W0dFMHfmYag0apOxs) | 3:58 | 2024-01-10 | 2024-02-08 |
 | [I Guess I Don't Love You](https://open.spotify.com/track/1vmgbf5JfzqUqfHA8Mydke) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [A Poison With An Aftertaste](https://open.spotify.com/album/4ay37DHosEREgTdRHbjvKf) | 3:01 | 2022-05-25 | 2022-07-21 |

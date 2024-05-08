@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Wavedash
 
-557 songs - 1 day 9 hr 27 min
+558 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [FLOW IN YOU](https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [FLOW IN YOU](https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu) | 3:05 | 2022-07-08 | 2022-08-13 |
 | [Follow You Home](https://open.spotify.com/track/3RaXvdP3mefcmxvBGm0rzI) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Follow You Home](https://open.spotify.com/album/4LNlOLPYFoaoW2qpgKzD0K) | 4:22 | 2023-06-16 | 2024-02-07 |
 | [For The First Time](https://open.spotify.com/track/6y5Nl8wL8RAlcM1tlyWqoF) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [For The First Time](https://open.spotify.com/album/7Hj8SJiME4AwfwZhYhSRUX) | 3:06 | 2022-07-08 | 2022-09-13 |
-| [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-07-08 |  |
+| [Forever](https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Forever](https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae) | 3:14 | 2022-07-08 | 2024-05-08 |
 | [Forever \(feat\. Elley Duhé\)](https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Forever](https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp) | 3:07 | 2022-10-28 |  |
 | [Forever Now](https://open.spotify.com/track/4mKr1vziKTFOHjQknnHjUS) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Forever Now](https://open.spotify.com/album/4OTVrwP6x0I5TEZvnoNz0p) | 3:16 | 2024-02-16 | 2024-03-30 |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-07-08 | 2023-04-09 |
@@ -530,6 +530,7 @@
 | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-07-08 | 2023-03-04 |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2023-04-09 |
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 | 2023-05-20 |
+| [WAR](https://open.spotify.com/track/2kUq2iP9VsoIyH48plCbE8) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [SACRIFICE EP](https://open.spotify.com/album/5l81wifWFUn2LD5m4MlNgh) | 3:40 | 2024-05-03 |  |
 | [Wasted Time](https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Badnights](https://open.spotify.com/artist/5CiCfM47n3cXeWvxtn5TVd) | [Wasted Time](https://open.spotify.com/album/6vRishxcEmdMeKR7LQ46Rd) | 3:29 | 2022-07-08 | 2022-09-19 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-07-08 | 2023-09-16 |
 | [Way For Us](https://open.spotify.com/track/0LBAGVmyif3KHjy2RZJ7By) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC) | [Way For Us](https://open.spotify.com/album/2gwRrpuLSzI9D5r6soyH4l) | 3:37 | 2024-02-06 |  |

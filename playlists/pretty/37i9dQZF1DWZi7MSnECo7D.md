@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bemti
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,420 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,816 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 64 | [desanuviar](https://open.spotify.com/track/6dv427zxWatn55rEml3TlB) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Fs.aiff](https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp) | [desanuviar](https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f) | 2:56 |
 | 65 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 
-Snapshot ID: `ZjRT5AAAAADG2EKomZYmljRYKv/6naWR`
+Snapshot ID: `ZjoxvAAAAACZCj8GntaYFB08C6cpfJAa`

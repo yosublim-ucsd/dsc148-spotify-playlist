@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes y Chiquis en portada.",
-  "num_followers": 1213691,
+  "num_followers": 1213783,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Puras Complacencias, Vol. 1",
         "url": "https://open.spotify.com/album/5GaOP53Bq1IYjIpj1GpuRT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 185434,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/3ssU6votRPPRQyLc7ir8Lp"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Se Siente?",
+        "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "\u00bfQu\u00e9 Se Siente?",
+      "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Se Siente?",
-        "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 176306,
-      "name": "\u00bfQu\u00e9 Se Siente?",
-      "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Sabor a Michelada",
-        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Sabor a Michelada",
-      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Soldado Ca\u00eddo",
+        "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+      "duration_ms": 182686,
+      "name": "Soldado Ca\u00eddo",
+      "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 177682,
       "name": "M\u00e1gicos Besitos",
       "url": "https://open.spotify.com/track/2tRMOlLNKzFBhiEUQhevIW"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1267,22 +1267,6 @@
       "duration_ms": 165613,
       "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
       "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Soldado Ca\u00eddo",
-        "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 182686,
-      "name": "Soldado Ca\u00eddo",
-      "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 175293,
-      "name": "La Ley De La Vida",
-      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 182080,
       "name": "Brindo - Remix",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "La Ley De La Vida",
+      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Ya No Estoy Solo",
-        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ya No Estoy Solo",
-      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Ya No Estoy Solo",
+        "url": "https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ya No Estoy Solo",
+      "url": "https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El De Cameron",
-        "url": "https://open.spotify.com/album/6yN9Ni8rU1sIZSZQmXf82Q"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 226888,
-      "name": "El De Cameron",
-      "url": "https://open.spotify.com/track/3I0ZTy6xk4DZFQI7Ns48ax"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Pa' Olvidarme de tus Besos",
         "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "El De Cameron",
+        "url": "https://open.spotify.com/album/6yN9Ni8rU1sIZSZQmXf82Q"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 226888,
+      "name": "El De Cameron",
+      "url": "https://open.spotify.com/track/3I0ZTy6xk4DZFQI7Ns48ax"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Que Les Duele",
         "url": "https://open.spotify.com/album/4VOZVcGxUR90CxL6Ej0tzm"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Te Quiero Mil",
         "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 183986,
       "name": "Te Quiero Mil",
       "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+        "name": "Me Gustas Mucho T\u00fa",
+        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+      "duration_ms": 152170,
+      "name": "Me Gustas Mucho T\u00fa",
+      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1775,18 +1771,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Me Gustas Mucho T\u00fa",
-        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 152170,
-      "name": "Me Gustas Mucho T\u00fa",
-      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Angel Perdido",
-        "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
+        "name": "Te Tengo Que Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2uHKjvMXmlfQeJ7xE2Byil"
       },
       "artists": [
         {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
         }
       ],
-      "duration_ms": 149636,
-      "name": "Angel Perdido",
-      "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
+      "duration_ms": 212306,
+      "name": "Te Tengo Que Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0J4wQRZjbEBUYuGMA3k6o0"
     }
   ],
   "unique_name": "Banda 2024",

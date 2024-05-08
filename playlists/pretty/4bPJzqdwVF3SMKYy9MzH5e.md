@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,888 songs - 4 day 5 hr 52 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,890 songs - 4 day 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -683,7 +683,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 673 | [Dear Diary,](https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 2:44 |
 | 674 | [Everybody Wants To Rule The World](https://open.spotify.com/track/2GOGDZ9wAJbmznIstAxiU4) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:11 |
 | 675 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 |
-| 676 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 |
+| 676 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 |
 | 677 | [drivers license](https://open.spotify.com/track/06kDH0htdZt01Z8haPWOpB) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Drivers License](https://open.spotify.com/album/0ue0gOAlHH8Djopp8xApOM) | 4:02 |
 | 678 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
 | 679 | [punch22](https://open.spotify.com/track/4326hzXf5LEVuQb7K85Yud) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [punch22](https://open.spotify.com/album/2ykgrW56pBLH2qOFkQfaHY) | 2:24 |
@@ -1896,5 +1896,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1886 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 1887 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
 | 1888 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 |
+| 1889 | [Jacaranda](https://open.spotify.com/track/7J5fGbiPuhIlUR5BWuUPAL) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 1:44 |
+| 1890 | [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 |
 
-Snapshot ID: `AAAC8liELZk7Z565YreuSwqGPhHkhOFZ`
+Snapshot ID: `AAAC9EAKOhCtrQRfbnS8gSf0wsbVbnxX`

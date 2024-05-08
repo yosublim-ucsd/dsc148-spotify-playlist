@@ -1,18 +1,18 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2515,
+  "num_followers": 2518,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAQOE74vLIlXJP5auhc9tBWPhCjiigT",
+  "snapshot_id": "AAAQTOmDeCVTcBDA8nMfC4jCP/4XWqUB",
   "tracks": [
     {
-      "added_at": "2024-03-08 19:27:05",
+      "added_at": "2024-05-07 16:20:53",
       "album": {
-        "name": "Mind Mirage",
-        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
+        "name": "UNSPOKEN DESIRES EP",
+        "url": "https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 180610,
-      "name": "Mind Eraser",
-      "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
+      "duration_ms": 199074,
+      "name": "Don't Watch Her",
+      "url": "https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf"
     },
     {
       "added_at": "2024-04-14 12:16:41",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m"
     },
     {
+      "added_at": "2024-05-07 16:20:55",
+      "album": {
+        "name": "UNSPOKEN DESIRES EP",
+        "url": "https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 220987,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/4PupCImDzC6MoXNogI4wtF"
+    },
+    {
       "added_at": "2024-04-14 12:16:29",
       "album": {
         "name": "Still Pushin'",
@@ -75,22 +91,6 @@
       "duration_ms": 192000,
       "name": "Still Pushin' - Radio Edit",
       "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
-    },
-    {
-      "added_at": "2024-03-08 19:27:08",
-      "album": {
-        "name": "Mind Mirage",
-        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 192113,
-      "name": "Fog Clear",
-      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
     },
     {
       "added_at": "2024-03-24 15:40:49",
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
     },
     {
-      "added_at": "2023-06-30 04:57:30",
+      "added_at": "2024-03-08 19:27:05",
       "album": {
-        "name": "Safety First",
-        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
+        "name": "Mind Mirage",
+        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 185570,
-      "name": "Calling Through The Fire",
-      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+      "duration_ms": 180610,
+      "name": "Mind Eraser",
+      "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
     },
     {
       "added_at": "2024-03-24 15:40:57",
@@ -245,10 +245,10 @@
       "url": "https://open.spotify.com/track/6Wo1JXT5HBSDwbuMwXboh1"
     },
     {
-      "added_at": "2023-05-12 16:24:04",
+      "added_at": "2024-03-08 19:27:08",
       "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+        "name": "Mind Mirage",
+        "url": "https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 182659,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+      "duration_ms": 192113,
+      "name": "Fog Clear",
+      "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
     },
     {
       "added_at": "2024-04-14 12:16:18",
@@ -329,10 +329,10 @@
       "url": "https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2023-06-30 04:57:30",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "Safety First",
+        "url": "https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+      "duration_ms": 185570,
+      "name": "Calling Through The Fire",
+      "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
     },
     {
       "added_at": "2024-04-14 12:16:26",
@@ -413,10 +413,10 @@
       "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
+      "added_at": "2023-05-12 16:24:04",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+      "duration_ms": 182659,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
       "added_at": "2024-03-24 15:40:55",

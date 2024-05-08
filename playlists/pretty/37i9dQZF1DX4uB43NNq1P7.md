@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,192 likes - 91 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,259 likes - 91 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 10 | [Midnight Moon \(Rain\)](https://open.spotify.com/track/1ZncqbnwCe7myD7JvsypVb) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Midnight Moon \(Rain\)](https://open.spotify.com/album/0VML9T2n1CMZ5428r8MUMV) | 2:18 |
 | 11 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
 | 12 | [a rainy drive](https://open.spotify.com/track/1CaxxugXqfTttf5WPyXjZL) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [a rainy drive](https://open.spotify.com/album/1db6UHObCrBOlTR6GgcpxC) | 2:38 |
-| 13 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 |
-| 14 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 |
-| 15 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 |
-| 16 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 |
-| 17 | [Summer Rainbow](https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [Summer Rainbow](https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z) | 2:58 |
+| 13 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 |
+| 14 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 |
+| 15 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 |
+| 16 | [Summer Rainbow](https://open.spotify.com/track/3ZoWGe3xD7pQDuEoix445S) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [Summer Rainbow](https://open.spotify.com/album/0s0XzqCY2BbI2bizi1rM3z) | 2:58 |
+| 17 | [Open the Door](https://open.spotify.com/track/3uTI6mbfEpVP3zsJ8ApzDc) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Open the Door](https://open.spotify.com/album/2HE7TjvxZHCN2LrMUB9egD) | 2:46 |
 | 18 | [Filtered Light \(Rain\)](https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Filtered Light \(Rain\)](https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs) | 3:02 |
 | 19 | [Thinking of You](https://open.spotify.com/track/0AM2l6llDTVSDPZrZsBNyU) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Thinking of You](https://open.spotify.com/album/3uOCKTrysibG4lRH3QzGrD) | 2:42 |
 | 20 | [The Midnight Sun \- Rain version](https://open.spotify.com/track/2OUeSA99Dxa0vl1LYpiDjc) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun \- Rain version](https://open.spotify.com/album/43NiUtG23mp2L2jX6GoYlv) | 2:58 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 90 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 91 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `Zh/KQwAAAAC/XEZyunJiiYP+EvW/hcUm`
+Snapshot ID: `ZjpOhAAAAACT9rWQBAWVPkbpi1UlTFHa`

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-508 songs - 21 hr 44 min
+510 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Mondes Séparés](https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Mondes Séparés](https://open.spotify.com/album/3REt6vSBBZLsqVIMFh6lXB) | 2:53 | 2023-03-21 |  |
 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 | 2024-04-10 |  |
 | [Montauk](https://open.spotify.com/track/2aYaaYfQ5VY6NrpzuaUb38) | [Rebecca Jean Rossi](https://open.spotify.com/artist/7glMKJlAKPc4VqtQiR1qwt) | [Montauk](https://open.spotify.com/album/6cu1Llxho99KdhDVHSNIPV) | 3:08 | 2022-05-27 | 2023-10-05 |
+| [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 | 2024-05-07 |  |
 | [Moonlit Waltz](https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Moonlit Waltz](https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj) | 2:41 | 2024-03-19 |  |
 | [More Human](https://open.spotify.com/track/2PDkltumMKXM72dKnED6Ck) | [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [More Human](https://open.spotify.com/album/46FuIwnxjGuBDs9SY33KuD) | 2:34 | 2023-08-21 | 2024-03-20 |
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-07 | 2022-04-15 |
@@ -404,6 +405,7 @@
 | [Serán](https://open.spotify.com/track/0KuTiAtn3Dx74iJfTJknWt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 2:32 | 2021-12-07 | 2024-02-14 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 | 2023-10-05 |
 | [Seven Hills Of Rome](https://open.spotify.com/track/0SQETkWleYzqYASQ2WPxxZ) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Seven Hills Of Rome](https://open.spotify.com/album/3icvnYlI3k19fxoAicmtgD) | 2:25 | 2021-12-07 | 2022-03-02 |
+| [Seveso](https://open.spotify.com/track/3PydkaPNaOhEluH8Zv2CXP) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Seveso](https://open.spotify.com/album/41jYnRNWAEYbSv8BHuEC2w) | 2:44 | 2024-05-07 |  |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 | 2023-01-27 |
 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Simpler Times](https://open.spotify.com/track/5KDRSRRS88uL8RUDXYPZ0r) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/2mGe8l7Z7w3t6d0488EJnn) | 2:21 | 2021-12-07 | 2022-09-18 |

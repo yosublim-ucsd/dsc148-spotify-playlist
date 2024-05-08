@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Lua Ki Di Nos",
+        "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Carlos Schwarz & Le Cobiana Djazz",
+          "url": "https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271391,
+      "name": "Mindjeris De Panu Pretu",
+      "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
+    },
+    {
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 171981,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL"

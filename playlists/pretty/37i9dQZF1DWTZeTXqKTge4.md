@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia, Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,191 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,869 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [More Life, Less Names \- Remix](https://open.spotify.com/track/65MoTkG0mpjP4ZTMlnCxQH) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [More Life, Less Names \(Remix\)](https://open.spotify.com/album/2EZRbNDKy21Go36QWarpnc) | 3:11 |
 | 75 | [VISA](https://open.spotify.com/track/67g2ofnMNzwzUbbNt0eyPk) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl) | [VISA](https://open.spotify.com/album/1hslnP6PutZgrEVGYuBLjz) | 2:36 |
 
-Snapshot ID: `ZjRhQAAAAAD5e2wmK4ub4IRi+wgURrHs`
+Snapshot ID: `ZjqILQAAAACQd92Y3CI2z7kkBng9OlWL`

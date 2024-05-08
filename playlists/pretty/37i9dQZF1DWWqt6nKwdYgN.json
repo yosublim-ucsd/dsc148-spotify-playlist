@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13834,
+  "num_followers": 13836,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "ODIOSOTORIUS",
-        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "ODIOSOTORIUS",
-      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 213940,
       "name": "T\u00e9 Con Miel",
       "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "ODIOSOTORIUS",
+        "url": "https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "ODIOSOTORIUS",
+      "url": "https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -583,30 +583,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Millo",
-        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
-      },
-      "artists": [
-        {
-          "name": "Dehry",
-          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        },
-        {
-          "name": "MC Albertico",
-          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
-        }
-      ],
-      "duration_ms": 199997,
-      "name": "Millo",
-      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Intento Tras Intento",
         "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 184000,
       "name": "Intento Tras Intento",
       "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Millo",
+        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
+      },
+      "artists": [
+        {
+          "name": "Dehry",
+          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "MC Albertico",
+          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
+        }
+      ],
+      "duration_ms": 199997,
+      "name": "Millo",
+      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Avi\u00f3n",
-      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Eva, Ad\u00e1n y las Manzanas",
         "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 296460,
       "name": "Eva, Ad\u00e1n y las Manzanas",
       "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Avi\u00f3n",
+      "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Entre Tiburones",
-        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "Entre Tiburones",
-      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Entre Tiburones",
+        "url": "https://open.spotify.com/album/6bYGIvQh7Q11zUivJUENSC"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 303093,
+      "name": "Entre Tiburones",
+      "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
-      },
-      "artists": [
-        {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "La Gangsta",
         "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
@@ -1031,22 +1011,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
         },
         {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
         }
       ],
-      "duration_ms": 254186,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 207000,
       "name": "El Calent\u00f3n",
       "url": "https://open.spotify.com/track/6Je2hSFlM37PxmZxao2LbQ"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "CUBA (Buena y Mala)",
-        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
       },
       "artists": [
         {
-          "name": "Akim 88",
-          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
         }
       ],
-      "duration_ms": 108217,
-      "name": "CUBA (Buena y Mala)",
-      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
+      "duration_ms": 176170,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1155,6 +1159,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "CUBA (Buena y Mala)",
+        "url": "https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr"
+      },
+      "artists": [
+        {
+          "name": "Akim 88",
+          "url": "https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp"
+        }
+      ],
+      "duration_ms": 108217,
+      "name": "CUBA (Buena y Mala)",
+      "url": "https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Arrogancia",
         "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 333403,
       "name": "Arrogancia",
       "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "A Solas",
-        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Inti Sigma",
-          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "A Solas",
-      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lounge",
-      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "\u00c1rtico",
         "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 202162,
       "name": "Cuando te miro",
       "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lounge",
+      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Ya Te Solt\u00e9",
         "url": "https://open.spotify.com/album/6pmMIRI9bFpkCWmjLhnM6g"
       },
@@ -1479,22 +1499,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "EL POINT",
-        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+        "name": "La Carnita Asada",
+        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
       },
       "artists": [
         {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
         },
         {
-          "name": "B Noize",
-          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 150000,
-      "name": "EL POINT",
-      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+      "duration_ms": 275647,
+      "name": "La Carnita Asada",
+      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1519,26 +1539,6 @@
       "duration_ms": 160524,
       "name": "LATIGO",
       "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "La Carnita Asada",
-        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 275647,
-      "name": "La Carnita Asada",
-      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+      },
+      "artists": [
+        {
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+        }
+      ],
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Flow Con Chile",
         "url": "https://open.spotify.com/album/5fP7HDv4ruXjQUD7iHFaya"
       },
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
-      },
-      "artists": [
-        {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
-        }
-      ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Una Mente Maestra",
-        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Blanco",
-          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
-        }
-      ],
-      "duration_ms": 139242,
-      "name": "Una Mente Maestra",
-      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "PERO NAH!",
         "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
+        "name": "Una Mente Maestra",
+        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
       },
       "artists": [
         {
-          "name": "Unex Msc",
-          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
         }
       ],
-      "duration_ms": 184799,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
+      "duration_ms": 139242,
+      "name": "Una Mente Maestra",
+      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1755,6 +1739,38 @@
       "duration_ms": 267558,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
+      },
+      "artists": [
+        {
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "L\u00c1SER",
+        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "L\u00c1SER",
+      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1783,18 +1799,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "L\u00c1SER",
-        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
+        "name": "Actitud",
+        "url": "https://open.spotify.com/album/2qSe4GZF1gh4KG2fy9RHUj"
       },
       "artists": [
         {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+          "name": "Perro Zw",
+          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
         }
       ],
-      "duration_ms": 159750,
-      "name": "L\u00c1SER",
-      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
+      "duration_ms": 156250,
+      "name": "Actitud",
+      "url": "https://open.spotify.com/track/7xxXLNEkBqQ0mVgZAXIHi6"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1839,22 +1855,6 @@
       "duration_ms": 130173,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Actitud",
-        "url": "https://open.spotify.com/album/2qSe4GZF1gh4KG2fy9RHUj"
-      },
-      "artists": [
-        {
-          "name": "Perro Zw",
-          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Actitud",
-      "url": "https://open.spotify.com/track/7xxXLNEkBqQ0mVgZAXIHi6"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Cuando salga en Netflix.",
+        "url": "https://open.spotify.com/album/1Gz1dqtXs6MpZBMvdC71jJ"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00f3mano mc",
+          "url": "https://open.spotify.com/artist/61ksKmKVip5vy2TXFAO7az"
+        }
+      ],
+      "duration_ms": 177332,
+      "name": "Cuando salga en Netflix.",
+      "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "3033",
         "url": "https://open.spotify.com/album/6PoMnoM5E9Dlf6dBy2fETQ"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 175999,
       "name": "Ladran los Perros",
       "url": "https://open.spotify.com/track/0k0iFv3lE9fH6xS3wq22jt"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Cuando salga en Netflix.",
-        "url": "https://open.spotify.com/album/1Gz1dqtXs6MpZBMvdC71jJ"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00f3mano mc",
-          "url": "https://open.spotify.com/artist/61ksKmKVip5vy2TXFAO7az"
-        }
-      ],
-      "duration_ms": 177332,
-      "name": "Cuando salga en Netflix.",
-      "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
     }
   ],
   "unique_name": "Rimas Frescas ",

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19509,
+  "num_followers": 19512,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 176804,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 176804,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "4 Da Tarde",
-        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
-      },
-      "artists": [
-        {
-          "name": "Dupoint",
-          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "4 Da Tarde",
-      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "tudo que eu fa\u00e7o",
         "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 143766,
       "name": "tudo que eu fa\u00e7o",
       "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "4 Da Tarde",
+        "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
+      },
+      "artists": [
+        {
+          "name": "Dupoint",
+          "url": "https://open.spotify.com/artist/54GML44bZteHh8aoqc644G"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "4 Da Tarde",
+      "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Ideia Errada",
-        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
-      },
-      "artists": [
-        {
-          "name": "Cigana",
-          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Ideia Errada",
-      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Voc\u00ea Chegou na Hora Certa",
         "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 148484,
       "name": "Voc\u00ea Chegou na Hora Certa",
       "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Ideia Errada",
+        "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
+      },
+      "artists": [
+        {
+          "name": "Cigana",
+          "url": "https://open.spotify.com/artist/5tV6Fk6pRBJIEi232T3IOL"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Ideia Errada",
+      "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 171084,
       "name": "vc \u00e9 uma bagun\u00e7a",
       "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Jacquemus",
         "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 153559,
       "name": "Jacquemus",
       "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+      },
+      "artists": [
+        {
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "De repente voc\u00ea",
         "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
       "artists": [
         {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
         }
       ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1095,22 +1111,6 @@
       "duration_ms": 193053,
       "name": "reluz",
       "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
-      },
-      "artists": [
-        {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 155129,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+      },
+      "artists": [
+        {
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2023-11-30 21:58:24",

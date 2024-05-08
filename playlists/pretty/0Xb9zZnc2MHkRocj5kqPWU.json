@@ -1,13 +1,113 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62823,
+  "num_followers": 62822,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHHvqb5BIRfbr5e0PN0lr8yKJdmGW3",
+  "snapshot_id": "AAAHKFTHqBOM4JmiTrZ9HQdmQk6+T0ns",
   "tracks": [
+    {
+      "added_at": "2024-05-07 17:00:11",
+      "album": {
+        "name": "Lullaby for Jacques et Brune",
+        "url": "https://open.spotify.com/album/32mCZb70GUxJWlkMTte4M8"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Lullaby for Jacques et Brune",
+      "url": "https://open.spotify.com/track/5OO5egVOjkqFASx06Ikz75"
+    },
+    {
+      "added_at": "2024-05-07 17:06:09",
+      "album": {
+        "name": "La Sieste",
+        "url": "https://open.spotify.com/album/65G4c39wr0Q63uPlowznPI"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 163160,
+      "name": "La Sieste",
+      "url": "https://open.spotify.com/track/48lCGg8M4kDMJk9SAsTWgO"
+    },
+    {
+      "added_at": "2024-05-07 17:07:16",
+      "album": {
+        "name": "Mystery of Love",
+        "url": "https://open.spotify.com/album/0Ffa7cnWrMffYoxmxiqISa"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 145067,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/1noBkcNmVNk0PWlnzkt1Hi"
+    },
+    {
+      "added_at": "2024-04-01 14:05:02",
+      "album": {
+        "name": "Tristesse",
+        "url": "https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
+    },
+    {
+      "added_at": "2024-03-01 12:45:21",
+      "album": {
+        "name": "Kaiho",
+        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
+    },
+    {
+      "added_at": "2024-05-07 17:08:11",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/4uvww0XAiQkr6eGT4gvmk9"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/1GYDdh0AHhvTdvQ8sHkTAT"
+    },
     {
       "added_at": "2024-04-15 15:49:06",
       "album": {
@@ -69,22 +169,6 @@
       "url": "https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU"
     },
     {
-      "added_at": "2024-04-01 14:05:02",
-      "album": {
-        "name": "Tristesse",
-        "url": "https://open.spotify.com/album/1RiCsE4TpGZXwemtMWfLg7"
-      },
-      "artists": [
-        {
-          "name": "HAUSER",
-          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Tristesse",
-      "url": "https://open.spotify.com/track/5LZBJNHFun1mKDsDUZSA8b"
-    },
-    {
       "added_at": "2024-04-15 15:50:28",
       "album": {
         "name": "Stay",
@@ -99,22 +183,6 @@
       "duration_ms": 155400,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8"
-    },
-    {
-      "added_at": "2024-03-01 12:45:21",
-      "album": {
-        "name": "Kaiho",
-        "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
-      },
-      "artists": [
-        {
-          "name": "A. Blomqvist",
-          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
-        }
-      ],
-      "duration_ms": 197766,
-      "name": "Kaiho",
-      "url": "https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5"
     },
     {
       "added_at": "2024-02-23 13:42:58",

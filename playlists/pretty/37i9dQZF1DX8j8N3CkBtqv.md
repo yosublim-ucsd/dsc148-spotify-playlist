@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Suzonn
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,060 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,062 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baavre Ho Gaye](https://open.spotify.com/track/6eqPTXbERj4fj48rKzT0TZ) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Baavre Ho Gaye](https://open.spotify.com/album/29GwKSimTP6XMlop401he1) | 3:48 |
 | 2 | [Intezar](https://open.spotify.com/track/2yuZXpAlfirFjU2K9sDBk6) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Hitesh Lokhande](https://open.spotify.com/artist/42p0pfvWpQs8e4MJb3FFsl) | [Intezar](https://open.spotify.com/album/3PKvtaCmyp3dWVxo8fcd23) | 2:52 |
-| 3 | [shor hai](https://open.spotify.com/track/44EJDe4k8AeFIFqiz4hlHG) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Aditi Raj](https://open.spotify.com/artist/2BSu6aCEkX3XUOUVsPJisw) | [shor hai](https://open.spotify.com/album/6Op3ATZHmBGuN8EjVkUfAB) | 3:55 |
+| 3 | [shor hai](https://open.spotify.com/track/44EJDe4k8AeFIFqiz4hlHG) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [shor hai](https://open.spotify.com/album/6Op3ATZHmBGuN8EjVkUfAB) | 3:55 |
 | 4 | [Ji Huzoori](https://open.spotify.com/track/63mIuWznP6M5oWDYpINFZt) | [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Ji Huzoori](https://open.spotify.com/album/64BxUYvr0aAt7ARQUgFAXx) | 2:54 |
 | 5 | [Toota Tara](https://open.spotify.com/track/14gA6qtDHQv2MNanOFjkaH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Toota Tara](https://open.spotify.com/album/3glfJsB11tjermAGrtxfRJ) | 3:56 |
 | 6 | [Maa](https://open.spotify.com/track/3x2xFh8crGsLHF6O4cYGgy) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Maa](https://open.spotify.com/album/67u4Fpuq3Pleo8tqkISkGK) | 3:35 |

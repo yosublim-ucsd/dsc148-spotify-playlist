@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Ugly \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,303 likes - 102 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,358 likes - 102 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-537 songs - 1 day 12 hr 13 min
+539 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Full Mood](https://open.spotify.com/track/6o6S5TRNSKNV2RpKAOG5gP) | [Sarah Mary Chadwick](https://open.spotify.com/artist/1UDmSmzxcGZxP3IYpafgpn) | [Me and Ennui Are Friends, Baby](https://open.spotify.com/album/4pNa3AVRsruf6p26rIpFl0) | 4:14 | 2023-01-17 |  |
 | [Galapagos](https://open.spotify.com/track/6Z6TA5YhapGGxc5BETHwVc) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Galapagos](https://open.spotify.com/album/20onzDlGi2SlmFhnn5aRkE) | 4:20 | 2023-01-17 |  |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2023-01-17 | 2024-04-19 |
+| [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2023-01-17 |  |
 | [Gem](https://open.spotify.com/track/0dcQhubzum2ZEqQfkKXG7S) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:57 | 2023-01-17 |  |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2023-01-17 | 2024-04-19 |
 | [Gilly](https://open.spotify.com/track/0ELuLIjUihj8SlRwzEHhgY) | [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Gilly](https://open.spotify.com/album/69VLDmXvicpvJqTCrZ9NhL) | 3:17 | 2023-01-17 |  |
@@ -194,7 +195,7 @@
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2023-01-17 | 2024-04-19 |
 | [Hearts](https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno) | [Nari](https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl) | [Hearts](https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt) | 2:50 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-01-17 | 2024-04-19 |
-| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 |  |
+| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 | 2024-05-08 |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2023-01-17 | 2023-09-21 |
 | [Help Me Help Myself](https://open.spotify.com/track/0ZIllgA4WQsH2dSCUCAdRb) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Help Me Help Myself](https://open.spotify.com/album/4CvsRCXktnzHYXgt2qsLSn) | 3:35 | 2023-01-17 |  |
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
@@ -462,6 +463,7 @@
 | [The Hunger](https://open.spotify.com/track/7l9yrvHssOAcOUcrV39lQX) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:59 | 2023-01-17 | 2024-04-19 |
 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2023-01-17 | 2024-04-19 |
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-01-17 | 2024-03-23 |
+| [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2023-01-17 |  |
 | [The Message](https://open.spotify.com/track/0i5r3EWZsCMYRrpUy8YofZ) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/5wQzD4g80qIXRVUOD9we2G) | 4:52 | 2023-01-17 | 2024-04-19 |
 | [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2023-01-17 |  |
@@ -539,7 +541,7 @@
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2023-01-17 |  |
 | [Youngblood](https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm) | 3:52 | 2023-01-17 |  |
 | [Youngblood](https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx) | 3:52 | 2023-01-17 | 2024-04-19 |
-| [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 | 2023-01-17 |  |
+| [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 | 2023-01-17 | 2024-05-08 |
 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 | 2023-01-17 | 2024-04-19 |
 | [Your Lady](https://open.spotify.com/track/6D48OMdNw24Wo6DTKM4e0m) | [Pedro Blue](https://open.spotify.com/artist/5a5rsH8zoQQwaAmn6v75GL) | [Funky Room](https://open.spotify.com/album/5NE765GbUIQLAjY82hMM0E) | 4:28 | 2023-01-17 |  |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-14 |  |

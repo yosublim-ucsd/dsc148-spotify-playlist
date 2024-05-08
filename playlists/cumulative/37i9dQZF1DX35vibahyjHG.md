@@ -2,9 +2,9 @@
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=d4Y87G\_9TCKeQ0wNCmUE0Q"> Kold AF </a>
+> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wWZyVDH8QH22marksPcM\_w"> Ayra Starr </a>
 
-366 songs - 20 hr 38 min
+367 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Love Doc](https://open.spotify.com/track/6RnMF1g7s7t8F9ogP8VxJJ) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Love Doc](https://open.spotify.com/album/2ExFWORr6WXAdvmDf0dzGD) | 2:49 | 2022-03-08 | 2022-12-01 |
 | [Love isn't a Game](https://open.spotify.com/track/4FYcqOoJJnGYgQLGgDYzYx) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Reality](https://open.spotify.com/album/3LX5MjfipFhKnOVDMBCmS2) | 2:54 | 2023-08-02 | 2023-09-29 |
 | [Love isn't a Game](https://open.spotify.com/track/6dTYEXb2lONZ7KgEBNp30j) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Reality](https://open.spotify.com/album/1KIPehtnRXFxX9XPQYPOD7) | 2:54 | 2023-09-06 | 2023-11-02 |
+| [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-08 |  |
 | [Love You Well](https://open.spotify.com/track/2lGE2iyLAt0ICi0zKvArWo) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Love You Well](https://open.spotify.com/album/5FL1VuX28rK1eeDEO50ZjF) | 3:21 | 2023-05-03 | 2023-06-07 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-07 | 2022-12-01 |
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-09-06 | 2024-02-07 |
@@ -227,7 +228,7 @@
 | [Nü Bag \- A COLORS SHOW](https://open.spotify.com/track/0rFACC9sDTrlfejypranhN) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nü Bag \- A COLORS SHOW](https://open.spotify.com/album/0ikdgWaHvWclRaMMuVjHS3) | 2:35 | 2022-08-02 | 2022-09-09 |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-02-02 | 2023-11-30 |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-03-08 | 2022-05-05 |
-| [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-07 |  |
+| [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-07 | 2024-05-08 |
 | [Oe'Phihlile](https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Oe'Phihlile](https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ) | 6:42 | 2023-09-06 | 2023-11-30 |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-08-02 | 2022-12-01 |
 | [Ole](https://open.spotify.com/track/2pdU67HxsOEc6s6i3jWVe7) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:31 | 2023-11-29 | 2024-02-07 |

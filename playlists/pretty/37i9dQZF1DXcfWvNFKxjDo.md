@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: VIZE
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,403 likes - 79 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,570 likes - 79 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 20 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 |
 | 21 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 |
 | 22 | [Zoo](https://open.spotify.com/track/4RMYcYUY6Aava8cu4ThR7o) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Zoo](https://open.spotify.com/album/3gX4uSF1OGkc3lJvqfv8wn) | 2:12 |
-| 23 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
+| 23 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
 | 24 | [808](https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [808](https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh) | 2:56 |
 | 25 | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Jono Dorr](https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa) | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr) | 3:39 |
 | 26 | [Mama Mia](https://open.spotify.com/track/3px16DtfikGGjsgZCT2N0E) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Mama Mia](https://open.spotify.com/album/5elKzaXleeYQJIo5ur8luO) | 2:38 |

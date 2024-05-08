@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPWQvvB3vfRI63AlfiMw7ApLfaLgOp",
+  "snapshot_id": "AAAPWpUx7HBzoZTfkduypMSBrYl7fg7y",
   "tracks": [
+    {
+      "added_at": "2024-05-07 10:02:51",
+      "album": {
+        "name": "I Want What I Don't Need",
+        "url": "https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj"
+    },
     {
       "added_at": "2024-05-03 13:07:10",
       "album": {

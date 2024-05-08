@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 5 hr 56 min
+115 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 | 2022-05-25 |  |
 | [Island](https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 2:55 | 2023-12-13 |  |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-12-13 |  |
-| [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 | 2023-12-13 |  |
+| [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 | 2023-12-13 | 2024-05-08 |
+| [Just Because I'm Okay](https://open.spotify.com/track/6czPBedtyYptPzCs9puGhq) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/1r60ujMAc6UEVCrOtembWK) | 3:17 | 2024-05-07 |  |
 | [Just Miss Love](https://open.spotify.com/track/6KwvzNhrvOXc1i4mCCU0xY) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love](https://open.spotify.com/album/0HdLiRs3Kv3D36oRKL72zn) | 3:27 | 2022-05-25 | 2023-12-14 |
 | [Just Miss Love \(feat\. Saint Wilder\)](https://open.spotify.com/track/3KlvJZnYxqxTHuIz85ltx1) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love \(feat\. Saint Wilder\)](https://open.spotify.com/album/2Fr6emULXNjU1bFupojapb) | 3:27 | 2023-12-13 |  |
 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 | 2023-04-19 |  |
@@ -97,6 +98,7 @@
 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 | 2022-05-25 |  |
 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 | 2022-05-25 |  |
 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 | 2022-05-25 |  |
+| [Someday Best](https://open.spotify.com/track/7pehLR5YjBaDUucUgW8nMR) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Someday Best](https://open.spotify.com/album/42gORYjtEYqO5LSLJJ7ISZ) | 3:13 | 2024-05-07 |  |
 | [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 | 2024-04-23 |  |
 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 | 2022-10-19 |  |
 | [State of Love](https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/6NW8p8IBDzSJzQdcoiH5T6) | [State of Love](https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA) | 3:23 | 2022-05-25 | 2022-10-20 |

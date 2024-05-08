@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-46 songs - 2 hr 31 min
+48 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Baby Mama](https://open.spotify.com/track/2vF4tAlCnTCQnIFWLQ2VbL) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:14 | 2021-12-27 |  |
 | [Beautiful](https://open.spotify.com/track/3SylZsUCrHAlag6Q4BmYD7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 4:10 | 2021-12-27 |  |
 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 | 2021-12-27 |  |
+| [Black Jesus \(feat\. Symba, Kaydence, Deion Gill & WorldWide Fresh\)](https://open.spotify.com/track/2wZCIjijiD4WsFg79RtKXV) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Deion Gill](https://open.spotify.com/artist/0Lf5rJG1V3FTMTRPwDyXCG), [WorldWide Fresh](https://open.spotify.com/artist/40kAWYgoxqesnb9Tg2ciPd) | [Godfather of Harlem: Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/5iViiTpRnW92VTxZqIdn61) | 4:35 | 2024-05-07 |  |
 | [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 | 2021-12-27 |  |
 | [Borderline](https://open.spotify.com/track/3Yrmzj5kIcASKndfutrJjC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 5:12 | 2021-12-27 |  |
 | [Dumb Thingz](https://open.spotify.com/track/5RcMLdjofr40JUqei7d5qf) | [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 2:48 | 2021-12-27 |  |
@@ -49,6 +50,7 @@
 | [This Is Me…Now](https://open.spotify.com/track/6VppYiSO6xLJJGiwIMiZX5) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 4:13 | 2024-04-03 |  |
 | [To The People I Hurt](https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Midwest Kids Can Make It Big](https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X) | 3:23 | 2021-12-27 |  |
 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 | 2021-12-27 | 2022-10-24 |
+| [Unfuckwitable](https://open.spotify.com/track/0PuQItGL0eIngxLh2um4QE) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:44 | 2024-05-07 |  |
 | [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:44 | 2021-12-27 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-12-27 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7IIzlXlQ5zqMzVTcG5svrN) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me \(Part 1 \- Official Video\)](https://open.spotify.com/album/2Tv4to9QNN00K3RAZH9PNG) | 4:15 | 2024-01-14 | 2024-01-31 |

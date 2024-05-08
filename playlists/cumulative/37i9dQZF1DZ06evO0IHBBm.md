@@ -2,7 +2,7 @@
 
 ### [This Is Damares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IHBBm)
 
-> This Is Damares\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Damares\. The essential tracks, all in one playlist.
 
 58 songs - 5 hr 19 min
 

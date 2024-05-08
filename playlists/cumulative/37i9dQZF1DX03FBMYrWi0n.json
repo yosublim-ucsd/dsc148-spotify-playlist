@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223849,
+      "name": "Comfort, Edge",
+      "url": "https://open.spotify.com/track/473eMxGj5oXP0XQAwMVvXJ"
+    },
+    {
+      "album": {
         "name": "Comme tu le souhaites (Ding Dong)",
         "url": "https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac"
       },
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 243859,
       "name": "Dans tes r\u00eaves",
       "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"

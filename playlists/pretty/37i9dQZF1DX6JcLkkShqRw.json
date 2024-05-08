@@ -1,6 +1,6 @@
 {
   "description": "Flow sudamericano con Dani Ribba & Jesse Baez.",
-  "num_followers": 331663,
+  "num_followers": 331644,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
@@ -763,30 +763,6 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
-        "name": "EL AFTER DEL AFTER",
-        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "ONIRIA",
-          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
-        }
-      ],
-      "duration_ms": 137559,
-      "name": "24/7 6.5",
-      "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 283000,
       "name": "Escarlata - Remix",
       "url": "https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
+        "name": "EL AFTER DEL AFTER",
+        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "ONIRIA",
+          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
+        }
+      ],
+      "duration_ms": 137559,
+      "name": "24/7 6.5",
+      "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
-        "name": "DE LA P*TA",
-        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 188572,
-      "name": "DE LA P*TA",
-      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -1415,6 +1395,26 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
+        "name": "DE LA P*TA",
+        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 188572,
+      "name": "DE LA P*TA",
+      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
         "name": "SHERATON",
         "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
       },
@@ -1427,6 +1427,30 @@
       "duration_ms": 142040,
       "name": "SHERATON",
       "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
+        "name": "RADIO CLUB HITS",
+        "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        }
+      ],
+      "duration_ms": 130409,
+      "name": "YA NI YO ME ENTIENDO",
+      "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1479,42 +1503,26 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/3vhqthzJQx6ZF1AQsyprGD"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
-        "name": "CADA VEZ QUE",
-        "url": "https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
         },
         {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
         }
       ],
-      "duration_ms": 151417,
-      "name": "CADA VEZ QUE",
-      "url": "https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa"
+      "duration_ms": 195761,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1543,6 +1551,22 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
         "name": "Que Brille Sola Mami",
         "url": "https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC"
       },
@@ -1563,30 +1587,6 @@
       "duration_ms": 195004,
       "name": "Que Brille Sola Mami",
       "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
-        "name": "Tarzan",
-        "url": "https://open.spotify.com/album/3vhqthzJQx6ZF1AQsyprGD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
-        },
-        {
-          "name": "La Kikada",
-          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
-        }
-      ],
-      "duration_ms": 195761,
-      "name": "Tarzan",
-      "url": "https://open.spotify.com/track/2WuIvu6jnM0a6qho8bL4h3"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1619,26 +1619,6 @@
       "duration_ms": 197831,
       "name": "El Amanecer",
       "url": "https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1679,6 +1659,26 @@
       "duration_ms": 248571,
       "name": "NO APAGUES LA LUZ",
       "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -1847,6 +1847,42 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
+        "name": "CAMIONETOTA",
+        "url": "https://open.spotify.com/album/2toNsWrWckrup7Z2Hwp5ao"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 276315,
+      "name": "CAMIONETOTA",
+      "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
         "name": "Lo Que Valgo Es Caro (Parte 1)",
         "url": "https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8"
       },
@@ -1891,42 +1927,6 @@
       "duration_ms": 159967,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
-        "name": "CAMIONETOTA",
-        "url": "https://open.spotify.com/album/2toNsWrWckrup7Z2Hwp5ao"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 276315,
-      "name": "CAMIONETOTA",
-      "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
     },
     {
       "added_at": "2024-05-03 03:00:00",

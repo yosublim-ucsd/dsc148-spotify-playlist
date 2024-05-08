@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-237 songs - 15 hr 10 min
+238 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [I huset med deg](https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I huset med deg](https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU) | 3:23 | 2022-05-26 | 2023-01-23 |
 | [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 | 2022-10-25 |
 | [Ikke deg](https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt), [Magnus Grønneberg](https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM) | [Mellom disse 4 vegger](https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt) | 4:28 | 2021-12-16 | 2022-07-23 |
-| [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 |  |
+| [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 | 2024-05-08 |
 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 | 2021-12-16 |  |
 | [Ingenting å vera redd for](https://open.spotify.com/track/7pmF7HqeZveCXowtrBztY3) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ingenting å vera redd for](https://open.spotify.com/album/6bbyexRUsOZT7ePde0wtjv) | 3:43 | 2023-06-01 | 2023-10-20 |
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
@@ -143,6 +143,7 @@
 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 | 2021-12-16 |  |
 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 | 2021-12-16 |  |
 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 | 2021-12-16 |  |
+| [Klare eg å være her?](https://open.spotify.com/track/35dxdGcvjlwsri0eH4QpKx) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Klare eg å være her?](https://open.spotify.com/album/0bhfxkGkbIDpeSKRCd0gww) | 4:01 | 2024-05-02 |  |
 | [Kom Sommarvijnn](https://open.spotify.com/track/4Fd3PLV1eWKmWt3MvQp6kq) | [Tove Karoline Knutsen](https://open.spotify.com/artist/0H20aoTibm2Q403c4RD4Dk) | [Blå Kveill](https://open.spotify.com/album/6lAQCB6EzlD0mBAwWj84Zs) | 2:31 | 2022-01-06 | 2022-07-29 |
 | [Kommer du snart hjem](https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Kommer du snart hjem](https://open.spotify.com/album/01TKLXHh77apQPHag1FgAZ) | 4:16 | 2022-01-06 | 2022-05-13 |
 | [Kongen Av Ingenting](https://open.spotify.com/track/7i9MaELeXg5h6AZVLHkgTM) | [Johbru](https://open.spotify.com/artist/2h1VhxgeLNVn9VxkzlEhli) | [Kongen Av Ingenting](https://open.spotify.com/album/19x4mrX3ctHNseL2wiOf5f) | 4:17 | 2022-03-23 | 2022-04-22 |

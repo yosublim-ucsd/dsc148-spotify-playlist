@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: aiko
+> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Da\-iCE
 
-1,306 songs - 3 day 9 hr 20 min
+1,308 songs - 3 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [MANINGEN](https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR) | 2:51 | 2023-08-13 | 2023-09-11 |
 | [Marvelous Persona](https://open.spotify.com/track/2rDzzZW7FS8xixmu0O6Ohh) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Marvelous Persona](https://open.spotify.com/album/5u4gcYdolL38QVLf65SPMp) | 4:15 | 2022-11-20 | 2022-11-28 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-03 | 2022-09-12 |
+| [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-05-07 |  |
 | [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2023-02-01 | 2023-03-06 |
 | [Meidaimae](https://open.spotify.com/track/231UG79D3cxclM5WAkLWrO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Meidaimae](https://open.spotify.com/album/1aPnyYlDvtm7Xb83s6hdQ8) | 4:23 | 2022-03-21 | 2022-04-04 |
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2022-12-04 | 2023-02-02 |
@@ -939,6 +940,7 @@
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-25 | 2023-01-16 |
 | [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-06-30 | 2022-07-11 |
 | [バレンタインソング](https://open.spotify.com/track/7wXGR6MfXdyhu9SPwu1TXm) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [バレンタインソング](https://open.spotify.com/album/5K2mILUEXZHzFCpdreZv0j) | 2:43 | 2022-02-06 | 2022-02-14 |
+| [バーゲンセール](https://open.spotify.com/track/1s2zRN7iZsHAfAFVAp3yt5) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [バーゲンセール](https://open.spotify.com/album/095tdiHOZ8p8icawhCWW55) | 2:25 | 2024-05-07 |  |
 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 | 2022-03-13 | 2022-04-18 |
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-26 | 2023-12-05 |
 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 | 2023-10-22 | 2023-11-06 |
@@ -969,7 +971,7 @@
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2022-04-17 | 2022-04-25 |
 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 | 2024-04-16 |  |
 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 | 2022-08-28 | 2022-10-24 |
-| [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 | 2024-03-03 |  |
+| [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 | 2024-03-03 | 2024-05-08 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-10 | 2022-07-18 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-22 | 2023-11-27 |
 | [ホワイトキス](https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo) | [鈴木鈴木](https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev) | [ホワイトキス](https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf) | 4:34 | 2021-12-19 | 2022-01-24 |
@@ -1022,7 +1024,7 @@
 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 | 2023-12-10 | 2023-12-18 |
 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 | 2022-11-20 | 2022-11-28 |
 | [二十億光年の恋](https://open.spotify.com/track/62wjXTsTFCNL0Fe2XJ1GtQ) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [二十億光年の恋](https://open.spotify.com/album/3PZ8eYSa5ArDDOxA7W42CC) | 3:23 | 2023-02-05 | 2023-02-27 |
-| [二度寝](https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [二度寝](https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p) | 3:27 | 2024-02-04 |  |
+| [二度寝](https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [二度寝](https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p) | 3:27 | 2024-02-04 | 2024-05-08 |
 | [人間ごっこ](https://open.spotify.com/track/1x8BxQZ7JpGLPfqiP0H6WC) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間ごっこ](https://open.spotify.com/album/5DXwoxFKb3HqP1oPlrgem5) | 4:17 | 2022-07-24 | 2022-07-29 |
 | [人間として](https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [人間として](https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V) | 3:14 | 2024-04-23 |  |
 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 | 2024-01-21 | 2024-01-29 |

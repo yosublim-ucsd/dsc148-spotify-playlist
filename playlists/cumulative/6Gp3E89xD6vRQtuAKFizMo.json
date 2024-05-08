@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/56dgpvKJXrg1ymysmMP641"
+      },
+      "artists": [
+        {
+          "name": "Tr0n",
+          "url": "https://open.spotify.com/artist/4T8bFrAntMjQU5ekr6tH4u"
+        },
+        {
+          "name": "Tadeusz",
+          "url": "https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1YEr0NvOiH8WIIq5Qn9sCu"
+    },
+    {
+      "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
       },

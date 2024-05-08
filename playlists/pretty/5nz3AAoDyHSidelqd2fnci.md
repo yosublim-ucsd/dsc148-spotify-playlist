@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 48 min 18 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What If the Zombies Came](https://open.spotify.com/track/1C2sQS5ALwc4DmVTkf0iiT) | [Call Atlantis](https://open.spotify.com/artist/18wgr9laqerMI8i4b1mfy6) | [What If the Zombies Came](https://open.spotify.com/album/7rVjYbABG2fsd0ENBwqina) | 3:07 |
-| 2 | [Sun And Steel \- 1998 Remastered Version](https://open.spotify.com/track/3XbuNo1t4ijE5haKRuA4gU) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece Of Mind \(1998 Remastered Edition\)](https://open.spotify.com/album/3dFAfH33aNku65qm8IPS54) | 3:26 |
-| 3 | [Somos Mar y Arena](https://open.spotify.com/track/4dnTmXysdcGv01gPyLe0HR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:41 |
-| 4 | [Vermilion \- Alternate Mix; U.S\. Edit Full Length \[U.S\. Edit Full Length\]](https://open.spotify.com/track/2P3InepiBsZzL9riFWgqql) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:25 |
-| 5 | [Cómo Te Extraño Corazón](https://open.spotify.com/track/1H3zbNUiALTXvLVmS77UzT) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
-| 6 | [Sexo](https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:47 |
-| 7 | [Yours Immortally...](https://open.spotify.com/track/5AcjrL8YSvUHIeR2o3IkvF) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Hammer of the Witches](https://open.spotify.com/album/1HQzXaHfl8UOGb10cbPSWB) | 6:00 |
-| 8 | [Everything's Gonna Be Fine](https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Everything's Gonna Be Fine](https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ) | 3:39 |
-| 9 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
-| 10 | [Battle Theme \- Remastered 2011](https://open.spotify.com/track/2SiJLvbD4COJYcJ14LR3cf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol\. 2 / 1977\-1982\)](https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7) | 2:20 |
-| 11 | [Belong To The Wind](https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Belong To The Wind](https://open.spotify.com/album/2VbHINJMhuepw7PnR49mCa) | 2:21 |
-| 12 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 |
+| 1 | [i only said](https://open.spotify.com/track/7HVaCZKjnMgWi3tvdMZfzY) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:34 |
+| 2 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 |
+| 3 | [Broken Mirrors](https://open.spotify.com/track/0yA2P5Tfe9eLFQktjIdo0W) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/1ueojQqs9eBYzStz2uM5Dr) | 3:54 |
+| 4 | [Summernight City \- Live](https://open.spotify.com/track/58f0e6eTKS9HKtpikvsfRE) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Live In Midgard](https://open.spotify.com/album/1jNouEaHNN50SNkMViFbkt) | 5:10 |
+| 5 | [See Me in Shadow](https://open.spotify.com/track/2eYaFdU5NJD5Eh7e4gUORy) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Lucidity](https://open.spotify.com/album/57bvcWwg4FSZSqAm7scTWv) | 4:41 |
+| 6 | [Cachito](https://open.spotify.com/track/10G8vwLyG0SuJZWfjw1g1R) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:45 |
+| 7 | [The Noose](https://open.spotify.com/track/1tjF0qm7daUU8n14vSU7MO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/71FFTyyIGpwE7J6P84niiU) | 3:18 |
+| 8 | [Broken Photosynthesis](https://open.spotify.com/track/7C3SZHz0indXHNh1aCeoB7) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Geo](https://open.spotify.com/album/5Ou8IADLK3dlyAkplOcOgq) | 8:25 |
+| 9 | [Locomotive](https://open.spotify.com/track/5MfOq1iRw9dC8IrlsuyeLb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG) | 3:22 |
+| 10 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
+| 11 | [Bully](https://open.spotify.com/track/1mmhQcuoaD8e4UUjxeN7C7) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bully](https://open.spotify.com/album/2DIamLCLdxHz1NVlTYpmZ0) | 1:56 |
+| 12 | [Youth Gone Wild \- Skid Row cover](https://open.spotify.com/track/76w5mV4f5yHxYTfkVVEJLZ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Life Gone Wild EP](https://open.spotify.com/album/6HaA5J305jffYDQ78OaqV9) | 3:17 |
 
-Snapshot ID: `AAAAa9QYNRUFFUnstDFGvH97wUjtJrey`
+Snapshot ID: `AAAAbJeH6jKTmjsp4A46amefYyzKTl/Y`

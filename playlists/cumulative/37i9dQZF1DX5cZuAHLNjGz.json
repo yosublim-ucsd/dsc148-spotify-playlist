@@ -3483,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "Koka Mundeya",
+        "url": "https://open.spotify.com/album/3AO7roEjatUzR2pIyDmPub"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206780,
+      "name": "Koka Mundeya",
+      "url": "https://open.spotify.com/track/5yMfxwgIf29DGyTmfR5zBl"
+    },
+    {
+      "album": {
         "name": "Kudiyan Lahore Diyan",
         "url": "https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn"
       },
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 246449,
       "name": "Maghron La",
       "url": "https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8"

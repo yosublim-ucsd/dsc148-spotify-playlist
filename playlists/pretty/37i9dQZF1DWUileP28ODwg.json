@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a>",
-  "num_followers": 349073,
+  "num_followers": 349223,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -315,54 +315,6 @@
     {
       "added_at": "2024-05-03 04:29:27",
       "album": {
-        "name": "Jesus Changed My Life",
-        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 235651,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
-        "name": "Honestly, We Just Need Jesus",
-        "url": "https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Honestly, We Just Need Jesus",
-      "url": "https://open.spotify.com/track/18QDUhYX0DYLHueTr1Wzz7"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
@@ -383,6 +335,54 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
+        "name": "Honestly, We Just Need Jesus",
+        "url": "https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Honestly, We Just Need Jesus",
+      "url": "https://open.spotify.com/track/18QDUhYX0DYLHueTr1Wzz7"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 235651,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
     },
     {
       "added_at": "2024-05-03 04:29:27",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-05-03 04:29:27",
       "album": {
+        "name": "Miracle Time",
+        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Miracle Time",
+      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-05-03 04:29:27",
       "album": {
-        "name": "Miracle Time",
-        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Miracle Time",
-      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
         "name": "Hills Of Tyrone",
         "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
+        "name": "My Life Is Proof (Studio Sessions)",
+        "url": "https://open.spotify.com/album/0TDuvrKYKSZhld2IW3cfiA"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "duration_ms": 251450,
+      "name": "My Life Is Proof - Studio Sessions",
+      "url": "https://open.spotify.com/track/49WRG6DxWFrvHpYZsXNbuN"
     },
     {
       "added_at": "2024-05-03 04:29:27",
@@ -1383,22 +1399,6 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
-        "name": "My Life Is Proof (Studio Sessions)",
-        "url": "https://open.spotify.com/album/0TDuvrKYKSZhld2IW3cfiA"
-      },
-      "artists": [
-        {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
-        }
-      ],
-      "duration_ms": 251450,
-      "name": "My Life Is Proof - Studio Sessions",
-      "url": "https://open.spotify.com/track/49WRG6DxWFrvHpYZsXNbuN"
     },
     {
       "added_at": "2024-05-03 04:29:27",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-03 04:29:27",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
         "name": "Valor",
         "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 211327,
       "name": "Worst Days",
       "url": "https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
     },
     {
       "added_at": "2024-05-03 04:29:27",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2024-05-03 04:29:27",
       "album": {
+        "name": "Worthy One",
+        "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
+      },
+      "artists": [
+        {
+          "name": "CLINE",
+          "url": "https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj"
+        },
+        {
+          "name": "Mo Pitney",
+          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
+        }
+      ],
+      "duration_ms": 236806,
+      "name": "Worthy One",
+      "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
+    },
+    {
+      "added_at": "2024-05-03 04:29:27",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2024-05-03 04:29:27",
-      "album": {
-        "name": "Worthy One",
-        "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
-      },
-      "artists": [
-        {
-          "name": "CLINE",
-          "url": "https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj"
-        },
-        {
-          "name": "Mo Pitney",
-          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
-        }
-      ],
-      "duration_ms": 236806,
-      "name": "Worthy One",
-      "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
     },
     {
       "added_at": "2024-05-03 04:29:27",

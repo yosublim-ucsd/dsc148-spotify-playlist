@@ -4,7 +4,7 @@
 
 > 
 
-1,891 songs - 4 day 6 hr 4 min
+1,893 songs - 4 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2023-04-18 |  |
 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2023-12-30 |  |
 | [IZ\-US](https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-02-18 |  |
+| [Jacaranda](https://open.spotify.com/track/7J5fGbiPuhIlUR5BWuUPAL) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 1:44 | 2024-05-07 |  |
 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 | 2022-06-13 |  |
 | [Japan](https://open.spotify.com/track/6LwYUSaVJLdTwrziHEUSxM) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Japan](https://open.spotify.com/album/3UFmxeMjw1aX5kby38JvsY) | 2:54 | 2022-06-27 |  |
 | [Japan\-Japan](https://open.spotify.com/track/6sQ5hFVgGhORpU1o9HUhF6) | [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77) | [Japan\-Japan](https://open.spotify.com/album/0flcve8NYXoIQfzfiJe85A) | 3:33 | 2022-02-04 |  |
@@ -1359,7 +1360,7 @@
 | [renegade](https://open.spotify.com/track/0C6JBnGFFvYGVo535zaspL) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [FOAR EVERYWUN FRUM MIMI](https://open.spotify.com/album/128fUkIrhQFzVhP7M1oxQS) | 2:21 | 2022-02-04 |  |
 | [Replay \- Dorian Electra Remix](https://open.spotify.com/track/6l6XdpIyh6RJ4gmdqoz0D6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Chris Greatti](https://open.spotify.com/artist/1y0g68sGrAK0wbKfU8PUv0), [Count Baldor](https://open.spotify.com/artist/6PVWZrJ7N7zrg4Ljr6OfUN) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:49 | 2022-08-02 |  |
 | [Repo](https://open.spotify.com/track/35iQIXGIxGGNQum4KZaxkF) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Repo](https://open.spotify.com/album/63NTP8ZQgqj3VO0gtJNZoK) | 1:40 | 2021-08-05 |  |
-| [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-05 |  |
+| [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 | 2021-08-05 |  |
 | [Revolutionize](https://open.spotify.com/track/5ZRskCjLCZcdI3FjbZNpAb) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:44 | 2021-08-05 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-05 |  |
 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2022-02-18 |  |
@@ -1535,6 +1536,7 @@
 | [Squaring Up](https://open.spotify.com/track/6jQR5xXcEvCIu5cKpPf2Pm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:00 | 2022-04-03 |  |
 | [Stabbed Her to Death](https://open.spotify.com/track/7j6462dkdxpYhhhpmLHKBu) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [Cameron Azi](https://open.spotify.com/artist/6eGuRZs8HIfjgRPPkkD0Af) | [Satanic Prostitute](https://open.spotify.com/album/12wZUFIsldyDhaPneJX9iU) | 2:26 | 2022-04-05 |  |
 | [Stallion](https://open.spotify.com/track/7qzEXfsLxZU0Bc17oVaFaI) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 1:50 | 2023-04-13 |  |
+| [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 | 2024-05-07 |  |
 | [Stargirl Interlude](https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 1:51 | 2022-10-11 |  |
 | [Starry Cat](https://open.spotify.com/track/5KsZOcKZuVgu9bUlQtHXbi) | [Starry Cat](https://open.spotify.com/artist/7lKlhPmLxToffa6icA7vk3) | [Starry Cat](https://open.spotify.com/album/3KVP8EcIWaGWXQHq6uYkvA) | 1:41 | 2022-04-09 |  |
 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 | 2021-08-05 |  |

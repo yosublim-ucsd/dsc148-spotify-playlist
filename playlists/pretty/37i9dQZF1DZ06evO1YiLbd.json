@@ -1,12 +1,12 @@
 {
-  "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
-  "num_followers": 7226,
-  "original_name": "This Is \u6797\u3086\u3046\u304d",
+  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
+  "num_followers": 7225,
+  "original_name": "This Is Yuki Hayashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAACtL32jV6JTiSDpGkhKNtZv",
+  "snapshot_id": "ZjgdgAAAAACp3GVaAYcbyQhEQ4Naeve3",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 78680,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
+      "duration_ms": 159026,
+      "name": "\u96d1\u98df",
+      "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
-        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 159026,
-      "name": "\u96d1\u98df",
-      "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
+      "duration_ms": 78680,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 88653,
-      "name": "\u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226",
-      "url": "https://open.spotify.com/track/1NvJCQMA5afkAn3MOCF0YA"
+      "duration_ms": 87973,
+      "name": "\u304a\u308c\u306e\u52dd\u3061",
+      "url": "https://open.spotify.com/track/1y0ZUy5V0rmemuqLijpMYh"
     },
     {
       "added_at": null,
@@ -812,11 +812,11 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 87973,
-      "name": "\u304a\u308c\u306e\u52dd\u3061",
-      "url": "https://open.spotify.com/track/1y0ZUy5V0rmemuqLijpMYh"
+      "duration_ms": 88653,
+      "name": "\u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226",
+      "url": "https://open.spotify.com/track/1NvJCQMA5afkAn3MOCF0YA"
     }
   ],
-  "unique_name": "This Is \u6797\u3086\u3046\u304d",
+  "unique_name": "This Is Yuki Hayashi",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd"
 }

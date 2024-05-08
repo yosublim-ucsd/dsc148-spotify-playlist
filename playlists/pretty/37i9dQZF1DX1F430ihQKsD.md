@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,028 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,991 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Stuck Here](https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 3:11 |
 | 100 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 |
 
-Snapshot ID: `ZjRhQAAAAAA9p6WSEPHy/jArBrSIFEkd`
+Snapshot ID: `ZjqH/AAAAAB3205sse0p16ZBsmlf1rNP`

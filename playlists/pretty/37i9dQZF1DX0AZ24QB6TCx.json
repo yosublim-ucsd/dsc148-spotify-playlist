@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311169,
+  "num_followers": 311180,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Let You In (feat. East Forest)",
         "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Hold Your Breath",
+        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
+      },
+      "artists": [
+        {
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "Hold Your Breath",
+      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Hold Your Breath",
-        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
-      },
-      "artists": [
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        }
-      ],
-      "duration_ms": 191260,
-      "name": "Hold Your Breath",
-      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
     },
     {
       "added_at": "2024-02-23 00:01:00",

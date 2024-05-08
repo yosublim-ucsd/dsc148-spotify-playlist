@@ -1,12 +1,12 @@
 {
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
-  "num_followers": 1473,
+  "num_followers": 1474,
   "original_name": "This Is Fangclub",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAACLYTiX969Gdr/ah+FFEWJ3",
+  "snapshot_id": "ZjgdgAAAAACViSp5aKQHZommjeSLtOxu",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 267080,
+      "name": "Bad Words",
+      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Bad Words",
-      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Fedde Le Grand",
-  "num_followers": 271965,
+  "num_followers": 271956,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADROMTW1RCgyyT9O2O7nQhxorl5LEB8",
+  "snapshot_id": "AADRRzqlPbDT4hUwo7G3Q5xdTEvAdti+",
   "tracks": [
     {
       "added_at": "2024-05-02 22:36:49",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/1ZmgRaIKH95RpfP59UkkCS"
     },
     {
+      "added_at": "2024-05-07 11:23:34",
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/6UTg9bOa4onk9dE1vJRIsY"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 202633,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/4UyLsFc8HIcj7k4N6fXBWt"
+    },
+    {
       "added_at": "2024-05-02 22:36:49",
       "album": {
         "name": "Whole Lotta Drugs / Over The Edge",
@@ -219,6 +235,22 @@
       "duration_ms": 192812,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4xiat1EP72FQvPzB7hcqSf"
+    },
+    {
+      "added_at": "2024-05-07 11:21:02",
+      "album": {
+        "name": "Sola Summer of Rave 2021",
+        "url": "https://open.spotify.com/album/5aiSoy7io8mTjRXdlGRukI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 208406,
+      "name": "The Records",
+      "url": "https://open.spotify.com/track/18fApEcxDOp88JN8tgYzBL"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -305,28 +337,20 @@
       "url": "https://open.spotify.com/track/62bH6l8NHCAbIcpdyi7DWr"
     },
     {
-      "added_at": "2024-05-02 22:36:49",
+      "added_at": "2024-05-07 11:27:29",
       "album": {
-        "name": "I'm The Only One (Incl. Sebb Junior Remix)",
-        "url": "https://open.spotify.com/album/2voCn9HR3ZBR5GreiV8ND7"
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/40brUtZEu1GE9QWjNykxFU"
       },
       "artists": [
         {
-          "name": "Lello Russo",
-          "url": "https://open.spotify.com/artist/2S4bnqELtcWR0H7obaRkb2"
-        },
-        {
-          "name": "Alex Rai",
-          "url": "https://open.spotify.com/artist/4Pi9OzOLPwj1sdhpk6xQtr"
-        },
-        {
-          "name": "Venessa Jackson",
-          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 248914,
-      "name": "I'm The Only One",
-      "url": "https://open.spotify.com/track/3vZELslHncID3iBfQM4TEY"
+      "duration_ms": 217500,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/2QRGNzgsQVSHCKA3TqH23N"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -353,6 +377,46 @@
       "url": "https://open.spotify.com/track/6F25FmoNZ2ESMPmYWMbsIG"
     },
     {
+      "added_at": "2024-05-07 12:44:37",
+      "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+    },
+    {
+      "added_at": "2024-05-02 22:36:49",
+      "album": {
+        "name": "I'm The Only One (Incl. Sebb Junior Remix)",
+        "url": "https://open.spotify.com/album/2voCn9HR3ZBR5GreiV8ND7"
+      },
+      "artists": [
+        {
+          "name": "Lello Russo",
+          "url": "https://open.spotify.com/artist/2S4bnqELtcWR0H7obaRkb2"
+        },
+        {
+          "name": "Alex Rai",
+          "url": "https://open.spotify.com/artist/4Pi9OzOLPwj1sdhpk6xQtr"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "duration_ms": 248914,
+      "name": "I'm The Only One",
+      "url": "https://open.spotify.com/track/3vZELslHncID3iBfQM4TEY"
+    },
+    {
       "added_at": "2024-05-03 07:21:41",
       "album": {
         "name": "Heaven",
@@ -367,6 +431,42 @@
       "duration_ms": 165931,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1tY5yzx4n1A6ugSOrT1MlF"
+    },
+    {
+      "added_at": "2024-05-07 12:45:17",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Don't Know Me (feat. RAYE)",
+      "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
+    },
+    {
+      "added_at": "2024-05-07 11:31:38",
+      "album": {
+        "name": "Monsters EP",
+        "url": "https://open.spotify.com/album/2sXsjhBDbyzBzIoyRLO3pe"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/7EAECM8UkwVR5KZ9YDky9X"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -387,6 +487,26 @@
       "duration_ms": 147969,
       "name": "Take So Long (Find You)",
       "url": "https://open.spotify.com/track/3kc0DUCC4vyki0XZ1UqlQo"
+    },
+    {
+      "added_at": "2024-05-07 14:23:15",
+      "album": {
+        "name": "Magnets EP",
+        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 174444,
+      "name": "Post Malone (feat. RANI)",
+      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -455,6 +575,50 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
+    },
+    {
+      "added_at": "2024-05-07 14:23:43",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-05-07 11:23:56",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/3D5WSdG0iOswvYnskXfkEI"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "FABER",
+          "url": "https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/6xkFJfOr9SMCVN48RXNDIg"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -581,6 +745,22 @@
       "url": "https://open.spotify.com/track/3CMFv4UZjYZZh25VbxydOv"
     },
     {
+      "added_at": "2024-05-07 11:25:44",
+      "album": {
+        "name": "DFCW",
+        "url": "https://open.spotify.com/album/3h7Cs4gtHtdgRqi2ukWskK"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 240001,
+      "name": "DFCW",
+      "url": "https://open.spotify.com/track/1T8dzkxfuABDgXS0pG1fDf"
+    },
+    {
       "added_at": "2024-05-02 22:36:49",
       "album": {
         "name": "Sondans",
@@ -635,6 +815,22 @@
       "duration_ms": 219017,
       "name": "Destination Lost",
       "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
+    },
+    {
+      "added_at": "2024-05-07 11:28:05",
+      "album": {
+        "name": "To The Drum",
+        "url": "https://open.spotify.com/album/3ur4CVV93vxuczWOTxdErS"
+      },
+      "artists": [
+        {
+          "name": "PAX",
+          "url": "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+        }
+      ],
+      "duration_ms": 178329,
+      "name": "To The Drum",
+      "url": "https://open.spotify.com/track/4NEMVoMjqwr5saV77JuEI8"
     },
     {
       "added_at": "2024-05-02 22:36:49",
@@ -1623,6 +1819,26 @@
       "duration_ms": 152535,
       "name": "Forever (Stay Like This)",
       "url": "https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n"
+    },
+    {
+      "added_at": "2024-05-07 11:26:22",
+      "album": {
+        "name": "Bugging",
+        "url": "https://open.spotify.com/album/5yMpHR9d46PBIZW4baSOpp"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "FABER",
+          "url": "https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Bugging",
+      "url": "https://open.spotify.com/track/3G2WoX9eNTAMnhpnDnNHGI"
     },
     {
       "added_at": "2024-05-02 22:36:49",

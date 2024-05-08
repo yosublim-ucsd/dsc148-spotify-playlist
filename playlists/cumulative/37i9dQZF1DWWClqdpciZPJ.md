@@ -4,7 +4,7 @@
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-48 songs - 2 hr 34 min
+49 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Vespertine Bloom](https://open.spotify.com/track/0zNUdJY8eAChrMLrDqr5M8) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 オリジナルサウンドトラック 2](https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE) | 3:03 | 2024-04-05 |  |
 | [Vibrant](https://open.spotify.com/track/7hvQBz3iccysFp5Vdpzz96) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 来訪者編 オリジナルサウンドトラック](https://open.spotify.com/album/6W4Oxl69LS2U8uDokrBCMg) | 3:28 | 2024-04-05 |  |
 | [×\-game](https://open.spotify.com/track/0wA8J8cTPTMJghORaZV9Q5) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 1:23 | 2024-04-05 |  |
+| [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 | 2024-05-07 |  |
 | [ダブル・スタンダード](https://open.spotify.com/track/7ooSU8QHa7sMEyzl26uKPh) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ダブル・スタンダード \(Deluxe Edition\)](https://open.spotify.com/album/1LqaaFU8SxwhxBj9VZJogi) | 4:45 | 2024-04-05 |  |
 | [ミレナリオ](https://open.spotify.com/track/7plmMqYGjvBLv3AQvzmFmd) | [ELISA](https://open.spotify.com/artist/3Oe9PeZLoQuF3ysW6UjJgn) | [ミレナリオ](https://open.spotify.com/album/6poGPqIlTlOE86B8HKkxBO) | 4:57 | 2024-04-05 |  |
 | [名もない花](https://open.spotify.com/track/10sCOZbhdi3YmqOlb1B6Yd) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [名もない花](https://open.spotify.com/album/2kHbVp3UKa1vSYduTfdyaj) | 4:26 | 2024-04-05 |  |

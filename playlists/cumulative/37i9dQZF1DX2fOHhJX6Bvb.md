@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-144 songs - 7 hr 29 min
+145 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Does Your Mother Know](https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Does Your Mother Know](https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK) | 3:18 | 2024-02-09 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-09-29 |  |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2023-09-29 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/6h9S7j7sUjRnqdpA8zZ1Ru) | [Eliouh Perkins](https://open.spotify.com/artist/5sLbl0DJBQKhZ7vP9HoCQX) | [Don't Stop Believin'](https://open.spotify.com/album/5XFEwErfNQ0qwNrbmD53hk) | 3:32 | 2024-05-07 |  |
 | [Don't You Worry Child](https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Don't You Worry Child](https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx) | 3:38 | 2023-09-29 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2023-09-29 |  |
 | [Easy on me](https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:15 | 2023-09-29 |  |

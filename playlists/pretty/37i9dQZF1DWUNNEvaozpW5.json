@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury. ",
-  "num_followers": 571413,
+  "num_followers": 571475,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Cowboys de la A3",
+        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Cowboys de la A3",
+      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Cowboys de la A3",
-        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 276005,
-      "name": "Cowboys de la A3",
-      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
     },
     {
       "added_at": "2024-05-02 22:00:00",

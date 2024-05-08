@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 218322,
       "name": "El Okd",
       "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 224113,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 316969,
       "name": "Maktooba Leek",
       "url": "https://open.spotify.com/track/0M0j8QVE5DE2kg8xjK2BJ2"
@@ -4390,6 +4390,24 @@
       "duration_ms": 258700,
       "name": "\u062a\u0631\u062d\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
+        "url": "https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
+      "url": "https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet"
     },
     {
       "album": {

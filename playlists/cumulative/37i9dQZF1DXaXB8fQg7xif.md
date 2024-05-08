@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,097 songs - 2 day 11 hr 6 min
+1,098 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP) | 2:16 | 2020-05-22\* | 2022-04-21 |
 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 | 2021-05-29 | 2022-12-15 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2021-12-12 | 2022-07-29 |
-| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 |  |
+| [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 | 2024-05-08 |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-26 | 2024-04-19 |
 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-05-06 | 2021-05-28 |
 | [BUST](https://open.spotify.com/track/68T0u9Ko6ac1dKR3ObnrKl) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [BUST](https://open.spotify.com/album/0jknoqCr9mSeo3wPv4hdpR) | 3:38 | 2021-04-21 | 2021-12-21 |
@@ -983,6 +983,7 @@
 | [This Groove](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [This Groove](https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H) | 3:08 | 2020-05-22\* | 2022-04-21 |
 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2023-01-06 | 2023-07-31 |
 | [Thong Song](https://open.spotify.com/track/09JBbmL7Pmm1Zsus7BXHBG) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY) | [Thong Song](https://open.spotify.com/album/1ZabiqZwNMlcyO7q2kVFLs) | 2:51 | 2020-05-22\* | 2021-12-21 |
+| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-03 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-08-14 |  |
 | [Thunder In My Heart Again](https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Thunder In My Heart Again](https://open.spotify.com/album/23zNUuGV7aJRLnTJz19plD) | 2:37 | 2021-10-16 | 2022-07-10 |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-27 | 2021-10-13 |

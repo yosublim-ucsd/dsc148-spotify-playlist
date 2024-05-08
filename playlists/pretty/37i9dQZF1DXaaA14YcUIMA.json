@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 486167,
+  "num_followers": 486526,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -411,18 +411,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Enamorado De Un Fantasma",
-        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
+        "name": "Por El Mundo",
+        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 269466,
-      "name": "Enamorado De Un Fantasma",
-      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+      "duration_ms": 211346,
+      "name": "Adoro (with Armando Manzanero) - Remasterizado",
+      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -479,22 +483,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Por El Mundo",
-        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
+        "name": "Enamorado De Un Fantasma",
+        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Adoro (with Armando Manzanero) - Remasterizado",
-      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
+      "duration_ms": 269466,
+      "name": "Enamorado De Un Fantasma",
+      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Con El Coraz\u00f3n En La Mano",
-      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -543,22 +527,6 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Los Sonidos De Su Esp\u00edritu",
-        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Contra El Drag\u00f3n",
-      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -579,18 +547,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+        "name": "Los Sonidos De Su Esp\u00edritu",
+        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+      "duration_ms": 226386,
+      "name": "Contra El Drag\u00f3n",
+      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -611,18 +579,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Pero No Me Dejes",
-        "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 186026,
-      "name": "T\u00edtere",
-      "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -643,6 +611,38 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Con El Coraz\u00f3n En La Mano",
+      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Pero No Me Dejes",
+        "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "T\u00edtere",
+      "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "Bronco Amigo",
         "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
       },
@@ -655,6 +655,38 @@
       "duration_ms": 227120,
       "name": "Amigo Bronco - Remasterizado",
       "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Rosas Rojas",
+      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -687,54 +719,6 @@
       "duration_ms": 200973,
       "name": "Nubes De Algod\u00f3n",
       "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Rosas Rojas",
-      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/6uZkCMDKvKw5r6qaiYM3J2"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -783,6 +767,22 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "T\u00fa Me Quieres Lastimar",
         "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 215266,
       "name": "T\u00fa Me Quieres Lastimar",
       "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "En Su Punto",
-        "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Una Carta",
         "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "En Su Punto",
+        "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 214346,
       "name": "Un D\u00eda Sin Ti",
       "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Limosnero De Cari\u00f1o",
-      "url": "https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 205346,
       "name": "Me Quede Llorando",
       "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Limosnero De Cari\u00f1o",
+      "url": "https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "20 Aniversario",
-        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Dos Enamorados",
-      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
+      "duration_ms": 169146,
+      "name": "Cosas Buenas Que Parecen Malas",
+      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+        "name": "20 Aniversario",
+        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
       },
       "artists": [
         {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Cosas Buenas Que Parecen Malas",
-      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
+      "duration_ms": 221773,
+      "name": "Dos Enamorados",
+      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Soy El Mismo",
-        "url": "https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Melodia Desencadenada",
-      "url": "https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Tesoros De Coleccion - Los Chicanos",
         "url": "https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 220866,
       "name": "El Puente de Piedra",
       "url": "https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Soy El Mismo",
+        "url": "https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Melodia Desencadenada",
+      "url": "https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf"
     },
     {
       "added_at": "2024-02-23 00:06:39",

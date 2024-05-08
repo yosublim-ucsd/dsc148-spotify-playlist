@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-244 songs - 10 hr 31 min
+245 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Nuageuse](https://open.spotify.com/track/15Jr8uCKADkpUIHC2nTaqG) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Nuageuse](https://open.spotify.com/album/52DQEHqOhfkuQtFf68hDsf) | 1:38 | 2023-08-14 | 2023-08-22 |
 | [Ocean](https://open.spotify.com/track/5dvl86mdGqSkDHSqNLsyat) | [On My Mountain](https://open.spotify.com/artist/1S1gveleTY1zvIgitvnni1) | [Ocean](https://open.spotify.com/album/2NEzXX5tsoegZc6qFPXGrT) | 4:14 | 2023-04-03 | 2023-08-02 |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2023-04-03 | 2023-08-02 |
+| [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-05-07 |  |
 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 | 2024-03-25 |  |
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2023-04-03 |  |
 | [Oslnivý](https://open.spotify.com/track/3Sb2MXhccqLN6jqZEWSxDB) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Oslnivý](https://open.spotify.com/album/7aLiMkw1IoofXKM3Cf2XGy) | 2:18 | 2023-04-03 |  |

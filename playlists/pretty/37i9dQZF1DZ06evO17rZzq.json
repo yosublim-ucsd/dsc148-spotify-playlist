@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3311,
+  "num_followers": 3317,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABXwGELsSTQTYfL+sq0qh70",
+  "snapshot_id": "ZjgdgAAAAAC6Y3pXCVSHv0Us9Rx4gMDe",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
       "added_at": null,
@@ -967,18 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockers Dubstep Like Kelly",
-        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
       },
       "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 178714,
-      "name": "Rockers Step Like Kelly",
-      "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
     }
   ],
   "unique_name": "This Is Kaliii",

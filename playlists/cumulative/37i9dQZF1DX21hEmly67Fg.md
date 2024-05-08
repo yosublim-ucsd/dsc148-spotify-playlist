@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-208 songs - 11 hr 57 min
+209 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-21 |  |
 | [Bad Habits \- Piano Version](https://open.spotify.com/track/5J4NcyOSEjvKjOaJTPtYn3) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [Bad Habits \(Piano Version\)](https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP) | 3:23 | 2022-02-04 |  |
+| [Bad Moon Rising](https://open.spotify.com/track/7fOo5e67qKZg3NfgGO6SGL) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Bad Moon Rising](https://open.spotify.com/album/0nAtQD7Ff7AbEGwYSyyLLE) | 2:48 | 2024-05-07 |  |
 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 | 2021-11-25 |  |
 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 | 2021-11-25 |  |
 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-368 songs - 19 hr 42 min
+370 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Hess](https://open.spotify.com/track/4vaU4xiDGJvzFPT1x33tUn) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Hess](https://open.spotify.com/album/7lvh7khzciXblQxdBcbrfC) | 2:55 | 2023-10-13 | 2024-02-10 |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-05-03 |  |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-02-02 | 2024-02-24 |
-| [Hookah](https://open.spotify.com/track/7cvHCD5saebqTeNqhBggBn) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:08 | 2024-04-12 |  |
+| [Hookah](https://open.spotify.com/track/7cvHCD5saebqTeNqhBggBn) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:08 | 2024-04-12 | 2024-05-08 |
 | [HRTBRK 2 \- Ghenda Remix](https://open.spotify.com/track/46C40NsHk4P5dCxcCKpQvu) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [HRTBRK 2 \(Ghenda Remix\)](https://open.spotify.com/album/2w7rOS96WT19GY0thNwGyf) | 3:14 | 2023-04-21 | 2023-11-11 |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-22 |  |
@@ -171,6 +171,7 @@
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-02-02 | 2024-03-23 |
 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-12 | 2024-05-04 |
 | [Imaginaste](https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:18 | 2023-11-24 | 2023-12-15 |
+| [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-05-07 |  |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2023-12-14 | 2024-04-06 |
 | [J'ai fait semblant](https://open.spotify.com/track/7LpwE771Zw5pRek4bf2eeQ) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Nos vies \(Réédition\)](https://open.spotify.com/album/6wbIbesA1Nb4mbw6fgDJXH) | 2:54 | 2024-01-12 | 2024-03-02 |
 | [J'ai Payé](https://open.spotify.com/track/3Vu3obbIZnC91x4BRK38qQ) | [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [J'ai Payé](https://open.spotify.com/album/057TlUnn0QxiA4BWwNNJ6I) | 2:53 | 2023-10-20 | 2024-01-11 |
@@ -287,7 +288,7 @@
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-06-20 | 2023-12-14 |
 | [PLAVON](https://open.spotify.com/track/2VlZsX8huFxgfm3yoMCoRy) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [PLAVON](https://open.spotify.com/album/1jwo9ze4eyI9aGMXnH0rgL) | 2:31 | 2023-07-07 | 2023-09-16 |
 | [Pom pom pom](https://open.spotify.com/track/5i7ptm24QzqAiuqx6PQrLd) | [Kamnouze](https://open.spotify.com/artist/4gD7pjkmrDtA85YBMkg5GA) | [Rewind, Vol\. 2](https://open.spotify.com/album/0raHOetBS7QhT39vqPGgQH) | 4:11 | 2023-07-07 | 2024-01-06 |
-| [Pop Smoke](https://open.spotify.com/track/0a8EGtC7rANxO6sHx088Kr) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [En attendant Gambinerie](https://open.spotify.com/album/2l3zGViIn5pwXA3Xivj5Cq) | 1:04 | 2024-02-09 |  |
+| [Pop Smoke](https://open.spotify.com/track/0a8EGtC7rANxO6sHx088Kr) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [En attendant Gambinerie](https://open.spotify.com/album/2l3zGViIn5pwXA3Xivj5Cq) | 1:04 | 2024-02-09 | 2024-05-08 |
 | [Posa na bina](https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Posa na bina](https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8) | 2:36 | 2024-02-02 | 2024-04-06 |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-03-01 |  |
 | [Pour un pote \- Bande originale du film "Brice 3"](https://open.spotify.com/track/38sc2aKVyDG77l7kv6zBDZ) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Jean Dujardin](https://open.spotify.com/artist/1SNXHU6Ra98YVdhuoZC5FM) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 4:52 | 2024-03-29 | 2024-04-20 |
@@ -301,6 +302,7 @@
 | [Quotidien](https://open.spotify.com/track/5Xf6nxo3H4sV8yXirea3Po) | [Mastu](https://open.spotify.com/artist/4V9vRZSqYVOgad1sDuDPHb) | [Quotidien](https://open.spotify.com/album/1QAmqgFqRYd0TVieJdxfys) | 2:28 | 2024-04-12 |  |
 | [Rebenga](https://open.spotify.com/track/0WqcGZ1Qd1r1zIA1Os2l14) | [Bhk220](https://open.spotify.com/artist/5eL7Hq6SnfxhK6CFYBesK1) | [Rebenga](https://open.spotify.com/album/6BZzs3spqdRhtR3EZymbgT) | 2:08 | 2023-03-24 | 2023-08-26 |
 | [Reviens](https://open.spotify.com/track/1z7GbDQVPdRYFjShnxbT4x) | [NAIMA](https://open.spotify.com/artist/2g2MbXnceRu1A257H9GfFP) | [REVIENS](https://open.spotify.com/album/6xHDF3Qn0f3DUatjk8hIMC) | 4:08 | 2024-03-29 | 2024-04-20 |
+| [Ride](https://open.spotify.com/track/2CBymCr3yvqbxyZpLyZRbW) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:20 | 2024-05-07 |  |
 | [Rihanna](https://open.spotify.com/track/73RQVlMExXaeOi6mnlz3Bb) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [OCHO](https://open.spotify.com/album/50uhiL5gyoAvIBSsrjUP7i) | 2:41 | 2023-06-23 | 2024-03-16 |
 | [Roi](https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:42 | 2024-04-19 |  |
 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 | 2024-01-26 | 2024-02-17 |

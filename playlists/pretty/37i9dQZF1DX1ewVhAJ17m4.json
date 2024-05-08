@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 569633,
+  "num_followers": 569684,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 229555,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 229555,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "shut up & kiss me",
         "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
       },
@@ -559,18 +543,34 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
         }
       ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Girl Shaped Crater",
+        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 182855,
+      "name": "Girl Shaped Crater",
+      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Girl Shaped Crater",
-        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 182855,
-      "name": "Girl Shaped Crater",
-      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 176213,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "No Point Pretending (Song For Tour)",
-        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Bears In Trees",
-          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "No Point Pretending (Song For Tour)",
-      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -891,8 +871,28 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+        "name": "No Point Pretending (Song For Tour)",
+        "url": "https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        },
+        {
+          "name": "Bears In Trees",
+          "url": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "No Point Pretending (Song For Tour)",
+      "url": "https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Generational",
+        "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
+      "duration_ms": 129511,
+      "name": "Generational",
+      "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Generational",
-        "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 129511,
-      "name": "Generational",
-      "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "The Rot That Grows Inside My Chest",
-        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
-      },
-      "artists": [
-        {
-          "name": "Teenage Joans",
-          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "flare guns in the living room",
         "url": "https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "The Rot That Grows Inside My Chest",
+        "url": "https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Gonna Get Better",
+        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "duration_ms": 195694,
+      "name": "Gonna Get Better",
+      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Your Love Was My Drug Too",
         "url": "https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 186000,
       "name": "Your Love Was My Drug Too",
       "url": "https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
-      },
-      "artists": [
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

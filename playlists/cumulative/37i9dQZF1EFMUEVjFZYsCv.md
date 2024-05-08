@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-92 songs - 5 hr 29 min
+93 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Coming Home for Summer](https://open.spotify.com/track/2gKSQqtba0acZuweAtFfRd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:49 | 2024-03-28 |  |
 | [Deja Vu](https://open.spotify.com/track/12e5rUktNoga7mdtziCw33) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:03 | 2024-03-28 |  |
 | [Emergency](https://open.spotify.com/track/2UtpQrUYcBi8H0XehwU2Iq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:07 | 2024-03-28 |  |
+| [Emily](https://open.spotify.com/track/3c9mE11xM4xFdVd5Q3Wjg8) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:21 | 2024-05-07 |  |
 | [Empty Space](https://open.spotify.com/track/6GFfDRG1Sff3IZaD0TYro4) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:33 | 2024-03-28 |  |
 | [Faded](https://open.spotify.com/track/6BPqiMxyTyXMfoHQXA3W6O) | [The James Arthur Band](https://open.spotify.com/artist/5atItJPd0PaBNUZ1SPL2Cj) | [The EP Collection](https://open.spotify.com/album/5e08OiapHEomZYxyMEwjnA) | 3:08 | 2024-03-28 |  |
 | [Fall](https://open.spotify.com/track/4rhv5nnyAdhjvqRB8s9xr7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:42 | 2024-03-28 |  |

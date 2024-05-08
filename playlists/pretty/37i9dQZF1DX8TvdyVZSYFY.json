@@ -1,6 +1,6 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2058433,
+  "num_followers": 2058480,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Firestone (Live Acoustic Version)",
         "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 226345,
       "name": "Firestone - Live Acoustic Version",
       "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/5XUpYe7WySPsPoYXOMW5Hm"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj"
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
         }
       ],
-      "duration_ms": 243941,
-      "name": "I'm Yours - Live on HSN Live",
-      "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+      "duration_ms": 243941,
+      "name": "I'm Yours - Live on HSN Live",
+      "url": "https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Your Song (Acoustic)",
-        "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 181907,
-      "name": "Your Song - Acoustic",
-      "url": "https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "2U (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "2U - Acoustic Version",
-      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
       },
@@ -1343,6 +1311,38 @@
       "duration_ms": 178319,
       "name": "Umbrella - Acoustic Version",
       "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Your Song (Acoustic)",
+        "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181907,
+      "name": "Your Song - Acoustic",
+      "url": "https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "2U (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "2U - Acoustic Version",
+      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
+      },
+      "artists": [
+        {
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Francesco Yates",
-        "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
-      },
-      "artists": [
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "Sugar - Acoustic",
-      "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
         "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 216294,
       "name": "I Miss You (feat. Julia Michaels) - Acoustic",
       "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Francesco Yates",
+        "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
+      },
+      "artists": [
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "Sugar - Acoustic",
+      "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Over My Head (Cable Car)",
-        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
-      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 245780,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Over My Head (Cable Car)",
+        "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
+      "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Lullaby (Acoustic)",
         "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 237923,
       "name": "Lullaby - Acoustic",
       "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Slide (Acoustic Version)",
         "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 171611,
       "name": "Slide - Acoustic Version",
       "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Give Me Everything",
+        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 192542,
+      "name": "Give Me Everything",
+      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Give Me Everything",
-        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 192542,
-      "name": "Give Me Everything",
-      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Can't Stop The Feeling",
-        "url": "https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 263916,
-      "name": "Can't Stop The Feeling",
-      "url": "https://open.spotify.com/track/64mIsDq15574VzIws46Axl"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Can't Stop The Feeling",
+        "url": "https://open.spotify.com/album/5CeQ4zuJ9teoR2ma86vbg2"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 263916,
+      "name": "Can't Stop The Feeling",
+      "url": "https://open.spotify.com/track/64mIsDq15574VzIws46Axl"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2iMnzQdDe5pAQc49l20qmm"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 181406,
+      "name": "Naked - Acoustic",
+      "url": "https://open.spotify.com/track/4XE7tOwOJpWpBF8VdNShBf"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "All Night - EP",
         "url": "https://open.spotify.com/album/59t6DSn6GZfnvncn4KiGDq"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 183963,
       "name": "All Night - Acoustic",
       "url": "https://open.spotify.com/track/2Hi2tWANUXtd1URtLYgwne"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2iMnzQdDe5pAQc49l20qmm"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 181406,
-      "name": "Naked - Acoustic",
-      "url": "https://open.spotify.com/track/4XE7tOwOJpWpBF8VdNShBf"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7"
-      },
-      "artists": [
-        {
-          "name": "J-Que Beenz",
-          "url": "https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS"
-        }
-      ],
-      "duration_ms": 215578,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Firework",
         "url": "https://open.spotify.com/album/2JWf7ZxsOihbCK4gkbYxJm"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 187673,
       "name": "Firework - Acoustic",
       "url": "https://open.spotify.com/track/3rlpBpSe9ZE8KaW0X9IZ41"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7"
+      },
+      "artists": [
+        {
+          "name": "J-Que Beenz",
+          "url": "https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS"
+        }
+      ],
+      "duration_ms": 215578,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Beautiful Girls",
-        "url": "https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO"
-      },
-      "artists": [
-        {
-          "name": "J-Que Beenz",
-          "url": "https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS"
-        }
-      ],
-      "duration_ms": 238010,
-      "name": "Beautiful Girls",
-      "url": "https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 159728,
       "name": "Blow Your Mind (Mwah) - Acoustic",
       "url": "https://open.spotify.com/track/3oNx6aXliXRmJgw8rcqNtc"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO"
+      },
+      "artists": [
+        {
+          "name": "J-Que Beenz",
+          "url": "https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS"
+        }
+      ],
+      "duration_ms": 238010,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Let You Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4ymdSiRu5oOyfrJschvFLO"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 189347,
-      "name": "Let You Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/6k3WSp6MIic0wBk9uVjIXk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4WWf9oKJImzqOEI4y0DYdb"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 202882,
       "name": "Crazy - Acoustic",
       "url": "https://open.spotify.com/track/6ZQH025nw71Ifk0SXk10T3"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Let You Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4ymdSiRu5oOyfrJschvFLO"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 189347,
+      "name": "Let You Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/6k3WSp6MIic0wBk9uVjIXk"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3103,6 +3103,38 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/12Np842rdMCgCRfzOJZxiA"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 158881,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/04gk0AL1K1okgiAzBNwmfV"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Acoustic: The Collection",
+        "url": "https://open.spotify.com/album/4FVpFPHPAw8sBMyAPnEsrH"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "Be the One - Acoustic",
+      "url": "https://open.spotify.com/track/12GtyfSxSxWA1OtKA4Hxc0"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Autumn Hymns",
         "url": "https://open.spotify.com/album/31TBuVSW1iba7jmBGLOETq"
       },
@@ -3135,22 +3167,6 @@
       "duration_ms": 253613,
       "name": "No Air (feat. Chris Brown) - Acoustic Version",
       "url": "https://open.spotify.com/track/4oElMo1UEpdwVqtGFJBh8F"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Acoustic: The Collection",
-        "url": "https://open.spotify.com/album/4FVpFPHPAw8sBMyAPnEsrH"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "Be the One - Acoustic",
-      "url": "https://open.spotify.com/track/12GtyfSxSxWA1OtKA4Hxc0"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3207,18 +3223,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/12Np842rdMCgCRfzOJZxiA"
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Zak Manley",
+          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
         }
       ],
-      "duration_ms": 158881,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/04gk0AL1K1okgiAzBNwmfV"
+      "duration_ms": 133317,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3243,22 +3259,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/2XYnl9lZPDC1wO2WOKxX7d"
-      },
-      "artists": [
-        {
-          "name": "Zak Manley",
-          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
-        }
-      ],
-      "duration_ms": 133317,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/53EWpo23oiJ5gvO8KI7JMR"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
       },
@@ -3275,22 +3275,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/6SjOIo4dbaf01ySqGRsN8Y"
       },
@@ -3303,6 +3287,22 @@
       "duration_ms": 151791,
       "name": "These Days",
       "url": "https://open.spotify.com/track/7zcAFwEbHXNeIePVwMEIkS"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3339,22 +3339,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "The Line (Acoustic)",
-        "url": "https://open.spotify.com/album/6xJUKqYm7bcUXWdqUyTpSc"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "The Line - Acoustic",
-      "url": "https://open.spotify.com/track/4dStVNGbwUcLoO5NYJWAm0"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -3371,8 +3355,8 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Chariot - Stripped",
-        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+        "name": "Pure... Acoustic",
+        "url": "https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq"
       },
       "artists": [
         {
@@ -3380,9 +3364,25 @@
           "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
         }
       ],
-      "duration_ms": 299306,
-      "name": "Chariot - Stripped Version",
-      "url": "https://open.spotify.com/track/4wYIQRvu7JpP3h2v5o1IOe"
+      "duration_ms": 244040,
+      "name": "I Don't Want to Be - Stripped Version",
+      "url": "https://open.spotify.com/track/3iEbhxDtjiTI3u2IE9G48B"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "The Line (Acoustic)",
+        "url": "https://open.spotify.com/album/6xJUKqYm7bcUXWdqUyTpSc"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "The Line - Acoustic",
+      "url": "https://open.spotify.com/track/4dStVNGbwUcLoO5NYJWAm0"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3439,6 +3439,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Chariot - Stripped Version",
+      "url": "https://open.spotify.com/track/4wYIQRvu7JpP3h2v5o1IOe"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Kids (Acoustic)",
         "url": "https://open.spotify.com/album/1BvTka9QEvNj6jS56TIA75"
       },
@@ -3467,22 +3483,6 @@
       "duration_ms": 206364,
       "name": "Feel So Close",
       "url": "https://open.spotify.com/track/1WtXpaF4v2ukGOsjoxPcyF"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Pure... Acoustic",
-        "url": "https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "I Don't Want to Be - Stripped Version",
-      "url": "https://open.spotify.com/track/3iEbhxDtjiTI3u2IE9G48B"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3703,6 +3703,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/7id3nAKmstR48zGfB3oxzK"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3"
+        }
+      ],
+      "duration_ms": 246011,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/5LU0Ne1dHhwa9t7FOD2cFU"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Sexual (Acoustic)",
         "url": "https://open.spotify.com/album/2PMwsASR19sUkqvYDaz4RT"
       },
@@ -3719,22 +3735,6 @@
       "duration_ms": 165082,
       "name": "Sexual - Acoustic",
       "url": "https://open.spotify.com/track/0Z5Dfte5BtDqDm4FFgwa1D"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/7id3nAKmstR48zGfB3oxzK"
-      },
-      "artists": [
-        {
-          "name": "Sonya",
-          "url": "https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3"
-        }
-      ],
-      "duration_ms": 246011,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/5LU0Ne1dHhwa9t7FOD2cFU"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -3859,6 +3859,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/6SZCZGE84g4VTilIaGPaiT"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        }
+      ],
+      "duration_ms": 205862,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/2yVacQThAkWvHF0dEgIsFD"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Missing (Acoustic Version)",
         "url": "https://open.spotify.com/album/07paSMJcpkBLpnBaYrMcVh"
       },
@@ -3887,22 +3903,6 @@
       "duration_ms": 205706,
       "name": "Push The Button - Acoustic Version",
       "url": "https://open.spotify.com/track/2omf2plBkgW1x5SHYEFc6F"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/6SZCZGE84g4VTilIaGPaiT"
-      },
-      "artists": [
-        {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/2yVacQThAkWvHF0dEgIsFD"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4223,8 +4223,8 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Acoustic Hits",
-        "url": "https://open.spotify.com/album/1LWrSkK04xdY2L4sVuJZZx"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4yw6Rd1Te2q3AVWRDG224Z"
       },
       "artists": [
         {
@@ -4232,9 +4232,9 @@
           "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 243280,
-      "name": "Still Falling For You - Live",
-      "url": "https://open.spotify.com/track/148ogHFRdVmKcYJV04pdIK"
+      "duration_ms": 247468,
+      "name": "Only Girl In The World - Live Lounge Acoustic Version",
+      "url": "https://open.spotify.com/track/6SiVcj93hSwHvRUOvfr4Io"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4319,8 +4319,8 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4yw6Rd1Te2q3AVWRDG224Z"
+        "name": "Acoustic Hits",
+        "url": "https://open.spotify.com/album/1LWrSkK04xdY2L4sVuJZZx"
       },
       "artists": [
         {
@@ -4328,9 +4328,9 @@
           "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 247468,
-      "name": "Only Girl In The World - Live Lounge Acoustic Version",
-      "url": "https://open.spotify.com/track/6SiVcj93hSwHvRUOvfr4Io"
+      "duration_ms": 243280,
+      "name": "Still Falling For You - Live",
+      "url": "https://open.spotify.com/track/148ogHFRdVmKcYJV04pdIK"
     },
     {
       "added_at": "2023-10-23 17:16:00",

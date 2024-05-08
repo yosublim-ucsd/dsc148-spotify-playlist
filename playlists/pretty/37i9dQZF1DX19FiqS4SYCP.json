@@ -1,6 +1,6 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 131030,
+  "num_followers": 131033,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 162142,
-      "name": "Before The Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Para Que Baile Mi Pueblo",
         "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 187600,
       "name": "Se Me Antoja",
       "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Vivir Sin Ti",
-        "url": "https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU"
-      },
-      "artists": [
-        {
-          "name": "Proyekto Kumbia",
-          "url": "https://open.spotify.com/artist/3v9C8V5rYmya5EI96pku4W"
-        }
-      ],
-      "duration_ms": 189610,
-      "name": "Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/5Wyaap4fsKtDr8FPQO7Z6m"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
         "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 245581,
       "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
       "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Vivir Sin Ti",
+        "url": "https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU"
+      },
+      "artists": [
+        {
+          "name": "Proyekto Kumbia",
+          "url": "https://open.spotify.com/artist/3v9C8V5rYmya5EI96pku4W"
+        }
+      ],
+      "duration_ms": 189610,
+      "name": "Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/5Wyaap4fsKtDr8FPQO7Z6m"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Mas Tequila Por Favor",
+        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
+      },
+      "artists": [
+        {
+          "name": "Cristelo",
+          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Mas Tequila Por Favor",
+      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Cuando Me D\u00e9 la Gana",
         "url": "https://open.spotify.com/album/3r3a9WllDkWBl8Idoes2go"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 207517,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/6vMQHbiTjjqAEP3ZPZKYIQ"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Mas Tequila Por Favor",
-        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
-      },
-      "artists": [
-        {
-          "name": "Cristelo",
-          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Mas Tequila Por Favor",
-      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Una Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
-      },
-      "artists": [
-        {
-          "name": "Isabel Marie",
-          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Una Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Increible",
         "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 221640,
       "name": "Increible",
       "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Una Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
+      },
+      "artists": [
+        {
+          "name": "Isabel Marie",
+          "url": "https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Una Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Amigo Fiel",
+        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Amigo Fiel",
+      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 207463,
       "name": "Quiereme - Hard Core Tex-Mex Version",
       "url": "https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Amigo Fiel",
-        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
-      },
-      "artists": [
-        {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "Amigo Fiel",
-      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
-      },
-      "artists": [
-        {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
-        }
-      ],
-      "duration_ms": 209836,
-      "name": "Sed\u00faceme",
-      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193850,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 209836,
+      "name": "Sed\u00faceme",
+      "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
+      },
+      "artists": [
+        {
+          "name": "Andie Bustamante",
+          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "El Error M\u00e1s Bello",
         "url": "https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 242906,
       "name": "No Te Voy A Perder",
       "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
-      },
-      "artists": [
-        {
-          "name": "Andie Bustamante",
-          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Que Dolor",
-        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
-      },
-      "artists": [
-        {
-          "name": "George Salazar",
-          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Contigo Corazon",
         "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 195291,
       "name": "Contigo Corazon",
       "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Que Dolor",
+        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Esto No Es Amor",
-        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+        "name": "No Me Busques",
+        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Si Esto No Es Amor",
-      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+      "duration_ms": 228812,
+      "name": "No Me Busques",
+      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Me Busques",
-        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
+        "name": "Si Esto No Es Amor",
+        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
         }
       ],
-      "duration_ms": 228812,
-      "name": "No Me Busques",
-      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+      "duration_ms": 218000,
+      "name": "Si Esto No Es Amor",
+      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
     },
     {
       "added_at": "2023-09-13 20:37:36",

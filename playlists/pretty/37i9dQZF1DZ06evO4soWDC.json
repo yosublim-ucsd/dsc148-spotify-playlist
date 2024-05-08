@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 834,
+  "num_followers": 835,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAACRZzT4K8Nc1dN9jYkPRk42",
+  "snapshot_id": "ZjgdgAAAAACsYUxbsnqBuWSJUBN53zEh",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 96877,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 207807,
       "name": "The Cascade Blues",
       "url": "https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 96877,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 186270,
-      "name": "Collisions",
-      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 177024,
       "name": "Borders and Statelines",
       "url": "https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 180888,
-      "name": "Overwhelmed / Ill Prepared",
-      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 204533,
       "name": "Rinse and Repeat",
       "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 131542,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Isaac Bowen",
-      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 81016,
-      "name": "The Shimmie Shake",
-      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 176518,
       "name": "Get Sad, See Mates",
       "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
     },
     {
       "added_at": null,
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 92958,
-      "name": "C",
-      "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yossarian",
-        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Yossarian",
-      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+      "duration_ms": 197825,
+      "name": "Passed the Break",
+      "url": "https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 184518,
       "name": "Western Junction",
       "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yossarian",
+        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Yossarian",
+      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 197825,
-      "name": "Passed the Break",
-      "url": "https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO"
+      "duration_ms": 92958,
+      "name": "C",
+      "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
     },
     {
       "added_at": null,

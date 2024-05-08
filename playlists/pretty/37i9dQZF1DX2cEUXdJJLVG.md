@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,180 likes - 167 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,449 likes - 167 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 11 | [Been Thinkin' Bout You](https://open.spotify.com/track/7d9qw2DDMrqkufHeokZ80g) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [Worthington Callihan](https://open.spotify.com/artist/7fKXIeACOtgACUIiTbhdbc) | [Been Thinkin' Bout You](https://open.spotify.com/album/6M9QsxnttNHnijwyGf9OBR) | 2:10 |
 | 12 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 |
 | 13 | [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 |
-| 14 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
+| 14 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 15 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 |
 | 16 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 |
 | 17 | [Fishes](https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [We'll Talk Soon](https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p) | 4:22 |

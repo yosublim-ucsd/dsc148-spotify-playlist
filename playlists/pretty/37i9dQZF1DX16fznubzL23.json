@@ -1,6 +1,6 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 24987,
+  "num_followers": 25026,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -439,7 +439,7 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Gentility (feat. Wande Coal)",
+        "name": "Gentility",
         "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
       },
       "artists": [
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 138652,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -691,26 +675,18 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Breaking The Yoke Of Love",
-        "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 198039,
-      "name": "Breaking The Yoke Of Love",
-      "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
+      "duration_ms": 138652,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -735,6 +711,30 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Breaking The Yoke Of Love",
+        "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Breaking The Yoke Of Love",
+      "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
     },
     {
       "added_at": "2024-05-03 00:01:00",

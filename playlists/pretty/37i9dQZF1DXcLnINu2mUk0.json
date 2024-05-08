@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jo\u00e3o Maia Ferreira e Alex D'Alva.",
-  "num_followers": 45375,
+  "num_followers": 45394,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 179380,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 179380,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "O Que N\u00f3s Fomos",
-        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
-      },
-      "artists": [
-        {
-          "name": "Blutab",
-          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "O Que N\u00f3s Fomos",
-      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "\u00e2ngulo morto",
         "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "CINTIA",
-        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+        "name": "O Que N\u00f3s Fomos",
+        "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
       "artists": [
         {
-          "name": "Cozzy 2x",
-          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+          "name": "Blutab",
+          "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
         }
       ],
-      "duration_ms": 169376,
-      "name": "CINTIA",
-      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
+      "duration_ms": 158081,
+      "name": "O Que N\u00f3s Fomos",
+      "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 157499,
       "name": "Volkswagen Antigo",
       "url": "https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "CINTIA",
+        "url": "https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl"
+      },
+      "artists": [
+        {
+          "name": "Cozzy 2x",
+          "url": "https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM"
+        }
+      ],
+      "duration_ms": 169376,
+      "name": "CINTIA",
+      "url": "https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV"
     },
     {
       "added_at": "2024-05-02 23:00:00",

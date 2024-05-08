@@ -1,10 +1,10 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289330,
+  "num_followers": 289323,
   "original_name": "brisa",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZisYsAAAAABtkF5TRmuqLH93RfSS7X9V",
   "tracks": [
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Pagode Urbano #01",
-        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        }
-      ],
-      "duration_ms": 179820,
-      "name": "Quatro Da Manh\u00e3",
-      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Aperta Start",
         "url": "https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs"
       },
@@ -99,22 +83,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Carolina / Levemente",
-        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
         }
       ],
-      "duration_ms": 166615,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
+      "duration_ms": 179820,
+      "name": "Quatro Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -135,6 +115,26 @@
       "duration_ms": 180021,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Carolina / Levemente",
+        "url": "https://open.spotify.com/album/2LUEj94O0nQX7sHm2bSJm1"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -447,30 +447,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -491,6 +467,30 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Pagode Urbano #01",
-        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Pablo Bispo",
-          "url": "https://open.spotify.com/artist/3adohsexzGP8ljUjx3SZJy"
-        }
-      ],
-      "duration_ms": 203141,
-      "name": "Gingado Dela",
-      "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Pagode Urbano #01",
+        "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Pablo Bispo",
+          "url": "https://open.spotify.com/artist/3adohsexzGP8ljUjx3SZJy"
+        }
+      ],
+      "duration_ms": 203141,
+      "name": "Gingado Dela",
+      "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1811,26 +1811,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Mete o louco",
-        "url": "https://open.spotify.com/album/72ftJErLaJz9hZmQ23LlD7"
+        "name": "ar",
+        "url": "https://open.spotify.com/album/4eQYPIeLhpFL1CVfHoYJVG"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        },
-        {
-          "name": "Dow Raiz",
-          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+          "name": "ALV",
+          "url": "https://open.spotify.com/artist/4YmwzlFlJp7BgIHQ5PU7jU"
         }
       ],
-      "duration_ms": 232433,
-      "name": "Mete o louco",
-      "url": "https://open.spotify.com/track/7Ep1kMp6Wxw7xwYMm0xKZ5"
+      "duration_ms": 220988,
+      "name": "Manh\u00e3zinha",
+      "url": "https://open.spotify.com/track/12V3vic05JMryErPldrm1j"
     }
   ],
   "unique_name": "brisa",

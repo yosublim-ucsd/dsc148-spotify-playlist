@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 32203,
+  "num_followers": 32236,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABbxS42hHTfLbIf6ZYvU59i",
+  "snapshot_id": "ZjgdgAAAAABz3hVhd5L6gMKegyIyy+l2",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Town",
-        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 184174,
-      "name": "Trouble Town",
-      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church In A Chevy (Live Acoustic)",
         "url": "https://open.spotify.com/album/3MjtQxbVre9LdgtqaDyPGP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 243712,
       "name": "Church In A Chevy - Live Acoustic",
       "url": "https://open.spotify.com/track/4dh9oVIu0WYq5JixelIHS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Town",
+        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 184174,
+      "name": "Trouble Town",
+      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
     },
     {
       "added_at": null,

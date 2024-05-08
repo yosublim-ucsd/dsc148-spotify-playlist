@@ -2,9 +2,9 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
+> This is Bear McCreary\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 19 min
+88 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Infirmary](https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Seven: The Eye \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv) | 6:32 | 2024-03-31 | 2024-05-01 |
 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-12-01 |  |
 | [Letting Go](https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 9:25 | 2023-01-10 |  |
+| [Leviathan](https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [The Singularity](https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w) | 4:14 | 2024-05-08 |  |
 | [Lullaby of the Giants](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 | 2022-12-01 |  |
 | [Magni and Modi](https://open.spotify.com/track/2IQonQgsFc35BU5LUgF0ld) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 2:49 | 2023-03-19 | 2023-10-11 |
 | [Master Thyself](https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 3:46 | 2023-12-18 |  |
@@ -65,7 +66,7 @@
 | [Perseus](https://open.spotify.com/track/4fmCgtiBAmdBKdhmnACAMk) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Percy Jackson and the Olympians \(Original Series Soundtrack\)](https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8) | 4:22 | 2024-02-01 | 2024-02-17 |
 | [Pull of the Light \(feat\. Eivør\)](https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 1:44 | 2022-12-12 | 2024-02-07 |
 | [Raeb's Lament](https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:24 | 2022-12-01 |  |
-| [Streets of Nassau](https://open.spotify.com/track/1nPrf3oHOLeAwqG74VilNS) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 1:47 | 2024-04-28 |  |
+| [Streets of Nassau](https://open.spotify.com/track/1nPrf3oHOLeAwqG74VilNS) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 1:47 | 2024-04-28 | 2024-05-08 |
 | [Svartalfheim \(feat\. Eivør\)](https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 5:13 | 2022-12-01 |  |
 | [Tha Mi Sgith'n Fhogar Seo' \(feat\. Griogair Labhruidh\)](https://open.spotify.com/track/43B3H05TIJSGHeIN5Kqarz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:23 | 2023-09-15 | 2023-11-11 |
 | [The Black Rose](https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:26 | 2022-12-30 |  |

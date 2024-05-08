@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 462087,
+  "num_followers": 462199,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Brasileira (ddp Remix)",
-        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
       "artists": [
         {
-          "name": "9iusi",
-          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
-        },
-        {
-          "name": "ddp",
-          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
         }
       ],
-      "duration_ms": 116190,
-      "name": "Brasileira - ddp Remix",
-      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -159,18 +155,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "Brasileira (ddp Remix)",
+        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "9iusi",
+          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
+        },
+        {
+          "name": "ddp",
+          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 116190,
+      "name": "Brasileira - ddp Remix",
+      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
-      },
-      "artists": [
-        {
-          "name": "Becky Ford",
-          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "SETRA",
         "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 128571,
       "name": "Setra",
       "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
+      },
+      "artists": [
+        {
+          "name": "Becky Ford",
+          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
-      },
-      "artists": [
-        {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
-        }
-      ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+      },
+      "artists": [
+        {
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+        }
+      ],
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 164878,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 164878,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "Social Distancing EP",
+        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
+      },
+      "artists": [
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
+        }
+      ],
+      "duration_ms": 312304,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "Polar Circle",
         "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 150545,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Social Distancing EP",
-        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
-      },
-      "artists": [
-        {
-          "name": "Babsy",
-          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
-        }
-      ],
-      "duration_ms": 312304,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Passeggiata",
-        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
-      },
-      "artists": [
-        {
-          "name": "Vera Fernandez",
-          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Tavolo",
-      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Everytime (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
       },
@@ -679,18 +663,34 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Mind's Eye",
-        "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
+        "name": "Passeggiata",
+        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
       },
       "artists": [
         {
-          "name": "Hugo Mari",
-          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
+          "name": "Vera Fernandez",
+          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
         }
       ],
-      "duration_ms": 381662,
-      "name": "Kokiri Forest",
-      "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
+      "duration_ms": 135529,
+      "name": "Tavolo",
+      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
+      },
+      "artists": [
+        {
+          "name": "Best Friends Club",
+          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
+        "name": "Mind's Eye",
+        "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
       },
       "artists": [
         {
-          "name": "Best Friends Club",
-          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
+          "name": "Hugo Mari",
+          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
         }
       ],
-      "duration_ms": 347317,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
+      "duration_ms": 381662,
+      "name": "Kokiri Forest",
+      "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        },
-        {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
-        }
-      ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -879,22 +859,6 @@
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Carlito Archives",
-        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
-      },
-      "artists": [
-        {
-          "name": "Carlo",
-          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
-        }
-      ],
-      "duration_ms": 363960,
-      "name": "Anything Else Feat. Alix Edwards",
-      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -915,6 +879,42 @@
       "duration_ms": 293764,
       "name": "A Piece of Mind",
       "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+        }
+      ],
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Carlito Archives",
+        "url": "https://open.spotify.com/album/27Jl3uPG5MgOGp7enJJvTg"
+      },
+      "artists": [
+        {
+          "name": "Carlo",
+          "url": "https://open.spotify.com/artist/4Ip5zlFraFIrxciG5Luxlo"
+        }
+      ],
+      "duration_ms": 363960,
+      "name": "Anything Else Feat. Alix Edwards",
+      "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "The Personality",
-        "url": "https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 352727,
-      "name": "The Personality",
-      "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Limb Valley",
         "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 450020,
       "name": "Endcliffe Park",
       "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "The Personality",
+        "url": "https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 352727,
+      "name": "The Personality",
+      "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
     },
     {
       "added_at": "2024-04-19 04:01:00",

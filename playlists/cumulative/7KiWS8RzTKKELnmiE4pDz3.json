@@ -3535,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
+    },
+    {
+      "album": {
         "name": "Spaz&B",
         "url": "https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL"
       },

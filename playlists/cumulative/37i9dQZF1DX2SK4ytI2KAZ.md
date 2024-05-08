@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-576 songs - 1 day 7 hr 40 min
+577 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 | 2022-06-27 | 2022-11-09 |
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-07 | 2023-08-22 |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-28 |  |
-| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 |  |
+| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 | 2024-05-08 |
 | [High](https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [High](https://open.spotify.com/album/0FYyTg1VD43MPJygKRURKw) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [High](https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young Rising Sons](https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50) | 2:45 | 2022-06-27 | 2023-05-26 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-06-27 | 2022-11-13 |
@@ -283,6 +283,7 @@
 | [Level of Concern](https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Level of Concern](https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY) | 3:40 | 2021-03-10 |  |
 | [Lies](https://open.spotify.com/track/69L4OE9RDpoRSBbp9K1vJq) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Culture Wars](https://open.spotify.com/album/1xxaSUWq0IGLG2trGgUG20) | 3:22 | 2022-03-11 | 2022-04-20 |
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-06-27 |  |
+| [Light On](https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Light On](https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU) | 3:53 | 2024-05-05 |  |
 | [Lights Down](https://open.spotify.com/track/1JkOqfiFIafUmq1yrJTlfj) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Lights Down](https://open.spotify.com/album/1LgDq2kPnfRvqFYq8oIrcw) | 3:08 | 2022-02-04 | 2022-04-20 |
 | [Live A Little](https://open.spotify.com/track/4S0IPaVHzkraym4ue5NZFG) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/7tWKjGBObemhc67JFnpX4b) | 2:49 | 2021-03-10 | 2022-07-29 |
 | [Live A Little](https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK) | 2:49 | 2022-06-27 | 2023-12-02 |

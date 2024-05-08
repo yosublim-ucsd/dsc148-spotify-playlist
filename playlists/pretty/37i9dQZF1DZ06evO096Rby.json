@@ -1,12 +1,12 @@
 {
   "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 30747,
+  "num_followers": 30806,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAADmDuJ9DYra0BaOQIkQrjQS",
+  "snapshot_id": "ZjgdgAAAAADk9UZFS1mU0VfCS+5mCH1v",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Muchas Ganas (En Vivo)",
         "url": "https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 271189,
       "name": "Con Muchas Ganas (En Vivo)",
       "url": "https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es por Ella",
-        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 170908,
-      "name": "No Es por Ella",
-      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 204437,
       "name": "Le Compre Casa A Mi Ama",
       "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es por Ella",
+        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 170908,
+      "name": "No Es por Ella",
+      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
     },
     {
       "added_at": null,

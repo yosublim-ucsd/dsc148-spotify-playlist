@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week's new additions to KEXP's rotation! You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community <a href="https://www.kexp.org/">HERE</a>.
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 694 likes - 63 songs - 3 hr 44 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 699 likes - 63 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Callie Day, Terrell Grice, Sheléa and more
+> With Callie Day, Terrell Grice, Samoht and more
 
 1,369 songs - 4 day 3 hr 42 min
 

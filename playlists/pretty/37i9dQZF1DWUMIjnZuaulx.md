@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:3NYwlCIjzmWwNdLPGT9UV8">Phil Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,622 likes - 101 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,711 likes - 101 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

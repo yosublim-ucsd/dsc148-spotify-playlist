@@ -2,7 +2,7 @@
 
 ### [This Is Pancho Barraza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU)
 
-> This is Pancho Barraza\. The essential tracks, all in one playlist.
+> This is Pancho Barraza\. Track\-track unggulan, semuanya dalam satu playlist.
 
 87 songs - 4 hr 58 min
 

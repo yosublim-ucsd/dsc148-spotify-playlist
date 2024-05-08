@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,291 likes - 65 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 65 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,22 +45,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 35 | [Domino](https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:37 |
 | 36 | [Nadie Sabe](https://open.spotify.com/track/4xwWZDoe2rD5pVPnOE4rle) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Será Que Ahora Podremos Entendernos](https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4) | 4:50 |
 | 37 | [1/2 Día](https://open.spotify.com/track/123Ol7WZAqaZqOTXS5eHBi) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Obrigaggi](https://open.spotify.com/album/7g0kxl7mi7E5YLKiDd1f5t) | 5:32 |
-| 38 | [Shape](https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Interiors](https://open.spotify.com/album/5XIkLswshaViwFERckpk0j) | 4:57 |
-| 39 | [FYT](https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [FYT](https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j) | 2:27 |
+| 38 | [FYT](https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [FYT](https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j) | 2:27 |
+| 39 | [Shape](https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Interiors](https://open.spotify.com/album/5XIkLswshaViwFERckpk0j) | 4:57 |
 | 40 | [Corpses In Regalia](https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Relatives In Descent](https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR) | 2:43 |
 | 41 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 42 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 |
 | 43 | [Hello Tarantino](https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Paper Dolls](https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D) | 2:00 |
 | 44 | [Todo Lo Que Querías Saber](https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Pies sobre la tierra](https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB) | 4:31 |
-| 45 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 |
-| 46 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
+| 45 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
+| 46 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 |
 | 47 | [Wako](https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:57 |
 | 48 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
-| 49 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 |
+| 49 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 |
 | 50 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
 | 51 | [Mirrorage](https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Ring](https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7) | 3:39 |
-| 52 | [Los Alan Anaya Rifa](https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Alan Anaya](https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 2:38 |
-| 53 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |
+| 52 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |
+| 53 | [Los Alan Anaya Rifa](https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Alan Anaya](https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 2:38 |
 | 54 | [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 |
 | 55 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
 | 56 | [Itaca Tropical](https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Habits EP](https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm) | 3:01 |

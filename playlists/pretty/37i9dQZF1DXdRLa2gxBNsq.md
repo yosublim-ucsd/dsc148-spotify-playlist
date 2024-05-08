@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,269 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,295 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 21 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 |
 | 22 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 |
 | 23 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
-| 24 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
+| 24 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 |
 | 25 | [A.c.a.b.](https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [El Rodillo del Kaos](https://open.spotify.com/album/3lu6CnUfdYKLipTuMFyo65) | 4:55 |
-| 26 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 |
+| 26 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 |
 | 27 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 |
 | 28 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 |
 | 29 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 65 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 66 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 67 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 68 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 |
-| 69 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
+| 68 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
+| 69 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 |
 | 70 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 71 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 72 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 74 | [Su Acierto](https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Su Acierto](https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr) | 2:45 |
 | 75 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 | 76 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 77 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 |
-| 78 | [Niños Dinamita \- Directo](https://open.spotify.com/track/57WsYXP7otMVSiaPR6sjnk) | [The Guilty Brigade](https://open.spotify.com/artist/1SrQZibiED53Cw8gNbn9bz) | [Directos a Matar](https://open.spotify.com/album/2oBeEh5wkI3dhpxqMnAux4) | 2:45 |
+| 77 | [Niños Dinamita \- Directo](https://open.spotify.com/track/57WsYXP7otMVSiaPR6sjnk) | [The Guilty Brigade](https://open.spotify.com/artist/1SrQZibiED53Cw8gNbn9bz) | [Directos a Matar](https://open.spotify.com/album/2oBeEh5wkI3dhpxqMnAux4) | 2:45 |
+| 78 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 |
 | 79 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 |
 | 80 | [Torero](https://open.spotify.com/track/6ucEJS53tFLP3zKbixZJUt) | [Toke a Degüello](https://open.spotify.com/artist/2rvdyWbtUPGIgP0dooeLBa) | [Torero](https://open.spotify.com/album/2HMwYgoqp39JJCDnbN7G5z) | 1:27 |
 | 81 | [Águila de San Juan](https://open.spotify.com/track/6oW0Inpf6H8MdB2J0CkiQA) | [Agujero de Salida](https://open.spotify.com/artist/7D0L7Vm6qrkih6yhdMkWwh) | [Águila de San Juan](https://open.spotify.com/album/37g6iRobVhDKTLMovkCNAM) | 3:31 |

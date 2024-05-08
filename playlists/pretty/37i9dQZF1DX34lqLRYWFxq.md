@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Dear Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,049 likes - 100 songs - 5 hr 32 min
+[](https://open.spotify.com/user/null) - 10,216 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [We Don't Wanna Talk](https://open.spotify.com/track/0DpAom4SDZKwTJ4q48AapD) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [We Don't Wanna Talk](https://open.spotify.com/album/7D1VbhHo0WIsmsgkxcX3io) | 2:39 |
 | 100 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 |
 
-Snapshot ID: `ZjRhQAAAAABLcGO/fIt2+ZsUt2k1R/Gi`
+Snapshot ID: `ZjqHgQAAAADZt+aaMHGNkGnSoK85664l`

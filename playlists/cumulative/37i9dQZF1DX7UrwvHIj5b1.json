@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Bad Boi",
+        "url": "https://open.spotify.com/album/3rocuCUfEp8otpdwkfwF4S"
+      },
+      "artists": [
+        {
+          "name": "Ganyaman",
+          "url": "https://open.spotify.com/artist/67ay2OgHoJ9fy8wo5eD20c"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Bad Boi",
+      "url": "https://open.spotify.com/track/5NtihQEpwnrUvSBaA2tJEa"
+    },
+    {
+      "album": {
         "name": "all:Lo compilation vol:1",
         "url": "https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l"
       },
@@ -284,6 +302,24 @@
       "duration_ms": 352653,
       "name": "Cryptic",
       "url": "https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi"
+    },
+    {
+      "album": {
+        "name": "Cursed Zoo",
+        "url": "https://open.spotify.com/album/67V08qIndl5PXTLWV2zeRB"
+      },
+      "artists": [
+        {
+          "name": "No Man In Sight",
+          "url": "https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160291,
+      "name": "Cursed Zoo",
+      "url": "https://open.spotify.com/track/0eCYDg7VkmlyQSywoU6P4x"
     },
     {
       "album": {
@@ -847,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/2rIFm28ANwiy57hT98dyjb"
+      },
+      "artists": [
+        {
+          "name": "BamJam",
+          "url": "https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/7LTpf2Jwk9bnBVtVlBSMgq"
+    },
+    {
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9"
       },
@@ -1042,7 +1096,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 286324,
       "name": "Nu Era Dub",
       "url": "https://open.spotify.com/track/6mD3RkOwL0sBjCAD8ky0uu"
@@ -1320,7 +1374,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 223853,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7"
@@ -1422,6 +1476,24 @@
       "duration_ms": 260575,
       "name": "Slow Waves",
       "url": "https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8"
+    },
+    {
+      "album": {
+        "name": "Sonorous",
+        "url": "https://open.spotify.com/album/3KsZDXO7QwFtRv6OmMtjW2"
+      },
+      "artists": [
+        {
+          "name": "Dark Tempest",
+          "url": "https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131330,
+      "name": "Sonorous",
+      "url": "https://open.spotify.com/track/6nQtlFXsNFH9ReIkinLKCc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 103 songs - 5 hr 46 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 105 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 101 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 102 | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL) | 3:09 |
 | 103 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 |
+| 104 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 |
+| 105 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 |
 
-Snapshot ID: `AAAclxAy/2ZiXfoqfLtd/qrcX7ycYGpp`
+Snapshot ID: `AAAcmfLE5bqeKRI6PGgg+7EHDo5muCDs`

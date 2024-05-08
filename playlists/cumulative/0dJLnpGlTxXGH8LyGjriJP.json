@@ -1513,6 +1513,32 @@
     },
     {
       "album": {
+        "name": "Back To Back (feat. Future & Southside)",
+        "url": "https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185094,
+      "name": "Back To Back (feat. Future & Southside)",
+      "url": "https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },

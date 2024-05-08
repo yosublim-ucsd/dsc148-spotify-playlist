@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,380 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,638 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 5 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 6 | [怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/track/0EvDOTLaexjz9U1YK3Jqvw) | [『名探偵コナン 100万ドルの五稜星（みちしるべ）』](https://open.spotify.com/artist/7BWZsYErxiT1PMDAcMVtxY) | [劇場版『名探偵コナン 100万ドルの五稜星（みちしるべ）』怪盗キッドからのスペシャルメッセージ！](https://open.spotify.com/album/7a6swUDYbaGoR7pjDt7X9l) | 0:35 |
 | 7 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
-| 8 | [\#3 劇場版【名探偵コナン 黒鉄の魚影】  高山みなみ×林原めぐみ×立川譲監督「とっても仲良し！でもスタジオの外では…？」](https://open.spotify.com/episode/4q1HlCcZHn29EbmDpwhqje) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 40:52 |
+| 8 | [第4回 高山みなみ×堀川りょう「和葉が絡むとダメなんだよ、平次は！」](https://open.spotify.com/episode/69LaHjrLQY7hqCzglhp9MF) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 28:38 |
 | 9 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 | 10 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
 | 11 | [BLUE SAPPHIRE \- 劇場版「名探偵コナン 紺青の拳」ver.](https://open.spotify.com/track/2GcMsWWplrmVUOpjZJGwoZ) | [Hiroomi Tosaka](https://open.spotify.com/artist/4lsSLCTKrmfULsRivqAShx) | [BLUE SAPPHIRE \(劇場版「名探偵コナン 紺青の拳」ver.\)](https://open.spotify.com/album/5aLaVAEs9778S0GlDQOXdq) | 3:52 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 47 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
 | 48 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
 
-Snapshot ID: `ZjBS/QAAAABQ1gGH6cbGvxG9JjjsIsp/`
+Snapshot ID: `ZjmxJAAAAACjGJ/W6zuM6MNnkYP803ih`

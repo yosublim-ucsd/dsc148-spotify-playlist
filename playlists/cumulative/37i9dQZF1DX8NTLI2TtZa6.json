@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Monza",
+        "url": "https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk"
+      },
+      "artists": [
+        {
+          "name": "Lorcan \u00d3 Faol\u00e1in",
+          "url": "https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133811,
+      "name": "Monza",
+      "url": "https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw"
+    },
+    {
+      "album": {
         "name": "Moonlit Waltz",
         "url": "https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj"
       },
@@ -7178,6 +7196,24 @@
       "duration_ms": 145673,
       "name": "Seven Hills Of Rome",
       "url": "https://open.spotify.com/track/0SQETkWleYzqYASQ2WPxxZ"
+    },
+    {
+      "album": {
+        "name": "Seveso",
+        "url": "https://open.spotify.com/album/41jYnRNWAEYbSv8BHuEC2w"
+      },
+      "artists": [
+        {
+          "name": "Nerina Fiore",
+          "url": "https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164082,
+      "name": "Seveso",
+      "url": "https://open.spotify.com/track/3PydkaPNaOhEluH8Zv2CXP"
     },
     {
       "album": {

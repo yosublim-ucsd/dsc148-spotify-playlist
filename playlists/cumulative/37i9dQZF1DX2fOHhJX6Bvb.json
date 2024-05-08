@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop Believin'",
+        "url": "https://open.spotify.com/album/5XFEwErfNQ0qwNrbmD53hk"
+      },
+      "artists": [
+        {
+          "name": "Eliouh Perkins",
+          "url": "https://open.spotify.com/artist/5sLbl0DJBQKhZ7vP9HoCQX"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/6h9S7j7sUjRnqdpA8zZ1Ru"
+    },
+    {
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx"
       },

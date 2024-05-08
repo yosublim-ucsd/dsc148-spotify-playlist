@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-563 songs - 1 day 17 hr 27 min
+564 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Abusey Junction](https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 7:04 | 2023-07-10 | 2024-04-19 |
 | [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 | 2023-10-20 |
 | [Achinkad](https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk) | 4:16 | 2023-12-15 | 2024-04-19 |
-| [Achinkad](https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 4:16 | 2023-07-10 |  |
+| [Achinkad](https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 4:16 | 2023-07-10 | 2024-05-08 |
 | [Acosadora \- Radio Edit](https://open.spotify.com/track/1CppY4y3oYEv6NIC4w9irf) | [La Misa Negra](https://open.spotify.com/artist/0Q6BYEUIIzKDzxFd4sRD8h) | [La Misa Negra](https://open.spotify.com/album/16j4GvZ0iM29F0eyRjwQD6) | 3:52 | 2023-07-10 | 2024-04-19 |
 | [Acredita No Véio \(Listen To The Old Man\)](https://open.spotify.com/track/0RSiFen1SUT1zJKNR5GD8K) | [Pelé](https://open.spotify.com/artist/6Jl5aPUnvKIHTvwlz75CcO), [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Acredita No Véio \(Listen to the Old Man\)](https://open.spotify.com/album/1oAlMjCrX96EszL3w9bjBR) | 3:34 | 2024-03-08 |  |
 | [Adwa](https://open.spotify.com/track/3tPU9qd7xkzgDpKvqEd1eG) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 5:56 | 2023-07-10 | 2024-04-19 |
@@ -186,6 +186,7 @@
 | [El Sol Avenue](https://open.spotify.com/track/4b2nHQaYdBp61I4stPq1s4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 4:33 | 2023-07-10 |  |
 | [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2023-07-10 | 2024-04-19 |
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2023-07-10 |  |
+| [Entangled](https://open.spotify.com/track/573mcdFJoIUOXgXX7mNIUV) | [Mamak Khadem](https://open.spotify.com/artist/7JHzjpBoyYwTCkt5T66uPx) | [Entangled](https://open.spotify.com/album/11oSUBbZckt3w3Etj5NZez) | 4:17 | 2024-03-08 |  |
 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 4:58 | 2023-07-10 |  |
 | [Et si je t’aime](https://open.spotify.com/track/5iPebTaUmx7x5KwwamTNh5) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 2:06 | 2023-07-10 | 2024-04-19 |
 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 | 2023-07-10 |  |

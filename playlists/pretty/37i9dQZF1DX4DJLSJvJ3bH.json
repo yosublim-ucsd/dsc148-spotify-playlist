@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118555,
+  "num_followers": 118550,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Warm In December (Edit)",
-        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 161210,
-      "name": "Warm In December - Edit",
-      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Candy Canes and Silver Lanes",
         "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Warm In December (Edit)",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Warm In December - Edit",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "Winter Serenade",
         "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Winter Blessings",
         "url": "https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 250713,
       "name": "Winter Blessings",
       "url": "https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "A Joyful Holiday",
-        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 138556,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "A Joyful Holiday",
+        "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Do you hear what I hear",
-        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 128886,
-      "name": "Do you hear what I hear",
-      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 180517,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Do you hear what I hear",
+        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 128886,
+      "name": "Do you hear what I hear",
+      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Here We Come A-Caroling",
         "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 143808,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 152101,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/481ygPSZj9JRa09EFXbOBh"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 166173,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6M4wVZ5uXhKU9PvSpfuNEM"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/79KEShiLANv3mCRiMRFQ9Y"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "Happy Xmas",
-      "url": "https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo"
     },
     {
       "added_at": "2023-12-19 09:25:36",

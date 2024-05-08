@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-408 songs - 21 hr 35 min
+410 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Call Your Girlfriend](https://open.spotify.com/track/1rXk1c4KcPoAXfkSIrKmuJ) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Call Your Girlfriend](https://open.spotify.com/album/6NJqqVevvQwAOwOzZ7zZbg) | 3:11 | 2023-04-14 | 2023-06-23 |
 | [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-08-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/44keYJcx0VOluaff3Tki8q) | [Anna Maria Corelis](https://open.spotify.com/artist/4CjATHfvbMxY5QFDayYRG6) | [Careless Whisper](https://open.spotify.com/album/5PLC6XW2fGVJueGZVLd40Y) | 3:53 | 2023-05-26 | 2023-06-23 |
-| [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 |  |
+| [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 | 2024-05-08 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
 | [Cecilia](https://open.spotify.com/track/4QEHrBuiDhHKkRqW0qGPbg) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Cecilia](https://open.spotify.com/album/6bnw4Rj4lvfRhV3TjYWChK) | 2:07 | 2024-03-01 |  |
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
@@ -343,6 +343,7 @@
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2022-08-01 | 2024-01-19 |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-08-01 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-08-01 |  |
+| [The Lady in Red](https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [The Lady in Red](https://open.spotify.com/album/0mSO9pQayzoyrUeMpjKcjA) | 3:56 | 2024-05-07 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [The Less I Know The Better](https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG) | 2:44 | 2024-03-01 |  |
 | [The long and winding road](https://open.spotify.com/track/2WL3AT2ai6udaUhw7CjwbW) | [Laura Hanson](https://open.spotify.com/artist/2PaeMuShS6wgfLp465LQU3) | [The long and winding road](https://open.spotify.com/album/5TutzM4ffUT9H5MxzqzC23) | 2:28 | 2023-04-14 |  |
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2022-08-01 | 2023-06-23 |
@@ -378,6 +379,7 @@
 | [Water Fountain](https://open.spotify.com/track/6kyed7E6Y1O1qVtT5D5noi) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Water Fountain](https://open.spotify.com/album/0JBPp7cnzacwTDBNGh7O0P) | 2:46 | 2023-05-26 |  |
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-05 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |

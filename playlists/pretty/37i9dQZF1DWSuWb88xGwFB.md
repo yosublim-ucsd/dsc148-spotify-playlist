@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,245 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,263 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 5 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 7 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
-| 8 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
-| 9 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
+| 8 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
+| 9 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 | 10 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
 | 11 | [Rise from Your Grave \- Wake Da Fuck Up Mix](https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Rise From Your Grave](https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e) | 5:52 |
 | 12 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |

@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731012,
+  "num_followers": 731035,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 141280,
       "name": "Between The Bars",
       "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Music From The Motion Picture Once",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Between Two Shores",
         "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 183293,
       "name": "Why Woman",
       "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "On the Train Ride Home",
-      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "On the Train Ride Home",
+      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/3m7nQ3mxkpE61tzgH8l1XD"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/0OXmUaY4ajGoQ7JOAzotQJ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 245824,
       "name": "Pancakes and M&M's",
       "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/3m7nQ3mxkpE61tzgH8l1XD"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/0OXmUaY4ajGoQ7JOAzotQJ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Reason Is You",
-        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
-      },
-      "artists": [
-        {
-          "name": "Angela Aux",
-          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
-        }
-      ],
-      "duration_ms": 260809,
-      "name": "The Reason Is You",
-      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Faces in the Rocks",
         "url": "https://open.spotify.com/album/4uTqDWrJqOHYp1DCtkun16"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 555548,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5ZE6FQGvMCQFvTUsAltIYb"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Reason Is You",
+        "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
+      },
+      "artists": [
+        {
+          "name": "Angela Aux",
+          "url": "https://open.spotify.com/artist/49amwW3An2eDASwY6tpuvV"
+        }
+      ],
+      "duration_ms": 260809,
+      "name": "The Reason Is You",
+      "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "One Eyed Love",
-        "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
-      },
-      "artists": [
-        {
-          "name": "ME + MARIE",
-          "url": "https://open.spotify.com/artist/10F6QWhKms2ET0Ptjdk31k"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Where's Your Soul",
-      "url": "https://open.spotify.com/track/0IACKZaeCAQFs6EgLZvtZQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Darkest Darks, Lightest Lights",
         "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "One Eyed Love",
+        "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
+      },
+      "artists": [
+        {
+          "name": "ME + MARIE",
+          "url": "https://open.spotify.com/artist/10F6QWhKms2ET0Ptjdk31k"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Where's Your Soul",
+      "url": "https://open.spotify.com/track/0IACKZaeCAQFs6EgLZvtZQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Fallen so Young",
-        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 232164,
-      "name": "Fallen so Young",
-      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Late Night Howling",
         "url": "https://open.spotify.com/album/2E8Rjcixo3IYYlD46Wz46d"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 296025,
       "name": "Some Kind Of Fool",
       "url": "https://open.spotify.com/track/0LXPpeaIHb29pxGbRZ63Qg"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Fallen so Young",
+        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 232164,
+      "name": "Fallen so Young",
+      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
     },
     {
       "added_at": "2024-04-24 06:24:42",

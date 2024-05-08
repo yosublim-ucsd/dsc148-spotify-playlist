@@ -2,7 +2,7 @@
 
 ### [This Is Jamiroquai](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YvhXa)
 
-> This is Jamiroquai\. The essential tracks, all in one playlist.
+> This is Jamiroquai\. Tutti i brani in un'unica playlist.
 
 57 songs - 4 hr 28 min
 

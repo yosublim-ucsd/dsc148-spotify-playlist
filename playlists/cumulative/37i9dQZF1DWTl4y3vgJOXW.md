@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: OG Anunoby, Donte DiVincenzo, Josh Hart and Jalen Brunson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Karl\-Anthony Towns and Anthony Edwards
 
 597 songs - 1 day 6 hr 21 min
 
@@ -592,7 +592,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-15 |  |
 | [Whatever You Wit](https://open.spotify.com/track/2GITb8jfE4RBwOlu7fsri4) | [CoKilla](https://open.spotify.com/artist/6Hc90DgpI39m4ZP3ETIKOS), [Deeski](https://open.spotify.com/artist/5U1WcaOcN0zs7zkaOqihmu), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 3:15 | 2023-11-17 | 2024-02-10 |
 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2021-09-02 |  |
-| [Whatsapp \(Wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Whatsapp \(Wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-03 |  |
+| [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-03 |  |
 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2021-09-02 | 2022-06-25 |
 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 | 2024-03-15 |  |
 | [Window Shopper](https://open.spotify.com/track/58IeuSOYA1gXyB8rDpYzc3) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Best Of 50 Cent](https://open.spotify.com/album/3Sbt1eefEMSN33HqdhOM3g) | 3:10 | 2021-09-02 | 2022-06-25 |

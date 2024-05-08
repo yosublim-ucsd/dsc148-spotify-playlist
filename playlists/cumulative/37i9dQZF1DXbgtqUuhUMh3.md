@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Aseel Hameem
 
-665 songs - 1 day 14 hr 14 min
+666 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 | 2023-09-23 |
 | [Ana Majnouna](https://open.spotify.com/track/4Iq7OP49gPTh7ldmelQs6l) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [Ana Majnouna](https://open.spotify.com/album/4NBYYKXSrXAGwfANAqWyYa) | 2:42 | 2022-11-15 | 2022-11-20 |
 | [Ana Men](https://open.spotify.com/track/0t0wTAuASealrrHyrkYdF6) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ana Men](https://open.spotify.com/album/4iCFKHnPhLPceHgpAuF4ZO) | 3:34 | 2021-12-23 | 2022-02-27 |
-| [Ana Mish Soutak](https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Mish Soutak](https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O) | 3:07 | 2024-04-12 |  |
+| [Ana Mish Soutak](https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Mish Soutak](https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O) | 3:07 | 2024-04-12 | 2024-05-08 |
 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 | 2023-03-02 | 2024-01-11 |
 | [Anger](https://open.spotify.com/track/2ewErT1UdO14jpk8I7WK6U) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Anger](https://open.spotify.com/album/0aGn0YLlsHxsNdBCcuRv01) | 2:45 | 2022-01-20 | 2022-02-18 |
 | [Ani Alaqwa](https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ani Alaqwa](https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc) | 2:57 | 2022-11-15 | 2023-05-13 |
@@ -673,5 +673,6 @@
 | [يالأيام](https://open.spotify.com/track/0irTKPA6HKoBqS84qzfImN) | [Meriem Nourdine](https://open.spotify.com/artist/3Kh8dQTSIfbZ0f4ZHvm9al) | [يالأيام](https://open.spotify.com/album/4Zcqp2T7U2AmG5tII9nw7p) | 4:48 | 2021-12-23 | 2022-02-28 |
 | [يتميلح](https://open.spotify.com/track/7773uSBeDmRum6cT0RmH2q) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [يتميلح](https://open.spotify.com/album/6lBjQb25aQ7D62YQFiRkRi) | 2:54 | 2021-12-30 | 2022-03-01 |
 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 | 2023-01-25 | 2023-09-09 |
+| [⁠Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 | 2024-05-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

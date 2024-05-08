@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,201 likes - 130 songs - 9 hr 31 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,204 likes - 130 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 50 | [Let's Hear That B Section Again!](https://open.spotify.com/track/3fWkGC0VcpUa9Q73OBAwcS) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave](https://open.spotify.com/album/1StiLIRFLe8CZ92Fe6LnMy) | 4:24 |
 | 51 | [Mass Effect Theme](https://open.spotify.com/track/4gLoShnLP1OEiC9S3F3GsN) | [Jack Wall](https://open.spotify.com/artist/0ttsFiIQxBWmfS1JPgTZ6o), [Sam Hulick](https://open.spotify.com/artist/1WMefLQmpHuCUcDfMcavIo), [EA Games Soundtrack](https://open.spotify.com/artist/1gsT5GesFZ2qkDkgPxMUA1) | [Mass Effect \(EA Games Soundtrack\)](https://open.spotify.com/album/2CaTyv2PRp5uG5SHIb2tK5) | 2:20 |
 | 52 | [Gienah](https://open.spotify.com/track/3dIoPqx7GUycL4Aj0Ii292) | [Gamma Corvi](https://open.spotify.com/artist/44okm5jK72YdWi0au82UAA) | [DAWN](https://open.spotify.com/album/5G59fa1YzKm7b628BriwHP) | 3:11 |
-| 53 | [Intro](https://open.spotify.com/track/7tmQ688j3uYdcl9H4ZO3DW) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:09 |
+| 53 | [Intro](https://open.spotify.com/track/7tmQ688j3uYdcl9H4ZO3DW) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:09 |
 | 54 | [Star Step](https://open.spotify.com/track/1aEeJSeG93NWcLInxYSEnR) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Goddess](https://open.spotify.com/album/6m7QDchtBnhgmFERNmg3h7) | 4:29 |
 | 55 | [Disappearing Light](https://open.spotify.com/track/6vq7fy5DH6XOwhiWxmkUb1) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Frozen In Motion](https://open.spotify.com/album/5g8ZG8IRvxAwPzv3JpyZkS) | 1:50 |
 | 56 | [Aether](https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Aether](https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe) | 3:26 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 103 | [Neon Artery](https://open.spotify.com/track/4IqLCkdTQUl4tYb389pcSy) | [Sung](https://open.spotify.com/artist/3HQQQ1jAB2mloT1MSU4evQ) | [Overizer EP](https://open.spotify.com/album/6qdR0CWf5mNEkO7jqgInQP) | 3:32 |
 | 104 | [Streetwalker](https://open.spotify.com/track/17unhA5Gnc1nLFdg3dKmuO) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68) | 4:27 |
 | 105 | [Between the Buttons](https://open.spotify.com/track/1LpZP3BXZokmhMi0IN73yY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 5:17 |
-| 106 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 |
+| 106 | [Resonance](https://open.spotify.com/track/1TuopWDIuDi1553081zvuU) | [Home](https://open.spotify.com/artist/591B30rR0fT2JeE9zXPPwu) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:32 |
 | 107 | [Le perv](https://open.spotify.com/track/1coJ1H1FiEZG93naXkOsNF) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:16 |
 | 108 | [Paris](https://open.spotify.com/track/5uDzCEn4Tzv9qKWiYNyTaQ) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [MOON E.P.](https://open.spotify.com/album/1e0tqn3caRoNqZU6YosOLa) | 4:31 |
 | 109 | [Chase](https://open.spotify.com/track/6BsKEHEM030NplaMi3kzvs) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Last Escape](https://open.spotify.com/album/11TckwddbOYHGhcqy9CF6F) | 5:49 |

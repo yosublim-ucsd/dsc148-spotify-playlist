@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,398 songs - 3 day 5 hr 1 min
+1,399 songs - 3 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Back The Way We Came](https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Back The Way We Came](https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH) | 3:41 | 2024-03-01 | 2024-04-02 |
 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 | 2023-01-20 | 2023-02-18 |
 | [BAD](https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [BAD](https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS) | 3:38 | 2022-03-24 | 2022-06-27 |
-| [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 |  |
+| [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-05-08 |
 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 | 2022-03-21 | 2023-04-18 |
 | [Bagage](https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 3:01 | 2022-12-14 | 2023-05-31 |
 | [Bahaghari](https://open.spotify.com/track/2Ozk14un4Py5pZoVygGUPB) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Bahaghari](https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf) | 6:03 | 2022-03-24 | 2022-04-19 |
@@ -406,6 +406,7 @@
 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2023-01-11 | 2023-10-06 |
 | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/track/13KjMbVC5JLTaEG2NI6ytg) | [LAUREN](https://open.spotify.com/artist/5zK6Y7XOLDFFg0sdThkVxr), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Fuckery \(feat\. Charmaine\)](https://open.spotify.com/album/3gDG8Nco79Nm6mvXJTA2g0) | 1:55 | 2022-03-24 | 2022-08-02 |
 | [Fui El Borrego](https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fui El Borrego](https://open.spotify.com/album/0Gba5NI1R8k8LUiflUEgbg) | 3:20 | 2023-09-15 | 2023-10-14 |
+| [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-05-03 |  |
 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 | 2024-01-19 | 2024-04-19 |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-03-31 | 2022-08-27 |
 | [Gabi](https://open.spotify.com/track/65ttM4xiNQ0yQi2oAOnoWl) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Gabi](https://open.spotify.com/album/5IemI1BE33xJNJlvT1wKGH) | 5:55 | 2022-03-10 | 2022-05-19 |

@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157098,
+      "name": "Gimme Your Number",
+      "url": "https://open.spotify.com/track/76NZFxqS6b0xsd16e0LIfF"
+    },
+    {
+      "album": {
         "name": "Gotta Luv It",
         "url": "https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z"
       },

@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Andiamo",
+        "url": "https://open.spotify.com/album/4WBfWZqSs9iAnGkgTordyy"
+      },
+      "artists": [
+        {
+          "name": "Eloisa Duarte",
+          "url": "https://open.spotify.com/artist/5y1jHMp7lrJ35DEPQi9XSu"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184754,
+      "name": "Andiamo",
+      "url": "https://open.spotify.com/track/2d8TANAiuSm99uVmymr6Fb"
+    },
+    {
+      "album": {
         "name": "Anima I",
         "url": "https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG"
       },
@@ -4646,6 +4664,24 @@
       "duration_ms": 149983,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/7bziJO7BnTUSodDC4yWmRg"
+    },
+    {
+      "album": {
+        "name": "Como Nights",
+        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
+      },
+      "artists": [
+        {
+          "name": "Marcello Fiorenza",
+          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150854,
+      "name": "Como Nights",
+      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
     },
     {
       "album": {
@@ -16827,6 +16863,24 @@
     },
     {
       "album": {
+        "name": "My love",
+        "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
+      },
+      "artists": [
+        {
+          "name": "Maxime Verdoni",
+          "url": "https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "My love",
+      "url": "https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF"
+    },
+    {
+      "album": {
         "name": "My Oak",
         "url": "https://open.spotify.com/album/70yvq1iSou9rQ5zRoDYXTn"
       },
@@ -20450,6 +20504,24 @@
       "duration_ms": 133154,
       "name": "Qui vivra verra",
       "url": "https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd"
+    },
+    {
+      "album": {
+        "name": "Quiet Nights",
+        "url": "https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E"
+      },
+      "artists": [
+        {
+          "name": "Daniel Schrage",
+          "url": "https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx"
     },
     {
       "album": {

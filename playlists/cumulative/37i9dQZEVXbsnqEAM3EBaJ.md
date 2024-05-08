@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,390 songs - 4 day 1 hr 59 min
+1,391 songs - 4 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 | 2024-02-16 | 2024-02-25 |
 | [Blackout](https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Rat Park](https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K) | [Blackout](https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0) | 3:14 | 2024-04-05 | 2024-05-05 |
 | [Bleed Out](https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ) | 4:30 | 2023-08-25 | 2023-09-09 |
-| [Bleed Out \- Acoustic](https://open.spotify.com/track/6IOG7n0o8BriJsU8XxaAyJ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Artone Sessions \(Acoustic\)](https://open.spotify.com/album/0H1UXZy1pbzxsNNjy5WOfk) | 3:14 | 2024-05-03 |  |
+| [Bleed Out \- Acoustic](https://open.spotify.com/track/6IOG7n0o8BriJsU8XxaAyJ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Artone Sessions \(Acoustic\)](https://open.spotify.com/album/0H1UXZy1pbzxsNNjy5WOfk) | 3:14 | 2024-05-03 | 2024-05-08 |
 | [Bleed Out \- Instrumental](https://open.spotify.com/track/7wwWe6xiJA21W6Ym8IF8jW) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ) | 4:30 | 2023-09-01 | 2023-09-10 |
 | [Bleed The Freak \- Live](https://open.spotify.com/track/7IJbq0hEqamz5siJw88tbh) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Buried \(Live\)](https://open.spotify.com/album/3J19k6oHkIYygdbuDgZfL3) | 4:00 | 2023-03-31 | 2023-04-02 |
 | [Blind](https://open.spotify.com/track/4oZ5jMaa1EJRu6fzWvqZ83) | [M.O.B.](https://open.spotify.com/artist/3vSeS3NsnQhceuHCesjx05), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Blind](https://open.spotify.com/album/2EwH6yri6GZ6kevbkAp89V) | 2:18 | 2023-11-10 | 2023-11-26 |
@@ -537,7 +537,7 @@
 | [I Don’t Know How I Survive \- Acoustic](https://open.spotify.com/track/12GEJSBjroCELIxLEnl3mC) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 3:37 | 2023-03-24 | 2023-03-31 |
 | [I Follow You](https://open.spotify.com/track/2MG6yDcAFpTmdl3tmc761e) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Two Rooms](https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB) | 3:08 | 2023-04-28 | 2023-05-21 |
 | [I Got Mine \- Live at Montreux, 2007](https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [I Got Mine \(Live at Montreux 2007\)](https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK) | 4:44 | 2023-06-02 | 2023-06-24 |
-| [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Veritas](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-05-03 |  |
+| [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-05-03 |  |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-16 | 2024-03-02 |
 | [I Inside the Old I Dying](https://open.spotify.com/track/5l1fhxvwZBIlMqY1ZsbnNd) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old I Dying](https://open.spotify.com/album/46ItYQNVmibRsjkzXIDKFs) | 3:08 | 2023-06-09 | 2023-07-02 |
 | [I Just Shot John Lennon \- Paris Demo](https://open.spotify.com/track/7b8Fk0Ptl83TJ46HyjulKs) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH) | 2:30 | 2023-09-15 | 2023-09-21 |
@@ -965,6 +965,7 @@
 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 | 2023-12-15 | 2024-02-17 |
 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 | 2024-03-08 | 2024-04-07 |
 | [Ritual](https://open.spotify.com/track/5OG8I9MtgrNNydRCo3EACH) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Ritual](https://open.spotify.com/album/0VEGkgBCCQJuSVrNNEbtHw) | 3:37 | 2023-09-29 | 2023-10-21 |
+| [Ritual \- Acoustic](https://open.spotify.com/track/25OC29froPIcszfB8J0I8l) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Artone Sessions \(Acoustic\)](https://open.spotify.com/album/0H1UXZy1pbzxsNNjy5WOfk) | 3:30 | 2024-05-03 |  |
 | [Rivers \- Live At The Afas Live](https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Rivers \(Live At The Afas Live\)](https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN) | 4:58 | 2023-03-10 | 2023-03-25 |
 | [Rizen](https://open.spotify.com/track/5HkE8b6FZ143omeRfTxKSn) | [Vader](https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ) | [Rizen](https://open.spotify.com/album/7d4zGzDx7FhWsIubaqFysd) | 2:36 | 2023-10-06 | 2023-10-11 |
 | [Road to Joy \- Bright\-Side Mix](https://open.spotify.com/track/226A9Lc8S0U701uxHZJgkI) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Bright\-Side Mix\)](https://open.spotify.com/album/6coGXkjr3LDx4ZqYFJcrSE) | 5:21 | 2023-06-16 | 2023-06-24 |

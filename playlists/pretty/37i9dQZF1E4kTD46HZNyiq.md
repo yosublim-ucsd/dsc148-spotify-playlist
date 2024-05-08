@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I've Been Missing You](https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH) | [Pippa](https://open.spotify.com/artist/0fBP0z2QOJpvlS5u0gWFiX), [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [I've Been Missing You](https://open.spotify.com/album/5KG3c2dTRaLtUwnxf1Kdiz) | 3:30 |
 | 50 | [Keep Me Close](https://open.spotify.com/track/4iGXkFkUTl55yoVmvXJr8D) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:46 |
 
-Snapshot ID: `ZjmalAAAAACJnyCVjpA1JUiLVhLI8YMq`
+Snapshot ID: `ZjrWfAAAAAB+u6TC5aMd3CJvobPP1QdR`

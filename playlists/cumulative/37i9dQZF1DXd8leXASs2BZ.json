@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "BIG HEAD",
+        "url": "https://open.spotify.com/album/3LoR0C6gW9rhDkSPaEdMR0"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186849,
+      "name": "BIG HEAD",
+      "url": "https://open.spotify.com/track/4JHUL3yLXRAHr9V8JWcfdP"
+    },
+    {
+      "album": {
         "name": "BINBO",
         "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 124805,
       "name": "cuz u just memories",
       "url": "https://open.spotify.com/track/1sNouYLvrE9zHwR2hdYGc1"
@@ -2421,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "FETUS",
+        "url": "https://open.spotify.com/album/4Cq7XzJhPGcpNurCbBdrFM"
+      },
+      "artists": [
+        {
+          "name": "BANDIT",
+          "url": "https://open.spotify.com/artist/5VY4w1VcbBJgl198THFkLC"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "FETUS",
+      "url": "https://open.spotify.com/track/2IrpEOJbwVhRZalWHuWYgh"
+    },
+    {
+      "album": {
         "name": "FIGHT HEAD",
         "url": "https://open.spotify.com/album/7DdDffAz24BypAZO1Bpskm"
       },
@@ -3106,6 +3142,24 @@
       "duration_ms": 152112,
       "name": "GOEMON",
       "url": "https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK"
+    },
+    {
+      "album": {
+        "name": "GOLD RUSH",
+        "url": "https://open.spotify.com/album/2bQw2Z9KCxaZaEnobcfXEF"
+      },
+      "artists": [
+        {
+          "name": "FUNNYSTREET",
+          "url": "https://open.spotify.com/artist/5H9ffxwTyQrD4QqsDR2kHb"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "GOLD RUSH",
+      "url": "https://open.spotify.com/track/7FFO2U4dUPmJNHBdCl6cJL"
     },
     {
       "album": {
@@ -4148,7 +4202,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 171468,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f"
@@ -4496,7 +4550,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 202568,
       "name": "KNOCK KNOCK",
       "url": "https://open.spotify.com/track/1cWKNwi6Kfs6qKiQbXibji"
@@ -4532,7 +4586,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 204800,
       "name": "Lake side city",
       "url": "https://open.spotify.com/track/2p5zBc9dWccgfQZa3HJX3g"
@@ -5464,6 +5518,28 @@
       "duration_ms": 184487,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5CDAva91X7wImJJ07puXeP"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2OmFaODKIMmfw4w1UkTaLW"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "Varria",
+          "url": "https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167271,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0ubPRDaIbWJzz5BaepbXJY"
     },
     {
       "album": {
@@ -7283,6 +7359,32 @@
     },
     {
       "album": {
+        "name": "Trash box",
+        "url": "https://open.spotify.com/album/1UoPp3MYqrQPQ0fPtAOVoO"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        },
+        {
+          "name": "Zefar",
+          "url": "https://open.spotify.com/artist/2n3WpDgynO7voSmN1WpoKr"
+        },
+        {
+          "name": "Zzz\u97f3",
+          "url": "https://open.spotify.com/artist/2g02iSKUPzS5aKII3bJDXY"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "Trash box",
+      "url": "https://open.spotify.com/track/4Yo002a3P6dihTxC33kzj6"
+    },
+    {
+      "album": {
         "name": "Travel case",
         "url": "https://open.spotify.com/album/3uRbCc8PXPc4QgjYuw8POq"
       },
@@ -7392,7 +7494,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 169014,
       "name": "TYOSTAR",
       "url": "https://open.spotify.com/track/0SUhQUpVB3HyJAZlkFKwxk"
@@ -7764,6 +7866,24 @@
       "duration_ms": 279972,
       "name": "weed not stop",
       "url": "https://open.spotify.com/track/3cPdfkBw2YESqDct8EQsvm"
+    },
+    {
+      "album": {
+        "name": "WEEK",
+        "url": "https://open.spotify.com/album/1c7yqwf2ojt5zSBR8CRxdJ"
+      },
+      "artists": [
+        {
+          "name": "LOM",
+          "url": "https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191695,
+      "name": "WEEK",
+      "url": "https://open.spotify.com/track/6LV86HR3dMXC4LrHCDLy0W"
     },
     {
       "album": {
@@ -8328,7 +8448,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 186947,
       "name": "\u4f55\u6642\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/61PomhQgh0GPCFsS39neY3"

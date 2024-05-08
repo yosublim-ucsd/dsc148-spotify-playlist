@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 228014,
+  "num_followers": 228069,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAADvhK1gpCUwpBkBRUrICz+8",
+  "snapshot_id": "ZjgdgAAAAAD09Cnxc/RRUUlrgEVspJSl",
   "tracks": [
     {
       "added_at": null,
@@ -1019,6 +1019,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D.A.B. Muzic, Vol. 1",
+        "url": "https://open.spotify.com/album/1aBzIVyoNah5QzW5LHZEXD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 187324,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -1087,26 +1103,6 @@
       "duration_ms": 202320,
       "name": "Hookah",
       "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Want Me Dead (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
     }
   ],
   "unique_name": "This Is Young Thug",

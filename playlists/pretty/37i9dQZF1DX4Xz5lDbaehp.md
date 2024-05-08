@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,567 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,566 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 121 | [Possibilities](https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do) | 2:55 |
 | 122 | [Ms\. Fire](https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Ms\. Fire](https://open.spotify.com/album/03wuG8bYc2k2YR0r27vMzp) | 3:27 |
 | 123 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 |
-| 124 | [do you](https://open.spotify.com/track/1d1cjO1tT6hg2CoQrGUYkO) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [do you](https://open.spotify.com/album/0kVSCxhSeQl5tam2CrJUt4) | 2:28 |
+| 124 | [do you](https://open.spotify.com/track/1d1cjO1tT6hg2CoQrGUYkO) | [dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [do you](https://open.spotify.com/album/0kVSCxhSeQl5tam2CrJUt4) | 2:28 |
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 

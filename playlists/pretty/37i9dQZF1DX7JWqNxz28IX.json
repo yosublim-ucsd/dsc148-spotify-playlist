@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 45347,
+  "num_followers": 45364,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "i was only temporary",
-        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 98621,
-      "name": "i was only temporary",
-      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Mancati",
-        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
+        "name": "Polmoni",
+        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
       "artists": [
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Mancati",
-      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
+      "duration_ms": 123789,
+      "name": "Polmoni",
+      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Polmoni",
-        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
+        "name": "Mancati",
+        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
       "artists": [
         {
-          "name": "Tripolare",
-          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 123789,
-      "name": "Polmoni",
-      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
+      "duration_ms": 112000,
+      "name": "Mancati",
+      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1419,6 +1423,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "Fuori dal buio",
         "url": "https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 188085,
       "name": "Fuori dal buio",
       "url": "https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "TAXI DRIVER (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "NON SO CHI SIAMO",
-        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Pi Greco",
-          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "NON SO CHI SIAMO",
-      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -1690,15 +1670,31 @@
         {
           "name": "Alelock",
           "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglianone",
-          "url": "https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn"
         }
       ],
       "duration_ms": 148818,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "NON SO CHI SIAMO",
+        "url": "https://open.spotify.com/album/6NmapKNBkMY0bSHuB7eSpw"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "NON SO CHI SIAMO",
+      "url": "https://open.spotify.com/track/1swXlgQi9YdVqzoOXfnJ1O"
     },
     {
       "added_at": "2024-03-20 10:29:29",

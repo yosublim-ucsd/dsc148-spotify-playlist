@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,848 likes - 316 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,846 likes - 316 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 156 | [Line Em Up](https://open.spotify.com/track/0pl50PBq8jXKl4Tg4tF7G1) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:59 |
 | 157 | [Tyrone 2021 \(feat\. Big Sean\)](https://open.spotify.com/track/0dDI9Y0qEQspYedfdi1vau) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:38 |
 | 158 | [Look @ This](https://open.spotify.com/track/1kjQO3Hw1NT3F7gGncR0AZ) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:16 |
-| 159 | [Special](https://open.spotify.com/track/1NstxZBzRTJ9kUjwvnDWbi) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 4:03 |
-| 160 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
+| 159 | [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 |
+| 160 | [Special](https://open.spotify.com/track/1NstxZBzRTJ9kUjwvnDWbi) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 4:03 |
 | 161 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 |
 | 162 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 |
 | 163 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 196 | [One on One \(feat\. YFN Lucci & Meek Mill\)](https://open.spotify.com/track/4z4aIN7Pmo3rpumYH0krXf) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 3:50 |
 | 197 | [Playa Playa](https://open.spotify.com/track/12RYWJHQvfjdPBBKe1KGEj) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 4:40 |
 | 198 | [Disciples](https://open.spotify.com/track/4uhHPuMHYujbT55nPXSaLc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:48 |
-| 199 | [Road Trip](https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Tropical Confessions, Pt\. 2](https://open.spotify.com/album/7epq2AHDFXB9tfhUuHcONB) | 3:30 |
-| 200 | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/track/0XP9h6syOoOHHU2pam3Keo) | [DJ Max Star](https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ) | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/album/4dvvo1D2OeEyOyuVrN69Yx) | 4:10 |
+| 199 | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/track/0XP9h6syOoOHHU2pam3Keo) | [DJ Max Star](https://open.spotify.com/artist/3oTDO2HdnIHS42f8E6KIFJ) | [WITHOUT YOU \(Freestyle\)](https://open.spotify.com/album/4dvvo1D2OeEyOyuVrN69Yx) | 4:10 |
+| 200 | [Road Trip](https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Tropical Confessions, Pt\. 2](https://open.spotify.com/album/7epq2AHDFXB9tfhUuHcONB) | 3:30 |
 | 201 | [Novacane](https://open.spotify.com/track/3autIySOEzceIx7kKp0P1V) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/7JRWPjH1IDKuw2jxMcEhLh) | 2:54 |
 | 202 | [Chance](https://open.spotify.com/track/4NM7miPEdR7T8WXehTlbsV) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Chance \(feat\. Vybz Kartel\)](https://open.spotify.com/album/30LPolWtP4efyRTAbNmALl) | 2:54 |
 | 203 | [Misery Loves Company](https://open.spotify.com/track/4ui1Pja7YshNBdalTg6Swp) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 1:43 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 316 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbQowgAAAABR4ooNabrUXDU1NirQVNaw`
+Snapshot ID: `AbQuYgAAAAB2swpKdX6fICkvnbsqzQI7`

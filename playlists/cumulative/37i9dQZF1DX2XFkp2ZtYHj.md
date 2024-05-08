@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-234 songs - 9 hr 54 min
+240 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Always](https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9) | [Shin Suzuma](https://open.spotify.com/artist/6a3Jke3IQZCLtEkZOjro89) | [Introspect](https://open.spotify.com/album/6AxKd6jWuhiHs5hiVPi92Y) | 3:18 | 2023-10-18 |  |
 | [Amalgam](https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Amalgam](https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k) | 2:12 | 2023-10-18 |  |
 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-18 |  |
+| [Andiamo](https://open.spotify.com/track/2d8TANAiuSm99uVmymr6Fb) | [Eloisa Duarte](https://open.spotify.com/artist/5y1jHMp7lrJ35DEPQi9XSu) | [Andiamo](https://open.spotify.com/album/4WBfWZqSs9iAnGkgTordyy) | 3:04 | 2024-05-07 |  |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-10-18 |  |
 | [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-08 |  |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-10-18 |  |
@@ -54,6 +55,7 @@
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-10-18 |  |
 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-10-18 |  |
 | [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-18 |  |
+| [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |
 | [Consolation](https://open.spotify.com/track/10J0Gos6S2zgLbTdmWMAAz) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [Consolation](https://open.spotify.com/album/26Dlhu9Mz2Wr3Dmk31zhgh) | 2:15 | 2023-10-18 |  |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-10-18 |  |
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-18 |  |
@@ -66,6 +68,7 @@
 | [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-10-18 |  |
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-10-18 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-10-18 |  |
+| [Délise](https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK) | [Raffaello Sorrento](https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl) | [Délise](https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ) | 2:05 | 2024-05-07 |  |
 | [Dévouement](https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Dévouement](https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel) | 2:16 | 2023-10-18 |  |
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-10-18 |  |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-10-18 |  |
@@ -77,6 +80,7 @@
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 |  |
 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2023-10-18 |  |
+| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-10-18 |  |
 | [Evening Kiss](https://open.spotify.com/track/7oRhmSpKMqtKiwehArtSuV) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Evening Kiss](https://open.spotify.com/album/1Np1NDLsb96CWB9xBnOHiR) | 3:16 | 2024-03-25 |  |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-10-18 |  |
@@ -143,6 +147,7 @@
 | [Mellow Nocturne](https://open.spotify.com/track/2NNmPTE5H2BmMqnjGDgoMv) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Mellow Nocturne](https://open.spotify.com/album/2LP08KCpqVFanr8HIAHlnO) | 2:00 | 2024-03-25 |  |
 | [Memoirs](https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Memoirs](https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652) | 2:53 | 2023-12-13 |  |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-17 |  |
+| [My love](https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF) | [Maxime Verdoni](https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e) | [My love](https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC) | 2:50 | 2024-05-07 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-10-18 |  |
 | [Nampara](https://open.spotify.com/track/13ZOm83FYYkh6801bZGoPB) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Nampara](https://open.spotify.com/album/4VLKt2x4Lj7zkgnWNNRqFP) | 3:50 | 2023-10-18 |  |
 | [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-10-18 |  |
@@ -166,6 +171,7 @@
 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 | 2023-10-18 |  |
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2023-10-18 |  |
 | [Pythagoras](https://open.spotify.com/track/3WgaMM16BpTDi2bbZUUuDf) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Pythagoras](https://open.spotify.com/album/2XNgpjBCD0a25yRe2u3GAp) | 3:51 | 2023-11-22 |  |
+| [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
 | [Ravello](https://open.spotify.com/track/669Eej0mplxG7OhOxgNVl9) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ravello](https://open.spotify.com/album/5aiv12mtWb7NJFpkPnmRP9) | 2:14 | 2023-10-18 |  |
 | [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 | 2023-10-18 |  |
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-10-18 |  |

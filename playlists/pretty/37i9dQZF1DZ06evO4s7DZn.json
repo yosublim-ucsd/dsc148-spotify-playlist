@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 6760,
+  "num_followers": 6767,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAB+HhqbTj85GBEU0N6hIMjO",
+  "snapshot_id": "ZjgdgAAAAABfsO8FN65mVIZjVVfpDews",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 203103,
-      "name": "La Guitarra de Lolo",
-      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+      "duration_ms": 231906,
+      "name": "Lagrimas Del Corazon",
+      "url": "https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM"
     },
     {
       "added_at": null,
@@ -231,6 +231,22 @@
       "duration_ms": 161960,
       "name": "Sue\u00f1o Realidad",
       "url": "https://open.spotify.com/track/7Gv1d49D60wRv7n6LU6eRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
     },
     {
       "added_at": null,
@@ -264,25 +280,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Lagrimas Del Corazon",
-      "url": "https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "El Brinquito de la Perra Ro\u00f1osa",
-      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
+      "duration_ms": 225746,
+      "name": "Signo Libra",
+      "url": "https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 205080,
       "name": "Brinquito",
       "url": "https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "Signo Libra",
-      "url": "https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Lo Aprendi De Ti",
-      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Medias Negras",
         "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 185887,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Lo Aprendi De Ti",
+      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Popotitos - En Vivo",
-      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Popotitos - En Vivo",
+      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Medias Negras",
         "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 196101,
       "name": "Ya para Que",
       "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Mismo Nivel",
-      "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 207625,
       "name": "Mi Ultima Parranda - En Vivo",
       "url": "https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Mismo Nivel",
+      "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Vended.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,233 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,344 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 30 | [DAMN](https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down \(Deluxe\)](https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm) | 3:37 |
 | 31 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 |
 | 32 | [Last dAntz](https://open.spotify.com/track/2kXTWjuZgttmobEIVhuyto) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Last dAntz](https://open.spotify.com/album/0iZ9tCFBxudVzuY5HUwzAv) | 3:52 |
-| 33 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Veritas](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
+| 33 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
 | 34 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 |
 | 35 | [1999](https://open.spotify.com/track/1vHXTRePN1xZpQWoYcqjpp) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [1999](https://open.spotify.com/album/3j5MBBYuBsothTNmNaQIeX) | 3:18 |
 | 36 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 |

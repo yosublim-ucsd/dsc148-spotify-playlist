@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 270386,
       "name": "Alone Together (feat. Keyon Harrold)",
       "url": "https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2"
@@ -266,6 +266,24 @@
       "duration_ms": 305160,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
+    },
+    {
+      "album": {
+        "name": "Autumn Girl",
+        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
+      },
+      "artists": [
+        {
+          "name": "Will Clift",
+          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Autumn Girl",
+      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
     },
     {
       "album": {

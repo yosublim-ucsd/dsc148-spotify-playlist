@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -10818,7 +10818,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
@@ -11048,7 +11048,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -14940,7 +14940,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -21732,7 +21732,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/7gRj1N54rKun6RDMBT6ksI"
@@ -21892,6 +21892,24 @@
       "duration_ms": 128000,
       "name": "Tranquila Baby",
       "url": "https://open.spotify.com/track/794Avy9oTKvi8SGWSO1tXQ"
+    },
+    {
+      "album": {
+        "name": "Travesuras",
+        "url": "https://open.spotify.com/album/1NVBo179jmQ6PYYUe9jZmu"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216582,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/0jpAMC0fQY0AotLKeVSyeb"
     },
     {
       "album": {

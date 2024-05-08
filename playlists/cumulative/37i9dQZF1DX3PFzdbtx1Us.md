@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-333 songs - 13 hr 11 min
+341 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2023-05-15 |  |
 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2021-06-27 | 2023-05-16 |
 | [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-04 |  |
+| [Andiamo](https://open.spotify.com/track/2d8TANAiuSm99uVmymr6Fb) | [Eloisa Duarte](https://open.spotify.com/artist/5y1jHMp7lrJ35DEPQi9XSu) | [Andiamo](https://open.spotify.com/album/4WBfWZqSs9iAnGkgTordyy) | 3:04 | 2024-05-07 |  |
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-05-15 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-06-27 | 2023-05-16 |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-05-15 |  |
@@ -90,6 +91,7 @@
 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 | 2023-05-15 |  |
 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2021-06-27 | 2023-05-16 |
 | [Closed to shadow](https://open.spotify.com/track/5EsZoxHaxhT4IxsYsa0l9T) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Closed to shadow](https://open.spotify.com/album/7AQOl9RkQgZQY9Xdxg1zNn) | 1:55 | 2023-06-19 | 2023-08-16 |
+| [Como Nights](https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc) | [Marcello Fiorenza](https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G) | [Como Nights](https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F) | 2:30 | 2024-05-07 |  |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-05-15 |  |
 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
 | [Crimson](https://open.spotify.com/track/50nkap2cbLP4X1VzDt1qtR) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Crimson](https://open.spotify.com/album/0wMx534abVWJwncT3JAP6i) | 2:15 | 2024-01-09 |  |
@@ -106,10 +108,12 @@
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2023-05-15 | 2023-08-16 |
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-15 |  |
 | [Dulcimer](https://open.spotify.com/track/0c5hNxzYagIuyNTjW4Fzux) | [Shira Joseph](https://open.spotify.com/artist/5X31MelGPpqOWS7WZu8n7F) | [Dulcimer](https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o) | 3:00 | 2023-05-15 |  |
+| [Délise](https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK) | [Raffaello Sorrento](https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl) | [Délise](https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ) | 2:05 | 2024-05-07 |  |
 | [Désabusé](https://open.spotify.com/track/4WxzfHy7cuUv7OdWIU8jNW) | [Joaqin Trudet](https://open.spotify.com/artist/6aXDdfmi7bAsaETdNBXQye) | [Désabusé](https://open.spotify.com/album/1y1tsLbqR0LfdOw5R11Y9R) | 2:27 | 2021-06-27 | 2023-05-16 |
 | [Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Ein kurzer Augenblick](https://open.spotify.com/album/2p8wMElkJei2CSNDEda1GW) | 2:20 | 2023-05-15 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-05-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-15 |  |
+| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-05-15 | 2023-10-05 |
 | [Evergreen](https://open.spotify.com/track/633YySlXq6qxSdCLFovXdv) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Evergreen](https://open.spotify.com/album/0znHYudTgnbzsCCfjqCxNj) | 3:45 | 2021-06-27 | 2023-05-16 |
 | [Every Particle](https://open.spotify.com/track/5aSh771bIr88xzVgC8zjka) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Every Particle](https://open.spotify.com/album/5AhvyrKrEGVHCFrj6hjwh5) | 2:33 | 2024-04-03 |  |
@@ -203,9 +207,11 @@
 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 | 2023-05-15 |  |
 | [Mondes Séparés](https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Mondes Séparés](https://open.spotify.com/album/3REt6vSBBZLsqVIMFh6lXB) | 2:53 | 2023-05-15 |  |
 | [Mont Blanc](https://open.spotify.com/track/7v9FUpTcXP57BJTvC7r8GO) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Piano Sessions: Vol 1](https://open.spotify.com/album/7vVkhgIpT4dUOH0eTviZow) | 2:12 | 2021-06-27 | 2023-05-16 |
+| [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 | 2024-05-07 |  |
 | [Moonlit Waltz](https://open.spotify.com/track/4OhlV0mUJNXXSv6xHBn0bf) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Moonlit Waltz](https://open.spotify.com/album/6xQzhd6Olos5emiENxcuOj) | 2:41 | 2024-03-19 |  |
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-19 | 2023-08-16 |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-17 |  |
+| [My love](https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF) | [Maxime Verdoni](https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e) | [My love](https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC) | 2:50 | 2024-05-07 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-24 |  |
 | [Música De La Montaña](https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Música De La Montaña](https://open.spotify.com/album/7pJy6qLcQVxYYJ1bQXmCM4) | 1:59 | 2023-06-19 | 2023-08-16 |
 | [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-09-26 |  |
@@ -244,6 +250,7 @@
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-06-27 | 2023-05-16 |
 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2023-05-15 |  |
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2023-05-15 | 2023-07-25 |
+| [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
 | [Quiet Sounds](https://open.spotify.com/track/2lqE8DC0T5F0bGnJTrlRtd) | [Mike Osmond](https://open.spotify.com/artist/4emWGcdqLiTh1k7LHqwc7y) | [Quiet Sounds](https://open.spotify.com/album/2cHbyumuxYGWxSnpnfsFpD) | 3:24 | 2021-06-27 | 2023-05-16 |
 | [Rainbow Child](https://open.spotify.com/track/6gqxXQgdx4rN6Bce3kIZnB) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Early Bird](https://open.spotify.com/album/628TBG979WM6q2v6fphLB3) | 4:10 | 2021-06-27 | 2023-05-16 |
 | [Reconciliation](https://open.spotify.com/track/2LHIoiVLEAbMktLPry7cdd) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Reconciliation](https://open.spotify.com/album/3F9e9cv97VVFmoO9AU54Yl) | 1:59 | 2023-05-15 | 2023-08-16 |
@@ -271,6 +278,7 @@
 | [Seraphic](https://open.spotify.com/track/1zIZWC0MW1PXp9lZRbZSZE) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Seraphic](https://open.spotify.com/album/4IRWMGnFOpOQbbA509nzxt) | 1:32 | 2023-05-15 | 2023-08-16 |
 | [Serene Solitude](https://open.spotify.com/track/45vuHzBLsQMveqJNn3oEuA) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/3njakiCY6X4agMnUdpRmB7) | 2:14 | 2021-06-27 | 2022-07-29 |
 | [Serene Solitude](https://open.spotify.com/track/4HPckcgSQmxwMcAFOsJmGY) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/7xQ1rPbeUkKIDufhz2JY1B) | 2:14 | 2022-07-05 | 2023-05-16 |
+| [Seveso](https://open.spotify.com/track/3PydkaPNaOhEluH8Zv2CXP) | [Nerina Fiore](https://open.spotify.com/artist/3e6xOwpoOPEZGZsIuMcvRS) | [Seveso](https://open.spotify.com/album/41jYnRNWAEYbSv8BHuEC2w) | 2:44 | 2024-05-07 |  |
 | [Shadows Cast Asunder](https://open.spotify.com/track/4sFKNc6zO74tcqKt1x0pak) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Shadows Cast Asunder](https://open.spotify.com/album/1LaVIfUyiLKCxURtLnmtUo) | 2:06 | 2023-06-19 |  |
 | [Silent Moon](https://open.spotify.com/track/5Rrq7qUuBV4fcvBV6paaFl) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Silent Moon](https://open.spotify.com/album/4SGJKdqIfa1siT0tj9Mr3p) | 1:44 | 2023-05-15 | 2023-07-25 |
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-05-15 |  |

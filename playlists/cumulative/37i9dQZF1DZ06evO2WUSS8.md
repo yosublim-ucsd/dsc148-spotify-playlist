@@ -2,7 +2,7 @@
 
 ### [This Is Angelique Kidjo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8)
 
-> This is Angelique Kidjo\. The essential tracks, all in one playlist.
+> This is Angelique Kidjo\. Track\-track unggulan, semuanya dalam satu playlist.
 
 125 songs - 8 hr 21 min
 
@@ -54,7 +54,7 @@
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
-| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 |  |
+| [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 | 2021-12-28 | 2024-05-08 |
 | [Ife](https://open.spotify.com/track/6zfQjiEITpwiTf5qragUNj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 5:52 | 2022-06-26 | 2022-10-17 |
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2023-02-23 |  |
 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 | 2021-12-28 |  |
@@ -124,7 +124,7 @@
 | [Try Everything](https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Jazz Loves Disney 2 \- A Kind Of Magic](https://open.spotify.com/album/7eMvIgsmcohS24bmJ5rckU) | 3:40 | 2022-01-20 | 2023-10-11 |
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 3:49 | 2021-12-28 |  |
 | [Wah Fu Dance \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [So Calypso !](https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX) | 4:09 | 2022-05-27 |  |
-| [Wanyinyin](https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:25 | 2021-12-29 | 2023-12-30 |
+| [Wanyinyin](https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 3:25 | 2021-12-29 |  |
 | [We Are One](https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 4:10 | 2021-12-28 |  |
 | [We We](https://open.spotify.com/track/5QkeHNln4J9O3kEkxLZWey) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Wombo Lombo](https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Fifa](https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm) | 4:15 | 2022-01-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,870 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,884 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 19 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 20 | [On Again](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [On Again](https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86) | 3:48 |
 | 21 | [Better Off Alone](https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Better Off Alone](https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl) | 2:51 |
-| 22 | [If You Go \- Uit Liefde Voor Muziek](https://open.spotify.com/track/5Zry5ZvippXRtPGmGMvjxL) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Arno](https://open.spotify.com/artist/0pJz4IBnZkfgJFTrqBl3ZQ) | [If You Go \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/2YbmgzfupZHMi36VI4AYZ4) | 3:20 |
+| 22 | [If You Go \- Uit Liefde Voor Muziek](https://open.spotify.com/track/5Zry5ZvippXRtPGmGMvjxL) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Arno](https://open.spotify.com/artist/7clLDAzMmxPQ6EHQ3fgHMA) | [If You Go \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/2YbmgzfupZHMi36VI4AYZ4) | 3:20 |
 | 23 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
 | 24 | [Call Me Up](https://open.spotify.com/track/3xn2vuVlpKRR7C1dBbfBD8) | [Frankie Fame](https://open.spotify.com/artist/1n6mGzCvv5VzvZWFVAnnKl) | [Call Me Up](https://open.spotify.com/album/6RTcQvFAvD3Jc2y0lGPo3A) | 2:36 |
 | 25 | [Nowhere To Go \(feat\. Brian Molko\) \- Single Edit](https://open.spotify.com/track/0GSRV5gMw6ocfFT0kR0Sxj) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Brian Molko](https://open.spotify.com/artist/6stFJpRU2haAAmJjSZEuVW) | [Nowhere To Go \(feat\. Brian Molko\)](https://open.spotify.com/album/2u9e2yJTlVb6CAOq2yz64v) | 3:42 |

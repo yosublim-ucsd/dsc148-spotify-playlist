@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 99669,
+  "num_followers": 99692,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABOQPUVfFnZuDTFzHaUasSn",
+  "snapshot_id": "ZjgdgAAAAACO6nKI3qUjhb4w8lexv260",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Mr. Fantasy",
-        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 274081,
-      "name": "Dear Mr. Fantasy",
-      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -351,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dear Mr. Fantasy",
+        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 274081,
+      "name": "Dear Mr. Fantasy",
+      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tales Of Time (Live)",
         "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 511933,
       "name": "The Heart That Never Waits (Live)",
       "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 343906,
       "name": "Mountain Climbing",
       "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 492400,
+      "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Hope You Realize It (Goodbye Again)",
-      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/5RHIAFOTuTSVZvc3A2YhHC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 270253,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/4NOfeN9b6hDAG3voJlw3bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Hope You Realize It (Goodbye Again)",
+      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Lazy Poker Blues",
-      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joe Bonamassa Live from the Royal Albert Hall",
         "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 344853,
       "name": "Further On Up the Road - Live",
       "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 382040,
-      "name": "Is It Safe To Go Home",
-      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Shades of Blue",
         "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 279226,
       "name": "Different Shades of Blue",
       "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cradle Rock",
+        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Cradle Rock",
+      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Deluxe Vol. 2",
         "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
@@ -823,18 +839,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cradle Rock",
-        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
+        "name": "Enlighten",
+        "url": "https://open.spotify.com/album/0apqDCEjK86D64512xrslX"
       },
       "artists": [
         {
+          "name": "Black Country Communion",
+          "url": "https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l"
+        },
+        {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Jason Bonham",
+          "url": "https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8"
+        },
+        {
+          "name": "Glenn Hughes",
+          "url": "https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw"
+        },
+        {
+          "name": "Derek Sherinian",
+          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Cradle Rock",
-      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+      "duration_ms": 320240,
+      "name": "Enlighten",
+      "url": "https://open.spotify.com/track/3wGR5b7tyCa9bFQtayqXYZ"
     },
     {
       "added_at": null,
@@ -903,38 +935,6 @@
       "duration_ms": 251425,
       "name": "How Come U Don't Call Me Anymore",
       "url": "https://open.spotify.com/track/1bcNoi2yLxpbtyZCmajS62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enlighten",
-        "url": "https://open.spotify.com/album/0apqDCEjK86D64512xrslX"
-      },
-      "artists": [
-        {
-          "name": "Black Country Communion",
-          "url": "https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Jason Bonham",
-          "url": "https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8"
-        },
-        {
-          "name": "Glenn Hughes",
-          "url": "https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw"
-        },
-        {
-          "name": "Derek Sherinian",
-          "url": "https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Enlighten",
-      "url": "https://open.spotify.com/track/3wGR5b7tyCa9bFQtayqXYZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-1,335 songs - 3 day 1 hr 33 min
+1,337 songs - 3 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Free To Fly](https://open.spotify.com/track/4atzHpbNPrr1fheYMoF2VX) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Free To Fly](https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y) | 3:16 | 2022-02-14 |  |
 | [FREE YOUR MIND](https://open.spotify.com/track/0w7JbHxSw9d665gSID8Iwy) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [FREE YOUR MIND](https://open.spotify.com/album/35H7GvoK81gzlkSIcfIRyC) | 3:19 | 2023-03-21 |  |
 | [Freefall](https://open.spotify.com/track/68rTesSbIv3t9ZyVS5uB8H) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Freefall](https://open.spotify.com/album/38B6vkObxeceeFylF5w9cE) | 3:33 | 2022-09-06 |  |
+| [Freezing Flames](https://open.spotify.com/track/3E707vZ9VptHHjJMALAP5W) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8), [Bryant Powell](https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs) | [Freezing Flames](https://open.spotify.com/album/27tIWfm84Ysk2CrdtM7rgK) | 3:09 | 2024-05-07 |  |
 | [French World](https://open.spotify.com/track/5Un2vzH9N76znPwbvP2HDv) | [Sirio](https://open.spotify.com/artist/79KCDHU3ea3UKNfGJ651y6) | [Frenchcore World](https://open.spotify.com/album/1EOVvoCHJO0RuYPrmTOhFt) | 4:44 | 2022-11-29 |  |
 | [FRIENDS \- Hardstyle Mix](https://open.spotify.com/track/7yVUbCb4fytbIkDS2qGjoa) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [FRIENDS \(Hardstyle Mix\)](https://open.spotify.com/album/4WHbTqayqdmHnxlHJ1grpj) | 1:30 | 2023-01-29 |  |
 | [Front To Back](https://open.spotify.com/track/6ylxMbkS7oV0KMmBvennzY) | [SethroW](https://open.spotify.com/artist/5arxTnV31qhagUdKYYiLH8) | [Front To Back](https://open.spotify.com/album/5ZK6KlI6302sDF7Rk0M4ys) | 3:36 | 2022-10-05 |  |
@@ -812,6 +813,7 @@
 | [New World](https://open.spotify.com/track/2be9z208re9N5tVLkYQu3g) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY), [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [New World](https://open.spotify.com/album/2bEjGrgH51CyjwP3KuBXuM) | 3:44 | 2022-10-03 |  |
 | [NEXT LEVEL](https://open.spotify.com/track/7kEINvPA2ZLzUiDf5CWxkN) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [NEXT LEVEL](https://open.spotify.com/album/25iI6m8vVfKYnONp9G2kyT) | 2:22 | 2023-06-30 |  |
 | [Next Level](https://open.spotify.com/track/6R2dl9SIZ0A7jlTOXafxn0) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Alternate Identity](https://open.spotify.com/album/0r0MQ2rse313JcNiYtvdjV) | 3:28 | 2023-05-02 |  |
+| [Next To You](https://open.spotify.com/track/6cx4Tn5mzcIMtNMBHEhPuT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Next To You](https://open.spotify.com/album/4jfFuHvBczZyR4xNkbkfd4) | 2:44 | 2024-05-07 |  |
 | [NGU](https://open.spotify.com/track/5Wv9KDm92zm6myjJDcoUaf) | [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT), [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [NGU](https://open.spotify.com/album/14akDbRLtNKL3I0BGeIlmH) | 3:28 | 2023-06-02 |  |
 | [Night Like This \(Nick Skitz, Mindblast, Uwaukh Remix\)](https://open.spotify.com/track/4BJZjaTq6eknjD0aohVyor) | [Shiralee Coleman](https://open.spotify.com/artist/7q1u9tWian8y9CsWikyt2h), [Nick Skitz](https://open.spotify.com/artist/0b56YzqAu22jh2CDUYvbbx), [Mindblast](https://open.spotify.com/artist/1dc1mqf0iyyGnElrhMKUFU), [STEFF](https://open.spotify.com/artist/0rqywi7F83tyNKFcsL9DZN), [Uwaukh](https://open.spotify.com/artist/48lBDQV7QlyiwPS7LaRohb) | [Night Like This \(Nick Skitz, Mindblast, Uwaukh Remix\)](https://open.spotify.com/album/23pL1k7lthFEIjgcYxvpwU) | 2:33 | 2023-07-04 |  |
 | [Nightfallen \- Feryquitous Remix](https://open.spotify.com/track/3D8ALGzivIjaItlOK497rC) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [Feryquitous](https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30) | [N+CODE](https://open.spotify.com/album/7nybmeSPmHySV7jC2Y4Bnx) | 3:50 | 2022-08-12 |  |

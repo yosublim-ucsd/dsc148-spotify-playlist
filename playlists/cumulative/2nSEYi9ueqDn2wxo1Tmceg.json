@@ -7091,6 +7091,24 @@
     },
     {
       "album": {
+        "name": "I Want What I Don't Need",
+        "url": "https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj"
+    },
+    {
+      "album": {
         "name": "I Was There",
         "url": "https://open.spotify.com/album/0HT5XoirMNKI8h7jlddNHc"
       },

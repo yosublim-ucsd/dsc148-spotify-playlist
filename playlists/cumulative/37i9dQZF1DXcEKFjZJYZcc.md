@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-300 songs - 12 hr 15 min
+301 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Memoirs](https://open.spotify.com/track/0YF4Mt2ogoa0LmjVAtuWX0) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Memoirs](https://open.spotify.com/album/2EsHsEfS3J41jWl61q12yt) | 2:07 | 2022-04-28 |  |
 | [Mistral](https://open.spotify.com/track/592I7fjtb5nNIFiI6UphGw) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Mistral](https://open.spotify.com/album/2PzlydU3HyzJ7nWMXRlTTW) | 5:03 | 2022-08-30 | 2022-10-27 |
 | [Mistral](https://open.spotify.com/track/79PEP3OdHaiHlTq2Cdq2aK) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Contemplations \~ Opus I & II](https://open.spotify.com/album/2ck5A1qAUzsv5exkPPgRgS) | 5:03 | 2022-10-26 |  |
+| [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 | 2024-05-07 |  |
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-14 | 2023-01-28 |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2021-12-14 | 2022-04-05 |
 | [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 | 2022-12-06 | 2023-09-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 376213,
+  "num_followers": 376214,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "All-American Cowboy",
         "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 160784,
       "name": "Skip a Rope",
       "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
         "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 140306,
       "name": "Pop a Top",
       "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Love's Gonna Live Here",
-      "url": "https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV"
+      "duration_ms": 148000,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
     },
     {
       "added_at": "2023-11-21 21:06:39",

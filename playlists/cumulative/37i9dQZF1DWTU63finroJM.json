@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 208978,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
@@ -7586,6 +7586,24 @@
       "duration_ms": 200386,
       "name": "Fui El Borrego",
       "url": "https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR"
+    },
+    {
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "album": {

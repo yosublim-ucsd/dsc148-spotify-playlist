@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 513659,
+  "num_followers": 513730,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAADhMCd3y7dgnc8ddpxIGBHV",
+  "snapshot_id": "ZjgdgAAAAAAHx16Ap3B5N0QzFw8lhA19",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": null,
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infidels",
-        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 376160,
-      "name": "Jokerman",
-      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+      "duration_ms": 160000,
+      "name": "Song to Woody",
+      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
     },
     {
       "added_at": null,
@@ -551,6 +567,22 @@
       "duration_ms": 258973,
       "name": "Meet Me in the Morning",
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infidels",
+        "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 376160,
+      "name": "Jokerman",
+      "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
     },
     {
       "added_at": null,
@@ -599,6 +631,22 @@
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -763,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -775,70 +839,6 @@
       "duration_ms": 309936,
       "name": "House of the Risin' Sun",
       "url": "https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Out Of Mind",
-        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rough and Rowdy Ways",
-        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 253853,
-      "name": "Goodbye Jimmy Reed",
-      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
-        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 180269,
-      "name": "Man of Constant Sorrow",
-      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
     }
   ],
   "unique_name": "This Is Bob Dylan",

@@ -2509,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Oru Mazhayude",
+        "url": "https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8"
+      },
+      "artists": [
+        {
+          "name": "Kavya Ajit",
+          "url": "https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3"
+        },
+        {
+          "name": "Zail",
+          "url": "https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Oru Mazhayude",
+      "url": "https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh"
+    },
+    {
+      "album": {
         "name": "Pa Pe Po\u2026",
         "url": "https://open.spotify.com/album/2A74441osOofLBpnQucu2F"
       },
@@ -3070,6 +3092,28 @@
       "duration_ms": 282000,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG"
+    },
+    {
+      "album": {
+        "name": "Swapname",
+        "url": "https://open.spotify.com/album/3mvzVMfX6EmUKMe39Xm1QO"
+      },
+      "artists": [
+        {
+          "name": "Emil Mohammed",
+          "url": "https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx"
+        },
+        {
+          "name": "Raazi",
+          "url": "https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226097,
+      "name": "Swapname",
+      "url": "https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00"
     },
     {
       "album": {

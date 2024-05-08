@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. The essential tracks, all in one playlist.
+> This Is League of Legends\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,346 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,378 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 27 | [Fire To The Fuse](https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [Fire To The Fuse](https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL) | 3:44 |
 | 28 | [As We Fall](https://open.spotify.com/track/6piIJpTPBi60m8nb4f9eyG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [As We Fall](https://open.spotify.com/album/42ErOYPtu6lYbsbGkh9JO5) | 3:09 |
 | 29 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
-| 30 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
-| 31 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
+| 30 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
+| 31 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
 | 32 | [Rise \(Redux\)](https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rise \(Redux\)](https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC) | 3:14 |
 | 33 | [Bring Home The Glory](https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Bring Home The Glory](https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn) | 2:59 |
 | 34 | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/track/40giNwfX1pR3smltxvs3dB) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5qQkzCr8H5NyzkzVKlGGMm) | 3:09 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 47 | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV) | 3:38 |
 | 48 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 | 49 | [Skarner, the Primordial Sovereign](https://open.spotify.com/track/623tubTmArxq2CBgxLHMFU) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Skarner, the Primordial Sovereign](https://open.spotify.com/album/3CpC54hcNhX629RQCxNj2k) | 3:28 |
-| 50 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
-| 51 | [Lee Sin, the Blind Monk](https://open.spotify.com/track/7K4eBNwSXioHdSkzNeNUph) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Lee Sin, the Blind Monk](https://open.spotify.com/album/45FmQlpIspEOjoK8yGMtaC) | 4:03 |
+| 50 | [Lee Sin, the Blind Monk](https://open.spotify.com/track/7K4eBNwSXioHdSkzNeNUph) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Lee Sin, the Blind Monk](https://open.spotify.com/album/45FmQlpIspEOjoK8yGMtaC) | 4:03 |
+| 51 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
 
-Snapshot ID: `ZjbMAAAAAAAZiXB+ZJ++ymunOB8BKhBX`
+Snapshot ID: `ZjgdgAAAAACyUkHexFiFf+MirdIgXLHI`

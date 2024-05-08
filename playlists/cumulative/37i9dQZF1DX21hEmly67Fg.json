@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/0nAtQD7Ff7AbEGwYSyyLLE"
+      },
+      "artists": [
+        {
+          "name": "Sinead Fisher",
+          "url": "https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168354,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/7fOo5e67qKZg3NfgGO6SGL"
+    },
+    {
+      "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds"
       },

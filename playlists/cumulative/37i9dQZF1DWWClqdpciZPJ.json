@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ce\u30fc\u30ce\u30ef\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj"
+      },
+      "artists": [
+        {
+          "name": "Sangatsu no Phantasia",
+          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208635,
+      "name": "\u30b9\u30ce\u30fc\u30ce\u30ef\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30d6\u30eb\u30fb\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1LqaaFU8SxwhxBj9VZJogi"
       },

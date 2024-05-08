@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>No\u00ebl Mio</a>",
-  "num_followers": 21646,
+  "num_followers": 21669,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQpPAAAAAAK//e8r9LJEH4pkB8/4pnY",
+  "snapshot_id": "Zjn3ygAAAACi1xnANBRuxdSjBbLk5A7b",
   "tracks": [
     {
       "added_at": "2024-05-03 00:01:00",
@@ -115,6 +115,22 @@
       "duration_ms": 217241,
       "name": "Shout for Joy",
       "url": "https://open.spotify.com/track/0OmJiWLgMfjQ83EKHNdInB"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/57IWL5CNvUgpVXWrXu4LbG"
+      },
+      "artists": [
+        {
+          "name": "TRIBE",
+          "url": "https://open.spotify.com/artist/73PowpzyXkOYzZZ6EobfwS"
+        }
+      ],
+      "duration_ms": 433237,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/0ShgpmYi3YOgrPgmvvor4w"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 548437,
       "name": "The Lion",
       "url": "https://open.spotify.com/track/13paAF8yaaRM0IinklGWzL"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/57IWL5CNvUgpVXWrXu4LbG"
-      },
-      "artists": [
-        {
-          "name": "TRIBE",
-          "url": "https://open.spotify.com/artist/73PowpzyXkOYzZZ6EobfwS"
-        }
-      ],
-      "duration_ms": 433237,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/0ShgpmYi3YOgrPgmvvor4w"
     },
     {
       "added_at": "2024-05-03 00:01:00",

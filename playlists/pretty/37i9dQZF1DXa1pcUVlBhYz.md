@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo and Jamie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,855 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,856 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 4 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 |
 | 5 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 |
 | 6 | [Do Dat Baby](https://open.spotify.com/track/0bc4eMlnbXmvr04HMlYTmm) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 3:07 |
-| 7 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
+| 7 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 8 | [Get Up](https://open.spotify.com/track/74JJYcznumjoCXPeidwOYy) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Tasha LaRae](https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ) | [Get Up](https://open.spotify.com/album/0nOA2O2aFAk8EmiBjVNS8I) | 2:40 |
 | 9 | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/track/3bSmptlKjwEpTEuCKImUEg) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/album/3CCjUqC7qwEAdmGrp0kRGh) | 3:13 |
 | 10 | [U Got Me](https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [U Got Me](https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb) | 3:21 |

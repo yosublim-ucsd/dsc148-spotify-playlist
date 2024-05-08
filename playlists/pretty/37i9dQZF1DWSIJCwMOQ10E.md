@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,508 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,517 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 42 | [Chiquita](https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Benji Cordero](https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3) | [Chiquita](https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch) | 2:28 |
 | 43 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
 | 44 | [Borracha \(with Fernando Echavarria\)](https://open.spotify.com/track/4G0reXgEs8cCO1cSIrVpdD) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Fernando Echavarria](https://open.spotify.com/artist/4jLZSWKqpTTj7oL3kfZ5FP) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 3:02 |
-| 45 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
-| 46 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 |
+| 45 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 |
+| 46 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
 | 47 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Greatest Hits](https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ) | 3:57 |
 | 48 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 |
 | 49 | [Las Cuatro Fiestas](https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Mi Fiesta Favorita, Vol\. 1](https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI) | 3:44 |

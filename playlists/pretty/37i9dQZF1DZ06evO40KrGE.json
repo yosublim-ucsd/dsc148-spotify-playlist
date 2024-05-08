@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 33582,
+  "num_followers": 33594,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAAk46vGL0Iahbdbpeombt00",
+  "snapshot_id": "ZjgdgAAAAAAScMtKCaZERjy+gTkKypwD",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 276549,
-      "name": "Mergulhe",
-      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -628,9 +628,25 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 300419,
+      "name": "Deus Velar\u00e1 por Ti",
+      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 259103,
       "name": "Olha o Que Deus Faz (Ao Vivo)",
       "url": "https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 300419,
-      "name": "Deus Velar\u00e1 por Ti",
-      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 446937,
-      "name": "O Abra\u00e7o do Noivo",
-      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 274181,
       "name": "Erguer as M\u00e3os",
       "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 446937,
+      "name": "O Abra\u00e7o do Noivo",
+      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 340125,
-      "name": "Dia Inesquec\u00edvel",
-      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 340125,
+      "name": "Dia Inesquec\u00edvel",
+      "url": "https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -823,30 +823,6 @@
       "duration_ms": 433562,
       "name": "Fala Jesus Querido",
       "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 515873,
-      "name": "Medley Ouve, Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46"
     },
     {
       "added_at": null,
@@ -879,6 +855,30 @@
       "duration_ms": 311286,
       "name": "O Fogo de Deus",
       "url": "https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 515873,
+      "name": "Medley Ouve, Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46"
     },
     {
       "added_at": null,

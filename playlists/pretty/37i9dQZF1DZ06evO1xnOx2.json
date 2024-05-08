@@ -1,12 +1,12 @@
 {
-  "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 485850,
+  "description": "This Is Hozier. Los temas esenciales, todos en una lista.",
+  "num_followers": 486385,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAB2iFqyv5jRsGb+NtwP4RCq",
+  "snapshot_id": "ZjgdgAAAAABVE+HaOeRUgMWypWJ+5Xts",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 283466,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fare Well",
-      "url": "https://open.spotify.com/track/2VB6TOrUH8suLLiHIisrKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be (Acoustic)",
+        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 257346,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/4zvvvHm0b5CBl37tocxm7n"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 196613,
       "name": "I, Carrion (Icarian)",
       "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be (Acoustic)",
-        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Be - Acoustic",
-      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 271696,
       "name": "Blood Upon the Snow",
       "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
     },
     {
       "added_at": null,

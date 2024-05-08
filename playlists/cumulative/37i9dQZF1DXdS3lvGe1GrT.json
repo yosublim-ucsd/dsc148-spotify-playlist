@@ -9435,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "I Can't Be Friends With You",
+        "url": "https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5"
+      },
+      "artists": [
+        {
+          "name": "Sara Sommerer",
+          "url": "https://open.spotify.com/artist/7t3a0pLRpE216teeNNhKpa"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128223,
+      "name": "I Can't Be Friends With You",
+      "url": "https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb"
+    },
+    {
+      "album": {
         "name": "I Can't Lie",
         "url": "https://open.spotify.com/album/2Ogm8mVsPFPFihI1N6opk1"
       },

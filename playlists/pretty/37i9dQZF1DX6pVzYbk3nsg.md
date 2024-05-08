@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,960 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,969 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plena y Bomba \(feat\. Calle 13\)](https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Afrodiaspora](https://open.spotify.com/album/33P899lSs20h8BEWTKskCv) | 4:38 |
 | 2 | [Que Bonita Bandera](https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Corazón](https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5) | 4:50 |
-| 3 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
-| 4 | [El Doctor Guenaga](https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:32 |
+| 3 | [El Doctor Guenaga](https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:32 |
+| 4 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
 | 5 | [El Hijo de Boriken](https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Betances Suena Asi \(\#Bandasonoraelantillano\)](https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB) | 5:32 |
 | 6 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 |
 | 7 | [Medley De La Calle San Sebastian](https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Estamos Gozando](https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ) | 6:21 |
 | 8 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
-| 9 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 |
-| 10 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
-| 11 | [Que Bonita Bandera](https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg) | [Ramito](https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN) | [Raíces Borincanas](https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS) | 3:22 |
+| 9 | [El Tumbe](https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH) | [Plena Combativa](https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d) | [Plena Combativa](https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD) | 4:59 |
+| 10 | [Que Bonita Bandera](https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg) | [Ramito](https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN) | [Raíces Borincanas](https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS) | 3:22 |
+| 11 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 |
 | 12 | [Bombale](https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5) | [Bomba & Plena](https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB) | [Pal' Mundo](https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH) | 3:49 |
 | 13 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
 | 14 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |

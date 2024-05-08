@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-870 songs - 2 day 16 hr 10 min
+871 songs - 2 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,11 +344,12 @@
 | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/6JUEcPHJGHwq6aXiN1hz3c) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/album/3PdYK4sfbEwG5Mz3FxnHnD) | 2:53 | 2022-07-13 | 2023-11-18 |
 | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/6h4wWGxBP0NMPiyizGBGBM) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Holy Roller \(feat\. Ryo Kinoshita\)](https://open.spotify.com/album/6sBSZ1O4VeCQyjpcVlkRb0) | 2:53 | 2023-12-06 | 2024-04-19 |
 | [Holy Wars...The Punishment Due \- Remastered](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2022-03-22 | 2022-06-09 |
+| [Horror Domain](https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Horror Domain](https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK) | 3:00 | 2024-05-03 |  |
 | [Hounds of Justice](https://open.spotify.com/track/63Y4ySlIgPwnva0Mg9EeLJ) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Hounds of Justice](https://open.spotify.com/album/4K3xhZe9oGPMyweUVgsvye) | 3:51 | 2022-03-22 | 2022-04-21 |
 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 | 2021-12-17 |  |
 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 | 2024-04-19 |  |
 | [Humanoid](https://open.spotify.com/track/5tUZwaxzIk8vdXMzMiegRh) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Humanoid](https://open.spotify.com/album/6yUcQWzIvRnGdJqN1CpmuD) | 4:35 | 2024-03-08 | 2024-05-03 |
-| [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 |  |
+| [Hungry and Angry](https://open.spotify.com/track/57PT761NIApIzfORTkmwWU) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Steelfactory](https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP) | 4:36 | 2021-12-17 | 2024-05-08 |
 | [Hunting High and Low](https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Infinite](https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF) | 4:08 | 2024-04-05 |  |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-07-13 | 2023-12-07 |
 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 | 2022-03-22 | 2024-04-20 |

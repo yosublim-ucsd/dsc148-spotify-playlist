@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Welcome to the world of \u201cCode Geass\u201d series!  \u6b74\u4ee3OP/ED\u3001\u30b5\u30f3\u30c8\u30e9\u66f2\u3067\u8fbf\u308b\u30a2\u30cb\u30e1\u300c\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u4e16\u754c\uff01\u00a9SUNRISE/PROJECT GEASS\u30fbMBS\u3000Character Design \u00a9 2006 CLAMP",
-  "name": "CODE GEASS SERIES -\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9\u30b7\u30ea\u30fc\u30ba-",
+  "description": "Welcome to the world of \u201cCode Geass\u201d series!  \u6b74\u4ee3OP/ED\u3001\u30b5\u30f3\u30c8\u30e9\u66f2\u3067\u8fbf\u308b\u30a2\u30cb\u30e1\u300c\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u4e16\u754c\uff01\u00a9SUNRISE\uff0fPROJECT G-ROZE\u3000Character Design \u00a92006-2024 CLAMP\u30fbST",
+  "name": "CODE GEASS SERIES\u300c\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9\u300d\u30b7\u30ea\u30fc\u30ba",
   "tracks": [
     {
       "album": {
@@ -1186,6 +1186,24 @@
       "duration_ms": 124500,
       "name": "rolo",
       "url": "https://open.spotify.com/track/6MGLNRrCWs8wenshQnwVms"
+    },
+    {
+      "album": {
+        "name": "Running In My Head",
+        "url": "https://open.spotify.com/album/1YtIkvh6EZlFyQcssxaSjd"
+      },
+      "artists": [
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "Running In My Head",
+      "url": "https://open.spotify.com/track/3xpd1Ha58kJlIlUwN0D6dg"
     },
     {
       "album": {

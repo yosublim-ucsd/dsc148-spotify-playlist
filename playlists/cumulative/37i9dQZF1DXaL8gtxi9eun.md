@@ -2,9 +2,9 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: Ragheb Alama
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
-310 songs - 18 hr 39 min
+312 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-07-11 | 2024-02-07 |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2022-05-04 | 2022-06-21 |
 | [Ana Law Zalana](https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ana Law Zalana](https://open.spotify.com/album/5jlBWv94WL8GY0M1CYqjAj) | 4:11 | 2022-05-04 | 2022-08-10 |
-| [Ana Mish Soutak](https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Mish Soutak](https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O) | 3:07 | 2024-04-11 |  |
+| [Ana Mish Soutak](https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Mish Soutak](https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O) | 3:07 | 2024-04-11 | 2024-05-08 |
 | [Ana Wel Shog](https://open.spotify.com/track/0kskiFzt4hU3iq6wVcsL2X) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Myriam](https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL) | 4:35 | 2023-05-17 | 2023-07-12 |
 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 | 2022-05-04 | 2022-07-15 |
 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 | 2023-07-11 | 2023-08-19 |
@@ -318,5 +318,7 @@
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-11 | 2023-07-12 |
 | [يمكن خير](https://open.spotify.com/track/70pc3FZNGfIHJ2pnU4fJBA) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [يمكن خير](https://open.spotify.com/album/21ollpdRxaKYtkDRxq8E7a) | 3:36 | 2022-12-29 | 2023-01-14 |
 | [٣٠ حياة](https://open.spotify.com/track/2uhzCIW1KnPv465S7myMQx) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [٣٠ حياة](https://open.spotify.com/album/6lGUTiWhKmZMStRv2obKbJ) | 5:18 | 2024-02-17 |  |
+| [⁠Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 | 2024-05-07 |  |
+| [⁠Nazarat](https://open.spotify.com/track/5xiz9j91A3c5o3h08uIToP) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:18 | 2024-05-07 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,079 likes - 100 songs - 5 hr 4 min
+[](https://open.spotify.com/user/null) - 74,296 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

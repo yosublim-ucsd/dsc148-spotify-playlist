@@ -4,7 +4,7 @@
 
 > "b\*tch i'm taylor swift" \-Porter Robinson
 
-2,048 songs - 3 day 21 hr 5 min
+2,049 songs - 3 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/5EiwfaQxmwjCyPLZ7i6kxW), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 | 2020-11-06 | 2021-02-10 |
 | [Dicktator](https://open.spotify.com/track/0thryZfIkjcK4HYSYxoKNn) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [Ayesha.FM](https://open.spotify.com/album/0QSVXACJfKLU1bKQLPRNs5) | 1:09 | 2022-05-20 | 2022-10-22 |
 | [Dicktator](https://open.spotify.com/track/1gxQlxEH96JcEkLcMuVsSw) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Ayesha.FM](https://open.spotify.com/album/33TvUK8kGWO1azjPHwo7gJ) | 1:09 | 2024-04-12 | 2024-05-04 |
+| [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 1:55 | 2024-05-07 |  |
 | [die b4 u](https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [die b4 u](https://open.spotify.com/album/1lUThx8quUxLaZS0Yg7V37) | 3:00 | 2022-07-08 | 2022-10-22 |
 | [difficult](https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [difficult](https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh) | 2:04 | 2022-10-14 | 2022-12-03 |
 | [DIP N DRIP](https://open.spotify.com/track/2BH9ryNKlONkENIhgMM4lq) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [DIP N DRIP](https://open.spotify.com/album/1FaryKGpT1iu4YXsNMWwdE) | 2:52 | 2021-02-26 | 2021-07-15 |

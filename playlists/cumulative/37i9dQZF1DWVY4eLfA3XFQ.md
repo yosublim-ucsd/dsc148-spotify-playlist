@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Odd Mob & OMNOM\. 50% techno, 50% house
 
-1,586 songs - 3 day 17 hr 21 min
+1,587 songs - 3 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,7 @@
 | [Her](https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz) | [AMPRS&ND](https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK) | [Her](https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR) | 3:05 | 2024-02-23 | 2024-03-23 |
 | [Her](https://open.spotify.com/track/4qhQ4ociO0X2DJ7f6wfMO1) | [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74), [Kieran San Jose](https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli) | [Her](https://open.spotify.com/album/23bHuDzuxVbdW1TOOwouSZ) | 2:50 | 2024-04-05 | 2024-05-04 |
 | [Here With You](https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Here With You](https://open.spotify.com/album/2bckXiVdAAmStOvsZlfOzx) | 2:19 | 2023-09-01 | 2023-10-07 |
-| [Hide U](https://open.spotify.com/track/6t66VoimUkuQLb2b00Z09Z) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Hide U](https://open.spotify.com/album/4gcOF9P8Whq2NwM2ZA0qdV) | 3:47 | 2024-05-03 |  |
+| [Hide U](https://open.spotify.com/track/6t66VoimUkuQLb2b00Z09Z) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Hide U](https://open.spotify.com/album/4gcOF9P8Whq2NwM2ZA0qdV) | 3:47 | 2024-05-03 | 2024-05-08 |
 | [High](https://open.spotify.com/track/38QZnd0zSofvcobBpXuWAJ) | [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO), [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [High](https://open.spotify.com/album/0qd5jmxOt5UVUc9Xe9mj6b) | 2:36 | 2022-04-15 | 2022-07-09 |
 | [High On You](https://open.spotify.com/track/7L2DfuGgMVISlSDK0XbX7m) | [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3), [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [High On You EP](https://open.spotify.com/album/6VhOYm6on5ZyoIc3ezSNih) | 3:41 | 2022-01-21 | 2022-03-12 |
 | [High On You](https://open.spotify.com/track/07czzRrnKKIl0VAvUNtpXj) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [High On You](https://open.spotify.com/album/0Ztkbr3ydc1HvqaRHGGn3u) | 2:43 | 2021-11-26 | 2022-01-06 |
@@ -792,6 +792,7 @@
 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 | 2023-07-07 | 2023-11-25 |
 | [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 | 2023-02-03 | 2023-07-22 |
 | [Locco](https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Locco](https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj) | 3:03 | 2022-02-25 | 2022-05-14 |
+| [Loco](https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Loco](https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l) | 3:27 | 2024-04-12 |  |
 | [Lollipop](https://open.spotify.com/track/76zmS8kgCt3bT3DCCQNVjb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Lollipop](https://open.spotify.com/album/7D88nh9xVN5urt7L5JHKVs) | 2:34 | 2022-03-11 | 2022-04-23 |
 | [London Rain](https://open.spotify.com/track/72i8xYqxe6BikDlKH4ULiZ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [London Rain](https://open.spotify.com/album/4Vaa1it8VgDKC7gXKTRowK) | 3:04 | 2022-09-16 | 2022-10-08 |
 | [Look At The Sky](https://open.spotify.com/track/0Ciiabxoze0pEIapuPQUWF) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Look At The Sky](https://open.spotify.com/album/6gZleaziQMLzD9dDpijxD6) | 2:48 | 2023-02-10 | 2023-03-18 |

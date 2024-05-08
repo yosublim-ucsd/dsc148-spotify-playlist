@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAmR5QROLoC53N82Pr6IF+R",
+  "snapshot_id": "AAAAAAAAAACJrYXSWSFBeXqim7yhT5dN",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Sweet Home Alabama (Metal Version)",
+        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 244503,
+      "name": "Sweet Home Alabama (Metal Version)",
+      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Get Lit",
         "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
       },
@@ -159,18 +175,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Sweet Home Alabama (Metal Version)",
-        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 244503,
-      "name": "Sweet Home Alabama (Metal Version)",
-      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
+      "duration_ms": 189867,
+      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
+      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -203,26 +223,6 @@
       "duration_ms": 285122,
       "name": "Boomer Rang",
       "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
-      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "You Took the Blue",
-        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 153658,
-      "name": "You Took the Blue",
-      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "GUTTR",
         "url": "https://open.spotify.com/album/3RatZflq254ffN2eDDyVGO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 285695,
       "name": "Stop Playin",
       "url": "https://open.spotify.com/track/7mt48nkX01l3eflliZGAbA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "You Took the Blue",
+        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "You Took the Blue",
+      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
     },
     {
       "added_at": "2024-05-03 04:00:00",

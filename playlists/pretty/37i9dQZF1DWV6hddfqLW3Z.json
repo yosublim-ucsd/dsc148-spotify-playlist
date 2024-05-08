@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 795109,
+  "num_followers": 795137,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Mexeu comigo",
+      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
+    },
+    {
+      "added_at": "2024-05-03 03:00:00",
+      "album": {
         "name": "Mariana e Mestrinho",
         "url": "https://open.spotify.com/album/0rX7s9GkjyarNCdGUpjGz8"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 249554,
       "name": "At\u00e9 o fim",
       "url": "https://open.spotify.com/track/4vNwoGBuu6IFYUBOPWBG3R"
-    },
-    {
-      "added_at": "2024-05-03 03:00:00",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Mexeu comigo",
-      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
     },
     {
       "added_at": "2024-05-03 03:00:00",

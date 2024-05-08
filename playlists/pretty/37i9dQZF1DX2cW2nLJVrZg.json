@@ -1,6 +1,6 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 258862,
+  "num_followers": 258850,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Dune (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ"
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
       "artists": [
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
         }
       ],
-      "duration_ms": 314786,
-      "name": "Ripples in the Sand",
-      "url": "https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH"
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+        "name": "Dune (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ"
       },
       "artists": [
         {
-          "name": "Benjamin Bratt",
-          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 109280,
-      "name": "Remember Me (Ernesto de la Cruz)",
-      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+      "duration_ms": 314786,
+      "name": "Ripples in the Sand",
+      "url": "https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 169186,
       "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
       "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
     },
     {
       "added_at": "2024-01-23 19:55:12",

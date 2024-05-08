@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-384 songs - 1 day 0 hr 18 min
+386 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [El Reloj](https://open.spotify.com/track/0kYclTHk8XBkFpkm9qmawX) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Los 50 Mejores Boleros](https://open.spotify.com/album/3H3gELlMncLEG4Jno807Po) | 2:37 | 2022-01-01 | 2022-06-08 |
 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 | 2022-06-02 |  |
 | [El Triste](https://open.spotify.com/track/1YICQeq7s1Q2QmaOU1CxwS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose 25 Años Vol\. 1](https://open.spotify.com/album/3oE5yCMIq1LK8AfCmZlokU) | 4:11 | 2022-01-01 | 2022-11-14 |
-| [El último beso \- The Last Kiss](https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:42 | 2022-01-01 |  |
+| [El último beso \- The Last Kiss](https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:42 | 2022-01-01 | 2024-05-08 |
 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:42 | 2022-01-01 |  |
 | [Enamorada y Herida](https://open.spotify.com/track/31BsrpQphP6KiRXjvJix5R) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:27 | 2022-06-02 | 2024-04-19 |
 | [Enamorada y Herida](https://open.spotify.com/track/6jpNvKy9tt6muQvg2tkRfL) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 1](https://open.spotify.com/album/2B1GpojNJLNPUg75CLCb20) | 3:30 | 2022-01-01 | 2022-07-29 |
@@ -173,6 +173,7 @@
 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 | 2022-08-31 | 2022-11-14 |
 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 | 2022-08-31 |  |
 | [Jurame](https://open.spotify.com/track/1xBg37ECDzty1i0UKPj9qa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:21 | 2022-01-01 | 2022-06-08 |
+| [La Bamba](https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Just Another Band From East L.A.: A Collection](https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87) | 2:52 | 2024-05-07 |  |
 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 | 2022-06-02 | 2024-05-07 |
 | [La Cima del Cielo](https://open.spotify.com/track/3C9fAn3IgajBTwR274huch) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:17 | 2022-01-01 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:37 | 2022-01-01 |  |
@@ -203,6 +204,7 @@
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2022-12-20 | 2024-04-19 |
 | [Luna mágica](https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg) | 4:12 | 2022-01-01 | 2022-07-15 |
 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 | 2022-01-01 |  |
+| [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 | 2024-05-07 |  |
 | [Mamma Maria](https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 2:59 | 2024-05-06 |  |
 | [Maracas](https://open.spotify.com/track/2L5E1nYG6OmtQY64BGaEEg) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Grandes Duetos](https://open.spotify.com/album/5Hd07gKZJAXezp3McQY7Lp) | 3:09 | 2022-01-01 | 2022-07-28 |
 | [Maracas](https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:08 | 2022-06-02 | 2024-04-19 |
@@ -292,7 +294,7 @@
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:55 | 2022-06-02 | 2024-01-10 |
 | [Que Sufras Más](https://open.spotify.com/track/56IWqrB3J9EU5WwB4tn9mR) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/04Wj2hxRNKcYSLodz3HwOS) | 3:48 | 2022-01-01 | 2022-07-29 |
 | [Quererte a Ti](https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Ellas Cantan Asi](https://open.spotify.com/album/1BgKg20qdA7FBX958CiXSe) | 4:36 | 2022-01-01 |  |
-| [Querida \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/5qxfr8OdO79j2bSvHPUCL5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Historia Del Divo](https://open.spotify.com/album/0I23whq0YCOR8Z7eDTZJFv) | 5:27 | 2022-01-01 |  |
+| [Querida \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/5qxfr8OdO79j2bSvHPUCL5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Historia Del Divo](https://open.spotify.com/album/0I23whq0YCOR8Z7eDTZJFv) | 5:27 | 2022-01-01 | 2024-05-08 |
 | [Quien Eres Tu?](https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Selecao De Ouro Vol.2](https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX) | 4:17 | 2022-01-01 |  |
 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/7A37XLWVNxRLw6DXMWJJlF) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 4:08 | 2022-01-01 | 2022-07-29 |
 | [Quiero Dormir Cansado](https://open.spotify.com/track/7gSWw9kAPQdVJ8iTO8ICLl) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [15 Emmanuel II](https://open.spotify.com/album/43lLS9qNN2P1ehu6dOZZvc) | 3:56 | 2022-01-01 | 2022-07-29 |

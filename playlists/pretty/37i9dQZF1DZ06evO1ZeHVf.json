@@ -1,12 +1,12 @@
 {
-  "description": "This is CeCe Winans. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 33606,
+  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
+  "num_followers": 33655,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABVtPT5U/suvoxlfgyQsW9m",
+  "snapshot_id": "ZjgdgAAAAACPEvvtGg0xnSPbRpsqRByW",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Jesus Come",
-        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 298050,
-      "name": "Come Jesus Come",
-      "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
     },
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 51466,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 332973,
       "name": "Alabaster Box",
       "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 635360,
-      "name": "King of Glory - Live",
-      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 83561,
       "name": "Oh The Blood Of Jesus",
       "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Looking Back At You",
-      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 79812,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4rBFZdjLJvBzGawP7XH52S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
       "duration_ms": 243373,
       "name": "Through It All - Live",
       "url": "https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Are We Waiting For?",
-        "url": "https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 196038,
-      "name": "What Are We Waiting For?",
-      "url": "https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Are We Waiting For?",
+        "url": "https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 196038,
+      "name": "What Are We Waiting For?",
+      "url": "https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 207400,
       "name": "More Than What I Wanted",
       "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Always: The Best Of CeCe Winans",
-        "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 321176,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2MnmmBeU0o1Xq56x4SuCJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Always: The Best Of CeCe Winans",
+        "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn"
     }
   ],
   "unique_name": "This Is CeCe Winans",

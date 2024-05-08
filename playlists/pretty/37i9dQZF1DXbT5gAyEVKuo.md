@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,794 likes - 49 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,833 likes - 49 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 39 | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Osby Berry](https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX) | [Yahweh / Yeshua Hamashiach](https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA) | 5:45 |
 | 40 | [He'll Take The Pain Away \- Live](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 41 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
-| 42 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 |
+| 42 | [Center Of My Joy \- Live](https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 7:25 |
 | 43 | [I Want More \- Live](https://open.spotify.com/track/4xuDNUP9gCNye1QSTS7Gkc) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Sharon Willingham](https://open.spotify.com/artist/7CmRu1RssDhfWHaW9YS0o1) | [I Want More \(Live\)](https://open.spotify.com/album/0H3x29mJ1RE9N4aQW4AdQn) | 7:42 |
 | 44 | [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 |
 | 45 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/2roFCNcQD9EZu0mk4XnmDI) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx) | 9:08 |

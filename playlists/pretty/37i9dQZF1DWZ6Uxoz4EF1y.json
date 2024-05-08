@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 182620,
+  "num_followers": 182712,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "En Tu Presencia",
-        "url": "https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 334222,
-      "name": "En Tu Presencia",
-      "url": "https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 424534,
       "name": "Hay Poder",
       "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "En Tu Presencia",
+        "url": "https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 334222,
+      "name": "En Tu Presencia",
+      "url": "https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 282106,
       "name": "Jes\u00fas, Has Mi Car\u00e1cter",
       "url": "https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -447,6 +447,38 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
         "name": "People - En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
       },
@@ -479,38 +511,6 @@
       "duration_ms": 286906,
       "name": "Mi Refugio",
       "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 605453,
-      "name": "Obra de Tu Amor - (Alfarero)",
-      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1227,26 +1227,22 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
       "artists": [
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+      "duration_ms": 225493,
+      "name": "Amor Imparable",
+      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1267,22 +1263,26 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Amor Imparable",
-      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2024-03-20 11:30:32",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-20 11:30:32",
       "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 295862,
-      "name": "Su Vida Me Dio",
-      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
-    },
-    {
-      "added_at": "2024-03-20 11:30:32",
-      "album": {
         "name": "Con el Mundo de Cabeza",
         "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 199973,
       "name": "Vamos Pa' Arriba",
       "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
+    },
+    {
+      "added_at": "2024-03-20 11:30:32",
+      "album": {
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 295862,
+      "name": "Su Vida Me Dio",
+      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
     },
     {
       "added_at": "2024-03-20 11:30:32",

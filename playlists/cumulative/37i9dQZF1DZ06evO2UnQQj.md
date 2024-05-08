@@ -2,7 +2,7 @@
 
 ### [This Is Clara Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UnQQj)
 
-> This is Clara Lima\. The essential tracks, all in one playlist.
+> This is Clara Lima。アーティストの代表曲をひとつのプレイリストに。
 
 71 songs - 4 hr 1 min
 

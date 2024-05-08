@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
-  "num_followers": 206152,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 206185,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAD/qh1T1W9Ib2s073d8snf0",
+  "snapshot_id": "ZjgdgAAAAAAJ+MdHYpU48OGjzZV3enFS",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suavecito",
-        "url": "https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Suavecito",
-      "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Una Oportunidad",
         "url": "https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO"
       },
@@ -903,6 +887,26 @@
       "duration_ms": 198622,
       "name": "Dame Una Oportunidad",
       "url": "https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 176288,
+      "name": "Si ella me faltara alguna vez (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN"
     },
     {
       "added_at": null,
@@ -927,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
       },
       "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 176288,
-      "name": "Si ella me faltara alguna vez (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN"
+      "duration_ms": 257933,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

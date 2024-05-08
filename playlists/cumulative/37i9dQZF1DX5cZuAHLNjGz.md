@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Sidhu Moose Wala
 
-340 songs - 17 hr 33 min
+341 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [KNOWN FACE](https://open.spotify.com/track/2tKPYF2Pmpn0s3saQfUo6g) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:36 | 2023-07-31 | 2023-12-13 |
 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 | 2023-11-06 |  |
 | [Koka \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/7Kluc7HsLzZKAaO2sH1N1C) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Koka \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/47f2MUOb3fDwsMVgHySIP9) | 2:30 | 2022-09-23 | 2023-02-14 |
+| [Koka Mundeya](https://open.spotify.com/track/5yMfxwgIf29DGyTmfR5zBl) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs) | [Koka Mundeya](https://open.spotify.com/album/3AO7roEjatUzR2pIyDmPub) | 3:26 | 2024-05-07 |  |
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-05-29 | 2022-07-14 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2022-05-29 | 2022-12-18 |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-06 |  |
@@ -184,7 +185,7 @@
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2022-05-29 | 2022-12-01 |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2022-05-29 | 2023-08-24 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-20 |
-| [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 | 2024-04-30 |  |
+| [Maghron La](https://open.spotify.com/track/6zU7GoGlsJtIUNPRGNl0m8) | [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Maghron La](https://open.spotify.com/album/0WwgZENQ2PIRVDqaVNzlSA) | 4:06 | 2024-04-30 | 2024-05-08 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2022-05-29 | 2022-06-03 |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 | 2023-08-01 |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 | 2023-05-27 |

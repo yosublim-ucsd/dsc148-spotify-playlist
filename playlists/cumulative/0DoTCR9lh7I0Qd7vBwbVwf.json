@@ -2781,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "solar lullaby",
+        "url": "https://open.spotify.com/album/5QKEkToSNlr9r4JsvwUmUk"
+      },
+      "artists": [
+        {
+          "name": "assol",
+          "url": "https://open.spotify.com/artist/4veIsGS7BjgJT5b1AWfSpH"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "solar lullaby",
+      "url": "https://open.spotify.com/track/4ctkp47D4UHjeQbJUPfHeX"
+    },
+    {
+      "album": {
         "name": "Echoes of Stardust",
         "url": "https://open.spotify.com/album/4xFwIg2DthGNA0bSRhgmsY"
       },

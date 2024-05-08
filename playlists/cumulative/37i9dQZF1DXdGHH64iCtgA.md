@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-263 songs - 20 hr 41 min
+264 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Catwalk](https://open.spotify.com/track/6mhD9IOxgWMb1E1Q0MBwrn) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Catwalk](https://open.spotify.com/album/2XVJ6DdHlyxnwylsPHPOdb) | 3:03 | 2022-05-06 |  |
 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 | 2022-05-06 |  |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2023-09-07 | 2023-10-02 |
+| [Challengers](https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 1:25 | 2024-05-07 |  |
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 |  |
 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 | 2022-05-06 |  |
 | [Colourblind](https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia) | [Gold Rush](https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs) | 4:31 | 2022-12-05 | 2023-09-08 |
@@ -109,7 +110,7 @@
 | [Il Ballo Del Potere](https://open.spotify.com/track/1Nujfh0EUJbuzm9ILrby43) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Non Conosco Nessun Patrizio!](https://open.spotify.com/album/6xPD9DwFdzmlGxI1tjPLHt) | 3:46 | 2023-09-07 | 2023-10-02 |
 | [Incapable \(Edit\)](https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable](https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S) | 3:30 | 2023-10-27 | 2024-04-19 |
 | [Incapable \- Edit](https://open.spotify.com/track/0NkBwp6CYkUYiPeRJjlRfk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable \(Remixes\)](https://open.spotify.com/album/0ghCFyT6QNBKgTDVLY5E8b) | 3:30 | 2022-05-06 | 2022-07-29 |
-| [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 |  |
+| [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 | 2024-05-08 |
 | [Iron 2021](https://open.spotify.com/track/19VTLxYPvCyYpAWxsfj3ir) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/6WYxdEPp7IVNMR5uBj8dRg) | 8:43 | 2022-05-06 |  |
 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 | 2022-06-14 | 2024-04-19 |
 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 | 2022-05-06 |  |

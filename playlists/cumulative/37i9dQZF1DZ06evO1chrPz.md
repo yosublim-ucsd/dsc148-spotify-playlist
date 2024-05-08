@@ -2,7 +2,7 @@
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Bethel Music\. Track\-track unggulan, semuanya dalam satu playlist.
 
 80 songs - 8 hr 6 min
 

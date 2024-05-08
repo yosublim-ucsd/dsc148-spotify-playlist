@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,717 likes - 103 songs - 5 hr 43 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,722 likes - 108 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,14 +102,19 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 92 | [too young.](https://open.spotify.com/track/4M0eoJc018DM503clpBigM) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 3:19 |
 | 93 | [Anemia](https://open.spotify.com/track/1TfGgQOfUUc0EpRqAkMykU) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Anemia](https://open.spotify.com/album/3EJPukArWrGXomGYPqZFeu) | 3:56 |
 | 94 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
-| 95 | [Thnx](https://open.spotify.com/track/3kUngdPstLUhp6QvbZlDvd) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Thnx](https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR) | 3:48 |
-| 96 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 |
-| 97 | [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 |
-| 98 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 |
-| 99 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
-| 100 | [Eye Contact](https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Eye Contact](https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9) | 3:00 |
-| 101 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 |
-| 102 | [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 |
-| 103 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
+| 95 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 |
+| 96 | [Thnx](https://open.spotify.com/track/3kUngdPstLUhp6QvbZlDvd) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Thnx](https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR) | 3:48 |
+| 97 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 |
+| 98 | [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 |
+| 99 | [Airhead](https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/1BOoOLLNUPLQNTuObi2PRh) | 2:43 |
+| 100 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 |
+| 101 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
+| 102 | [Eye Contact](https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Eye Contact](https://open.spotify.com/album/5ILzLXOOptC2YRhsurHYh9) | 3:00 |
+| 103 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 |
+| 104 | [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 |
+| 105 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
+| 106 | [Hangfire](https://open.spotify.com/track/7vwUPOzwMuaBuhckNt3jjf) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [What If I Break?](https://open.spotify.com/album/79u3lvbDz2DoOuJ6imUHJc) | 3:15 |
+| 107 | [Be Ok \- RMX](https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf) | [Petti Hendrix](https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Be Ok \(RMX\)](https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV) | 3:32 |
+| 108 | [Cold](https://open.spotify.com/track/6Xi6jtcUy81RpuEM5mGR5E) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Cold](https://open.spotify.com/album/7lCAAI6dIX8WHYeLdi503o) | 2:31 |
 
-Snapshot ID: `AAAazDw8gGGOSEbb65XFvuEzhPY5B042`
+Snapshot ID: `AAAa1fpeVwb2FTy4X2eubzbUULkK9ac0`

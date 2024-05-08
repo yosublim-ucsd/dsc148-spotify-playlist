@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Monza",
+        "url": "https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk"
+      },
+      "artists": [
+        {
+          "name": "Lorcan \u00d3 Faol\u00e1in",
+          "url": "https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133811,
+      "name": "Monza",
+      "url": "https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw"
+    },
+    {
+      "album": {
         "name": "More than Close",
         "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },

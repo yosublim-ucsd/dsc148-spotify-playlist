@@ -2,7 +2,7 @@
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Shirley Caesar\. Track\-track unggulan, semuanya dalam satu playlist.
 
 77 songs - 5 hr 45 min
 

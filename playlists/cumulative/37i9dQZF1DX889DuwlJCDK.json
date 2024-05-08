@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u4eca\u9031\u306fBye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f\u30b9\u30da\u30b7\u30e3\u30eb\uff01Playlist Stories\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046\u3002",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 248355,
       "name": "Dramatic Blue",
       "url": "https://open.spotify.com/track/1qH6BAQHjpBxl8wphvAcU9"
@@ -1824,6 +1824,24 @@
       "duration_ms": 194638,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6QZGcazgsh6N9Z1soJgNdn"
+    },
+    {
+      "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/22Ch3wBTwzaMgWKqIertI6"
+      },
+      "artists": [
+        {
+          "name": "FINLANDS",
+          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233265,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/4fmX6sOptsXNY1V3l0N6pd"
     },
     {
       "album": {
@@ -3092,6 +3110,24 @@
       "duration_ms": 181170,
       "name": "Musica",
       "url": "https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy"
+    },
+    {
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183637,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
     },
     {
       "album": {
@@ -4672,7 +4708,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 225080,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/3Y55AfuHLUFTQEixZJI5VU"
@@ -4852,7 +4888,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 322720,
       "name": "THE OVER",
       "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
@@ -4910,6 +4946,24 @@
       "duration_ms": 152248,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/24BRqjvg2RPJ5LAq05rzpm"
+    },
+    {
+      "album": {
+        "name": "Tinder",
+        "url": "https://open.spotify.com/album/730BB2jEKiiOb7p6ZjTVMe"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u3068\u79c1",
+          "url": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165941,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/4oeQcC53IpDBp6np5uDLOB"
     },
     {
       "album": {
@@ -5482,7 +5536,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 201140,
       "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
       "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
@@ -7174,7 +7228,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 307173,
       "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
       "url": "https://open.spotify.com/track/0D2ZQ5DKyys3UPAfeKpvwp"
@@ -8765,6 +8819,24 @@
     },
     {
       "album": {
+        "name": "\u5618\u3060\u3089\u3051\u306e\u65e5\u5e38\u306e\u4e2d\u3067 (\u518d\u9332 ver.)",
+        "url": "https://open.spotify.com/album/5vl7ydrMlvxCtYR7VUEfG9"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269493,
+      "name": "\u4e16\u754c\u304c\u50d5\u3092\u5acc\u3044\u306b\u306a\u3063\u3066\u3082 (2023 ver.)",
+      "url": "https://open.spotify.com/track/5UOwcLnhEvdUJp2vpOu5aj"
+    },
+    {
+      "album": {
         "name": "\u4e8c\u3007\u3007\u4e00",
         "url": "https://open.spotify.com/album/18MU5AvBjgWSFXzwTW8xMJ"
       },
@@ -9320,7 +9392,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 198293,
       "name": "\u541b\u306e\u8857\u307e\u3067",
       "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
@@ -11880,7 +11952,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 247133,
       "name": "\u9752\u3044\u306e\u3002",
       "url": "https://open.spotify.com/track/1XqGNBbV15PgSZayE4b3tO"
@@ -11988,7 +12060,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 321112,
       "name": "\u9752\u6625\u75c5",
       "url": "https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx"

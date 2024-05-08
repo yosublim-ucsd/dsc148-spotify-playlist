@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-276 songs - 15 hr 56 min
+278 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Mudhal Murai](https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Mudhal Murai](https://open.spotify.com/album/6ce5L0qcnyTzMOUa9hqnhT) | 2:49 | 2023-03-21 | 2023-07-25 |
 | [Mudhal Murai Remix](https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Mudhal Murai Remix](https://open.spotify.com/album/3orfjlmNbjAWjySPm8yu5Y) | 2:56 | 2023-11-20 | 2024-04-19 |
 | [Mudhal Parvai](https://open.spotify.com/track/7M2wK4BB2Uhc74QWEV3Jjc) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [The Papori Harsh Project](https://open.spotify.com/artist/7GO5R5zKT9i36NqNMIQzVJ) | [Mudhal Parvai](https://open.spotify.com/album/6BQ74G8Q7f4fJFj2PPWEwd) | 3:27 | 2023-03-21 | 2023-07-25 |
+| [Mudhal Vari](https://open.spotify.com/track/4KYqh9Y7x2uyfWIISz6MH9) | [MWS](https://open.spotify.com/artist/6sV5ynmJiP0Z36WSNcdfwC), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Mudhal Vari](https://open.spotify.com/album/33WGz7RCIIyqK6hpZsJhFi) | 1:58 | 2024-05-07 |  |
 | [My Dear Maname](https://open.spotify.com/track/48qw6aOZx9tOQbVjlyOqLo) | [Shahithya](https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf) | [My Dear Maname](https://open.spotify.com/album/1CRFQ9is8dZEsyRW5yF5M1) | 2:44 | 2024-04-01 |  |
 | [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-04-14 | 2023-10-04 |
 | [Nam Ooru Pen](https://open.spotify.com/track/0axJpGlVC5vxfsr0keVzym) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Nam Ooru Pen](https://open.spotify.com/album/0OIi1efxXmZKW7BTUJFPmU) | 3:37 | 2023-05-19 | 2023-06-24 |
@@ -252,6 +253,7 @@
 | [Unnai Arindhen](https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Rashmi Anand](https://open.spotify.com/artist/3fiP4MnI0ghnBS61q1VK7T) | [Unnai Arindhen](https://open.spotify.com/album/3q0Hlndf5sExAByNRrMruK) | 3:01 | 2023-10-17 | 2023-12-12 |
 | [Unnodu Mattum](https://open.spotify.com/track/1mXQEOOevGsu0xg7J2PiDT) | [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Unnodu Mattum](https://open.spotify.com/album/28CXiWmKxQAnKhQvUoryzD) | 2:48 | 2024-04-18 |  |
 | [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-06 | 2023-12-12 |
+| [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 | 2024-05-07 |  |
 | [Vaa Pogalam](https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaa Pogalam](https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY) | 3:57 | 2023-11-06 | 2023-12-12 |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 | 2024-04-13 |

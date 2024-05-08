@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-474 songs - 20 hr 31 min
+478 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-21 |  |
 | [Elskaði](https://open.spotify.com/track/6Pm6hmH3tcxVlZzelFqtmS) | [Guðmundur Helgason](https://open.spotify.com/artist/5enIukwt5q9TDbdmUmRPdz) | [Elskaði](https://open.spotify.com/album/5LMW0Vj3rQYkWTbvdosrsL) | 2:33 | 2022-07-15 |  |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-14 | 2022-06-08 |
+| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 |  |
 | [Fading Memories](https://open.spotify.com/track/2vj3EDcN6kanqFHzTfnNWH) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Fading Memories](https://open.spotify.com/album/41HNfLXPpmsOm4UtUxi7pV) | 2:46 | 2022-10-26 | 2024-03-05 |
 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 | 2022-06-07 |  |
@@ -151,6 +152,7 @@
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-14 | 2022-10-27 |
 | [Freddie's Theme](https://open.spotify.com/track/2oBPx5k5ejQcgzyDMoRlAU) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Freddie's Theme](https://open.spotify.com/album/7zJCUf2zTgutPRpweGoQiS) | 2:15 | 2022-04-14 | 2022-05-27 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-14 | 2023-05-10 |
+| [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 | 2024-05-07 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-14 | 2022-05-05 |
 | [Fýsi](https://open.spotify.com/track/0zYyu43x5caXk8EbIVGdqU) | [Thalis](https://open.spotify.com/artist/7yHGLV2Dy9w1FYG6RqTzp7) | [Fýsi](https://open.spotify.com/album/12ccCzAaV8mc4V8heoPnw1) | 2:18 | 2022-05-13 |  |
 | [Ghosts](https://open.spotify.com/track/0XBg77iBp7PDgS1WVTaALa) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Ghosts](https://open.spotify.com/album/3QryOljEG3HSBwKts56jM0) | 2:24 | 2024-03-04 |  |
@@ -191,6 +193,7 @@
 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 | 2024-04-03 |  |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-04-14 | 2022-05-27 |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2022-04-14 | 2024-04-04 |
+| [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 | 2024-05-07 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-04-14 | 2022-10-27 |
 | [In Time](https://open.spotify.com/track/4nnE3uemVYJK9oZ9ohvlBc) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [In Time](https://open.spotify.com/album/0mA3LTC850Eps4U1t80Tlv) | 2:59 | 2022-04-27 | 2024-04-04 |
 | [Indigo](https://open.spotify.com/track/0CtEIiyMbfaRDamb6Xuowz) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Indigo \| Serendipity](https://open.spotify.com/album/5iWWHiqGGNmgANGeomXzFt) | 3:09 | 2022-04-14 | 2022-10-27 |
@@ -369,6 +372,7 @@
 | [Spiritual](https://open.spotify.com/track/6mQhibY0WvzsX9K3ZR7OTC) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:12 | 2022-04-14 | 2022-07-16 |
 | [Spring Time Ballet](https://open.spotify.com/track/1tVqsgTUBOIsN8We0UtdqJ) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Spring Time Ballet](https://open.spotify.com/album/341LYFQqln5ycveU2A0F7L) | 2:28 | 2022-05-04 | 2024-02-15 |
 | [Starry Night](https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Starry Night](https://open.spotify.com/album/3yF2Uz0nbLkrSmli3CcevE) | 2:08 | 2023-07-18 | 2023-10-05 |
+| [Still Dreaming of You](https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV) | [Giulia Romano](https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI) | [Still Dreaming of You](https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq) | 2:26 | 2024-05-07 |  |
 | [Still Life](https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life](https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg) | 3:22 | 2022-04-14 | 2022-07-29 |
 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2022-07-15 | 2022-12-24 |
 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 | 2022-07-15 |  |

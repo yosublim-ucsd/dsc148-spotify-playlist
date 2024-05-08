@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 75785,
+  "num_followers": 75817,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAB8oaP/2Yt5qn73tiNa1U+h",
+  "snapshot_id": "ZjgdgAAAAADyA0pbQe/bVaPaJ7rSCgef",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "prada (Remix)",
+        "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 112413,
+      "name": "prada (Remix) (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 180234,
       "name": "All Star (with Lil Tjay)",
       "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "prada (Remix)",
-        "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 112413,
-      "name": "prada (Remix) (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
     },
     {
       "added_at": null,

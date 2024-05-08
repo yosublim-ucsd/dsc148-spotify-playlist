@@ -2,7 +2,7 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 文藝天国\(Blooming Bungei\)
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: GLIM SPANKY
 
 1,609 songs - 4 day 4 hr 13 min
 

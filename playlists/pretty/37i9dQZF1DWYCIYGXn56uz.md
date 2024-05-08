@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,323 likes - 61 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,386 likes - 61 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

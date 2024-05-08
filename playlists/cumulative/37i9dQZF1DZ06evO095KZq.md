@@ -2,7 +2,7 @@
 
 ### [This Is El Fantasma](https://open.spotify.com/playlist/37i9dQZF1DZ06evO095KZq)
 
-> This is El Fantasma\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is El Fantasma\. Los temas esenciales, todos en una lista.
 
 67 songs - 3 hr 12 min
 

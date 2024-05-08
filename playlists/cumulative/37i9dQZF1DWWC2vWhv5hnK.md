@@ -4,13 +4,14 @@
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-42 songs - 3 hr 11 min
+43 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3　MCカフカ役 福西勝也＆レノ役 加藤渉＆音楽・坂東祐大「”よかったら”って…いいに決まってんだろ！」](https://open.spotify.com/episode/0iBrFP7Oy6QQ3rZdd55PEt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 35:41 | 2024-04-30 |  |
 | [\#１　MCカフカ役 福西勝也＆ミナ役 瀬戸麻沙美「大最高！優勝！おめでとうございます！」「ひと言って言ったじゃん！笑」](https://open.spotify.com/episode/6HVGAUDNMWg9seHuNgstjh) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 29:16 | 2024-04-16 |  |
 | [\#２　MCカフカ役 福西勝也＆レノ役 加藤渉「「あれこんな人だったっけ」って思って笑」](https://open.spotify.com/episode/7kYWGj6mSRylNePdpxv9vK) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 33:34 | 2024-04-22 |  |
+| [\#４　MCカフカ役 福西勝也＆キコル役 ファイルーズあい 「ごめんなさい。私、完璧にポッドキャストできなかった。」「ミーム化させようとすな！」](https://open.spotify.com/episode/7hzpcvAmsOOsCqIyhhKtkt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 39:29 | 2024-05-07 |  |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-28 |  |
 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2024-03-13 | 2024-04-19 |
 | [Counting Stars](https://open.spotify.com/track/6zH1ROVhEcUXLb7FeVeaRx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 4:17 | 2024-04-13 | 2024-04-29 |

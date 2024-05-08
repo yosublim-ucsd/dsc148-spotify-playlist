@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-418 songs - 18 hr 17 min
+421 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-03-17 |  |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2021-12-14 | 2022-05-21 |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-10 |  |
+| [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 | 2024-05-07 |  |
 | [Elmegyünk](https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Elmegyünk](https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24) | 2:18 | 2022-05-04 |  |
 | [Elysian](https://open.spotify.com/track/1QYSgHrLS4eQpXA5Dn90nn) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Elysian](https://open.spotify.com/album/1AMivM48J7s1rX5jPAj1Xm) | 2:36 | 2023-12-12 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-03-30 |  |
@@ -137,6 +138,7 @@
 | [Forget Me Not](https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Forget Me Not](https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB) | 2:42 | 2023-08-14 |  |
 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 | 2023-05-09 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2021-12-14 | 2023-11-08 |
+| [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 | 2024-05-07 |  |
 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 | 2022-05-04 |  |
 | [Fuchs](https://open.spotify.com/track/7p1XGhzrdCMUXe0aB3ppJv) | [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Libelle](https://open.spotify.com/album/7jEAxJGVRHJOAxfdOq1VNy) | 4:28 | 2022-04-22 |  |
 | [Fuji \- Futatabi](https://open.spotify.com/track/2tVRVbSH9OhRhS88cGS4iG) | [Magnùs Cour](https://open.spotify.com/artist/21qSsfOHPvjfaQLFcEMjqS) | [Fuji \- Futatabi](https://open.spotify.com/album/3YPpT1A5QFruYfcabFLMxU) | 3:09 | 2022-08-03 | 2023-07-05 |
@@ -323,6 +325,7 @@
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-05 |  |
 | [Soul Lotion](https://open.spotify.com/track/3Wybg2sLkq2ZrA364KfQfz) | [Cadet de l'espace](https://open.spotify.com/artist/3kbDzg7IazEzF0DSWhHK5Z) | [Soul Lotion](https://open.spotify.com/album/1LnLzyOQPr9EmlWm2hsumv) | 3:30 | 2021-12-14 | 2022-05-05 |
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2021-12-14 | 2022-02-17 |
+| [Spring](https://open.spotify.com/track/4qK9n5cJhlLHVT3W8X1glD) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Spring Memoir](https://open.spotify.com/album/0nVzWOMcFoXIaOC4m08xkn) | 3:24 | 2024-05-07 |  |
 | [Squares of life](https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Squares of Life](https://open.spotify.com/album/2a4Xs7dCAl7IyslTWzVPqW) | 2:45 | 2021-12-14 | 2022-05-05 |
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2021-12-14 | 2023-06-21 |
 | [Stintless Stars](https://open.spotify.com/track/1gnHfFnLPaJvatJ9NuQDLH) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Stintless Stars](https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As) | 2:33 | 2023-11-14 |  |

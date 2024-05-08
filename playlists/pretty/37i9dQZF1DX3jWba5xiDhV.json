@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 211454,
+  "num_followers": 211675,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Let me love tonight (12 Inc)",
-        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
-      },
-      "artists": [
-        {
-          "name": "Electric Mind",
-          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "Let Me Love Tonight - Radio Version",
-      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
         "name": "When I Let You Down / Boogie Tonight",
         "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 366076,
       "name": "When I Let You Down - Extended Mix",
       "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Let me love tonight (12 Inc)",
+        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+      },
+      "artists": [
+        {
+          "name": "Electric Mind",
+          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Let Me Love Tonight - Radio Version",
+      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1291,18 +1291,26 @@
     {
       "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+        "name": "Future Disco: Visions of Love",
+        "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
       "artists": [
         {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        },
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+      "duration_ms": 447775,
+      "name": "Italo Amore (Musumeci Edit)",
+      "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
     }
   ],
   "unique_name": "Italo Disco",

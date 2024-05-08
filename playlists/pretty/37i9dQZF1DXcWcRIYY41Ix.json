@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Sebasti\u00e1n Romero.",
-  "num_followers": 123372,
+  "num_followers": 123388,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "San Nosotros",
-        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "San Nosotros",
-      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/07lKXcTObjoJTSbZ3ja38O"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 171744,
       "name": "23",
       "url": "https://open.spotify.com/track/3en9r8oxZAF08fshqAaswq"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "San Nosotros",
+        "url": "https://open.spotify.com/album/0Du489jVeI92AyatEtdmYm"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "San Nosotros",
+      "url": "https://open.spotify.com/track/0I120QSj7hSLvHqd5x57r3"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "La vida en otra parte",
-        "url": "https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH"
-      },
-      "artists": [
-        {
-          "name": "Laura Sam",
-          "url": "https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL"
-        },
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "La vida en otra parte",
-      "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "poquito",
         "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "La vida en otra parte",
+        "url": "https://open.spotify.com/album/3GcMR5xfbaznzu5Sl9k0HH"
+      },
+      "artists": [
+        {
+          "name": "Laura Sam",
+          "url": "https://open.spotify.com/artist/4lDwIdqBduUlK8N5HPACoL"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "La vida en otra parte",
+      "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "de amar y desandar",
         "url": "https://open.spotify.com/album/6bCPUu2cXzHjXFo2Q1Cr3U"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 259133,
       "name": "Mi vida huele a flor (un poema de Elvira Sastre)",
       "url": "https://open.spotify.com/track/4wiJZp4e3wOhfEbL37JpYT"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
+        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
+      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
-        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
-      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Asesina",
-        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Camino al Bemb\u00e9",
         "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
       },
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Mi amor",
-        "url": "https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP"
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS"
       },
       "artists": [
         {
-          "name": "Edu Requejo",
-          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
-        },
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
         }
       ],
-      "duration_ms": 154125,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
+      "duration_ms": 205200,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1443,6 +1423,26 @@
       "duration_ms": 191689,
       "name": "Como Un Amuleto",
       "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Mi amor",
+        "url": "https://open.spotify.com/album/0PoKNzX5Z7nTQgLzUZ8VSP"
+      },
+      "artists": [
+        {
+          "name": "Edu Requejo",
+          "url": "https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4JTFZGp79eIpo5OhUJVmB1"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1540,10 +1540,6 @@
       },
       "artists": [
         {
-          "name": "Delfina Mancardo",
-          "url": "https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q"
-        },
-        {
           "name": "Luisa y el Mar",
           "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
@@ -1627,22 +1623,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "una se\u00f1al",
-        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "una se\u00f1al",
-      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Vidrieritas",
         "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
       },
@@ -1655,6 +1635,22 @@
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "una se\u00f1al",
+        "url": "https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "una se\u00f1al",
+      "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1739,22 +1735,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Resalada",
-        "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 197442,
-      "name": "No somos extra\u00f1os",
-      "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Lalal\u00e1",
         "url": "https://open.spotify.com/album/0YNZSxhbLD6OoUILoPOXtB"
       },
@@ -1787,6 +1767,22 @@
       "duration_ms": 225462,
       "name": "Sonqollay",
       "url": "https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Resalada",
+        "url": "https://open.spotify.com/album/4BiDgfahVGuGbUdMPMxLeY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 197442,
+      "name": "No somos extra\u00f1os",
+      "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
     },
     {
       "added_at": "2024-04-26 06:00:00",

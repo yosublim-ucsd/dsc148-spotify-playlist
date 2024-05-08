@@ -2,7 +2,7 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Guess who's celebrating Children's Day..? \(Cover: ILL...??\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: WOOAH\(우아\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
 417 songs - 23 hr 5 min
 
@@ -187,7 +187,7 @@
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2022-07-28 | 2024-04-19 |
 | [Lady's Room](https://open.spotify.com/track/6f48SDPW5xu6gUsfLaHOZi) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:15 | 2022-03-29 | 2022-04-05 |
 | [Let Me In](https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Let Me In](https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i) | 3:11 | 2021-11-29 | 2022-07-26 |
-| [Let me Love \(Prod\. by Jin Young\)](https://open.spotify.com/track/3DMvqQG9wibjtjmrUAvNBn) | [UNICODE](https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra) | [HELLO WORLD : CODE J EP.1](https://open.spotify.com/album/4HUTCxTn5FEpdXrQUNWAIy) | 2:59 | 2024-04-17 |  |
+| [Let me Love \(Prod\. by Jin Young\)](https://open.spotify.com/track/3DMvqQG9wibjtjmrUAvNBn) | [UNICODE](https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra) | [HELLO WORLD : CODE J EP.1](https://open.spotify.com/album/4HUTCxTn5FEpdXrQUNWAIy) | 2:59 | 2024-04-17 | 2024-05-08 |
 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-06 | 2023-11-01 |
 | [LIFE IS A PARTY](https://open.spotify.com/track/1xG5krI48MsenYWnbfimxK) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 2:59 | 2022-03-29 | 2022-04-17 |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 |  |
@@ -300,7 +300,7 @@
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 | 2023-05-05 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
-| [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 | 2024-05-05 |
+| [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 |  |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
 | [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-18 | 2023-12-22 |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |

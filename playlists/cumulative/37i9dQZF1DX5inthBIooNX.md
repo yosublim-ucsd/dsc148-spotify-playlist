@@ -2,7 +2,7 @@
 
 ### [sonder](https://open.spotify.com/playlist/37i9dQZF1DX5inthBIooNX)
 
-> A playlist for the eclipse\. Photo credits: NASA
+> "the realization that each random passerby is living a life as vivid and complex as your own."
 
 82 songs - 3 hr 34 min
 

@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-197 songs - 9 hr 28 min
+198 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 | 2023-02-28 | 2024-05-02 |
 | [Notes](https://open.spotify.com/track/3ASr0AXBDjIzS9Rwi5tLxy) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Notes](https://open.spotify.com/album/3Hkp9N92ailBc5Wx4xDLY5) | 2:07 | 2023-02-28 |  |
 | [Notturno](https://open.spotify.com/track/1vwLrgMsd1sCPpXTzXxuBL) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Notturno](https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc) | 3:11 | 2024-03-25 |  |
+| [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-05-07 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 | 2023-02-28 | 2023-04-01 |
 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 | 2024-03-25 |  |
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2023-09-29 |  |

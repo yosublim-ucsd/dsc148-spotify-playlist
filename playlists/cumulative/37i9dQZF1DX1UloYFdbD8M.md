@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-181 songs - 12 hr 29 min
+183 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 | 2023-10-03 |  |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-05-26 | 2023-07-28 |
 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 | 2023-09-12 |  |
+| [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 |  |
 | [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 | 2023-11-17 | 2024-02-19 |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 |  |
@@ -158,6 +159,7 @@
 | [Subrahmanyena Rakshitoham \(Onwards & Upwards\)](https://open.spotify.com/track/7JNYHEL3kmsjC0pet07dZl) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Subrahmanyena Rakshitoham \(Onwards & Upwards\) \- Single](https://open.spotify.com/album/2M1qEeEmU1W7YDctJqJiw8) | 7:05 | 2022-12-22 | 2023-12-16 |
 | [Sunday Morning](https://open.spotify.com/track/1TVyR9DMy3TWx5pR2aish4) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 2:32 | 2022-10-17 | 2023-07-28 |
 | [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 | 2023-09-22 |  |
+| [Swapname](https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00) | [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx), [Raazi](https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi) | [Swapname](https://open.spotify.com/album/3mvzVMfX6EmUKMe39Xm1QO) | 3:46 | 2024-05-07 |  |
 | [Swasamay](https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe) | [Goutham Vincent](https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Ridhu Krishna](https://open.spotify.com/artist/0VAXoBqMrGpLbF1PC3rNbD) | [Swasamay](https://open.spotify.com/album/2gsKpKlh3cT5zXGeA1yLG6) | 2:37 | 2024-02-05 | 2024-02-15 |
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 |  |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |

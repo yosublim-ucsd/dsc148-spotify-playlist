@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Escallonia",
+        "url": "https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129300,
+      "name": "Escallonia",
+      "url": "https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj"
+    },
+    {
+      "album": {
         "name": "Expansion",
         "url": "https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU"
       },
@@ -2584,6 +2602,24 @@
       "duration_ms": 163500,
       "name": "Free Ground",
       "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
+    },
+    {
+      "album": {
+        "name": "From Yesterday",
+        "url": "https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189114,
+      "name": "From Yesterday",
+      "url": "https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT"
     },
     {
       "album": {
@@ -3304,6 +3340,24 @@
       "duration_ms": 164093,
       "name": "In the Company of My Solitude",
       "url": "https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW"
+    },
+    {
+      "album": {
+        "name": "In the Light of the Moon",
+        "url": "https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143166,
+      "name": "In the Light of the Moon",
+      "url": "https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU"
     },
     {
       "album": {
@@ -6532,6 +6586,24 @@
       "duration_ms": 128907,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE"
+    },
+    {
+      "album": {
+        "name": "Still Dreaming of You",
+        "url": "https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq"
+      },
+      "artists": [
+        {
+          "name": "Giulia Romano",
+          "url": "https://open.spotify.com/artist/6cY3BzJkIM9w8lvi4U12LI"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146919,
+      "name": "Still Dreaming of You",
+      "url": "https://open.spotify.com/track/1cJH9KgGIgrDSllmLluzoV"
     },
     {
       "album": {

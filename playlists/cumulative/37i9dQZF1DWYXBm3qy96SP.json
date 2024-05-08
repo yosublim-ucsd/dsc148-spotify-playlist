@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 303659,
       "name": "A Vineyard for the North",
       "url": "https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 187189,
       "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
@@ -7296,7 +7296,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 231311,
       "name": "Feather",
       "url": "https://open.spotify.com/track/4HqJBwbL1IKs2oueLRTf4d"
@@ -11268,6 +11268,24 @@
       "duration_ms": 162506,
       "name": "L.A.M.N",
       "url": "https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k"
+    },
+    {
+      "album": {
+        "name": "Lacrimosa",
+        "url": "https://open.spotify.com/album/7aicWqRCVMzEdYerhhFywp"
+      },
+      "artists": [
+        {
+          "name": "Faustus",
+          "url": "https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361978,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/5N1AoYTWihbPJTsKJYI30c"
     },
     {
       "album": {
@@ -21434,7 +21452,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 222956,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP"
@@ -21632,7 +21650,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 214710,
       "name": "Wash It Away",
       "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"

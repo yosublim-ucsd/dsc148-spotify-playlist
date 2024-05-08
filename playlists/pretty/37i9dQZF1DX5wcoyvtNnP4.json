@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 490192,
+  "num_followers": 490174,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "Magic Moment (feat. Chris de Sarandy)",
         "url": "https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
       },
@@ -1059,26 +1059,6 @@
       "duration_ms": 151071,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 139422,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1099,6 +1079,26 @@
       "duration_ms": 150994,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 139422,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1147,46 +1147,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1227,6 +1187,46 @@
       "duration_ms": 144375,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/6qg4ulb0Ux2AF4kdJCVEYO"
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
       },
       "artists": [
         {
-          "name": "Ardo",
-          "url": "https://open.spotify.com/artist/2pRsq9sIRuLua9GATrUlYy"
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
         },
         {
-          "name": "Jake Alva",
-          "url": "https://open.spotify.com/artist/2wlOcE87YJtuiJS6fhOedm"
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 127741,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD"
+      "duration_ms": 149374,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
     }
   ],
   "unique_name": "Wochenende",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,484 likes - 148 songs - 8 hr 3 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,485 likes - 148 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 24 | [Mamá](https://open.spotify.com/track/1NKx2va7aJl9v3EADaFhQi) | [Grasias](https://open.spotify.com/artist/7Ixf4HN0m8oP5ISOu75n79) | [Mamá](https://open.spotify.com/album/60v4zSMZSkiOIzlkLnePw0) | 3:02 |
 | 25 | [Takoba](https://open.spotify.com/track/5cQzeHcBjSES0g4qlhTgqY) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq) | 3:53 |
 | 26 | [Rave del Mono](https://open.spotify.com/track/0cPCov0D5kojKMhcet4mqr) | [Ttrraaccaa](https://open.spotify.com/artist/5uOACthvlExYfefKjpcKCu) | [Selva Mágica](https://open.spotify.com/album/1t7JlhFLz26Ra6zFzS8n8A) | 4:08 |
-| 27 | [Whatsapp \(Wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Whatsapp \(Wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 |
+| 27 | [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 |
 | 28 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
 | 29 | [Stranger](https://open.spotify.com/track/0Zh4HJsOGKnG5PkRGrmmtx) | [Marc Mas](https://open.spotify.com/artist/2Afa8bc03hUILSCuypSSzt) | [Stranger](https://open.spotify.com/album/2fvxxHVNLOZy7W385rzscI) | 4:29 |
 | 30 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |

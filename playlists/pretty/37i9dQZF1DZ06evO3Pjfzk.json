@@ -1,12 +1,12 @@
 {
-  "description": "This is Lainey Wilson. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 60194,
+  "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
+  "num_followers": 60302,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAAkeHzXZNGqkHEQT1x1gR3A",
+  "snapshot_id": "ZjgdgAAAAAALQKNirSOHyiw5rv4l8hlj",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Bastards",
-        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
       "artists": [
         {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 306706,
-      "name": "Wilted Rose (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
       "duration_ms": 206240,
       "name": "Hold My Halo",
       "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 306706,
+      "name": "Wilted Rose (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
     },
     {
       "added_at": null,
@@ -439,22 +459,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO HOME W U (WITH LAINEY WILSON)",
-        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "The Difftones",
+          "url": "https://open.spotify.com/artist/5MYSJaOAK3vklrmAlD3q5q"
         }
       ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U (WITH LAINEY WILSON)",
-      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+      "duration_ms": 228373,
+      "name": "Prop Me Up Beside The Jukebox (If I Die) [feat. The Difftones]",
+      "url": "https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs"
     },
     {
       "added_at": null,
@@ -487,38 +519,6 @@
       "duration_ms": 174891,
       "name": "Microphone",
       "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        },
-        {
-          "name": "The Difftones",
-          "url": "https://open.spotify.com/artist/5MYSJaOAK3vklrmAlD3q5q"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Prop Me Up Beside The Jukebox (If I Die) [feat. The Difftones]",
-      "url": "https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs"
     },
     {
       "added_at": null,

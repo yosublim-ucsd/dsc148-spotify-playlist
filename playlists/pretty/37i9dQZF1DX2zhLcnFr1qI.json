@@ -1,10 +1,10 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 64682,
+  "num_followers": 64670,
   "original_name": "Electronic Christmas",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZYUX0AAAAAD78bbO8RCxLEZJah53OzRo",
   "tracks": [
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Battle (Cause & Affect Jingle Bells Remix)",
-        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
-      },
-      "artists": [
-        {
-          "name": "Riddim Commission",
-          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Cause & Affect",
-          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Battle - Cause & Affect Jingle Bells Remix",
-      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 151448,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Battle (Cause & Affect Jingle Bells Remix)",
+        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
+      },
+      "artists": [
+        {
+          "name": "Riddim Commission",
+          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Cause & Affect",
+          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Battle - Cause & Affect Jingle Bells Remix",
+      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 462855,
+  "num_followers": 462849,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Nocturnal Will",
-        "url": "https://open.spotify.com/album/1J50ixIRSqfoKckOoxK8EO"
-      },
-      "artists": [
-        {
-          "name": "D\u00f6dsrit",
-          "url": "https://open.spotify.com/artist/1ZR1y4fCztcaoliwAIbEAb"
-        }
-      ],
-      "duration_ms": 637338,
-      "name": "Irjala",
-      "url": "https://open.spotify.com/track/4BPwtlhUzUnUhBnt5rMbcC"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Those of the Unlight",
         "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 335333,
       "name": "Havenless",
       "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Nocturnal Will",
+        "url": "https://open.spotify.com/album/1J50ixIRSqfoKckOoxK8EO"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dsrit",
+          "url": "https://open.spotify.com/artist/1ZR1y4fCztcaoliwAIbEAb"
+        }
+      ],
+      "duration_ms": 637338,
+      "name": "Irjala",
+      "url": "https://open.spotify.com/track/4BPwtlhUzUnUhBnt5rMbcC"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "Black Dragon",
-      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
         "url": "https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "Black Dragon",
+      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Serpent Sermon",
-        "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
-      },
-      "artists": [
-        {
-          "name": "Marduk",
-          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Serpent Sermon",
-      "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Veil of Death, Ruptured",
         "url": "https://open.spotify.com/album/2mrjtCZq2BqaJL2sojoaln"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 292547,
       "name": "Ignem Purificat Lilitu",
       "url": "https://open.spotify.com/track/22vkvo2Ey5e3Yzx2oDFmWN"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Serpent Sermon",
+        "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
+      },
+      "artists": [
+        {
+          "name": "Marduk",
+          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Serpent Sermon",
+      "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Shadow Inside",
-        "url": "https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx"
-      },
-      "artists": [
-        {
-          "name": "Sadus",
-          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "Anarchy",
-      "url": "https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "We Are The Apocalypse",
         "url": "https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 281443,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "The Shadow Inside",
+        "url": "https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx"
+      },
+      "artists": [
+        {
+          "name": "Sadus",
+          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Human Scum",
-        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
+        "name": "Death March",
+        "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+          "name": "Enemies Everywhere",
+          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
         }
       ],
-      "duration_ms": 275419,
-      "name": "Human Scum",
-      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
+      "duration_ms": 281298,
+      "name": "Death March",
+      "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1215,34 +1215,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Death March",
-        "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
+        "name": "Human Scum",
+        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
       },
       "artists": [
         {
-          "name": "Enemies Everywhere",
-          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
         }
       ],
-      "duration_ms": 281298,
-      "name": "Death March",
-      "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Galactic Order",
-        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
-      },
-      "artists": [
-        {
-          "name": "Assemble the Chariots",
-          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
-        }
-      ],
-      "duration_ms": 322109,
-      "name": "Galactic Order",
-      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
+      "duration_ms": 275419,
+      "name": "Human Scum",
+      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Galactic Order",
+        "url": "https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt"
+      },
+      "artists": [
+        {
+          "name": "Assemble the Chariots",
+          "url": "https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ"
+        }
+      ],
+      "duration_ms": 322109,
+      "name": "Galactic Order",
+      "url": "https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Drill the Skull",
-        "url": "https://open.spotify.com/album/07c4UOdjYSOBIzdfiw2pME"
-      },
-      "artists": [
-        {
-          "name": "Necrot",
-          "url": "https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/1ohdTjNFu2TvMDD74Mp0FU"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Fall Of Jotunheim",
         "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 242452,
       "name": "The Fall Of Jotunheim",
       "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Drill the Skull",
+        "url": "https://open.spotify.com/album/07c4UOdjYSOBIzdfiw2pME"
+      },
+      "artists": [
+        {
+          "name": "Necrot",
+          "url": "https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/1ohdTjNFu2TvMDD74Mp0FU"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Call Of The Wind",
-        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
-      },
-      "artists": [
-        {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Call of the Wind",
-      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Virtus Asinaria - Prayer",
         "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Origin of Fire",
-        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
+        "name": "Call Of The Wind",
+        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
       },
       "artists": [
         {
-          "name": "Mors Subita",
-          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
         }
       ],
-      "duration_ms": 200253,
-      "name": "Fire, Walk With Me",
-      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
+      "duration_ms": 330226,
+      "name": "Call of the Wind",
+      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1499,6 +1483,22 @@
       "duration_ms": 189746,
       "name": "A World Of Pain",
       "url": "https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Origin of Fire",
+        "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
+      },
+      "artists": [
+        {
+          "name": "Mors Subita",
+          "url": "https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "Fire, Walk With Me",
+      "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Nonagon",
-        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Throne",
-          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
-        }
-      ],
-      "duration_ms": 322206,
-      "name": "Nonagon",
-      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "I Resign",
         "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 233626,
       "name": "I Resign",
       "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Nonagon",
+        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
+        }
+      ],
+      "duration_ms": 322206,
+      "name": "Nonagon",
+      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Other Side of Anger",
-        "url": "https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX"
+        "name": "Seeking To Pierce",
+        "url": "https://open.spotify.com/album/7sG0xaqhk1fjO7ZWbOJWYE"
       },
       "artists": [
         {
-          "name": "Crypta",
-          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
         }
       ],
-      "duration_ms": 263733,
-      "name": "The Other Side of Anger",
-      "url": "https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw"
+      "duration_ms": 253787,
+      "name": "Seeking To Pierce",
+      "url": "https://open.spotify.com/track/33LU20qyNQHxAEs9zkhimp"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Seeking To Pierce",
-        "url": "https://open.spotify.com/album/7sG0xaqhk1fjO7ZWbOJWYE"
+        "name": "The Other Side of Anger",
+        "url": "https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX"
       },
       "artists": [
         {
-          "name": "Blood Red Throne",
-          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
         }
       ],
-      "duration_ms": 253787,
-      "name": "Seeking To Pierce",
-      "url": "https://open.spotify.com/track/33LU20qyNQHxAEs9zkhimp"
+      "duration_ms": 263733,
+      "name": "The Other Side of Anger",
+      "url": "https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/1dswjtpwyXafIlvELgWbVc"
-      },
-      "artists": [
-        {
-          "name": "Genus Ordinis Dei",
-          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
-        }
-      ],
-      "duration_ms": 319520,
-      "name": "The Fortress Without Gates",
-      "url": "https://open.spotify.com/track/2dYdc4xLucYmVqS4ESKKoT"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Island of Dead Men",
         "url": "https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 181853,
       "name": "Island of Dead Men",
       "url": "https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/1dswjtpwyXafIlvELgWbVc"
+      },
+      "artists": [
+        {
+          "name": "Genus Ordinis Dei",
+          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
+        }
+      ],
+      "duration_ms": 319520,
+      "name": "The Fortress Without Gates",
+      "url": "https://open.spotify.com/track/2dYdc4xLucYmVqS4ESKKoT"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G"
-      },
-      "artists": [
-        {
-          "name": "Lord Belial",
-          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
-        }
-      ],
-      "duration_ms": 210591,
-      "name": "Legion",
-      "url": "https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Necrophony",
         "url": "https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN"
       },
@@ -1823,18 +1807,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Valkyriernes Sang",
-        "url": "https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y"
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G"
       },
       "artists": [
         {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+          "name": "Lord Belial",
+          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
         }
       ],
-      "duration_ms": 235919,
-      "name": "Valkyriernes Sang",
-      "url": "https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK"
+      "duration_ms": 210591,
+      "name": "Legion",
+      "url": "https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1855,18 +1839,34 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Culture of Violence",
-        "url": "https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw"
+        "name": "Valkyriernes Sang",
+        "url": "https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y"
       },
       "artists": [
         {
-          "name": "Extinction A.D.",
-          "url": "https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ"
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
         }
       ],
-      "duration_ms": 205856,
-      "name": "Culture of Violence",
-      "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
+      "duration_ms": 235919,
+      "name": "Valkyriernes Sang",
+      "url": "https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Killing Innocence",
+        "url": "https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss"
+      },
+      "artists": [
+        {
+          "name": "Graveworm",
+          "url": "https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "In Honour of the Fallen",
+      "url": "https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Killing Innocence",
-        "url": "https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss"
+        "name": "Culture of Violence",
+        "url": "https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw"
       },
       "artists": [
         {
-          "name": "Graveworm",
-          "url": "https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX"
+          "name": "Extinction A.D.",
+          "url": "https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ"
         }
       ],
-      "duration_ms": 350000,
-      "name": "In Honour of the Fallen",
-      "url": "https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK"
+      "duration_ms": 205856,
+      "name": "Culture of Violence",
+      "url": "https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Hamartia - EP",
-        "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 408053,
-      "name": "Hemoclysm",
-      "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Urkraft",
         "url": "https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 455960,
       "name": "Urkraft",
       "url": "https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Hamartia - EP",
+        "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 408053,
+      "name": "Hemoclysm",
+      "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Stormcrow",
-        "url": "https://open.spotify.com/album/0XnPqsBbNUSdNfUijFE0lo"
-      },
-      "artists": [
-        {
-          "name": "Necrophobic",
-          "url": "https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Stormcrow",
-      "url": "https://open.spotify.com/track/6d7wzEbrzmcQqNSxYnYTKN"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "At Dusk",
         "url": "https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 244666,
       "name": "At Dusk",
       "url": "https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Stormcrow",
+        "url": "https://open.spotify.com/album/0XnPqsBbNUSdNfUijFE0lo"
+      },
+      "artists": [
+        {
+          "name": "Necrophobic",
+          "url": "https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Stormcrow",
+      "url": "https://open.spotify.com/track/6d7wzEbrzmcQqNSxYnYTKN"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Hybrid Stigmata - The Apostasy (Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 419300,
-      "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
-      "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Jailbreak",
         "url": "https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY"
       },
@@ -2147,22 +2131,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Aamunkoi",
-        "url": "https://open.spotify.com/album/2cLv2BMvzrNZTaFEUl6PMd"
-      },
-      "artists": [
-        {
-          "name": "Vorna",
-          "url": "https://open.spotify.com/artist/3uQtxIjBgrF7vGOt54useD"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "Aamunkoi",
-      "url": "https://open.spotify.com/track/7I56BHRWuizDEWVFurrPfH"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "\u200bDisharmonium - Nahab",
         "url": "https://open.spotify.com/album/2spORRGVutsk0KwxPhd3eU"
       },
@@ -2175,6 +2143,22 @@
       "duration_ms": 295573,
       "name": "Nameless Rites",
       "url": "https://open.spotify.com/track/5VikgujdfbIJRuUAMQ2zei"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Aamunkoi",
+        "url": "https://open.spotify.com/album/2cLv2BMvzrNZTaFEUl6PMd"
+      },
+      "artists": [
+        {
+          "name": "Vorna",
+          "url": "https://open.spotify.com/artist/3uQtxIjBgrF7vGOt54useD"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Aamunkoi",
+      "url": "https://open.spotify.com/track/7I56BHRWuizDEWVFurrPfH"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2227,22 +2211,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Hell On Four Wheels",
-        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
-      },
-      "artists": [
-        {
-          "name": "Warmen",
-          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Hell On Four Wheels",
-      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Lust Called Knowledge (Re-Recorded 2022)",
         "url": "https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v"
       },
@@ -2255,6 +2223,38 @@
       "duration_ms": 271146,
       "name": "The Lust Called Knowledge - Re-Recorded 2022",
       "url": "https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Hybrid Stigmata - The Apostasy (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 419300,
+      "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Hell On Four Wheels",
+        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
+      },
+      "artists": [
+        {
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Hell On Four Wheels",
+      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Taken before Given",
-        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 234965,
-      "name": "Taken before Given",
-      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 231396,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Taken before Given",
+        "url": "https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 234965,
+      "name": "Taken before Given",
+      "url": "https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/2zKSqcZ0cLVu5wPe2fTPxE"
-      },
-      "artists": [
-        {
-          "name": "Olhava",
-          "url": "https://open.spotify.com/artist/4lpvlgUCumwxmQD37sbIZt"
-        }
-      ],
-      "duration_ms": 852026,
-      "name": "Eternal Fire",
-      "url": "https://open.spotify.com/track/0ZZ91wGG1N0M2virewcFYR"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 237006,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/2zKSqcZ0cLVu5wPe2fTPxE"
+      },
+      "artists": [
+        {
+          "name": "Olhava",
+          "url": "https://open.spotify.com/artist/4lpvlgUCumwxmQD37sbIZt"
+        }
+      ],
+      "duration_ms": 852026,
+      "name": "Eternal Fire",
+      "url": "https://open.spotify.com/track/0ZZ91wGG1N0M2virewcFYR"
     }
   ],
   "unique_name": "Extreme Metal",

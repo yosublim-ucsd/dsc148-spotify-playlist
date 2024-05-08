@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32142,
+  "num_followers": 32144,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+    },
+    {
+      "added_at": "2024-03-08 05:32:56",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2024-03-08 05:32:56",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
-      },
-      "artists": [
-        {
-          "name": "TAEWOO",
-          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
     },
     {
       "added_at": "2024-03-08 05:32:56",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+      },
+      "artists": [
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+    },
+    {
+      "added_at": "2024-03-08 05:32:56",
+      "album": {
         "name": "oceanfromtheblue",
         "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 286625,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
-    },
-    {
-      "added_at": "2024-03-08 05:32:56",
-      "album": {
-        "name": "MY RIDE",
-        "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
-      },
-      "artists": [
-        {
-          "name": "JASMINE",
-          "url": "https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "MY RIDE",
-      "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

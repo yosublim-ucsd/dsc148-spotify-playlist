@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,708 songs - 3 day 3 hr 56 min
+1,710 songs - 3 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Castor](https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Castor / Pollux](https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t) | 2:48 | 2019-06-13 | 2021-03-24 |
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 |  |
 | [Causality](https://open.spotify.com/track/2HQg7uhg7cLtMmzpwN2Itf) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Causality](https://open.spotify.com/album/7HVzua7bH0DxfiHETR7ytg) | 2:03 | 2019-07-05 | 2021-01-18 |
+| [Cavaria](https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [Cavaria](https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0) | 2:18 | 2024-05-07 |  |
 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 | 2021-10-01 | 2023-03-28 |
 | [Ce jour là](https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Ce jour là](https://open.spotify.com/album/2XPO10I96fugOchMhRpqxW) | 2:27 | 2020-08-04 | 2020-10-13 |
 | [Ce n’est pas la mer à boire](https://open.spotify.com/track/2LdkHXvU7cvGzybVuIBlXZ) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Ce n’est pas la mer à boire](https://open.spotify.com/album/6KBRQMShV9Bw3ANK9PIQI6) | 2:31 | 2019-12-17 | 2021-04-22 |
@@ -312,7 +313,7 @@
 | [Continuo](https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9) | [Mauro Cangemi](https://open.spotify.com/artist/7M8vWWoWXUuH6qcoOpO2PN) | [Continuo](https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7) | 2:14 | 2020-04-14 | 2021-04-14 |
 | [Cor Meum](https://open.spotify.com/track/2kOWXD4YeNn1bGZljZlX93) | [8th Floor Wide](https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr) | [Cor Meum](https://open.spotify.com/album/3bQzP4OhhRxxIuBEelUeTq) | 3:16 | 2019-05-26\* | 2019-12-04 |
 | [Coral Red](https://open.spotify.com/track/0RLDbBQxuLmVE0odiyMcNv) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 2:17 | 2019-05-26\* | 2019-08-23 |
-| [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-10 |  |
+| [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-03-10 | 2024-05-08 |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 | 2022-07-07 |
 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2023-12-18 |  |
 | [Couronne](https://open.spotify.com/track/36UCbLBtqxbVR1ft5zLIBl) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Couronne](https://open.spotify.com/album/65RcgwYAgdSrp5sNPM4xqz) | 3:30 | 2020-02-26 | 2020-06-24 |
@@ -322,7 +323,7 @@
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2020-08-04 | 2022-04-15 |
 | [Crossing The Line](https://open.spotify.com/track/3oGSYfpXW9Z26s0tHiab6w) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Crossing The Line](https://open.spotify.com/album/1khXOksViOnCC12iQLSjC2) | 2:01 | 2021-03-31 | 2021-09-09 |
 | [Cuaderna Vía](https://open.spotify.com/track/29wXeahxSJmYAQcQHQS71o) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 3:17 | 2022-09-12 | 2023-03-14 |
-| [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 | 2023-03-06 |  |
+| [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 | 2023-03-06 | 2024-05-08 |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-02-09 | 2023-11-14 |
 | [D\-Bus\-Y](https://open.spotify.com/track/0Ps06t6y2hfHLsuboMiSgv) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [D\-Bus\-Y](https://open.spotify.com/album/4KlXlZoXO8QvjLeV9F9g5a) | 2:50 | 2020-01-22 | 2020-11-27 |
 | [Da adesso fino all'eternità](https://open.spotify.com/track/26OTGhDqOhNmVQLeI3W2ub) | [Rosa La Corte](https://open.spotify.com/artist/57woN5sU727z9ImHQPuQL7) | [Da adesso fino all'eternità](https://open.spotify.com/album/6RxGkjRQ7iKkQQ1GByow06) | 2:03 | 2020-05-19 | 2021-04-08 |
@@ -559,7 +560,7 @@
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2021-06-18 | 2021-12-08 |
 | [Guarda](https://open.spotify.com/track/55pNaqKviMlFxtBbqWCMqH) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 1:38 | 2019-06-13 | 2021-01-18 |
 | [Guardami](https://open.spotify.com/track/4Y6WTrmqcv8JkwgF3USWnB) | [Patrizio Pisani](https://open.spotify.com/artist/6kzoE5TzoAHK71kr4QukcL) | [Guardami](https://open.spotify.com/album/0Dw0wS3Qja2qg8yhJWB0En) | 2:13 | 2020-01-08 | 2021-10-01 |
-| [Gyere velem](https://open.spotify.com/track/54MnM9dYvVaV9jAZLcZu7P) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:17 | 2022-07-15 |  |
+| [Gyere velem](https://open.spotify.com/track/54MnM9dYvVaV9jAZLcZu7P) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:17 | 2022-07-15 | 2024-05-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-04-22 | 2022-05-05 |
 | [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-07-06 | 2022-12-21 |
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-10-01 | 2022-02-10 |
@@ -1111,6 +1112,7 @@
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2021-01-18 | 2022-06-04 |
 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 | 2020-01-22 | 2020-08-04 |
 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 | 2022-07-06 | 2023-12-06 |
+| [Prato Di Girasoli](https://open.spotify.com/track/12CHYifZr1nmh6andRykpi) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Prato Di Girasoli](https://open.spotify.com/album/26voSN56XpNxvogwOYKHsY) | 2:38 | 2024-05-07 |  |
 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 | 2019-06-27 | 2020-01-14 |
 | [Preludium](https://open.spotify.com/track/5V1fERRi9CKUG4lkeAP9Ue) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Preludium](https://open.spotify.com/album/6sh07Iqq3mgx76srlNA0Za) | 2:09 | 2019-10-04 | 2021-10-20 |
 | [Preludium](https://open.spotify.com/track/4rifuSeAw7WGLKSLgAGIJU) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Preludium](https://open.spotify.com/album/74HUZBoNa2YaZ8KTFsl9h5) | 2:45 | 2019-07-05 | 2019-10-16 |

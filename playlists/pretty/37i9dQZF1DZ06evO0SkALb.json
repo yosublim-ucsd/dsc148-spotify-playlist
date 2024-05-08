@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11337,
+  "num_followers": 11340,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAC0mbkgwb3/kSLydNAdMEyZ",
+  "snapshot_id": "ZjgdgAAAAAB2QKETYMMb5H9gN09tCx0N",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 305053,
-      "name": "This Song Will Last Forever",
-      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+      "duration_ms": 173933,
+      "name": "Your Good Thing (Is About To End)",
+      "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 276093,
       "name": "Time Will Take Care of Everything",
       "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Your Good Thing (Is About To End)",
-      "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tobacco Road",
-        "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Tobacco Road - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -519,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
-        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
-      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 183493,
       "name": "If I Were A Magician",
       "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
+        "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Let's Burn Down The Cornfield - 2006 Remaster",
+      "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 173026,
       "name": "Time",
       "url": "https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Be Anything (But Be Mine)",
+      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhymes and Reasons",
-        "url": "https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+        "name": "Rhymes and Reasons",
+        "url": "https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Be Anything (But Be Mine)",
-      "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
+      "duration_ms": 200400,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Can't Make It Alone: The Axelrod Years",
         "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
       },
@@ -755,22 +739,6 @@
       "duration_ms": 156133,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
     },
     {
       "added_at": null,
@@ -827,6 +795,46 @@
       "duration_ms": 111586,
       "name": "Lifetime Monologue - Remastered",
       "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls And Les McCann Trio",
+          "url": "https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "(They Call It) Stormy Monday",
+      "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "I Can't Make It Alone",
+      "url": "https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0"
     }
   ],
   "unique_name": "This Is Lou Rawls",

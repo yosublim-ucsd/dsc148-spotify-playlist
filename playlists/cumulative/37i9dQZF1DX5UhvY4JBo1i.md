@@ -4,11 +4,11 @@
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-138 songs - 10 hr 52 min
+139 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#3 劇場版【名探偵コナン 黒鉄の魚影】  高山みなみ×林原めぐみ×立川譲監督「とっても仲良し！でもスタジオの外では…？」](https://open.spotify.com/episode/4q1HlCcZHn29EbmDpwhqje) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 40:52 | 2024-04-16 |  |
+| [\#3 劇場版【名探偵コナン 黒鉄の魚影】  高山みなみ×林原めぐみ×立川譲監督「とっても仲良し！でもスタジオの外では…？」](https://open.spotify.com/episode/4q1HlCcZHn29EbmDpwhqje) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【アストロノオト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 40:52 | 2024-04-16 | 2024-05-08 |
 | [always](https://open.spotify.com/track/7BUTvMscLY29cBxspSOsY6) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:06 | 2022-10-01 |  |
 | [ANSWER](https://open.spotify.com/track/6HmrS7qJmdp5UtfNPex4h6) | [Only this time](https://open.spotify.com/artist/0jGQCMvbrhH1zfypjrAHDU) | [ANSWER](https://open.spotify.com/album/5cJ9pLerKueRKtQNHvZcGu) | 4:11 | 2022-10-01 | 2023-03-22 |
 | [Aozolighter](https://open.spotify.com/track/2UIdZJcFfRkfWg7giwPYS9) | [Cellchrome](https://open.spotify.com/artist/5EvuKDdjD5zhXth9XqHJ7k) | [Aozolighter](https://open.spotify.com/album/7FJ0RBa2Dlg2KwV67AidUe) | 3:49 | 2022-10-01 | 2023-03-22 |
@@ -134,6 +134,7 @@
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-10-01 | 2023-03-22 |
 | [第2回 高山みなみ×山口勝平「劇場版の収録はお祭り気分！」](https://open.spotify.com/episode/0WnezOA9NoA1o3dRAwJ9o3) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 31:59 | 2024-04-22 | 2024-04-30 |
 | [第3回 高山みなみ×堀川りょう「服部平次スイッチ・オン！本気モードのりょうさん！」](https://open.spotify.com/episode/6lOUgk9NUICu5wqy1yppg6) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 29:38 | 2024-04-30 |  |
+| [第4回 高山みなみ×堀川りょう「和葉が絡むとダメなんだよ、平次は！」](https://open.spotify.com/episode/69LaHjrLQY7hqCzglhp9MF) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 28:38 | 2024-05-07 |  |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-09 |  |
 | [羽](https://open.spotify.com/track/6iBWf3UnEdcHwdWKk8emh2) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [羽](https://open.spotify.com/album/2ssJzWGerP5kY2GGqoWM9l) | 3:45 | 2022-10-01 | 2023-03-22 |
 | [翼を広げて](https://open.spotify.com/track/6rqejjcfbRUSQ0WXhV2bg6) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [翼を広げて / 愛は暗闇の中で](https://open.spotify.com/album/2VPyIHpSzemIBnEiTrKylf) | 4:30 | 2022-10-01 |  |

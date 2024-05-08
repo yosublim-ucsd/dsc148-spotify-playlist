@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 55878,
+  "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 55900,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAAQIrkLMIN1io8Yjm01AcFQ",
+  "snapshot_id": "ZjgdgAAAAAAfrpaUYPdZgXb5l1eFQZ53",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Desde la Otra Mesa",
-      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 177306,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "El Maquinista",
-      "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 229426,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "El Maquinista",
+      "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"
     },
     {
       "added_at": null,

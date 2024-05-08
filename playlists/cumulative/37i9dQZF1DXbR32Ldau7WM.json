@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: I Don't Like Mondays.",
+  "description": "The biggest rock artists in Japan right now!  Cover: TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 223269,
       "name": "LOST",
       "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
@@ -10570,7 +10570,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 271265,
       "name": "UNDER THE TREE - Full Length Ver.",
       "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
@@ -13722,7 +13722,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 182880,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
@@ -18728,6 +18728,24 @@
       "duration_ms": 332806,
       "name": "\u8a3c - A Spring Breath ver.",
       "url": "https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN"
+    },
+    {
+      "album": {
+        "name": "\u8ab0\u6211\u70ba",
+        "url": "https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269728,
+      "name": "\u8ab0\u6211\u70ba",
+      "url": "https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE"
     },
     {
       "album": {

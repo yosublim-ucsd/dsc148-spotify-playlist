@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,288 songs - 3 day 6 hr 46 min
+1,289 songs - 3 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Lovela Vizhundha \(From "Rayar Parambarai"\)](https://open.spotify.com/track/4feXRBCFVbgVbPkqzBqvCV) | [Satyan Mahalingam](https://open.spotify.com/artist/1tT0pqnB2GUnTYZhVvT9UZ), [Ganesh Raghavendra](https://open.spotify.com/artist/7Fk0UevBnD77uocXMLEyWX) | [Lovela Vizhundha \(From "Rayar Parambarai"\)](https://open.spotify.com/album/1qjz42bGXiOwuKZxNgStAr) | 4:17 | 2023-01-04 | 2023-01-13 |
 | [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/track/1DAAajIAiljAmVstVAoCQa) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Lullaby Song \- Rajkumari \(From "Vikrant Rona"\)](https://open.spotify.com/album/2H7d1c7VjXwxriGbs8KRvN) | 3:25 | 2022-07-06 | 2022-07-14 |
 | [Maalta \- From "Kudimahaan"](https://open.spotify.com/track/6oSvoNGiPp3kaT3Qbbwm3X) | [Tanuj Menon](https://open.spotify.com/artist/4KxyMwBnfRMC3tNpPJOKxA), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Gokul](https://open.spotify.com/artist/7JkhqdTsDxQoJyNp99ofQB) | [Maalta \(From "Kudimahaan"\)](https://open.spotify.com/album/7I7oHhUGVnwiiJwuyiPYzv) | 4:32 | 2023-02-16 | 2023-03-02 |
+| [Maalu Maalu \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/track/78FBWpi0DaGa705ueAPpGj) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Maalu Maalu \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/album/7nY0LfYowNjgHUWy3kHS9x) | 3:55 | 2024-05-07 |  |
 | [Maamadura \- From "Jigarthanda DoubleX"](https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Maamadura \(From "Jigarthanda DoubleX"\)](https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS) | 2:48 | 2023-10-09 | 2024-02-28 |
 | [Maanja Nee](https://open.spotify.com/track/2evmZa93wRifY0BBcPW6SZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:54 | 2024-01-10 | 2024-02-28 |
 | [Maaradhey \(From "Athomugam"\)](https://open.spotify.com/track/631Xua8vxDzSMGTVy8Wi16) | [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg), [Sunil Dev](https://open.spotify.com/artist/4Jg5BRyXAHfekxtNKuahsl), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [Balaji Sri](https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90) | [Maaradhey \(From "Athomugam"\)](https://open.spotify.com/album/14fNHe2EeBX8hJiLR3GRa2) | 4:39 | 2024-02-16 | 2024-04-02 |

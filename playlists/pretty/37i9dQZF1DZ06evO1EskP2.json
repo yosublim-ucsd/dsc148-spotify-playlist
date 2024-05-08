@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAC2p3u1l7+SGWXodey/lzN4",
+  "snapshot_id": "ZjgdgAAAAABqCdcT7sRrvL/WxArjDIwL",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4ngV4717539caCp8SVI35A"
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
       },
       "artists": [
-        {
-          "name": "Awa",
-          "url": "https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 292863,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
+      "duration_ms": 267174,
+      "name": "Forever Summer",
+      "url": "https://open.spotify.com/track/0KDKWUzgpKyvhxKbGo8piX"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4ngV4717539caCp8SVI35A"
       },
       "artists": [
+        {
+          "name": "Awa",
+          "url": "https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 267174,
-      "name": "Forever Summer",
-      "url": "https://open.spotify.com/track/0KDKWUzgpKyvhxKbGo8piX"
+      "duration_ms": 292863,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
       "duration_ms": 201978,
       "name": "You Had Me at Aloha",
       "url": "https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterflies: Live",
-        "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "High on Love",
-      "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 188368,
       "name": "We Make It Look Easy",
       "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 236934,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 214864,
       "name": "Just Keep Jamming",
       "url": "https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/6GXMiqtk8ME5GWZ6snXvWp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 236934,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/62sAt5CA4yGYbmkQvLVKwJ"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 223739,
-      "name": "Boy a or Boy B",
-      "url": "https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Gold & Green",
         "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 223739,
+      "name": "Boy a or Boy B",
+      "url": "https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at the Belly Up",
         "url": "https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spam Musubi Song",
         "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 140010,
       "name": "Spam Musubi Song",
       "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
     }
   ],
   "unique_name": "This Is Anuhea",

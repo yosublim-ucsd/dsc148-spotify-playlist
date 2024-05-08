@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
-  "num_followers": 70558,
+  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
+  "num_followers": 70570,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAAAZjujY+C3K0CM3tvJQAo/y",
+  "snapshot_id": "ZjgdgAAAAABd/FjO3fcVKwP7Q8RwxhSd",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuanto hay que invertir",
-        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Cuanto Hay Que Invertir",
-      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Olvidarme de tus Besos",
         "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
@@ -343,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chino",
         "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 167439,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuanto hay que invertir",
+        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Cuanto Hay Que Invertir",
+      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "El Gordo",
-      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 188040,
       "name": "Aquiles el de Tijuana (En Vivo)",
       "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
     },
     {
       "added_at": null,

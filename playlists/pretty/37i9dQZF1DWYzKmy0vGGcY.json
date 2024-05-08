@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 420116,
+  "num_followers": 420242,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -1089,20 +1073,20 @@
       "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
+      "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
         }
       ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1119,6 +1103,22 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 172960,
       "name": "A Place In The Sun",
       "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Golden Hits of The Everly Brothers",
         "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 185293,
       "name": "Yester-Me, Yester-You, Yesterday",
       "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "Cathy's Clown - 2007 Remaster",
+      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Cathy's Clown - 2007 Remaster",
-      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "A Girl Called Dusty",
         "url": "https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 173933,
       "name": "Wishin' And Hopin' - Stereo Version",
       "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Love Hurts - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+        "name": "Then Was Then Now Is Now!",
+        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Love Hurts - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "What the World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
+      "duration_ms": 122120,
+      "name": "I Go To Sleep",
+      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "What the World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Bobby Vee",
         "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
@@ -1619,38 +1635,6 @@
       "duration_ms": 149973,
       "name": "More Than I Can Say",
       "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Then Was Then Now Is Now!",
-        "url": "https://open.spotify.com/album/0Hr3RytTYKr0fIN88VyRBx"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "I Go To Sleep",
-      "url": "https://open.spotify.com/track/3UeJfsP9KekC5VVvIZ0444"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
         "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
@@ -1733,6 +1733,22 @@
       "url": "https://open.spotify.com/track/1plEmsH26pWSX0WzPchcz1"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Definitive Soul: Sam & Dave",
+        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Doo Wop Classics Vol. 1",
@@ -1751,22 +1767,6 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Definitive Soul: Sam & Dave",
-        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
-      },
-      "artists": [
-        {
-          "name": "David Ruffin",
-          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Put A Little Love In Your Heart",
-      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Motown Anthology",
         "url": "https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 155440,
       "name": "Darling Baby - Mono",
       "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/56dVr48fkRjXXHKE2dG6ya"
+      },
+      "artists": [
+        {
+          "name": "David Ruffin",
+          "url": "https://open.spotify.com/artist/3FZn8Z2B7mfaSOU8NE62KR"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Put A Little Love In Your Heart",
+      "url": "https://open.spotify.com/track/4BaAOHT6nF3F8oV7n8OvD1"
     },
     {
       "added_at": "2022-05-30 13:00:37",

@@ -4,7 +4,7 @@
 
 > 
 
-687 songs - 1 day 8 hr 51 min
+688 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-04 | 2024-04-24 |
 | [Feather \(feat\. Cise Starr & Akin from CYNE\)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr & Akin from CYNE](https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 2:55 | 2023-10-03 | 2024-03-05 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-27 | 2024-03-05 |
+| [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-05-07 |  |
 | [Filet Mignon](https://open.spotify.com/track/5VwJFzUBZbJQnxcTtvKQJT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:38 | 2023-01-07 | 2023-03-22 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-11-28 | 2023-05-09 |
 | [Fish & Chips](https://open.spotify.com/track/0L06mPuSfUUGoOzK3fa9zD) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 2:53 | 2023-03-22 | 2023-12-14 |

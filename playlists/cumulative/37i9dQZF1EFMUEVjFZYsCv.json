@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "It'll All Make Sense In The End",
+        "url": "https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201657,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/3c9mE11xM4xFdVd5Q3Wjg8"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
       },

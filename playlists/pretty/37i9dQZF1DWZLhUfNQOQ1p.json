@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 244753,
+  "num_followers": 244764,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Dusty Sundays",
-        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Dusty Sundays",
-      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
+        "name": "Dusty Sundays",
+        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Dusty Sundays",
+      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
     },
     {
       "added_at": "2024-05-03 08:34:30",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2024-05-03 08:34:30",
       "album": {
-        "name": "Need a Hit",
-        "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Gero",
-          "url": "https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1"
-        },
-        {
-          "name": "Club Azur",
-          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Need a Hit",
-      "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
-    },
-    {
-      "added_at": "2024-05-03 08:34:30",
-      "album": {
         "name": "Pussy Power (Desiree Remix)",
         "url": "https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 357435,
       "name": "Pussy Power - DESIREE Remix",
       "url": "https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM"
+    },
+    {
+      "added_at": "2024-05-03 08:34:30",
+      "album": {
+        "name": "Need a Hit",
+        "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Need a Hit",
+      "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
     },
     {
       "added_at": "2024-05-03 08:34:30",

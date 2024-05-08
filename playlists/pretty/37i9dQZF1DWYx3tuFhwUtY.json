@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138257,
+  "num_followers": 138258,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Jeannie Becomes A Mom",
-      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "The Lightning I, II",
         "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Jeannie Becomes A Mom",
+      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Ma\u00e7ka Yollar\u0131",
-      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Ma\u00e7ka Yollar\u0131",
+      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 187487,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 237413,
       "name": "It's Still Cool If You Don't",
       "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "TURNSTILE LOVE CONNECTION",
-        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 233626,
       "name": "A Lucid Dream",
       "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "TURNSTILE LOVE CONNECTION",
+        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Prisoners",
-        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Prisoners",
-      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Nature Always Wins",
         "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182210,
       "name": "Why Must A Building Burn?",
       "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Prisoners",
+        "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Prisoners",
+      "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
     },
     {
       "added_at": "2023-10-23 19:19:23",

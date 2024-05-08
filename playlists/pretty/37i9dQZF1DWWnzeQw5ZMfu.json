@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69114,
+  "num_followers": 69120,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Soul Live",
-        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Crazy - Live",
-      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Pompeii / Come As You Are (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 268690,
       "name": "Pompeii - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Soul Live",
+        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 441666,
+      "name": "Crazy - Live",
+      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-02-13 05:00:00",

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-537 songs - 1 day 3 hr 27 min
+538 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [aya](https://open.spotify.com/track/63IK5WSU4PJRlPWkNYIKZP) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [aya](https://open.spotify.com/album/2A6voGfhUhaF9fp6JlcMd3) | 3:44 | 2023-03-29 | 2023-08-10 |
 | [BABY](https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BABY](https://open.spotify.com/album/0496ctErDNGeGhddpJTQct) | 2:38 | 2023-12-13 |  |
 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 | 2023-12-13 |  |
+| [Back & Forth](https://open.spotify.com/track/0MY27k185vk4UoWTg1kwpg) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Back & Forth](https://open.spotify.com/album/5CT8ygeSRRS4iQz9cBziP0) | 3:58 | 2024-05-07 |  |
 | [Back For More](https://open.spotify.com/track/2ZNr0akG6bZggKDDI7PZAB) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Back For More](https://open.spotify.com/album/3FDe6WKhFluZ4qAu0Y90tI) | 3:39 | 2022-06-30 | 2023-04-28 |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 | 2024-04-17 |
@@ -391,7 +392,7 @@
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 | 2023-08-10 |
 | [Radio](https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs) | [WBN](https://open.spotify.com/artist/3lylsmPHMyvkSFS4EQWWih), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Radio](https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW) | 3:26 | 2022-09-13 | 2023-04-28 |
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
-| [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 |  |
+| [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 | 2024-05-08 |
 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 | 2023-08-08 | 2024-04-06 |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 | 2023-04-28 |
 | [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 | 2023-04-07 | 2023-08-10 |
@@ -430,7 +431,7 @@
 | [Sinner](https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Sinner](https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW) | 3:53 | 2024-02-16 |  |
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
-| [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 | 2023-12-13 |  |
+| [Sold Dreams](https://open.spotify.com/track/0NOR0mj9h4KyIuEBROGpVA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Sold Dreams](https://open.spotify.com/album/5B1FEceDW5hOWDNIpnrz6U) | 1:31 | 2023-12-13 | 2024-05-08 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2023-08-10 |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-04-28 |
 | [Spend It All](https://open.spotify.com/track/0RD2pGHqPMJ3RBfCRhHUSK) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Spend It All](https://open.spotify.com/album/3H4sajgFpoIlEzSHVLvxRJ) | 2:35 | 2023-05-16 | 2023-08-10 |

@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 88344,
+  "num_followers": 88365,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 256306,
-      "name": "7",
-      "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+      "duration_ms": 256306,
+      "name": "7",
+      "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys",
-      "url": "https://open.spotify.com/track/58hbLmAfFQA4zbxcbRCO4P"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Die Trying",
         "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 209536,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys",
+      "url": "https://open.spotify.com/track/58hbLmAfFQA4zbxcbRCO4P"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Mangy Love",
-        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 299671,
-      "name": "Bum Bum Bum",
-      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Gameshow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 297786,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Mangy Love",
+        "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 299671,
+      "name": "Bum Bum Bum",
+      "url": "https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ"
     },
     {
       "added_at": "2024-03-18 13:26:28",

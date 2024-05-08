@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 122618,
+  "num_followers": 129854,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhQAAAAABnlEm9WtMHv7U6ppADBVla",
+  "snapshot_id": "ZjqH2gAAAAB7AfLW5BM7FU/fmZB8YN9+",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+      "duration_ms": 195826,
+      "name": "The Pursuit of Happiness",
+      "url": "https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "The Pursuit of Happiness",
-      "url": "https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Les grandes art\u00e8res",
         "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 204013,
       "name": "Si tu reviens",
       "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 256199,
-      "name": "Saying Something",
-      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 218160,
       "name": "Sweetpie",
       "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 256199,
+      "name": "Saying Something",
+      "url": "https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -487,22 +471,6 @@
       "duration_ms": 204400,
       "name": "Frisbee & marmelade",
       "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -523,18 +491,34 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Defunct Baseball Team",
-        "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
       "artists": [
         {
-          "name": "Drucker",
-          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 148663,
-      "name": "Defunct Baseball Team",
-      "url": "https://open.spotify.com/track/528146UttVCudD2otAEkEI"
+      "duration_ms": 242193,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Carrie",
-        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+        "name": "Defunct Baseball Team",
+        "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
       },
       "artists": [
         {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Drucker",
+          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
         }
       ],
-      "duration_ms": 242193,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+      "duration_ms": 148663,
+      "name": "Defunct Baseball Team",
+      "url": "https://open.spotify.com/track/528146UttVCudD2otAEkEI"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -968,13 +968,13 @@
           "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
         },
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+      "duration_ms": 251186,
+      "name": "M\u00eame les loups versent des larmes de joie",
+      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1084,13 +1084,13 @@
           "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
         },
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 251186,
-      "name": "M\u00eame les loups versent des larmes de joie",
-      "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Kil",
+        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
+      },
+      "artists": [
+        {
+          "name": "Kahtolin",
+          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Kil",
+      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Me semble que c'est facile",
-        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Me semble que c'est facile",
-      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Kil",
-        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
+        "name": "Me semble que c'est facile",
+        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
       },
       "artists": [
         {
-          "name": "Kahtolin",
-          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
         }
       ],
-      "duration_ms": 244893,
-      "name": "Kil",
-      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
+      "duration_ms": 203586,
+      "name": "Me semble que c'est facile",
+      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Tatouage",
+        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Tatouage",
+      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Tatouage",
-        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Tatouage",
-      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "J'esp\u00e8re",
         "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 150453,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-05-03 04:00:00",

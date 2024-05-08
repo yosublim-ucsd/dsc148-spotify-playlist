@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 955458,
+  "num_followers": 955672,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAADubZnKKFp3NraRurx0t64B",
+  "snapshot_id": "ZjgdgAAAAADE6xKGocLigD/V1g6eFOLP",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Miel Amarga (En Vivo)",
         "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 258393,
       "name": "Hasta la Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Y Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Reemplazo",
         "url": "https://open.spotify.com/album/0QaYqMY1nTvvKzUOf4F0tu"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 235213,
       "name": "El Reemplazo",
       "url": "https://open.spotify.com/track/6mVWXZDsMguKrTHfiCyIVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Y Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Equivocaste",
         "url": "https://open.spotify.com/album/3bab9IovKQWPggPRGFNueq"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste",
       "url": "https://open.spotify.com/track/1aYCO1g5B1Jrg3kz6TXL3o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Pure Saturday
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,494 likes - 110 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,510 likes - 110 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

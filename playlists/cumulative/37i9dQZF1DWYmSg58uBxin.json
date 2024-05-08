@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Almost April",
+        "url": "https://open.spotify.com/album/7carHLnG8dnfTtFik3eqhb"
+      },
+      "artists": [
+        {
+          "name": "Florentin Davies",
+          "url": "https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Almost April",
+      "url": "https://open.spotify.com/track/5Q3Ap0awH9ziePtPXhxWEB"
+    },
+    {
+      "album": {
         "name": "Always Shining Bright",
         "url": "https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A"
       },
@@ -608,6 +626,24 @@
       "duration_ms": 158430,
       "name": "Bord de L\u2019eau",
       "url": "https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF"
+    },
+    {
+      "album": {
+        "name": "Boscotrecase",
+        "url": "https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe"
+      },
+      "artists": [
+        {
+          "name": "Ennio Bellucc",
+          "url": "https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136968,
+      "name": "Boscotrecase",
+      "url": "https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o"
     },
     {
       "album": {
@@ -2688,6 +2724,24 @@
       "duration_ms": 73761,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/5jagNBf5f4KJuUtt1SG1ID"
+    },
+    {
+      "album": {
+        "name": "Monza",
+        "url": "https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk"
+      },
+      "artists": [
+        {
+          "name": "Lorcan \u00d3 Faol\u00e1in",
+          "url": "https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133811,
+      "name": "Monza",
+      "url": "https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw"
     },
     {
       "album": {

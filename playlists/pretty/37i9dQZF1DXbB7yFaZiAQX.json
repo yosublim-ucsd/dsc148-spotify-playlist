@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1034552,
+  "num_followers": 1034683,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
+        "name": "Some Great Reward (Deluxe)",
+        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
       "artists": [
         {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
+      "duration_ms": 231960,
+      "name": "People Are People",
+      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (Deluxe)",
-        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
         }
       ],
-      "duration_ms": 231960,
-      "name": "People Are People",
-      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Black Celebration (Deluxe)",
-        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "A Question of Lust",
-      "url": "https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Pelican West Plus",
         "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Black Celebration (Deluxe)",
+        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
+      },
+      "artists": [
+        {
+          "name": "Ph.D.",
+          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
+        }
+      ],
+      "duration_ms": 242534,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 195293,
       "name": "Lost Weekend",
       "url": "https://open.spotify.com/track/7cMn3Octp5SRRGpv6fTSLE"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
-      },
-      "artists": [
-        {
-          "name": "Ph.D.",
-          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
-        }
-      ],
-      "duration_ms": 242534,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "English Settlement",
-        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered 2001",
-      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Be Yourself Tonight",
         "url": "https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 290667,
+      "name": "Senses Working Overtime - Remastered 2001",
+      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sons And Fascination/Sister Feelings Call",
-        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "Theme For Great Cities",
-      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Music For Eighties",
         "url": "https://open.spotify.com/album/55BbFFEsis6G2SLaj656wV"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 234680,
       "name": "Dance Hall Days",
       "url": "https://open.spotify.com/track/7oX2VrT1LwzJqhYJZuxPkR"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Sons And Fascination/Sister Feelings Call",
+        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "Theme For Great Cities",
+      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 338808,
-      "name": "New Gold Dream (81/82/83/84)",
-      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Album (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2MUwvNwZBBCUTqB1p4QTLN"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 365773,
       "name": "Rise - Remastered 2011",
       "url": "https://open.spotify.com/track/0mKzKaztvOigekC1VJQX4B"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 338808,
+      "name": "New Gold Dream (81/82/83/84)",
+      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Vun Drinne Noh Drusse",
-        "url": "https://open.spotify.com/album/01DA2kVDaJ8I2Z6PETlZt7"
-      },
-      "artists": [
-        {
-          "name": "BAP",
-          "url": "https://open.spotify.com/artist/39ukKqQOSUFJDAM9OLKQZg"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Kristallnaach",
-      "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Diamond (Special Edition)",
         "url": "https://open.spotify.com/album/4ZFsXDEdeMh9wAv5oOblv7"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 249413,
       "name": "Chant No. 1 (I Don't Need This Pressure On) - 2010 Remaster",
       "url": "https://open.spotify.com/track/0kKbwhBOhniM9Ndk5GPh8z"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Vun Drinne Noh Drusse",
+        "url": "https://open.spotify.com/album/01DA2kVDaJ8I2Z6PETlZt7"
+      },
+      "artists": [
+        {
+          "name": "BAP",
+          "url": "https://open.spotify.com/artist/39ukKqQOSUFJDAM9OLKQZg"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Kristallnaach",
+      "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
     },
     {
       "added_at": "2023-05-03 07:47:14",

@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-169 songs - 10 hr 27 min
+170 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Ela Me Faz](https://open.spotify.com/track/2hxWfUcyttEpiMRkntMxvE) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/5JvurTycAm8BCyBdJ69SEU) | 2:59 | 2021-07-02 | 2022-07-04 |
 | [Enquanto Houver Sol](https://open.spotify.com/track/4Eu11AEW4PK9Rtc3TkTwl7) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Como estão vocês?](https://open.spotify.com/album/3DDNSWI08bjLGOsK2EBY7w) | 3:02 | 2021-07-02 | 2022-07-29 |
 | [Esperando na janela](https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Eu, Tu, Eles](https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA) | 4:16 | 2021-07-02 | 2022-07-29 |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2024-04-16 |  |
 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 | 2021-07-02 |  |
 | [Felicidade](https://open.spotify.com/track/7L2SIaoe6JGpeAmt03pdcy) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 4:27 | 2021-07-02 | 2022-07-29 |
 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 | 2021-07-02 | 2022-07-28 |
@@ -101,7 +102,7 @@
 | [Lourinha Bombril](https://open.spotify.com/track/3eUOVnvVw9ntGUqJmHKF1J) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nove Luas](https://open.spotify.com/album/4ZhHdPLQtqUgTfHbxxB8xB) | 2:38 | 2021-07-02 | 2022-07-29 |
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2021-07-02 |  |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2021-07-02 | 2024-04-19 |
-| [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2021-07-02 |  |
+| [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2021-07-02 | 2024-05-08 |
 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 | 2021-07-02 | 2024-02-22 |
 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 | 2024-04-16 |  |
 | [Mensagem de Amor \- Ao Vivo](https://open.spotify.com/track/7oslptGlQaO6QQDutI7t7h) | [Toni Platao](https://open.spotify.com/artist/7drMo8O4JHwK9n9mTfpkoM), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Mensagem de Amor \(Ao Vivo\)](https://open.spotify.com/album/6If6NctPizDNAcgrnVG5gN) | 3:58 | 2024-01-12 | 2024-04-17 |

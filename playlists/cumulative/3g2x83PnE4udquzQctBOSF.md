@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-357 songs - 21 hr 17 min
+359 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-04 | 2024-03-11 |
 | [BUSTED](https://open.spotify.com/track/2tTDfmzFRufXl6ePmFvD51) | [Jhojho](https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR) | [BUSTED](https://open.spotify.com/album/68sWUPHuB7dnHKwG39Qxv9) | 5:44 | 2024-03-24 |  |
 | [Cadillac](https://open.spotify.com/track/6sr4lbYR7Nzpsrf1c0t9Cu) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Ralf](https://open.spotify.com/artist/0mOvIjuw8jRTMFQy3N5jAA) | [Cadillac](https://open.spotify.com/album/5TdThABVYRNR6afRUOa3N2) | 2:36 | 2023-08-27 | 2023-09-26 |
+| [Call On Me](https://open.spotify.com/track/4PupCImDzC6MoXNogI4wtF) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:40 | 2024-05-07 |  |
 | [Callin' All Dancers](https://open.spotify.com/track/3xvRZdaD1RcSclqj3KmF1O) | [Dryman](https://open.spotify.com/artist/4vkf3qpJLRwhb07HXVE1RE), [Sirmo](https://open.spotify.com/artist/76DLAKD5U9Lh0koE3YLwTV) | [Around The World In UKG, Vol\. 3](https://open.spotify.com/album/5ZffUddGMdn62hoLi79Zv0) | 4:37 | 2023-04-30 | 2023-05-23 |
 | [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 |  |
 | [Can't Be Me](https://open.spotify.com/track/1kqmG7Yohi5Kce049vnYZe) | [Nick Raff](https://open.spotify.com/artist/5RKz5nG67MROnbKyfbIQYF) | [Can't Be Me](https://open.spotify.com/album/1A4WZFYoCbyi0AX31CGX0P) | 3:15 | 2023-09-24 | 2023-12-14 |
@@ -99,7 +100,8 @@
 | [Dominican](https://open.spotify.com/track/5ByRIGj0PMVzCpSIIEf7Ab) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [FIGHT CLVB](https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg), [Kapoh](https://open.spotify.com/artist/6zmjY4utOtTz5N4Q1PdTVC) | [Dominican](https://open.spotify.com/album/6zuuSep4nhTrwG6CTjToxw) | 2:55 | 2023-09-17 | 2023-12-14 |
 | [Don't overthink](https://open.spotify.com/track/1v7JfjmjTrRGwB5N31vRSm) | [MI.BARRIO](https://open.spotify.com/artist/0EbzxaJq1KS6ALwcoSiMu1), [Shokë](https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk) | [MI.BARRIO VOL\. I \- Lucha Libre](https://open.spotify.com/album/5oC1pXVWVbRpgKqEjtnYbd) | 3:12 | 2024-03-24 |  |
 | [Don't Stop](https://open.spotify.com/track/5rARPIJHK466cBchvXeb2f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 2:50 | 2023-05-14 | 2023-06-12 |
-| [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 | 2023-01-20 |  |
+| [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 | 2023-01-20 | 2024-05-08 |
+| [Don't Watch Her](https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:19 | 2024-05-07 |  |
 | [Down \- Illusionize, Viot Rework](https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Down \(Illusionize, Viot Rework\)](https://open.spotify.com/album/4es3qre14ZUWofRzMdbpvI) | 4:50 | 2023-05-28 | 2023-07-03 |
 | [Dream Team](https://open.spotify.com/track/5LRu9P4iPFfu7DXcpNknNG) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Dream Team](https://open.spotify.com/album/3eka4HQCSqQyQbiExGGs06) | 3:56 | 2023-03-31 | 2023-04-17 |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 | 2023-02-13 |
@@ -355,7 +357,7 @@
 | [What You Gonna Do](https://open.spotify.com/track/0tXTIMzReuxOi6aK6a45W4) | [Papa Marlin](https://open.spotify.com/artist/1iVXBrMrQuRDgkZLnM7vCR), [Bondar](https://open.spotify.com/artist/2vEw53LUCi53eepaZUzbl8) | [What You Gonna Do](https://open.spotify.com/album/0ys5yYFIWWea3GOjhu6NBE) | 3:40 | 2023-09-17 | 2023-12-14 |
 | [What?!](https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV) | [Simon Ricci](https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [What?!](https://open.spotify.com/album/61zASyQB1pIxGBOCye0lsE) | 3:22 | 2023-07-16 | 2023-08-28 |
 | [Wrop](https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Wrop](https://open.spotify.com/album/7uLfUrSKlyq6Jii0C05JaH) | 5:43 | 2023-11-26 | 2024-02-05 |
-| [WTF](https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [WTF](https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR) | 3:17 | 2023-03-17 |  |
+| [WTF](https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [WTF](https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR) | 3:17 | 2023-03-17 | 2024-05-08 |
 | [Wu Tang](https://open.spotify.com/track/2pZZo8nD0TTbtad8az4tPF) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Wu Tang](https://open.spotify.com/album/1ebAXsBdHujq09tlX49MuA) | 3:37 | 2024-01-14 | 2024-03-11 |
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-11 | 2023-07-03 |
 | [XXX](https://open.spotify.com/track/2rNCAJ66lOLExMLZPuVpAO) | [The BeatBoy's](https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE) | [XXX](https://open.spotify.com/album/47tI9XRgUlZqx6kMeiijev) | 5:55 | 2023-08-13 | 2023-09-26 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,864 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,913 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shadows](https://open.spotify.com/track/1MyPG6X9Keh9Nx3U9ynegk) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Shadows](https://open.spotify.com/album/4NUNwTCIUQjNwK53HhhZqg) | 3:09 |
 | 2 | [Colloquially](https://open.spotify.com/track/7BbkXvDdCGofOR7cLlMP3s) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Colloquially](https://open.spotify.com/album/3ymtSnu23oE9Z6XjZmqWce) | 3:25 |
 | 3 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 |
-| 4 | [Se Telefonando](https://open.spotify.com/track/467IHEFyhfSUvQniIlaeb2) | [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV), [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ennio](https://open.spotify.com/album/5zt777VEVeCfm0lsasbEq3) | 4:13 |
+| 4 | [Se Telefonando \(Feat\. Cassandra Wilson & Gregory Porter\)](https://open.spotify.com/track/467IHEFyhfSUvQniIlaeb2) | [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV), [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ennio](https://open.spotify.com/album/5zt777VEVeCfm0lsasbEq3) | 4:13 |
 | 5 | [If You Could See Me Now](https://open.spotify.com/track/6C5hPfo53PLkPRB4wfFGdv) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Could See Me Now](https://open.spotify.com/album/5uHXt2UHrUqoq8KpEG0Gqu) | 5:40 |
 | 6 | [For Once In My Life](https://open.spotify.com/track/2bxofRdvqQGRAHVjCpAQ6G) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [For Once In My Life](https://open.spotify.com/album/0gyOghIejAM8UeTxt2LuQq) | 3:49 |
 | 7 | [Without A Chance](https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Without A Chance](https://open.spotify.com/album/2xlJC2yi53Z84z817kJjRZ) | 3:48 |

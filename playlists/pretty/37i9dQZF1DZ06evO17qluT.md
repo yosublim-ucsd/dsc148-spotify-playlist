@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. The essential tracks, all in one playlist.
+> This is BK\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,013 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,104 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 11 | [Dispiei](https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 3:21 |
 | 12 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
 | 13 | [Se eu não lembrar](https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:57 |
-| 14 | [Caminhos](https://open.spotify.com/track/1jLZxdC4AKR7dL2NdsXZHi) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 2:47 |
-| 15 | [Né Segredo](https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:02 |
+| 14 | [Né Segredo](https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:02 |
+| 15 | [Caminhos](https://open.spotify.com/track/1jLZxdC4AKR7dL2NdsXZHi) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 2:47 |
 | 16 | [Regras da Loja](https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR) | 3:50 |
 | 17 | [Em nome do que sinto](https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:26 |
 | 18 | [HOTEL ZONA SUL](https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Almas](https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc) | 3:47 |
 | 50 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
 
-Snapshot ID: `ZjbMAAAAAAAuSrcoFQaCHhtTLFdupZXx`
+Snapshot ID: `ZjgdgAAAAAC82AoqU0ifEmewo/1UtiP5`

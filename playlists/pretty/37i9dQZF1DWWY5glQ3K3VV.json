@@ -1,6 +1,6 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Icy Subzero",
-  "num_followers": 97680,
+  "num_followers": 97693,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 194571,
       "name": "La Bellavita (feat. Jul)",
       "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1207,30 +1207,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Glory Days EP",
-        "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
       "artists": [
         {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "Vaz T\u00e8",
-          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 222968,
-      "name": "Blueface (feat. Izi, Tedua)",
-      "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1255,22 +1247,30 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
+        "name": "Glory Days EP",
+        "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 218769,
-      "name": "Serio (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+      "duration_ms": 222968,
+      "name": "Blueface (feat. Izi, Tedua)",
+      "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1635,26 +1635,26 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
+        "name": "MI AMI O NO (feat. Capo Plaza)",
+        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 178044,
-      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
+      "duration_ms": 145085,
+      "name": "MI AMI O NO (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
     }
   ],
   "unique_name": "Club Rap ",

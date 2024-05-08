@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Ragheb Alama",
+  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Elissa",
   "name": "Fresh Arabic Pop",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 187951,
       "name": "Ana Mish Soutak",
       "url": "https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE"
@@ -5678,6 +5678,42 @@
       "duration_ms": 318132,
       "name": "\u0663\u0660 \u062d\u064a\u0627\u0629",
       "url": "https://open.spotify.com/track/2uhzCIW1KnPv465S7myMQx"
+    },
+    {
+      "album": {
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192778,
+      "name": "\u2060Hazzi Dehekli",
+      "url": "https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2"
+    },
+    {
+      "album": {
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198997,
+      "name": "\u2060Nazarat",
+      "url": "https://open.spotify.com/track/5xiz9j91A3c5o3h08uIToP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun"

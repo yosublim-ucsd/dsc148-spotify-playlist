@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: <a href="spotify:artist:4DROs1Ye9DiLY3X8L7xvl8">Andrez Babii</a>
 
-351 songs - 20 hr 36 min
+352 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 | 2022-04-17 |  |
 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 | 2022-04-17 |  |
 | [El Perdón](https://open.spotify.com/track/5bsiikhimXTUQGSxFiFHGV) | [Melania Pacheco](https://open.spotify.com/artist/4Y1ELLOTOaH6E0qe0WGXLR) | [Con Amor para Yah](https://open.spotify.com/album/63AK2ZWdBUBMpasQUswT3G) | 2:49 | 2022-04-17 | 2022-07-26 |
+| [Eleva Tu Alma](https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Eleva Tu Alma](https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5) | 3:31 | 2024-05-03 |  |
 | [En el Bar](https://open.spotify.com/track/3EWdCBy45AgZMY0LlYCMG1) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [En el Bar](https://open.spotify.com/album/0U5dzisRHBif9uA4WUHYSh) | 3:26 | 2022-08-27 | 2024-03-23 |
 | [En Familia](https://open.spotify.com/track/64abcKkOkbUAP5i9502iZy) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [En Familia](https://open.spotify.com/album/6XVWA6q4J4aEUHu2onfZX2) | 3:31 | 2021-11-05 | 2022-04-18 |
 | [En la Oración](https://open.spotify.com/track/2vHU7sEv1R4KOujTK1pgGf) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [En la Oración](https://open.spotify.com/album/50pc2VzP9m7PeyL19rEYbc) | 3:38 | 2022-04-17 | 2022-07-26 |
@@ -220,7 +221,7 @@
 | [No Mas](https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/1Yu6bKHy545AZSh1rb4sWz) | 3:26 | 2021-11-05 | 2022-04-18 |
 | [NO ME MOVERÉ](https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Isaac Rojas](https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5) | [NO ME MOVERÉ](https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT) | 3:06 | 2022-08-27 |  |
 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 | 2022-08-27 |  |
-| [No Te Creo](https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [No Te Creo](https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb) | 3:16 | 2022-04-17 |  |
+| [No Te Creo](https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [No Te Creo](https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb) | 3:16 | 2022-04-17 | 2024-05-08 |
 | [No Te Soltaré](https://open.spotify.com/track/5kFrbg0qPkzCWJkoNzJOBL) | [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [No Te Soltaré](https://open.spotify.com/album/1GwWEaEIiv9IOQ06DNOt6W) | 3:29 | 2022-04-17 | 2022-08-28 |
 | [No Te Vas](https://open.spotify.com/track/3gPmYreGrUrmlLbIIoSJnh) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [No Te Vas](https://open.spotify.com/album/0Gl3EtmzpF49ZcnHt49lA0) | 2:39 | 2021-11-05 | 2022-04-18 |
 | [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 | 2021-11-05 |  |

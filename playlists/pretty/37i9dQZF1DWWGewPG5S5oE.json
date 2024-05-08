@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover:\u5ddd\u5d8b\u54f2\u90ce",
-  "num_followers": 36747,
+  "num_followers": 36768,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-05-01 08:18:32",
       "album": {
+        "name": "Synapse Confusion",
+        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
+      },
+      "artists": [
+        {
+          "name": "igloo",
+          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
+        }
+      ],
+      "duration_ms": 339132,
+      "name": "Hello,,Dawn,Unknown",
+      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
+    },
+    {
+      "added_at": "2024-05-01 08:18:32",
+      "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
-    },
-    {
-      "added_at": "2024-05-01 08:18:32",
-      "album": {
-        "name": "Synapse Confusion",
-        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
-      },
-      "artists": [
-        {
-          "name": "igloo",
-          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
-        }
-      ],
-      "duration_ms": 339132,
-      "name": "Hello,,Dawn,Unknown",
-      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
     },
     {
       "added_at": "2024-05-01 08:18:32",

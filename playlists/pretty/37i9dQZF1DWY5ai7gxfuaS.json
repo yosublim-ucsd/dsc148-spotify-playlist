@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 285424,
+  "num_followers": 285512,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 217308,
       "name": "ANTAGONIST RETURNS",
       "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 204848,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Providencia",
-        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
-      },
-      "artists": [
-        {
-          "name": "Huszar",
-          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
-        }
-      ],
-      "duration_ms": 444306,
-      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
-      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "EUGH!",
         "url": "https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
+        "name": "Providencia",
+        "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
+      },
+      "artists": [
+        {
+          "name": "Huszar",
+          "url": "https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C"
+        }
+      ],
+      "duration_ms": 444306,
+      "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
+      "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
         "name": "Breaks",
         "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 235214,
       "name": "Breaks",
       "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Nowhere Now Here",
+        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 336513,
+      "name": "After You Comes the Flood",
+      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Nowhere Now Here",
-        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
-        }
-      ],
-      "duration_ms": 336513,
-      "name": "After You Comes the Flood",
-      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
-      },
-      "artists": [
-        {
-          "name": "King Yosef",
-          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
-        }
-      ],
-      "duration_ms": 269265,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Only Paradise Lost",
         "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 240000,
       "name": "Only Paradise Lost",
       "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
+      },
+      "artists": [
+        {
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
+        }
+      ],
+      "duration_ms": 269265,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
     },
     {
       "added_at": "2023-12-07 20:09:02",

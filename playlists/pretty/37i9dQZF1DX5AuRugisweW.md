@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,351 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,373 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 27 | [Evil Blues](https://open.spotify.com/track/3YOvmznZ4YSokmTyBlVMJm) | [Melvin "Lil' Son" Jackson](https://open.spotify.com/artist/1yrqYQjYUncdiXAuj6fGkj) | [Rockin' And Rollin' Vol\. 1 \(1948\-1950\)](https://open.spotify.com/album/5aIifcQg2xQpoGLAr5XjTN) | 2:50 |
 | 28 | [Mean and Evil](https://open.spotify.com/track/3HzSqraFqZ8aeoL97E52c2) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Let's Cut It: The Very Best of Elmore James](https://open.spotify.com/album/1WCo5zVf10jhAJVBGuzf8S) | 2:13 |
 | 29 | [Blue And Evil Blues \- Remastered \- 1997](https://open.spotify.com/track/5uceLRCLWBankhVPz6AGL1) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [The Bluebird Recordings, 1936\-1938](https://open.spotify.com/album/24mVci2XkXZkcFmk58M4UF) | 3:06 |
-| 30 | [Black And Evil Blues](https://open.spotify.com/track/4Drdz82DtFXhLpOvm2UvAU) | [Josh White](https://open.spotify.com/artist/5yO2B80rSVJ7bWdhBjkEKQ) | [Blues Singer \(1932\-1936\)](https://open.spotify.com/album/3kSbXWueGdc6Oggc684xLW) | 3:12 |
+| 30 | [Black And Evil Blues](https://open.spotify.com/track/4Drdz82DtFXhLpOvm2UvAU) | [Josh White](https://open.spotify.com/artist/5c0mm7PfVjwzhziV1dK77T) | [Blues Singer \(1932\-1936\)](https://open.spotify.com/album/3kSbXWueGdc6Oggc684xLW) | 3:12 |
 | 31 | [Devil Don't Want Me Blues](https://open.spotify.com/track/2aJg7C5YdTCOb5Oj0rKN0N) | [Tristan Omand](https://open.spotify.com/artist/5eG6rHvvjI5RVHnuUSWSUY) | [The Lesser\-Known Tristan Omand](https://open.spotify.com/album/7IPTWh4EGjqbTV0j6AsluG) | 3:26 |
 | 32 | [She's Got The Devil In Her](https://open.spotify.com/track/2r6JhvSzpVZ2UaHPMptWRO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Tea](https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD) | 5:10 |
 | 33 | [Preachin' Blues \(Up Jumped the Devil\)](https://open.spotify.com/track/4pEZg4zQFcJ1jdboMYTYf9) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |

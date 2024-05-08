@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Clarissa",
-  "num_followers": 433268,
+  "num_followers": 433273,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
         "name": "Carinha De Problema",
         "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 216154,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+      "duration_ms": 216154,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
         "name": "Samba Azul",
         "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 182004,
       "name": "Samba Azul",
       "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -883,6 +863,26 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
         "name": "putz",
         "url": "https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 108307,
       "name": "putz",
       "url": "https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -951,22 +967,6 @@
       "duration_ms": 304068,
       "name": "N\u00d3S NUS",
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-05-06 13:23:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "Cad\u00ea Voc\u00ea",
-        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 160008,
-      "name": "Cad\u00ea Voc\u00ea",
-      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
-    },
-    {
-      "added_at": "2024-05-06 13:23:27",
-      "album": {
         "name": "Vida Normal",
         "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
       },
@@ -1271,8 +1255,24 @@
     {
       "added_at": "2024-05-06 13:23:27",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+        "name": "Cad\u00ea Voc\u00ea",
+        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 160008,
+      "name": "Cad\u00ea Voc\u00ea",
+      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
+    },
+    {
+      "added_at": "2024-05-06 13:23:27",
+      "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-05-06 13:23:27",

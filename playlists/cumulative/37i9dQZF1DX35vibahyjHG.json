@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to African women at full volume. Cover: <a href=\"https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=d4Y87G_9TCKeQ0wNCmUE0Q\"> Kold AF </a>",
+  "description": "Listen to African women at full volume. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wWZyVDH8QH22marksPcM_w\"> Ayra Starr </a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "album": {
         "name": "Love You Well",
         "url": "https://open.spotify.com/album/5FL1VuX28rK1eeDEO50ZjF"
       },
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Green Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,753 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,755 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 32 | [AINSIFAITE](https://open.spotify.com/track/3vacN4Oe8Yn2eMHZBvKySP) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [AINSIFAITE](https://open.spotify.com/album/5dVQq8KcIzHLk2n080xABL) | 2:17 |
 | 33 | [TOUJOURS+](https://open.spotify.com/track/4IB8JqXWpQXKRryrRDmtWc) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561) | [TOUJOURS+](https://open.spotify.com/album/7Idj3ciTMQ4ESCmMAVTwkH) | 2:21 |
 | 34 | [Décoller](https://open.spotify.com/track/4FNp7K8k1WXNIfMZL4sV6r) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Désolé, d'être moi.](https://open.spotify.com/album/1nsFtCQo2jmjJBoRqYYlS6) | 2:47 |
-| 35 | [L.A](https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L.A](https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5) | 1:53 |
+| 35 | [L.A](https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L.A](https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5) | 1:50 |
 | 36 | [Go Mode](https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Go Mode](https://open.spotify.com/album/3GekvJk4hGZw39M27jUcCc) | 3:44 |
 | 37 | [Maintenant](https://open.spotify.com/track/6GWn6SRhsIURDEGlHkocs1) | [Nixon](https://open.spotify.com/artist/4WlaVjaeMW3N0HpUuhwBq9), [La Miellerie](https://open.spotify.com/artist/0nC7vC1zxC0uRXwEeGKIs9), [G.A THE PLUG](https://open.spotify.com/artist/2k7ABfzD1GWajBZGNGVCPV) | [Maintenant](https://open.spotify.com/album/6uKnkUVqbDtgT8HQMu83R0) | 3:10 |
 | 38 | [bohème.](https://open.spotify.com/track/4qgxoRgaWlHeFTKISGes2f) | [Idrane](https://open.spotify.com/artist/7lnlpCPA31jrYPAVNVR3JV) | [Arkoydaki](https://open.spotify.com/album/7F15V1PMXT4QPt5euw9HOf) | 2:56 |

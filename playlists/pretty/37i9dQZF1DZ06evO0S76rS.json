@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 138827,
+  "num_followers": 138865,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAACYyg8Jsn4KvgdDVdO+q0nc",
+  "snapshot_id": "ZjgdgAAAAAC7FHgG1C/3RL+PfZsj7+OJ",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Con Dinero y Sin Dinero",
+      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niche Con Cuerdas",
         "url": "https://open.spotify.com/album/67vT4qNa8WjuzO085IA8v6"
       },
@@ -363,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 326410,
-      "name": "Un D\u00eda Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -395,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },
       "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
         {
           "name": "Grupo Niche",
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Con Dinero y Sin Dinero",
-      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
+      "duration_ms": 326410,
+      "name": "Un D\u00eda Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 337866,
-      "name": "Cielo de Tambores",
-      "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Prueba De Fuego",
         "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 305506,
-      "name": "Mi Valle del Cauca",
-      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+      "duration_ms": 337866,
+      "name": "Cielo de Tambores",
+      "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 327160,
       "name": "Mi Machete",
       "url": "https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 254556,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/1GyiOg6NkOzpDlJQTtY0Fo"
     }
   ],
   "unique_name": "This Is Grupo Niche",

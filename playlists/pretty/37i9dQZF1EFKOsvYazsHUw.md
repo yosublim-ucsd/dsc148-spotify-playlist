@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 28 | [Not Worth It](https://open.spotify.com/track/0eSx5b1VuqB8ncSmXdhCpV) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:06 |
 | 29 | [Murder She Wrote](https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F) | 3:11 |
 | 30 | [Acting Like That](https://open.spotify.com/track/1o2TUFm3HmbgmYr2OqmVpy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:17 |
-| 31 | [Hands Off Me](https://open.spotify.com/track/7v8mdR5c3k2bYoXvYbsfCs) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:45 |
-| 32 | [Gone](https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:50 |
+| 31 | [Gone](https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:50 |
+| 32 | [Hands Off Me](https://open.spotify.com/track/7v8mdR5c3k2bYoXvYbsfCs) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:45 |
 | 33 | [Tú+Yo](https://open.spotify.com/track/0R3xevnIYOf8AuBSIvGT6R) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg) | [El Amor No Tiene Lenguaje](https://open.spotify.com/album/0dzWhFK0nYY5niiUC36WVN) | 3:17 |
 | 34 | [Heal My Desires](https://open.spotify.com/track/3vBhSzUg5d9PbOWcF86ucQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 2:55 |
 | 35 | [Revolution](https://open.spotify.com/track/45LbqIkc6xVfyOxBVU8efO) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Revolution](https://open.spotify.com/album/1R71BrJFADHwIWaqQ3UAzy) | 4:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 98 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 99 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `AbQowgAAAABR4vzXxVTbgRgyBQx0CCP/`
+Snapshot ID: `AbQuYgAAAAAYERyrbA5BCSvZbDmOm6cB`

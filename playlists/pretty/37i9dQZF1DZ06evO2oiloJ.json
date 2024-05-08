@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 193928,
+  "num_followers": 194006,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAABpXBK+ZsW0ax+sU7I6IHw3",
+  "snapshot_id": "ZjgdgAAAAAD3+XwgOIffsRzHSamUKQ2+",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 111751,
       "name": "Chip On My Shoulder",
       "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 252021,
-      "name": "Street Runner",
-      "url": "https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray 4 Love",
         "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 169453,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 252021,
+      "name": "Street Runner",
+      "url": "https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL"
     },
     {
       "added_at": null,

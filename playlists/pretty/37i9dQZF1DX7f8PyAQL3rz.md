@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > tuê e tutu filhos da noite empurrando o palio na marginal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,120 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379,968 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [2023](https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:58 |
 | 60 | [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 |
 
-Snapshot ID: `ZjGGPAAAAAD4uVweWy0pFnZnDUsh/XQa`
+Snapshot ID: `Zjow+QAAAAA5WymgmpxsSMl0kguSw8O2`

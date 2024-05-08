@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-272 songs - 16 hr 11 min
+273 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 | 2024-04-19 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
-| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 |  |
+| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2024-05-08 |
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 | 2024-05-06 |
 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2023-08-04 |
 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 | 2024-03-07 |  |
@@ -229,6 +229,7 @@
 | [Quizás Hoy](https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg) | [Erica García](https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL) | [El Cerebro](https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i) | 3:00 | 2022-01-20 | 2022-07-28 |
 | [Qué Va a Ser de Mí](https://open.spotify.com/track/5mAvpLtNWuJ4yZkHz0qW35) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [Qué Va a Ser de Mí](https://open.spotify.com/album/53Bep0Jp0mCwzRqTPjUj2X) | 3:53 | 2022-01-20 | 2022-07-29 |
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-11-24 |  |
+| [Ritual de limpieza](https://open.spotify.com/track/2IVGYh5VcZlCohc4zlRf5D) | [Mariana Bianchini](https://open.spotify.com/artist/7BtIqf6x9Ob30b5AVmGl29) | [Ritual de limpieza](https://open.spotify.com/album/3Ll2zZH52iVxCdALajcLjF) | 3:44 | 2024-04-19 |  |
 | [Salir](https://open.spotify.com/track/4DWqEzUWaYMiTg0cFcHQk3) | [LibertinA](https://open.spotify.com/artist/6M9b9Bk5yqLe7up4eluePE) | [Klapaucius](https://open.spotify.com/album/40IzdWlqqOgu9tMwG6ymbv) | 2:15 | 2022-01-20 | 2022-07-29 |
 | [Santa Rita](https://open.spotify.com/track/5zczgX7px6Eeq2DvHLOD6Z) | [Lu Martinez](https://open.spotify.com/artist/2WW3y6gc1uo1THXmvocwJu) | [El Calor](https://open.spotify.com/album/1pwQ4NwOfZNsjMVNKas5zO) | 3:16 | 2022-01-20 | 2022-07-28 |
 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 | 2022-01-20 | 2023-05-14 |

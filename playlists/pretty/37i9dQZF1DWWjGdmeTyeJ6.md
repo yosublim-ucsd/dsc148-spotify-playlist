@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Pretty Girl\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,943 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,011 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 67 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
 | 68 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
 | 69 | [GIBBERISH](https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [GIBBERISH](https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK) | 2:15 |
-| 70 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi everywhere](https://open.spotify.com/artist/4Hj3jD4pOEhrf5Ntol1ttj) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
+| 70 | [Need You Now](https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR) | [tanvi everywhere](https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3) | [Need You Now](https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip) | 2:54 |
 | 71 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 |
 | 72 | [All My Friends](https://open.spotify.com/track/3LPdRRMTSeZ0FdjmpOnfKB) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [All My Friends](https://open.spotify.com/album/0AXB3EOh9uSBdQrcoBnlyu) | 4:32 |
 | 73 | [Mercy](https://open.spotify.com/track/7yW7yONHdPpJcypccYHSTA) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Mercy](https://open.spotify.com/album/63FjRQ0wpNDSQiCZPh4Xjm) | 2:42 |

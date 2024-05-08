@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-586 songs - 1 day 5 hr 45 min
+588 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 |  |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-01-21 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-05-02 |  |
+| [The Lady in Red](https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [The Lady in Red](https://open.spotify.com/album/0mSO9pQayzoyrUeMpjKcjA) | 3:56 | 2024-05-07 |  |
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-04-28 | 2023-06-23 |
 | [The Less I Know The Better](https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [The Less I Know The Better](https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG) | 2:44 | 2024-03-01 |  |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
@@ -536,6 +537,7 @@
 | [Water Fountain](https://open.spotify.com/track/6kyed7E6Y1O1qVtT5D5noi) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Water Fountain](https://open.spotify.com/album/0JBPp7cnzacwTDBNGh7O0P) | 2:46 | 2023-05-12 |  |
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-12 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 | 2023-09-01 |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |

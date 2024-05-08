@@ -1,6 +1,6 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5597,
+  "num_followers": 5608,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nacarile",
-        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 174080,
-      "name": "(Escap\u00e1ndome) de m\u00ed",
-      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+        "name": "Nacarile",
+        "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
       "artists": [
         {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+      "duration_ms": 174080,
+      "name": "(Escap\u00e1ndome) de m\u00ed",
+      "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+        "name": "Lo Que No Te Dije",
+        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
       },
       "artists": [
         {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -575,22 +591,6 @@
       "duration_ms": 199308,
       "name": "Aguadilla",
       "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Lo Que No Te Dije",
-        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -623,22 +623,6 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Liberado",
-        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
       },
       "artists": [
         {
-          "name": "Mola Mola",
-          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 200022,
-      "name": "TQD",
-      "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 194500,
       "name": "Duermo con fr\u00edo",
       "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "duration_ms": 200022,
+      "name": "TQD",
+      "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Cromo Rx",
         "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 233750,
       "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
       "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
     }
   ],
   "unique_name": "Indie Boricua",

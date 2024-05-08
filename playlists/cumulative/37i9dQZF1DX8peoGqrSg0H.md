@@ -4,7 +4,7 @@
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
 
-484 songs - 1 day 4 hr 49 min
+485 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 | 2023-06-16 |
 | [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 | 2022-11-04 |
+| [FEAT](https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [FEAT](https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw) | 2:59 | 2024-05-07 |  |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-03 |  |
 | [Flame](https://open.spotify.com/track/07yq4fcfWqPecc3z6kk3bb) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [Flame](https://open.spotify.com/album/1KQkObxhoz8QXlHotEp7PS) | 3:57 | 2022-08-31 | 2022-09-09 |
 | [FORGET ME NOT](https://open.spotify.com/track/0VSqxk67oPYJAhiIXzW3KP) | [789SURVIVAL](https://open.spotify.com/artist/1SiMn1cDMZKmUO06X97vcj) | [FORGET ME NOT](https://open.spotify.com/album/3OIxHqzWClDjH8obB1Jkn2) | 4:03 | 2023-09-15 | 2023-11-03 |
@@ -202,7 +203,7 @@
 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 | 2022-10-26 | 2023-02-14 |
 | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z) | 3:16 | 2022-12-01 | 2023-01-10 |
 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-19 | 2023-05-24 |
-| [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 |  |
+| [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 | 2024-05-08 |
 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 | 2023-02-23 | 2024-02-16 |
 | [ชอบไปหมด \(Way Too Cute\)](https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:39 | 2023-12-07 |  |
 | [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/track/6Z7vxUs7OmuVMlkX6ZEz3R) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ชั่วโมงพิเศษ \(Time To Love\)](https://open.spotify.com/album/0vJAdME3KE2lXXzNimcGx2) | 3:10 | 2023-06-30 | 2023-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=UrcGlaRcSSedz6TTOecUcw">Dua Lipa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,003 likes - 69 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,054 likes - 69 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 22 | [Ukhathele](https://open.spotify.com/track/4zP3o8VMNIPjGKwDRveNPT) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Colkaze](https://open.spotify.com/artist/3f6UNjHAy4DiEtL0sWLZqq) | [Ukhathele](https://open.spotify.com/album/6g2DK7rmJelm16ufyOVKPa) | 3:51 |
 | 23 | [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 |
 | 24 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 |
-| 25 | [Just Soft](https://open.spotify.com/track/0cvsMFVWXoqmaUA8xi7roG) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Dj Mposession](https://open.spotify.com/artist/5ukXZAs6d5sZd8hUYiLn2F), [Ambitious Kid](https://open.spotify.com/artist/4YNDuhuaRYOBZ034t0cL6G), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [Just Soft](https://open.spotify.com/album/6WHB1NC53ovELHMc1GyvjK) | 5:34 |
+| 25 | [Just Soft](https://open.spotify.com/track/0cvsMFVWXoqmaUA8xi7roG) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Dj Mposession](https://open.spotify.com/artist/5ukXZAs6d5sZd8hUYiLn2F), [Ambitious Kid](https://open.spotify.com/artist/4YNDuhuaRYOBZ034t0cL6G), [Cardo](https://open.spotify.com/artist/6nGUsCeSwwNEdqd9VwOtBy) | [Just Soft](https://open.spotify.com/album/6WHB1NC53ovELHMc1GyvjK) | 5:34 |
 | 26 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 |
 | 27 | [Ndixolele](https://open.spotify.com/track/0kxp0TQBA7geTT0CYJik4X) | [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Ndixolele](https://open.spotify.com/album/1Xu7No9RW8RON7jwelBez5) | 4:26 |
 | 28 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 |

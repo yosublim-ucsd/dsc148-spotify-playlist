@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,010 likes - 110 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,021 likes - 110 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 71 | [J'AI FAILLI](https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [OÙ EST PASSÉ ZEUDOG ?](https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB) | 3:16 |
 | 72 | [Onze](https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:10 |
 | 73 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
-| 74 | [Last Call](https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:49 |
-| 75 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
-| 76 | [Je vais te faire danser](https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:11 |
+| 74 | [Je vais te faire danser](https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:11 |
+| 75 | [Last Call](https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:49 |
+| 76 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
 | 77 | [Y peut mouiller](https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Suite pour personne](https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV) | 4:36 |
-| 78 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
-| 79 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
+| 78 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
+| 79 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
 | 80 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 |
 | 81 | [Trait d'union](https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 4:05 |
 | 82 | [Quelqu'un quand\-même](https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi) | [Heskis](https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U) | [Holla](https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo) | 2:48 |

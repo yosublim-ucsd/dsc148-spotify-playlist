@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 139925,
       "name": "\u0414\u044b\u043c\u043e\u043a",
       "url": "https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX"
@@ -1528,6 +1528,32 @@
       "duration_ms": 173625,
       "name": "\u0437\u0430\u043f\u0440\u0435\u0442\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0414\u0415\u041b\u0410\u041d\u041e \u0412 \u0420\u041e\u0421\u0421\u0418\u0418!",
+        "url": "https://open.spotify.com/album/4axbg5ljK6uBRLchAwQvpq"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0410\u0412\u0415\u0420\u041d\u041e\u0415 \u041f\u041e\u042d\u0422",
+          "url": "https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop"
+        },
+        {
+          "name": "\u042f\u041a\u041e\u0420\u042a",
+          "url": "https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt"
+        },
+        {
+          "name": "EVEN CUTE",
+          "url": "https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99812,
+      "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
+      "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
     },
     {
       "album": {
@@ -1920,7 +1946,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 144761,
       "name": "\u041c\u0443\u0437\u044b\u043a\u0430",
       "url": "https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ"
@@ -2900,7 +2926,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"

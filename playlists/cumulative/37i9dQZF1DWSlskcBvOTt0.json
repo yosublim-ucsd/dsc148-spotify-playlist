@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 214604,
       "name": "Church Lady",
       "url": "https://open.spotify.com/track/51yWqSMUy8v8VgyEAFQ7bd"
@@ -3202,6 +3202,28 @@
       "duration_ms": 267254,
       "name": "Disko Axiom",
       "url": "https://open.spotify.com/track/34y5Y8P2RLdWOeu976BvTP"
+    },
+    {
+      "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298168,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
     },
     {
       "album": {
@@ -4084,7 +4106,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 214864,
       "name": "Find U",
       "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
@@ -7222,6 +7244,24 @@
       "duration_ms": 567031,
       "name": "Lune",
       "url": "https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ"
+    },
+    {
+      "album": {
+        "name": "Luxo",
+        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332400,
+      "name": "Luxo",
+      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
     },
     {
       "album": {

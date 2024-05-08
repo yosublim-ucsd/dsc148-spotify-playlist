@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 406605,
+  "num_followers": 406736,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
+        "name": "Oberteil",
+        "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        }
+      ],
+      "duration_ms": 149976,
+      "name": "Oberteil",
+      "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 219720,
       "name": "Atemlos durch die Nacht",
       "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
-        "name": "Oberteil",
-        "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        }
-      ],
-      "duration_ms": 149976,
-      "name": "Oberteil",
-      "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -839,26 +855,6 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -887,18 +883,22 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
       "artists": [
         {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
         }
       ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Mallemoment",
-        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        }
-      ],
-      "duration_ms": 169238,
-      "name": "Mallemoment",
-      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
         "name": "Saufi saufi",
         "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 206302,
       "name": "Saufi saufi",
       "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
+        "name": "Mallemoment",
+        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
+      },
+      "artists": [
+        {
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        }
+      ],
+      "duration_ms": 169238,
+      "name": "Mallemoment",
+      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
+        "name": "Skandal!",
+        "url": "https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Skandal!",
+      "url": "https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo"
+    },
+    {
+      "added_at": "2024-04-30 09:34:02",
+      "album": {
         "name": "Partysau",
         "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
       },
@@ -1247,30 +1271,6 @@
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
-    },
-    {
-      "added_at": "2024-04-30 09:34:02",
-      "album": {
-        "name": "Ciao 3 Tage Blau",
-        "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
-      },
-      "artists": [
-        {
-          "name": "David Dichter",
-          "url": "https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj"
-        },
-        {
-          "name": "Inki Nici",
-          "url": "https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Ciao 3 Tage Blau",
-      "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
     },
     {
       "added_at": "2024-04-30 09:34:02",
@@ -1311,26 +1311,26 @@
     {
       "added_at": "2024-04-30 09:34:02",
       "album": {
-        "name": "Skandal!",
-        "url": "https://open.spotify.com/album/2fFV1SfNw2nAO0ANVWQQYc"
+        "name": "Ciao 3 Tage Blau",
+        "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
       "artists": [
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "David Dichter",
+          "url": "https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj"
         },
         {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+          "name": "Inki Nici",
+          "url": "https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP"
         },
         {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 172250,
-      "name": "Skandal!",
-      "url": "https://open.spotify.com/track/0fd2RUyWXauYxN8Vu3UnLo"
+      "duration_ms": 188000,
+      "name": "Ciao 3 Tage Blau",
+      "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
     },
     {
       "added_at": "2024-04-30 09:34:02",

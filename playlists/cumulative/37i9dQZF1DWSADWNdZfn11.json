@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 177519,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ"
@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/0mSO9pQayzoyrUeMpjKcjA"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik",
+          "url": "https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236729,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/7qPoDnfzj2YTRmYvduCEfs"
+    },
+    {
+      "album": {
         "name": "The Less I Know The Better",
         "url": "https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG"
       },
@@ -6682,6 +6700,24 @@
       "duration_ms": 167350,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt"
+    },
+    {
+      "album": {
+        "name": "we can't be friends (wait for your love)",
+        "url": "https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mignard",
+          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211897,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq"
     },
     {
       "album": {

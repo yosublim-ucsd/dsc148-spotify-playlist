@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 6764,
+  "num_followers": 6766,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjbMAAAAAADRoPCW2DJ7zV5SRs8iGljf",
+  "snapshot_id": "ZjgdgAAAAABEhmQxZcDdHScMECELHuwx",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 146786,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/4z6nCgne1X6YJEnQdAHaYb"
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/7dbHDlGVMtdvcXhM5L6Ytf"
     },
     {
       "added_at": null,
@@ -379,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "Old Hymns",
-      "url": "https://open.spotify.com/track/7dbHDlGVMtdvcXhM5L6Ytf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 255525,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
       },
@@ -420,25 +388,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Best Friends and Hospital Beds",
-      "url": "https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tales Don't Tell Themselves",
-        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "On a Wire",
-      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
+      "duration_ms": 146786,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/4z6nCgne1X6YJEnQdAHaYb"
     },
     {
       "added_at": null,
@@ -459,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter and Verse",
-        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf"
       },
       "artists": [
         {
@@ -468,9 +420,25 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 223626,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT"
+      "duration_ms": 255525,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tales Don't Tell Themselves",
+        "url": "https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "On a Wire",
+      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
     },
     {
       "added_at": null,
@@ -484,25 +452,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 142106,
-      "name": "Spine",
-      "url": "https://open.spotify.com/track/4kj1UC6tMgspee3nRtLdqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Between Order and Model",
-        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 206838,
-      "name": "Storytelling Pt2",
-      "url": "https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa"
+      "duration_ms": 165573,
+      "name": "Best Friends and Hospital Beds",
+      "url": "https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue"
     },
     {
       "added_at": null,
@@ -532,25 +484,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 158360,
-      "name": "You've Got a Bad Case of the Religions",
-      "url": "https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Death Comes to Us All",
-      "url": "https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld"
+      "duration_ms": 223626,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT"
     },
     {
       "added_at": null,
@@ -564,9 +500,25 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 255415,
-      "name": "The Getaway Plan",
-      "url": "https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7"
+      "duration_ms": 206838,
+      "name": "Storytelling Pt2",
+      "url": "https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/4kj1UC6tMgspee3nRtLdqd"
     },
     {
       "added_at": null,
@@ -587,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your History Is Mine: 2002-2009",
-        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
       },
       "artists": [
         {
@@ -596,9 +548,25 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Kicking and Screaming",
-      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+      "duration_ms": 158360,
+      "name": "You've Got a Bad Case of the Religions",
+      "url": "https://open.spotify.com/track/7oW1NontbB6FPayssJi0V3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 255415,
+      "name": "The Getaway Plan",
+      "url": "https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7"
     },
     {
       "added_at": null,
@@ -612,25 +580,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 137906,
-      "name": "Conduit",
-      "url": "https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter and Verse",
-        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Hidden Track",
-      "url": "https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba"
+      "duration_ms": 195746,
+      "name": "Death Comes to Us All",
+      "url": "https://open.spotify.com/track/4n4JSCL8UnjRtte7p7obld"
     },
     {
       "added_at": null,
@@ -660,9 +612,25 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+      "duration_ms": 202746,
+      "name": "Kicking and Screaming",
+      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter and Verse",
+        "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Hidden Track",
+      "url": "https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba"
     },
     {
       "added_at": null,
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 177840,
-      "name": "Nails",
-      "url": "https://open.spotify.com/track/0EBKtFz0V1zfIghLZJceyv"
+      "duration_ms": 137906,
+      "name": "Conduit",
+      "url": "https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5"
     },
     {
       "added_at": null,
@@ -699,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapter and Verse",
         "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your History Is Mine: 2002-2009",
-        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 164866,
-      "name": "No Honour Among Thieves",
-      "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
+      "duration_ms": 177840,
+      "name": "Nails",
+      "url": "https://open.spotify.com/track/0EBKtFz0V1zfIghLZJceyv"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "No Honour Among Thieves",
+      "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapter and Verse",
         "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your History Is Mine: 2002-2009",
-        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 151173,
-      "name": "Wrench",
-      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 264493,
       "name": "Waterfront Dance Club",
       "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your History Is Mine: 2002-2009",
+        "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "Wrench",
+      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
     }
   ],
   "unique_name": "This Is Funeral For A Friend",

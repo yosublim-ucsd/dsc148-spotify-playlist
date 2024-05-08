@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC?si=64gZKXFqQ\_aqVwzrD0POkA>Oba Reengy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,006 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,022 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 67 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
 | 68 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 |
 | 69 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
-| 70 | [Victory](https://open.spotify.com/track/5C6yAHRmLS2eqph02D2wpk) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Edem Evangelist](https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH) | [Victory](https://open.spotify.com/album/0Z8qfsAhlqtUxgv0CoIyGX) | 2:27 |
+| 70 | [Victory](https://open.spotify.com/track/5C6yAHRmLS2eqph02D2wpk) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Edem Evangelist](https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Victory](https://open.spotify.com/album/0Z8qfsAhlqtUxgv0CoIyGX) | 2:27 |
 | 71 | [Bo Ta Joor](https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Bo Ta Joor](https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ) | 2:40 |
 | 72 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 |
 | 73 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 |

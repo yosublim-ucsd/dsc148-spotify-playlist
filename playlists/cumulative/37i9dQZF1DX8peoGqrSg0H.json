@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "FEAT",
+        "url": "https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179119,
+      "name": "FEAT",
+      "url": "https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w"
+    },
+    {
+      "album": {
         "name": "FIRE BOY",
         "url": "https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux"
       },
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 179500,
       "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl"

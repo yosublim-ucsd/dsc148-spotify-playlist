@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,128 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,140 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 32 | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/track/6zZgn4nETQso6sDRhk0Vo6) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/album/6EKAeHlIR89cddIjX336xR) | 4:22 |
 | 33 | [Shaped by Fire](https://open.spotify.com/track/53x2Dean27JHy94loxcLV8) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/331DnqgmsWDJqH5IEZwnXQ) | 3:38 |
 | 34 | [Hellbound](https://open.spotify.com/track/6yv0RXKJmr0zXKr6athGJ4) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Hellbound](https://open.spotify.com/album/2xCWxGDjsBOghqdroWf0r8) | 4:02 |
-| 35 | [Réquiem](https://open.spotify.com/track/2xqmXNuQilD1zqNu90P2Sh) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Réquiem](https://open.spotify.com/album/3jper4T41XyWSlPCJ6Lfw1) | 3:33 |
+| 35 | [Réquiem](https://open.spotify.com/track/2xqmXNuQilD1zqNu90P2Sh) | [Selvagem Utopya](https://open.spotify.com/artist/21tmKxHUfxj2xMVPiifPlo) | [Réquiem](https://open.spotify.com/album/3jper4T41XyWSlPCJ6Lfw1) | 3:33 |
 | 36 | [Mysterious](https://open.spotify.com/track/3AwKlhPkIsjPVQzjcNGTb5) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/161RN2ydxC3AibzlpYziXx) | 4:43 |
 | 37 | [The Rover](https://open.spotify.com/track/3jUFOx8ZRQUuXHfiVeTscu) | [Vandroya](https://open.spotify.com/artist/0ksiPgsqQQqpNLyS8qGx8N) | [The Rover](https://open.spotify.com/album/5lwYrm10PIrGfuIOoJRuyh) | 5:43 |
 | 38 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 |

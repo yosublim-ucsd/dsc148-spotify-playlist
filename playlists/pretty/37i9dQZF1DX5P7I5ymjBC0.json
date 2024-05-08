@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 69450,
+  "num_followers": 69463,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,18 @@
     {
       "added_at": "2024-04-26 06:54:48",
       "album": {
-        "name": "Maati Baani",
-        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
       },
       "artists": [
         {
           "name": "Maati Baani",
           "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
         }
       ],
-      "duration_ms": 273394,
-      "name": "Boondan Boondan (feat. Ankita Joshi)",
-      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2024-04-26 06:54:48",
@@ -651,42 +647,6 @@
     {
       "added_at": "2024-04-26 06:54:48",
       "album": {
-        "name": "Yariyaan - Single",
-        "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
-      },
-      "artists": [
-        {
-          "name": "Hari & Sukhmani",
-          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
-        },
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "Yariyaan",
-      "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2024-04-26 06:54:48",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
-    },
-    {
-      "added_at": "2024-04-26 06:54:48",
-      "album": {
         "name": "Jaa Kaga",
         "url": "https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1"
       },
@@ -707,6 +667,46 @@
       "duration_ms": 310320,
       "name": "Jaa Kaga",
       "url": "https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f"
+    },
+    {
+      "added_at": "2024-04-26 06:54:48",
+      "album": {
+        "name": "Maati Baani",
+        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+        }
+      ],
+      "duration_ms": 273394,
+      "name": "Boondan Boondan (feat. Ankita Joshi)",
+      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
+    },
+    {
+      "added_at": "2024-04-26 06:54:48",
+      "album": {
+        "name": "Yariyaan - Single",
+        "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
+      },
+      "artists": [
+        {
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+        },
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "Yariyaan",
+      "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
     },
     {
       "added_at": "2024-04-26 06:54:48",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-04-26 06:54:48",
       "album": {
+        "name": "Ras Ke Bhare",
+        "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
+      },
+      "artists": [
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        },
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        }
+      ],
+      "duration_ms": 233181,
+      "name": "Ras Ke Bhare",
+      "url": "https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS"
+    },
+    {
+      "added_at": "2024-04-26 06:54:48",
+      "album": {
         "name": "We for Love",
         "url": "https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo"
       },
@@ -1007,38 +1027,26 @@
     {
       "added_at": "2024-04-26 06:54:48",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+        "name": "Krishna Murari",
+        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
       "artists": [
         {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
-    },
-    {
-      "added_at": "2024-04-26 06:54:48",
-      "album": {
-        "name": "Kahaani",
-        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
-      },
-      "artists": [
-        {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+          "name": "Hrishikesh Datar",
+          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
         },
         {
-          "name": "Anirban Chowdhury",
-          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
+          "name": "Shilpa Puntambekar",
+          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
+        },
+        {
+          "name": "Savani Kulkarni",
+          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Kahaani",
-      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
+      "duration_ms": 225353,
+      "name": "Krishna Murari",
+      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
     }
   ],
   "unique_name": "Fusion Finds",

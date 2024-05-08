@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 120541,
+  "num_followers": 120815,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Next Thing You Know (Live From The O2 London)",
-        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Next Thing You Know - Live From The O2 London",
-      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
         "name": "Thank God (Live from Fenway)",
         "url": "https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 240821,
       "name": "Thank God - Live from Fenway",
       "url": "https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Live From N.Y. (Acoustic)",
-        "url": "https://open.spotify.com/album/5WxpO6GGZq7RSKl3Y0tg2c"
+        "name": "Live From The Troubadour",
+        "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 282530,
-      "name": "Don't Take The Girl - Live From N.Y. / Acoustic",
-      "url": "https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq"
+      "duration_ms": 266856,
+      "name": "Galveston - Live From The Troubadour / 2008",
+      "url": "https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Live From The Troubadour",
-        "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
+        "name": "Live From N.Y. (Acoustic)",
+        "url": "https://open.spotify.com/album/5WxpO6GGZq7RSKl3Y0tg2c"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 266856,
-      "name": "Galveston - Live From The Troubadour / 2008",
-      "url": "https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu"
+      "duration_ms": 282530,
+      "name": "Don't Take The Girl - Live From N.Y. / Acoustic",
+      "url": "https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "On The Air: Her Best TV Performances",
-        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "She's Got You - Live",
-      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
         "name": "An Evening With John Denver",
         "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 198173,
       "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
       "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Palm Trees & Palm Readers - Jake Owen: Live in Los Angeles (Set 1)",
-        "url": "https://open.spotify.com/album/5k8oL8fv6fV2CWGZLsoAgL"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 343744,
-      "name": "Down to the Honky Tonk - Live from the Wiltern Theatre",
-      "url": "https://open.spotify.com/track/3qgnzKJazxtHkwW3BpbiKf"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
         "name": "On The Air: Her Best TV Performances",
         "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 248853,
       "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "Palm Trees & Palm Readers - Jake Owen: Live in Los Angeles (Set 1)",
+        "url": "https://open.spotify.com/album/5k8oL8fv6fV2CWGZLsoAgL"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 343744,
+      "name": "Down to the Honky Tonk - Live from the Wiltern Theatre",
+      "url": "https://open.spotify.com/track/3qgnzKJazxtHkwW3BpbiKf"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Carousel (Live from the 2023 ACM Awards)",
-        "url": "https://open.spotify.com/album/6f1cHtgOXyPgqvxYXHnP3Q"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "Carousel - Live from the 2023 ACM Awards",
-      "url": "https://open.spotify.com/track/6xM7M3mgtr6WhrfR38wxYQ"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 210880,
       "name": "Nobody But You (Duet with Gwen Stefani) - Live",
       "url": "https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "Carousel (Live from the 2023 ACM Awards)",
+        "url": "https://open.spotify.com/album/6f1cHtgOXyPgqvxYXHnP3Q"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "Carousel - Live from the 2023 ACM Awards",
+      "url": "https://open.spotify.com/track/6xM7M3mgtr6WhrfR38wxYQ"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Wreckage (Live)",
-        "url": "https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Wreckage - Live",
-      "url": "https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
         "name": "The Essential Bobby Bare",
         "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Restless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa"
+        "name": "Wreckage (Live)",
+        "url": "https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 233241,
-      "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
-      "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
+      "duration_ms": 211773,
+      "name": "Wreckage - Live",
+      "url": "https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "On My Own Again (Live At The Sydney Opera House)",
-        "url": "https://open.spotify.com/album/0jfbNRNBad6745LivCyIx0"
+        "name": "Restless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa"
       },
       "artists": [
         {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
         }
       ],
-      "duration_ms": 285706,
-      "name": "On My Own Again - Live At The Sydney Opera House",
-      "url": "https://open.spotify.com/track/2Ay5NlCEEgoLm0MJTtilaQ"
+      "duration_ms": 233241,
+      "name": "Suds in the Bucket - Live at West Virginia University Creative Arts Center, Morgantown, West Virginia - Aug. 28, 2004",
+      "url": "https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "What He Didn\u2019t Do (Live From Music City)",
-        "url": "https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT"
+        "name": "On My Own Again (Live At The Sydney Opera House)",
+        "url": "https://open.spotify.com/album/0jfbNRNBad6745LivCyIx0"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 194800,
-      "name": "What He Didn\u2019t Do - Live From Music City",
-      "url": "https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF"
+      "duration_ms": 285706,
+      "name": "On My Own Again - Live At The Sydney Opera House",
+      "url": "https://open.spotify.com/track/2Ay5NlCEEgoLm0MJTtilaQ"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1475,6 +1459,22 @@
       "duration_ms": 175493,
       "name": "Help Me Make It Through the Night - Live from RCA Studios 1972",
       "url": "https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "What He Didn\u2019t Do (Live From Music City)",
+        "url": "https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "What He Didn\u2019t Do - Live From Music City",
+      "url": "https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "29: Written In Stone (Live From Music City)",
-        "url": "https://open.spotify.com/album/67o5CFSmkDlqmeA2vkvZx8"
+        "name": "Good as You (Live)",
+        "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 223266,
-      "name": "29 - Live From Music City",
-      "url": "https://open.spotify.com/track/78ETXDXipfmM7S9uw0CSwC"
+      "duration_ms": 202706,
+      "name": "Good as You - Live",
+      "url": "https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1679,34 +1679,18 @@
     {
       "added_at": "2024-05-04 20:27:14",
       "album": {
-        "name": "Good as You (Live)",
-        "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
+        "name": "29: Written In Stone (Live From Music City)",
+        "url": "https://open.spotify.com/album/67o5CFSmkDlqmeA2vkvZx8"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 202706,
-      "name": "Good as You - Live",
-      "url": "https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA"
-    },
-    {
-      "added_at": "2024-05-04 20:27:14",
-      "album": {
-        "name": "Hallelujah (Live from The Ryman)",
-        "url": "https://open.spotify.com/album/46Xogmmy8WYRWOaj12BitP"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 229792,
-      "name": "Hallelujah (Live from The Ryman)",
-      "url": "https://open.spotify.com/track/7hkRBTW9o525wqBnSq246f"
+      "duration_ms": 223266,
+      "name": "29 - Live From Music City",
+      "url": "https://open.spotify.com/track/78ETXDXipfmM7S9uw0CSwC"
     },
     {
       "added_at": "2024-05-04 20:27:14",
@@ -1723,6 +1707,22 @@
       "duration_ms": 163013,
       "name": "Me and My Kind - Live",
       "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
+    },
+    {
+      "added_at": "2024-05-04 20:27:14",
+      "album": {
+        "name": "Hallelujah (Live from The Ryman)",
+        "url": "https://open.spotify.com/album/46Xogmmy8WYRWOaj12BitP"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 229792,
+      "name": "Hallelujah (Live from The Ryman)",
+      "url": "https://open.spotify.com/track/7hkRBTW9o525wqBnSq246f"
     },
     {
       "added_at": "2024-05-04 20:27:14",

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-298 songs - 14 hr 27 min
+299 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Find Me](https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [3DI](https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G) | [Find Me](https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB) | 3:09 | 2023-01-20 | 2023-04-09 |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 | 2022-09-29 |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 | 2022-10-22 |
+| [Free](https://open.spotify.com/track/1YEr0NvOiH8WIIq5Qn9sCu) | [Tr0n](https://open.spotify.com/artist/4T8bFrAntMjQU5ekr6tH4u), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Free](https://open.spotify.com/album/56dgpvKJXrg1ymysmMP641) | 3:13 | 2024-05-07 |  |
 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 | 2022-08-16 | 2023-04-09 |
 | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4) | 3:30 | 2024-03-15 |  |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 | 2022-10-29 |

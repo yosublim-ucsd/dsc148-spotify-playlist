@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=WWsrE8qBQWy4eNx9bpkpvw"> Dayo Bello </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,394 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,446 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 12 | [Passa Verão](https://open.spotify.com/track/785wTE0VfI5kg0ckzQf6eG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 5:01 |
 | 13 | [Jó](https://open.spotify.com/track/0bpVaytMT34mTu250PPWPU) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Jó](https://open.spotify.com/album/1ecMfGtshS9tmJ7s1cTKYs) | 6:06 |
 | 14 | [Vem Visita](https://open.spotify.com/track/4CSdExdy7piCp1N3ijXKcV) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 4:50 |
-| 15 | [Realidade](https://open.spotify.com/track/42g6rTumYfC5TeFqNxrPIM) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 4:28 |
-| 16 | [Último Culto](https://open.spotify.com/track/2WMLCzqQB4qTsZwXuH9vTY) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 4:35 |
+| 15 | [Último Culto](https://open.spotify.com/track/2WMLCzqQB4qTsZwXuH9vTY) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 4:35 |
+| 16 | [Realidade](https://open.spotify.com/track/42g6rTumYfC5TeFqNxrPIM) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 4:28 |
 | 17 | [Quem Te Viu Verá](https://open.spotify.com/track/1pAMTMmtqcvVNL61ezGboL) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 6:15 |
 | 18 | [Sonhos Frustrados](https://open.spotify.com/track/7oDjOZJSzrhqY9k9mhjyRq) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Seu Nome É Já](https://open.spotify.com/album/3LjAdB9njhpYvMGA9Je4Lt) | 5:06 |
 | 19 | [O Quarto Homem \- Ao Vivo](https://open.spotify.com/track/0rbk7zltQAZCrN4QbZlIRh) | [Raquel Santos](https://open.spotify.com/artist/1RONzohFeeiPlK3vHssdmd) | [Corinhos de Fogo \- Culto Pentecostal \(Ao Vivo\)](https://open.spotify.com/album/3EqwWJup7BmBBrwBoEd2KL) | 7:26 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Glorifique & Exalte a Ele](https://open.spotify.com/track/6Z56KObDNMmrqr5G4BFb2b) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Glorifique & Exalte a Ele](https://open.spotify.com/album/3tUFOrv3WONr57J4La7Bw9) | 5:38 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AbQozAAAAAAI6k+pUUYgF+nb1k5HXFJE`
+Snapshot ID: `AbQubAAAAABe7v8kwm3Ee85ggRJMFhqB`

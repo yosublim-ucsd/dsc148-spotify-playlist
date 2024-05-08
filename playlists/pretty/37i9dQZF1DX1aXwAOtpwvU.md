@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,881 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,891 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HAPPY END](https://open.spotify.com/track/2wltbuo1BJPEyz8DFwxFbL) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [HAPPY END](https://open.spotify.com/album/7aH5yAXPDt26R31Tee0gZE) | 2:55 |
+| 1 | [HAPPY END](https://open.spotify.com/track/2wltbuo1BJPEyz8DFwxFbL) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg), [Konrad Malicki](https://open.spotify.com/artist/6RXqeoZemBlebxHrp7EGtV) | [HAPPY END](https://open.spotify.com/album/7aH5yAXPDt26R31Tee0gZE) | 2:55 |
 | 2 | [Trucizna](https://open.spotify.com/track/55PNdqSS0ud4Kc80aswVsw) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Trucizna](https://open.spotify.com/album/4RukUlawLMKeSlpdGvP0pE) | 3:08 |
 | 3 | [głos](https://open.spotify.com/track/33wtYvTtesvUWhWeDGaIhU) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [głos](https://open.spotify.com/album/22Zo1UZkoNBUcus5TnxpSJ) | 2:41 |
 | 4 | [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 |

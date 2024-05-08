@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-176 songs - 10 hr 55 min
+177 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 | 2021-10-20 | 2024-04-28 |
 | [Cumbia Algarrobera \(featuring Chico Trujillo\)](https://open.spotify.com/track/2aCcRO5D7kPt5zPsw0ijr2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 4:49 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Buena](https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Bueno Pa' Bailar](https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF) | 2:24 | 2022-07-14 | 2023-12-21 |
-| [Cumbia de E T: Extraterrestre](https://open.spotify.com/track/41fp6eZoH6IDLBuxVWkHWx) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Entre Palmeras](https://open.spotify.com/album/2RKnIEBWuA4z5t75lu0jxl) | 2:43 | 2023-12-20 |  |
+| [Cumbia de E T: Extraterrestre](https://open.spotify.com/track/41fp6eZoH6IDLBuxVWkHWx) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Entre Palmeras](https://open.spotify.com/album/2RKnIEBWuA4z5t75lu0jxl) | 2:43 | 2023-12-20 | 2024-05-08 |
 | [Cumbia de E.T\. Extraterrestre](https://open.spotify.com/track/0PfYOl3RWq57a85XB56yw9) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Tropicales Clásicos Fuentes 12](https://open.spotify.com/album/2kJKCvXKdWRI48A4n3iTnM) | 2:43 | 2023-12-20 | 2024-04-19 |
 | [Cumbia de la Montaña](https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Sabor Sónico](https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ) | 6:26 | 2021-10-20 |  |
 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 | 2021-10-20 |  |
@@ -156,6 +156,7 @@
 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 | 2023-03-10 |  |
 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 | 2023-02-28 |  |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-20 |  |
+| [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 | 2021-10-20 |  |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2021-10-20 | 2024-04-19 |

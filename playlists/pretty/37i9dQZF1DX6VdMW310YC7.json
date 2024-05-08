@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3693571,
+  "num_followers": 3693713,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 160887,
       "name": "Into The Bloom",
       "url": "https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 239334,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 262000,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
-      },
-      "artists": [
-        {
-          "name": "Apotech",
-          "url": "https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec"
-        },
-        {
-          "name": "Lucas Nord",
-          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
-        }
-      ],
-      "duration_ms": 165952,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -755,22 +755,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Apotech",
+          "url": "https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Lucas Nord",
+          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+      "duration_ms": 165952,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 172939,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -867,6 +867,26 @@
       "duration_ms": 250920,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -951,26 +971,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Brighter (Emmit's Version)",
-        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Brighter - Emmit's Version",
-      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+        "name": "This Is It",
+        "url": "https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Frida Sundemo",
+          "url": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
         }
       ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+      "duration_ms": 263503,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "This Is It",
-        "url": "https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
       "artists": [
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Frida Sundemo",
-          "url": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 263503,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1115,6 +1115,22 @@
       "duration_ms": 170721,
       "name": "The Chase (Edit)",
       "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 324590,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 231784,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 231784,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Summer Love (Jan Blomqvist Remix)",
-        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 349400,
-      "name": "Summer Love - Jan Blomqvist Remix",
-      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 257560,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Summer Love (Jan Blomqvist Remix)",
+        "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 349400,
+      "name": "Summer Love - Jan Blomqvist Remix",
+      "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        },
-        {
-          "name": "Bye Ocean",
-          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
-        }
-      ],
-      "duration_ms": 160256,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 168000,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        },
+        {
+          "name": "Bye Ocean",
+          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Close The Distance / A Matter Of Chance",
-        "url": "https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Close The Distance",
-      "url": "https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 341409,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Close The Distance / A Matter Of Chance",
+        "url": "https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Close The Distance",
+      "url": "https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7"
     },
     {
       "added_at": "2024-05-03 04:00:00",

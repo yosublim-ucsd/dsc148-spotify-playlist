@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-08",
       "duration_ms": 144905,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
@@ -2004,6 +2004,24 @@
       "duration_ms": 158168,
       "name": "Cavandoli",
       "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
+    },
+    {
+      "album": {
+        "name": "Cavaria",
+        "url": "https://open.spotify.com/album/0ts4SAXbN5D0Di2AQVVXo0"
+      },
+      "artists": [
+        {
+          "name": "Shea Ada",
+          "url": "https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2"
+        }
+      ],
+      "date_added": "2024-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138916,
+      "name": "Cavaria",
+      "url": "https://open.spotify.com/track/6AKvBuBdVSf7uDYJYWtWxC"
     },
     {
       "album": {

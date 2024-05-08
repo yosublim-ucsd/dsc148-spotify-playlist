@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain](/playlists/plain/37i9dQZF1E4sPTJXAlqbkG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4sPTJXAlqbkG)
 
-### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
+### [Radio de PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Bryson Tiller, Sonder, Summer Walker and more
+> Con Bryson Tiller, Sonder, Summer Walker y más
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,577 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,626 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 |
 | 50 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 
-Snapshot ID: `ZjmaaAAAAACpYmvOSOeWtvuz8P4NoEoe`
+Snapshot ID: `Zjrm+QAAAADtASJZiEf7/oQQdAAPV9iN`

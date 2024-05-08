@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 415969,
+  "num_followers": 416028,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
-      },
-      "artists": [
-        {
-          "name": "Giselli Cristina",
-          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Compromisso",
         "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 231608,
       "name": "N\u00e3o Morrerei",
       "url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
+      },
+      "artists": [
+        {
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+        }
+      ],
+      "duration_ms": 287826,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Vitorioso \u00c9s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 354150,
+      "name": "Vitorioso \u00c9s - Ao Vivo",
+      "url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Vitorioso \u00c9s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PdIF199ZNM4lCTCtcNNv3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 354150,
-      "name": "Vitorioso \u00c9s - Ao Vivo",
-      "url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb"
     },
     {
       "added_at": "2023-11-03 04:33:15",

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 59810,
+  "num_followers": 59820,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -709,6 +709,42 @@
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Andamos Huyendo",
+        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tovalin",
+          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
+        }
+      ],
+      "duration_ms": 291647,
+      "name": "Andamos Huyendo",
+      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Orquesta Moderna",
@@ -735,42 +771,6 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        }
-      ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
-    },
-    {
-      "added_at": "2023-04-13 19:45:15",
-      "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
-      },
-      "artists": [
-        {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
-        },
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -867,18 +867,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
         }
       ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Nilüfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,902 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,195 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 |
 | 2 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 3 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 4 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 5 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
+| 4 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
+| 5 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 7 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 8 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 29 | [Ancora, Ancora, Ancora \- 2001 Remaster](https://open.spotify.com/track/4WNgrWP3GAFdrL4agNMryF) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2) | 4:18 |
 | 30 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 31 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
-| 32 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 |
-| 33 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
+| 32 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
+| 33 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 |
 | 34 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 35 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
 | 36 | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Mumbai Magic \(feat\. Natania, Subhi & Shalmali Kholgade\)](https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE) | 2:34 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 42 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 43 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 44 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |
-| 45 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
+| 44 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
+| 45 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |
 | 46 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
 | 47 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 48 | [Koyal](https://open.spotify.com/track/1U4GL7t6R83118Ltn6xcYJ) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Koyal](https://open.spotify.com/album/0M7I8bjIG1cROoEK7Hq1Rv) | 3:34 |

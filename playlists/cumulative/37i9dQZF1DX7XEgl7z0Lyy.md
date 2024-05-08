@@ -2,7 +2,7 @@
 
 ### [hexxed](https://open.spotify.com/playlist/37i9dQZF1DX7XEgl7z0Lyy)
 
-> music from the underworld\. featuring a 10 track co\-curation from <a href="spotify:artist:0I7VmE5LkRmWoHltutTUh9">asteria</a>.
+> music from the underworld
 
 221 songs - 7 hr 40 min
 

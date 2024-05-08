@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 295600,
+  "num_followers": 295647,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
       "artists": [
         {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 233706,
-      "name": "What's She Crying For",
-      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
         }
       ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
+      "duration_ms": 233706,
+      "name": "What's She Crying For",
+      "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
@@ -1127,18 +1111,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        },
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        },
+        {
+          "name": "Jessie Baylin",
+          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
+      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1175,30 +1183,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
-      },
-      "artists": [
-        {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        },
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        },
-        {
-          "name": "Jessie Baylin",
-          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
-      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "En Los Shadows de San Antone",
         "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 224132,
       "name": "Finger on the Button",
       "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
+        "name": "The One In The Sun",
+        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
       },
       "artists": [
         {
-          "name": "Emily West",
-          "url": "https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA"
-        },
-        {
-          "name": "Whiskey Wolves of the West",
-          "url": "https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj"
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
         }
       ],
-      "duration_ms": 214471,
-      "name": "I'll Change",
-      "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
+      "duration_ms": 208297,
+      "name": "For Saviours",
+      "url": "https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The One In The Sun",
-        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
       },
       "artists": [
         {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+          "name": "Emily West",
+          "url": "https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA"
+        },
+        {
+          "name": "Whiskey Wolves of the West",
+          "url": "https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj"
         }
       ],
-      "duration_ms": 208297,
-      "name": "For Saviours",
-      "url": "https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo"
+      "duration_ms": 214471,
+      "name": "I'll Change",
+      "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 320336,
+  "num_followers": 320367,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
-    },
-    {
-      "added_at": "2024-05-01 03:00:00",
-      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "added_at": "2024-05-01 03:00:00",
+      "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
+      },
+      "artists": [
+        {
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -643,22 +643,18 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Gba Stage, Vol. 4",
-        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
         }
       ],
-      "duration_ms": 235714,
-      "name": "S\u00f3 por Ti, Jesus",
-      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -679,18 +675,22 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+        "name": "Gba Stage, Vol. 4",
+        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
       "artists": [
         {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
         }
       ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+      "duration_ms": 235714,
+      "name": "S\u00f3 por Ti, Jesus",
+      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
-    },
-    {
-      "added_at": "2024-05-01 03:00:00",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 177322,
       "name": "Cora\u00e7\u00e3o de M\u00e3e",
       "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2024-05-01 03:00:00",
+      "album": {
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
+        "name": "Gba Stage, Vol. 11",
+        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Suely Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
+        }
+      ],
+      "duration_ms": 302794,
+      "name": "Maria de Minha Inf\u00e2ncia",
+      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
+    },
+    {
+      "added_at": "2024-05-01 03:00:00",
+      "album": {
         "name": "Pequeno Rei",
         "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 293210,
       "name": "Emanuel, Eu Te Adoro",
       "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
-    },
-    {
-      "added_at": "2024-05-01 03:00:00",
-      "album": {
-        "name": "Gba Stage, Vol. 11",
-        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Suely Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
-        }
-      ],
-      "duration_ms": 302794,
-      "name": "Maria de Minha Inf\u00e2ncia",
-      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
     },
     {
       "added_at": "2024-05-01 03:00:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,491 songs - 3 day 5 hr 48 min
+1,492 songs - 3 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [C’est que du bonheur](https://open.spotify.com/track/3QTsEZZ2qeahVOtliAvTHw) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:42 | 2022-03-05 | 2022-03-07 |
 | [Daar Wordt Aan De Deur Geklopt](https://open.spotify.com/track/1ok5ni0Bt4SdX7bWckSemo) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 0:52 | 2023-12-06 | 2023-12-08 |
 | [Daar Wordt Aan De Deur Geklopt](https://open.spotify.com/track/6FUio67dllSqSEYrGeLe2G) | [Telekids Musicalschool](https://open.spotify.com/artist/1Xnnpe8GdQNEF6Rf1wUFeX), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC), [Sinterklaasmuziek](https://open.spotify.com/artist/6mTfi6iXyEiuRE6uFnJIXf) | [Sinterklaasliedjes](https://open.spotify.com/album/0JOmAXoNAIpDBHYalZ3TLR) | 1:38 | 2021-12-07 | 2021-12-08 |
-| [Daba Die Daba Daa](https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Daba Die Daba Daa](https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS) | 3:02 | 2024-04-14 |  |
+| [Daba Die Daba Daa](https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Daba Die Daba Daa](https://open.spotify.com/album/0xHWsgwM49ZtsJz3GNDQIS) | 3:02 | 2024-04-14 | 2024-05-08 |
 | [Dag Sinterklaasje](https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 0:40 | 2022-12-04 | 2023-12-08 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-23 | 2023-11-28 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-07 | 2024-01-06 |
@@ -430,6 +430,7 @@
 | [Fall In Love](https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summerpack](https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB) | 2:55 | 2023-06-10 | 2023-06-12 |
 | [Fallen Angel](https://open.spotify.com/track/1ISMa0THMDKFBq2UMfm02e) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Fallen Angel](https://open.spotify.com/album/18j2dIcbSl9HbptIpg7Nh6) | 2:53 | 2021-05-25 | 2021-05-28 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-24 |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 |  |
 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 | 2022-08-16 | 2022-08-20 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-29 | 2023-11-19 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-17 |

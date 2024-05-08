@@ -1,6 +1,6 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25925,
+  "num_followers": 25926,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Snapshot",
-        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
-      },
-      "artists": [
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Snapshot",
-      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Songs for Every Soul",
         "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Snapshot",
+        "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
+      },
+      "artists": [
+        {
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Snapshot",
+      "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1Yqovy9hlOeV91IY3Bhcf2"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/6vaQaNyqrJ3Wb5kL3UprvL"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 258839,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/591lgphAIVn2aY9oyJRGuX"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1Yqovy9hlOeV91IY3Bhcf2"
     },
     {
       "added_at": "2020-08-13 14:39:00",

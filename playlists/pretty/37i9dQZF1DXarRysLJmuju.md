@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,978 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,232 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 100 | [Dance Til Forever](https://open.spotify.com/track/3p3pCKIXnOxqrqpYJejris) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Dance Til Forever](https://open.spotify.com/album/4eOwFeAxACC7NNB23EuIWI) | 2:32 |
 
-Snapshot ID: `ZjRhQAAAAAD7U+0rLor+sU1YvUeXRyaX`
+Snapshot ID: `ZjqHlgAAAACqc7g5pCMcBkEhJ8xUrj6I`

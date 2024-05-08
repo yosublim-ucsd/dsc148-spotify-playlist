@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Senndy",
-  "num_followers": 137514,
+  "num_followers": 137524,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,34 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 202437,
+      "name": "CHECK OUT",
+      "url": "https://open.spotify.com/track/3ez90zOWaFaPBSONOrdKvc"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -547,34 +575,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 202437,
-      "name": "CHECK OUT",
-      "url": "https://open.spotify.com/track/3ez90zOWaFaPBSONOrdKvc"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1087,26 +1087,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "M\u00cdDIA",
-        "url": "https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq"
+        "name": "Dan\u00e7a na Chuva",
+        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
       },
       "artists": [
         {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
         }
       ],
-      "duration_ms": 116869,
-      "name": "M\u00cdDIA",
-      "url": "https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM"
+      "duration_ms": 196024,
+      "name": "Dan\u00e7a na Chuva",
+      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1135,22 +1131,26 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Dan\u00e7a na Chuva",
-        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
+        "name": "M\u00cdDIA",
+        "url": "https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq"
       },
       "artists": [
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
         },
         {
-          "name": "DJ Di Marques",
-          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         }
       ],
-      "duration_ms": 196024,
-      "name": "Dan\u00e7a na Chuva",
-      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
+      "duration_ms": 116869,
+      "name": "M\u00cdDIA",
+      "url": "https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM"
     },
     {
       "added_at": "2024-05-03 03:01:00",
