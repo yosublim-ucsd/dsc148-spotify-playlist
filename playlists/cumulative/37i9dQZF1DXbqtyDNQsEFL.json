@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Ajakola",
+        "url": "https://open.spotify.com/album/44CUHBYHKwT05ixgwPjDRM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kaggwa",
+          "url": "https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF"
+        },
+        {
+          "name": "Justine Nabbosa",
+          "url": "https://open.spotify.com/artist/3ajkMpWlRRf2j3XkFJYZfu"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265668,
+      "name": "Ajakola",
+      "url": "https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP"
+    },
+    {
+      "album": {
         "name": "Aka Ngozi (The Hand of God)",
         "url": "https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE"
       },
@@ -5462,7 +5484,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 193890,
       "name": "Tate",
       "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"

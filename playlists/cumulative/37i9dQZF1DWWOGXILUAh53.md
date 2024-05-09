@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Sofi Tukker
 
-1,006 songs - 2 day 1 hr 9 min
+1,007 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Wait For The Weekend](https://open.spotify.com/track/4S7AzX8uR3p3LtiCOfiZW5) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Wait For The Weekend](https://open.spotify.com/album/7eYa7kpITnF8HozsDrRv7I) | 2:38 | 2024-03-29 | 2024-04-27 |
 | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4) | 3:14 | 2023-03-24 | 2023-06-03 |
 | [Waiting For A Lifetime](https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Waiting For A Lifetime](https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA) | 2:52 | 2022-01-14 | 2022-05-20 |
+| [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-08 |  |
 | [Waiting For You](https://open.spotify.com/track/5E5sBg4eCw8jwlqxyAqHrB) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Waiting For You](https://open.spotify.com/album/2HHrnuok2Ebabe0xJm1DLn) | 3:03 | 2021-11-12 | 2022-03-05 |
 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 | 2024-01-12 | 2024-02-03 |
 | [Walk Away \(feat\. Ailbhe Reddy\)](https://open.spotify.com/track/3qpbvXLn62vd5nKUIqCAWV) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 2:53 | 2023-03-31 | 2023-06-10 |

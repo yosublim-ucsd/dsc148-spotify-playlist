@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 289333,
       "name": "Channa Mereya",
       "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 273561,
       "name": "Ishq Mitaye",
       "url": "https://open.spotify.com/track/6TcZOEqYum5s3OWFZFYpBe"
@@ -1272,12 +1272,8 @@
       },
       "artists": [
         {
-          "name": "Prem",
-          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
-        },
-        {
-          "name": "Hardeep",
-          "url": "https://open.spotify.com/artist/6a9AtaXEnfNdyDju1FrXfT"
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
         },
         {
           "name": "Amar Arshi",
@@ -1302,7 +1298,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 187006,
       "name": "Kala Chashma",
       "url": "https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz"
@@ -1729,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Jersey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231575,
+      "name": "Maiyya Mainu",
+      "url": "https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE"
+    },
+    {
+      "album": {
         "name": "Maiyya Mainu (From \"Jersey\")",
         "url": "https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui"
       },
@@ -2028,7 +2042,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
@@ -2282,7 +2296,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
@@ -2382,6 +2396,32 @@
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
+    },
+    {
+      "album": {
+        "name": "Half Girlfriend (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351587,
+      "name": "Phir Bhi Tumko Chaahunga",
+      "url": "https://open.spotify.com/track/3oNVqllTnz7bHrY3f0nICg"
     },
     {
       "album": {
@@ -2652,7 +2692,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
@@ -2900,6 +2940,28 @@
       "duration_ms": 190131,
       "name": "Suit Suit",
       "url": "https://open.spotify.com/track/5Nd4DTIDWYkkZfi1NpgvJk"
+    },
+    {
+      "album": {
+        "name": "Veere Di Wedding (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4B5LDuvrmHDJbPmNYzHZMB"
+      },
+      "artists": [
+        {
+          "name": "QARAN",
+          "url": "https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Tareefan",
+      "url": "https://open.spotify.com/track/2SN54RFfaafTk7TE1n1Na4"
     },
     {
       "album": {
@@ -3248,6 +3310,24 @@
       "duration_ms": 250287,
       "name": "Tip Tip (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52gSIQvhLN9EeGNtHJELEu"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257088,
+      "name": "Tu Meri",
+      "url": "https://open.spotify.com/track/0800NFKDicegzMbus9LiuH"
     },
     {
       "album": {

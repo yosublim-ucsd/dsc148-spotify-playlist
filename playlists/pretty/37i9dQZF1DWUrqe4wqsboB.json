@@ -1,6 +1,6 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5608,
+  "num_followers": 5618,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
@@ -459,34 +459,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Duo Deleite",
-        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
-      },
-      "artists": [
-        {
-          "name": "Duo Deleite",
-          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
-        },
-        {
-          "name": "Gyanma",
-          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
-        },
-        {
-          "name": "Enyel C",
-          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
-        },
-        {
-          "name": "Balbi",
-          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "La Estrella del Show",
         "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
       },
@@ -515,6 +487,34 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Duo Deleite",
+        "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
+      },
+      "artists": [
+        {
+          "name": "Duo Deleite",
+          "url": "https://open.spotify.com/artist/2DDED5VCm0DcbyT9I1FhpO"
+        },
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "Enyel C",
+          "url": "https://open.spotify.com/artist/4OjJZ4Vgz2cSLRPvEKkJ2G"
+        },
+        {
+          "name": "Balbi",
+          "url": "https://open.spotify.com/artist/2Dm9fZxXl9qFdnLWpyRSPA"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/6gmZ7hycaLVJlFBusgpDzo"
+        "name": "Lo Sencillo",
+        "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
       },
       "artists": [
         {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+          "name": "Polem",
+          "url": "https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw"
         }
       ],
-      "duration_ms": 308576,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
+      "duration_ms": 210031,
+      "name": "Dulce Estar",
+      "url": "https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB"
     }
   ],
   "unique_name": "Indie Boricua",

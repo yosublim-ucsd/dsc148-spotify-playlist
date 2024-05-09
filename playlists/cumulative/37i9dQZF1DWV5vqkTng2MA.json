@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
+    },
+    {
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"

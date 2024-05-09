@@ -2,7 +2,7 @@
 
 ### [This Is Libido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zOsk6)
 
-> This Is Libido\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Libido\. Track\-track unggulan, semuanya dalam satu playlist.
 
 49 songs - 2 hr 52 min
 

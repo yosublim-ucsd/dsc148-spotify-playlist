@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w">Gerhard Steyn</a> & <a href="https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6\-ff9tIShiv7deQTozkSg">Liezel Pieters</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,864 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,910 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

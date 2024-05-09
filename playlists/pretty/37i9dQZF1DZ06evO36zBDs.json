@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 18972,
+  "num_followers": 18975,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAAptkNUHPcZ7K2k49gHa67d",
+  "snapshot_id": "ZjlvAAAAAAB7rXub6vroZmYPr2MvGSqo",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fight!!",
+        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "\u604b\u5f85\u304b\u3050\u3084",
+      "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u3075\u3049\u308a\u3089",
         "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
       },
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight!!",
-        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 228906,
-      "name": "\u604b\u5f85\u304b\u3050\u3084",
-      "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
+      "duration_ms": 279640,
+      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 187333,
       "name": "\u30bf\u30c3\u30c1",
       "url": "https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
-      "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
     },
     {
       "added_at": null,

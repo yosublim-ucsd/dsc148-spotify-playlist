@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,929 songs - 3 day 1 hr 28 min
+1,931 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Chillage in the Village](https://open.spotify.com/track/2PifOBcFenGN8PGayF6oj3) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Steppin' XL](https://open.spotify.com/album/3wXU01hEZEzfyNb0pJ9qjj) | 1:35 | 2023-02-06 | 2023-03-09 |
 | [Chillin](https://open.spotify.com/track/4emXvNTk1TXMWTe2DiTl76) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Chillin](https://open.spotify.com/album/0IQf3XnXYJQOjTdDD0lRzW) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Chilling At The Coast](https://open.spotify.com/track/0ssJ7IIxKQlYmdzHaBB0J7) | [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chilling At The Coast](https://open.spotify.com/album/3WW5usDqUd1x29TKAy2iqN) | 1:36 | 2022-07-08 | 2022-11-26 |
-| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 |  |
+| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 | 2024-05-09 |
 | [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
 | [Chino](https://open.spotify.com/track/6Xyj5BeU6yRXY0W8NOqxxQ) | [Pepe.](https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Chino](https://open.spotify.com/album/6X8Rc9Rk6jmgJ762f5U0aN) | 3:09 | 2022-05-27 | 2022-11-12 |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2023-02-21 |  |
@@ -364,7 +364,7 @@
 | [Concrete Edges](https://open.spotify.com/track/6RMBqK1mOJvFSTgOp10d2s) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [Concrete Edges](https://open.spotify.com/album/63cQVmDIpOWTCMLLYnbCmx) | 2:16 | 2022-04-15 | 2022-07-22 |
 | [Confession](https://open.spotify.com/track/14yzqwR5lcaHT8Ynl6Ik5g) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Confession](https://open.spotify.com/album/4Th8uPhWSzzMggcfkxufWh) | 3:28 | 2022-10-28 | 2023-01-20 |
 | [Congratulations](https://open.spotify.com/track/6o2CDVh5H4PgPdNneKV6vu) | [El Thesaurus](https://open.spotify.com/artist/5o3rYTL0MKWEWMXvX7H376) | [Congratulations](https://open.spotify.com/album/5J28rnZrfCBCcBGVy7LyHR) | 1:48 | 2022-05-27 | 2023-02-14 |
-| [connected](https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [connected](https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ) | 1:34 | 2023-09-08 |  |
+| [connected](https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [connected](https://open.spotify.com/album/7LsAX2zlDtauYV8KlGJuCZ) | 1:34 | 2023-09-08 | 2024-05-09 |
 | [Cookie Clouds](https://open.spotify.com/track/53A50XkJVLP2rACMyO8gCS) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [Cookie Clouds](https://open.spotify.com/album/4UJbQ9EmFuLtmWAIb5xNvO) | 1:59 | 2022-10-07 | 2023-01-13 |
 | [cool beans](https://open.spotify.com/track/3tFHIsExVsSnj7VecObIsg) | [yamarcus](https://open.spotify.com/artist/3F0CvVFpoFkcYZJxZW4fLp) | [cool beans](https://open.spotify.com/album/2S2IV1dxQZReJAYAYkfuXE) | 2:35 | 2022-04-15 | 2022-07-15 |
 | [Cool Stuff](https://open.spotify.com/track/2U93rBs3yVtgaXzsB0gvhr) | [Papier](https://open.spotify.com/artist/4XnZlNtghIcavIlOFvwNzW) | [March](https://open.spotify.com/album/0XRxmLy5fs3h1ay78UOCzQ) | 2:27 | 2022-04-15 | 2022-10-14 |
@@ -429,6 +429,7 @@
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-03-22 |  |
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-01-13 | 2023-10-20 |
 | [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 |  |
+| [Dig!](https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Dig!](https://open.spotify.com/album/0tEPrGue8WNEnMTcGopVvd) | 2:01 | 2024-04-26 |  |
 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 | 2022-04-15 | 2023-08-18 |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Dinner Party](https://open.spotify.com/track/77McLs2DwfzeDTKGKMgwyX) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Dinner Party](https://open.spotify.com/album/0I1HKkQIUSw2xpC8VBSOv2) | 2:03 | 2023-04-20 | 2023-09-14 |
@@ -1032,6 +1033,7 @@
 | [Meatloafi](https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN) | [Parcs](https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH) | [Meatloafi](https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS) | 2:34 | 2024-01-19 |  |
 | [Medow](https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Medow](https://open.spotify.com/album/0MpOBAnxzBzNlvkszZrq80) | 2:10 | 2022-11-18 |  |
 | [Meet me in paris](https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Meet me in paris](https://open.spotify.com/album/4F7siuXjnxmx3sspOLn6Qw) | 2:11 | 2023-01-20 | 2024-02-02 |
+| [Melancholy Café](https://open.spotify.com/track/7HKggMChIbW1o6vltSjmkC) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Melancholy Café](https://open.spotify.com/album/3kn92zjWeaKNXVyV2OalTw) | 1:36 | 2024-04-26 |  |
 | [Mellowly](https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Mellowly](https://open.spotify.com/album/0ctjkoVtkNRRNLlW24w0OQ) | 2:18 | 2022-10-07 |  |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |

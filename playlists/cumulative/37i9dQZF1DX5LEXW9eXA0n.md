@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,205 songs - 3 day 6 hr 5 min
+1,206 songs - 3 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1084,6 +1084,7 @@
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-09 | 2023-01-21 |
 | [When your tears wet my eyes](https://open.spotify.com/track/3a9GcrjvZCTorkWUqq4LBH) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Lovers of the Red Sky OST Part.4](https://open.spotify.com/album/7FgXKv05gGa0DMq7FPKdjh) | 3:52 | 2022-03-31 | 2022-06-30 |
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2021-12-23 | 2022-06-18 |
+| [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 | 2024-05-08 |  |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 | 2023-09-19 |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |
 | [White Desert](https://open.spotify.com/track/0HV7dTKl8VPOO3NL5BbIZB) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Impasto](https://open.spotify.com/album/4MOc9NJNFjG8c8WB8UVNwN) | 5:08 | 2023-06-13 | 2023-10-20 |

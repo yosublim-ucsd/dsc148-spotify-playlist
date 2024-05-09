@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 195492,
       "name": "018",
       "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 162646,
       "name": "Back Into It",
       "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "Rich And Wacko",
+        "url": "https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c"
+      },
+      "artists": [
+        {
+          "name": "MAXINO",
+          "url": "https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280058,
+      "name": "Change My Gear",
+      "url": "https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP"
+    },
+    {
+      "album": {
         "name": "CINDERELLA GIRL (WHERE YOU DEY) [feat. Ludacris]",
         "url": "https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR"
       },
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 222500,
       "name": "Compare",
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 152368,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
@@ -1400,7 +1422,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
@@ -1837,6 +1859,54 @@
     },
     {
       "album": {
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
+    },
+    {
+      "album": {
+        "name": "FOR THE GRAM",
+        "url": "https://open.spotify.com/album/4Hw394CxXXA7PliWlabWAv"
+      },
+      "artists": [
+        {
+          "name": "RAF DON",
+          "url": "https://open.spotify.com/artist/5HwVzGSClc5RsQBjkTE4Aq"
+        },
+        {
+          "name": "Manu WorldStar",
+          "url": "https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220968,
+      "name": "FOR THE GRAM",
+      "url": "https://open.spotify.com/track/5p3ZL4uT77rMoougGp96TT"
+    },
+    {
+      "album": {
         "name": "Formula (Moto Zimelia)",
         "url": "https://open.spotify.com/album/5aRntlYfXagswLH6jXv3w2"
       },
@@ -1856,7 +1926,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 243065,
       "name": "Formula (Moto Zimelia)",
       "url": "https://open.spotify.com/track/14OBWCaKhqp7jkD4h0Qv7N"
@@ -1900,7 +1970,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 205211,
       "name": "Fuck That (feat. ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9"
@@ -2120,7 +2190,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 207057,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
@@ -2440,7 +2510,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 161739,
       "name": "James Bond (With Harley)",
       "url": "https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2"
@@ -2736,6 +2806,28 @@
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
+    },
+    {
+      "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "album": {
@@ -3100,7 +3192,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -3332,7 +3424,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 196904,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
@@ -3354,7 +3446,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 122958,
       "name": "Next Up",
       "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
@@ -3678,7 +3770,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 153361,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL"
@@ -3700,7 +3792,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 184021,
       "name": "ONE TIME",
       "url": "https://open.spotify.com/track/7uloC7Sgo5KNFKrgRepyhJ"
@@ -3776,7 +3868,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Penny",
       "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
@@ -4586,7 +4678,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
@@ -4666,7 +4758,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 299369,
       "name": "Suffer II",
       "url": "https://open.spotify.com/track/6nPPGnUpPwWT0wtNy159AV"
@@ -4808,7 +4900,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
@@ -5014,7 +5106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 195428,
       "name": "Untitled (feat. ODUMODUBLVCK, PsychoYP)",
       "url": "https://open.spotify.com/track/5KpWVmwVJnwI5Lnu9uDumP"
@@ -5212,7 +5304,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 115683,
       "name": "WHO DAT BOY?",
       "url": "https://open.spotify.com/track/7eYzITceGZPFDeCsmtyliU"

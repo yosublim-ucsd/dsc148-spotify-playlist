@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#3",
+        "url": "https://open.spotify.com/album/2LdwaG2qD2UmDXuDY6TwZS"
+      },
+      "artists": [
+        {
+          "name": "Under Bron",
+          "url": "https://open.spotify.com/artist/6E6l7i7nW6QGe4MSayneXH"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215223,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/5ojaBHOzGKOTLGU5RRnRKy"
+    },
+    {
+      "album": {
         "name": "Nature",
         "url": "https://open.spotify.com/album/5zeYZeKbnrF0jNt6AYCHY4"
       },
@@ -82,6 +100,24 @@
       "duration_ms": 289655,
       "name": "Ambedo",
       "url": "https://open.spotify.com/track/2zM04tPo64cBenFH8ySe4j"
+    },
+    {
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/67pEOmyjepVfRSGpTTDBHl"
+      },
+      "artists": [
+        {
+          "name": "DonVayei",
+          "url": "https://open.spotify.com/artist/4penfn9o5SfVC27r1T9fQb"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/1oywkrRA68NHkUs2BmIrQ4"
     },
     {
       "album": {
@@ -184,7 +220,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 190000,
       "name": "Biologically Unique",
       "url": "https://open.spotify.com/track/2VukibQEo7pjNYXdPyOGqL"
@@ -581,6 +617,46 @@
     },
     {
       "album": {
+        "name": "Fleuron Drift",
+        "url": "https://open.spotify.com/album/1oFJ6wFXAACZ1aDPAzQLtI"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282901,
+      "name": "Fleuron Drift",
+      "url": "https://open.spotify.com/track/4dk4d4LMWTF7DeTbCcz2AW"
+    },
+    {
+      "album": {
+        "name": "FLORAL",
+        "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "FLORAL",
+      "url": "https://open.spotify.com/track/424p6UywhA810uXc7zr6N4"
+    },
+    {
+      "album": {
         "name": "Fondue",
         "url": "https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25"
       },
@@ -849,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Indie Boy",
+        "url": "https://open.spotify.com/album/5JL14JdaU8p229aVXZXVWi"
+      },
+      "artists": [
+        {
+          "name": "Ed Lopes",
+          "url": "https://open.spotify.com/artist/5PIvaw3MSXYdSuqYaWW1GW"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375850,
+      "name": "Indie Boy",
+      "url": "https://open.spotify.com/track/4WfTlXQwAs31iOuZ8y66hr"
+    },
+    {
+      "album": {
         "name": "Rwanda",
         "url": "https://open.spotify.com/album/2EJha1iSDvG06t7tUrkrnV"
       },
@@ -864,6 +958,28 @@
       "duration_ms": 195243,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/0tPk6OPi760BD6C5WtqcqG"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "album": {
@@ -1158,6 +1274,24 @@
       "duration_ms": 296951,
       "name": "Melodic Space",
       "url": "https://open.spotify.com/track/7ojus18AAOWFneqLSxRyTn"
+    },
+    {
+      "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/4izOvhyyQRvwxxJeqxiJjL"
+      },
+      "artists": [
+        {
+          "name": "Reztart",
+          "url": "https://open.spotify.com/artist/1gq1rlSbriC4aTu64v0rdd"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5lLM1tCGpCZpsbwnrq6KAv"
     },
     {
       "album": {
@@ -1469,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Redo",
+        "url": "https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO"
+      },
+      "artists": [
+        {
+          "name": "ABSTRCT",
+          "url": "https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Redo",
+      "url": "https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b"
+    },
+    {
+      "album": {
         "name": "Renegade EP",
         "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
@@ -1568,6 +1720,54 @@
       "duration_ms": 221577,
       "name": "Spiral - Edit",
       "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
+    },
+    {
+      "album": {
+        "name": "Starchaser (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7GKNg2yY9hArnwTalusAfw"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240536,
+      "name": "Starchaser (Einmusik Remix)",
+      "url": "https://open.spotify.com/track/415fFrVfqJaRB9krxxaTp5"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Before",
+        "url": "https://open.spotify.com/album/3fuBWE2AFeXEUhL2G0aM1M"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Moeaike",
+          "url": "https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413640,
+      "name": "Stronger Than Before",
+      "url": "https://open.spotify.com/track/175RWMRzd4jFxFlH7iKKAh"
     },
     {
       "album": {

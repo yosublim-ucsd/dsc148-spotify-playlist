@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 ### [The True Benny Mix](https://open.spotify.com/playlist/1WbjnZYjrqJtumqrSBwlMb)
 
-> Objectively good music
+> Subjectively good music xx
 
 [BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 881 songs - 2 day 6 hr 13 min
 
@@ -890,4 +890,4 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 880 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 881 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 
-Snapshot ID: `AAAIGYr05lTLIbjIsTmFlEa7ePSdeOPW`
+Snapshot ID: `AAAIGwZnUSOoX2uVrIpeEUtq4Ey6qDG4`

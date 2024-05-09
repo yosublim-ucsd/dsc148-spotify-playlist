@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 281914,
       "name": "1-0",
       "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "album": {
+        "name": "RETURN TO THE SPIRIT",
+        "url": "https://open.spotify.com/album/1e2Fedy6BxHeEnoTnXHehf"
+      },
+      "artists": [
+        {
+          "name": "SUN ATLAS",
+          "url": "https://open.spotify.com/artist/63PfWWtsAc2r1vOrthf63D"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246505,
+      "name": "12TH DIMENSION CARAVAN",
+      "url": "https://open.spotify.com/track/0uKRZ3PkWqVvAJLa75KIXK"
     },
     {
       "album": {
@@ -1789,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Aspire",
+        "url": "https://open.spotify.com/album/4RLg7HiiONGX4FmVXHdMwv"
+      },
+      "artists": [
+        {
+          "name": "Julio Estrada",
+          "url": "https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b"
+        },
+        {
+          "name": "Billy Wu",
+          "url": "https://open.spotify.com/artist/6s7QqhgZaS8mK5OGFsso1u"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Aspire",
+      "url": "https://open.spotify.com/track/4lRJPpelj6XySxqL73XIWJ"
+    },
+    {
+      "album": {
         "name": "Gravity and Beyond",
         "url": "https://open.spotify.com/album/6oQd9ipxLnBzDzQrEKxI5J"
       },
@@ -3390,7 +3430,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 496597,
       "name": "Breathing Wish",
       "url": "https://open.spotify.com/track/2lv5U8pIgC9JlnlzEiXDDZ"
@@ -3802,6 +3842,28 @@
       "duration_ms": 223973,
       "name": "Bustle",
       "url": "https://open.spotify.com/track/7gGDN4NvoIv6WZKVRV6hmp"
+    },
+    {
+      "album": {
+        "name": "Busy Day",
+        "url": "https://open.spotify.com/album/0ObRFaXu0VKJQtNj3CN9jD"
+      },
+      "artists": [
+        {
+          "name": "Hania Derej Quintet",
+          "url": "https://open.spotify.com/artist/2ovodGCEnsXIPxULVNvKIy"
+        },
+        {
+          "name": "Hania Derej",
+          "url": "https://open.spotify.com/artist/2IU2updV8nCbwezu453ame"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446458,
+      "name": "Busy Day",
+      "url": "https://open.spotify.com/track/2zr0zJNR77WDqDM4ev8ndM"
     },
     {
       "album": {
@@ -5540,6 +5602,24 @@
       "duration_ms": 309822,
       "name": "Cr\u00e9puscule",
       "url": "https://open.spotify.com/track/6SJDenTcQGhhbH3z8EmmbU"
+    },
+    {
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4MGw5oa5JaDxFaEoq3UNFI"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/1v7D15jgs5DJwVwFLqAxTa"
     },
     {
       "album": {
@@ -8030,7 +8110,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 310735,
       "name": "Fallibility",
       "url": "https://open.spotify.com/track/0dnO0pQ1qJDjbzdW0Z5vjs"
@@ -10550,7 +10630,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 155424,
       "name": "How Can I Possibly Sleep When There is Music (a response to Ry\u014dkan Taigu)",
       "url": "https://open.spotify.com/track/4R2dwDKUHVR8SGcm4HIrGB"
@@ -13906,7 +13986,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 225999,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/3GXHwqBagumVAh48h66VPp"
@@ -18527,6 +18607,32 @@
     },
     {
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/4MrPhjtxR36B29mH3D585i"
+      },
+      "artists": [
+        {
+          "name": "Danny Jonokuchi",
+          "url": "https://open.spotify.com/artist/1cmdwdslxA6pz8pT455AJO"
+        },
+        {
+          "name": "Jon Beshay",
+          "url": "https://open.spotify.com/artist/2x9zgQHkztEEQh07tunEpk"
+        },
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275453,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/7aVel1yyCcloBXQa7BqvlA"
+    },
+    {
+      "album": {
         "name": "Pinh\u00e3o (feat Paquito D\u2019Rivera)",
         "url": "https://open.spotify.com/album/3IvdWohD4JKnYqHHHLdzkZ"
       },
@@ -18712,7 +18818,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 179000,
       "name": "Plasma",
       "url": "https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF"

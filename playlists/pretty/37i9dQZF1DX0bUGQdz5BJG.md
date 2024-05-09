@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kelsey Hart
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,284 likes - 205 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,370 likes - 205 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 168 | [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 |
 | 169 | [Dirt Road Date Night](https://open.spotify.com/track/1rpVUZWQY0kFJB19uyramv) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Dirt Road Date Night](https://open.spotify.com/album/05kl08MiZblADEhzsuN3sH) | 3:00 |
 | 170 | [Breaking Down](https://open.spotify.com/track/3XZUeRSjJQBltBtmNJFOod) | [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Breaking Down](https://open.spotify.com/album/30g8ftwYArrz7Y11O741L3) | 3:24 |
-| 171 | [Wildfire](https://open.spotify.com/track/5frTjtjzChxsFkrasTG9N8) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wildfire](https://open.spotify.com/album/6ijnmdv8oJXomPxYWRAz1W) | 3:05 |
+| 171 | [Wildfire](https://open.spotify.com/track/5frTjtjzChxsFkrasTG9N8) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wildfire](https://open.spotify.com/album/6ijnmdv8oJXomPxYWRAz1W) | 3:06 |
 | 172 | [Good As It Gets](https://open.spotify.com/track/1MOwBQTkrIaSuem30f6ffq) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Heartache & Lemonade](https://open.spotify.com/album/2BKYQI2zK9EASaMyrD42Ha) | 3:09 |
 | 173 | [Damn Right I Do](https://open.spotify.com/track/0WQFsJfZRH4jQAknuMPD9e) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/4StCHyQ1HelsMkssFAjTei) | 3:28 |
 | 174 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 |

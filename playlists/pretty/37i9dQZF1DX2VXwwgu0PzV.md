@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC?si=64gZKXFqQ\_aqVwzrD0POkA>Oba Reengy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,022 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,031 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-1,289 songs - 3 day 6 hr 50 min
+1,290 songs - 3 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Kushi Title Song \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/4a0SCd5iq23JqRBZO8j3ao) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi Title Song \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/3E3xI0C9DXiMKr6LJsJqtZ) | 3:30 | 2023-07-28 | 2023-08-18 |
 | [Kuttipuli \- From "Mr Zoo Keeper"](https://open.spotify.com/track/1yaj4UVUni2WxkpUDS2Ynj) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Gangai Amaran](https://open.spotify.com/artist/0wAdPB0vUICwqg1U5iGUJV) | [Kuttipuli \(From "Mr Zoo Keeper"\)](https://open.spotify.com/album/1uMPK31HM06dUzs1BgpUhr) | 3:25 | 2024-01-17 | 2024-02-22 |
 | [Kutty Kudiye](https://open.spotify.com/track/7ngM1S4iCIC5awlNYjdOd9) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Naveen Bharathi](https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp) | [Premalu \- Tamil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SukxB7cJAq5o2hGmvc4vA) | 3:07 | 2024-03-17 |  |
+| [Kutty Pisasey \- From "PT Sir"](https://open.spotify.com/track/52gkEmkDAp0YoioUKGkAGt) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kutty Pisasey \(From "PT Sir"\)](https://open.spotify.com/album/3NcPjv5rRyssfdfmz1MnYf) | 2:50 | 2024-05-08 |  |
 | [Kuttyma \(From "Jinn The Pet"\)](https://open.spotify.com/track/2p0dn3l38svqSmlrQSzqyH) | [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny) | [Kuttyma \(From "Jinn The Pet"\)](https://open.spotify.com/album/2kmTe4q80X6NSFwvnN3m74) | 3:43 | 2023-12-01 | 2024-02-09 |
 | [Kylaa \- From "Captain"](https://open.spotify.com/track/6QCx1Fq1kwpLQZaHySfVEH) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Kylaa \(From "Captain"\)](https://open.spotify.com/album/1t1JfkhPB3F0ulqq1MYmNg) | 4:26 | 2022-08-12 | 2022-09-09 |
 | [Lady Luck](https://open.spotify.com/track/2866dwDrdw61Z92FNpOvoW) | [Radhan](https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Miss Shetty Mr Polishetty \(Tamil\)](https://open.spotify.com/album/6mSQbt91lqGnbVzTSI4kWa) | 2:48 | 2023-07-11 | 2023-07-25 |

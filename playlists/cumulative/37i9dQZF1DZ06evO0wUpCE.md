@@ -2,7 +2,7 @@
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This Is Intocable\. Los temas esenciales, todos en una lista.
+> This is Intocable\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 9 min
 
@@ -57,7 +57,7 @@
 | [Por Ella \(Poco A Poco\)](https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 4:03 | 2023-08-08 |  |
 | [Por Un Beso](https://open.spotify.com/track/7b6HqGIszgwGinMRtY4d1U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:29 | 2023-08-08 |  |
 | [Que Facil Es Amarte](https://open.spotify.com/track/3dYQuYpu94qxIjrTFJ3L7G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:06 | 2024-01-31 | 2024-02-02 |
-| [Quiéreme \(Ámame\)](https://open.spotify.com/track/1IUmnoh6JIi3VUjMzmLKRA) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 4:00 | 2024-05-08 |  |
+| [Quiéreme \(Ámame\)](https://open.spotify.com/track/1IUmnoh6JIi3VUjMzmLKRA) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 4:00 | 2024-05-08 | 2024-05-09 |
 | [Robarte un Beso](https://open.spotify.com/track/2I8JurbSZR2wjQnP4T87SO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2011](https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr) | 3:13 | 2023-08-08 |  |
 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 | 2023-08-08 |  |
 | [Si Se Acabó El Amor](https://open.spotify.com/track/6Q81FQKs8frictojPGC91p) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:53 | 2023-08-08 |  |
@@ -77,6 +77,6 @@
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-08-08 | 2023-11-11 |
 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 | 2023-08-08 |  |
 | [¿Dónde Estás?](https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 4:06 | 2023-08-08 |  |
-| [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-08-08 | 2024-05-08 |
+| [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 | 2023-08-08 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

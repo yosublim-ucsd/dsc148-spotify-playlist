@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Riri Chantika
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,769 likes - 83 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,790 likes - 83 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

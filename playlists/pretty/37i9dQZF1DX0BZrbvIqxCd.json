@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544948,
+  "num_followers": 544951,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-04-18 19:24:00",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
-    },
-    {
-      "added_at": "2024-04-18 19:24:00",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Grief In Phantasia",
-        "url": "https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu"
+        "name": "No Strange Cats",
+        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
       },
       "artists": [
         {
-          "name": "Drahla",
-          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Grief In Phantasia",
-      "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
+      "duration_ms": 160677,
+      "name": "P.A.W",
+      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1465,20 +1465,20 @@
       "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2024-04-18 19:24:00",
       "album": {
-        "name": "No Strange Cats",
-        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
+        "name": "Grief In Phantasia",
+        "url": "https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu"
       },
       "artists": [
         {
-          "name": "Radkey",
-          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
         }
       ],
-      "duration_ms": 160677,
-      "name": "P.A.W",
-      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
+      "duration_ms": 307200,
+      "name": "Grief In Phantasia",
+      "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
     },
     {
       "added_at": "2020-11-20 21:27:18",

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-405 songs - 1 day 2 hr 46 min
+406 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [8:13 am](https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [真美](https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU) | 3:38 | 2022-12-22 | 2023-02-18 |
 | [Alone](https://open.spotify.com/track/0ttyX0bEgm5j8SZZpNJnLG) | [嘉瀅](https://open.spotify.com/artist/6eQpSg7pzvNrW3Cz1nAZKZ) | [Alone](https://open.spotify.com/album/5XI8QrO6CatDfP80ColUlg) | 3:24 | 2022-06-30 | 2022-07-07 |
 | [Autumn Thoughts](https://open.spotify.com/track/1MSI7PsokUAHB8DHCYth4O) | [Belish沛沛](https://open.spotify.com/artist/0U15L0fBtF3CuBdv9PD7gD) | [Autumn Thoughts](https://open.spotify.com/album/3WswVTMBhltPrx69ASQlAr) | 5:00 | 2023-10-19 | 2023-11-03 |
-| [Back To You](https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih) | [WayV\-KUN&XIAOJUN](https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT) | [Back To You](https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw) | 4:12 | 2023-01-26 |  |
+| [Back To You](https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih) | [WayV\-KUN&XIAOJUN](https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT) | [Back To You](https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw) | 4:12 | 2023-01-26 | 2024-05-09 |
 | [but I \- 戲劇《關於未知的我們》插曲](https://open.spotify.com/track/4qZyPAQEuWWWZB8msrXv7Y) | [Roger Yo](https://open.spotify.com/artist/2P4HIWnClI9ISQ3ELdYgea) | [but I \(戲劇《關於未知的我們》插曲\)](https://open.spotify.com/album/0xtyETwUTxwfknttDlyqNA) | 3:42 | 2024-03-21 |  |
 | [can't get over you](https://open.spotify.com/track/1S1crJ0Ebb2XOrhBCnlNGK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [can't get over you](https://open.spotify.com/album/4suaGllpRZuppNF9VB36TZ) | 3:20 | 2023-01-12 | 2023-01-27 |
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-02-29 | 2024-03-08 |
@@ -173,6 +173,7 @@
 | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/track/2YL8coVYOOF3qdO68P4z5T) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/album/3DcCKjb5UcM4HNNFxVgP2r) | 4:54 | 2022-06-02 | 2022-07-12 |
 | [如果現在就是一輩子Demo \- Bonus track](https://open.spotify.com/track/6dyyuyyxt9CyyWUrueKWA7) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [潘嘉麗Kelly同名專輯](https://open.spotify.com/album/0QW25Iew4wU60kn06up4Bm) | 3:08 | 2023-01-05 | 2023-01-20 |
 | [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 | 2022-10-31 | 2022-12-13 |
+| [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生,起起落落落落落?](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 | 2024-05-02 |  |
 | [安靜的小時候](https://open.spotify.com/track/39k3htEr4otpjsLcGnBVhV) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [安靜的小時候](https://open.spotify.com/album/778AJZLI67muSDyPDbkw7P) | 5:22 | 2024-04-18 | 2024-04-29 |
 | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-06-02 | 2022-07-29 |
 | [害怕相信 \- Bonus Track](https://open.spotify.com/track/21Y26mLIZ1wrBJBwf5axjW) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [天枰座](https://open.spotify.com/album/0hMfgQHSInhJ4Eq6oqRksg) | 2:19 | 2023-07-10 | 2023-07-21 |

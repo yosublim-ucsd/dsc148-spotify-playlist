@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Artie 5ive
 
-508 songs - 1 day 1 hr 2 min
+508 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [BON TON \(feat\. Lazza, Blanco, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:58 | 2023-07-03 | 2023-10-28 |
 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 | 2023-03-23 | 2023-07-07 |
 | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/track/16Mq5VdmOEtKg3kYSp0Dpp) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/album/5lsHnWwEEp1sBenmYDYNid) | 2:37 | 2022-11-17 | 2022-12-09 |
-| [BOULEVARD](https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:40 | 2024-01-12 |  |
+| [BOULEVARD](https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:42 | 2024-01-12 |  |
 | [Braquages](https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Braquages](https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ) | 2:38 | 2023-01-03 | 2023-03-10 |
 | [BRUTTI PENSIERI \(feat\. thasup\)](https://open.spotify.com/track/1rUo83mfLivTSRzTmu7Neg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 3:07 | 2024-03-07 | 2024-04-12 |
 | [Brutto Sogno](https://open.spotify.com/track/4poLmuelQUDfAPPB4G94Z7) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Brutto Sogno](https://open.spotify.com/album/5Hs2qAbyTo605RNTgYbdUh) | 3:05 | 2023-10-27 | 2023-11-17 |

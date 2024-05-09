@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > deadmau5 takes over Dance Favourites to celebrate Canadian artists and 25 years of his career ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,153 likes - 52 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,151 likes - 52 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

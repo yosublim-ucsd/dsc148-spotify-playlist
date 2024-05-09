@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 74068,
+  "num_followers": 74083,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-05-02 22:00:59",
       "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2024-05-02 22:00:59",
+      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2024-05-02 22:00:59",
-      "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2024-05-02 22:00:59",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-05-02 22:00:59",
       "album": {
-        "name": "Savner deg",
-        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 181282,
-      "name": "Savner deg",
-      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
-    },
-    {
-      "added_at": "2024-05-02 22:00:59",
-      "album": {
         "name": "St\u00f8v Og Stjerner",
         "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
       },
@@ -683,6 +663,42 @@
     {
       "added_at": "2024-05-02 22:00:59",
       "album": {
+        "name": "Klare eg \u00e5 v\u00e6re her?",
+        "url": "https://open.spotify.com/album/0bhfxkGkbIDpeSKRCd0gww"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Klare eg \u00e5 v\u00e6re her?",
+      "url": "https://open.spotify.com/track/35dxdGcvjlwsri0eH4QpKx"
+    },
+    {
+      "added_at": "2024-05-02 22:00:59",
+      "album": {
+        "name": "Savner deg",
+        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 181282,
+      "name": "Savner deg",
+      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
+    },
+    {
+      "added_at": "2024-05-02 22:00:59",
+      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
-    },
-    {
-      "added_at": "2024-05-02 22:00:59",
-      "album": {
-        "name": "K\u00e6m va du?",
-        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Togsang",
-      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
     },
     {
       "added_at": "2024-05-02 22:00:59",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-02 22:00:59",
       "album": {
-        "name": "Klare eg \u00e5 v\u00e6re her?",
-        "url": "https://open.spotify.com/album/0bhfxkGkbIDpeSKRCd0gww"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Klare eg \u00e5 v\u00e6re her?",
-      "url": "https://open.spotify.com/track/35dxdGcvjlwsri0eH4QpKx"
-    },
-    {
-      "added_at": "2024-05-02 22:00:59",
-      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 187600,
       "name": "Varherres Klinkekuler",
       "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2024-05-02 22:00:59",
+      "album": {
+        "name": "K\u00e6m va du?",
+        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Togsang",
+      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
     },
     {
       "added_at": "2024-05-02 22:00:59",

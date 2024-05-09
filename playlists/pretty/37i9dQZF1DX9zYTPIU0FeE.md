@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD\-0PtcBRSKfmvNyKerzaA">Zoë Modiga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,184 likes - 62 songs - 6 hr 6 min
+[](https://open.spotify.com/user/null) - 7,197 likes - 62 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

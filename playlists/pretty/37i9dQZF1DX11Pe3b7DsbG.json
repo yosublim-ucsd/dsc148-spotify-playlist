@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231894,
+  "num_followers": 231943,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
       },
       "artists": [
         {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow"
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
         }
       ],
-      "duration_ms": 146613,
-      "name": "Caciqueando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -387,34 +383,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
-        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+        "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
       "artists": [
         {
-          "name": "Nelson Cavaquinho",
-          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Quando Eu Me Chamar Saudade",
-      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
         {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+      "duration_ms": 146613,
+      "name": "Caciqueando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -431,6 +415,22 @@
       "duration_ms": 195493,
       "name": "Gostoso Veneno",
       "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2023-08-04 03:01:00",

@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-317 songs - 14 hr 20 min
+318 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [This Is Love](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [This Is Love](https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS) | 3:36 | 2024-03-15 | 2024-04-15 |
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 |  |
 | [Time After Time](https://open.spotify.com/track/3zYBfVC5Fo17ICTMJwqNKP) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Time After Time](https://open.spotify.com/album/5owRtbpRDsnelDFrc2SQfd) | 2:42 | 2024-01-18 |  |
+| [Too Close To The Sun](https://open.spotify.com/track/0WP3QMSlCSxzVBaSwWu3W1) | [Portugal Sunset](https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF) | [Too Close To The Sun](https://open.spotify.com/album/5gQFLxWm8vJhkUnO4aiNd4) | 2:23 | 2024-05-08 |  |
 | [Too Far](https://open.spotify.com/track/0YcWHKlu5Oww4XVqmXRqBl) | [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq) | [Too Far](https://open.spotify.com/album/0m77ED5GnJOSKo8RxY5iEK) | 1:58 | 2022-12-29 |  |
 | [Toxic](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Toxic](https://open.spotify.com/album/0R1aq1YgsnJurqpwiaKuMp) | 3:06 | 2024-03-15 | 2024-04-15 |
 | [Umbrella](https://open.spotify.com/track/0mR4GnrLuReuWkzfyyT6ee) | [Goodscandal](https://open.spotify.com/artist/3NCorVsEBFRYAMkhF0gwqR) | [Umbrella](https://open.spotify.com/album/0aXr7KaWiyGBrwar04icW6) | 2:39 | 2024-03-15 | 2024-04-15 |

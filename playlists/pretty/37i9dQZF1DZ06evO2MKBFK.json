@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 611858,
+  "num_followers": 611876,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADvcuaLHlUJPBx0bOSWTIYr",
+  "snapshot_id": "ZjlvAAAAAAANQDuPx42SflbWTjeCjNvJ",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+        "name": "KPOP - JPOP Made In Korea Vol. 2",
+        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Last Farewell",
-      "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
+      "duration_ms": 198912,
+      "name": "Gara Gara Go!!",
+      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KPOP - JPOP Made In Korea Vol. 2",
-        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 198912,
-      "name": "Gara Gara Go!!",
-      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
+      "duration_ms": 231800,
+      "name": "Last Farewell",
+      "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
     },
     {
       "added_at": null,

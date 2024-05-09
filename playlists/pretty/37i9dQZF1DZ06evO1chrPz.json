@@ -1,12 +1,12 @@
 {
-  "description": "This is Bethel Music. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 196978,
+  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
+  "num_followers": 197001,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAABze7BhJ8r8Bwl/oh7DTSAe",
+  "snapshot_id": "ZjlvAAAAAAAfwz6aKY4L6dunkvWIeCRE",
   "tracks": [
     {
       "added_at": null,
@@ -568,13 +568,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 485396,
-      "name": "Be Enthroned - Live",
-      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+      "duration_ms": 339870,
+      "name": "Pieces - Live",
+      "url": "https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37"
     },
     {
       "added_at": null,
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 339870,
-      "name": "Pieces - Live",
-      "url": "https://open.spotify.com/track/56ECskEyc7XqOCyRPruZ37"
+      "duration_ms": 485396,
+      "name": "Be Enthroned - Live",
+      "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
     },
     {
       "added_at": null,

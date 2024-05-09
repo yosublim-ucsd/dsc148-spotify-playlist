@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,907 likes - 60 songs - 3 hr 12 min
+[](https://open.spotify.com/user/null) - 76,923 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

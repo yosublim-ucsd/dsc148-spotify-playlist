@@ -4,7 +4,7 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: Dear Dahlia
 
-92 songs - 6 hr 2 min
+94 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-09 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-13 | 2024-02-10 |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-10-13 | 2024-02-10 |
-| [Binalewala](https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Binalewala](https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv) | 3:02 | 2023-10-27 |  |
+| [Binalewala](https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Binalewala](https://open.spotify.com/album/3Jex2fLroiKKgluCvMAifv) | 3:02 | 2023-10-27 | 2024-05-09 |
 | [Bukas](https://open.spotify.com/track/3VW912q9u9F72sjW2sEc6S) | [Criminal Cinema](https://open.spotify.com/artist/08NgBg4Ft0hV7lYPH8MEjl) | [Bukas](https://open.spotify.com/album/7BAbxSZhRVVF6TRCFQ1JO5) | 4:37 | 2023-10-13 | 2024-05-04 |
 | [Bulaklak](https://open.spotify.com/track/2TM786ycFGiO0e2CW5f9uK) | [MarCø](https://open.spotify.com/artist/1ivVBioZ1Pocki7Ccqe3dI) | [Bulaklak](https://open.spotify.com/album/4HKqZ8TlIkRDAKTvPLp9SO) | 4:29 | 2023-10-13 | 2024-02-10 |
 | [CK2](https://open.spotify.com/track/4Zlt1E6DOWVExa9Cnr0uMx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [CK2](https://open.spotify.com/album/74Mec7fYdgHVhYjby3wDGw) | 4:07 | 2023-10-27 | 2024-04-27 |
@@ -31,6 +31,7 @@
 | [Gabi \(feat\. Zild\)](https://open.spotify.com/track/36ZYaW5Dj7loKsyyHehpCr) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Gabi \(feat\. Zild\)](https://open.spotify.com/album/6nNyCE9v0ZLYYLnCtjY0E1) | 5:17 | 2023-10-13 |  |
 | [Ganid](https://open.spotify.com/track/6pLripA8bBASZR2dPVdZNB) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [Ganid](https://open.spotify.com/album/734hINrmbsNEpEVMPsDuxw) | 4:04 | 2024-02-09 |  |
 | [Gigil](https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ) | [The Right Things](https://open.spotify.com/artist/0eCM6bGOxkZgKPLEYCX1JO) | [Gigil](https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd) | 3:19 | 2023-11-18 |  |
+| [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 | 2024-05-08 |  |
 | [Halika Na](https://open.spotify.com/track/2Jh7V0RVCWuPLTTPuS7NRO) | [Ippo Huwano](https://open.spotify.com/artist/2aCY4b5Z1tUWSyAbUNLrr6) | [Halika Na](https://open.spotify.com/album/3Gl4ywlE1QM8AhlONldKdm) | 6:44 | 2023-10-13 | 2024-02-10 |
 | [Happier](https://open.spotify.com/track/141wnAaUIkdj4RtMSLSNmT) | [Hiroyuki Orion](https://open.spotify.com/artist/0WrCMobRw2luLr7c9D25d6) | [Happier](https://open.spotify.com/album/6SlKdezfi2j13jPzPlRiYA) | 3:35 | 2023-10-13 | 2023-10-28 |
 | [Hiling](https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Hiling](https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW) | 3:35 | 2023-11-10 |  |
@@ -57,9 +58,10 @@
 | [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 |  |
 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 | 2023-10-13 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
-| [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 |  |
+| [Panaginip](https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz) | [Yves Villamor](https://open.spotify.com/artist/2sDIod09TzBcm6mTZZyQle) | [Panaginip](https://open.spotify.com/album/2pM7n3p62ktsiAD5zYz0YO) | 5:07 | 2023-10-13 | 2024-05-09 |
 | [Panahon](https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Daisy](https://open.spotify.com/album/7hGfFOoXeTlesayHsQv97C) | 4:16 | 2023-10-13 | 2024-04-27 |
 | [Pangako](https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr) | [joem](https://open.spotify.com/artist/0pUq7G8WZUhDM3hqe1fWSS) | [Pangako](https://open.spotify.com/album/1kuVZdA4fLLaBwNLwK4ElQ) | 3:19 | 2023-10-13 | 2024-02-10 |
+| [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 |  |
 | [Pano](https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO) | [Caren Tevanny](https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1) | [Pano](https://open.spotify.com/album/50MOgT7Zk05HfohHxIsk3b) | 3:17 | 2024-02-09 |  |
 | [Panoba](https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Panoba](https://open.spotify.com/album/1r64cPdeRYD3buv8KH6KlI) | 2:17 | 2024-04-26 |  |
 | [Paraisong Tela](https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq) | [Hey, Billie!](https://open.spotify.com/artist/4okWmMajo5EFSMIh9YBE6Q) | [Paraisong Tela](https://open.spotify.com/album/6j7KtrNERZHjP49QxH4kIu) | 5:59 | 2023-11-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 8 | [Coração Partido](https://open.spotify.com/track/5UwBjRfT4PnRes8xi0Ddm4) | [DINNIS](https://open.spotify.com/artist/6oE6jdA1Cty6ehsBKeo4HW) | [Coração Partido](https://open.spotify.com/album/26XaN01ha8Loz22PuLZgdY) | 3:04 |
 | 9 | [Pengthing](https://open.spotify.com/track/7rvZT1EjAl9acJHSxKfY5W) | [Mside](https://open.spotify.com/artist/7Ddg0uyT8fliPrQwQn89pT), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Pengthing](https://open.spotify.com/album/3sy9rlGAiDOegbBAIJ5lIh) | 3:48 |
 | 10 | [ROTINA DE LOUCOS](https://open.spotify.com/track/7GsYnb7Ac6k1olB260WZoV) | [West Wood](https://open.spotify.com/artist/0PktuNtu7TSLVCmuCBkAkO), [Tkiings](https://open.spotify.com/artist/121yqmCZB6EdumevWa2mSm), [lilboysakura](https://open.spotify.com/artist/7D2UxsQrETj8ciwBsb0OoH) | [ROTINA DE LOUCOS](https://open.spotify.com/album/1A7BVZJwMXtxyVzG2WzjcI) | 3:52 |
-| 11 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 |
+| 11 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [TITO](https://open.spotify.com/artist/1ZLi2NDmbGcrVD9qAMRRwv) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 |
 | 12 | [HATE RAYNE](https://open.spotify.com/track/1Vdsu21BkNX6ZxapbMPSLW) | [Bleach Mane](https://open.spotify.com/artist/6KTPwUlJhR1hLJVriY60Jr) | [HATE RAYNE](https://open.spotify.com/album/2YfNmCqQiPOsAXr0Mj9yn4) | 3:25 |
 | 13 | [Mar de Rosas](https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN) | [fontayne](https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF) | [Mar de Rosas](https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ) | 2:46 |
 | 14 | [Eu Bem Vi](https://open.spotify.com/track/1Cnz4vtJEEyXai2lKVNsxk) | [Coelho](https://open.spotify.com/artist/5rUxY4lwgBuN2qXZjBGYWH) | [Eu Bem Vi](https://open.spotify.com/album/0ZzE1Vpt2QZg4zRAneNhjG) | 2:51 |

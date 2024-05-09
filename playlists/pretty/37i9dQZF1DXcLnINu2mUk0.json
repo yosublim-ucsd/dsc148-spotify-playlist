@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jo\u00e3o Maia Ferreira e Alex D'Alva.",
-  "num_followers": 45394,
+  "num_followers": 45407,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "D4",
-        "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
-      },
-      "artists": [
-        {
-          "name": "Don Plako",
-          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
-        },
-        {
-          "name": "DB.",
-          "url": "https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2"
-        }
-      ],
-      "duration_ms": 174717,
-      "name": "D4",
-      "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
@@ -1111,22 +1091,22 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM"
+        "name": "D4",
+        "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
       },
       "artists": [
         {
-          "name": "Estraca",
-          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
         },
         {
-          "name": "Karyna Gomes",
-          "url": "https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa"
+          "name": "DB.",
+          "url": "https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2"
         }
       ],
-      "duration_ms": 191700,
-      "name": "Mundo Novo",
-      "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
+      "duration_ms": 174717,
+      "name": "D4",
+      "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 179380,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        },
+        {
+          "name": "Karyna Gomes",
+          "url": "https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Mundo Novo",
+      "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
     },
     {
       "added_at": "2024-05-02 23:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-05-02 23:00:00",
       "album": {
+        "name": "NIAGARA",
+        "url": "https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3"
+      },
+      "artists": [
+        {
+          "name": "Zalo",
+          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
+        }
+      ],
+      "duration_ms": 153288,
+      "name": "NIAGARA",
+      "url": "https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M"
+    },
+    {
+      "added_at": "2024-05-02 23:00:00",
+      "album": {
         "name": "Blunted",
         "url": "https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 171327,
       "name": "Blunted",
       "url": "https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN"
-    },
-    {
-      "added_at": "2024-05-02 23:00:00",
-      "album": {
-        "name": "Dado",
-        "url": "https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG"
-      },
-      "artists": [
-        {
-          "name": "Sali",
-          "url": "https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb"
-        }
-      ],
-      "duration_ms": 141566,
-      "name": "Dado",
-      "url": "https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA"
     }
   ],
   "unique_name": "Seda",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-11",
-  "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
+  "description": "This Is The Rolling Stones. Los temas esenciales, todos en una lista.",
   "name": "This Is The Rolling Stones",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Paying The Cost To Be The Boss",
       "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"

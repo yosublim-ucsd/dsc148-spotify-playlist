@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,421 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,429 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 20 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 |
 | 21 | [Jaaney Do](https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Azazul Haque](https://open.spotify.com/artist/6ciL4UaOFyMJPFcBUUSkhK) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:51 |
 | 22 | [Ruk Ja Zara](https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [Ruk Ja Zara](https://open.spotify.com/album/709EDNOfKy6fgn33Hmu1df) | 3:56 |
-| 23 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 |
+| 23 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 |
 | 24 | [Muskaan](https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Muskaan](https://open.spotify.com/album/317ElnVv4yrnKXS4nQNNn9) | 3:37 |
 | 25 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 |
 | 26 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 |

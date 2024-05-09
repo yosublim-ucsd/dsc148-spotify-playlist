@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: IVE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-688 songs - 1 day 13 hr 21 min
+690 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ALL IN \(Korean Ver.\)](https://open.spotify.com/track/6MNO35c8EUdXs1Zs4gD974) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/37vY3scs4ymxAWDoMIUUT5) | 3:04 | 2022-03-29 | 2022-04-14 |
 | [All Mine](https://open.spotify.com/track/7vg6BjvS17IsNmDEs9WhGz) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [All Mine \- SM STATION](https://open.spotify.com/album/6uPH0cDsZGh7At3txWpGRK) | 3:23 | 2023-05-01 | 2023-05-10 |
 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 | 2021-12-29 | 2022-07-01 |
+| [Amaid \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/3VlGIOModL226RrY3wy393) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I Adore](https://open.spotify.com/album/77psuhNmtbgwLPLpSyCteg) | 2:58 | 2024-05-08 |  |
 | [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2022-10-26 | 2022-10-29 |
 | [Another Level](https://open.spotify.com/track/5KZhDpwtheiGQLMKPzgd3y) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO), [OH SEUNGHEE](https://open.spotify.com/artist/4oIE2ZAuPXuOyHNPwjc2Ku), [SEUNGYEON](https://open.spotify.com/artist/2Uv2OMwSDN0lfqnpqBx1UD), [Jang Ye Eun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Be My BoyFriend \(Original Television Soundtrack\)](https://open.spotify.com/album/1XfnCND8h4hRky8uOw0u0Q) | 3:21 | 2021-12-29 | 2022-04-16 |
 | [Antidote](https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [YELLOW](https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw) | 3:38 | 2021-12-21 | 2022-06-27 |
@@ -259,6 +260,7 @@
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2022-05-21 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2023-03-20 |
 | [Girls \- BRLLNT Remix](https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 2:55 | 2023-05-01 | 2023-05-10 |
+| [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-08 |  |
 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-29 | 2022-05-06 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-07-25 |
 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 | 2022-03-02 | 2022-04-20 |

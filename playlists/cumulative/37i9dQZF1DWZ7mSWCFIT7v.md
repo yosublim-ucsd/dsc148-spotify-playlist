@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-352 songs - 1 day 4 hr 29 min
+353 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cup Noodle](https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fragments](https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV) | 3:30 | 2021-10-06 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2023-04-30 |
+| [Derrwut](https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derrwut](https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7) | 2:41 | 2024-05-08 |  |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 |  |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2022-07-22 |
@@ -242,7 +243,7 @@
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-09-26 |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2022-07-24 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 |  |
-| [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 |  |
+| [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 | 2024-05-09 |
 | [Ripples](https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5) | [下村真一](https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97) | [みぞうふく](https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y) | 6:28 | 2022-09-30 |  |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 |  |
 | [Roaming](https://open.spotify.com/track/7t4uL4L6vYw2IpT8FGRodQ) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/585bbNLL4KitR1jNWXvRxL) | 4:50 | 2021-10-06 | 2022-09-01 |

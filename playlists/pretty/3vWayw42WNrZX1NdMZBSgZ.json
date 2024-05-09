@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Nicki Nicole &quot;Ojos Verdes,&quot; Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Nicki Nicole",
-  "num_followers": 53845,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camilo",
+  "num_followers": 53841,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARWznMNgA6zetN7aPBuS4WK6hU4UTF",
+  "snapshot_id": "AAARYZhk/zJJdMGFtf2bTy2jS0FqufrO",
   "tracks": [
+    {
+      "added_at": "2024-05-09 00:11:32",
+      "album": {
+        "name": "tres",
+        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Misi\u00f3n Imposible",
+      "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
+    },
     {
       "added_at": "2024-04-25 00:18:05",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
-      "added_at": "2024-04-30 12:11:18",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP"
-      },
-      "artists": [
-        {
-          "name": "Draco Rosa",
-          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
-    },
-    {
       "added_at": "2024-04-05 12:19:17",
       "album": {
         "name": "Una Vida Pasada",
@@ -91,6 +91,38 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "added_at": "2024-04-30 12:11:18",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP"
+      },
+      "artists": [
+        {
+          "name": "Draco Rosa",
+          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
+    },
+    {
+      "added_at": "2024-05-09 00:14:25",
+      "album": {
+        "name": "tres",
+        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 150397,
+      "name": "Amor de Extranjeros",
+      "url": "https://open.spotify.com/track/3Xv4c62ZXGnMoDhWT4KPLo"
     },
     {
       "added_at": "2024-05-03 04:07:30",
@@ -127,6 +159,22 @@
       "duration_ms": 223333,
       "name": "RANGOS",
       "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+    },
+    {
+      "added_at": "2024-05-09 00:16:16",
+      "album": {
+        "name": "tres",
+        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 239633,
+      "name": "Coraz\u00f3n de Hojalata",
+      "url": "https://open.spotify.com/track/2qF6B2MgKn2ZFh7UUBaVzf"
     },
     {
       "added_at": "2024-05-03 04:06:08",

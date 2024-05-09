@@ -2611,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "Camino Largo",
+        "url": "https://open.spotify.com/album/6iI7h3hm4JkCsQkyO3MKzD"
+      },
+      "artists": [
+        {
+          "name": "Rafael Santos",
+          "url": "https://open.spotify.com/artist/0yGFBQWLY4RlvdlOkMdSdQ"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209789,
+      "name": "Camino Largo",
+      "url": "https://open.spotify.com/track/4oooA3AdfU9ug7WCqNhc5d"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -5098,7 +5120,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
@@ -5956,10 +5978,28 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "Mashup 2024",
+        "url": "https://open.spotify.com/album/1zfWgLPvRz1j8PzkjiBDet"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Gata Only (Mashup)",
+      "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
     },
     {
       "album": {
@@ -7370,7 +7410,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -12516,7 +12556,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 173478,
       "name": "Que Te Pasa Conmigo",
       "url": "https://open.spotify.com/track/3zgRdnCdVnPXfdeLMClxtJ"
@@ -12564,7 +12604,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
@@ -16822,7 +16862,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 161647,
       "name": "Ya me enter\u00e9",
       "url": "https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB"

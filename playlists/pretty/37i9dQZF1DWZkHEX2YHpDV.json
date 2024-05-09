@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 452655,
+  "num_followers": 452677,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/1O9j7XqwyfVL7gPnbgpLTu"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/2UkNW9dXXWmGjy9sOrgwQ2"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/1O9j7XqwyfVL7gPnbgpLTu"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/2UkNW9dXXWmGjy9sOrgwQ2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "BRAIN DEAD",
         "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 121071,
       "name": "BRAIN DEAD",
       "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Breaking Up With",
-        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "Breaking Up With",
-      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Meet You There 2.0",
         "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 202219,
       "name": "Meet You There 2.0",
       "url": "https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Breaking Up With",
+        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Breaking Up With",
+      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Brag",
-        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "better than this",
         "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Dark Paradise",
-        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
       },
       "artists": [
         {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Dark Paradise",
+        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "A Trip Around The Sun",
-        "url": "https://open.spotify.com/album/37ufAzgTua4prY2qHJoK6c"
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
       },
       "artists": [
         {
-          "name": "Into It. Over It.",
-          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+          "name": "Life After Youth",
+          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
         }
       ],
-      "duration_ms": 284344,
-      "name": "A Trip Around The Sun",
-      "url": "https://open.spotify.com/track/1Pkbn3NAhaBBSiMs5qdoa8"
+      "duration_ms": 212034,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "A Trip Around The Sun",
+        "url": "https://open.spotify.com/album/37ufAzgTua4prY2qHJoK6c"
+      },
+      "artists": [
+        {
+          "name": "Into It. Over It.",
+          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+        }
+      ],
+      "duration_ms": 284344,
+      "name": "A Trip Around The Sun",
+      "url": "https://open.spotify.com/track/1Pkbn3NAhaBBSiMs5qdoa8"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "HORROR SHOW",
         "url": "https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW"
       },
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+        "name": "Thank You, New Jersey",
+        "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
       },
       "artists": [
         {
-          "name": "Life After Youth",
-          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
         }
       ],
-      "duration_ms": 212034,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+      "duration_ms": 159000,
+      "name": "Thank You, New Jersey",
+      "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2099,22 +2115,6 @@
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Thank You, New Jersey",
-        "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Thank You, New Jersey",
-      "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 185873,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
-      },
-      "artists": [
-        {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
-        }
-      ],
-      "duration_ms": 185873,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "What We Earn",
-        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "What We Earn",
-      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "F.A.K.E.",
         "url": "https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+        "name": "What We Earn",
+        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
         }
       ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+      "duration_ms": 209327,
+      "name": "What We Earn",
+      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2327,6 +2311,22 @@
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lacerate",
-        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 210022,
-      "name": "Lacerate",
-      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Fat Vampire",
         "url": "https://open.spotify.com/album/3deVOIFMJP9sQGnfsDkd0l"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 221000,
       "name": "Fat Vampire",
       "url": "https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Lacerate",
+        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 210022,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
-      },
-      "artists": [
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "(e)motion sickness (Deluxe)",
         "url": "https://open.spotify.com/album/3dPYtiu5gL2ZpbyE0DjbsU"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 145743,
       "name": "SHOUT",
       "url": "https://open.spotify.com/track/3H1wLbr078xfRrP2YJaZly"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"
     },
     {
       "added_at": "2024-04-12 04:00:00",

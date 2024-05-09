@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,390 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,400 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 87 | [Eternal Silence](https://open.spotify.com/track/67hjUsy6bg8YBvWBEOGinm) | [King Plague](https://open.spotify.com/artist/688qufssIBfmoD8BJxZD9Q) | [Lost Soul 2013\-2016](https://open.spotify.com/album/65NMRx0NqJrEUfFwdmx1Yy) | 2:01 |
 | 88 | [Electric](https://open.spotify.com/track/1oUpE2W9kXdpYYMof5nnQA) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:25 |
 | 89 | [Axolotl](https://open.spotify.com/track/2QuQnPXZ0BRgNoDW5b1Ee7) | [Doon Kanda](https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3) | [Heart EP](https://open.spotify.com/album/2YJBt7UzUA3EOqbGNR1S2l) | 2:52 |
-| 90 | [Arpanet Nightdrive Rework](https://open.spotify.com/track/3t5kCnY7izofJ9edwZhjBb) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Arpanet](https://open.spotify.com/artist/63bRcvYTOSxsvw3kcAAtEr) | [Teddy Boy \- EP](https://open.spotify.com/album/279gt6kOQy96fv3lXt6yQB) | 4:20 |
+| 90 | [Arpanet Nightdrive Rework](https://open.spotify.com/track/3t5kCnY7izofJ9edwZhjBb) | [Kavinsky](https://open.spotify.com/artist/6PuOKmw5yRF67CGqGc5l2q), [Arpanet](https://open.spotify.com/artist/63bRcvYTOSxsvw3kcAAtEr) | [Teddy Boy \- EP](https://open.spotify.com/album/279gt6kOQy96fv3lXt6yQB) | 4:20 |
 | 91 | [Die tausende Herbste](https://open.spotify.com/track/0teJBxvS6jvVsDNDefpHl8) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [Traum und Existenz](https://open.spotify.com/album/1B2AZd4B55393VV6m6rXeG) | 3:51 |
 | 92 | [My Machine](https://open.spotify.com/track/4lxc29VH8XrhhX01fdZkWl) | [Blank Banshee](https://open.spotify.com/artist/1oR9pQhucVTJyi5lH2Y2iT) | [Mega](https://open.spotify.com/album/6bfDdDxNcI19EdjfVpkqkU) | 2:09 |
 | 93 | [Eternal Loneliness](https://open.spotify.com/track/3CyJNVETICgG6wsx2MNEYB) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Totsuka No Tsurugi](https://open.spotify.com/album/6DEJErUUiixATMvkg9XtHN) | 10:09 |

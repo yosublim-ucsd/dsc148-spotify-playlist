@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-772 songs - 1 day 17 hr 29 min
+773 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 |  |
 | [Pray](https://open.spotify.com/track/1QvwRDNlk5q7FHI3EJDf5a) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Pray](https://open.spotify.com/album/04r2SEXW3ikdKuHfnjKABw) | 3:53 | 2021-10-09 |  |
 | [Pretty](https://open.spotify.com/track/4QkgqaiQWl7dRfrDRSz2hx) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty](https://open.spotify.com/album/6w0yoQrlqUXnHqsI1Sz3q3) | 2:34 | 2021-10-16 |  |
+| [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-05-08 |  |
 | [Promise](https://open.spotify.com/track/5GdAVnwxzMNSRThQsawXsQ) | [KAZE](https://open.spotify.com/artist/6OHqKdDMYupavebNP9azHD), [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Promise](https://open.spotify.com/album/734KErFJszhXqsENb9IRiU) | 2:55 | 2022-12-15 |  |
 | [proof](https://open.spotify.com/track/4NidcNIPRBDMsSGKTnxyIz) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [proof](https://open.spotify.com/album/2eH0mvujQc0kt3TRu9W980) | 3:17 | 2021-11-19 |  |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-08-26 |  |

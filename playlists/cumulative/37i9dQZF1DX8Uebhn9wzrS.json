@@ -5754,7 +5754,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 133028,
       "name": "Chills",
       "url": "https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r"
@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 94389,
       "name": "connected",
       "url": "https://open.spotify.com/track/68vVjEdFknL2cKq8OgdvKc"
@@ -8008,6 +8008,24 @@
       "duration_ms": 150000,
       "name": "dice",
       "url": "https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5"
+    },
+    {
+      "album": {
+        "name": "Dig!",
+        "url": "https://open.spotify.com/album/0tEPrGue8WNEnMTcGopVvd"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Dig!",
+      "url": "https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T"
     },
     {
       "album": {
@@ -19390,6 +19408,24 @@
       "duration_ms": 131073,
       "name": "Meet me in paris",
       "url": "https://open.spotify.com/track/770oaEAcFBGCW1DN8HVv6H"
+    },
+    {
+      "album": {
+        "name": "Melancholy Caf\u00e9",
+        "url": "https://open.spotify.com/album/3kn92zjWeaKNXVyV2OalTw"
+      },
+      "artists": [
+        {
+          "name": "olbejom",
+          "url": "https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96094,
+      "name": "Melancholy Caf\u00e9",
+      "url": "https://open.spotify.com/track/7HKggMChIbW1o6vltSjmkC"
     },
     {
       "album": {

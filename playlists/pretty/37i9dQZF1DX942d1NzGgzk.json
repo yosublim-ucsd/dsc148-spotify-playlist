@@ -1,10 +1,10 @@
 {
   "description": "100% British - 100% R&B. Cover: Elmiene",
-  "num_followers": 142068,
+  "num_followers": 142143,
   "original_name": "R&B UK",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "Zit3sgAAAADu7O2jGt3nx5PD7miPtnhp",
   "tracks": [
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
-      "added_at": "2024-04-26 09:45:22",
-      "album": {
         "name": "Dive (Acoustic)",
         "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 186560,
       "name": "Dive - Acoustic",
       "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
+    },
+    {
+      "added_at": "2024-04-26 09:45:22",
+      "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "added_at": "2024-04-26 09:45:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
-        "name": "sore loser (Acoustic)",
-        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "sore loser - Acoustic",
-      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
-    },
-    {
-      "added_at": "2024-04-26 09:45:22",
-      "album": {
         "name": "Nothing On You",
         "url": "https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
+        "name": "A Sky Without Stars",
+        "url": "https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 205201,
+      "name": "Heat of the Moon",
+      "url": "https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10"
+    },
+    {
+      "added_at": "2024-04-26 09:45:22",
+      "album": {
         "name": "Not My Job",
         "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
-        "name": "A Sky Without Stars",
-        "url": "https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS"
+        "name": "sore loser (Acoustic)",
+        "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
       },
       "artists": [
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 205201,
-      "name": "Heat of the Moon",
-      "url": "https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10"
+      "duration_ms": 131253,
+      "name": "sore loser - Acoustic",
+      "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
     },
     {
       "added_at": "2024-04-26 09:45:22",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
+        "name": "Endless No Mores - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 179238,
+      "name": "Endless No Mores - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
+    },
+    {
+      "added_at": "2024-04-26 09:45:22",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 225533,
       "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
       "url": "https://open.spotify.com/track/2N6s3852GdbqhV29or63En"
-    },
-    {
-      "added_at": "2024-04-26 09:45:22",
-      "album": {
-        "name": "Endless No Mores - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 179238,
-      "name": "Endless No Mores - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
       "added_at": "2024-04-26 09:45:22",
@@ -895,42 +895,6 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
-        "name": "Love's Letter",
-        "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
-      },
-      "artists": [
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 250462,
-      "name": "Oh, Wait...",
-      "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
-    },
-    {
-      "added_at": "2024-04-26 09:45:22",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "November (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
-    },
-    {
-      "added_at": "2024-04-26 09:45:22",
-      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -947,6 +911,38 @@
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1"
+    },
+    {
+      "added_at": "2024-04-26 09:45:22",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "added_at": "2024-04-26 09:45:22",
+      "album": {
+        "name": "Love's Letter",
+        "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 250462,
+      "name": "Oh, Wait...",
+      "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
     },
     {
       "added_at": "2024-04-26 09:45:22",
@@ -971,18 +967,22 @@
     {
       "added_at": "2024-04-26 09:45:22",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+      "duration_ms": 214026,
+      "name": "November (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
     },
     {
       "added_at": "2024-04-26 09:45:22",

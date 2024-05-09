@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pennywise. Los temas esenciales, todos en una lista.",
-  "num_followers": 31611,
+  "description": "This is Pennywise. The essential tracks, all in one playlist.",
+  "num_followers": 31628,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAABC2FsnJZkhqVJJUCyUieS8",
+  "snapshot_id": "ZjlvAAAAAAAMI0E1NIeasCuMMYI+D7GZ",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+        "name": "About Time (2005 Remaster)",
+        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 85946,
-      "name": "Rules - 2005 Remaster",
-      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
+      "duration_ms": 175066,
+      "name": "Searching - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "About Time (2005 Remaster)",
-        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 175066,
-      "name": "Searching - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
+      "duration_ms": 85946,
+      "name": "Rules - 2005 Remaster",
+      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
     },
     {
       "added_at": null,

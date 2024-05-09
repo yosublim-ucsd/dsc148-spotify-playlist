@@ -1,10 +1,10 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 337282,
+  "num_followers": 337304,
   "original_name": "SLAP!",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZiHsfAAAAABZ1tr9MX8DY0wD4Rj5pl7p",
   "tracks": [
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1215,26 +1215,30 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Cups (Drunk in Love Pt. 2)",
-        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
+        "name": "The Lion (feat. Sara Sangfelt)",
+        "url": "https://open.spotify.com/album/2T5DP35UoY07MHOIQ7YFws"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Wasback",
-          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         },
         {
-          "name": "Edward V",
-          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
         }
       ],
-      "duration_ms": 163617,
-      "name": "Cups (Drunk in Love Pt. 2)",
-      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
+      "duration_ms": 156394,
+      "name": "The Lion (feat. Sara Sangfelt)",
+      "url": "https://open.spotify.com/track/4dilhWGYoBY6UJqAIyKMqm"
     }
   ],
   "unique_name": "SLAP!",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa SHRTY ja Blacflaco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,849 likes - 67 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,858 likes - 67 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 |
-| 2 | [Weak](https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Weak](https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE) | 3:20 |
+| 2 | [Weak](https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [Weak](https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE) | 3:20 |
 | 3 | [Lähetään menee](https://open.spotify.com/track/0TsvuYK3jVFHwZC5GYbmY6) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Lähetään menee](https://open.spotify.com/album/4FW8o20MyT22NDY9t7oaDc) | 3:09 |
 | 4 | [Sekasin](https://open.spotify.com/track/16PuZ41gLitc7vL0d08KOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Sekasin](https://open.spotify.com/album/2A4W4MnNVxdXT44exG9VcL) | 2:32 |
 | 5 | [Ei kiinnosta](https://open.spotify.com/track/2zX45N1gszdYHAXuygSs4l) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mammanpoika](https://open.spotify.com/album/5fbnqAvIARnsZQxguaNYWK) | 2:48 |

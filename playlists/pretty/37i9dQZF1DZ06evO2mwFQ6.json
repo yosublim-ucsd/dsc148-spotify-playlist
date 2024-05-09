@@ -1,12 +1,12 @@
 {
   "description": "This is Adam Brand. The essential tracks, all in one playlist.",
-  "num_followers": 4420,
+  "num_followers": 4421,
   "original_name": "This Is Adam Brand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAD1wOPDvT8S0thAPQXagLey",
+  "snapshot_id": "ZjlvAAAAAACB1Z0gQ83loChCF8rI87vN",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Built For Speed",
-        "url": "https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "The Anzac",
-      "url": "https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Church",
         "url": "https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 219000,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 291933,
+      "name": "The Anzac",
+      "url": "https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed Of Life",
-        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 194824,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Will Be Love",
         "url": "https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 201546,
       "name": "I Was Here",
       "url": "https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speed Of Life",
+        "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 194824,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/0Ek6Gfmi9BTINJJEzogS5q"
     },
     {
       "added_at": null,

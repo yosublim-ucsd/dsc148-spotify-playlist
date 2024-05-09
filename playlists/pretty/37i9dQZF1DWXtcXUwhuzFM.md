@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot, Jore & Zpoppa, Cledos ja william.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,803 likes - 119 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,813 likes - 119 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weak](https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Weak](https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE) | 3:20 |
+| 1 | [Weak](https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [Weak](https://open.spotify.com/album/5j3R1mBN3a6e1niKXy32oE) | 3:20 |
 | 2 | [Maljapuhe](https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Maljapuhe](https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh) | 2:38 |
 | 3 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 |
 | 4 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |

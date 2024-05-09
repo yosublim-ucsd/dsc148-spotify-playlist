@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Jason Dhakal, Jess Connelly, LUSTBASS
 
-233 songs - 13 hr 16 min
+235 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 | 2024-03-30 |
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
+| [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 |  |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |
 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 | 2022-12-14 | 2023-12-02 |
@@ -68,6 +69,7 @@
 | [Fight or Flight](https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Fight or Flight](https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT) | 3:30 | 2023-04-06 | 2023-09-16 |
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 |  |
+| [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 |  |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 |  |
 | [Girls Need Love \- Remix](https://open.spotify.com/track/4rWXfXphKXHxrB56npwV4k) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Girls Need Love \(Remix\)](https://open.spotify.com/album/1i2bMF5dNq6rbXRHYeaHVL) | 2:43 | 2024-01-15 |  |
@@ -106,7 +108,7 @@
 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 | 2023-10-13 | 2024-02-07 |
 | [Indigo Haze](https://open.spotify.com/track/3IfVZPWLxmE6qJNRpT72r6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Indigo Haze](https://open.spotify.com/album/7pGbtJZVxIUGawI3LwwU8x) | 2:59 | 2022-10-25 | 2023-07-29 |
 | [Infinity](https://open.spotify.com/track/0RpPFZ6DkjdCHEUzvfJyo0) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Infinity](https://open.spotify.com/album/6tgIge8laKuwvRXCvmdbka) | 4:32 | 2022-10-12 | 2023-07-29 |
-| [introduction](https://open.spotify.com/track/3QlNUfIiaeqGnfyZeD36qk) | [Sean Andrae](https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj) | [introduction](https://open.spotify.com/album/1M5vPyHJdTe1BHyssIoTHH) | 3:06 | 2024-02-06 |  |
+| [introduction](https://open.spotify.com/track/3QlNUfIiaeqGnfyZeD36qk) | [Sean Andrae](https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj) | [introduction](https://open.spotify.com/album/1M5vPyHJdTe1BHyssIoTHH) | 3:06 | 2024-02-06 | 2024-05-09 |
 | [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-28 | 2023-10-28 |
 | [Kahit Saglit](https://open.spotify.com/track/2xdQcpEQa9TgINvnoV1OwM) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP), [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [SV3](https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I) | [Kahit Saglit](https://open.spotify.com/album/3CJM4TUV7T6a6XMxq5ohsm) | 3:10 | 2023-04-06 | 2023-11-18 |
 | [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 | 2023-07-18 | 2023-11-11 |
@@ -128,7 +130,7 @@
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-06-26 | 2023-10-28 |
 | [Like I Would](https://open.spotify.com/track/55Nj8pbl4elsm6YOUnJ2fE) | [Ayres](https://open.spotify.com/artist/24JcRisRdXL6N08l1TG7ex) | [Like I Would](https://open.spotify.com/album/429lyJinHdbgTp0Y8fpdIF) | 3:12 | 2024-02-06 |  |
 | [LIME](https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [LIME](https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS) | 3:01 | 2023-07-28 | 2023-10-28 |
-| [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 |  |
+| [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 | 2024-05-09 |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
 | [Love You Right](https://open.spotify.com/track/7yYedhtxP8sx4lp4jg3NZo) | [Ianne Lloyd](https://open.spotify.com/artist/0GfN6i3LxvNJyaUFt2VEJB), [Vinlisa](https://open.spotify.com/artist/7KYW9cXOTU7ft4MlxdKuxK) | [Love You Right](https://open.spotify.com/album/5xgwCc6cpY6JFKzs5LeEw4) | 3:40 | 2024-02-06 | 2024-04-13 |
 | [Lowkey](https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU) | [Lowkey](https://open.spotify.com/album/7x97eRi6cyLPqI109TjTRd) | 3:09 | 2023-07-28 | 2023-10-12 |

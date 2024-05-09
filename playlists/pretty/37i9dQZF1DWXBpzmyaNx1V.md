@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 65 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,282 likes - 65 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 42 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 |
 | 43 | [Hello Tarantino](https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Paper Dolls](https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D) | 2:00 |
 | 44 | [Todo Lo Que Querías Saber](https://open.spotify.com/track/15crIgsqt1x5jkMmZ9hUE9) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Pies sobre la tierra](https://open.spotify.com/album/6AwupPymKbGJBX6Tfat1UB) | 4:31 |
-| 45 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
-| 46 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 |
+| 45 | [Nostalgia del Futuro](https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Nostalgia del Futuro](https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu) | 3:25 |
+| 46 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 |
 | 47 | [Wako](https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:57 |
 | 48 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
-| 49 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 |
+| 49 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
 | 50 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
 | 51 | [Mirrorage](https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Ring](https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7) | 3:39 |
 | 52 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |

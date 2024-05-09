@@ -1,6 +1,6 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43146,
+  "num_followers": 43141,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "The Rebirth 3: The Party & The Bedroom",
@@ -691,22 +707,6 @@
       "duration_ms": 167856,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/6fWbDYXfnAPJWfgzWrRaW0"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "ARTchives: The Gallery",
-        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 162625,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
@@ -799,6 +783,22 @@
       "duration_ms": 162506,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "ARTchives: The Gallery",
+        "url": "https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -989,6 +989,26 @@
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What It Do",
+        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 185566,
+      "name": "What It Do (with Fridayy)",
+      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Shadows",
@@ -1013,24 +1033,24 @@
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
+        "name": "WHAT U ON",
+        "url": "https://open.spotify.com/album/4FmYAK7jUNF2hDj8jRMzZD"
       },
       "artists": [
         {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+          "name": "Saeku",
+          "url": "https://open.spotify.com/artist/1Q6esqI8NxePB4bbW3Cmn8"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
         }
       ],
-      "duration_ms": 185566,
-      "name": "What It Do (with Fridayy)",
-      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
+      "duration_ms": 153110,
+      "name": "WHAT U ON",
+      "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 147000,
       "name": "Gang Slide",
       "url": "https://open.spotify.com/track/2N2kx4jJG4683NoO3NMvpw"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "WHAT U ON",
-        "url": "https://open.spotify.com/album/4FmYAK7jUNF2hDj8jRMzZD"
-      },
-      "artists": [
-        {
-          "name": "Saeku",
-          "url": "https://open.spotify.com/artist/1Q6esqI8NxePB4bbW3Cmn8"
-        },
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "WHAT U ON",
-      "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Heads Up",
@@ -1287,22 +1303,6 @@
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Speak Your Mine",
-        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
-      },
-      "artists": [
-        {
-          "name": "Tre\u0300 Samuels",
-          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
-        }
-      ],
-      "duration_ms": 207175,
-      "name": "Speak Your Mine",
-      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Hurt Before",
@@ -1455,6 +1439,22 @@
       "duration_ms": 122086,
       "name": "Hurt Before",
       "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
+    },
+    {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1473,20 +1473,40 @@
       "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+        "name": "Speak Your Mine",
+        "url": "https://open.spotify.com/album/3e2ZjkaPzsXXsMJzXYQDqG"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Tre\u0300 Samuels",
+          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
         }
       ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+      "duration_ms": 207175,
+      "name": "Speak Your Mine",
+      "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 152000,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "They Gon Lie",
-        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
-      },
-      "artists": [
-        {
-          "name": "Lyrica Anderson",
-          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
-        }
-      ],
-      "duration_ms": 137260,
-      "name": "They Gon Lie",
-      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kissing On Your Tattoos",
@@ -1691,6 +1675,22 @@
       "duration_ms": 179154,
       "name": "3am",
       "url": "https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "They Gon Lie",
+        "url": "https://open.spotify.com/album/2nZfTjkq0HQprN86XdcK5w"
+      },
+      "artists": [
+        {
+          "name": "Lyrica Anderson",
+          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+        }
+      ],
+      "duration_ms": 137260,
+      "name": "They Gon Lie",
+      "url": "https://open.spotify.com/track/2YMBu5oURKQ0uSKW8x80o3"
     },
     {
       "added_at": "2023-05-05 04:18:58",

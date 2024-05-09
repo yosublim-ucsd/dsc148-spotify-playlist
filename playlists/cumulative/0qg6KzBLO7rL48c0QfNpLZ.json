@@ -5907,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Too Close To The Sun",
+        "url": "https://open.spotify.com/album/5gQFLxWm8vJhkUnO4aiNd4"
+      },
+      "artists": [
+        {
+          "name": "Portugal Sunset",
+          "url": "https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Too Close To The Sun",
+      "url": "https://open.spotify.com/track/0WP3QMSlCSxzVBaSwWu3W1"
+    },
+    {
+      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/0m77ED5GnJOSKo8RxY5iEK"
       },

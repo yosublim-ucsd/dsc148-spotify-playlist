@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO46wsnu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO46wsnu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO46wsnu)
 
-### [Rise Against This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46wsnu)
+### [This Is Rise Against](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46wsnu)
 
-> .Rise Against This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is Rise Against\. The essential tracks, all in one playlist.
 
 69 songs - 4 hr 10 min
 

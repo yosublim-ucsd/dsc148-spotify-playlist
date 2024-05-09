@@ -1,10 +1,10 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82441,
+  "num_followers": 82429,
   "original_name": "Sweater Weather",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZWoLtQAAAAA84oiNZIFAO6eVV4ejbXUW",
   "tracks": [
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Pete's Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1YrocR69AHthl982tykNpQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188573,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Look Mom I Made It",
-        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
-      },
-      "artists": [
-        {
-          "name": "Annika Kilkenny",
-          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Look Mom I Made It",
-      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Last Smoke Before The Snowstorm (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1oAx8M5qYzQgffkqfopYbm"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 177433,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/1oMA7iNgQb2Wu30k5kaBBL"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Look Mom I Made It",
+        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Look Mom I Made It",
+      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
     },
     {
       "added_at": "2023-12-01 16:37:09",

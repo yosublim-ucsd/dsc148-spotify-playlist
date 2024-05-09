@@ -1,10 +1,10 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 218334,
+  "num_followers": 218420,
   "original_name": "Cumbia y Romance",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZjUvvQAAAADqvrISd54WDGSO0OqLlUo0",
   "tracks": [
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
+    },
+    {
+      "added_at": "2024-05-03 18:41:01",
+      "album": {
         "name": "La Luna y T\u00fa",
         "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 216734,
       "name": "La Luna y T\u00fa",
       "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
-    },
-    {
-      "added_at": "2024-05-03 18:41:01",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
-        "name": "Te Sigo Queriendo",
-        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
       },
       "artists": [
         {
-          "name": "Volcan",
-          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 177533,
-      "name": "Esa Malvada",
-      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
-        "name": "En Una de Esas",
-        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+        "name": "Te Sigo Queriendo",
+        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Volcan",
+          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
         }
       ],
-      "duration_ms": 197474,
-      "name": "En Una de Esas",
-      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
+      "duration_ms": 177533,
+      "name": "Esa Malvada",
+      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
+        "name": "Hoy Te Vas",
+        "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Hoy Te Vas",
+      "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
+    },
+    {
+      "added_at": "2024-05-03 18:41:01",
+      "album": {
         "name": "Qu\u00e9 Iron\u00eda",
         "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
-    },
-    {
-      "added_at": "2024-05-03 18:41:01",
-      "album": {
-        "name": "Hoy Te Vas",
-        "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Hoy Te Vas",
-      "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
     },
     {
       "added_at": "2024-05-03 18:41:01",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-05-03 18:41:01",
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        },
-        {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Lo Que Son las Cosas",
-      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
-    },
-    {
-      "added_at": "2024-05-03 18:41:01",
-      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 197775,
       "name": "Me Va Mejor Con el Alcohol",
       "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
+    },
+    {
+      "added_at": "2024-05-03 18:41:01",
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        },
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
     },
     {
       "added_at": "2024-05-03 18:41:01",

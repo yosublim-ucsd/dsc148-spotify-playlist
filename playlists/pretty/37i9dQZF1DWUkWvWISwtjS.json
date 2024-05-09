@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443082,
+  "num_followers": 443067,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Amiga Linda",
+      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Errejota (ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vinicius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Amiga Linda",
-      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
+        "name": "Espelho Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Matheuzinho",
-          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
         }
       ],
-      "duration_ms": 183695,
-      "name": "S\u00f3 de Sacanagem - Ao Vivo",
-      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+      "duration_ms": 161152,
+      "name": "Espelho Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Espelho Meu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
+        "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
       "artists": [
         {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Matheuzinho",
+          "url": "https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Espelho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+      "duration_ms": 183695,
+      "name": "S\u00f3 de Sacanagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Eu Era",
         "url": "https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K"
       },
@@ -1695,18 +1679,38 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi"
+        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 152778,
+      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Compartilhando M\u00e1goa",
+        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
       },
       "artists": [
         {
           "name": "George Henrique & Rodrigo",
           "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 153756,
-      "name": "Segue O Plano - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fPT1t2uhxDepW6OFMqvpD"
+      "duration_ms": 170038,
+      "name": "Compartilhando M\u00e1goa",
+      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
     },
     {
       "added_at": "2023-10-13 11:44:55",

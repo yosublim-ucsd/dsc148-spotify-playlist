@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 300740,
+  "num_followers": 300903,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Love Riddim",
+      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 159124,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Love Riddim",
-      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
       },
       "artists": [
         {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1307,22 +1307,6 @@
       "duration_ms": 211293,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Cheat On Me (feat. Dave)",
         "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1451,22 +1467,6 @@
       "duration_ms": 183349,
       "name": "All Of Us (Ashawo)",
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2039,8 +2039,8 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
       },
       "artists": [
         {
@@ -2048,9 +2048,9 @@
           "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2207,8 +2207,8 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
       "artists": [
         {
@@ -2216,9 +2216,9 @@
           "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Kontrol",
-        "url": "https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Kontrol",
-      "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Imaranma",
         "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 202232,
       "name": "Imaranma",
       "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Kontrol",
+        "url": "https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2663,6 +2663,34 @@
       "duration_ms": 203001,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Love Is Alive (Original)",
+        "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        },
+        {
+          "name": "Dani\u00ebl von Piekartz",
+          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
+        }
+      ],
+      "duration_ms": 331636,
+      "name": "Love is Alive - Original",
+      "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2731,34 +2759,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Love Is Alive (Original)",
-        "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
-      },
-      "artists": [
-        {
-          "name": "Shamis",
-          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
-        },
-        {
-          "name": "Steve Biko.K",
-          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        },
-        {
-          "name": "Dani\u00ebl von Piekartz",
-          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
-        }
-      ],
-      "duration_ms": 331636,
-      "name": "Love is Alive - Original",
-      "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Bring It",
         "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
       },
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "I Dey Slide",
-        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
-      },
-      "artists": [
-        {
-          "name": "Yung Dada",
-          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "I Dey Slide",
-      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Keep On Going",
         "url": "https://open.spotify.com/album/49G044qCj857V1GK5M8jhn"
       },
@@ -2839,6 +2823,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "I Dey Slide",
+        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        }
+      ],
+      "duration_ms": 202491,
+      "name": "I Dey Slide",
+      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "LEADER!",
         "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
       },
@@ -2855,6 +2855,26 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Karma Riddim",
+        "url": "https://open.spotify.com/album/2CTzNgofmzUZ4jnbqLjoUG"
+      },
+      "artists": [
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "Karma Riddim",
+      "url": "https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Rema",
         "url": "https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8"
       },
@@ -2867,26 +2887,6 @@
       "duration_ms": 179775,
       "name": "Dumebi",
       "url": "https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 221059,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
     }
   ],
   "unique_name": "Summer Vibes",

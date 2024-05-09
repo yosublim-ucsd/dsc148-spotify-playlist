@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring VETZ. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Ren Kai. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -954,6 +954,24 @@
       "duration_ms": 341000,
       "name": "AAP",
       "url": "https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/4J5EogXtA18JdXWyL2pjVF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Volkov",
+          "url": "https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120789,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/0Nl2svCfC818Zl9GjDuhwj"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 206956,
       "name": "Amor a distancia",
       "url": "https://open.spotify.com/track/5N1lE0e19I5Ypwvfs0ezBc"
@@ -12301,6 +12319,24 @@
     },
     {
       "album": {
+        "name": "En Tu Cabeza / Presidente De La Naci\u00f3n",
+        "url": "https://open.spotify.com/album/0eyx1Rv1bcPwPSYC31Evu4"
+      },
+      "artists": [
+        {
+          "name": "Supersilverhaze",
+          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "En Tu Cabeza",
+      "url": "https://open.spotify.com/track/5Ccd5RONEFST7dKoUKoJFE"
+    },
+    {
+      "album": {
         "name": "En Vela (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4FxEYzjCW9IrDE7NoU7nAa"
       },
@@ -13560,7 +13596,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
@@ -15132,7 +15168,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 235966,
       "name": "hastalamadre",
       "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
@@ -17800,7 +17836,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 147920,
       "name": "las del conejo 2.0",
       "url": "https://open.spotify.com/track/76mfgfGQXEAFkiYku3rbkA"
@@ -22889,6 +22925,28 @@
     },
     {
       "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6r2L2Z8rIx447IhsS0Scnr"
+      },
+      "artists": [
+        {
+          "name": "Bachata Mexican Combo",
+          "url": "https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb"
+        },
+        {
+          "name": "Cristino Labendi",
+          "url": "https://open.spotify.com/artist/5NusGWAF01M0VtUF5j4Lxf"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235832,
+      "name": "Navegante",
+      "url": "https://open.spotify.com/track/4RJcEn7fc4Jp57gwW2OGrk"
+    },
+    {
+      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -27619,6 +27677,28 @@
     },
     {
       "album": {
+        "name": "QTVB",
+        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        },
+        {
+          "name": "MI$HA",
+          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "QTVB",
+      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
+    },
+    {
+      "album": {
         "name": "Que Aguacero",
         "url": "https://open.spotify.com/album/3Aol0M1Xf0jEar1EcR2Hr4"
       },
@@ -28592,6 +28672,28 @@
       "duration_ms": 242000,
       "name": "Recuerda",
       "url": "https://open.spotify.com/track/0yUYuMKygnXLTSG8ThEqzR"
+    },
+    {
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/61G89iLkaI6lfobzdpIjKM"
+      },
+      "artists": [
+        {
+          "name": "Misael Ortiz",
+          "url": "https://open.spotify.com/artist/1cv9qDpyqL2AwcZveahGQG"
+        },
+        {
+          "name": "EG Music",
+          "url": "https://open.spotify.com/artist/06euK0yJmxVs2743prqT7u"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2RMMR6qQUjy4oPUdNe12SK"
     },
     {
       "album": {
@@ -32532,7 +32634,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 209587,
       "name": "Te conoc\u00ed",
       "url": "https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a"
@@ -37254,7 +37356,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 153117,
       "name": "Y SI SOMOS NOVIOS???",
       "url": "https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL"
@@ -38176,6 +38278,24 @@
       "duration_ms": 186067,
       "name": "\u00daltima Vez (feat. Fresco Rhodes)",
       "url": "https://open.spotify.com/track/62Fo2vOpt9qjNWkHAPJuFG"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u5b63 Lluvia",
+        "url": "https://open.spotify.com/album/0w4nGObLg86c1OR4HxZjj3"
+      },
+      "artists": [
+        {
+          "name": "Ren Kai",
+          "url": "https://open.spotify.com/artist/4ZUU6PKIrQET7oGxQ0r5zL"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "\u96e8\u5b63 Lluvia",
+      "url": "https://open.spotify.com/track/1VieL9tKlZ6MOdrou5o0tz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA"

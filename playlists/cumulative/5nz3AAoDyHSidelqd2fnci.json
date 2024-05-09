@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 221166,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 234693,
       "name": "Broken Mirrors",
       "url": "https://open.spotify.com/track/0yA2P5Tfe9eLFQktjIdo0W"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 505106,
       "name": "Broken Photosynthesis",
       "url": "https://open.spotify.com/track/7C3SZHz0indXHNh1aCeoB7"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 116405,
       "name": "Bully",
       "url": "https://open.spotify.com/track/1mmhQcuoaD8e4UUjxeN7C7"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 285853,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/10G8vwLyG0SuJZWfjw1g1R"
@@ -2870,6 +2870,24 @@
       "duration_ms": 276986,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0aKgId5lkNpNyGWQuwyvDn"
+    },
+    {
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146225,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi"
     },
     {
       "album": {
@@ -4853,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "Hybrid Theory",
+        "url": "https://open.spotify.com/album/6NnXXuGYvLlzhBQDI0duqJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/3BVl0knVN3QEVidja2mbU6"
+    },
+    {
+      "album": {
         "name": "Fortune Eyes",
         "url": "https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr"
       },
@@ -5250,6 +5286,24 @@
       "duration_ms": 213466,
       "name": "God Gave Me Everything",
       "url": "https://open.spotify.com/track/7bmQq7In6J04u3XX4QLUS8"
+    },
+    {
+      "album": {
+        "name": "Spectres",
+        "url": "https://open.spotify.com/album/105oUsR7H8AJNELy43XF3w"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e"
     },
     {
       "album": {
@@ -6122,7 +6176,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 334413,
       "name": "i only said",
       "url": "https://open.spotify.com/track/7HVaCZKjnMgWi3tvdMZfzY"
@@ -7532,7 +7586,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 202360,
       "name": "Locomotive",
       "url": "https://open.spotify.com/track/5MfOq1iRw9dC8IrlsuyeLb"
@@ -7792,6 +7846,24 @@
       "duration_ms": 207600,
       "name": "Love With Caution",
       "url": "https://open.spotify.com/track/1XBk3sj904rliBVL0X2Ozr"
+    },
+    {
+      "album": {
+        "name": "First Band On The Moon (Remastered)",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193953,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
       "album": {
@@ -10021,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
+    },
+    {
+      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
       },
@@ -10198,6 +10288,24 @@
       "duration_ms": 207560,
       "name": "Present, Future, And Past",
       "url": "https://open.spotify.com/track/4ywZ7mVmlme6sq5O8vU00V"
+    },
+    {
+      "album": {
+        "name": "Duct Tape Soup",
+        "url": "https://open.spotify.com/album/2SjehUTRS9H2PvmPh3AWWr"
+      },
+      "artists": [
+        {
+          "name": "Crimpshrine",
+          "url": "https://open.spotify.com/artist/6OrO2mBKihDV9LK58mDZH2"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238653,
+      "name": "Pretty Mess",
+      "url": "https://open.spotify.com/track/7n0t0NrTNVJmMEaS1jJcvZ"
     },
     {
       "album": {
@@ -11132,7 +11240,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 281366,
       "name": "See Me in Shadow",
       "url": "https://open.spotify.com/track/2eYaFdU5NJD5Eh7e4gUORy"
@@ -12037,6 +12145,24 @@
     },
     {
       "album": {
+        "name": "Stars (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248599,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz"
+    },
+    {
+      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/1YvnuYGlblQ5vLnOhaZzpn"
       },
@@ -12289,6 +12415,24 @@
     },
     {
       "album": {
+        "name": "Digital Renegade",
+        "url": "https://open.spotify.com/album/4XQc2duwIJDSRrfbqXnUlg"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "Summer Died In Connersville",
+      "url": "https://open.spotify.com/track/2hSWGCdgXqgKzCYwJrAELk"
+    },
+    {
+      "album": {
         "name": "Digital Renegade [Instrumental Version]",
         "url": "https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M"
       },
@@ -12318,7 +12462,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 310373,
       "name": "Summernight City - Live",
       "url": "https://open.spotify.com/track/58f0e6eTKS9HKtpikvsfRE"
@@ -12885,6 +13029,24 @@
     },
     {
       "album": {
+        "name": "the cards",
+        "url": "https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv"
+      },
+      "artists": [
+        {
+          "name": "Sydney Sprague",
+          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124575,
+      "name": "the cards",
+      "url": "https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7"
+    },
+    {
+      "album": {
         "name": "The Top (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
       },
@@ -13382,7 +13544,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 198733,
       "name": "The Noose",
       "url": "https://open.spotify.com/track/1tjF0qm7daUU8n14vSU7MO"
@@ -13497,6 +13659,40 @@
     },
     {
       "album": {
+        "name": "The Scarecrow",
+        "url": "https://open.spotify.com/album/5qKWbaQiCWiL0Iu3XknMrz"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Jorn Lande",
+          "url": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+        },
+        {
+          "name": "Michael Kiske",
+          "url": "https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET"
+        },
+        {
+          "name": "Henjo Richter",
+          "url": "https://open.spotify.com/artist/1KfFA62eSVO7nCNldBPk2r"
+        },
+        {
+          "name": "Michael Rodenberg",
+          "url": "https://open.spotify.com/artist/2M0N6DpcUm1eGEp0KgfiHD"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672573,
+      "name": "The Scarecrow",
+      "url": "https://open.spotify.com/track/4dmsVYqUA3CGvPmjrUDp3w"
+    },
+    {
+      "album": {
         "name": "7th Symphony",
         "url": "https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk"
       },
@@ -13534,6 +13730,24 @@
       "duration_ms": 313417,
       "name": "The Simpsons Hit and Run",
       "url": "https://open.spotify.com/track/3XMzICxfIHn6Kr2YswEup1"
+    },
+    {
+      "album": {
+        "name": "Mechanical Animals (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Ljq72RxzQfkKaOtxPf3Zq"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "The Speed Of Pain",
+      "url": "https://open.spotify.com/track/6aRxDJCF1qhCkqjUf9VNB8"
     },
     {
       "album": {
@@ -14295,6 +14509,24 @@
     },
     {
       "album": {
+        "name": "Reincarnate",
+        "url": "https://open.spotify.com/album/3feio0wlkQltawN72ivyoR"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207843,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5dbgbG6io6JpkBAI2vSXLs"
+    },
+    {
+      "album": {
         "name": "LIVING THINGS: Acapellas and Instrumentals",
         "url": "https://open.spotify.com/album/7qRKpkP0jSOlBMLYZhAMCh"
       },
@@ -15024,7 +15256,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
@@ -15568,7 +15800,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 197480,
       "name": "Youth Gone Wild - Skid Row cover",
       "url": "https://open.spotify.com/track/76w5mV4f5yHxYTfkVVEJLZ"

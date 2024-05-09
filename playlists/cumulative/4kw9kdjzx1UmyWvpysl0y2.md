@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-721 songs - 1 day 17 hr 37 min
+722 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [No Rules](https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Rules](https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm) | 2:22 | 2023-09-06 | 2024-01-11 |
 | [No Rules](https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [No Rules](https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx) | 9:07 | 2023-06-21 | 2023-09-26 |
 | [No Service](https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [No Service](https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD) | 3:00 | 2023-02-16 | 2023-05-05 |
-| [No Tomorrow](https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [No Tomorrow](https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx) | 3:31 | 2024-02-19 |  |
+| [No Tomorrow](https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [No Tomorrow](https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx) | 3:31 | 2024-02-19 | 2024-05-09 |
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |
 | [Nobody Knows](https://open.spotify.com/track/7GH3qhh9oHGQA6hje5r9DR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 2:57 | 2022-11-19 | 2022-11-22 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 | 2022-07-09 |
@@ -525,6 +525,7 @@
 | [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-23 | 2023-12-14 |
 | [RIOT \- Curbi Remix](https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [RIOT \(Curbi Remix\)](https://open.spotify.com/album/7wJKTljt6tVUWJFPFSj9qw) | 2:45 | 2024-04-09 |  |
 | [Riot \- Kompany Remix](https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Riot \(Kompany Remix\)](https://open.spotify.com/album/6fWCkks19NevlyVg5fwRke) | 3:06 | 2023-10-30 | 2024-02-13 |
+| [RIOT \- RAIZHELL Remix](https://open.spotify.com/track/4wivSJRYwhnWeuKW3TjIEp) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [RIOT \(RAIZHELL Remix\)](https://open.spotify.com/album/2qTppH4c5EhgknBK4P8JRN) | 2:33 | 2024-05-08 |  |
 | [RIOT \- Riot Ten Remix](https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [RIOT \(Riot Ten Remix\)](https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO) | 3:30 | 2024-03-15 |  |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 297792,
+  "num_followers": 297900,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 224485,
       "name": "Deus Cuida de Mim",
       "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Intimidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 215343,
       "name": "Cicatrizes",
       "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "O Dia Que Ser\u00e1 pra Sempre",
+        "url": "https://open.spotify.com/album/0MHHY212VEwOF5t9fxHBGw"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 283813,
+      "name": "O Dia Que Ser\u00e1 pra Sempre",
+      "url": "https://open.spotify.com/track/2soutUNQgizaq2eEfV2rUS"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/6qyUn9Ot2R3jtQtWmihFhB"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Nos Bra\u00e7os do Pai",
-        "url": "https://open.spotify.com/album/37bmDvUb5XZhLnlcMRB5Jc"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 372144,
-      "name": "Nos Bra\u00e7os do Pai",
-      "url": "https://open.spotify.com/track/5YAezt0pM0jwEVesT85tx8"
     }
   ],
   "unique_name": "Gospel Ac\u00fastico",

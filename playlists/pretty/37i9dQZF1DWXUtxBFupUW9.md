@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,030 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,132 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 45 | [I've Got My Mind Set On You](https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY) | [James Ray](https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J) | [Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 \- 1963](https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo) | 3:26 |
 | 46 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 |
 | 47 | [Soul Connection](https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 2:29 |
-| 48 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 |
-| 49 | [Can You Feel It](https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
+| 48 | [Can You Feel It](https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
+| 49 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 |
 | 50 | [The Rubberband Man \- 2003 Remaster](https://open.spotify.com/track/1E3K9QkIWCEL2awcl8kfwN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Essentials](https://open.spotify.com/album/69mwYIdGUeSEBVxLDIVCZC) | 3:34 |
 
 Snapshot ID: `ZgGBvwAAAABODtuD14XezK/y/E0gHoNl`

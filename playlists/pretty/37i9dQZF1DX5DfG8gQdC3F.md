@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Dua Lipa, Kendrick Lamar, Charlotte Day Wilson, Dominic Fike and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,268 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,546 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Everything Going My Way](https://open.spotify.com/track/0bKm7Bj2IAKs6thFLvmbjc) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Everything Going My Way](https://open.spotify.com/album/4LvMsADCZweWTBpu4LSgqt) | 3:02 |
 | 100 | [Misty](https://open.spotify.com/track/4XsWSSNwI2xyZZQD0qmB6z) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Misty](https://open.spotify.com/album/4Mm1piDQ57qCtTwo44lnvK) | 1:59 |
 
-Snapshot ID: `ZjRiHwAAAAAjYHd3LZ6l8vshoMyY+NA9`
+Snapshot ID: `ZjvaOAAAAABEjFEiJ/wUomm7oiVeP/Bs`

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-285 songs - 23 hr 4 min
+286 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Blues for K](https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35) | [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Blues For K](https://open.spotify.com/album/4xomV4Sw1aCp2SyEHNtALk) | 3:52 | 2023-01-24 | 2023-04-19 |
 | [Bon](https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9) | [Akira Ishiguro](https://open.spotify.com/artist/2IAEUPE8iYRV5IWKh3ldvg) | [Bon](https://open.spotify.com/album/1WSp8SF0pVmqAUJRGWjhP0) | 4:56 | 2023-12-12 | 2024-01-10 |
 | [Borsalino](https://open.spotify.com/track/7jDMXduqVG5RPqiYVduwJr) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Borsalino](https://open.spotify.com/album/7hPxldYIIggDIeWfp9ZKME) | 4:11 | 2023-10-31 | 2023-12-13 |
-| [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 |  |
+| [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 | 2024-05-09 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
 | [Can't Hide Love](https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [m\_unit: Beyond Orbits](https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u) | 5:59 | 2023-09-26 | 2024-04-19 |
 | [Can’t Hide Love](https://open.spotify.com/track/3say48b5YjOGpHkrHyIfap) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [Beyond Orbits](https://open.spotify.com/album/3W0Me7Gsn13sSJft44KHBI) | 5:59 | 2023-09-12 |  |
@@ -74,6 +74,7 @@
 | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi) | 4:02 | 2023-01-31 | 2023-03-18 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 | 2022-09-06 |  |
 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 | 2024-02-27 |  |
+| [Expressions On The Melody Of Kokiriko](https://open.spotify.com/track/63HH4URIpjgUYjE0nzd5uD) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Expressions On The Melody Of Kokiriko](https://open.spotify.com/album/0qKVw92zoQS99AwJftOYNc) | 16:53 | 2024-05-08 |  |
 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 | 2022-09-06 | 2023-05-17 |
 | [Face To Face \- Live at 100BAN Hall, Kobe, 2022](https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx) | [Folds \(Live at 100BAN Hall, Kobe, 2022\)](https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O) | 9:13 | 2023-04-11 | 2023-08-02 |
 | [Face To Face \- Live at 100BAN Hall, Kobe, 2022](https://open.spotify.com/track/2KDNxWVhoKrb0eD3I1rRlH) | [木村紘](https://open.spotify.com/artist/7kpUeYy4uViw2WqItHP1mk), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx) | [Folds \(Live at 100BAN Hall, Kobe, 2022\)](https://open.spotify.com/album/0RfsSTVgv1MwEKfB0O9AyV) | 9:13 | 2023-04-11 | 2023-04-13 |

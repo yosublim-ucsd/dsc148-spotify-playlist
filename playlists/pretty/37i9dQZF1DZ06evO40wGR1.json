@@ -1,12 +1,12 @@
 {
   "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
-  "num_followers": 31369,
+  "num_followers": 31380,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADcZjtfdeDR/yVdJKNhBhhl",
+  "snapshot_id": "ZjlvAAAAAADkjs8DePCOfaPvDk5hveIn",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
       "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 272146,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+      "duration_ms": 301580,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
       "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 301580,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G"
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
     },
     {
       "added_at": null,

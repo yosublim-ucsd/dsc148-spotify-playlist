@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 54 min 0 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 53 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [i only said](https://open.spotify.com/track/7HVaCZKjnMgWi3tvdMZfzY) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:34 |
-| 2 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 |
-| 3 | [Broken Mirrors](https://open.spotify.com/track/0yA2P5Tfe9eLFQktjIdo0W) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/1ueojQqs9eBYzStz2uM5Dr) | 3:54 |
-| 4 | [Summernight City \- Live](https://open.spotify.com/track/58f0e6eTKS9HKtpikvsfRE) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Live In Midgard](https://open.spotify.com/album/1jNouEaHNN50SNkMViFbkt) | 5:10 |
-| 5 | [See Me in Shadow](https://open.spotify.com/track/2eYaFdU5NJD5Eh7e4gUORy) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Lucidity](https://open.spotify.com/album/57bvcWwg4FSZSqAm7scTWv) | 4:41 |
-| 6 | [Cachito](https://open.spotify.com/track/10G8vwLyG0SuJZWfjw1g1R) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:45 |
-| 7 | [The Noose](https://open.spotify.com/track/1tjF0qm7daUU8n14vSU7MO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/71FFTyyIGpwE7J6P84niiU) | 3:18 |
-| 8 | [Broken Photosynthesis](https://open.spotify.com/track/7C3SZHz0indXHNh1aCeoB7) | [Kyle Preston](https://open.spotify.com/artist/4y34hJ1oLcRl5wOn7FnhX8) | [Geo](https://open.spotify.com/album/5Ou8IADLK3dlyAkplOcOgq) | 8:25 |
-| 9 | [Locomotive](https://open.spotify.com/track/5MfOq1iRw9dC8IrlsuyeLb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG) | 3:22 |
-| 10 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 11 | [Bully](https://open.spotify.com/track/1mmhQcuoaD8e4UUjxeN7C7) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bully](https://open.spotify.com/album/2DIamLCLdxHz1NVlTYpmZ0) | 1:56 |
-| 12 | [Youth Gone Wild \- Skid Row cover](https://open.spotify.com/track/76w5mV4f5yHxYTfkVVEJLZ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Life Gone Wild EP](https://open.spotify.com/album/6HaA5J305jffYDQ78OaqV9) | 3:17 |
+| 1 | [Forgotten](https://open.spotify.com/track/3BVl0knVN3QEVidja2mbU6) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/6NnXXuGYvLlzhBQDI0duqJ) | 3:14 |
+| 2 | [the cards](https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [the cards](https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv) | 2:04 |
+| 3 | [Pretty Mess](https://open.spotify.com/track/7n0t0NrTNVJmMEaS1jJcvZ) | [Crimpshrine](https://open.spotify.com/artist/6OrO2mBKihDV9LK58mDZH2) | [Duct Tape Soup](https://open.spotify.com/album/2SjehUTRS9H2PvmPh3AWWr) | 3:58 |
+| 4 | [The Speed Of Pain](https://open.spotify.com/track/6aRxDJCF1qhCkqjUf9VNB8) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Mechanical Animals \(Explicit Version\)](https://open.spotify.com/album/5Ljq72RxzQfkKaOtxPf3Zq) | 5:30 |
+| 5 | [Godzilla](https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Spectres](https://open.spotify.com/album/105oUsR7H8AJNELy43XF3w) | 3:41 |
+| 6 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
+| 7 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
+| 8 | [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 |
+| 9 | [The Scarecrow](https://open.spotify.com/track/4dmsVYqUA3CGvPmjrUDp3w) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Jorn Lande](https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5), [Michael Kiske](https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET), [Henjo Richter](https://open.spotify.com/artist/1KfFA62eSVO7nCNldBPk2r), [Michael Rodenberg](https://open.spotify.com/artist/2M0N6DpcUm1eGEp0KgfiHD) | [The Scarecrow](https://open.spotify.com/album/5qKWbaQiCWiL0Iu3XknMrz) | 11:12 |
+| 10 | [Unstoppable](https://open.spotify.com/track/5dbgbG6io6JpkBAI2vSXLs) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Reincarnate](https://open.spotify.com/album/3feio0wlkQltawN72ivyoR) | 3:27 |
+| 11 | [Summer Died In Connersville](https://open.spotify.com/track/2hSWGCdgXqgKzCYwJrAELk) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade](https://open.spotify.com/album/4XQc2duwIJDSRrfbqXnUlg) | 3:18 |
+| 12 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 |
 
-Snapshot ID: `AAAAbJeH6jKTmjsp4A46amefYyzKTl/Y`
+Snapshot ID: `AAAAbYFIg5GTnnYrAZYMUu90+7aisnCG`

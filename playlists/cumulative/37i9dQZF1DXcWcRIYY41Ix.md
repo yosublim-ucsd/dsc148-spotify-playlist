@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Sebastián Romero.
 
-582 songs - 1 day 10 hr 56 min
+583 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Ponme](https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El siglo del loro](https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP) | 1:40 | 2024-03-15 | 2024-04-19 |
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
+| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 |  |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Profecía](https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Profecía](https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np) | 2:59 | 2024-01-26 | 2024-02-17 |
@@ -495,7 +496,7 @@
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2021-12-24 |  |
 | [Solo Solomon](https://open.spotify.com/track/2NvrWbODcR4dlfV0aQmmCZ) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Solo Solomon](https://open.spotify.com/album/57LAHUqTLA6y7yQ6BhS5bA) | 4:06 | 2024-01-26 | 2024-02-10 |
 | [Sombra y Animal](https://open.spotify.com/track/72sE2B7RTlaaK5KNLxyszg) | [Berenice](https://open.spotify.com/artist/4dwFB84QoBGv2MBRiUwXEc), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [NIDO](https://open.spotify.com/album/0nTAz6Yf3GC3c9erViwPG4) | 4:47 | 2023-06-16 | 2023-07-01 |
-| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 |  |
+| [Sonqollay](https://open.spotify.com/track/3zZQgQ9JeMZqUBPJYeKPtZ) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [SUR](https://open.spotify.com/artist/4x7XUhdTBF3PAdULV0v0Yo) | [Sonqollay](https://open.spotify.com/album/0qGOGf0NK6bqgBcFLuZcDN) | 3:45 | 2024-04-26 | 2024-05-09 |
 | [Sonrisa Valiente \- Versión Acústica](https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Tabú](https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5) | 3:42 | 2024-01-12 | 2024-03-02 |
 | [Soy lo que Doy](https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Soy lo que Doy](https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X) | 3:37 | 2024-01-19 | 2024-03-09 |
 | [Suspiros](https://open.spotify.com/track/7r5BLEvJ72zeHSrXMgTlyq) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Las Canciones Más Hermosas Son para Ti](https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C) | 2:30 | 2024-04-19 |  |

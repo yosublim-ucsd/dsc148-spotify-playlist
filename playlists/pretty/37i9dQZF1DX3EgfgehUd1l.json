@@ -1,10 +1,10 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 166537,
+  "num_followers": 166551,
   "original_name": "Easy 50s",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZS6z7wAAAADVA5jy5HB7eU5giR9vHhKL",
   "tracks": [
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Definitive Pop: The Everly Brothers",
         "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 140373,
       "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
       "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -411,26 +411,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Essential Perry Como",
-        "url": "https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw"
+        "name": "Definitive Pop: The Everly Brothers",
+        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Mitchell Ayres & His Orchestra",
-          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
-        },
-        {
-          "name": "The Ray Charles Singers",
-          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
-      "url": "https://open.spotify.com/track/165n9dxHacuguzneup0HXQ"
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -451,18 +443,26 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Definitive Pop: The Everly Brothers",
-        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
+        "name": "The Essential Perry Como",
+        "url": "https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
         }
       ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
+      "duration_ms": 160866,
+      "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
+      "url": "https://open.spotify.com/track/165n9dxHacuguzneup0HXQ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: 50s",
-        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Hilton",
-          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Original Hits - 50s",
         "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 165826,
       "name": "Half As Much (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Greatest Hits: 50s",
+        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Hilton",
+          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
+        }
+      ],
+      "duration_ms": 162760,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
     },
     {
       "added_at": "2023-10-17 16:18:55",

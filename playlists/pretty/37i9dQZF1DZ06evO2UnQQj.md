@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 
 ### [This Is Clara Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2UnQQj)
 
-> This is Clara Lima。アーティストの代表曲をひとつのプレイリストに。
+> This is Clara Lima\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 170 likes - 50 songs - 2 hr 54 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2UnQQj.md) - [plain]
 | 49 | [Falsos Cairão](https://open.spotify.com/track/2Ullm8em3nn4YH2LxcOzAl) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Falsos Cairão](https://open.spotify.com/album/3ZTxT95TnY5msvf0nvU43a) | 3:12 |
 | 50 | [Toda Toda](https://open.spotify.com/track/35fBex6jzadhipXBKPR7Ze) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:05 |
 
-Snapshot ID: `ZjgdgAAAAAC9IZTY460ugCNGjvP+SZZF`
+Snapshot ID: `ZjlvAAAAAAAVmkrDemGn2rwyeFCFH99q`

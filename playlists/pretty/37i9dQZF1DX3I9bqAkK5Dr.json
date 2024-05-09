@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 32442,
+  "num_followers": 32446,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zi9x7QAAAAD1SV4LPw8tso59nazMXFGK",
+  "snapshot_id": "ZjtoLgAAAAAsDFMgduxle7+yjCsmtL3f",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -23,6 +23,26 @@
       "duration_ms": 162206,
       "name": "Aata Gaani Aata",
       "url": "https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ"
+    },
+    {
+      "added_at": "2024-05-08 11:55:26",
+      "album": {
+        "name": "Chakkani Chukka",
+        "url": "https://open.spotify.com/album/03VLpJtFaAKVobAZV0bnqX"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Gajanan",
+          "url": "https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP"
+        },
+        {
+          "name": "Ricky B",
+          "url": "https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc"
+        }
+      ],
+      "duration_ms": 231692,
+      "name": "Chakkani Chukka",
+      "url": "https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk"
     },
     {
       "added_at": "2024-04-29 10:09:49",
@@ -183,22 +203,6 @@
       "duration_ms": 194807,
       "name": "Ninna Monnalo",
       "url": "https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo"
-    },
-    {
-      "added_at": "2024-04-25 11:25:24",
-      "album": {
-        "name": "Beach Road Melody",
-        "url": "https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch"
-      },
-      "artists": [
-        {
-          "name": "Gershom Penugula",
-          "url": "https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "Beach Road Melody",
-      "url": "https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T"
     },
     {
       "added_at": "2024-02-14 05:38:02",

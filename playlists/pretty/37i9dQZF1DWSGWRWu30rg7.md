@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Emma Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,117 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,148 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

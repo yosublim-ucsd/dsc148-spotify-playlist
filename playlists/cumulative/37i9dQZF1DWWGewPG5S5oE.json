@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 509253,
       "name": "Brown And Black",
       "url": "https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65"
@@ -1290,6 +1290,24 @@
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "album": {
+        "name": "Expressions On The Melody Of Kokiriko",
+        "url": "https://open.spotify.com/album/0qKVw92zoQS99AwJftOYNc"
+      },
+      "artists": [
+        {
+          "name": "Mao Sone",
+          "url": "https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1013280,
+      "name": "Expressions On The Melody Of Kokiriko",
+      "url": "https://open.spotify.com/track/63HH4URIpjgUYjE0nzd5uD"
     },
     {
       "album": {

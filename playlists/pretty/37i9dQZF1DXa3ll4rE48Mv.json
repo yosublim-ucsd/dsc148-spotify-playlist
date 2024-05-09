@@ -1,10 +1,10 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 191667,
+  "num_followers": 191722,
   "original_name": "Queercore",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZIsUzQAAAABfw5DG9WdSVjTE2i4EWEfe",
   "tracks": [
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 160185,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Already",
-        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
-      },
-      "artists": [
-        {
-          "name": "La Luna",
-          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
-        }
-      ],
-      "duration_ms": 113413,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Egg on Face. Foot in Mouth. Wriggling Wriggling Wriggling.",
         "url": "https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Fake Great Britain",
-        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
-      },
-      "artists": [
-        {
-          "name": "pink suits",
-          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
-        }
-      ],
-      "duration_ms": 143568,
-      "name": "Fake Great Britain",
-      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Mackerel's Funky Mission",
         "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Fake Great Britain",
+        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
+      },
+      "artists": [
+        {
+          "name": "pink suits",
+          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
+        }
+      ],
+      "duration_ms": 143568,
+      "name": "Fake Great Britain",
+      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0wjJPnSndRArTKcvEUgUhW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1xpfMDsEEugAwoXRYLdyQ6"
+    },
+    {
+      "album": {
         "name": "We Young - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b"
       },

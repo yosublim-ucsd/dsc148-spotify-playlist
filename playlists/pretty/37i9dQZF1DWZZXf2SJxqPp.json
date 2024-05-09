@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 136086,
+  "num_followers": 136125,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Akousmatikous",
         "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 152691,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-10-24 02:02:26",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
+      },
+      "artists": [
+        {
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 226253,
       "name": "Ceci n'est pas un clich\u00e9",
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
-      },
-      "artists": [
-        {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Way to Go (Club Soda Mix)",
-        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
-      },
-      "artists": [
-        {
-          "name": "Soda State",
-          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "Way to Go - Club Soda Mix",
-      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
       },
@@ -1515,6 +1499,38 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "A bite of papaya",
+        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
+      },
+      "artists": [
+        {
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+        }
+      ],
+      "duration_ms": 257033,
+      "name": "A bite of papaya",
+      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Station Romance",
+        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 459560,
+      "name": "Station Romance",
+      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Juice (Breakbot Mix)",
         "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 172453,
       "name": "Juice - Breakbot Mix",
       "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "A bite of papaya",
-        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
-      },
-      "artists": [
-        {
-          "name": "Miynt",
-          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
-        }
-      ],
-      "duration_ms": 257033,
-      "name": "A bite of papaya",
-      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1571,34 +1571,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Station Romance",
-        "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
+        "name": "Souda Bay",
+        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
       },
       "artists": [
         {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+          "name": "DJ Telefkas",
+          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
         }
       ],
-      "duration_ms": 459560,
-      "name": "Station Romance",
-      "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Looking for the Sea",
-        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
-      },
-      "artists": [
-        {
-          "name": "Pupkulies & Rebecca",
-          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
+      "duration_ms": 210509,
+      "name": "Souda Bay",
+      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Souda Bay",
-        "url": "https://open.spotify.com/album/4qgEm1RNxgw0mSWKInseZt"
+        "name": "Looking for the Sea",
+        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
       },
       "artists": [
         {
-          "name": "DJ Telefkas",
-          "url": "https://open.spotify.com/artist/6JOSA3OubWnWnMGpM4oRt8"
+          "name": "Pupkulies & Rebecca",
+          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
         }
       ],
-      "duration_ms": 210509,
-      "name": "Souda Bay",
-      "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
+      "duration_ms": 213133,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Way to Go (Club Soda Mix)",
+        "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
+      },
+      "artists": [
+        {
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "Way to Go - Club Soda Mix",
+      "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Atlantic Oscillations",
-        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 351146,
-      "name": "Atlantic Oscillations",
-      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lupino",
         "url": "https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 200697,
       "name": "Lupino",
       "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Atlantic Oscillations",
+        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 351146,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
     },
     {
       "added_at": "2023-08-14 14:58:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: María Escarmiento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,433 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,435 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 74 | [F5](https://open.spotify.com/track/73WcUT0kiyxc635q5Qn4cB) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [F5](https://open.spotify.com/album/610kQhKE5gqNjMZJVyzC50) | 3:51 |
 | 75 | [Take It Easy](https://open.spotify.com/track/2pen0Ejf9o1YkSoWjAk2KZ) | [Shanghai Baby](https://open.spotify.com/artist/6VSoXmFpPvPyNq8VAvclSK) | [Take It Easy](https://open.spotify.com/album/68F5kggQvvnPl9SUfPXCdg) | 2:47 |
 
-Snapshot ID: `ZjFp4AAAAACobrhMm6pkMajuZIDXwjv3`
+Snapshot ID: `Zjt76QAAAACZuofpLEBNK4EE0QJUuKEF`

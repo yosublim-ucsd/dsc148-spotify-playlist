@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Erasmo Carlos",
-  "num_followers": 343520,
+  "num_followers": 343550,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160231,
       "name": "Cremosa",
       "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-05-03 13:36:36",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-05-03 13:36:36",
       "album": {
-        "name": "Cheguei pra ficar",
-        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Cheguei pra ficar",
-      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
-    },
-    {
-      "added_at": "2024-05-03 13:36:36",
-      "album": {
         "name": "4M\u00e3os - Lado A",
         "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 189787,
       "name": "Em cada pra sempre",
       "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
+    },
+    {
+      "added_at": "2024-05-03 13:36:36",
+      "album": {
+        "name": "Cheguei pra ficar",
+        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Cheguei pra ficar",
+      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-05-03 13:36:36",

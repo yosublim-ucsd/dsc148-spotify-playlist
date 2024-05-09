@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-539 songs - 1 day 12 hr 20 min
+541 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [On Another Ocean \(January / June\)](https://open.spotify.com/track/1B3RqpFxuPQhVoQzfRIPpB) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 4:23 | 2023-01-17 | 2024-04-19 |
 | [On Our Hands](https://open.spotify.com/track/1inylUWfAII24XUmKOkaOV) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [About You](https://open.spotify.com/album/1irvUzlivNloEJmnyUNKL0) | 3:58 | 2023-01-17 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2023-01-17 | 2024-04-19 |
+| [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2023-01-17 |  |
 | [Only Love Can](https://open.spotify.com/track/3UnJeER1Ls8XYzTN9atcPc) | [Ailie Ormston](https://open.spotify.com/artist/4PaNF1hJdZop3hqlEHj67Y), [Tim Fraser](https://open.spotify.com/artist/3wVcwsDuXAz8tpAsvmHsmE) | [It Changes](https://open.spotify.com/album/6kJxv0g8zTCXqtNb0d8LMk) | 3:52 | 2023-01-17 |  |
 | [Only One](https://open.spotify.com/track/6FFs23jJhushOE2kdE0HKC) | [The Belle Game](https://open.spotify.com/artist/7jODCOa0FcBJyrcUocGq0p) | [Only One](https://open.spotify.com/album/4DSoSxygd8bbQ9afXvkCQc) | 4:36 | 2023-01-17 |  |
 | [Orange Blossoms](https://open.spotify.com/track/2G592yetfLvLCY6N5m9WF6) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:44 | 2023-01-17 |  |
@@ -381,7 +382,7 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-01-17 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjIjq7plLZgCmyHRpj042) | [Alih Jey](https://open.spotify.com/artist/5mdcH0FX9YUTUv9PXlxhBa) | [Running Up That Hill](https://open.spotify.com/album/7JT4iABklvGFoSUwGaqzhf) | 4:11 | 2023-01-17 |  |
 | [Running Up That Hill \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 3:56 | 2023-01-17 |  |
-| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 |  |
+| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 | 2024-05-09 |
 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Safe With Me](https://open.spotify.com/track/6JXNQLqk8iSHgHp4ag7498) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [From Gas to Solid / you are my friend](https://open.spotify.com/album/0jDK15E80QD5ekIOlqdY7h) | 3:17 | 2023-01-17 | 2024-04-19 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |
@@ -463,7 +464,7 @@
 | [The Hunger](https://open.spotify.com/track/7l9yrvHssOAcOUcrV39lQX) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:59 | 2023-01-17 | 2024-04-19 |
 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2023-01-17 | 2024-04-19 |
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-01-17 | 2024-03-23 |
-| [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2023-01-17 |  |
+| [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2023-01-17 | 2024-05-09 |
 | [The Message](https://open.spotify.com/track/0i5r3EWZsCMYRrpUy8YofZ) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/5wQzD4g80qIXRVUOD9we2G) | 4:52 | 2023-01-17 | 2024-04-19 |
 | [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2023-01-17 |  |
@@ -529,6 +530,7 @@
 | [Wolf](https://open.spotify.com/track/0gI6KFnLCbneSdaayPBwiI) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/4Ls6xTsUYpgpYap10m6gVi) | 5:29 | 2023-01-17 | 2024-04-19 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-01-17 |  |
 | [Would You Rather](https://open.spotify.com/track/0ulpimSr7njRd2UFadBAPv) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:19 | 2023-01-17 | 2024-04-19 |
+| [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2023-01-17 |  |
 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 | 2023-01-17 | 2024-04-19 |
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2023-01-17 |  |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2023-01-17 | 2024-04-19 |

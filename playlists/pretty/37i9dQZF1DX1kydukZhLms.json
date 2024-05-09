@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1351313,
+  "num_followers": 1351668,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "New Jersey",
         "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
       },
@@ -839,22 +823,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/0xdSf6KFTkFciT8kK3gD2e"
-      },
-      "artists": [
-        {
-          "name": "Sentenced",
-          "url": "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Mourn",
-      "url": "https://open.spotify.com/track/4KcNupwVIuM2AOoiKdgpRf"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 227733,
       "name": "The Silent Man",
       "url": "https://open.spotify.com/track/2vzfV6LgfAWtv7JeSoEPFO"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/0xdSf6KFTkFciT8kK3gD2e"
+      },
+      "artists": [
+        {
+          "name": "Sentenced",
+          "url": "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Mourn",
+      "url": "https://open.spotify.com/track/4KcNupwVIuM2AOoiKdgpRf"
     },
     {
       "added_at": "2024-01-02 10:36:29",

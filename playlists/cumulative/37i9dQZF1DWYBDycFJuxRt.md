@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: ゲスの極み乙女 \*👉 <a href="https://spice.eplus.jp/articles/328404?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: ゲスの極み乙女 \*👉 <a href="https://spice.eplus.jp/articles/328587?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-6,153 songs - 15 day 14 hr 47 min
+6,155 songs - 15 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [2024/4/17 First Love is Never Returnedがカバー！BUMP OF CHICKEN、椎名林檎、aiko、水曜日のカンパネラの新曲もリリースに！Rina Sawayamaとちゃんみなのコラボソング、tuki.の新曲、荒谷翔大初のソロ楽曲や、MFSのアルバムもリリースに！ワンリパブリックが手がけたアニメ『怪獣8号』のエンディングテーマもピックアップ！](https://open.spotify.com/episode/7u83hn30oydzzNOefPTDIq) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:21 | 2024-04-17 | 2024-04-24 |
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |
 | [2024/5/1 あいみょんがカバー！LEXとJP THE WAVYのコラボ、Tempalayのニューアルバムもリリースに。ちゃんみな、WurtS、女王蜂、槇原敬之の新曲、Early Noiseアーティストの音田雅則、CHO CO PA CO CHO CO QUIN QUINの新曲も！フランスのジャスティスのニューアルバムもピックアップ！](https://open.spotify.com/episode/3ar9F7aWEXxlGtMWQ6vSI0) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 30:49 | 2024-05-01 | 2024-05-08 |
+| [2024/5/8 ゲスの極み乙女がカバー！「幾億光年」がヒット中のOmoinotakeの新曲も！WILYWNKAのニューアルバム、JJJ、BLASÉ、Bonberoのコラボ曲、KEIJUの新曲など注目ヒップホップ作品も多数リリースに！Mr.Children、ビッケブランカ、乃紫、KERENMIもピックアップ。海外からはデュア・リパのニューアルバムなどを深堀り！](https://open.spotify.com/episode/7E9vuHi6y2SkknvDQmW816) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 35:32 | 2024-05-08 |  |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/69xcj07x7CoDq2X82QA14j) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4h3k67qvKQdWTM7LWpSYOH) | 5:12 | 2023-09-13 | 2023-09-20 |
 | [22](https://open.spotify.com/track/1ezSlfETdnObyRLB8UjBav) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [22](https://open.spotify.com/album/3Yri9jP2cnN0wLiYUJpTFQ) | 2:25 | 2024-04-09 | 2024-04-17 |
@@ -3917,6 +3918,7 @@
 | [weakness](https://open.spotify.com/track/0Eu5fD6V5p08LHTXvsssoG) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [weakness](https://open.spotify.com/album/1WF9HDVPfLAMHFhHoMWtmT) | 3:43 | 2023-04-11 | 2023-04-13 |
 | [weakness](https://open.spotify.com/track/1cn2bx66eZNu4scspbVp5W) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [weakness](https://open.spotify.com/album/0okKLRdOPi0SfISlBFFeot) | 3:43 | 2023-04-12 | 2023-04-19 |
 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 | 2023-03-21 | 2023-03-29 |
+| [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 | 2024-05-08 |  |
 | [Wedding Day](https://open.spotify.com/track/1tP36Pg4Vwys6BSnkQiWIe) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [Wedding Day](https://open.spotify.com/album/7tipwtuR6b0Pz6VsW465dR) | 3:27 | 2023-06-07 | 2023-06-14 |
 | [Wedding Day](https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [Wedding Day](https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3) | 3:27 | 2023-06-06 | 2023-06-08 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-12 | 2023-12-20 |

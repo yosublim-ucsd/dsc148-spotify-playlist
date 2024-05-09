@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Sunday \(1994\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,889 likes - 100 songs - 5 hr 47 min
+[](https://open.spotify.com/user/null) - 294,908 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

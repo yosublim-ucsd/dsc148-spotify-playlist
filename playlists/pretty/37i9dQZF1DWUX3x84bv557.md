@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Rubben Annink, Roxeanne Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,990 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,997 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 |
-| 2 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 |
-| 3 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 |
+| 1 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 |
+| 2 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 |
+| 3 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 |
 | 4 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
 | 5 | [Paranoia](https://open.spotify.com/track/4h272DTgerbGSLboHdYefP) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Paranoia](https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox) | 3:14 |
 | 6 | [Groot \- Single Edit](https://open.spotify.com/track/749cIrnjVzGv9DOpAk6GpQ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Groot](https://open.spotify.com/album/30XILWVpjQrkUK83Phv7h4) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 |
 | 70 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z), [JAPS](https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 |
 
-Snapshot ID: `ZjjEAgAAAACnr4p90UStq4fkRoslfEb2`
+Snapshot ID: `ZjuPGgAAAAD91tvEacv4+EatNEm85+m1`

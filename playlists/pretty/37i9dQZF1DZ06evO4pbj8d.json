@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 6889,
+  "num_followers": 6899,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAACh9sCUjSsInj+Q3hUSaRGK",
+  "snapshot_id": "ZjlvAAAAAABkHWZcYNrxymmuR1Z69SXT",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Somehow Intro - Living Proof Version",
-      "url": "https://open.spotify.com/track/3fcs9tMlhX6U7PQoDZXbLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228000,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Somehow Intro - Living Proof Version",
+      "url": "https://open.spotify.com/track/3fcs9tMlhX6U7PQoDZXbLI"
     },
     {
       "added_at": null,

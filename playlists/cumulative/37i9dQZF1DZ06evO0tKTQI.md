@@ -2,7 +2,7 @@
 
 ### [This Is Bratty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tKTQI)
 
-> This Is Bratty\. Los temas esenciales, todos en una lista.
+> This is Bratty\. The essential tracks, all in one playlist.
 
 55 songs - 3 hr 2 min
 

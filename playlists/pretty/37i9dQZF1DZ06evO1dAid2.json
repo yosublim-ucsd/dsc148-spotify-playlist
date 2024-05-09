@@ -1,13 +1,29 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 127591,
+  "num_followers": 127603,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAAHNlUeJcxV3xAbBNbWfX+b",
+  "snapshot_id": "ZjlvAAAAAAANqIFQgJxtALf15wvu3NqW",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
     {
       "added_at": null,
       "album": {
@@ -36,9 +52,25 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 180746,
-      "name": "Sweet Little Sixteen",
-      "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Nadine - Stereo Remix",
+      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
     },
     {
       "added_at": null,
@@ -52,25 +84,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Juke Box Hits",
-        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Route 66",
-      "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
     },
     {
       "added_at": null,
@@ -132,9 +148,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
     },
     {
       "added_at": null,
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 141960,
-      "name": "Almost Grown",
-      "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
+      "duration_ms": 168600,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
     },
     {
       "added_at": null,
@@ -219,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -235,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
@@ -244,9 +276,25 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Brown Eyed Handsome Man",
-      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+      "duration_ms": 141960,
+      "name": "Almost Grown",
+      "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
     },
     {
       "added_at": null,
@@ -292,9 +340,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Little Queenie",
-      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+      "duration_ms": 142760,
+      "name": "Sweet Little Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/5a38im3bvcPzWWIuMegbTe"
     },
     {
       "added_at": null,
@@ -331,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In Memphis",
-        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Do Really Love You",
-      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Around And Around",
-      "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Do Really Love You",
+      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
     },
     {
       "added_at": null,
@@ -443,22 +475,6 @@
       "duration_ms": 158560,
       "name": "Swanee River",
       "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,
@@ -543,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+        "name": "Welcome To The Vault",
+        "url": "https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN"
       },
       "artists": [
         {
           "name": "Chuck Berry",
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 157320,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+      "duration_ms": 290546,
+      "name": "It Hurts Me Too - Live",
+      "url": "https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To The Vault",
-        "url": "https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        },
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 290546,
-      "name": "It Hurts Me Too - Live",
-      "url": "https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry Twist",
         "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 142586,
       "name": "Thirty Days",
       "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Have Mercy Judge",
+      "url": "https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg"
     },
     {
       "added_at": null,
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "BD Music & Toppi Present the Blues",
+        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
       },
       "artists": [
         {
@@ -668,15 +684,15 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+      "duration_ms": 131946,
+      "name": "Confessin' the Blues",
+      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 161053,
-      "name": "Have Mercy Judge",
-      "url": "https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg"
+      "duration_ms": 147866,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "Guitar Boogie",
-      "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
       },
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+      "duration_ms": 108653,
+      "name": "Jaguar And Thunderbird - Single Version",
+      "url": "https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 108653,
-      "name": "Jaguar And Thunderbird - Single Version",
-      "url": "https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS"
+      "duration_ms": 182906,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
     },
     {
       "added_at": null,

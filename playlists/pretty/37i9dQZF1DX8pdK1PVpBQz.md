@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: THE BLSSM <br/>Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,015 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,048 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 13 | [What Can You Say](https://open.spotify.com/track/0MUjRxiSG7nhAsrraNK4s5) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [What Can You Say](https://open.spotify.com/album/73x05mg9tEZdOwUFS2i7Ri) | 4:39 |
 | 14 | [What If](https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0) | 3:38 |
 | 15 | [favourite song](https://open.spotify.com/track/45c2lOvNVaL9f6TtfO21wT) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [reset](https://open.spotify.com/album/3UkUawswBSR2ZVUW0Bv16r) | 2:51 |
-| 16 | [Names](https://open.spotify.com/track/69GjbMCrVifiA9i6Coqjx9) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/26tRFX2hmrnvAXkcdUrQNy) | [Names](https://open.spotify.com/album/7CttQhlKWFVS8Ke8axRr4i) | 2:33 |
+| 16 | [Names](https://open.spotify.com/track/69GjbMCrVifiA9i6Coqjx9) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [Names](https://open.spotify.com/album/7CttQhlKWFVS8Ke8axRr4i) | 2:33 |
 | 17 | [Did The Morning Let You Down](https://open.spotify.com/track/0YwjkPwrOgtMvDqAJn8qDE) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Did The Morning Let You Down](https://open.spotify.com/album/5ecB0Rb8x6sJpXCLojfWqW) | 3:18 |
 | 18 | [Everybody's Going To The Same Place](https://open.spotify.com/track/1UjxUpnYC2G3Uu8J8GQsjU) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [Real Life](https://open.spotify.com/album/3TvPrkiwLoiUmQ5A8wqrBj) | 3:25 |
 | 19 | [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 22 | [chemtrails](https://open.spotify.com/track/7F91nVUQpECxcknIPAhWPM) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [chemtrails](https://open.spotify.com/album/1EOn46uCdPizSOJanZhKIC) | 2:13 |
 | 23 | [Gets Me Down](https://open.spotify.com/track/255LHFM26J28XCFZVgGYcX) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Gets Me Down](https://open.spotify.com/album/3az8ETBqscIpey39FGe4EV) | 3:32 |
 | 24 | [Naked Eye](https://open.spotify.com/track/1964OnoI5ceUXsyX478MTK) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Naked Eye](https://open.spotify.com/album/6IR5I5Rdfg26xz282ywM6L) | 3:15 |
-| 25 | [Texas Ain't That Far Is It Dear?](https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Texas Ain't That Far Is It Dear?](https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII) | 3:36 |
+| 25 | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII) | 3:36 |
 | 26 | [Driftwood](https://open.spotify.com/track/6wRGndiL768o93yms0HdL8) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Driftwood](https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX) | 4:28 |
 | 27 | [Cracks](https://open.spotify.com/track/3w1qSxXU1XQcx6uo0aYxjT) | [Ultracrush](https://open.spotify.com/artist/2559rk4RAobl7NID5fKHXH) | [On Your Return](https://open.spotify.com/album/3gWx6nwfals2S07dEbDxu8) | 2:53 |
 | 28 | [The Song of You](https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [The Song of You](https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR) | 2:10 |

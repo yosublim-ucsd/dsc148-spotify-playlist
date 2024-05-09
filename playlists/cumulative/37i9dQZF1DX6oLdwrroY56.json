@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 182926,
       "name": "Binalewala",
       "url": "https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ"
@@ -428,6 +428,24 @@
       "duration_ms": 199333,
       "name": "Gigil",
       "url": "https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ"
+    },
+    {
+      "album": {
+        "name": "Gunita",
+        "url": "https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR"
+      },
+      "artists": [
+        {
+          "name": "Paham",
+          "url": "https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Gunita",
+      "url": "https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho"
     },
     {
       "album": {
@@ -918,7 +936,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 307968,
       "name": "Panaginip",
       "url": "https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz"
@@ -958,6 +976,24 @@
       "duration_ms": 199121,
       "name": "Pangako",
       "url": "https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr"
+    },
+    {
+      "album": {
+        "name": "Pangalawang Ulan",
+        "url": "https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH"
+      },
+      "artists": [
+        {
+          "name": "brando bal",
+          "url": "https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323856,
+      "name": "Pangalawang Ulan",
+      "url": "https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO"
     },
     {
       "album": {

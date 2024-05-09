@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena
 
-738 songs - 1 day 13 hr 6 min
+739 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 | 2023-06-16 | 2023-07-22 |
 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 | 2023-09-29 | 2023-10-28 |
 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 | 2020-10-20 | 2022-07-26 |
+| [absurdo](https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:35 | 2024-05-08 |  |
 | [Acabou \(Papasessions \#5\) \[feat\. CALIFFA\]](https://open.spotify.com/track/7hKXUAgfmgtPvA3ARl5jCw) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Acabou \(Papasessions \#5\) \[feat\. CALIFFA\]](https://open.spotify.com/album/0gmfvrp3lEznkUeZee5Ewm) | 4:19 | 2020-10-20 | 2022-07-19 |
 | [Acelerando](https://open.spotify.com/track/6xgK5afWFpPmB3z1T4aFr8) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 3:52 | 2020-10-20 | 2022-07-27 |
 | [Acende o Isqueiro](https://open.spotify.com/track/1DdEU9f7uXklMx6Dm0Mdwq) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Acende o Isqueiro](https://open.spotify.com/album/141vLpxhW08k1udBJoTW1r) | 3:27 | 2020-10-20 | 2022-07-20 |
@@ -144,7 +145,7 @@
 | [CASALZÃO DA PORRA](https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [CASALZÃO DA PORRA](https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76) | 2:10 | 2023-10-13 | 2023-12-02 |
 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 | 2023-08-22 |  |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-05-05 | 2023-07-15 |
-| [Caça Like](https://open.spotify.com/track/1uX5G2MoccoKX1aCDVcX2y) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Caça Like](https://open.spotify.com/album/02pElJdfdIZJLF1y5O1stv) | 2:08 | 2024-04-19 |  |
+| [Caça Like](https://open.spotify.com/track/1uX5G2MoccoKX1aCDVcX2y) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Caça Like](https://open.spotify.com/album/02pElJdfdIZJLF1y5O1stv) | 2:08 | 2024-04-19 | 2024-05-09 |
 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 | 2020-10-20 | 2022-07-26 |
 | [cedo pra dizer](https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [cedo pra dizer](https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR) | 3:06 | 2023-02-14 | 2023-02-25 |
 | [Chanel](https://open.spotify.com/track/1Vr1pUKYljjKHnBz400pnt) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [TRAPLIST](https://open.spotify.com/album/6hYlkXJhIlXqgwd5j72KJT) | 3:22 | 2020-10-20 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 65666,
+  "num_followers": 65688,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADH9BisUzWuAthQszrW8N4p",
+  "snapshot_id": "ZjlvAAAAAABfjqTdtkzJDqSD7M7qKjbu",
   "tracks": [
     {
       "added_at": null,
@@ -1071,26 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Quiero Maxi Single",
-        "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
+        "name": "Madrid X Marbella",
+        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
       "artists": [
         {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 205775,
-      "name": "Te Quiero (feat. Belinda) - Spanglish",
-      "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
+      "duration_ms": 194576,
+      "name": "Madrid X Marbella",
+      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
     },
     {
       "added_at": null,
@@ -1111,22 +1107,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+        "name": "Te Quiero Maxi Single",
+        "url": "https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+      "duration_ms": 205775,
+      "name": "Te Quiero (feat. Belinda) - Spanglish",
+      "url": "https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm"
     },
     {
       "added_at": null,

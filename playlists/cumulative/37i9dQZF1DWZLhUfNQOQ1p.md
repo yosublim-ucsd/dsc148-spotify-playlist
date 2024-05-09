@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-322 songs - 21 hr 19 min
+323 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [I Love America](https://open.spotify.com/track/6m3E1vIR4NLoMkc5ahzYkb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of 70](https://open.spotify.com/album/2Xxtj609hC0qtICpAac9Hh) | 3:50 | 2023-05-14 | 2023-05-30 |
 | [I Love Video](https://open.spotify.com/track/7yKGeGDjtxmfp4jlMvPUyE) | [New Paradise](https://open.spotify.com/artist/7ybbaTETR9aq05M6ud64ru) | [I Love Video](https://open.spotify.com/album/4vFB185QRgDTR4R6vY6Xms) | 4:01 | 2023-05-14 | 2023-05-30 |
 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 | 2021-08-05 | 2023-03-07 |
-| [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 | 2023-06-09 |  |
+| [I NEED U \(feat\. ZOI\)](https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [ZOI](https://open.spotify.com/artist/6KwxYIbJh4KGDc6dVAF4Tr) | [I NEED U \(feat\. ZOI\)](https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx) | 3:23 | 2023-06-09 | 2024-05-09 |
 | [If I Were Your Woman \- Lovemental Mix](https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS) | [Neapolitan Soul](https://open.spotify.com/artist/5oWP10ZSEw5Hf14xpTg0ct), [Luciano Gioia](https://open.spotify.com/artist/0dUg6YiF9oFg1XQsUsUis4) | [If I Were Your Woman](https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu) | 7:52 | 2021-08-05 | 2022-07-29 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-05-14 | 2023-05-30 |
 | [Il fait chaud](https://open.spotify.com/track/1Rbs9bGBcx5AkcGYNqXhoO) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 2:45 | 2023-05-14 | 2023-05-30 |
@@ -244,6 +244,7 @@
 | [Say A Little Prayer](https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [POLINA](https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB) | [Say A Little Prayer](https://open.spotify.com/album/29wjFumxzTTscOFSJgeGsB) | 3:06 | 2021-08-05 | 2022-07-29 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-05-14 | 2023-05-30 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-05-30 |  |
+| [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-08 |  |
 | [Set You Free](https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Set You Free](https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE) | 3:24 | 2023-11-17 | 2024-01-16 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-05-30 | 2024-04-27 |
 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 | 2023-05-30 |  |

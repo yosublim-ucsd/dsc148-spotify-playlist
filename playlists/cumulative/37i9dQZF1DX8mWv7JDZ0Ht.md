@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Clarissa
 
-593 songs - 1 day 5 hr 30 min
+594 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Chá De Camomila](https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Chá De Camomila](https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM) | 3:11 | 2023-07-21 | 2023-12-09 |
 | [Clarice](https://open.spotify.com/track/190dGHiYz1z0g6I7TrJKMR) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Maraia Takai](https://open.spotify.com/artist/1bKvSW0ik3iCkophyJbo5B) | [FESTA](https://open.spotify.com/album/6nmgQuG4dzK2Y3lV7uPZeA) | 3:20 | 2023-11-24 | 2023-12-16 |
 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 | 2023-06-30 | 2023-12-02 |
-| [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 |  |
+| [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 | 2024-05-09 |
 | [Cofre](https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Cofre](https://open.spotify.com/album/5TLAQQvsUK7W9jKfPnbw6d) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Coisa Boa](https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 2:19 | 2023-07-21 | 2023-11-07 |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
@@ -191,6 +191,7 @@
 | [Eremita](https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5) | [Renato Enoch](https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc) | [Eremita](https://open.spotify.com/album/3s8mB7MS1VPIckEL5nLNFm) | 3:14 | 2023-08-22 | 2023-09-02 |
 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 | 2023-05-12 | 2023-08-26 |
 | [Esteja Lá](https://open.spotify.com/track/7p0RUtuHrIdE7lKzohvEpQ) | [Zoo](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [DSLA \(Desperte Seu Lado Animal\)](https://open.spotify.com/album/4nuPJULeYU3Quk89kKpzxK) | 2:14 | 2022-09-23 | 2022-10-15 |
+| [estranha vontade louca](https://open.spotify.com/track/6OaT6IKxwpGv5K62axdX74) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 2:45 | 2024-05-08 |  |
 | [Estrela do Mar](https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Estrela do Mar](https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY) | 3:15 | 2023-07-21 | 2023-09-09 |
 | [eu](https://open.spotify.com/track/2AkQRYBsdZddgfNc4uhokU) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Rafael Portugal](https://open.spotify.com/artist/3Pby3w74F4E2fYhAvDUMxf) | [eu](https://open.spotify.com/album/01BcoM5awsgHDlSow4CI6G) | 1:13 | 2023-06-16 | 2023-07-08 |
 | [Eu e Eu Mesmo](https://open.spotify.com/track/4U4KZ4I0Hcvfc5UpoWVnoA) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Eu e Eu Mesmo](https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1) | 3:00 | 2022-06-17 | 2022-09-03 |

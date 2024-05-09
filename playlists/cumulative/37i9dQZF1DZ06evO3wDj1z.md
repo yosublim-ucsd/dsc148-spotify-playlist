@@ -2,7 +2,7 @@
 
 ### [This Is Sergio Vega "El Shaka"](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z)
 
-> This is: Sergio Vega "El Shaka"\. Alle wichtigen Tracks in einer Playlist.
+> This Is Sergio Vega "El Shaka"\. Los temas esenciales, todos en una lista.
 
 73 songs - 3 hr 57 min
 

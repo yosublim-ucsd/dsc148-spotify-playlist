@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Heavent, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: mo\u00e9, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 254898,
       "name": "A Song for Him",
       "url": "https://open.spotify.com/track/3RUT8oJs3Z4hCDZyxNwve2"
+    },
+    {
+      "album": {
+        "name": "A Song You Should Forget",
+        "url": "https://open.spotify.com/album/1ETuJnLPmSd2x60U036w19"
+      },
+      "artists": [
+        {
+          "name": "Pholexia",
+          "url": "https://open.spotify.com/artist/2ZuLK7CVJtohgtMNlbE38P"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "A Song You Should Forget",
+      "url": "https://open.spotify.com/track/2kQLu6TvWcgQf26jkrmtct"
     },
     {
       "album": {
@@ -2040,6 +2058,24 @@
       "duration_ms": 180000,
       "name": "Blaue Blumen",
       "url": "https://open.spotify.com/track/4QU1xM1OlMNCyXbALNSXtl"
+    },
+    {
+      "album": {
+        "name": "blaue stunde",
+        "url": "https://open.spotify.com/album/1iZSZcTejCCvMMYZ2WCrO7"
+      },
+      "artists": [
+        {
+          "name": "Wolke 8",
+          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "blaue stunde",
+      "url": "https://open.spotify.com/track/2oHwsGocm8rT9fdAl4SKM2"
     },
     {
       "album": {
@@ -6820,7 +6856,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 167058,
       "name": "Geisterdiskothek",
       "url": "https://open.spotify.com/track/6OvIwDkS1bcjuNMUKnBvFf"
@@ -9848,6 +9884,24 @@
       "duration_ms": 118072,
       "name": "keep on living",
       "url": "https://open.spotify.com/track/2GWvLa32OjRcNNEdjt35W8"
+    },
+    {
+      "album": {
+        "name": "Kein Vergleich",
+        "url": "https://open.spotify.com/album/2GQmMS8RXKOxUeJEcanGZv"
+      },
+      "artists": [
+        {
+          "name": "Mynt",
+          "url": "https://open.spotify.com/artist/4S7e9TX0ER8bUiHnrIuDlN"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Kein Vergleich",
+      "url": "https://open.spotify.com/track/5ak39eRB6Abhcm6Zk6e5BY"
     },
     {
       "album": {
@@ -13368,7 +13422,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 211149,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/4M9MBDb4Ty4MTVleaZ5312"
@@ -13386,7 +13440,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 145500,
       "name": "panik in der diskothek",
       "url": "https://open.spotify.com/track/7f3xeKTNAIilb5qoCZCeJZ"
@@ -13657,6 +13711,24 @@
     },
     {
       "album": {
+        "name": "Pleasant Conversation",
+        "url": "https://open.spotify.com/album/2jYzB5mKPFeiIqmH5EUrT5"
+      },
+      "artists": [
+        {
+          "name": "Barrelly Ego",
+          "url": "https://open.spotify.com/artist/0zn1nUA9Tg5Fq7RttovSHS"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Pleasant Conversation",
+      "url": "https://open.spotify.com/track/2RL1UtRs7WO0C4Mfas9PrD"
+    },
+    {
+      "album": {
         "name": "Please Clap",
         "url": "https://open.spotify.com/album/5NNVyrxcJUWCRiufBheYpt"
       },
@@ -13870,7 +13942,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 136829,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL"
@@ -14902,7 +14974,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 213266,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/2sMbW27DW5ZW9O34smcAkU"
@@ -15028,10 +15100,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 215357,
       "name": "Sadness",
       "url": "https://open.spotify.com/track/38ledZCzWK7RE6L4A31AZ8"
+    },
+    {
+      "album": {
+        "name": "Sadnesstrain",
+        "url": "https://open.spotify.com/album/1SRSIDHCjrCRux7VYET4Bc"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239672,
+      "name": "Sadnesstrain",
+      "url": "https://open.spotify.com/track/0X4yqJx76jfWpkEHFJLGky"
     },
     {
       "album": {
@@ -16142,6 +16232,24 @@
       "duration_ms": 138661,
       "name": "Sonne Nervt",
       "url": "https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab"
+    },
+    {
+      "album": {
+        "name": "Sonnenkind",
+        "url": "https://open.spotify.com/album/13gmkbNva8ZJtvxQQFXCgF"
+      },
+      "artists": [
+        {
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167551,
+      "name": "Sonnenkind",
+      "url": "https://open.spotify.com/track/0YkiKdx7PIRjZbxaJHgw2x"
     },
     {
       "album": {
@@ -19048,7 +19156,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 144162,
       "name": "WANT WANT",
       "url": "https://open.spotify.com/track/7jcj5UK6fwRREUbNDaGgRw"
@@ -19535,6 +19643,24 @@
     },
     {
       "album": {
+        "name": "White Dress",
+        "url": "https://open.spotify.com/album/3M8sOt14s6Rf4ZpYytm7wU"
+      },
+      "artists": [
+        {
+          "name": "Dews Pegahorn",
+          "url": "https://open.spotify.com/artist/6Ps1VYd6CPGYk96SYPQy08"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165797,
+      "name": "White Dress",
+      "url": "https://open.spotify.com/track/1fep0mLqAf2cqBkaS137Ha"
+    },
+    {
+      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/46bI8wj7xKlTMWzPTZX7ei"
       },
@@ -19979,6 +20105,24 @@
     },
     {
       "album": {
+        "name": "Yellow Day",
+        "url": "https://open.spotify.com/album/0iHYEKMtVnenb5vNjlBFNi"
+      },
+      "artists": [
+        {
+          "name": "Osta Love",
+          "url": "https://open.spotify.com/artist/5CFXAItA9r3FHci6SsFFGf"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232223,
+      "name": "Yellow Day",
+      "url": "https://open.spotify.com/track/4dNJSviHhgKm24XieDLb8Z"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/5lQQjXJ2sI9xZ5wVTVJtcJ"
       },
@@ -20228,7 +20372,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 152086,
       "name": "Youth",
       "url": "https://open.spotify.com/track/791OFjs2ojsoNpYPIGRftS"
@@ -20340,6 +20484,28 @@
       "duration_ms": 231600,
       "name": "Zimmer 4",
       "url": "https://open.spotify.com/track/0ClAr95oTIz2yx8a1wIEdk"
+    },
+    {
+      "album": {
+        "name": "zugeparkt",
+        "url": "https://open.spotify.com/album/2gr0APtvwMC1jWmZIAgVI9"
+      },
+      "artists": [
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        },
+        {
+          "name": "SOMA",
+          "url": "https://open.spotify.com/artist/3v8hKjW4vtSYSsvsVV2JMq"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "zugeparkt",
+      "url": "https://open.spotify.com/track/1Ub0UvSzsIq1hGj8TULZTf"
     },
     {
       "album": {

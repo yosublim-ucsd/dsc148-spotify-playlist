@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Alex Newell in Shucked
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,318 likes - 72 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,332 likes - 72 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

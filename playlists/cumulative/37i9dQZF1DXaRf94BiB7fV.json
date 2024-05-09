@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Hemanshi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: pruthvi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 223899,
       "name": "Aaine Mein",
       "url": "https://open.spotify.com/track/6WdsPvrRjjLyNi0kB9vDgB"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 224651,
       "name": "Ansuna",
       "url": "https://open.spotify.com/track/2wEGsRDi3CcK1wFyYkPkaH"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 169285,
       "name": "Baag Bageeche",
       "url": "https://open.spotify.com/track/391yVKTFVBqS1bqYQCrHPv"
@@ -1812,6 +1812,28 @@
       "duration_ms": 204000,
       "name": "Baatein Ankahi",
       "url": "https://open.spotify.com/track/6VuPelGxBidVYznwlkwUaM"
+    },
+    {
+      "album": {
+        "name": "Baatien",
+        "url": "https://open.spotify.com/album/2AkcLlGMoAJmT9iYMIQmSz"
+      },
+      "artists": [
+        {
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        },
+        {
+          "name": "Hetal Dave",
+          "url": "https://open.spotify.com/artist/2PS1dgaWIDngNeBGH6JCar"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Baatien",
+      "url": "https://open.spotify.com/track/1nEaT071zg8IMNtEgYgzhi"
     },
     {
       "album": {
@@ -4020,7 +4042,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 195000,
       "name": "Confession",
       "url": "https://open.spotify.com/track/6Zz07IfPSUCmHIirf2r4aX"
@@ -4488,6 +4510,28 @@
       "duration_ms": 196750,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW"
+    },
+    {
+      "album": {
+        "name": "Dhaage",
+        "url": "https://open.spotify.com/album/4EVKmVWhRYyP94GsXVNyss"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Pawar Music",
+          "url": "https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck"
+        },
+        {
+          "name": "Antaraa Bhataacharya",
+          "url": "https://open.spotify.com/artist/0ZssWexyE6l7emmKmsUeCL"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194959,
+      "name": "Dhaage",
+      "url": "https://open.spotify.com/track/0ADoxUgt2B1WnWHPWmd5DR"
     },
     {
       "album": {
@@ -5014,7 +5058,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 239495,
       "name": "Do Waqt Ka Pyaar",
       "url": "https://open.spotify.com/track/5JdQtageQw09ijhWLgR3m9"
@@ -5205,6 +5249,36 @@
     },
     {
       "album": {
+        "name": "Dooriyan",
+        "url": "https://open.spotify.com/album/4PUMe6JIOm84GnF5Zbhb3l"
+      },
+      "artists": [
+        {
+          "name": "Pranjal Sahu",
+          "url": "https://open.spotify.com/artist/0jNETbZi2W1629lNUlvChz"
+        },
+        {
+          "name": "Dikshyant",
+          "url": "https://open.spotify.com/artist/2yqpqCw2H3bRLQnPZtpuOy"
+        },
+        {
+          "name": "SPANDAN",
+          "url": "https://open.spotify.com/artist/1jonFvLAWp9KcPamGKp6Xe"
+        },
+        {
+          "name": "Yati Pandey",
+          "url": "https://open.spotify.com/artist/1ibBwxhpzQeUVXhUXAbaM3"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Dooriyan",
+      "url": "https://open.spotify.com/track/77Gwkk9NxZbaZ5s9u1rXSN"
+    },
+    {
+      "album": {
         "name": "Dooron Dooron",
         "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
       },
@@ -5354,7 +5428,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 178734,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7wIUcMJjmPS4mq94Cu9vGN"
@@ -8878,7 +8952,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 68965,
       "name": "Ishq-e-Haqiqi",
       "url": "https://open.spotify.com/track/21bTOWwvNmAWBqc5qIYuBp"
@@ -9202,7 +9276,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 204000,
       "name": "Jachti",
       "url": "https://open.spotify.com/track/7iXtVPmnsLs0U0W9QyDpc3"
@@ -10571,6 +10645,24 @@
     },
     {
       "album": {
+        "name": "Kaise Faasle",
+        "url": "https://open.spotify.com/album/2Om7fpigF4xMOy8snZLPQb"
+      },
+      "artists": [
+        {
+          "name": "Kshitiz Tyagi",
+          "url": "https://open.spotify.com/artist/0ee9j9B6A0r6sb3yXzelRv"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "Kaise Faasle",
+      "url": "https://open.spotify.com/track/7xn3lv3zsh5VhJetkFVLYz"
+    },
+    {
+      "album": {
         "name": "Kaise Kaati Raatein",
         "url": "https://open.spotify.com/album/6ZxiKYEoeVgWjr2MgQAcXa"
       },
@@ -10828,7 +10920,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 125805,
       "name": "Kashtiyan",
       "url": "https://open.spotify.com/track/2ObF1rWJ3lrtgrzUQRL9NG"
@@ -11011,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "Khamakha",
+        "url": "https://open.spotify.com/album/6xKFgClDDOsizTKczyqUGY"
+      },
+      "artists": [
+        {
+          "name": "Rahul Pandey",
+          "url": "https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183123,
+      "name": "Khamakha",
+      "url": "https://open.spotify.com/track/35b48SUGOHMYuAqgBOTmwF"
+    },
+    {
+      "album": {
         "name": "Khat",
         "url": "https://open.spotify.com/album/2MWiFWNFJ5thUQmIbdI0fE"
       },
@@ -11042,6 +11152,24 @@
       "duration_ms": 212337,
       "name": "Khat",
       "url": "https://open.spotify.com/track/6XuH38WaoetaiTriUqwEmP"
+    },
+    {
+      "album": {
+        "name": "Khazaana",
+        "url": "https://open.spotify.com/album/2DIPMRywu16N2chIgAJM6X"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Redwal",
+          "url": "https://open.spotify.com/artist/74ZWWXiuWvsJChbncxO1NK"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Khazaana",
+      "url": "https://open.spotify.com/track/7iLyAideT0t1y5diQgy4EX"
     },
     {
       "album": {
@@ -11397,6 +11525,24 @@
     },
     {
       "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2VcAAPhShjliEi7gUZswQf"
+      },
+      "artists": [
+        {
+          "name": "Shishir",
+          "url": "https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129506,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/5h4CXOs7DtvJtdgjWYQv0r"
+    },
+    {
+      "album": {
         "name": "The Diary",
         "url": "https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1"
       },
@@ -11452,7 +11598,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 203700,
       "name": "Khwabeeda",
       "url": "https://open.spotify.com/track/0KYi5TeGogDdCn8vugRrWe"
@@ -11510,6 +11656,28 @@
       "duration_ms": 156891,
       "name": "khwahishein",
       "url": "https://open.spotify.com/track/1zapTSG6Bim5Ai9ugffylV"
+    },
+    {
+      "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/5fEnVhlWlG6L8qDrgNepNR"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Sinha",
+          "url": "https://open.spotify.com/artist/18ie7a4xuNeUPxRU6CkUbF"
+        },
+        {
+          "name": "Biyas Sarkar",
+          "url": "https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278833,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/4LdSJClxcRdYfeUrrNKozl"
     },
     {
       "album": {
@@ -12778,7 +12946,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 141323,
       "name": "Maan Jana",
       "url": "https://open.spotify.com/track/0eUNQDr5lOIRP2U741IKK5"
@@ -14917,6 +15085,24 @@
     },
     {
       "album": {
+        "name": "Neelima",
+        "url": "https://open.spotify.com/album/2GhgU3zSbFJu0smH7QAXq8"
+      },
+      "artists": [
+        {
+          "name": "Rohit Joshi",
+          "url": "https://open.spotify.com/artist/5CPDuIrCivzWPfwr6fry9c"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Neelima",
+      "url": "https://open.spotify.com/track/4lMvmVxpaXoQ5JSY1t5DO3"
+    },
+    {
+      "album": {
         "name": "Nemesis (Piano Version)",
         "url": "https://open.spotify.com/album/7Ci2rAr21IuxtuExCmBhr8"
       },
@@ -15094,7 +15280,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 212142,
       "name": "Noor",
       "url": "https://open.spotify.com/track/3tSVUXaMlSIGqSKBnuoHtF"
@@ -16614,7 +16800,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 230307,
       "name": "Raaton Mein Ojhal",
       "url": "https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z"
@@ -16720,7 +16906,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 193255,
       "name": "Raise Me",
       "url": "https://open.spotify.com/track/0bCHWyjpBqAt07I4AUKB8Y"
@@ -18020,6 +18206,32 @@
       "duration_ms": 146666,
       "name": "Same, Familiar",
       "url": "https://open.spotify.com/track/3cspFnyhbCVmwcCNoRVqBb"
+    },
+    {
+      "album": {
+        "name": "Jaane Kya Hua",
+        "url": "https://open.spotify.com/album/0tYEiUFsbIXqxbbS8zII1n"
+      },
+      "artists": [
+        {
+          "name": "theajsound",
+          "url": "https://open.spotify.com/artist/1q1ZpVz6cDExJVwYt2h3up"
+        },
+        {
+          "name": "Amit Kori",
+          "url": "https://open.spotify.com/artist/3NtRo7LvYfUhoxjlKiDTrn"
+        },
+        {
+          "name": "Tanmoyee Mitra",
+          "url": "https://open.spotify.com/artist/78wPdMUwRNi2IhnYvotxD4"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213988,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/0MHKunjV6R1aDKcgN2oHUC"
     },
     {
       "album": {
@@ -20947,6 +21159,24 @@
     },
     {
       "album": {
+        "name": "Tu aur Main",
+        "url": "https://open.spotify.com/album/1zSaaU3SWB6UHXiO6wfgR5"
+      },
+      "artists": [
+        {
+          "name": "Kratu Bhatt",
+          "url": "https://open.spotify.com/artist/7zb7fsHe6SPONF5a4ceXfw"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166541,
+      "name": "Tu aur Main",
+      "url": "https://open.spotify.com/track/56yLhjERYKFAufZTy4dSGQ"
+    },
+    {
+      "album": {
         "name": "Tu Chahe",
         "url": "https://open.spotify.com/album/1SO03RxDtHUyrot4yjMJrp"
       },
@@ -21691,6 +21921,24 @@
     },
     {
       "album": {
+        "name": "twentytwo",
+        "url": "https://open.spotify.com/album/05doxswau5MYzlW7PEBXp6"
+      },
+      "artists": [
+        {
+          "name": "pruthvi",
+          "url": "https://open.spotify.com/artist/6hdaQyFrLF3gUkmXEHMvBG"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "twentytwo",
+      "url": "https://open.spotify.com/track/1hjGbbBKZ1JDjDHczpp8Rh"
+    },
+    {
+      "album": {
         "name": "Ud Chalo",
         "url": "https://open.spotify.com/album/4poQzoEjLTQlwfdw7FSy4R"
       },
@@ -21794,6 +22042,24 @@
       "duration_ms": 154838,
       "name": "UDTI PHIRA",
       "url": "https://open.spotify.com/track/3THX26BJiJuR8nTVbeR4tv"
+    },
+    {
+      "album": {
+        "name": "Uljha",
+        "url": "https://open.spotify.com/album/04IDs5j9ckJwtObakJ161m"
+      },
+      "artists": [
+        {
+          "name": "DPON DASH",
+          "url": "https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Uljha",
+      "url": "https://open.spotify.com/track/7ADK4zhYFgz021VrkW8hUL"
     },
     {
       "album": {
@@ -22696,7 +22962,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 163098,
       "name": "Will you be long?",
       "url": "https://open.spotify.com/track/15yYGY5yYAQQurQtRxflIG"
@@ -23128,6 +23394,24 @@
       "duration_ms": 169771,
       "name": "Ye Kaisa Sheher Hai",
       "url": "https://open.spotify.com/track/5DzgfCZFMlHxss6C9xkReN"
+    },
+    {
+      "album": {
+        "name": "Ye Safar",
+        "url": "https://open.spotify.com/album/5rBB0xGWXohRAjdMpWA52i"
+      },
+      "artists": [
+        {
+          "name": "The Sleeping Satellite",
+          "url": "https://open.spotify.com/artist/6gXG2Ufhff8vq6ptmY7w26"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Ye Safar",
+      "url": "https://open.spotify.com/track/5L2jOBhaa9CEzm22OwLRRq"
     },
     {
       "album": {

@@ -135,13 +135,21 @@
     },
     {
       "album": {
-        "name": "Gilli",
+        "name": "Gilli (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6quR1wqFlwSoCANhnfN9r9"
       },
       "artists": [
         {
-          "name": "Sukwinder Singh, Manikka Vinayagam",
-          "url": "https://open.spotify.com/artist/0PgIa8Y465LwPwkgG5Mvgx"
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Manikka Vinayagam",
+          "url": "https://open.spotify.com/artist/5sehJiCiH15ihXYCKyEALX"
+        },
+        {
+          "name": "Kabilan",
+          "url": "https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6"
         }
       ],
       "date_added": "2023-05-13",

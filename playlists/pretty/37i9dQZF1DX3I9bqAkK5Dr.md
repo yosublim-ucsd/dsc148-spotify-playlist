@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,442 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,446 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aata Gaani Aata](https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aata Gaani Aata](https://open.spotify.com/album/3zuzsB3BkRQRUrzvPHdSR2) | 2:42 |
-| 2 | [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 |
-| 3 | [Hero](https://open.spotify.com/track/0Tqag8vdsXMoYccjjKQVHz) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Hero](https://open.spotify.com/album/7i0rOrVET95OnXR1toHjPQ) | 4:04 |
-| 4 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |
-| 5 | [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 |
-| 6 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
-| 7 | [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 |
-| 8 | [PREMIKA](https://open.spotify.com/track/5WIWh3L9x0AHq9f6y32uub) | [J.Frank](https://open.spotify.com/artist/6MjtJioAJLnPJx93rKRXBx) | [PURPLE/CHRYSOLITE](https://open.spotify.com/album/2j4Fgb7WDqjvhLSEkvA87e) | 2:49 |
-| 9 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 |
-| 10 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 |
-| 11 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 |
+| 2 | [Chakkani Chukka](https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Chakkani Chukka](https://open.spotify.com/album/03VLpJtFaAKVobAZV0bnqX) | 3:51 |
+| 3 | [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 |
+| 4 | [Hero](https://open.spotify.com/track/0Tqag8vdsXMoYccjjKQVHz) | [Vamsi Kalakuntla](https://open.spotify.com/artist/2cp7HPGk7Nd28mDkwJQgkk) | [Hero](https://open.spotify.com/album/7i0rOrVET95OnXR1toHjPQ) | 4:04 |
+| 5 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |
+| 6 | [Kaalaale](https://open.spotify.com/track/51u6ywNUr5EhTpBfllwrSN) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0), [Jyoti Kavi](https://open.spotify.com/artist/7HeMDT4UyuKc3NNQBvpZnN) | [Kaalaale](https://open.spotify.com/album/7zuoO7Uhrb8ALzLT9bRlp0) | 3:38 |
+| 7 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
+| 8 | [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 |
+| 9 | [PREMIKA](https://open.spotify.com/track/5WIWh3L9x0AHq9f6y32uub) | [J.Frank](https://open.spotify.com/artist/6MjtJioAJLnPJx93rKRXBx) | [PURPLE/CHRYSOLITE](https://open.spotify.com/album/2j4Fgb7WDqjvhLSEkvA87e) | 2:49 |
+| 10 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 |
+| 11 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 |
 | 12 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 |
 | 13 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 |
 | 14 | [Ninnu Cheraga](https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Ninnu Cheraga](https://open.spotify.com/album/2pBaIGMAS4SsoKHxBPAbok) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Veduka Kanaro Maa Inta](https://open.spotify.com/track/4O7rIqx6h3BixM4JmWY4jK) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa) | [Veduka Kanaro Maa Inta](https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5) | 4:15 |
 | 75 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 |
 
-Snapshot ID: `Zi9x7QAAAAD1SV4LPw8tso59nazMXFGK`
+Snapshot ID: `ZjtoLgAAAAAsDFMgduxle7+yjCsmtL3f`

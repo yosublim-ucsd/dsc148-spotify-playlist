@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67901,
+  "num_followers": 67912,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "MC Moose",
+          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
         }
       ],
-      "duration_ms": 361160,
-      "name": "Blurred - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -211,22 +211,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         },
         {
-          "name": "MC Moose",
-          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+      "duration_ms": 361160,
+      "name": "Blurred - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 308877,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bortz",
-          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
-        }
-      ],
-      "duration_ms": 308877,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/3EDM7KO0QY9np171q2RhHx"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Zetex",
+        "url": "https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 156141,
+      "name": "K-Cloche",
+      "url": "https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Interlife",
         "url": "https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 344470,
       "name": "Archive Seven",
       "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Zetex",
-        "url": "https://open.spotify.com/album/2IRIOFPm3XmATAoB9LomVY"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 156141,
-      "name": "K-Cloche",
-      "url": "https://open.spotify.com/track/5X6ng9tpM3U2VWccbdZWld"
     },
     {
       "added_at": "2023-06-23 14:51:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 344166,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Moon III",
         "url": "https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 117868,
       "name": "The Other Room",
       "url": "https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 344166,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -799,22 +799,6 @@
       "duration_ms": 199715,
       "name": "Attractions",
       "url": "https://open.spotify.com/track/4OThTZ1uXY8EXKiZcyaBGc"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 419616,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/0ftXz1tRf3qdZ1T7Ffo29u"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -879,6 +863,22 @@
       "duration_ms": 252000,
       "name": "zero hour contract",
       "url": "https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 419616,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/0ftXz1tRf3qdZ1T7Ffo29u"
     },
     {
       "added_at": "2023-06-09 18:05:35",

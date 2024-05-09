@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,851 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,885 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 43 | [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/6vuWGCNmi4tXfhHKNoLIgo) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Siempre Frankie \(greatest hits\)](https://open.spotify.com/album/0phVPm12fU6AyLcUPv2UVu) | 4:29 |
 | 44 | [Voy a Extrañarte](https://open.spotify.com/track/0xaDp6ShQCF9q0NSqQry85) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Voy a Extrañarte](https://open.spotify.com/album/65wfiURugFKVuykmPlsZuI) | 4:33 |
 | 45 | [Cinco Noches](https://open.spotify.com/track/6PT8TupAmSIP42aOj7TQLk) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [The Greatest Salsa Ever](https://open.spotify.com/album/6hSOdiNHgxQj6PsgMhnpYS) | 5:10 |
-| 46 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
-| 47 | [Ya Llegó](https://open.spotify.com/track/6StCDpEBmF9pWy9dFlMUO6) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 4:46 |
+| 46 | [Ya Llegó](https://open.spotify.com/track/6StCDpEBmF9pWy9dFlMUO6) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 4:46 |
+| 47 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
 | 48 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2XRr5VmdgVrUWCRk6HPWNH) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:20 |
 | 49 | [Que Bonita Bandera](https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH) | [Stretch And Bobbito](https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj), [The M19s Band](https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL), [Jeimy Osorio](https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [Que Bonita Bandera](https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9) | 4:50 |
 | 50 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |

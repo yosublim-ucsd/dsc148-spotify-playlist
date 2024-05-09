@@ -4,7 +4,7 @@
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-70 songs - 2 hr 48 min
+71 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [La Amistad de Dos Avestruces](https://open.spotify.com/track/4WiGlFMQsE0OoPR31OrKrA) | [Había una Vez Cuentos Infantiles](https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX) | [La Amistad de Dos Avestruces](https://open.spotify.com/album/1UXdVfE8AGD1y1idxwvCTv) | 1:23 | 2021-07-23 | 2024-04-19 |
 | [La Carrera](https://open.spotify.com/track/6mf8fK0U38QThgimPGGdTJ) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito De La Tele Cepillín, Vol\. 1](https://open.spotify.com/album/0KIDmlACezipkHgQvcM0GR) | 3:15 | 2020-04-23 | 2024-04-19 |
 | [La Gata](https://open.spotify.com/track/0CTywuMKJ7BfTlUl4s5ntz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 1:38 | 2020-04-23 | 2024-04-19 |
-| [La gata](https://open.spotify.com/track/3orResRo5W79ZiQS1bVGK0) | [La Banda Crayón](https://open.spotify.com/artist/5ZG4SmWKo5clPI6X8Q4DU5) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 1:38 | 2020-04-23 |  |
+| [La gata](https://open.spotify.com/track/3orResRo5W79ZiQS1bVGK0) | [La Banda Crayón](https://open.spotify.com/artist/5ZG4SmWKo5clPI6X8Q4DU5) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 1:38 | 2020-04-23 | 2024-05-09 |
 | [La Lechuza](https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:08 | 2020-04-23 |  |
 | [La lechuza](https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:07 | 2020-04-23 |  |
 | [La Patita](https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:50 | 2020-04-23 |  |
@@ -77,6 +77,7 @@
 | [Soy el sapo Sopa \- De Morko y Mali](https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:30 | 2020-04-23 |  |
 | [Soy Una Serpiente](https://open.spotify.com/track/4FyCoKl2W6GnoVy8I9xMSE) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:11 | 2020-04-23 |  |
 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 | 2020-04-23 |  |
+| [Yo Tenia Diez Perritos](https://open.spotify.com/track/6FbER5h2bkMjPQ38It5jJ8) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/2KTIE0zh1TQiBh3jtHniTX) | 2:26 | 2020-04-23 |  |
 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/3VzVFDEJ3cvOCDB08X5WIk) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/40U4IxZZ5vPTZ3L9piyH38) | 2:26 | 2020-04-23 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

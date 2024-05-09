@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-317 songs - 16 hr 34 min
+318 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,10 +300,11 @@
 | [Tschaka](https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Tschaka 'n Tscheka](https://open.spotify.com/album/3Lav6mhh8bChUl6afGf9j4) | 5:24 | 2021-10-29 | 2022-07-20 |
 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 | 2021-10-29 | 2023-03-11 |
 | [Vacation \- AttaBoy Remix](https://open.spotify.com/track/5Z1D5FxxEhGv1WvCCCmxDr) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [AttaBoy](https://open.spotify.com/artist/7dt4zOrVQH8B9nPh9hMNLI) | [Vacation \(AttaBoy Remix\)](https://open.spotify.com/album/7D63vViVZvoDMYUhZx2I4K) | 3:18 | 2022-03-25 | 2022-04-21 |
-| [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-10 |  |
+| [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-10 | 2024-05-09 |
 | [Venus](https://open.spotify.com/track/24BpEMuWCSCgXvdXcEVm4b) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J) | [Venus](https://open.spotify.com/album/1YTvOpiIjdHwBH5qFLepJZ) | 2:46 | 2021-10-29 | 2022-03-26 |
 | [Wait a Minute!](https://open.spotify.com/track/4cPr0t2tHNRUeEBIH5lSin) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Wait a Minute!](https://open.spotify.com/album/5jT6MNndzzX9QZYMGaDECv) | 2:25 | 2022-04-15 | 2022-06-22 |
 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-09-02 | 2023-07-13 |
+| [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-03 |  |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH) | 3:52 | 2022-06-24 | 2022-07-29 |
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-07-08 | 2024-03-16 |
 | [Walking on Sunshine](https://open.spotify.com/track/1Z18G3Uk0uIgGwa8ugDhrX) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3), [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc) | [Walking on Sunshine](https://open.spotify.com/album/54aKScX1t1yVDRgU4SUee3) | 2:41 | 2023-06-16 | 2023-11-05 |

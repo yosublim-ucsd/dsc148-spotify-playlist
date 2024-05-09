@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,029 likes - 97 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,861 likes - 97 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 31 | [Chop An Axe](https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/7xF5E4uHp1lOUXJFdTcBrb) | 2:33 |
 | 32 | [Dirt Road Dollars \(feat\. Nate Kenyon\)](https://open.spotify.com/track/2gzZn5WD5Tb2uOLDw41eGi) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Road Dollars \(feat\. Nate Kenyon\)](https://open.spotify.com/album/4HFhm6f269FUupuUAyFmDr) | 4:38 |
 | 33 | [Southern Son Rising](https://open.spotify.com/track/1mxC7Co5LM1WgRoHasWT3l) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [JJ & Sissy](https://open.spotify.com/artist/57bzCuijw6UJJWH8X4MIBq) | [Southern Son Rising](https://open.spotify.com/album/5XGvXPGOcXITUh8TGfopVw) | 2:50 |
-| 34 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 |
+| 34 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jeremy Crews](https://open.spotify.com/artist/0IGDqrNOOGsVtgZphF4lAK) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 |
 | 35 | [Ride \(feat\. CRUCIFIX\)](https://open.spotify.com/track/0nyA6JFmmF1d1WBb5OHolX) | [Wade B](https://open.spotify.com/artist/6SRngj3jZv4ZH2HDHWMrdQ), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [When It's Real](https://open.spotify.com/album/2Bit7fuwbKJr2BG4b8nPUy) | 3:54 |
 | 36 | [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 |
 | 37 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |

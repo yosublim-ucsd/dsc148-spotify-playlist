@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Cami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,473 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,472 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Ciega](https://open.spotify.com/track/5byzJT0CyiTsDpuaMmeCII) | [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [HECHO EN CASA](https://open.spotify.com/album/68Y4Q96QrV5LfkNlxVvftl) | 4:00 |
 | 12 | [Y Bailamos Tanto](https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 3:48 |
 | 13 | [nunca es lo mismo y.y](https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [nunca es lo mismo y.y](https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV) | 3:14 |
-| 14 | [Moonlight](https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Moonlight](https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj) | 3:03 |
-| 15 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 14 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 15 | [Moonlight](https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Moonlight](https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj) | 3:03 |
 | 16 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 17 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 |
 | 18 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 41 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 |
 | 42 | [Cuarta pared](https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj) | [Javiera Electra](https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp) | [REPRÍS](https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP) | 4:29 |
 | 43 | [Baby del Rey](https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Baby del Rey](https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB) | 3:20 |
-| 44 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
-| 45 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
+| 44 | [Dunas](https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Dunas](https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE) | 4:04 |
+| 45 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 46 | [perfecta](https://open.spotify.com/track/2WOInVpAZEimBFsdWPDjVw) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 2:40 |
 | 47 | [Asumir](https://open.spotify.com/track/7Cy6yRnryMFgUb0Hx3Iv3I) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Asumir](https://open.spotify.com/album/5SgEb2eLkyxrz9CbaZi8UY) | 3:47 |
 | 48 | [Ella](https://open.spotify.com/track/7g6xa3WuI8ib38lC3lW18c) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Ella](https://open.spotify.com/album/5kOhw1gRVcgKYN3allQZW0) | 3:02 |

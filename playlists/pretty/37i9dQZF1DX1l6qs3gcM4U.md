@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,765 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,837 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 83 | [O Jeito Dela \- Radio Edit](https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq) | [Gasso](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 3:36 |
 | 84 | [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 |
 | 85 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
-| 86 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 |
-| 87 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 86 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 87 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 |
 | 88 | [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 |
 | 89 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
 | 90 | [Infinito](https://open.spotify.com/track/2e3KTRfz4appswSpkawQid) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [INFINITO](https://open.spotify.com/album/3LHg9Q9UzF2Ak9CvIqLzj3) | 3:19 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 94 | [Acerta](https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Acerta](https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn) | 3:55 |
 | 95 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 | 96 | [Fala Só](https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Fala Só](https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr) | 3:17 |
-| 97 | [Te Amo](https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy) | [Irmãos Verdades](https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr) | [Te Amo](https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE) | 3:33 |
-| 98 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 |
+| 97 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 |
+| 98 | [Te Amo](https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy) | [Irmãos Verdades](https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr) | [Te Amo](https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE) | 3:33 |
 | 99 | [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 |
 | 100 | [A Tua Boca](https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa) | [A Tua Boca](https://open.spotify.com/album/3YxkgTCDCHOXEwKDvi33M1) | 3:48 |
 

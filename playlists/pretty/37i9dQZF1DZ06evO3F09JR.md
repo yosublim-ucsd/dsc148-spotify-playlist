@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 ### [This Is Alessandro Cortini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR)
 
-> This is Alessandro Cortini\. The essential tracks, all in one playlist.
+> This is: Alessandro Cortini\. Alle wichtigen Tracks in einer Playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 48 songs - 4 hr 23 min
 
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 9 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 |
 | 10 | [Quarta Emosfera](https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 6:24 |
 | 11 | [The Hunt Begins](https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:20 |
-| 12 | [AMARO AMORE](https://open.spotify.com/track/1Vs7jfCcvA5KFhbhLyvRYy) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 6:00 |
+| 12 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 |
 | 13 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 |
 | 14 | [Quinta Emosfera](https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 7:41 |
 | 15 | [The Long Road](https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:22 |
-| 16 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 |
+| 16 | [AMARO AMORE](https://open.spotify.com/track/1Vs7jfCcvA5KFhbhLyvRYy) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 6:00 |
 | 17 | [CC Pad](https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:48 |
 | 18 | [Prima Emosfera](https://open.spotify.com/track/6fgz4BRCyxBEnCrnOATDup) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 4:57 |
 | 19 | [Mourning the Fallen](https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:38 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 47 | [LO SPECCHIO](https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:13 |
 | 48 | [VERDE](https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:02 |
 
-Snapshot ID: `ZjgdgAAAAAA4XXbuzUw0/lXXqyEHeOU2`
+Snapshot ID: `ZjlvAAAAAAAiTNCKyz4/Z7TWMOXu4n2y`

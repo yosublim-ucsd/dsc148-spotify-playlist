@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-1,099 songs - 2 day 8 hr 14 min
+1,100 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Normal](https://open.spotify.com/track/7rWUc4LuZ081oZ9VBZd6JK) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Normal](https://open.spotify.com/album/7jrM2dAzQWlu8WYTGnyhHo) | 2:38 | 2023-09-08 | 2023-11-11 |
 | [Nostalgic](https://open.spotify.com/track/4c7hAxxli9JQ5cu5qgVyEY) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Nostalgic](https://open.spotify.com/album/6mnYEPTbNbCGSNrrRr6DKZ) | 3:37 | 2023-05-11 | 2023-06-02 |
 | [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 | 2022-08-23 | 2022-08-31 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-08 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-22 | 2023-03-09 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-09-16 | 2023-09-19 |
 | [Notice Me](https://open.spotify.com/track/0y5ychpMHo8cdpKks8qhag) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [No Signal](https://open.spotify.com/album/3BLcsAbU41bMIhW3s37bMK) | 2:17 | 2023-04-14 | 2023-05-19 |
@@ -785,7 +786,7 @@
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 | 2022-11-12 |
 | [Potential](https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [DBE World](https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82) | 2:40 | 2023-07-06 | 2023-08-18 |
 | [Potential](https://open.spotify.com/track/4bUeWqduRIk4Cqw461g7rz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Potential](https://open.spotify.com/album/2YARHFuhxiS1KWw3D6RFhY) | 2:40 | 2023-07-06 | 2023-07-08 |
-| [Prada Dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Prada Dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-15 |  |
+| [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-15 |  |
 | [Prague](https://open.spotify.com/track/5wv5S85hL6ZWSglUvBESMJ) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Prague](https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC) | 3:07 | 2023-01-06 | 2023-03-10 |
 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 | 2022-05-20 | 2022-08-05 |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-03-08 | 2023-03-09 |

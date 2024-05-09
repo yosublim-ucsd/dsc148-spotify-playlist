@@ -283,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Confia Mais",
+        "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Confia Mais",
+      "url": "https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4"
+    },
+    {
+      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -850,7 +872,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 186874,
       "name": "Manh\u00e3s Azuis",
       "url": "https://open.spotify.com/track/0rH16sFmGrnZoSF0WxqdqR"

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-515 songs - 1 day 20 hr 3 min
+516 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2021-12-08 | 2022-02-22 |
 | [Ardour](https://open.spotify.com/track/2zdqREDAOMvugQI0UObaAK) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v) | [Ascent / Ardour](https://open.spotify.com/album/6hOMI84T4i4mkHknCE1sOf) | 3:59 | 2021-12-08 | 2024-04-13 |
 | [Arrows](https://open.spotify.com/track/7vj41CP4k5JEn5zxLDGh8K) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Talaria](https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2) | 6:18 | 2021-12-08 | 2023-04-23 |
+| [At Peace](https://open.spotify.com/track/4byjEiPkQDNTnmHMU0izqA) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [At Peace](https://open.spotify.com/album/1DwY4m8cERH7s3oqMqrRuo) | 3:21 | 2024-05-03 |  |
 | [Athena](https://open.spotify.com/track/4sYlMnN8YyYZUkmwGsAxoZ) | [Trilucid](https://open.spotify.com/artist/2T6mOFQ2RGAypMuKtIg9ic) | [Athena](https://open.spotify.com/album/0DbyxwhSYTQj2ZrPndI2Wu) | 3:44 | 2023-02-03 |  |
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-03 | 2024-04-19 |
 | [Attraction](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Attraction](https://open.spotify.com/album/6e2AkcWcXgmgzNNW6HZpwf) | 2:52 | 2021-12-08 | 2024-04-13 |
@@ -494,7 +495,7 @@
 | [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-08 | 2023-03-10 |
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 | 2023-01-06 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
-| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 |  |
+| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 | 2024-05-09 |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 | 2024-04-13 |

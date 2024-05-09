@@ -482,6 +482,32 @@
     {
       "album": {
         "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209042,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3tPVvPnyiD4IR5Un9rCVBf"
+    },
+    {
+      "album": {
+        "name": "Nave Especial",
         "url": "https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL"
       },
       "artists": [
@@ -500,7 +526,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 209042,
       "name": "Nada",
       "url": "https://open.spotify.com/track/66B1wJpeTZrDSgsbHGcjzW"

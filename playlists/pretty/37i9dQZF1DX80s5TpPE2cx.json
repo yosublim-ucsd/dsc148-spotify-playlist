@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9823,
+  "num_followers": 9837,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+        "name": "Mango Juice & Bad Decisions",
+        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "Andr\u0119 Wolff",
+          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
         }
       ],
-      "duration_ms": 146447,
-      "name": "Wetin Dey",
-      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
+      "duration_ms": 161828,
+      "name": "'00 Nostalgia",
+      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -359,22 +363,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
       },
       "artists": [
         {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+      "duration_ms": 146447,
+      "name": "Wetin Dey",
+      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -411,6 +411,54 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Boytoy",
+        "url": "https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7"
+      },
+      "artists": [
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Boytoy",
+      "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
         "name": "rare.",
         "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
@@ -435,54 +483,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "SARO",
-        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
-      },
-      "artists": [
-        {
-          "name": "Jinmi Abduls",
-          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
-        }
-      ],
-      "duration_ms": 182475,
-      "name": "SARO",
-      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Boytoy",
-        "url": "https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7"
-      },
-      "artists": [
-        {
-          "name": "SGaWD",
-          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Boytoy",
-      "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Everything Pretty",
         "url": "https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 202648,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "MONICA",
+      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -523,34 +539,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+        "name": "Skedaddle",
+        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "MONICA",
-      "url": "https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM"
+      "duration_ms": 150858,
+      "name": "Skedaddle",
+      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Skedaddle",
-        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 150858,
-      "name": "Skedaddle",
-      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
+      "duration_ms": 191179,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 191179,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -655,30 +655,22 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "Desire (feat. Funbi & Tay Iwar)",
-        "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
       },
       "artists": [
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        },
-        {
-          "name": "Funbi",
-          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
-        },
-        {
           "name": "Tay Iwar",
           "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 245655,
-      "name": "Desire (feat. Funbi & Tay Iwar)",
-      "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
+      "duration_ms": 191898,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -727,26 +719,6 @@
       "duration_ms": 187307,
       "name": "FINAL CHAMPION",
       "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 191898,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -827,6 +799,34 @@
       "duration_ms": 196603,
       "name": "Air",
       "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "Desire (feat. Funbi & Tay Iwar)",
+        "url": "https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Higo",
+          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
+        },
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 245655,
+      "name": "Desire (feat. Funbi & Tay Iwar)",
+      "url": "https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo"
     },
     {
       "added_at": "2024-04-26 00:01:00",

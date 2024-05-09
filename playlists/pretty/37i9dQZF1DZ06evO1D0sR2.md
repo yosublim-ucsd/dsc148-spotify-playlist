@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is JJ Hairston\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,590 likes - 50 songs - 5 hr 43 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [It's Still Hallelujah \(feat\. Brittney Wright, Phil Bryant, Pocket of Hope & Mav City Gospel Choir\)](https://open.spotify.com/track/6JGkcnUVNf4gf2xCgJNgdg) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittney Wright](https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw), [Phillip Bryant](https://open.spotify.com/artist/4puG7yE9LNxmaYFE6Xpn2k), [Pocket Of Hope](https://open.spotify.com/artist/6l2vPgjeinkte8p5r6zqKc), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 6:42 |
 | 50 | [Love Lifted Me](https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 7:40 |
 
-Snapshot ID: `ZjgdgAAAAAAapUWiPSpiPnvJffGXBl1j`
+Snapshot ID: `ZjlvAAAAAABuADRGb9FcQsUvrdBTpBJg`

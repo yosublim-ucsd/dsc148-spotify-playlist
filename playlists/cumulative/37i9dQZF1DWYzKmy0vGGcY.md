@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-250 songs - 12 hr 25 min
+251 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Wichita Lineman](https://open.spotify.com/track/0lQOBTEMB6ee6IoedM3QUO) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Howard Willing](https://open.spotify.com/artist/3I37MUvWY6evRUFGpgPJHu) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 3:10 | 2022-05-30 | 2022-11-13 |
 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 | 2022-05-30 | 2024-04-19 |
 | [Wishin' And Hopin'](https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:56 | 2022-05-30 | 2024-04-19 |
-| [Wishin' And Hopin' \- Stereo Version](https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Girl Called Dusty](https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl) | 2:53 | 2021-04-07 |  |
+| [Wishin' And Hopin' \- Stereo Version](https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [A Girl Called Dusty](https://open.spotify.com/album/1ulDMEpgJC1L4W05dMyqHl) | 2:53 | 2021-04-07 | 2024-05-09 |
 | [Wishin' And Hopin' \- Stereo Version](https://open.spotify.com/track/1t2azJDKm0IW6NGEkFaGO8) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:54 | 2022-05-30 | 2022-11-13 |
 | [Words](https://open.spotify.com/track/0tCxODz1nTZFtkxyDskr3Y) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/6vA0IJrsAV9WoM4OZhk6X7) | 3:15 | 2022-05-30 | 2022-11-13 |
 | [Words](https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1) | 3:17 | 2021-04-07 |  |
@@ -251,6 +251,7 @@
 | [Yesterday \- Remastered](https://open.spotify.com/track/1e0hllQ23AG0QGFgezgLOq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi) | 2:05 | 2021-04-07 | 2024-05-04 |
 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3iD2CCv5bsJRIaqJRYD0uJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:05 | 2022-05-30 | 2022-11-13 |
 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 | 2022-05-30 | 2024-04-19 |
+| [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 | 2024-05-03 |  |
 | [You Don't Own Me](https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1) | 2:30 | 2021-04-07 |  |
 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2022-05-30 | 2024-04-19 |
 | [You Don't Own Me](https://open.spotify.com/track/5lJ82USsgwL4e137fqmj2P) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [20th Century Masters: The Millennium Collection: Best Of Lesley Gore](https://open.spotify.com/album/40SQtbiQLIU8TMTgCCB7KB) | 2:31 | 2022-05-30 | 2022-11-13 |

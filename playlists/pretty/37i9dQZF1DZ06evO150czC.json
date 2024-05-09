@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 19445,
+  "num_followers": 19450,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAAqwah8tcY3F089HsUHrUVT",
+  "snapshot_id": "ZjlvAAAAAACqHE+UTcl4F8dHPWEfpdzW",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Para o Templo",
-        "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Entre Para o Templo",
-      "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Entre Para o Templo",
+        "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 286023,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
+      "duration_ms": 262000,
+      "name": "Entre Para o Templo",
+      "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinto o Teu Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 271539,
-      "name": "Sinto o Teu Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "500 Graus - Drive In",
         "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 429708,
       "name": "500 Graus - Drive In",
       "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+        "name": "Sinto o Teu Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
       },
       "artists": [
         {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+      "duration_ms": 271539,
+      "name": "Sinto o Teu Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Smit Mehta",
     "url": "https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz"
   },
-  "snapshot_id": "AAAAlkWxf7lJhATdeokbnmInFtypEIBX",
+  "snapshot_id": "AAAAl9WW0tvzd4x7MsILG1TZpVyK3gm/",
   "tracks": [
     {
       "added_at": "2023-06-10 13:20:10",
@@ -2219,6 +2219,30 @@
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
+    },
+    {
+      "added_at": "2024-05-08 16:34:15",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Roisee",
+          "url": "https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
     }
   ],
   "unique_name": "Aish",

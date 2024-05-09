@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 263439,
+  "num_followers": 263593,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZgQsLwAAAACnuywD7gnJYUbK5DorQd9/",
   "tracks": [
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
-    },
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Shock Of The New Era",
-        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
+        "name": "SS501 / Rebirth",
+        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
       },
       "artists": [
         {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 225594,
-      "name": "Shock",
-      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
+      "duration_ms": 168653,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SS501 / Rebirth",
-        "url": "https://open.spotify.com/album/45b7ZY0JnkHSXOvIph0a0s"
+        "name": "Shock Of The New Era",
+        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6ikuCPBHanUnebgfeGJ0id"
+      "duration_ms": 225594,
+      "name": "Shock",
+      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2bYQizcDT7UdexHetsvQNa"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "12:30",
-      "url": "https://open.spotify.com/track/0uvl4TuFhdWZshHX9Hd6kI"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Volume Up",
         "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
       },
@@ -1327,6 +1295,38 @@
       "duration_ms": 230008,
       "name": "Volume Up",
       "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "SS501 \uc2a4\ud398\uc15c \uc568\ubc94",
+        "url": "https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 203678,
+      "name": "U R Man",
+      "url": "https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SS501 \uc2a4\ud398\uc15c \uc568\ubc94",
-        "url": "https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2bYQizcDT7UdexHetsvQNa"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 203678,
-      "name": "U R Man",
-      "url": "https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z"
+      "duration_ms": 233848,
+      "name": "12:30",
+      "url": "https://open.spotify.com/track/0uvl4TuFhdWZshHX9Hd6kI"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Name is 4minute",
-        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 186775,
-      "name": "What's your name?",
-      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Every night",
         "url": "https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "EAR FUN",
-        "url": "https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk"
+        "name": "Name is 4minute",
+        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
         }
       ],
-      "duration_ms": 236512,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE"
+      "duration_ms": 186775,
+      "name": "What's your name?",
+      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1487,6 +1471,22 @@
       "duration_ms": 217738,
       "name": "First Love",
       "url": "https://open.spotify.com/track/2LdOm1BBfBbQjw9LrqmfuC"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "EAR FUN",
+        "url": "https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 236512,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "4minute WORLD",
-        "url": "https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 206027,
-      "name": "Whatcha Doin' Today",
-      "url": "https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "ROMAN",
         "url": "https://open.spotify.com/album/4UYktbMekvR3lyX6uHqHLU"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 210677,
       "name": "No more perfume on you",
       "url": "https://open.spotify.com/track/3UFnHBPaPkZhe04IqqlUcn"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "4minute WORLD",
+        "url": "https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 206027,
+      "name": "Whatcha Doin' Today",
+      "url": "https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH"
     },
     {
       "added_at": "2024-03-27 14:24:46",

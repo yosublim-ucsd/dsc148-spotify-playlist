@@ -1,13 +1,133 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=WWsrE8qBQWy4eNx9bpkpvw\"> Dayo Bello </a>. Updates every Wednesday.",
-  "num_followers": 238446,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=2khTaVjqRgusz1BA7_IgQw\"> Kenji </a>. Updates every Wednesday.",
+  "num_followers": 238744,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRz3QAAAADivyoihd2b1gGCcZAeodd1",
+  "snapshot_id": "ZjuhgAAAAABr79UslV34boEeuQj/sl4A",
   "tracks": [
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "runnin' (1999)",
+        "url": "https://open.spotify.com/album/4xYUtjglpueJv0MumEPmg9"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "runnin' (1999)",
+      "url": "https://open.spotify.com/track/6Nb6m3XQLG5Qy8TFd5VpkU"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "What U Didn't Know",
+        "url": "https://open.spotify.com/album/1MrE81g70Hgebwf10nYZAJ"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/2kgS4ODScoyO1bJXxz2ANb"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "WhosMaray",
+        "url": "https://open.spotify.com/album/3J2OSmWsPCZ8MtR6INXowo"
+      },
+      "artists": [
+        {
+          "name": "Maray",
+          "url": "https://open.spotify.com/artist/6ChY6xBN5iaiP59I0UyRGw"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/56UJfi2EV1fXl800yetpch"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "I Never Know",
+        "url": "https://open.spotify.com/album/0eiUHWh8TJ6L1cNLwESKYr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hex",
+          "url": "https://open.spotify.com/artist/05vHPIc91srHZA2JhBQzeX"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "I Never Know",
+      "url": "https://open.spotify.com/track/7ibwuLGI5wxfunuc7wDd6q"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "undecided'",
+        "url": "https://open.spotify.com/album/3R6bCb3Lrl1PU07Q4pxB3h"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "undecided'",
+      "url": "https://open.spotify.com/track/3tdTzfiK5MMntCzwqZocuU"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "Just2",
+        "url": "https://open.spotify.com/album/5J0NGpEsMrevbM4BSILTdr"
+      },
+      "artists": [
+        {
+          "name": "Gwamz",
+          "url": "https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Just2",
+      "url": "https://open.spotify.com/track/0PRWuHkfVjPvkG67NDXqgS"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "LSTN!!!",
+        "url": "https://open.spotify.com/album/5N9OrPMq2eHKwNq2sLYCjY"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 150002,
+      "name": "WAITING!",
+      "url": "https://open.spotify.com/track/2Aq2ENKCEQdtHk001AQNcB"
+    },
     {
       "added_at": "2024-05-03 05:19:25",
       "album": {
@@ -103,6 +223,22 @@
       "duration_ms": 98313,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3GL5LrAIvgyXNOXP9A0Lyl"
+    },
+    {
+      "added_at": "2024-05-08 16:00:00",
+      "album": {
+        "name": "bills",
+        "url": "https://open.spotify.com/album/37BKEnOyjkaUlxMHLIXQlk"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 109629,
+      "name": "bills",
+      "url": "https://open.spotify.com/track/6htDASOleodU3jVUkWqG95"
     },
     {
       "added_at": "2024-05-03 05:19:25",
@@ -647,22 +783,6 @@
       "duration_ms": 182000,
       "name": "NIGHTS WITHOUT YOU",
       "url": "https://open.spotify.com/track/1cEt75NXTPx7vzka7lKG38"
-    },
-    {
-      "added_at": "2024-04-24 14:45:44",
-      "album": {
-        "name": "The Parable",
-        "url": "https://open.spotify.com/album/0kIZyNWU1oAOkuut7M3vww"
-      },
-      "artists": [
-        {
-          "name": "Secily",
-          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "The Parable",
-      "url": "https://open.spotify.com/track/6bOPVeEO9A7DdpIVxx24VC"
     },
     {
       "added_at": "2024-04-24 14:45:44",
@@ -1847,22 +1967,6 @@
     {
       "added_at": "2024-03-29 15:29:30",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/6fldEdD02hJZKlYTe3GG0G"
-      },
-      "artists": [
-        {
-          "name": "Ois\u00edn",
-          "url": "https://open.spotify.com/artist/3UVyDYO9EDHyzHq65aEtkU"
-        }
-      ],
-      "duration_ms": 243196,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/0eNxReuHiJqNwKAI9SNgQh"
-    },
-    {
-      "added_at": "2024-03-29 15:29:30",
-      "album": {
         "name": "Texting",
         "url": "https://open.spotify.com/album/7aRiVobhVZ9hDN9jruxFvi"
       },
@@ -2067,26 +2171,6 @@
       "duration_ms": 219652,
       "name": "Better Care - Remix",
       "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
-        "name": "waiting!",
-        "url": "https://open.spotify.com/album/2HnRFazeo5FdaGm93IyONF"
-      },
-      "artists": [
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        },
-        {
-          "name": "3ee",
-          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
-        }
-      ],
-      "duration_ms": 150002,
-      "name": "waiting!",
-      "url": "https://open.spotify.com/track/36ccoNmi9e2noC3xnmKr0Y"
     },
     {
       "added_at": "2024-03-22 08:37:07",
@@ -2499,22 +2583,6 @@
     {
       "added_at": "2024-03-22 08:37:07",
       "album": {
-        "name": "Gundam",
-        "url": "https://open.spotify.com/album/6aVHDeoD34VTxPjdnzKxdR"
-      },
-      "artists": [
-        {
-          "name": "Danny Polo",
-          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
-        }
-      ],
-      "duration_ms": 123160,
-      "name": "Gundam",
-      "url": "https://open.spotify.com/track/0LmmGzRsBdfh7vq4X7gTO3"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
         "name": "Countdown",
         "url": "https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48"
       },
@@ -2527,54 +2595,6 @@
       "duration_ms": 140480,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
-        "name": "headtone",
-        "url": "https://open.spotify.com/album/1Cg4iMQqyKc6IgZmAb1nvW"
-      },
-      "artists": [
-        {
-          "name": "Janella Salvador",
-          "url": "https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "headtone",
-      "url": "https://open.spotify.com/track/3Z9kvjaKsolJgeSiLcM90v"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/3QGlsJMDgIccuP4LmiWWzR"
-      },
-      "artists": [
-        {
-          "name": "J.Howell",
-          "url": "https://open.spotify.com/artist/5GU7EEftOdxcqM7nPoXLwq"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "I'm Lyin",
-      "url": "https://open.spotify.com/track/3gyvO7mW1NxZYsZhlZHY0A"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
-        "name": "Khartoum",
-        "url": "https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 211947,
-      "name": "Khartoum",
-      "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
     },
     {
       "added_at": "2024-03-22 08:37:07",
@@ -2631,22 +2651,6 @@
       "duration_ms": 196846,
       "name": "MERLOT",
       "url": "https://open.spotify.com/track/30UDUJFpL8hEY6D0eiV7Gc"
-    },
-    {
-      "added_at": "2024-03-22 08:37:07",
-      "album": {
-        "name": "Red Flags EP",
-        "url": "https://open.spotify.com/album/1HvPtBAAwjQFY9Jw2xSEZa"
-      },
-      "artists": [
-        {
-          "name": "Eric Ryan",
-          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
-        }
-      ],
-      "duration_ms": 160340,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/5GWWL4561tlnRzl86oaOXP"
     },
     {
       "added_at": "2024-03-08 15:35:11",

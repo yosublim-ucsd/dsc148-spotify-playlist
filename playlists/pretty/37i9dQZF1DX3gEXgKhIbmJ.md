@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,606 likes - 63 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,633 likes - 63 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 |
 | 2 | [Boa Sorte Mesmo](https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:26 |
 | 3 | [LINGERIE](https://open.spotify.com/track/7BAu2493qreRH66gxk5YLY) | [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [LINGERIE](https://open.spotify.com/album/0ulXoe2khr8mDnfnic8ARc) | 3:31 |
-| 4 | [Promessas](https://open.spotify.com/track/1rvjnH2fRXYl0mbOCr4RcR) | [ROGI](https://open.spotify.com/artist/55pr8wvZuMDZjcq4MSNV9V), [CRVZ](https://open.spotify.com/artist/69GIdMUUG6BmqBP3jnfAyx) | [Promessas](https://open.spotify.com/album/6noWydtpj5Gk94e1DuVq2q) | 2:15 |
+| 4 | [Promessas](https://open.spotify.com/track/1rvjnH2fRXYl0mbOCr4RcR) | [ROGI](https://open.spotify.com/artist/55pr8wvZuMDZjcq4MSNV9V), [CRUZ](https://open.spotify.com/artist/1VUEpMDWlXReLnoKlJ091k), [CRVZ](https://open.spotify.com/artist/69GIdMUUG6BmqBP3jnfAyx) | [Promessas](https://open.spotify.com/album/6noWydtpj5Gk94e1DuVq2q) | 2:15 |
 | 5 | [Fui só um mano](https://open.spotify.com/track/1pxXdpMiFgVVaa4rdGdhLZ) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Anti Ayoa](https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 2:43 |
 | 6 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 |
 | 7 | [jersey club “violin”](https://open.spotify.com/track/46sUJtk1GQlHct43GC4THX) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [jersey club “violin”](https://open.spotify.com/album/0bJ25qoZXeKXgOQNQPvw9h) | 2:33 |

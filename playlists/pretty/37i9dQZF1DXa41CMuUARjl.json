@@ -1,10 +1,10 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from TSHA",
-  "num_followers": 473550,
+  "num_followers": 473631,
   "original_name": "New Music Friday Dance",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZjRhQAAAAAC9KxH3F60jJUsennJesVku",
   "tracks": [
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Not Giving You Up (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Not Giving You Up - Vandelux Remix",
-      "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Hearts Like Dynamite",
         "url": "https://open.spotify.com/album/4Z3Lq92zQ2iB0fiwvhlR3N"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 226703,
       "name": "Fall Between The Cracks",
       "url": "https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Not Giving You Up (Vandelux Remix)",
+        "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Not Giving You Up - Vandelux Remix",
+      "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -943,38 +943,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Up is Down",
-        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
-      },
-      "artists": [
-        {
-          "name": "Zingara",
-          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
-        }
-      ],
-      "duration_ms": 205975,
-      "name": "Up is Down",
-      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
@@ -999,6 +967,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Up is Down",
+        "url": "https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        }
+      ],
+      "duration_ms": 205975,
+      "name": "Up is Down",
+      "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Sweet Shop (Hamdi Remix)",
         "url": "https://open.spotify.com/album/5TjOHQlI8CSEzMJCJyspZl"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 274308,
       "name": "Sweet Shop - Hamdi Remix",
       "url": "https://open.spotify.com/track/6CdGDfcTOSSCsNd7jUW8RJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Interstate",
+        "url": "https://open.spotify.com/album/1WAtzSNaL8Wv6ORBioGx6W"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 320187,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2uXto29uIPwlylelzRKCbn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Interstate",
-        "url": "https://open.spotify.com/album/1WAtzSNaL8Wv6ORBioGx6W"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 320187,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2uXto29uIPwlylelzRKCbn"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/71CnvHZYg7xFHoxDzxNqV6"
       },
@@ -1091,54 +1091,6 @@
       "duration_ms": 202536,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1kk8X8jLAsLC9Lfar5RBxN"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Riff",
-        "url": "https://open.spotify.com/album/4YREza2vW92hx1aumCceSf"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Riff",
-      "url": "https://open.spotify.com/track/7xG6aGSYbas8SWYNtAJrPM"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "In The Dark EP",
-        "url": "https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 404618,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1163,6 +1115,54 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Riff",
+        "url": "https://open.spotify.com/album/4YREza2vW92hx1aumCceSf"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Riff",
+      "url": "https://open.spotify.com/track/7xG6aGSYbas8SWYNtAJrPM"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "In The Dark EP",
+        "url": "https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "duration_ms": 404618,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 136615,
       "name": "Alright",
       "url": "https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Don't Get Lonely",
+        "url": "https://open.spotify.com/album/4cy8xfXyhiaAHvVutQBp7c"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I Don't Get Lonely",
+      "url": "https://open.spotify.com/track/6A3OwPiwrbqbLGJakO6JWr"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 181300,
       "name": "Nite Mode",
       "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "I Don't Get Lonely",
-        "url": "https://open.spotify.com/album/4cy8xfXyhiaAHvVutQBp7c"
-      },
-      "artists": [
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I Don't Get Lonely",
-      "url": "https://open.spotify.com/track/6A3OwPiwrbqbLGJakO6JWr"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Everything Blooms Around Her",
-        "url": "https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "Everything Blooms Around Her",
-      "url": "https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 224640,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Everything Blooms Around Her",
+        "url": "https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Everything Blooms Around Her",
+      "url": "https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Luxo",
         "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
       },
@@ -1387,46 +1371,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/1ajXJVh4EEkn71FvyVVi4N"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
       },
       "artists": [
         {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
         }
       ],
-      "duration_ms": 220941,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/2eRMGIWEJkOTSCEVEfISGn"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Distant Memories",
-        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Hicky & Kalo",
-          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
-        }
-      ],
-      "duration_ms": 298168,
-      "name": "Distant Memories",
-      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
+      "duration_ms": 158400,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1467,6 +1423,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Distant Memories",
+        "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        }
+      ],
+      "duration_ms": 298168,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/1cnw1OqjxMWJvONgR6NvfU"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 272903,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1ajXJVh4EEkn71FvyVVi4N"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/2eRMGIWEJkOTSCEVEfISGn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Bass Drop",
+        "url": "https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Bass Drop",
+      "url": "https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Bass Drop",
-        "url": "https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05"
-      },
-      "artists": [
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Bass Drop",
-      "url": "https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
         "url": "https://open.spotify.com/album/6pj5wFblwkZtQZEruM7bOm"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 134051,
       "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
       "url": "https://open.spotify.com/track/7j4v6YX6IU7niifWp01q8v"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "MY LOVER'S MIND",
-        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "MY LOVER'S MIND",
-      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1603,6 +1587,74 @@
       "duration_ms": 171744,
       "name": "Love You Till Tomorrow",
       "url": "https://open.spotify.com/track/6IKujTZgwUur3VTNJOM38T"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Abusadora",
+        "url": "https://open.spotify.com/album/6ABjpGCQl8Svu0XfYVa00X"
+      },
+      "artists": [
+        {
+          "name": "Kamikaze Kid",
+          "url": "https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa"
+        },
+        {
+          "name": "Lucky Guess",
+          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/18KHTRWqBsXwr70GkeJ7vA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "MY LOVER'S MIND",
+        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "MY LOVER'S MIND",
+      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 393066,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 180396,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1651,54 +1703,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
       "artists": [
         {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
         }
       ],
-      "duration_ms": 393066,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 180396,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Abusadora",
-        "url": "https://open.spotify.com/album/6ABjpGCQl8Svu0XfYVa00X"
-      },
-      "artists": [
-        {
-          "name": "Kamikaze Kid",
-          "url": "https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa"
-        },
-        {
-          "name": "Lucky Guess",
-          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/18KHTRWqBsXwr70GkeJ7vA"
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Little Luv",
         "url": "https://open.spotify.com/album/6kIQiqvRdTriDaBxfWfceo"
       },
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Given Up On You / Driver",
-        "url": "https://open.spotify.com/album/6mYCR6U0GYZxIbjTfA7ITk"
-      },
-      "artists": [
-        {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "ZOE ASKA",
-          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Given Up On You",
-      "url": "https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Infected",
         "url": "https://open.spotify.com/album/7mAQgD8U3hRg96XiE7uaCa"
       },
@@ -1835,18 +1815,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Blomst",
-        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+        "name": "Given Up On You / Driver",
+        "url": "https://open.spotify.com/album/6mYCR6U0GYZxIbjTfA7ITk"
       },
       "artists": [
         {
-          "name": "Meera (NO)",
-          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "ZOE ASKA",
+          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
         }
       ],
-      "duration_ms": 553648,
-      "name": "Blomst",
-      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
+      "duration_ms": 266000,
+      "name": "Given Up On You",
+      "url": "https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 191040,
       "name": "Frozen Waterfall",
       "url": "https://open.spotify.com/track/33QpZRcby2r1MaJxL107DI"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Blomst",
+        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "duration_ms": 553648,
+      "name": "Blomst",
+      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Got Your Man EP",
-        "url": "https://open.spotify.com/album/7LRvgFb0eUMuGjUPxTbRQb"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        }
-      ],
-      "duration_ms": 133388,
-      "name": "I Got Your Man",
-      "url": "https://open.spotify.com/track/2xiJJyVAkCYWRD43dIQPTh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Worm",
         "url": "https://open.spotify.com/album/502EsAvXeuEJt9yYasx9fg"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 316000,
       "name": "Worm",
       "url": "https://open.spotify.com/track/4qBe4cwJyOwj83R1GDRqR3"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Got Your Man EP",
+        "url": "https://open.spotify.com/album/7LRvgFb0eUMuGjUPxTbRQb"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        }
+      ],
+      "duration_ms": 133388,
+      "name": "I Got Your Man",
+      "url": "https://open.spotify.com/track/2xiJJyVAkCYWRD43dIQPTh"
     },
     {
       "added_at": "2024-05-03 04:00:00",

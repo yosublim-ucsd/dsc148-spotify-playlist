@@ -1,10 +1,10 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 818823,
+  "num_followers": 818917,
   "original_name": "Dark & Stormy",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "Zf0CQAAAAAAbTvhTA+AAHq7DAWb4FM04",
   "tracks": [
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 254263,
-      "name": "Evol",
-      "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 207718,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 254263,
+      "name": "Evol",
+      "url": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I Can't Go on Without You",
-        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "I Can't Go on Without You",
+        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 148888,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 148888,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "The Wilds Quartets",
-        "url": "https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233438,
-      "name": "Through a Glass (Quartet Version)",
-      "url": "https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Everything We Do Is Wrong",
         "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 247588,
       "name": "Everything We Do Is Wrong",
       "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "The Wilds Quartets",
+        "url": "https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233438,
+      "name": "Through a Glass (Quartet Version)",
+      "url": "https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS"
     },
     {
       "added_at": "2024-03-22 04:00:00",

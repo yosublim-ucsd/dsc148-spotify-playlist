@@ -98,7 +98,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 304361,
       "name": "As We Speak",
       "url": "https://open.spotify.com/track/0KHP9Nl8VktnIHuOvqlTpf"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 236648,
       "name": "Ranjani",
       "url": "https://open.spotify.com/track/0XOgdA0rnPTwtEin26w5Gv"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 245510,
       "name": "Savera",
       "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
@@ -1856,6 +1856,24 @@
       "duration_ms": 355266,
       "name": "Seekho Na",
       "url": "https://open.spotify.com/track/0hFEqnYMbPJab6KjdKETkx"
+    },
+    {
+      "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355266,
+      "name": "Seekho Na",
+      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
     },
     {
       "album": {

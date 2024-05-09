@@ -19917,6 +19917,24 @@
     },
     {
       "album": {
+        "name": "Where are you (The Last 10 Years X Heize)",
+        "url": "https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "Where are you",
+      "url": "https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh"
+    },
+    {
+      "album": {
         "name": "Where To Go",
         "url": "https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s"
       },

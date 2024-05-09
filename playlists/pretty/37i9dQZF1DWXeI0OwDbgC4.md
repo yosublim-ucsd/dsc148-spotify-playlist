@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,889 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,906 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 72 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
 | 73 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
 | 74 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
-| 75 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
-| 76 | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Shanell Alyssa](https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n) | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR) | 3:37 |
+| 75 | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Shanell Alyssa](https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n) | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR) | 3:37 |
+| 76 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
 | 77 | [Tell Me To Go](https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Tell Me To Go](https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7) | 1:51 |
 | 78 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 79 | [Just Like That](https://open.spotify.com/track/1te4ZBKhvm1lq5wL0vecWt) | [Fathoms](https://open.spotify.com/artist/2t628PyYe9jNFx7IzdJDRJ), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Just Like That](https://open.spotify.com/album/54lXnnA9VeI9hBd0NSmRGN) | 3:26 |

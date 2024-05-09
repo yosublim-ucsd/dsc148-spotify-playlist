@@ -13178,10 +13178,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "Mashup 2024",
+        "url": "https://open.spotify.com/album/1zfWgLPvRz1j8PzkjiBDet"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Gata Only (Mashup)",
+      "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
     },
     {
       "album": {
@@ -24638,7 +24656,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 167102,
       "name": "Non C'\u00e8 Love",
       "url": "https://open.spotify.com/track/6SbD3zpxiqS9F4YHtaGEC1"
@@ -27642,7 +27660,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/41sQhmjhPRrMv8jFKzJTRV"
@@ -32204,7 +32222,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 177599,
       "name": "Solo Un'Ora",
       "url": "https://open.spotify.com/track/1fvlYWQjBaZOuRRwbYHAYm"
@@ -36182,6 +36200,24 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "album": {
+        "name": "VELENO",
+        "url": "https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198740,
+      "name": "VELENO",
+      "url": "https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi"
     },
     {
       "album": {

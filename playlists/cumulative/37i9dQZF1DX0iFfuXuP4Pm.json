@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 240000,
       "name": "Closer You and I",
       "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
@@ -400,6 +400,28 @@
       "duration_ms": 174545,
       "name": "Di kita trip",
       "url": "https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt"
+    },
+    {
+      "album": {
+        "name": "Di Ko Kasalanan (feat. gins&melodies)",
+        "url": "https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199708,
+      "name": "Di Ko Kasalanan (feat. gins&melodies)",
+      "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
     },
     {
       "album": {
@@ -520,6 +542,28 @@
       "duration_ms": 260000,
       "name": "FLYYY",
       "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
+    },
+    {
+      "album": {
+        "name": "FOOLISHLY",
+        "url": "https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E"
+      },
+      "artists": [
+        {
+          "name": "Lucas Miguel",
+          "url": "https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA"
+        },
+        {
+          "name": "Athena Gail",
+          "url": "https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "FOOLISHLY",
+      "url": "https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab"
     },
     {
       "album": {
@@ -804,6 +848,28 @@
       "duration_ms": 250093,
       "name": "Ikot",
       "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
+    },
+    {
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        },
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179125,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
     },
     {
       "album": {
@@ -1269,6 +1335,32 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168102,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
+    },
+    {
+      "album": {
         "name": "Munchies",
         "url": "https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk"
       },
@@ -1578,7 +1670,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 197009,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV"
@@ -1966,6 +2058,28 @@
       "duration_ms": 198000,
       "name": "SOBRANG SOLID",
       "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"
+    },
+    {
+      "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "album": {

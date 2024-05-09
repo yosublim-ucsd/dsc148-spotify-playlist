@@ -1,10 +1,10 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 188207,
+  "num_followers": 188286,
   "original_name": "Ambient X",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZWofOQAAAADW4+i9CJpTZwlJ16vd7NE9",
   "tracks": [
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
         }
       ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "All I Hear Is Birds (Focus Rework)",
-        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 248506,
-      "name": "All I Hear Is Birds - Focus Rework",
-      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "on my new piano",
-        "url": "https://open.spotify.com/album/4a63M6pks1EnuhO60gXb6P"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 149014,
-      "name": "Everything, Everywhere",
-      "url": "https://open.spotify.com/track/1s4rq05zmgghbxtLdXstGr"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/3ZprQt0tSHmf9Y5bGQ1dGy"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 138818,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "on my new piano",
+        "url": "https://open.spotify.com/album/4a63M6pks1EnuhO60gXb6P"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 149014,
+      "name": "Everything, Everywhere",
+      "url": "https://open.spotify.com/track/1s4rq05zmgghbxtLdXstGr"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 205174,
-      "name": "Of Woods and Seas",
-      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Two Chambers",
         "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 223333,
       "name": "Two Chambers",
       "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1055,22 +1055,6 @@
       "duration_ms": 208000,
       "name": "Movement VI",
       "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Origami Rework",
-        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Origami Rework",
-      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 205174,
+      "name": "Of Woods and Seas",
+      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "everybody's gone home (florence slowed version)",
         "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Dustlight / \u5149\u306e\u5875 / Afterglow",
         "url": "https://open.spotify.com/album/577opext6ZuqRDwowBmMdc"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 228956,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
       "artists": [
         {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+      "duration_ms": 140453,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Sidney's Lullaby",
+        "url": "https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 199310,
+      "name": "Sidney's Lullaby",
+      "url": "https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Sidney's Lullaby",
-        "url": "https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 199310,
-      "name": "Sidney's Lullaby",
-      "url": "https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "waves (slowed)",
+        "url": "https://open.spotify.com/album/7wZqI02pwixf5GOUmQmeaa"
+      },
+      "artists": [
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "duration_ms": 209742,
+      "name": "waves (slowed) - Slowed",
+      "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "waves (slowed)",
-        "url": "https://open.spotify.com/album/7wZqI02pwixf5GOUmQmeaa"
-      },
-      "artists": [
-        {
-          "name": "VIBIE",
-          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
-        }
-      ],
-      "duration_ms": 209742,
-      "name": "waves (slowed) - Slowed",
-      "url": "https://open.spotify.com/track/3Q8bEu2sxcF5RTI9GaSHfK"
     },
     {
       "added_at": "2023-12-01 18:00:25",

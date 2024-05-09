@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Architects on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,236 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,438 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

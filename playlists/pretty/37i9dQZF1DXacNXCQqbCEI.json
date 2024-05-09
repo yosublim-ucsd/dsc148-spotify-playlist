@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 351500,
+  "num_followers": 351514,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -607,8 +607,8 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+        "name": "Varias Dudas Despu\u00e9s",
+        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         }
       ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+      "duration_ms": 253626,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
         "name": "Recuerdos de Expiaci\u00f3n",
         "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
       },
@@ -927,6 +907,22 @@
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
+        "name": "Vayay\u00f3",
+        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Vayay\u00f3",
+      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
     },
     {
       "added_at": "2024-03-22 07:04:46",
@@ -951,18 +947,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
-        "name": "Vayay\u00f3",
-        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Vayay\u00f3",
-      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+      "duration_ms": 188520,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2024-03-22 07:04:46",

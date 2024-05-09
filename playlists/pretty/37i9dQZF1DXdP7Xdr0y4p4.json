@@ -1,6 +1,6 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 13817,
+  "num_followers": 13829,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bigger Than Sunday",
         "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 197240,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Favorites: On Repeat",
+        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
+      },
+      "artists": [
+        {
+          "name": "The Erwins",
+          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "Favorite Song of All",
+      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Favorites: On Repeat",
-        "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
-      },
-      "artists": [
-        {
-          "name": "The Erwins",
-          "url": "https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD"
-        }
-      ],
-      "duration_ms": 270840,
-      "name": "Favorite Song of All",
-      "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bring That Giant Down",
         "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 208359,
       "name": "Bring That Giant Down",
       "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Music To Your Ears",
         "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 247500,
       "name": "Let the Rain Wash Your Troubles Away",
       "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
+      },
+      "artists": [
+        {
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
     },
     {
       "added_at": "2023-04-14 06:27:38",

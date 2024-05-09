@@ -1,6 +1,6 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1176332,
+  "num_followers": 1176432,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 307333,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "He Will Have His Way - The Songs Of Tim & Neil Finn",
-        "url": "https://open.spotify.com/album/6aiKwTrXj3GqBPFdtI1PpR"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Fall At Your Feet",
-      "url": "https://open.spotify.com/track/4HopuG8wQBlvXQ6xwA79FG"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 184000,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "He Will Have His Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/6aiKwTrXj3GqBPFdtI1PpR"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Fall At Your Feet",
+      "url": "https://open.spotify.com/track/4HopuG8wQBlvXQ6xwA79FG"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 168849,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
+      "duration_ms": 240640,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 240640,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl"
+      "duration_ms": 168849,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
-      },
-      "artists": [
-        {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 170454,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+      },
+      "artists": [
+        {
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
+        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Busted Jukebox, Volume 1",
         "url": "https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
-        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
+        "name": "Youtube Sessions",
+        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
       },
       "artists": [
         {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+          "name": "Alex Cornell",
+          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Here Comes The Sun",
-      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
+      "duration_ms": 185500,
+      "name": "Sex On Fire",
+      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Youtube Sessions",
-        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Cornell",
-          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Sex On Fire",
-      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Funeral Singers",
+        "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        },
+        {
+          "name": "Collections Of Colonies Of Bees",
+          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Funeral Singers",
+      "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1631,26 +1651,6 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Funeral Singers",
-        "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        },
-        {
-          "name": "Collections Of Colonies Of Bees",
-          "url": "https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Funeral Singers",
-      "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "I'll Stand by You",
-        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
-      },
-      "artists": [
-        {
-          "name": "Jake Wesley Rogers",
-          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Songs 2003-2013",
         "url": "https://open.spotify.com/album/5mflqsVyBvwwDdQkSqGOUL"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 185013,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/12fGy97GwTTd8IxTJl7eUw"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "I'll Stand by You",
+        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 201683,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Boots Of Spanish Leather",
         "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
       },
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+        "name": "Magnolia (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
         }
       ],
-      "duration_ms": 201683,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+      "duration_ms": 173653,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "One",
-      "url": "https://open.spotify.com/track/5e7OZ8PyDJYQdGAiidCPad"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
       },
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "And I Love Him",
-        "url": "https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y"
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO"
       },
       "artists": [
         {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 158733,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I"
+      "duration_ms": 238329,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/5MupNow8t7OcTop26MnsrO"
+        "name": "And I Love Him",
+        "url": "https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y"
       },
       "artists": [
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
         }
       ],
-      "duration_ms": 238329,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ"
+      "duration_ms": 158733,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "High and Dry",
         "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 249752,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2823,38 +2823,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
-        "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "The Times They Are a-Changin' - Live at Madison Square Garden, New York, NY - October 1992",
-      "url": "https://open.spotify.com/track/0IvdJ0V3Sl6ClrmJLrGEUV"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5VmVA3eZ4ZwYJYDyn3Bt6V"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "This Woman's Work",
-      "url": "https://open.spotify.com/track/0J9e43QjshiuFc6whszKZS"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Steal My Girl - Single",
         "url": "https://open.spotify.com/album/4ak0sQEx1xteb1eO6nupIp"
       },
@@ -2883,6 +2851,38 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5VmVA3eZ4ZwYJYDyn3Bt6V"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "This Woman's Work",
+      "url": "https://open.spotify.com/track/0J9e43QjshiuFc6whszKZS"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
+        "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "The Times They Are a-Changin' - Live at Madison Square Garden, New York, NY - October 1992",
+      "url": "https://open.spotify.com/track/0IvdJ0V3Sl6ClrmJLrGEUV"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2919,22 +2919,6 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "The Acoustics, Covers",
-        "url": "https://open.spotify.com/album/11ryjIhICYwGWVZbPAHjy1"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        }
-      ],
-      "duration_ms": 105493,
-      "name": "Just Cant Get Enough",
-      "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2983,6 +2967,22 @@
       "duration_ms": 156923,
       "name": "Girls Just Want To Have Fun",
       "url": "https://open.spotify.com/track/3Qy9NQhUhXKQFXWEBjm4UI"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "The Acoustics, Covers",
+        "url": "https://open.spotify.com/album/11ryjIhICYwGWVZbPAHjy1"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "duration_ms": 105493,
+      "name": "Just Cant Get Enough",
+      "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Kangaroo Court EP",
-        "url": "https://open.spotify.com/album/3bFTi28gRyBCECfHJM2Iv0"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 243578,
-      "name": "Stayin Alive",
-      "url": "https://open.spotify.com/track/6ybI4l93T6PI6ARyUXMXEg"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
@@ -3067,6 +3051,22 @@
       "duration_ms": 182068,
       "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Kangaroo Court EP",
+        "url": "https://open.spotify.com/album/3bFTi28gRyBCECfHJM2Iv0"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 243578,
+      "name": "Stayin Alive",
+      "url": "https://open.spotify.com/track/6ybI4l93T6PI6ARyUXMXEg"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3187,22 +3187,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "This Woman's Work - Live from MTV Unplugged, Brooklyn, NY - May 1997",
-      "url": "https://open.spotify.com/track/5aZsRVl7V7Wn8GKYCtqtkf"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh"
       },
@@ -3215,6 +3199,22 @@
       "duration_ms": 227276,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "This Woman's Work - Live from MTV Unplugged, Brooklyn, NY - May 1997",
+      "url": "https://open.spotify.com/track/5aZsRVl7V7Wn8GKYCtqtkf"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3331,22 +3331,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Rearranged & Unplugged",
-        "url": "https://open.spotify.com/album/4aEBr3hxrikZmSf78nA4hw"
-      },
-      "artists": [
-        {
-          "name": "Philmont",
-          "url": "https://open.spotify.com/artist/5vMNd3udPmTVgKLuNHyGbG"
-        }
-      ],
-      "duration_ms": 194745,
-      "name": "We Found Love (Acoustic Cover)",
-      "url": "https://open.spotify.com/track/6wXVsxRRpGR3U39vsv4i7b"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -3359,6 +3343,22 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Rearranged & Unplugged",
+        "url": "https://open.spotify.com/album/4aEBr3hxrikZmSf78nA4hw"
+      },
+      "artists": [
+        {
+          "name": "Philmont",
+          "url": "https://open.spotify.com/artist/5vMNd3udPmTVgKLuNHyGbG"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "We Found Love (Acoustic Cover)",
+      "url": "https://open.spotify.com/track/6wXVsxRRpGR3U39vsv4i7b"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3427,22 +3427,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Busted Jukebox, Volume 1",
-        "url": "https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/2qFbRhAgBPSGaYX8LNQAX2"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Fast Car b/w Fire",
         "url": "https://open.spotify.com/album/6Z8Chm39KtMZQBwg7aEUfq"
       },
@@ -3459,18 +3443,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Royals",
-        "url": "https://open.spotify.com/album/5oN7AvQGclJCniBVIvdYz4"
+        "name": "Busted Jukebox, Volume 1",
+        "url": "https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 192506,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2omrLJFwsXeZN3wNXxQTrP"
+      "duration_ms": 213960,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/2qFbRhAgBPSGaYX8LNQAX2"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3503,6 +3487,22 @@
       "duration_ms": 178600,
       "name": "It's So Hard to Say Goodbye to Yesterday",
       "url": "https://open.spotify.com/track/5flETcE0vCaNcbgcMy5AYY"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Royals",
+        "url": "https://open.spotify.com/album/5oN7AvQGclJCniBVIvdYz4"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2omrLJFwsXeZN3wNXxQTrP"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3691,6 +3691,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0CL4Zsk4SKMXvLQKa41BOv"
       },
@@ -3723,18 +3739,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
         }
       ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
+      "duration_ms": 246093,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3755,18 +3771,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/4YksSqrl0x1dKKNrZLMk7j"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
       "artists": [
         {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 246093,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv"
+      "duration_ms": 188266,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/3x6ElAgBpyvhGcWRQl7Pwh"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3787,22 +3803,6 @@
       "duration_ms": 200882,
       "name": "Lose You to Love Me - Acoustic",
       "url": "https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/3x6ElAgBpyvhGcWRQl7Pwh"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3871,22 +3871,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Ben Folds Live",
-        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
-      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "The Very Best of Peter, Paul and Mary",
         "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
       },
@@ -3899,6 +3883,22 @@
       "duration_ms": 176693,
       "name": "Blowin' in the Wind - 2004 Remaster",
       "url": "https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Ben Folds Live",
+        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
+      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3983,6 +3983,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Say You'll Be There",
+        "url": "https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Julia van der Toorn",
         "url": "https://open.spotify.com/album/0uycC9fzXSBFMTz0fWxVIZ"
       },
@@ -4015,38 +4031,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Say You'll Be There",
-        "url": "https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
-        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Blasko",
-          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/0OUWImDyxZMP0myhpiwQpo"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Running up That Hill",
         "url": "https://open.spotify.com/album/2gKHrg2lOloXI4aPpW2ajq"
       },
@@ -4067,18 +4051,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Shake It Off",
-        "url": "https://open.spotify.com/album/20BN3JaXeRYPi79oYNkC8b"
+        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
       },
       "artists": [
         {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
         }
       ],
-      "duration_ms": 120827,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/2AGDlqnMs7vQcSlVANkjfQ"
+      "duration_ms": 282240,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/0OUWImDyxZMP0myhpiwQpo"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -4095,6 +4079,22 @@
       "duration_ms": 240466,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Shake It Off",
+        "url": "https://open.spotify.com/album/20BN3JaXeRYPi79oYNkC8b"
+      },
+      "artists": [
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/2AGDlqnMs7vQcSlVANkjfQ"
     },
     {
       "added_at": "2024-04-16 21:38:33",

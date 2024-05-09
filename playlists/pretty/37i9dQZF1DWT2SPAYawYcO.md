@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,904 likes - 84 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,947 likes - 84 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 68 | [Wish I Knew](https://open.spotify.com/track/5UvSwQxQbr10bikEeB1U2b) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [A Problematic Way Of Thinking](https://open.spotify.com/album/7dmHhRefkucMVCjmhUTy0n) | 3:10 |
 | 69 | [Darling](https://open.spotify.com/track/6FIEMBQoTYgbMe0Oh6zlQj) | [The Slingers](https://open.spotify.com/artist/5qNh8YHxuINsJoj4jITDWh) | [Darling](https://open.spotify.com/album/2S9w7yflXsfVouk68iCv8N) | 4:32 |
 | 70 | [Everybody's Going To The Same Place](https://open.spotify.com/track/1UjxUpnYC2G3Uu8J8GQsjU) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [Real Life](https://open.spotify.com/album/3TvPrkiwLoiUmQ5A8wqrBj) | 3:25 |
-| 71 | [Names](https://open.spotify.com/track/69GjbMCrVifiA9i6Coqjx9) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/26tRFX2hmrnvAXkcdUrQNy) | [Names](https://open.spotify.com/album/7CttQhlKWFVS8Ke8axRr4i) | 2:33 |
+| 71 | [Names](https://open.spotify.com/track/69GjbMCrVifiA9i6Coqjx9) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [Names](https://open.spotify.com/album/7CttQhlKWFVS8Ke8axRr4i) | 2:33 |
 | 72 | [Song to the Siren](https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Lie To Me](https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV) | 4:15 |
 | 73 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 |
 | 74 | [INTROLUDE](https://open.spotify.com/track/4fKMaPlaPg6wywaPWGV1su) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [INTROLUDE](https://open.spotify.com/album/5usbVOviHixWszxymEPido) | 2:06 |

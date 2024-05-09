@@ -4,7 +4,7 @@
 
 > A happy place, featuring Purple Disco Machine
 
-365 songs - 23 hr 14 min
+366 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Facelift](https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Facelift](https://open.spotify.com/album/36nDcLcdgq0YA08NnoFbKX) | 4:57 | 2022-01-14 | 2022-05-13 |
 | [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-19 |  |
 | [Family \(feat\. El Boogie\)](https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [El Boogie](https://open.spotify.com/artist/5W9f4y0yDpANo2fgQHMqKm) | [Family \(feat\. El Boogie\)](https://open.spotify.com/album/6MnVDBAW2mz8jWfXhbTCEW) | 2:31 | 2022-01-14 | 2022-07-01 |
-| [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA) | 3:56 | 2024-01-12 |  |
+| [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Finally Ready \(feat\. Billy Porter\)](https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA) | 3:56 | 2024-01-12 | 2024-05-09 |
 | [Find the Joy](https://open.spotify.com/track/4EKRFGE1Y3vqGJufkPhF37) | [Stacie Fields](https://open.spotify.com/artist/2wZzhY59MJ0BDLnLko14gW), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Find the Joy](https://open.spotify.com/album/0ReCJmQfVlndSqvDAn2IYi) | 3:20 | 2022-01-14 | 2022-07-25 |
 | [Fly Day Chinatown](https://open.spotify.com/track/0aEl0TBH9Lq1NOBJm9DPV7) | [Stonsterr](https://open.spotify.com/artist/7Lb9TlN4fxCIbc0HwrYLWP) | [Fly Day Chinatown](https://open.spotify.com/album/3lxHfNxN40eJTVYtqcB2ak) | 2:52 | 2024-05-03 |  |
 | [For A Fool \- Claptone Remix](https://open.spotify.com/track/2dMrqN3QRQnlmpQ6tKXaxe) | [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [For A Fool \(Claptone Remix\)](https://open.spotify.com/album/4kMDzGjxBLNZqcAkV8eFqa) | 3:20 | 2022-04-06 | 2022-04-21 |
@@ -337,6 +337,7 @@
 | [Summer of Love \- Jean Tonique Remix](https://open.spotify.com/track/2sSedmGMNVV84hIRUbmykd) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Summer of Love \(Jean Tonique Remix\)](https://open.spotify.com/album/5UC13W4kwtAZZbC3q8AKD1) | 3:22 | 2022-01-14 | 2022-07-18 |
 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2022-05-10 | 2023-06-05 |
 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 | 2022-01-14 | 2023-06-10 |
+| [Take Off](https://open.spotify.com/track/2KQe7XhWh4T8Ui8StfTrdw) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Take Off](https://open.spotify.com/album/5znFxew4XASdoEPlX0swGz) | 2:24 | 2024-05-03 |  |
 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 | 2022-04-06 |  |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-12-22 |  |
 | [Thank You \- Jax Jones Remix](https://open.spotify.com/track/77PHaOlBrM9krYHIl39LAo) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Thank You \(Jax Jones Remix\)](https://open.spotify.com/album/3ySavJtPwv3onVluixQuIK) | 3:47 | 2022-01-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 65410,
+  "num_followers": 65475,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAACqqV+eMJus7NYa/Rcf1ecF",
+  "snapshot_id": "ZjlvAAAAAAA87LnLUghNINd1x9kvFwdQ",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 300874,
+      "name": "BLURRY",
+      "url": "https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLURRY",
-        "url": "https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 300874,
-      "name": "BLURRY",
-      "url": "https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
@@ -975,6 +975,26 @@
       "duration_ms": 171626,
       "name": "Some Things Never Change (feat. HARDY)",
       "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Down to the Bar (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z"
     },
     {
       "added_at": null,
@@ -1003,26 +1023,6 @@
       "duration_ms": 225354,
       "name": "Life Had Plans For Me (feat. Parker Diffie)",
       "url": "https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Down to the Bar (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z"
     }
   ],
   "unique_name": "This Is HARDY",

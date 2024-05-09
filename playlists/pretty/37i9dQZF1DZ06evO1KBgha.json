@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenia OS. The essential tracks, all in one playlist.",
-  "num_followers": 6253,
+  "description": "This Is Kenia OS. Los temas esenciales, todos en una lista.",
+  "num_followers": 6270,
   "original_name": "This Is Kenia OS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAB1IZnWua+hXNTG6TkfS2wX",
+  "snapshot_id": "ZjlvAAAAAAByn+Qy9jO+WQo/u3BdzshA",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -43,22 +63,6 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157138,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
     },
     {
       "added_at": null,
@@ -99,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 157138,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ojo X Ojo",
         "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 181106,
       "name": "Ojo X Ojo",
       "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 187146,
       "name": "VIP",
       "url": "https://open.spotify.com/track/62hsumOu5s9hUJ3yQK40R7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 143753,
+      "name": "Ll\u00e9vatelo",
+      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovelove U",
-        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 175479,
-      "name": "Lovelove U",
-      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 124684,
       "name": "La OG",
       "url": "https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 147766,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/0NAINCWZldqYy5iY2CL4jq"
       },
       "artists": [
         {
@@ -356,25 +340,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 165090,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157606,
-      "name": "Botellita",
-      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
+      "duration_ms": 147766,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/5iXCrcLT5iirF2UTmaa284"
     },
     {
       "added_at": null,
@@ -391,6 +359,22 @@
       "duration_ms": 166418,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 157606,
+      "name": "Botellita",
+      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
     },
     {
       "added_at": null,
@@ -420,25 +404,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 212205,
-      "name": "Los Santos",
-      "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 136505,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
+      "duration_ms": 165090,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
     },
     {
       "added_at": null,
@@ -459,6 +427,22 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 136505,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
     },
     {
       "added_at": null,
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 170318,
-      "name": "Shillin'",
-      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
+      "duration_ms": 212205,
+      "name": "Los Santos",
+      "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
     },
     {
       "added_at": null,
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 184864,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
+      "duration_ms": 170318,
+      "name": "Shillin'",
+      "url": "https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL"
     },
     {
       "added_at": null,
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 159378,
-      "name": "Se Fue la Luz",
-      "url": "https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3"
+      "duration_ms": 184864,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 159378,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3"
     },
     {
       "added_at": null,

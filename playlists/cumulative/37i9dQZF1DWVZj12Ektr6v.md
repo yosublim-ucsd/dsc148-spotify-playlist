@@ -4,7 +4,7 @@
 
 > To The World, Here is NCT! Hi we are NCT DREAM!
 
-95 songs - 5 hr 21 min
+96 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Like We Just Met](https://open.spotify.com/track/7xlPmv0QzeklLt3Z4rckBE) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:29 | 2023-07-17 |  |
 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 | 2022-03-28 |  |
 | [Moon](https://open.spotify.com/track/2T7gEWrBetDarvBXexyw8Z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 4:13 | 2022-12-16 |  |
+| [Moonlight](https://open.spotify.com/track/1xpfMDsEEugAwoXRYLdyQ6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Moonlight](https://open.spotify.com/album/0wjJPnSndRArTKcvEUgUhW) | 3:13 | 2024-05-08 |  |
 | [My Page](https://open.spotify.com/track/63oREMsb7uCqgVztE72Pyv) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:46 | 2022-03-28 |  |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2022-03-28 |  |
 | [Never Goodbye](https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:32 | 2022-03-28 |  |

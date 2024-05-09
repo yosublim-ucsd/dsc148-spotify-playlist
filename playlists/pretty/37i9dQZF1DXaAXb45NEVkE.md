@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 
 > Hold up, run that back\. Cover: 21 Savage & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,559 likes - 75 songs - 4 hr 15 min
+[](https://open.spotify.com/user/null) - 25,575 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

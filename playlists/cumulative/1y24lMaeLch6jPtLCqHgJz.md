@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-324 songs - 16 hr 30 min
+325 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 | 2022-08-26 | 2023-09-09 |
 | [La La Life](https://open.spotify.com/track/7zEfs60wAzIOj0M2dbbjAg) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [La La Life](https://open.spotify.com/album/3DQSbcTRwObXj0zEDCPFi0) | 2:44 | 2023-08-25 |  |
 | [Last Call](https://open.spotify.com/track/0REO4HZjpt0pnQUtYwI6Mp) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Brïah](https://open.spotify.com/artist/69ZxNjgOfcItRkCpPnIIOz) | [Last Call](https://open.spotify.com/album/2s1Vxe2gPtaTty5ZcrG2qY) | 3:47 | 2023-09-14 |  |
+| [Let Me Love You \(Until You Learn to Love Yourself\)](https://open.spotify.com/track/6fj8Aj1t5Yh9Vpyo5EbR30) | [Voster & Gallardo](https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS) | [Let Me Love You \(Until You Learn to Love Yourself\)](https://open.spotify.com/album/7DuhZ7D7lR3RaRNts46yyd) | 3:09 | 2024-05-08 |  |
 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 | 2022-07-29 |  |
 | [Lift Off](https://open.spotify.com/track/77Whia5VOt6Ld1ffWKP5vu) | [Pei Pei](https://open.spotify.com/artist/5feFhyZ3MkVAxnnC0m6cdf), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [Lift Off](https://open.spotify.com/album/5D2bNPZh3mKBWozCWPdOOF) | 3:58 | 2023-10-12 |  |
 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 | 2023-08-24 |  |

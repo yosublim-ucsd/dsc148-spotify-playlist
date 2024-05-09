@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,699 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,710 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 55 | [Dip It Low](https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5) | 3:17 |
 | 56 | [Hit My Heart \- Sfaction Radio Edit](https://open.spotify.com/track/1gP9feeY5DxLh0gJsIFAoC) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF) | [Hit My Heart \(Official Recordings Full Package\)](https://open.spotify.com/album/61YHzlDAxEShdM2J9506yE) | 3:16 |
 | 57 | [Sobri \- Notre destin](https://open.spotify.com/track/6PTxyxvHiIbgQRMA5IdnAO) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz), [Amine](https://open.spotify.com/artist/3OpXEYnkpqSBaJjFWGeJxy) | [Raï'n'B Fever](https://open.spotify.com/album/6z5Yzw4fzAfL3ya1SsFECh) | 3:33 |
-| 58 | [Don't Leave Home](https://open.spotify.com/track/7ddFviC4ObJzizg98keTNt) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 3:46 |
-| 59 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
+| 58 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
+| 59 | [Don't Leave Home](https://open.spotify.com/track/7ddFviC4ObJzizg98keTNt) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 3:46 |
 | 60 | [Afrodisiac](https://open.spotify.com/track/62K7EHA67O48gg7lTtcyc2) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:48 |
 
 Snapshot ID: `ZIsMCwAAAACow5JWDZFfqpznbQ5WNqg1`

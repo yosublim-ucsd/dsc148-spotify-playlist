@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "C\u00e9line... Une seule fois / Live 2013",
-        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 401840,
-      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
-      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "C\u00e9line... Une seule fois / Live 2013",
+        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 401840,
+      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
+      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
       "added_at": "2024-02-13 05:00:00",

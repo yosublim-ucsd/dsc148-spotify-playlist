@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
@@ -5710,6 +5710,54 @@
       "duration_ms": 193297,
       "name": "Giant - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6TgLQJ87xq6adrAU6HzaTW"
+    },
+    {
+      "album": {
+        "name": "Gimme Gimme Gimme",
+        "url": "https://open.spotify.com/album/0bQjEOaYhyJe2LZT3uU0b3"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4T TONY",
+          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
+        },
+        {
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158671,
+      "name": "Gimme Gimme Gimme",
+      "url": "https://open.spotify.com/track/1Uin0T7NJQiHA9VspYiMi8"
+    },
+    {
+      "album": {
+        "name": "Gimme The Word",
+        "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179671,
+      "name": "Gimme The Word",
+      "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
     },
     {
       "album": {
@@ -7638,7 +7686,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
@@ -8262,7 +8310,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 149000,
       "name": "Let You Down (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8"
@@ -10608,7 +10656,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 172878,
       "name": "NPC",
       "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
@@ -12530,6 +12578,24 @@
       "duration_ms": 168461,
       "name": "Rock My Body (with Sash!) - W&W x R3HAB VIP Remix",
       "url": "https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK"
+    },
+    {
+      "album": {
+        "name": "Rockafeller Skank",
+        "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145568,
+      "name": "Rockafeller Skank",
+      "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
     },
     {
       "album": {
@@ -16270,7 +16336,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 174374,
       "name": "Upside Down (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"

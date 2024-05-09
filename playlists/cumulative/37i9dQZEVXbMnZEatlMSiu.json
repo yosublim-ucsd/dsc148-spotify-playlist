@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -8200,7 +8200,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 173336,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/3W2kGv8CcwRl2MWQN5vxKL"
@@ -11458,7 +11458,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 266342,
       "name": "\u540d\u5b57",
       "url": "https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK"
@@ -12094,6 +12094,24 @@
       "duration_ms": 274400,
       "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u7231\u5fd8\u4e86 Live",
+        "url": "https://open.spotify.com/album/5jA85i8LzXfPGDLjTD4g09"
+      },
+      "artists": [
+        {
+          "name": "\u6c6a\u82cf\u6cf7 \u5355\u4f9d\u7eaf",
+          "url": "https://open.spotify.com/artist/1lxxeTmZABdR9eyE4xUtU5"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245434,
+      "name": "\u5982\u679c\u7231\u5fd8\u4e86 Live - Live",
+      "url": "https://open.spotify.com/track/1eYWAccbk9N3aQbl3Of2HC"
     },
     {
       "album": {
@@ -16216,7 +16234,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 165989,
       "name": "\u96ea Distance",
       "url": "https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC"
@@ -16306,7 +16324,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 222529,
       "name": "\u982d\u865f\u73a9\u5bb6 NO.1 Player",
       "url": "https://open.spotify.com/track/4UBEu6iSvM9vGqBwbaSiQP"

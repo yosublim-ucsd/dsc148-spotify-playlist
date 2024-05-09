@@ -1,10 +1,10 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 8108,
+  "num_followers": 8119,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
-    "name": "Spotify",
-    "url": "https://open.spotify.com/user/spotify"
+    "name": "",
+    "url": "https://open.spotify.com/user/null"
   },
   "snapshot_id": "ZcWxUAAAAABfDy0XE7K9iUAhCRVdnsXL",
   "tracks": [
@@ -194,11 +194,15 @@
         {
           "name": "Jacob Forever",
           "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 191586,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -414,15 +418,11 @@
         {
           "name": "Jacob Forever",
           "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
+      "duration_ms": 191586,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -791,30 +791,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Agua Noche Remix",
-        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
+        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
+        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
       },
       "artists": [
         {
-          "name": "Yulien Oviedo",
-          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
-        },
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        },
-        {
-          "name": "Ja Rulay",
-          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
-        },
-        {
-          "name": "Fixty Ordara",
-          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
         }
       ],
-      "duration_ms": 238269,
-      "name": "Agua Noche Remix",
-      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+      "duration_ms": 263263,
+      "name": "Eso Es Bola",
+      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -839,18 +827,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
-        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
+        "name": "Agua Noche Remix",
+        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
       "artists": [
         {
-          "name": "Los Desiguales",
-          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+          "name": "Yulien Oviedo",
+          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
+        },
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+        },
+        {
+          "name": "Fixty Ordara",
+          "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
         }
       ],
-      "duration_ms": 263263,
-      "name": "Eso Es Bola",
-      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
+      "duration_ms": 238269,
+      "name": "Agua Noche Remix",
+      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2024-02-09 05:00:00",

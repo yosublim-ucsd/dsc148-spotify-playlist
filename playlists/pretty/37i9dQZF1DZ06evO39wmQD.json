@@ -1,12 +1,12 @@
 {
-  "description": "This Is Auli'i Cravalho. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 2579,
+  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
+  "num_followers": 2581,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADRWL/ISqtt0gIDXsq290v/",
+  "snapshot_id": "ZjlvAAAAAAB5sm3e5zeU4TBi6/3lsdaL",
   "tracks": [
     {
       "added_at": null,
@@ -84,29 +84,29 @@
       },
       "artists": [
         {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Vai Mahina",
-          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
-        },
-        {
-          "name": "Olivia Foa'i",
-          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
-        },
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Matthew Ineleo",
-          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
+          "name": "Louise Bush",
+          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
         }
       ],
-      "duration_ms": 72626,
-      "name": "Know Who You Are",
-      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+      "duration_ms": 210320,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
     },
     {
       "added_at": null,
@@ -176,17 +176,29 @@
       },
       "artists": [
         {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Vai Mahina",
+          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
+        },
+        {
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        },
+        {
+          "name": "Matthew Ineleo",
+          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
         }
       ],
-      "duration_ms": 162826,
-      "name": "I Am Moana (Song of the Ancestors)",
-      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+      "duration_ms": 72626,
+      "name": "Know Who You Are",
+      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
     },
     {
       "added_at": null,
@@ -247,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scars To Your Beautiful (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
       "artists": [
         {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
         },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Scars To Your Beautiful - Rise Cast Version",
-      "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
     },
     {
       "added_at": null,
@@ -315,6 +327,26 @@
       "duration_ms": 176477,
       "name": "If Only - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scars To Your Beautiful (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Scars To Your Beautiful - Rise Cast Version",
+      "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
     },
     {
       "added_at": null,

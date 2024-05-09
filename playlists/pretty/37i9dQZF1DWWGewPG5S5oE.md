@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,768 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,780 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 2 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 |
 | 3 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
 | 4 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 |
-| 5 | [スイートレスポンスフロムドッグス](https://open.spotify.com/track/5p2Nq9Z0JfI12PrjAfj1YX) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [スイートレスポンスフロムドッグス](https://open.spotify.com/album/2nt5QzT7q4UT2yK09rEWvu) | 2:49 |
+| 5 | [Expressions On The Melody Of Kokiriko](https://open.spotify.com/track/63HH4URIpjgUYjE0nzd5uD) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Expressions On The Melody Of Kokiriko](https://open.spotify.com/album/0qKVw92zoQS99AwJftOYNc) | 16:53 |
 | 6 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 7 | [Sweet for K](https://open.spotify.com/track/6ttmNhgpjIQg9rFYnwLss6) | [山本剛トリオ](https://open.spotify.com/artist/7MKLY7dosHjgkkHXRGwCvY) | [Sweet for K](https://open.spotify.com/album/3sWBa6GWGgZf1XORUDlyYo) | 3:59 |
 | 8 | [Isolated](https://open.spotify.com/track/2Cd00qspnUW0t7DK19AG66) | [布施音人トリオ](https://open.spotify.com/artist/2fwMv8yFogzE3Pec8DZgYI), [布施音人](https://open.spotify.com/artist/6LHpTLMRsV5W1UKXtscSOw) | [Isolated](https://open.spotify.com/album/1ww22Nw6kl7TtMIUpr5HX9) | 5:28 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 13 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
 | 14 | [Delight](https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Delight](https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX) | 5:10 |
 | 15 | [Move On Up \- DJ JIN Re\-edit](https://open.spotify.com/track/1WHD4ExyejJcQXkZse7tSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s), [DJ JIN](https://open.spotify.com/artist/1IikVxKVaAWT4hpLcuJFzF) | [Move On Up \(DJ JIN Re\-edit\) / Beyond The Redemption](https://open.spotify.com/album/3jBr5PKwVeartd2kxsQDX8) | 3:19 |
-| 16 | [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 |
+| 16 | [スイートレスポンスフロムドッグス](https://open.spotify.com/track/5p2Nq9Z0JfI12PrjAfj1YX) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [スイートレスポンスフロムドッグス](https://open.spotify.com/album/2nt5QzT7q4UT2yK09rEWvu) | 2:49 |
 | 17 | [cosmic circle](https://open.spotify.com/track/0h6iV0PqhHLcvA0vLiDoSE) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Yuji Katsui](https://open.spotify.com/artist/26jOJviNl5KYBMa9EnGPHZ), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Genki Hashimoto](https://open.spotify.com/artist/3puVmC6sgvPztiQulaZCFN) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 6:38 |
 | 18 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
 | 19 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 43 | [色彩のブルース](https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 5:33 |
 | 44 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 45 | [JAPAN THREE](https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [澤村一平](https://open.spotify.com/artist/3zEAcbTiKuXslpyRTKHIoT) | [The Bottle](https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy) | 2:26 |
-| 46 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
-| 47 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 46 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
+| 47 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 48 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 | 49 | [月刊配信野郎](https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [月刊配信野郎](https://open.spotify.com/album/0v7UHezk6yvbSXptBElqBA) | 3:27 |
 | 50 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 
-Snapshot ID: `ZjH62AAAAAAJHIfKZVB6Euxvf85akPXz`
+Snapshot ID: `Zjr8xwAAAABa8pRNqAdYtV+eBGP2OSiR`

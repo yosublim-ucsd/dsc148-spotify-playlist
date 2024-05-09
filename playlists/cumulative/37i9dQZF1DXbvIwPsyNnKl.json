@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "ANSWER THE G",
+        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
+      },
+      "artists": [
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "Answer The G",
+      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
+    },
+    {
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 196246,
       "name": "BNK",
       "url": "https://open.spotify.com/track/3cWuWcQwMxakmBaZCFZkEZ"
@@ -754,10 +772,32 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 174545,
       "name": "Di kita trip",
       "url": "https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt"
+    },
+    {
+      "album": {
+        "name": "Di Ko Kasalanan (feat. gins&melodies)",
+        "url": "https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199708,
+      "name": "Di Ko Kasalanan (feat. gins&melodies)",
+      "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
     },
     {
       "album": {
@@ -1598,7 +1638,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 297678,
       "name": "LOW",
       "url": "https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7"
@@ -2750,6 +2790,24 @@
       "duration_ms": 181708,
       "name": "Sumugal",
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
+    },
+    {
+      "album": {
+        "name": "talunan (b4twenty freestyle)",
+        "url": "https://open.spotify.com/album/5VOxYu4iqFLZVvINIylola"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "talunan (b4twenty freestyle)",
+      "url": "https://open.spotify.com/track/2Pu9B3qjWpAyjqWMFf4quE"
     },
     {
       "album": {

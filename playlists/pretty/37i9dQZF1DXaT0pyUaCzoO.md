@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment for the little listeners.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,257 likes - 40 songs - 2 hr 18 min
+[](https://open.spotify.com/user/null) - 7,267 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

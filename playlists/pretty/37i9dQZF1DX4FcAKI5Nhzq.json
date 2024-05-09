@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: BM",
-  "num_followers": 806352,
+  "num_followers": 806597,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjpjGwAAAABQ+eZhYToYXAaoRKoeX2FC",
+  "snapshot_id": "ZjuRCAAAAADmG8y+z1bY2pQ6xEsE+FK9",
   "tracks": [
     {
       "added_at": "2024-05-07 17:21:31",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ"
     },
     {
+      "added_at": "2024-05-08 05:35:35",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Q&A",
+      "url": "https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu"
+    },
+    {
       "added_at": "2024-05-07 17:21:31",
       "album": {
         "name": "BEAT by 82",
@@ -45,20 +61,24 @@
       "url": "https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT"
     },
     {
-      "added_at": "2024-05-07 17:21:31",
+      "added_at": "2024-05-08 14:49:44",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/19aLPZvIMIwom1XAdNOSSi"
+        "name": "LOVE OR DIE",
+        "url": "https://open.spotify.com/album/5SHAZ0OQYdiUfUEDlf8SFB"
       },
       "artists": [
         {
-          "name": "JINJIN (ASTRO)",
-          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Fly (Duet with. MOONBIN(ASTRO))",
-      "url": "https://open.spotify.com/track/7bf7daBFnsOVCn9soOJoPG"
+      "duration_ms": 177146,
+      "name": "Love or Die",
+      "url": "https://open.spotify.com/track/4EeeTgHVTrutCWiqtw8vCl"
     },
     {
       "added_at": "2024-05-07 17:21:31",
@@ -75,6 +95,38 @@
       "duration_ms": 171080,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
+    },
+    {
+      "added_at": "2024-05-08 14:49:44",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+    },
+    {
+      "added_at": "2024-05-07 17:21:31",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/19aLPZvIMIwom1XAdNOSSi"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Fly (Duet with. MOONBIN(ASTRO))",
+      "url": "https://open.spotify.com/track/7bf7daBFnsOVCn9soOJoPG"
     },
     {
       "added_at": "2024-05-07 17:21:31",
@@ -711,38 +763,6 @@
     {
       "added_at": "2024-05-07 17:21:31",
       "album": {
-        "name": "The knight who can't die and the silk cradle",
-        "url": "https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "The knight who can't die and the silk cradle",
-      "url": "https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh"
-    },
-    {
-      "added_at": "2024-05-07 17:21:31",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
-      },
-      "artists": [
-        {
-          "name": "VCHA",
-          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
-    },
-    {
-      "added_at": "2024-05-07 17:21:31",
-      "album": {
         "name": "Bam Yang Gang",
         "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 148729,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j"
-    },
-    {
-      "added_at": "2024-05-07 17:21:31",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
     },
     {
       "added_at": "2024-05-07 17:21:31",

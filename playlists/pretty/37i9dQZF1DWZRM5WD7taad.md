@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,908 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,923 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 4 | [Tasmania](https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Tasmania](https://open.spotify.com/album/7DgPVNfr6xKejQTGSXYyu8) | 3:09 |
 | 5 | [Más Que Reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más Que Reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 6 | [OBVIO](https://open.spotify.com/track/1lCM4FssMdZTyh8wBl7YyO) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [OBVIO](https://open.spotify.com/album/3pqTvrcPeWeXOWq35WSIFq) | 2:10 |
-| 7 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:14 |
+| 7 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:13 |
 | 8 | [Quasimodo](https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX) | 2:05 |
 | 9 | [Aletheia](https://open.spotify.com/track/0HkIlCA0q9HHLGVhRU1tGM) | [Dilema](https://open.spotify.com/artist/3eCEorgAoZkvnAQLdy4x38), [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN) | [Aletheia](https://open.spotify.com/album/27AaB0tquSmq1HvR44he0D) | 3:13 |
 | 10 | [No Somos Iguales](https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [No Somos Iguales](https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH) | 3:06 |

@@ -1,13 +1,93 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Sophia Fracassi Artwork by Paola Saliby",
-  "num_followers": 209636,
+  "description": "The best new pop music by independent artists and labels. Cover: Grace Power Artwork by Paola Saliby",
+  "num_followers": 209761,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjG+QAAAAAAojviPzLVLUn1PJ+TlryKU",
+  "snapshot_id": "Zjr4wAAAAAADhPU9uO9mbzpd5vpyrcPr",
   "tracks": [
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/63o51nuPIguOwZ1Y5dxlUR"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 187972,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1mKUt8tlpYVfKHay0ETmSh"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 250085,
+      "name": "Technicolor Dream",
+      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0ZLauhmyDIT7R3bNct0Xnv"
+      },
+      "artists": [
+        {
+          "name": "Isabel Wood",
+          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
+        }
+      ],
+      "duration_ms": 185755,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/7A1mRErmTJuuMF7RhLfTVZ"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "my girl, she's a planet",
+        "url": "https://open.spotify.com/album/2CfWJuSXDPNiUEVmN4pqd2"
+      },
+      "artists": [
+        {
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "my girl, she's a planet",
+      "url": "https://open.spotify.com/track/4ooGzJb6InFeRcEyWBvICj"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/1Rwh9G6lfAF0tv2kPiB1Kr"
+      },
+      "artists": [
+        {
+          "name": "Casey Shirin",
+          "url": "https://open.spotify.com/artist/3rCpG0uKek5oUwF2r9ZSvK"
+        }
+      ],
+      "duration_ms": 142045,
+      "name": "misery",
+      "url": "https://open.spotify.com/track/4zAg05SqMkxC5HIwgO6X55"
+    },
     {
       "added_at": "2024-05-01 04:00:00",
       "album": {
@@ -23,6 +103,74 @@
       "duration_ms": 157680,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/24infhEthjRFtRysglZ1vj"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "Ocean Lights",
+        "url": "https://open.spotify.com/album/2lFKNUTk0SYLlscdXFuzD4"
+      },
+      "artists": [
+        {
+          "name": "Margo Raats",
+          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Ocean Lights",
+      "url": "https://open.spotify.com/track/5SxChhZAgflkWJJXhOoeW1"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "Jool Wave",
+        "url": "https://open.spotify.com/album/0lG11UlUDFGQIOyVaOW3ns"
+      },
+      "artists": [
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        },
+        {
+          "name": "Aria Wood",
+          "url": "https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "thin",
+      "url": "https://open.spotify.com/track/0gTl3KCfmI8tk4h4ZeHac5"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "duration_ms": 208687,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "I Can't Be Friends With You",
+        "url": "https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5"
+      },
+      "artists": [
+        {
+          "name": "Sara Sommerer",
+          "url": "https://open.spotify.com/artist/7t3a0pLRpE216teeNNhKpa"
+        }
+      ],
+      "duration_ms": 128223,
+      "name": "I Can't Be Friends With You",
+      "url": "https://open.spotify.com/track/6Clm36yYbpzT7Ea1D0TJYb"
     },
     {
       "added_at": "2024-05-01 04:00:00",
@@ -621,22 +769,6 @@
       "url": "https://open.spotify.com/track/3C3nxNgZ9NK2qyDPQ8Zf5h"
     },
     {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "cheater",
-        "url": "https://open.spotify.com/album/0LnQv9O33k6Y9MjNqdbivT"
-      },
-      "artists": [
-        {
-          "name": "Jack Price",
-          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
-        }
-      ],
-      "duration_ms": 156889,
-      "name": "cheater",
-      "url": "https://open.spotify.com/track/42rKxZFxblKmIHCdBgPjLt"
-    },
-    {
       "added_at": "2024-03-20 04:00:00",
       "album": {
         "name": "Move On",
@@ -683,22 +815,6 @@
       "duration_ms": 171500,
       "name": "Bababababy",
       "url": "https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/74aipGQuzmhuy3hRFYvmOJ"
-      },
-      "artists": [
-        {
-          "name": "Bagetti",
-          "url": "https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/3WXWwVIU7e9MElcPwVdPgE"
     },
     {
       "added_at": "2024-03-20 04:00:00",
@@ -767,22 +883,6 @@
     {
       "added_at": "2024-03-20 04:00:00",
       "album": {
-        "name": "Nando",
-        "url": "https://open.spotify.com/album/3NUDd69MRpROm1E8WSmGGx"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 180703,
-      "name": "Nando",
-      "url": "https://open.spotify.com/track/5ttaU57G1egcSRql7Cgnef"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
         "name": "Calling It Love",
         "url": "https://open.spotify.com/album/3T7G34XE5ZLgiVrvDyEHV8"
       },
@@ -827,22 +927,6 @@
       "duration_ms": 202486,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
-        "name": "Days of Girlhood",
-        "url": "https://open.spotify.com/album/24FScV3CEmE9ERsgAp0EnV"
-      },
-      "artists": [
-        {
-          "name": "Dylan Mulvaney",
-          "url": "https://open.spotify.com/artist/35BvsAD68jFbdwi9OdBcIB"
-        }
-      ],
-      "duration_ms": 178541,
-      "name": "Days of Girlhood",
-      "url": "https://open.spotify.com/track/4DfHQvIAZmSmqcZbuO80sZ"
     },
     {
       "added_at": "2024-03-20 04:00:00",
@@ -979,22 +1063,6 @@
     {
       "added_at": "2024-03-06 05:00:00",
       "album": {
-        "name": "Want You to Know",
-        "url": "https://open.spotify.com/album/0SdZsJR51FbwCSzR61gXAk"
-      },
-      "artists": [
-        {
-          "name": "Backset",
-          "url": "https://open.spotify.com/artist/2scPtarNLto2VIiH3qqn7Q"
-        }
-      ],
-      "duration_ms": 209073,
-      "name": "Want You to Know",
-      "url": "https://open.spotify.com/track/4Y3vcZJzevbTEq29vINtYj"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
         "name": "Grow Old Together",
         "url": "https://open.spotify.com/album/3VtpgX5kRLYSfNCXULBSI2"
       },
@@ -1105,22 +1173,6 @@
       "url": "https://open.spotify.com/track/7ePNSgD1U63eWgGng464Kn"
     },
     {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Nose Job",
-        "url": "https://open.spotify.com/album/0iFR1tLijczTAbsjEiGJDF"
-      },
-      "artists": [
-        {
-          "name": "Caity Krone",
-          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
-        }
-      ],
-      "duration_ms": 287300,
-      "name": "Nose Job",
-      "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
-    },
-    {
       "added_at": "2024-02-28 05:00:00",
       "album": {
         "name": "THE ARSONIST & THE SUPERMODEL",
@@ -1151,22 +1203,6 @@
       "duration_ms": 179729,
       "name": "Girl Friend",
       "url": "https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Night & Day",
-        "url": "https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0"
-      },
-      "artists": [
-        {
-          "name": "Margo Raats",
-          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
-        }
-      ],
-      "duration_ms": 209805,
-      "name": "Night & Day",
-      "url": "https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -1383,22 +1419,6 @@
     {
       "added_at": "2024-02-21 05:00:00",
       "album": {
-        "name": "middle child",
-        "url": "https://open.spotify.com/album/4dvmArexmtj9ZkeswotNk5"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Mayi",
-          "url": "https://open.spotify.com/artist/2SYmvaU9yUWwbsMdrsd4LX"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "middle child",
-      "url": "https://open.spotify.com/track/6gGxkaI0FRgEAxjOPEd9ow"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
         "name": "Rough Patch",
         "url": "https://open.spotify.com/album/4FaFDRGq7xviGcqAC48XBZ"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 190500,
       "name": "clocks",
       "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 183230,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj"
     },
     {
       "added_at": "2024-02-21 05:00:00",

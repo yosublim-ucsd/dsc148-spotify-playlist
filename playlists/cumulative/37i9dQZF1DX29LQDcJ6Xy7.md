@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-215 songs - 15 hr 19 min
+216 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Follow](https://open.spotify.com/track/1nqqyTJOBRPO5fRuOXoxKW) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [FOLLOW](https://open.spotify.com/album/01WDtUAbvqQecmizMs9tAH) | 3:23 | 2022-07-01 | 2022-07-27 |
 | [For the Beaten](https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [For the Beaten](https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T) | 3:31 | 2022-10-14 | 2023-06-30 |
 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 | 2022-07-01 |  |
+| [Go With The Flow](https://open.spotify.com/track/52Q1BPrmgPHS4WIaShyfQa) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Go With The Flow](https://open.spotify.com/album/1TuYcav8snIIxT7MrqVKWd) | 3:02 | 2024-05-08 |  |
 | [God's Creatures \- Jimmy Urine Remix](https://open.spotify.com/track/0oMC1XzzCa9IGFXMiUp9WW) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Jimmy Urine](https://open.spotify.com/artist/6eKPGZXPzhW8SOu8RoAQKl) | [God's Creatures \(Jimmy Urine Remix\)](https://open.spotify.com/album/4fVmiwKxtTJVNZaQV2O2LN) | 4:44 | 2022-07-01 | 2022-07-27 |
 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-14 |  |
 | [Goddamn White Trash](https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 4:43 | 2024-01-30 | 2024-04-19 |
@@ -213,7 +214,7 @@
 | [Tyler Hadley](https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 4:51 | 2022-07-01 | 2024-04-19 |
 | [Tyler Hadley](https://open.spotify.com/track/6zK40BRKipYTivAePTIxmd) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/15FB9uYWaMt94zhN6lYIE8) | 4:51 | 2022-07-01 | 2022-07-29 |
 | [Understand](https://open.spotify.com/track/64hRpVVHwn3EXx20zjtXlH) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Understand](https://open.spotify.com/album/5YIpDPbrprlCm3RERAbL4y) | 5:34 | 2022-07-01 | 2022-07-28 |
-| [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 | 2022-07-01 |  |
+| [Universe](https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Universe](https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR) | 4:03 | 2022-07-01 | 2024-05-09 |
 | [Verrückt](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 | 2022-07-01 | 2024-04-19 |
 | [Verrückt](https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp) | 3:21 | 2022-07-01 |  |
 | [Vision 2020 Vision](https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Vision 2020 Vision](https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ) | 4:23 | 2022-07-01 | 2022-07-29 |

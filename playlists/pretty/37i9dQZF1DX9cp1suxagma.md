@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Ventino
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,496 likes - 100 songs - 5 hr 18 min
+[](https://open.spotify.com/user/null) - 118,515 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

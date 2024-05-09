@@ -1,12 +1,12 @@
 {
-  "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
-  "num_followers": 1018523,
+  "description": "This Is The Rolling Stones. Los temas esenciales, todos en una lista.",
+  "num_followers": 1018658,
   "original_name": "This Is The Rolling Stones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAAfZK7YLlTITe0xTZ2SSTV2",
+  "snapshot_id": "ZjlvAAAAAABhRJXcFib5WTomlNTw5qE8",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 202266,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": null,
@@ -807,6 +791,26 @@
       "duration_ms": 232533,
       "name": "Sway - 2009 Mix",
       "url": "https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
     }
   ],
   "unique_name": "This Is The Rolling Stones",

@@ -2,7 +2,7 @@
 
 ### [This Is Mau y Ricky](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rApNf)
 
-> This is Mau y Ricky\. The essential tracks, all in one playlist.
+> This is Mau y Ricky\. Track\-track unggulan, semuanya dalam satu playlist.
 
 63 songs - 3 hr 26 min
 

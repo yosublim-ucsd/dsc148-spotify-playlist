@@ -4,7 +4,7 @@
 
 > Watch this be the wrong thing\. CLASSIC!  📷 Gracie Abrams
 
-2,034 songs - 4 day 6 hr 23 min
+2,035 songs - 4 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 | 2023-07-07 | 2023-12-09 |
 | [Midnight Magic \(feat\. Karra\)](https://open.spotify.com/track/4XdPEFmeb6RKEBdCMTeGPe) | [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Midnight Magic \(feat\. Karra\)](https://open.spotify.com/album/3y3OHgPeQN4miAmXKAk0Z1) | 3:05 | 2019-05-26\* | 2020-04-16 |
 | [Millennium Angel](https://open.spotify.com/track/5RUT7fWjDk4jk0v3BMYB3y) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Millennium Angel](https://open.spotify.com/album/7zOjqw1DUsKuC3bGa5fKPP) | 3:21 | 2021-11-12 | 2022-03-12 |
+| [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-05-03 |  |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 | 2022-06-07 |
 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 | 2022-09-03 |
 | [MISCOMMUNICATIONS \- Goldroom Remix](https://open.spotify.com/track/0Kmz04ftdYiQzrsojnpNq5) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [MISCOMMUNICATIONS \(Goldroom Remix\)](https://open.spotify.com/album/3dr3qLRecbZVWnkdmMcAbo) | 3:17 | 2020-06-13 | 2021-10-14 |
@@ -1704,7 +1705,7 @@
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-01-21 | 2022-03-26 |
 | [Summer](https://open.spotify.com/track/7tsHqxfepei1AdLjy93XIv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Summer](https://open.spotify.com/album/6Qdb2YYRKzhKooyDC6lBLC) | 2:58 | 2019-05-26\* | 2020-04-18 |
 | [Summer](https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/2LbNDL18GTe9x3YDJNzHY9) | 4:02 | 2021-03-09 | 2021-11-20 |
-| [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 |  |
+| [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 | 2024-05-09 |
 | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/track/3UIGE2FXaUUcYWA31Og0XO) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/album/5bB44dDIsNlLs2vRUMsrWd) | 3:24 | 2019-09-06 | 2021-11-02 |
 | [Summer Is Over](https://open.spotify.com/track/3YceHgB0Uubgn5xVlfdkuC) | [Alec Wigdahl](https://open.spotify.com/artist/0Ml3qjFuEC9fZ7ix8BvfWt) | [Summer Is Over](https://open.spotify.com/album/6Ue6TROiKDlRgLREOiArPg) | 2:40 | 2020-08-11 | 2021-11-10 |
 | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/track/5YPfFN0EsuvOgisgC4tzBq) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/album/3b35FYaef5SDlDjPWliK0z) | 2:59 | 2019-08-17 | 2021-05-28 |

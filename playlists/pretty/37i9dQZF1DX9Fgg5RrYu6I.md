@@ -1,0 +1,47 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain](/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Fgg5RrYu6I)
+
+### [세자가 사라졌다 \(Missing Crown Prince\)](https://open.spotify.com/playlist/37i9dQZF1DX9Fgg5RrYu6I)
+
+> Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+
+[](https://open.spotify.com/user/null) - 139 likes - 35 songs - 2 hr 8 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Love You More Gradually](https://open.spotify.com/track/4YjN87vGnvk8NjRLHH35bf) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
+| 2 | [Love You More Gradually \- Instrumental](https://open.spotify.com/track/0OKxlebSqt0MYBeWUBpJJp) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
+| 3 | [Curated by SUHO](https://open.spotify.com/track/3AD6K28bqzcbTUEQiOJhEo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:20 |
+| 4 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 5 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
+| 6 | [Empty Cups](https://open.spotify.com/track/7k7JKDjCd9zuL0iF7iWaNs) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 2:50 |
+| 7 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 |
+| 8 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
+| 9 | [Hurdle](https://open.spotify.com/track/3AHV42ObBOu6QZoiCzuF5t) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:06 |
+| 10 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 |
+| 11 | [Morning Star](https://open.spotify.com/track/0KLRvuV6eAr5uOtWWb5vCR) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 4:06 |
+| 12 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
+| 13 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 14 | [Curated by HONG YE JI](https://open.spotify.com/track/2F3e5D3hPO38akyly0RNN9) | [HONG YE JI](https://open.spotify.com/artist/2QajC2asc2OS5VLfQ2Orxe) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:23 |
+| 15 | [Tiger is Coming](https://open.spotify.com/track/3zBDNnUOioHl3sN9iF5xl5) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW) | 5:31 |
+| 16 | [Hello, Lonely](https://open.spotify.com/track/3SPUJNWAZh1kHVHfIRMXWf) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 3:57 |
+| 17 | [청춘가](https://open.spotify.com/track/0uxxTV4eEUHh6AUvWmIQsD) | [SsingSsing](https://open.spotify.com/artist/5F2YenfQusRVzdHq6RWpw9) | [SSINGSSING](https://open.spotify.com/album/50Dd5fqlWB9YDZ1WdAJW8o) | 4:07 |
+| 18 | [Ritual Dance](https://open.spotify.com/track/5hdIAY7Vnb2w2NPOAocWsQ) | [CHUDAHYE CHAGIS](https://open.spotify.com/artist/3ttQR1taRsySrYIc2U3iAA) | [Underneath the Dangsan Tree Tonight](https://open.spotify.com/album/4SkfT9eMrYvk41vRVRXwX0) | 5:22 |
+| 19 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 |
+| 20 | [AcDaJi\-歌](https://open.spotify.com/track/4ms3ziNYCXCh6hXXcpNEs2) | [SamSan](https://open.spotify.com/artist/0Mqb4ZExEqQNOkEFSyZiql), [Han Woong Won](https://open.spotify.com/artist/6gYgsMseEMY6iYkUsL662N) | [AcDaJi\-歌](https://open.spotify.com/album/4zEPfoiIle9t6UAIN9u8sV) | 3:15 |
+| 21 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 |
+| 22 | [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 |
+| 23 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
+| 24 | [사철가](https://open.spotify.com/track/5MKmYrqG7AKgUrJDBePMOR) | [juri kim](https://open.spotify.com/artist/32xsx3uhWocPe8QkffUMen) | [사철가](https://open.spotify.com/album/0zMo671mzJyTYutazaJ3Kn) | 6:12 |
+| 25 | [Curated by KIM MIN KYU](https://open.spotify.com/track/3EJPxV0kk88vZkp5Z3Zc0D) | [KIM MIN KYU](https://open.spotify.com/artist/6iGikaDGkff5EAnspuRM15) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:28 |
+| 26 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
+| 27 | [Kidd](https://open.spotify.com/track/4h34AbncqepE1FkJQWvYyD) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Kidd](https://open.spotify.com/album/0UBuKaXlVWeeZVOZCAH5s8) | 4:27 |
+| 28 | [Bruiseboy](https://open.spotify.com/track/7wjTi8DCmzXBwHczU85gfY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [Bruiseboy](https://open.spotify.com/album/1rfuhI4oCbEpbv0DPcdzqy) | 3:28 |
+| 29 | [대나무숲](https://open.spotify.com/track/07yp5YDZU6Zch6cJrXs6wo) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [대나무숲](https://open.spotify.com/album/7DZc8YfP20qeueCVQnPFRg) | 4:14 |
+| 30 | [DUNE](https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [DUNE](https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49) | 4:15 |
+| 31 | [LAST PARADE](https://open.spotify.com/track/436seJMYT9VZOjvJUTfmcx) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [LAST PARADE](https://open.spotify.com/album/4dARvFNQZIZtyCFw2Lbs6f) | 4:04 |
+| 32 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 |
+| 33 | [Don't be afraid to fall](https://open.spotify.com/track/2Wr6kLaSkUfgffOQ7nuMgr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/7erkiZzC03oPSYS7idGDDc) | 3:31 |
+| 34 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 |
+| 35 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
+
+Snapshot ID: `Zjn0/wAAAAD81+b5A+hNrFavHLa33MSZ`

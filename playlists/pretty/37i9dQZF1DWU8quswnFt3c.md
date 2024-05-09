@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Nilüfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,195 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,355 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 |
 | 39 | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7lTWTesY1sXVIYjJaCoyIy) | [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk), [Huyền Baby](https://open.spotify.com/artist/5bMwwJZX9bBFAMTbqIHig7), [Trang Pháp](https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6), [Ninh Dương Lan Ngọc](https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq), [Diệu Nhi](https://open.spotify.com/artist/2mpSmbp35mvG7ig3cg1jEj) | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/album/7pAK1iJrMvvPfZmjGRjddp) | 4:45 |
 | 40 | [Now Or Never](https://open.spotify.com/track/38bpdoavxRTydgisUpZFL1) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Now Or Never](https://open.spotify.com/album/51Zme9D9kAFrCGYNWvxQsW) | 2:58 |
-| 41 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
-| 42 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
+| 41 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
+| 42 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 43 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 44 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
 | 45 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |

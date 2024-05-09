@@ -1,13 +1,289 @@
 {
   "description": "Updated daily, with the latest popular singles!",
-  "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 08 MAY",
+  "num_followers": 76,
+  "original_name": "NEW SINGLES RELEASES | UPDATED 09 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIMvOm3T/35LqDeBlPw7QdvL3dYqZz",
+  "snapshot_id": "AAAIN13EB5Fs8Al1Cne0O2JEQ2ZCH68R",
   "tracks": [
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Winners In Paris",
+        "url": "https://open.spotify.com/album/2w1rxUz4TahbzuOcBLN4uS"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 168191,
+      "name": "Winners In Paris",
+      "url": "https://open.spotify.com/track/7a4W4aqGWmEB8OGAixlVJq"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "NA WIEKI",
+        "url": "https://open.spotify.com/album/6OpOhM5DtQp6EwasYe6zOR"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "NA WIEKI",
+      "url": "https://open.spotify.com/track/5I2v4NCXfzHE3aM2ahHyA1"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Talking To You",
+        "url": "https://open.spotify.com/album/3NCclrXBr6Zh4KM8wCdz1A"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Talking To You",
+      "url": "https://open.spotify.com/track/5WZHI2EK0DujaHLYrtgH4Q"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Unbidden Guest",
+        "url": "https://open.spotify.com/album/6P66L3QLHLJSpLM7TkRtPz"
+      },
+      "artists": [
+        {
+          "name": "Thou",
+          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
+        }
+      ],
+      "duration_ms": 223153,
+      "name": "Unbidden Guest",
+      "url": "https://open.spotify.com/track/7aPY6j2n2A3UjWQciFnKOb"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Loveless Suffering",
+        "url": "https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 247647,
+      "name": "Loveless Suffering",
+      "url": "https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "My Demise",
+        "url": "https://open.spotify.com/album/16npYkSzHqRMovT2rZPxvI"
+      },
+      "artists": [
+        {
+          "name": "Red Handed Denial",
+          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "My Demise",
+      "url": "https://open.spotify.com/track/4khMFRcix9aKyMK8xrMR4I"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Endless me",
+        "url": "https://open.spotify.com/album/1LNNdn2VFkm6t1rvca4bqd"
+      },
+      "artists": [
+        {
+          "name": "Sokoninaru",
+          "url": "https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF"
+        }
+      ],
+      "duration_ms": 149557,
+      "name": "Endless me",
+      "url": "https://open.spotify.com/track/3Edh4bQKpRAN21AWg2GBIu"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Step Five",
+        "url": "https://open.spotify.com/album/10cClkk9dlqj8qiqId4dHy"
+      },
+      "artists": [
+        {
+          "name": "LAXX",
+          "url": "https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx"
+        }
+      ],
+      "duration_ms": 256730,
+      "name": "Step Five",
+      "url": "https://open.spotify.com/track/2cZGfZoxO1WS0BRCaZochU"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Foreclosure",
+        "url": "https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "Foreclosure",
+      "url": "https://open.spotify.com/track/3qpySDNXf86isiB0I4tr6h"
+    },
+    {
+      "added_at": "2024-05-08 22:02:31",
+      "album": {
+        "name": "Treacle",
+        "url": "https://open.spotify.com/album/3OA4iV106FX6hE24PYOq6F"
+      },
+      "artists": [
+        {
+          "name": "Hagop Tchaparian",
+          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "Treacle",
+      "url": "https://open.spotify.com/track/7hdZkXnculeyD2NaiatIPu"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "duration_ms": 262256,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "LOVE OR DIE",
+        "url": "https://open.spotify.com/album/5SHAZ0OQYdiUfUEDlf8SFB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        }
+      ],
+      "duration_ms": 177146,
+      "name": "Love or Die",
+      "url": "https://open.spotify.com/track/4EeeTgHVTrutCWiqtw8vCl"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "flare",
+        "url": "https://open.spotify.com/album/4D4E97npL7MBUiIhDn0G4O"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "duration_ms": 207531,
+      "name": "flare",
+      "url": "https://open.spotify.com/track/1XiI0u8eAQ9oHtTTHoA86V"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "Drinking Jack With Daddy",
+        "url": "https://open.spotify.com/album/5gaGqY2DieAtraiZSUefXV"
+      },
+      "artists": [
+        {
+          "name": "Luke Black",
+          "url": "https://open.spotify.com/artist/3sPiEqLcANa5kAp5RnEHNq"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Drinking Jack With Daddy",
+      "url": "https://open.spotify.com/track/65ejKmC2PASoJT9SBoS9AC"
+    },
+    {
+      "added_at": "2024-05-08 10:02:11",
+      "album": {
+        "name": "Close Call",
+        "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Close Call",
+      "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+    },
     {
       "added_at": "2024-05-07 22:02:46",
       "album": {
@@ -171,276 +447,8 @@
       "duration_ms": 206712,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/6IpolXK6gnVn0c6ilWI2QX"
-    },
-    {
-      "added_at": "2024-05-07 22:02:46",
-      "album": {
-        "name": "FLY HOME",
-        "url": "https://open.spotify.com/album/6ARHxumvDK27caZYk2q7AH"
-      },
-      "artists": [
-        {
-          "name": "CHRIS RAIN",
-          "url": "https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y"
-        }
-      ],
-      "duration_ms": 154365,
-      "name": "FLY HOME",
-      "url": "https://open.spotify.com/track/5R2jZK1FEUkHjGLZ0lCSgD"
-    },
-    {
-      "added_at": "2024-05-07 22:02:46",
-      "album": {
-        "name": "I Wanna Live With You",
-        "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 174943,
-      "name": "I Wanna Live With You",
-      "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
-    },
-    {
-      "added_at": "2024-05-07 10:02:05",
-      "album": {
-        "name": "IF I'M GONNA GO ANYWHERE",
-        "url": "https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 263803,
-      "name": "IF I'M GONNA GO ANYWHERE",
-      "url": "https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31"
-    },
-    {
-      "added_at": "2024-05-07 10:02:05",
-      "album": {
-        "name": "Nihilism",
-        "url": "https://open.spotify.com/album/69fjRGFNKKjgx4PzdxAsRz"
-      },
-      "artists": [
-        {
-          "name": "Vended",
-          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
-        }
-      ],
-      "duration_ms": 196017,
-      "name": "Nihilism",
-      "url": "https://open.spotify.com/track/6C8l342LO3G0EOQWbdM7Yz"
-    },
-    {
-      "added_at": "2024-05-07 10:02:05",
-      "album": {
-        "name": "Hate Me / 1208",
-        "url": "https://open.spotify.com/album/4AWZKhaWg4Tmj9aggSsexy"
-      },
-      "artists": [
-        {
-          "name": "Aweminus",
-          "url": "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
-        }
-      ],
-      "duration_ms": 215401,
-      "name": "1208",
-      "url": "https://open.spotify.com/track/77H0nQuzBbjedQAHySuTUb"
-    },
-    {
-      "added_at": "2024-05-07 10:02:05",
-      "album": {
-        "name": "Oh God Yurei Is Cumming !!",
-        "url": "https://open.spotify.com/album/1emZjq7sXzwtXZNcg1xheI"
-      },
-      "artists": [
-        {
-          "name": "Acidgvrl",
-          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
-        },
-        {
-          "name": "Y\u00fbmi",
-          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
-        }
-      ],
-      "duration_ms": 160624,
-      "name": "Oh God Yurei Is Cumming !!",
-      "url": "https://open.spotify.com/track/0Wwa5uN1YllgEvteI0phNU"
-    },
-    {
-      "added_at": "2024-05-06 22:02:03",
-      "album": {
-        "name": "VEGETABLE (BRAIN DEAD)",
-        "url": "https://open.spotify.com/album/2MbH2QLMq2qaogGFMhw9ym"
-      },
-      "artists": [
-        {
-          "name": "Baby Kia",
-          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
-        }
-      ],
-      "duration_ms": 142805,
-      "name": "VEGETABLE (BRAIN DEAD)",
-      "url": "https://open.spotify.com/track/2XOraVvSzyO2wFxmd9Jggt"
-    },
-    {
-      "added_at": "2024-05-06 22:02:03",
-      "album": {
-        "name": "Fruit Wine",
-        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 171854,
-      "name": "Fruit Wine",
-      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
-    },
-    {
-      "added_at": "2024-05-06 22:02:03",
-      "album": {
-        "name": "Big Dipper",
-        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
-      },
-      "artists": [
-        {
-          "name": "Half Waif",
-          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Big Dipper",
-      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
-    },
-    {
-      "added_at": "2024-05-06 22:02:03",
-      "album": {
-        "name": "Out of Frame",
-        "url": "https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        },
-        {
-          "name": "Sharks",
-          "url": "https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM"
-        },
-        {
-          "name": "L\u00daTHIEN",
-          "url": "https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Out of Frame",
-      "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
-    },
-    {
-      "added_at": "2024-05-06 22:02:03",
-      "album": {
-        "name": "pull/toxic",
-        "url": "https://open.spotify.com/album/2cHR90fHazFTXJEUK13pHh"
-      },
-      "artists": [
-        {
-          "name": "emorave",
-          "url": "https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM"
-        }
-      ],
-      "duration_ms": 127242,
-      "name": "pull/toxic",
-      "url": "https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5"
-    },
-    {
-      "added_at": "2024-05-06 10:03:00",
-      "album": {
-        "name": "Wrong Side of the River",
-        "url": "https://open.spotify.com/album/7wE4q2uQ3JO6WWOpYSRQEx"
-      },
-      "artists": [
-        {
-          "name": "JT Music",
-          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Wrong Side of the River",
-      "url": "https://open.spotify.com/track/4qU9spVZ3sd3SDTwnvD39v"
-    },
-    {
-      "added_at": "2024-05-06 10:03:00",
-      "album": {
-        "name": "not askin 4 much",
-        "url": "https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM"
-      },
-      "artists": [
-        {
-          "name": "Frizk",
-          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
-        }
-      ],
-      "duration_ms": 133008,
-      "name": "not askin 4 much",
-      "url": "https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG"
-    },
-    {
-      "added_at": "2024-05-06 10:03:00",
-      "album": {
-        "name": "Charlie Chaplin Ate My Son",
-        "url": "https://open.spotify.com/album/63m66lhJxLFySOGRjBMAjX"
-      },
-      "artists": [
-        {
-          "name": "Billy Cobb",
-          "url": "https://open.spotify.com/artist/1jIl0sLvlOzGpT2RqPBfyE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Charlie Chaplin Ate My Son",
-      "url": "https://open.spotify.com/track/3Sl9f6fSRnSGqeR1KXCrUq"
-    },
-    {
-      "added_at": "2024-05-05 10:02:31",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-05-05 10:02:31",
-      "album": {
-        "name": "TSUNDERE!",
-        "url": "https://open.spotify.com/album/3LWWli5J9Ueytn0f8RM6my"
-      },
-      "artists": [
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        }
-      ],
-      "duration_ms": 126525,
-      "name": "TSUNDERE!",
-      "url": "https://open.spotify.com/track/3LPtKeW56QZnjjI8GVRlac"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 08 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 09 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  <br/>Virgin Vacation
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,194 likes - 185 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,201 likes - 185 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

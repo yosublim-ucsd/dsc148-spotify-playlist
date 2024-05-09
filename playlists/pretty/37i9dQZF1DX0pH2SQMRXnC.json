@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1291527,
+  "num_followers": 1291761,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "GO CRAZY",
-        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "GO CRAZY",
-      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Epic Sax Song",
         "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 176212,
       "name": "Epic Sax Song",
       "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "GO CRAZY",
+        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "GO CRAZY",
+      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Ode To My Body",
-        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Ode To My Body",
-      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Raw Resurgence (Official Supremacy 2023 Anthem)",
         "url": "https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 320148,
       "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
       "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Ode To My Body",
+        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Ode To My Body",
+      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1719,22 +1719,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+        "name": "Oh Fortuna",
+        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
         }
       ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+      "duration_ms": 170117,
+      "name": "Oh Fortuna - Carmina Burana",
+      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1759,26 +1763,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Oh Fortuna",
-        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         },
         {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
-        },
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
         }
       ],
-      "duration_ms": 170117,
-      "name": "Oh Fortuna - Carmina Burana",
-      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Together As One (feat. Sam LeMay)",
-        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
-      },
-      "artists": [
-        {
-          "name": "The Pitcher",
-          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
-        }
-      ],
-      "duration_ms": 186424,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Living For The Moment (2020 Remix)",
         "url": "https://open.spotify.com/album/2t6M7HjXueQfUFDIjQhPEG"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+        "name": "Together As One (feat. Sam LeMay)",
+        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
       },
       "artists": [
         {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
         }
       ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+      "duration_ms": 186424,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2031,6 +2015,22 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
-        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 235348,
-      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
-      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Lay Low (Radical Redemption Remix)",
         "url": "https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 176258,
       "name": "Lay Low (Radical Redemption Remix)",
       "url": "https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 235348,
+      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
+      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2403,54 +2403,6 @@
       "duration_ms": 241600,
       "name": "Now Or Never (Toneshifterz Remix)",
       "url": "https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
-        }
-      ],
-      "duration_ms": 289548,
-      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Summer Secrets",
-        "url": "https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Adjuzt",
-          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
-        },
-        {
-          "name": "RXBY",
-          "url": "https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z"
-        }
-      ],
-      "duration_ms": 197468,
-      "name": "Summer Secrets",
-      "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2515,22 +2467,46 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
+        "name": "HEAR THE NOISE",
+        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
       "artists": [
         {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 208383,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
+      "duration_ms": 166988,
+      "name": "HEAR THE NOISE",
+      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 289548,
+      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2559,6 +2535,26 @@
       "duration_ms": 195698,
       "name": "This Deejay",
       "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 208383,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2619,22 +2615,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "HEAR THE NOISE",
-        "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         },
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
         }
       ],
-      "duration_ms": 166988,
-      "name": "HEAR THE NOISE",
-      "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+      "duration_ms": 150400,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2671,26 +2671,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
+        "name": "Summer Secrets",
+        "url": "https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6"
       },
       "artists": [
         {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
         },
         {
-          "name": "Lost Identity",
-          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+          "name": "RXBY",
+          "url": "https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z"
         }
       ],
-      "duration_ms": 150400,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+      "duration_ms": 197468,
+      "name": "Summer Secrets",
+      "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2815,6 +2815,46 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Rave Now",
+        "url": "https://open.spotify.com/album/3N0G0lU2lO3t4cX5oekKNA"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Rave Now",
+      "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
@@ -2859,42 +2899,18 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Rave Now",
-        "url": "https://open.spotify.com/album/3N0G0lU2lO3t4cX5oekKNA"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Rave Now",
-      "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+      "duration_ms": 182000,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2915,22 +2931,6 @@
       "duration_ms": 216774,
       "name": "Techno Syndrome (Mortal Kombat)",
       "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
     },
     {
       "added_at": "2024-04-18 18:52:36",

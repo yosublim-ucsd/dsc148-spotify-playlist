@@ -3055,6 +3055,32 @@
     },
     {
       "album": {
+        "name": "Je Jatt Vigarh Gya (From \"Je Jatt Vigarh Gya\")",
+        "url": "https://open.spotify.com/album/2qELzxaJsp9Ru9zynVkYwQ"
+      },
+      "artists": [
+        {
+          "name": "Lehmber Hussainpuri",
+          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146199,
+      "name": "Je Jatt Vigarh Gya (From \"Je Jatt Vigarh Gya\")",
+      "url": "https://open.spotify.com/track/3YO9wX296m33BNBrqgLzj5"
+    },
+    {
+      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0"
       },
@@ -5028,7 +5054,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 127178,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/4mPemcGM6cFL5ZNajHqvZ9"

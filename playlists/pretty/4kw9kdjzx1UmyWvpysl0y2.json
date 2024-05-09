@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126007,
+  "num_followers": 126003,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASVPfurZvTwU1PJY7MaCMTFvhQuDBD",
+  "snapshot_id": "AAASVhmFkW1mJngOb5L/IxLaVNhqoY5y",
   "tracks": [
+    {
+      "added_at": "2024-05-08 17:44:41",
+      "album": {
+        "name": "RIOT (RAIZHELL Remix)",
+        "url": "https://open.spotify.com/album/2qTppH4c5EhgknBK4P8JRN"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "RIOT - RAIZHELL Remix",
+      "url": "https://open.spotify.com/track/4wivSJRYwhnWeuKW3TjIEp"
+    },
     {
       "added_at": "2024-05-07 15:17:34",
       "album": {
@@ -1171,26 +1195,6 @@
       "duration_ms": 195500,
       "name": "The One",
       "url": "https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4"
-    },
-    {
-      "added_at": "2024-02-19 19:12:47",
-      "album": {
-        "name": "No Tomorrow",
-        "url": "https://open.spotify.com/album/1swqPWfvWrpOON97OKZ6Bx"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "Brandyn Burnette",
-          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/2d390UHjBS2TIY27DGFajM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

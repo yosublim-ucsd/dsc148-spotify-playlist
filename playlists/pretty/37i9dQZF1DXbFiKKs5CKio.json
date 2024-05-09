@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 56640,
+  "num_followers": 56638,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -247,30 +247,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Love Songs, Vol. I",
-        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "BRUN\u00ca",
-          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
-        },
-        {
-          "name": "DeVito Cxrleone",
-          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "me chama de sua",
-      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/1Xb6QnMiLu7H0IZgMY996F"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "me chama de sua",
+      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
     },
     {
       "added_at": "2024-04-05 03:01:00",
@@ -631,42 +631,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
-      },
-      "artists": [
-        {
-          "name": "DROKI",
-          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
-        }
-      ],
-      "duration_ms": 154958,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Sinto a Sua Falta",
         "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
       },
@@ -703,6 +667,42 @@
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N"
+      },
+      "artists": [
+        {
+          "name": "DROKI",
+          "url": "https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op"
+        }
+      ],
+      "duration_ms": 154958,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK"
     },
     {
       "added_at": "2024-04-05 03:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12699,
+  "num_followers": 12710,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Life For Rent",
-        "url": "https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Don't Leave Home",
-      "url": "https://open.spotify.com/track/7ddFviC4ObJzizg98keTNt"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Trag\u00e9die (\u00c9dition Deluxe)",
         "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 216493,
       "name": "Sexy pour moi! - Mix 2",
       "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Life For Rent",
+        "url": "https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Don't Leave Home",
+      "url": "https://open.spotify.com/track/7ddFviC4ObJzizg98keTNt"
     },
     {
       "added_at": "2020-10-27 12:12:52",

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Sidhu Moose Wala
 
-341 songs - 17 hr 36 min
+342 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Jatt Vailly](https://open.spotify.com/track/18kRElgBSIAsd3DHPUajuI) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:31 | 2023-09-29 |  |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-05-29 | 2022-07-16 |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2022-05-29 |  |
+| [Je Jatt Vigarh Gya \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/track/3YO9wX296m33BNBrqgLzj5) | [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Je Jatt Vigarh Gya \(From "Je Jatt Vigarh Gya"\)](https://open.spotify.com/album/2qELzxaJsp9Ru9zynVkYwQ) | 2:26 | 2024-05-08 |  |
 | [Jealousy \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/0GnqC8ZVxrZPULa5EQGWbW) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:14 | 2022-05-29 | 2023-08-01 |
 | [Jeona](https://open.spotify.com/track/5DTVQqsYvx3QaMLQpzpjiu) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Manifest](https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8) | 2:51 | 2024-04-06 | 2024-05-04 |
 | [Jhanjra](https://open.spotify.com/track/17YnD2vTglJNglWvHq9S3E) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jhanjra](https://open.spotify.com/album/2TxbHJz8I5HmEeMBj5gsX7) | 3:32 | 2022-05-29 | 2022-06-15 |
@@ -242,7 +243,7 @@
 | [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-07-15 |  |
 | [Pecha](https://open.spotify.com/track/07OW5WU6lUm8fnH0yw8iFL) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Pecha](https://open.spotify.com/album/5nUT6udb0AM74ZQo390uKb) | 3:12 | 2023-01-18 | 2023-01-24 |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 | 2022-12-11 |
-| [Playboy](https://open.spotify.com/track/4mPemcGM6cFL5ZNajHqvZ9) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Playboy](https://open.spotify.com/album/1z0uaYP1v7ZSRCh6trtrc3) | 2:07 | 2024-04-26 |  |
+| [Playboy](https://open.spotify.com/track/4mPemcGM6cFL5ZNajHqvZ9) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Playboy](https://open.spotify.com/album/1z0uaYP1v7ZSRCh6trtrc3) | 2:07 | 2024-04-26 | 2024-05-09 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2022-12-21 |  |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 | 2022-09-17 |
 | [Problems Over Peace](https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Problems Over Peace](https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w) | 2:38 | 2024-04-05 |  |

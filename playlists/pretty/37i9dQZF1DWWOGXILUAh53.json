@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Sofi Tukker",
-  "num_followers": 158388,
+  "num_followers": 158636,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjUJEQAAAACmz0OLLbbueb9VRlpFe/q9",
+  "snapshot_id": "ZjuxlAAAAABUWils0rljl3RCkb5Pscdh",
   "tracks": [
     {
       "added_at": "2024-05-03 04:01:00",
@@ -191,6 +191,26 @@
       "duration_ms": 154046,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB"
+    },
+    {
+      "added_at": "2024-05-08 17:08:35",
+      "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-05-03 04:01:00",

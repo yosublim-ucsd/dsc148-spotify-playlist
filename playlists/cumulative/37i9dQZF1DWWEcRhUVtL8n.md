@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Kacy Hill
 
-1,848 songs - 4 day 1 hr 22 min
+1,849 songs - 4 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1230,7 +1230,7 @@
 | [Otherside](https://open.spotify.com/track/4f76nMYcvzFX8gi9GnPcid) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Otherside](https://open.spotify.com/album/7Im56HLW1i84DkU4Zu2EZq) | 3:01 | 2020-11-13 | 2021-03-21 |
 | [outgrow](https://open.spotify.com/track/5kGXxLtGesx9K16kgA7Bwu) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [outgrow](https://open.spotify.com/album/7upwvHki0CEuPEFDwrACbX) | 3:30 | 2022-03-18 | 2022-04-20 |
 | [Outta This World](https://open.spotify.com/track/58Rt4LpJI0HoYuOX9ILG7L) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Outta This World](https://open.spotify.com/album/5j6iEQQKvgHYIBmusCIU2B) | 2:39 | 2021-11-12 | 2022-01-14 |
-| [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 |  |
+| [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 | 2024-05-09 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-04-28 |
 | [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 | 2022-06-08 |
 | [Over It](https://open.spotify.com/track/0gGD3kFDXo6jz8gvSxa9ya) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Over It](https://open.spotify.com/album/51ocifKtkmS3eEDfnU3Sc0) | 3:04 | 2020-11-10 | 2021-05-22 |
@@ -1360,6 +1360,7 @@
 | [Right Thing](https://open.spotify.com/track/4dSOUIj2mJ7gZuW7dbuSB0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Right Thing](https://open.spotify.com/album/1WFSgrgfu33KqJfk4CWyPW) | 3:42 | 2023-01-23 | 2023-02-04 |
 | [Risk It All](https://open.spotify.com/track/110004u5CbqwZ6mD0elr6l) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Risk It All](https://open.spotify.com/album/2RU5jhdjyOleSiJIBRJKvn) | 3:33 | 2021-05-07 | 2021-05-24 |
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |
+| [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2024-05-03 |  |
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-22 | 2021-05-28 |
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-12-09 |

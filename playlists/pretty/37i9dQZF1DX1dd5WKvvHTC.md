@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs?si=SBcEfoTTRteVArBDUyl\_Ug">Armaan Malik</a>, <a href="https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX?si=WyO4f2\_zTMOpnb\-PR5IH7A">Calum Scott</a>, <a href="https://open.spotify.com/playlist/37i9dQZF1EFMXdDNyT5XPb?si=f17706ee09a94673">Jon Maguire</a> and <a href="https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT?si=57bbd3e8ae3b4985">Bill Maybury</a> .
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,092 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 |
 | 40 | [Interplanetary Signs](https://open.spotify.com/track/5MckTODaQ7hJHlC0SyL8UY) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Interplanetary Signs](https://open.spotify.com/album/5pnhaPViIMq98HllJWMCde) | 3:14 |
 
-Snapshot ID: `ZjTF2QAAAACoVLZiMydVTaRnQGzzMK8S`
+Snapshot ID: `ZjvVAAAAAACRrlQ2lXlWey4ybfJTaGUf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Co\-curated with our May ambassador, Leigh\-Anne 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,902 likes - 50 songs - 2 hr 31 min
+[](https://open.spotify.com/user/null) - 23,919 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

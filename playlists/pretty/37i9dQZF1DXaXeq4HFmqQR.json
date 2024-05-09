@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13473,
+  "num_followers": 13472,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 183665,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "KARO LUJOSO",
         "url": "https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 134000,
       "name": "KARO LUJOSO",
       "url": "https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 183665,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw"
     },
     {
       "added_at": "2024-03-11 17:02:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
-        "name": "todo lo que fui",
-        "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
-      },
-      "artists": [
-        {
-          "name": "cata teuber",
-          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
-        }
-      ],
-      "duration_ms": 212702,
-      "name": "casas de cart\u00f3n",
-      "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/6wj89F0gGAMks3pJnlQ6hE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 244085,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/6Dpo39yzOfHjhM0tGNPT98"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
+        "name": "todo lo que fui",
+        "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
+      },
+      "artists": [
+        {
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
+        }
+      ],
+      "duration_ms": 212702,
+      "name": "casas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
     },
     {
       "added_at": "2024-03-11 17:02:36",

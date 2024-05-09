@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,802 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,824 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 12 | [Party im Zoo](https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Oh Yeah!](https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR) | 2:25 |
 | 13 | [Häschen hüpf](https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Heile Welt](https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc) | 3:14 |
 | 14 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
-| 15 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 |
-| 16 | [Im Frühtau zu Berge](https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:14 |
+| 15 | [Im Frühtau zu Berge](https://open.spotify.com/track/7I8Eo73Pmvnc1HBwP2eDtO) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:14 |
+| 16 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 |
 | 17 | [Unter dem Meer](https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 3](https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd) | 3:07 |
 | 18 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 19 | [Jetzt fängt das schöne Frühjahr an](https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 0:56 |

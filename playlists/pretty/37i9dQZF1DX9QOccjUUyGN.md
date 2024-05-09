@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Krawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,575 likes - 88 songs - 4 hr 13 min
+[](https://open.spotify.com/user/null) - 16,574 likes - 88 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Erasmo Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,520 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,550 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 16 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
 | 17 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 |
 | 18 | [Eu não tô bem](https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Eu não tô bem](https://open.spotify.com/album/377PD3X26PookRc8iWwcu2) | 2:26 |
-| 19 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 |
-| 20 | [Cremosa](https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:40 |
+| 19 | [Cremosa](https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:40 |
+| 20 | [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 |
 | 21 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
 | 22 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 | 23 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 46 | [Será que eu tô gostando dela? \(Acústico\)](https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA) | [Tuca Oliveira](https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k) | [Será que eu tô gostando dela? \(Acústico\)](https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T) | 3:16 |
 | 47 | [Qual É a Sua?](https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Qual É a Sua?](https://open.spotify.com/album/018b2Donln67BGiwNP7XjS) | 2:52 |
 | 48 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |
-| 49 | [Cheguei pra ficar](https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Cheguei pra ficar](https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x) | 2:30 |
-| 50 | [Em cada pra sempre](https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [George Israel](https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T) | [4Mãos \- Lado A](https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH) | 3:09 |
+| 49 | [Em cada pra sempre](https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [George Israel](https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T) | [4Mãos \- Lado A](https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH) | 3:09 |
+| 50 | [Cheguei pra ficar](https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Cheguei pra ficar](https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x) | 2:30 |
 | 51 | [O Barquinho](https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Diogo Monzo](https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc), [Ricardo Bacelar](https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF) | [Nós e o Mar](https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU) | 3:53 |
 | 52 | [Clube](https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW) | [Toco](https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL) | [Riviera](https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA) | 3:09 |
 | 53 | [Esqueça Tudo](https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe) | [Esqueça Tudo](https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF) | 3:09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 158968,
+  "num_followers": 158980,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAABfiJcb/IUJvM2Ws1qKAOR8",
+  "snapshot_id": "ZjlvAAAAAADeZ6HZ/sprpKWE0ATzcUDI",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nazareno",
-        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "O Nazareno",
-      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autor de Vida (Autor da Vida)",
-        "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 296578,
-      "name": "Autor de Vida (Autor da Vida)",
-      "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus do Imposs\u00edvel",
         "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 261780,
       "name": "Para Sempre Te Adorarei",
       "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autor de Vida (Autor da Vida)",
+        "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 296578,
+      "name": "Autor de Vida (Autor da Vida)",
+      "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
     },
     {
       "added_at": null,

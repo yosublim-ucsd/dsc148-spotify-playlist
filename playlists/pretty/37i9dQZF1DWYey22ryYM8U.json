@@ -1,6 +1,6 @@
 {
   "description": "Hits con sabor. Cover: Camilo & Carin Leon",
-  "num_followers": 597138,
+  "num_followers": 597139,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
         "name": "En Esta Boca",
         "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Rechazame",
-      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 222043,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 222043,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1519,18 +1519,26 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+        "name": "De Camino A Palomino, Vol. 1",
+        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+      "duration_ms": 210446,
+      "name": "Se Le Nota",
+      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1559,26 +1567,18 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "De Camino A Palomino, Vol. 1",
-        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 210446,
-      "name": "Se Le Nota",
-      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Cr\u00e9eme",
-        "url": "https://open.spotify.com/album/3WUjknYm964pru7qXzI85J"
-      },
-      "artists": [
-        {
-          "name": "Michel Robles",
-          "url": "https://open.spotify.com/artist/6cu8qsCgvrKHDLzHOHSeBi"
-        },
-        {
-          "name": "Yahaira Plasencia",
-          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
-        }
-      ],
-      "duration_ms": 332324,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
         "name": "C\u00f3mo Olvidar (Versi\u00f3n 2021)",
         "url": "https://open.spotify.com/album/6hSEwNZfaqGZ6Id9PrOMhO"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 226771,
       "name": "C\u00f3mo Olvidar - Versi\u00f3n 2021",
       "url": "https://open.spotify.com/track/54Gc7ov5yGRn4iaGOph0jJ"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Cr\u00e9eme",
+        "url": "https://open.spotify.com/album/3WUjknYm964pru7qXzI85J"
+      },
+      "artists": [
+        {
+          "name": "Michel Robles",
+          "url": "https://open.spotify.com/artist/6cu8qsCgvrKHDLzHOHSeBi"
+        },
+        {
+          "name": "Yahaira Plasencia",
+          "url": "https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E"
+        }
+      ],
+      "duration_ms": 332324,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "Ziriguidum",
-        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "Ziriguidum",
-      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 215915,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
+    },
+    {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Ziriguidum",
+        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Ziriguidum",
+      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
     },
     {
       "added_at": "2024-04-26 04:01:00",

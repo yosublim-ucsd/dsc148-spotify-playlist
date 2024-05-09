@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,794 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,889 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 12 | [BAD](https://open.spotify.com/track/6e0PZ8AMRym43AfX3K2out) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [BAD](https://open.spotify.com/album/3Pjozw8QPt8Ka7EQzDFkp6) | 4:02 |
 | 13 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 |
 | 14 | [WAT U WANT](https://open.spotify.com/track/55fd8tvjN8u4uYqxA9yuAR) | [FIIXD](https://open.spotify.com/artist/3E2RbO6J3JSYa9VgP5iGMH), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [BIG SHLIME](https://open.spotify.com/album/6ZrVZ7sZVfrF9gYQq7aF5E) | 2:38 |
-| 15 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [Lil X](https://open.spotify.com/artist/6JU3HVDt49f52BPbBQtqax) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 |
+| 15 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 |
 | 16 | [เมาจัด](https://open.spotify.com/track/3Olk6l3VTiHcqK4nXUX6sY) | [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ), [LOMAX](https://open.spotify.com/artist/3eiNvaC2ld4aGm4Iaqzaos) | [เมาจัด](https://open.spotify.com/album/4vI26mtb0mVxfPrUBBSt9a) | 2:57 |
 | 17 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 |
 | 18 | [ไร้รัก](https://open.spotify.com/track/7LQegHlWROlwRO1WgYfXVR) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ) | [ไร้รัก](https://open.spotify.com/album/4o4WWN1a3bH0Z7IxOKhNAa) | 3:33 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 27 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 |
 | 28 | [KIMINOTO](https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [KIMINOTO](https://open.spotify.com/album/7KRy7dJ1H6oIUdvkF9LXj2) | 3:42 |
 | 29 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 |
-| 30 | [มากพอแล้ว](https://open.spotify.com/track/4IryNCwOFpLG3CuVMD9dOq) | [Lil X](https://open.spotify.com/artist/6JU3HVDt49f52BPbBQtqax) | [มากพอแล้ว](https://open.spotify.com/album/7sUN9IakVZhB376QxkJwbN) | 4:04 |
+| 30 | [มากพอแล้ว](https://open.spotify.com/track/4IryNCwOFpLG3CuVMD9dOq) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [มากพอแล้ว](https://open.spotify.com/album/7sUN9IakVZhB376QxkJwbN) | 4:04 |
 | 31 | [ตื่นขึ้นมาเติม](https://open.spotify.com/track/3PWuPH3uUYwZnXomacAeMg) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [ตื่นขึ้นมาเติม](https://open.spotify.com/album/0gg4I0byk7NySvFcliWC3N) | 2:41 |
 | 32 | [9MARES4EVER](https://open.spotify.com/track/66U1dP3MYSEWcFiOfFlcKL) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [Vezeus](https://open.spotify.com/artist/2hNuCmSo9knZO2YJQeTboH) | [9MARES4EVER](https://open.spotify.com/album/6s9ROQT3iEe9Q1T5gNKIhA) | 3:24 |
 | 33 | [Promethazine](https://open.spotify.com/track/25n8diXqpb6LKyL0Dwzwoy) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [Promethazine](https://open.spotify.com/album/6dqm5VRm3sUZotTnEbIV6D) | 3:02 |

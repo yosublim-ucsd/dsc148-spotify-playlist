@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Akong Addiction",
+        "url": "https://open.spotify.com/album/37egJXzirS9te7NSlbxndI"
+      },
+      "artists": [
+        {
+          "name": "Will Mikhael",
+          "url": "https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Akong Addiction",
+      "url": "https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh"
       },
@@ -198,7 +216,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 212622,
       "name": "Balse ng Gabi",
       "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
@@ -216,7 +234,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 238571,
       "name": "Bawat Kaluluwa",
       "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
@@ -349,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Cavite's Poison",
+        "url": "https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Cavite's Poison",
+      "url": "https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9"
+    },
+    {
+      "album": {
         "name": "Closer You and I",
         "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
       },
@@ -461,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K"
+      },
+      "artists": [
+        {
+          "name": "Aud",
+          "url": "https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy"
+    },
+    {
+      "album": {
         "name": "Halina Sa Parokya",
         "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
       },
@@ -548,7 +602,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 261375,
       "name": "Himala",
       "url": "https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi"
@@ -1504,10 +1558,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 259665,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
+    },
+    {
+      "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "album": {

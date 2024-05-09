@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3560,
+  "num_followers": 3567,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAACiWNRFXpdbaIngScR9rbf0",
+  "snapshot_id": "ZjlvAAAAAADmnoBezZIpbavQFt9i6RCY",
   "tracks": [
     {
       "added_at": null,
@@ -1259,26 +1259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ta Bom",
-        "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ta Bom",
-      "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quer Ibope",
         "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 223218,
       "name": "Quer Ibope",
       "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ta Bom",
+        "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ta Bom",
+      "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
     },
     {
       "added_at": null,

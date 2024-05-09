@@ -2,7 +2,7 @@
 
 ### [This Is Alessandro Cortini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR)
 
-> This is Alessandro Cortini\. The essential tracks, all in one playlist.
+> This is: Alessandro Cortini\. Alle wichtigen Tracks in einer Playlist.
 
 110 songs - 10 hr 30 min
 

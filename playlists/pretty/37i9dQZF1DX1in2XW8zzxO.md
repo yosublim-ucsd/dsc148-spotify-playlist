@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,022 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,084 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 46 | [Ngeke \- Radio Edit](https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22) | [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa) | [Ngeke](https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL) | 3:54 |
 | 47 | [Johnny](https://open.spotify.com/track/5cmq3bQRln1nrn8cRtZCPf) | [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Johnny](https://open.spotify.com/album/1n99YYqW3PqB4d1GdxfvS5) | 6:18 |
 | 48 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
-| 49 | [MOB TIES](https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn) | [TeraphoniQue](https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m), [DNZL444](https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9) | [MOB TIES](https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj) | 7:06 |
+| 49 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
 | 50 | [QOBA \- DJ Cleo Remix](https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN) | [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5), [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [QOBA \(DJ Cleo Remix\)](https://open.spotify.com/album/5RfxrbrKA8NtEDv6JHN0DB) | 4:39 |
 
 Snapshot ID: `ZjSrpwAAAAAPnVN2ZBAabDfOvwDd9Lwa`

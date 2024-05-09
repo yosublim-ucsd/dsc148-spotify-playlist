@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,984 likes - 186 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,027 likes - 186 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1245770,
+  "num_followers": 1245741,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi"
-      },
-      "artists": [
-        {
-          "name": "Pete Josef",
-          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
-        }
-      ],
-      "duration_ms": 240340,
-      "name": "Sunny Side Up",
-      "url": "https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Adaptations",
         "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 206015,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi"
+      },
+      "artists": [
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+        }
+      ],
+      "duration_ms": 240340,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Campfire, Vol. 1",
-        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Let's Go Outside - Campfire Version",
-      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Some Kind of Heaven",
         "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 310799,
       "name": "Some Kind of Heaven",
       "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Cavern's Dark / Nimbin",
-        "url": "https://open.spotify.com/album/5Os7vMZPTFE5jIrdIpDK7l"
-      },
-      "artists": [
-        {
-          "name": "Mappe Of",
-          "url": "https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr"
-        }
-      ],
-      "duration_ms": 283653,
-      "name": "Nimbin",
-      "url": "https://open.spotify.com/track/6wHgmOZfLWmn685tDFXsX7"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Bad Dream",
         "url": "https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 250146,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Cavern's Dark / Nimbin",
+        "url": "https://open.spotify.com/album/5Os7vMZPTFE5jIrdIpDK7l"
+      },
+      "artists": [
+        {
+          "name": "Mappe Of",
+          "url": "https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr"
+        }
+      ],
+      "duration_ms": 283653,
+      "name": "Nimbin",
+      "url": "https://open.spotify.com/track/6wHgmOZfLWmn685tDFXsX7"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1443,6 +1443,22 @@
       "duration_ms": 236849,
       "name": "God I Hope This Year Is Better Than The Last",
       "url": "https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/3LApsNoXrlZHPIhGNdo8P1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Andrea von Kampen on Audiotree Live",
-        "url": "https://open.spotify.com/album/3vwPmU4r8gbq0dolrh8T1l"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 162979,
-      "name": "Old Country (Audiotree Live Version)",
-      "url": "https://open.spotify.com/track/5gx9Tna1CvetTbi0JHQl7d"
     }
   ],
   "unique_name": "Evening Acoustic",

@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "dearmybaby",
+        "url": "https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Kim Boo Kyung",
+          "url": "https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "dearmybaby (with Kim Boo Kyung)",
+      "url": "https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3"
+    },
+    {
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -428,7 +450,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 231482,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"

@@ -4,7 +4,7 @@
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-223 songs - 12 hr 17 min
+224 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-06-17 | 2024-01-19 |
 | [Para Lisa](https://open.spotify.com/track/2TkQBNls3vXKGpe3G4HSi2) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Para Lisa](https://open.spotify.com/album/12lwEdt950VatQ7dKRZESb) | 3:32 | 2022-01-04 | 2022-07-28 |
 | [Peli\-Culeo \- Remix](https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Peli\-Culeo \(Remix\)](https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME) | 3:41 | 2023-03-24 | 2023-07-30 |
+| [Perreo 101](https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 3:24 | 2024-05-08 |  |
 | [Perreo Como Antes](https://open.spotify.com/track/5n0QCDvFTl6yCOvGBy7uA3) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F) | [Llego el Perreo](https://open.spotify.com/album/0N3lZLWY4iToTQ65pWsCRF) | 3:32 | 2022-03-26 | 2022-07-25 |
 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 | 2022-01-04 | 2022-07-22 |
 | [Pichaera](https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Pichaera](https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6) | 4:06 | 2023-07-21 | 2023-10-12 |
@@ -184,7 +185,7 @@
 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 | 2022-03-26 |  |
 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 | 2024-03-15 | 2024-04-30 |
 | [Rompe Rodillas](https://open.spotify.com/track/52rsR4AAdXG6icFOAmuGyE) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [BRB Be Right Back](https://open.spotify.com/album/4UH0KVGha7Ni3ZHIACGPCH) | 2:28 | 2022-01-04 | 2022-07-14 |
-| [Rompelo](https://open.spotify.com/track/6k2evQXcf7n9Lbc7V5XkOX) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Rompelo](https://open.spotify.com/album/6YvCx0TiIdGM84wjhAOz4t) | 2:44 | 2022-01-04 |  |
+| [Rompelo](https://open.spotify.com/track/6k2evQXcf7n9Lbc7V5XkOX) | [DJ Pedro Fuentes](https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Rompelo](https://open.spotify.com/album/6YvCx0TiIdGM84wjhAOz4t) | 2:44 | 2022-01-04 | 2024-05-09 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2022-01-04 |  |
 | [Salvaje](https://open.spotify.com/track/0OVJibv9jDMMhMfnqUDLka) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Salvaje](https://open.spotify.com/album/1YbmBZvVgsebo2fDVM2tVY) | 2:40 | 2023-05-05 | 2023-05-20 |
 | [San Andres](https://open.spotify.com/track/1GyT9RAp9hMof7ZCMPyYKM) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [San Andres](https://open.spotify.com/album/2t5rzOmk2isevxYreGZlIC) | 2:36 | 2023-02-24 | 2023-03-04 |

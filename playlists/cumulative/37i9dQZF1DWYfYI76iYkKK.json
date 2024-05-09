@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 252106,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih"
@@ -3012,6 +3012,24 @@
       "duration_ms": 194032,
       "name": "\u5b64\u5cf6",
       "url": "https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f,\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d?",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176673,
+      "name": "\u5b89",
+      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-[](https://open.spotify.com/user/null) - 289,323 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,348 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 56 | [Queria Te Ver](https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Queria Te Ver](https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8) | 3:09 |
 | 57 | [Agradecer \- Ao Vivo](https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Acústico 10 Anos Cacife](https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs) | 3:45 |
 | 58 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
-| 59 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 |
-| 60 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
-| 61 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 59 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 60 | [Insônia](https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Insônia](https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0) | 3:26 |
+| 61 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 62 | [Você Falou pra Mim](https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1) | [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Lucas Arcanjo](https://open.spotify.com/artist/6qW2bDfMWa4kAvDCMPGDqj), [Andrei Zucco](https://open.spotify.com/artist/1zFRuFu2fudXR6FQ4DgwUN) | [Você Falou pra Mim](https://open.spotify.com/album/3C4GwIc7117OxDuu66G248) | 2:21 |
 | 63 | [Qual É](https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Summer Groove](https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5) | 2:42 |
 | 64 | [Malandra Treinada](https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Malandra Treinada](https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx) | 2:19 |

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-871 songs - 2 day 16 hr 13 min
+872 songs - 2 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-12-17 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2022-11-04 | 2022-11-13 |
 | [Days Of The Lost](https://open.spotify.com/track/34JGsiDkpgQ9KtjKNOO3h4) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Days Of The Lost](https://open.spotify.com/album/7hFCSY0JLmWyeNT8NkBkm7) | 3:37 | 2022-04-15 | 2022-08-22 |
-| [Dead Again Jayne](https://open.spotify.com/track/6x57fN3xAvrYq2cEFIP1iL) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Screem Writers Guild](https://open.spotify.com/album/5rZvHeDbrAp0bA4aLYGll3) | 4:33 | 2024-04-05 |  |
+| [Dead Again Jayne](https://open.spotify.com/track/6x57fN3xAvrYq2cEFIP1iL) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Screem Writers Guild](https://open.spotify.com/album/5rZvHeDbrAp0bA4aLYGll3) | 4:33 | 2024-04-05 | 2024-05-09 |
 | [Dead on the Vine](https://open.spotify.com/track/1V0dmLDJl5O68IphFsom9a) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Dead on the Vine](https://open.spotify.com/album/2hKqORo0SRImOzkUFZ0Gt1) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Dear Anxiety](https://open.spotify.com/track/5cbH16EGi9Vop7CtemHgbR) | [Dines X Heafy](https://open.spotify.com/artist/0rbCShHTtfveGWLFz796G0), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Jared Dines](https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ) | [Dines X Heafy](https://open.spotify.com/album/3MtAMN8DNP0tUQaVMiqns4) | 4:03 | 2021-12-17 | 2024-05-03 |
 | [Death by Design](https://open.spotify.com/track/6SvjyJTHQiE0hNtW8onMuR) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Death by Design](https://open.spotify.com/album/4uaOVHeCyMjxq2nSKHVLV0) | 4:43 | 2021-12-17 | 2022-07-29 |
@@ -639,6 +639,7 @@
 | [Shout At The Devil](https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 3:14 | 2022-08-19 | 2023-11-19 |
 | [Sickening](https://open.spotify.com/track/3wzwYEXoNOgVRhE7mrSHzz) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Kingmaker](https://open.spotify.com/album/1fNDbschhYTY8apSceslxh) | 3:45 | 2021-12-29 | 2022-04-21 |
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2022-03-22 | 2022-04-19 |
+| [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-03 |  |
 | [Silver Tongue](https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b) | 4:18 | 2023-10-27 | 2024-04-19 |
 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 | 2022-08-19 |  |
 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |

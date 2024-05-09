@@ -3719,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "Let Me Love You (Until You Learn to Love Yourself)",
+        "url": "https://open.spotify.com/album/7DuhZ7D7lR3RaRNts46yyd"
+      },
+      "artists": [
+        {
+          "name": "Voster & Gallardo",
+          "url": "https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Let Me Love You (Until You Learn to Love Yourself)",
+      "url": "https://open.spotify.com/track/6fj8Aj1t5Yh9Vpyo5EbR30"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
       },

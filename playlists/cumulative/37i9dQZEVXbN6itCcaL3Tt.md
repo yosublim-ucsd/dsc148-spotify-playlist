@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,691 songs - 3 day 14 hr 54 min
+1,692 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-01 |
 | [Bellucci](https://open.spotify.com/track/0RCwttGlzu76XYf6G5CxPD) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [Bellucci](https://open.spotify.com/album/237y97B2gkIaKnvTz05UEy) | 3:14 | 2022-08-20 | 2022-08-27 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-07-30 | 2023-01-03 |
-| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-05-07 |  |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-05-07 | 2024-05-09 |
 | [BELWEDER \(omamale\)](https://open.spotify.com/track/1BHp12cQ54QXlO2LpUECR6) | [mgng](https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc), [MASNY BEN](https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU) | [BELWEDER \(omamale\)](https://open.spotify.com/album/7GwLVCs9hTyhtR0CjoYk58) | 2:18 | 2021-11-20 | 2022-01-27 |
 | [Benz\-Dealer](https://open.spotify.com/track/17cBWOOCK0NzWM1dqSTSf2) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Forxst](https://open.spotify.com/artist/4t8zhFslMZ1y2XQo6uirep) | [Benz\-Dealer](https://open.spotify.com/album/4ObaLvOJSLSG30VjqBL0X4) | 2:38 | 2022-01-08 | 2022-01-24 |
 | [Benz\-Dealer](https://open.spotify.com/track/4tLWnbhwxuHlyc5W7S6hEh) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R) | [Benz\-Dealer](https://open.spotify.com/album/73wBlH2IUwq5GDBoYspBbR) | 2:53 | 2021-07-15 | 2021-08-01 |
@@ -882,6 +882,7 @@
 | [millenium](https://open.spotify.com/track/5EUUrt6DYirGyFtm1tbOVp) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Lata Dwudzieste](https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj) | 3:41 | 2022-10-22 | 2022-11-13 |
 | [MILLIE WALKY](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [MILLIE WALKY](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 | 2023-05-18 | 2023-11-19 |
 | [MILLIE WALKY](https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:14 | 2023-11-18 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-08 |  |
 | [Milord](https://open.spotify.com/track/5JAkf7fy1RpcHX2GdvYWG4) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Polski Bandyta](https://open.spotify.com/artist/28sAoA15FJGXV5mkkEvNnb), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [Milord](https://open.spotify.com/album/00vfJoOOPrJv7GRS1qcB6j) | 2:42 | 2023-01-28 | 2023-02-04 |
 | [Minimini2](https://open.spotify.com/track/4sNqUUe7HSxkD0ZYobXlWz) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Quiz](https://open.spotify.com/artist/5GvwPBszaFVYwZS9eMX6vX) | [Dom Dla Zmyślonych Przyjaciół Pana Mateusza](https://open.spotify.com/album/0msLBh7Jo7cFkvTrigflxi) | 2:38 | 2022-04-08 | 2022-04-14 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-04-23 | 2023-07-25 |

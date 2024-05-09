@@ -2,7 +2,7 @@
 
 ### [The True Benny Mix](https://open.spotify.com/playlist/1WbjnZYjrqJtumqrSBwlMb)
 
-> Objectively good music
+> Subjectively good music xx
 
 884 songs - 2 day 6 hr 24 min
 

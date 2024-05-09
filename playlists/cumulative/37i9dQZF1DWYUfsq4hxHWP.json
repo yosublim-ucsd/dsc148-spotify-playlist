@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Harper Grace, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: David Unlayao, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 199794,
       "name": "2013",
       "url": "https://open.spotify.com/track/0r1vESEcETTbMbKHKJtfBA"
+    },
+    {
+      "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/7ao7CgsjpQW9LB9kGjjrMQ"
+      },
+      "artists": [
+        {
+          "name": "Logan Crosby",
+          "url": "https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146977,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/5rZvqIQMVXlqFgbiMn6ur1"
     },
     {
       "album": {
@@ -2983,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/1aujsguZQcgbNLcb21onRn"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203196,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/36RYzRTn7qap768slpaqvq"
+    },
+    {
+      "album": {
         "name": "Bar Changes",
         "url": "https://open.spotify.com/album/4XwWRQPAZovEAEdUpUQrex"
       },
@@ -5652,6 +5688,24 @@
       "duration_ms": 182676,
       "name": "Burn Me Out",
       "url": "https://open.spotify.com/track/3ZPXtpUsLQk0FLz1Vzv2gQ"
+    },
+    {
+      "album": {
+        "name": "Burn My Summer",
+        "url": "https://open.spotify.com/album/1NKUSmelSWQfrlG0Kn6em2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Burn My Summer",
+      "url": "https://open.spotify.com/track/2ekb44iYmFkur19s0oFnwn"
     },
     {
       "album": {
@@ -13437,6 +13491,24 @@
     },
     {
       "album": {
+        "name": "Give A Damn",
+        "url": "https://open.spotify.com/album/6VXljITZMzLoGVryKXWfem"
+      },
+      "artists": [
+        {
+          "name": "Wyatt McCubbin",
+          "url": "https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Give A Damn",
+      "url": "https://open.spotify.com/track/1uKagSnjV0EeXkg3QasysC"
+    },
+    {
+      "album": {
         "name": "Give You Mine",
         "url": "https://open.spotify.com/album/7pPNU3IGck4Lf0ENylEW9q"
       },
@@ -13668,6 +13740,24 @@
       "duration_ms": 252001,
       "name": "Godspeed, Los Angeles",
       "url": "https://open.spotify.com/track/2d7P7PkbNQj25MbAzs0aUD"
+    },
+    {
+      "album": {
+        "name": "Going On Forever",
+        "url": "https://open.spotify.com/album/3FViKrwE6JoX2Dzq4GMDS4"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174149,
+      "name": "Going On Forever",
+      "url": "https://open.spotify.com/track/2CgQorbrX2gDHmPgVNgJaL"
     },
     {
       "album": {
@@ -14907,6 +14997,24 @@
     },
     {
       "album": {
+        "name": "Hall Of Fame",
+        "url": "https://open.spotify.com/album/4fSKzxjGcRPqu0aiaEE2g0"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147982,
+      "name": "Hall Of Fame",
+      "url": "https://open.spotify.com/track/2vYpFuPZ2sC08L20T2g5Gr"
+    },
+    {
+      "album": {
         "name": "Halos and Horns",
         "url": "https://open.spotify.com/album/2czEtw6zLzPGWppATFzdtQ"
       },
@@ -15084,6 +15192,24 @@
       "duration_ms": 177000,
       "name": "Hard To Walk Away From",
       "url": "https://open.spotify.com/track/39whusPUKEEqRd819O9aNm"
+    },
+    {
+      "album": {
+        "name": "Harlan Road",
+        "url": "https://open.spotify.com/album/5AU9A7bbVLnHLVPVxdlRpO"
+      },
+      "artists": [
+        {
+          "name": "Lathan Bryant",
+          "url": "https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Harlan Road",
+      "url": "https://open.spotify.com/track/3ezD3oqVE7DgmYJBvSh6lk"
     },
     {
       "album": {
@@ -15476,7 +15602,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 170486,
       "name": "Heard You Said Goodbye",
       "url": "https://open.spotify.com/track/6183gLi8IL5KiCZsvQgAtU"
@@ -16589,6 +16715,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4jDlxu8CYiC2ErVo1Hxbmk"
+      },
+      "artists": [
+        {
+          "name": "SirLockeHolmes",
+          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6EHISRTJVCSsFDsBEePdj5"
+    },
+    {
+      "album": {
         "name": "Home Sweet Home",
         "url": "https://open.spotify.com/album/5803DLoXEWuYUYOAq6d5ka"
       },
@@ -17216,7 +17360,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 230185,
       "name": "How I Live",
       "url": "https://open.spotify.com/track/76sXdNzolJIMRrX1TAnUXI"
@@ -21095,6 +21239,24 @@
     },
     {
       "album": {
+        "name": "Last Night's Perfume",
+        "url": "https://open.spotify.com/album/3MTUmGKwTTmfDotLANrXOr"
+      },
+      "artists": [
+        {
+          "name": "Jordan James",
+          "url": "https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212883,
+      "name": "Last Night's Perfume",
+      "url": "https://open.spotify.com/track/2NBJ4nc8j1HNV2DosmgTZg"
+    },
+    {
+      "album": {
         "name": "Last Ones Up",
         "url": "https://open.spotify.com/album/5EvUluqvADZuLUHgIV5yyy"
       },
@@ -24404,6 +24566,24 @@
       "duration_ms": 224576,
       "name": "Me Over You",
       "url": "https://open.spotify.com/track/7caoHUxVHk4lPP1j35grex"
+    },
+    {
+      "album": {
+        "name": "Mean Girl",
+        "url": "https://open.spotify.com/album/2OTBSyEqzGpUvNTzPsKhkj"
+      },
+      "artists": [
+        {
+          "name": "Nelly Joy",
+          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225576,
+      "name": "Mean Girl",
+      "url": "https://open.spotify.com/track/2uCDDsGudIIMDRvq0Z7P26"
     },
     {
       "album": {
@@ -27748,7 +27928,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 188514,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/7DgCgodSqkvvo5fxRsZIhH"
@@ -28580,7 +28760,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 185148,
       "name": "Put Me In My Place",
       "url": "https://open.spotify.com/track/31AI9r3VL1buk19ZPz7VIi"
@@ -34319,6 +34499,24 @@
     },
     {
       "album": {
+        "name": "Sun Sets",
+        "url": "https://open.spotify.com/album/2An0Q8iHL4kb3AfO09Y0so"
+      },
+      "artists": [
+        {
+          "name": "Carson Wallace",
+          "url": "https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178687,
+      "name": "Sun Sets",
+      "url": "https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm"
+    },
+    {
+      "album": {
         "name": "Sunday Best",
         "url": "https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP"
       },
@@ -35224,6 +35422,24 @@
       "duration_ms": 209830,
       "name": "Tequila for Two",
       "url": "https://open.spotify.com/track/1eAiavN1GgIM1xqzVOZZdW"
+    },
+    {
+      "album": {
+        "name": "Tequila Helps",
+        "url": "https://open.spotify.com/album/7xEcMlszJ5BX1TiuvVfrPc"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Tequila Helps",
+      "url": "https://open.spotify.com/track/1QAU2FnwqL8OK3kjCMuTnA"
     },
     {
       "album": {
@@ -37526,7 +37742,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 197266,
       "name": "Too Long",
       "url": "https://open.spotify.com/track/5e8EOWR28fOYVrwGfK6zZ6"
@@ -40058,7 +40274,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 170666,
       "name": "Whiskey Tasting",
       "url": "https://open.spotify.com/track/6DJcBoMCCR3E3YbqvgDEwz"
@@ -40850,7 +41066,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 178170,
       "name": "Wish You Back",
       "url": "https://open.spotify.com/track/16URet9mbYzRbBGaWuR4KG"
@@ -40962,6 +41178,24 @@
       "duration_ms": 241320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5jlMa8TatNyCp8945hkvri"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/78thgcAQstKwsoS8Qm4CnF"
+      },
+      "artists": [
+        {
+          "name": "David Unlayao",
+          "url": "https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2tFHmnytbs580aD4evWj7v"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4I27OgvXt7ILLX2AtbQHO2">Daria ze Śląska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,145 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,170 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 51 | [Stały blask](https://open.spotify.com/track/0hSEeAAi0Cnf1gL068Tp7z) | [Ganczarska](https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo) | [Stały blask](https://open.spotify.com/album/75wtVhTNlysFpeGOBYtBtR) | 3:33 |
 | 52 | [Dzwonię](https://open.spotify.com/track/6Qw39o8tpqsqJ0lMH5GRL7) | [SONIA](https://open.spotify.com/artist/72df4j6ONtlu01RCWPmxjD) | [Dzwonię](https://open.spotify.com/album/45CEAwQnSatTyPefqL6iUe) | 2:35 |
 | 53 | [Wszystkie twarze](https://open.spotify.com/track/0QR7pSTiLPbEC7tcNY0ev9) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Wszystkie twarze](https://open.spotify.com/album/6MCcDcVNcPTMiftdteSH2v) | 2:37 |
-| 54 | [Czerwone Jabłuszko](https://open.spotify.com/track/7oOsq37Vlbp0Xqhf7xCvWb) | [Sasi](https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Czerwone Jabłuszko](https://open.spotify.com/album/0ory71LkiMc0u1XHjQeXNc) | 2:53 |
+| 54 | [czerwone jabłuszko](https://open.spotify.com/track/7oOsq37Vlbp0Xqhf7xCvWb) | [Sasi](https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [czerwone jabłuszko](https://open.spotify.com/album/0ory71LkiMc0u1XHjQeXNc) | 2:53 |
 | 55 | [Dzień za dniem](https://open.spotify.com/track/5pqTVTn1VclY7FVl8P0DXD) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [DJ BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Dzień za dniem](https://open.spotify.com/album/4ccPpKvy6eaqJjYxbZ3nAm) | 3:04 |
 | 56 | [it's ok](https://open.spotify.com/track/6WMxcpFzgfSWXnlkUu4CCJ) | [adi](https://open.spotify.com/artist/0jt2f5aZJ4HskYRg6mYMPz) | [it's ok](https://open.spotify.com/album/2RlLrTRK6ONenqL9LqhQBu) | 2:46 |
 | 57 | [Różowy Szampan](https://open.spotify.com/track/5fHas2ExIDT4EDCTfB9Lk3) | [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL), [Alchemist Project](https://open.spotify.com/artist/2xFvycgO8RcKhdZPo5hMmp) | [Różowy Szampan](https://open.spotify.com/album/1FIn0eDCllVzbN6gUCfZm6) | 2:11 |

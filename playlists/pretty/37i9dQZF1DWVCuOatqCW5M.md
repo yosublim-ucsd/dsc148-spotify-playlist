@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,199 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,229 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Roshni](https://open.spotify.com/track/2ejQAjZYYotmnEAQ5Liee6) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Yashraj](https://open.spotify.com/artist/3eRaLq6p8y2QthPYfTx21Q), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 2:45 |
+| 1 | [Roshni](https://open.spotify.com/track/2ejQAjZYYotmnEAQ5Liee6) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 2:45 |
 | 2 | [Bematlab](https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:48 |
 | 3 | [Yaad Na Jaave](https://open.spotify.com/track/2HuvpUTVClbCqV6iV3uCD3) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Yaad Na Jaave](https://open.spotify.com/album/6sO3LZtRrngfkwnyXRuJfu) | 2:43 |
 | 4 | [Nasha](https://open.spotify.com/track/0mMlukcwP4pCP0eruNjAKQ) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 2:34 |

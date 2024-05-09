@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-152 songs - 7 hr 24 min
+153 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [ALI BABA](https://open.spotify.com/track/0C11QSo2lLNTIKC5W824VY) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 2:37 | 2023-08-21 | 2024-04-19 |
 | [ALI BABA](https://open.spotify.com/track/1JsnuScewrW3Sib5zDtxYD) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [United Queens](https://open.spotify.com/album/0DBMXQZEOb7fiGQlXlaQ2y) | 2:37 | 2024-02-27 | 2024-04-27 |
 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 | 2022-11-19 | 2024-02-07 |
-| [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 | 2022-11-19 |  |
+| [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 | 2022-11-19 | 2024-05-09 |
 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 | 2024-02-27 |  |
 | [B.G.P](https://open.spotify.com/track/7xD6PhbwNjeu5Vm5ewFRaX) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/09w0tkXVIM91R7cLPUC4hq) | 2:21 | 2022-11-19 | 2024-02-14 |
 | [BAKUON](https://open.spotify.com/track/3Ce2pidrO43laAAFJcZZbe) | [LYTO](https://open.spotify.com/artist/3aCv90gO2lX7bOzETHLGjA) | [NEVER ENDING STORY](https://open.spotify.com/album/621nNvyHkZ6ekzTTyNc6Bk) | 3:20 | 2023-08-08 | 2024-01-24 |
@@ -157,6 +157,7 @@
 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 | 2022-11-19 | 2024-04-19 |
 | [YAJU](https://open.spotify.com/track/1MfRRNBWo54y4ZF23SivXg) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Yokai Jaki](https://open.spotify.com/artist/1KWYZKBQJ1ClZWnEpOPAYp) | [YAJU](https://open.spotify.com/album/634B4kQFuSotpTdv8fTvBB) | 2:12 | 2022-11-19 | 2023-05-24 |
 | [YAPPA](https://open.spotify.com/track/0Z0SFVUgp96U4BkrsSYII0) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n) | [YAPPA](https://open.spotify.com/album/2kclqoWmIj9o6ydLvime3D) | 2:03 | 2022-11-19 | 2023-09-15 |
+| [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 | 2024-05-08 |  |
 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 | 2024-04-24 |  |
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-05-01 |  |
 | [借り物 GOLD Tesla](https://open.spotify.com/track/516qLLDr8BVG6nMw48bvPy) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [借り物 GOLD Tesla](https://open.spotify.com/album/2IFNXdoTkrm7Ca1lvDnq5K) | 2:44 | 2024-02-27 | 2024-04-24 |

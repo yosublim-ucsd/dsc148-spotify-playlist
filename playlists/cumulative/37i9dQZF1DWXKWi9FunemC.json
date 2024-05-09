@@ -682,7 +682,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 260173,
       "name": "Find My Home",
       "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
@@ -1062,6 +1062,24 @@
       "duration_ms": 277083,
       "name": "Heavenly Things",
       "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
+    },
+    {
+      "album": {
+        "name": "Holy Forever (Acoustic)",
+        "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268958,
+      "name": "Holy Forever - Acoustic",
+      "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
     },
     {
       "album": {

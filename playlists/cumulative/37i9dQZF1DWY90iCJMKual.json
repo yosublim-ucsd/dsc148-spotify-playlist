@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Cavite's Poison",
+        "url": "https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Cavite's Poison",
+      "url": "https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9"
+    },
+    {
+      "album": {
         "name": "cherry soda",
         "url": "https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg"
       },
@@ -1198,6 +1216,24 @@
       "duration_ms": 260000,
       "name": "FLYYY",
       "url": "https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K"
+      },
+      "artists": [
+        {
+          "name": "Aud",
+          "url": "https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy"
     },
     {
       "album": {
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 186000,
       "name": "introduction",
       "url": "https://open.spotify.com/track/3QlNUfIiaeqGnfyZeD36qk"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-09",
       "duration_ms": 183490,
       "name": "lito",
       "url": "https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5"
