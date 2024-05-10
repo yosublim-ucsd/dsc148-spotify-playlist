@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276093,
+      "name": "9 Teen 90 Nine",
+      "url": "https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"
+    },
+    {
+      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -365,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306226,
+      "name": "It'll Be OK",
+      "url": "https://open.spotify.com/track/5QYwIidpvmcqBWYx6hy8AT"
+    },
+    {
+      "album": {
         "name": "Eat You Alive",
         "url": "https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX"
       },
@@ -470,7 +506,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
@@ -596,7 +632,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213760,
       "name": "Rollin' (Air Raid Vehicle)",
       "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"

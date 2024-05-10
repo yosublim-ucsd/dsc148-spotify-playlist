@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 413476,
       "name": "20210310",
       "url": "https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 125121,
       "name": "Affirmation",
       "url": "https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 274015,
       "name": "Bibi",
       "url": "https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2"
@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -1774,6 +1792,32 @@
       "duration_ms": 178255,
       "name": "Cinnamon - Rework",
       "url": "https://open.spotify.com/track/2rDw2fEW2uhqx7rMPxpZ4B"
+    },
+    {
+      "album": {
+        "name": "Foam and Sand",
+        "url": "https://open.spotify.com/album/3qKXft8shy4ueIfieixSGc"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257314,
+      "name": "Circle 31",
+      "url": "https://open.spotify.com/track/1UyGal7Xm6z6C65eUdSx2x"
     },
     {
       "album": {
@@ -2445,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Drive My Car Original Soundtrack",
+        "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
+      },
+      "artists": [
+        {
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175625,
+      "name": "Drive My Car (Cassette)",
+      "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
+    },
+    {
+      "album": {
         "name": "Re:",
         "url": "https://open.spotify.com/album/4Z1jNDMJ1v7O38ZlD5wM90"
       },
@@ -2784,7 +2846,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 357893,
       "name": "Everything Valley",
       "url": "https://open.spotify.com/track/1Ne96Ev1xV7JCQwhFY0iQm"
@@ -3651,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "halo",
+        "url": "https://open.spotify.com/album/0xN4bGmZl4uD0IaM5AYjNk"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148512,
+      "name": "heal",
+      "url": "https://open.spotify.com/track/5KqDQ7PGYziOu0Da8VQ41U"
+    },
+    {
+      "album": {
         "name": "Sparse Memory",
         "url": "https://open.spotify.com/album/3sXf7vC0g92GljNNdWmHX6"
       },
@@ -3918,7 +3998,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 160975,
       "name": "Humming Bird",
       "url": "https://open.spotify.com/track/3uZDobGcvgPNlR5mXCYv5w"
@@ -4318,7 +4398,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 155411,
       "name": "Introspection - Edit",
       "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
@@ -5280,7 +5360,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 369917,
       "name": "Marginalia #119",
       "url": "https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx"
@@ -6312,7 +6392,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
@@ -6652,7 +6732,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 273560,
       "name": "Pierrepont",
       "url": "https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP"
@@ -7428,7 +7508,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 158000,
       "name": "Sea",
       "url": "https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU"
@@ -7628,6 +7708,24 @@
       "duration_ms": 299200,
       "name": "Selves",
       "url": "https://open.spotify.com/track/5pkvDUPmXkTuzE5eH52dxI"
+    },
+    {
+      "album": {
+        "name": "sen no hikari",
+        "url": "https://open.spotify.com/album/1WATQU72oeUUFSuTiHFh6y"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "sen no hikari",
+      "url": "https://open.spotify.com/track/4WDB7Tp4DeisyWa8OgUIyr"
     },
     {
       "album": {
@@ -7852,7 +7950,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 410333,
       "name": "SLEEP",
       "url": "https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP"
@@ -8185,6 +8283,28 @@
     },
     {
       "album": {
+        "name": "Space Oracle (aus Remix)",
+        "url": "https://open.spotify.com/album/0k4bUIwiHR0F8Wsb0iPtsW"
+      },
+      "artists": [
+        {
+          "name": "Seahawks",
+          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
+        },
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318320,
+      "name": "Space Oracle - aus Remix",
+      "url": "https://open.spotify.com/track/1eM2EGmwytpLoX5APjhp9n"
+    },
+    {
+      "album": {
         "name": "Spatial",
         "url": "https://open.spotify.com/album/2s0jmqbAKEjzgnh6ayWfl3"
       },
@@ -8379,6 +8499,24 @@
     },
     {
       "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267183,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
+    },
+    {
+      "album": {
         "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
         "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
       },
@@ -8394,6 +8532,24 @@
       "duration_ms": 239173,
       "name": "Still Space",
       "url": "https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400240,
+      "name": "Storm Crystals",
+      "url": "https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK"
     },
     {
       "album": {
@@ -10966,7 +11122,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 419762,
       "name": "\u9727\u4e2d\u5922",
       "url": "https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY"

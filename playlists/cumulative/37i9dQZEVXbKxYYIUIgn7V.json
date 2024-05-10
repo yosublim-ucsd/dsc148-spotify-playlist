@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 120000,
       "name": "BUNKER/PREROLL",
       "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 153822,
       "name": "Burgerpommes Disstrack",
       "url": "https://open.spotify.com/track/1j5nAnRbQLBG2zrgeGnCii"
@@ -1492,10 +1492,28 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 167080,
       "name": "Closer (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/0MUt629ACWlm5ncrqlRlTv"
+    },
+    {
+      "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167080,
+      "name": "Closer (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/7iBz2OpghRDDmsJy6VZSPK"
     },
     {
       "album": {
@@ -1553,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/26NytPWfwTRLNf5sc2pLZW"
+    },
+    {
+      "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
         "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
       },
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 157658,
       "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 112347,
       "name": "DO NOT COPY MY FLOW",
       "url": "https://open.spotify.com/track/12CXDdYB8F138toCenq6Ev"
@@ -1898,6 +1934,24 @@
       "duration_ms": 246758,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "album": {
@@ -2146,7 +2200,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -2302,6 +2356,24 @@
       "duration_ms": 234210,
       "name": "FENDI ON MY EYES",
       "url": "https://open.spotify.com/track/4nmjsyzslWD3IHif3f34Wn"
+    },
+    {
+      "album": {
+        "name": "Fighter (Eurovision Version)",
+        "url": "https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO"
+      },
+      "artists": [
+        {
+          "name": "TALI",
+          "url": "https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179738,
+      "name": "Fighter - Eurovision Version",
+      "url": "https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv"
     },
     {
       "album": {
@@ -3286,6 +3358,24 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
     },
     {
       "album": {
@@ -4432,6 +4522,24 @@
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
+    },
+    {
+      "album": {
+        "name": "Luktelk",
+        "url": "https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2"
+      },
+      "artists": [
+        {
+          "name": "Silvester Belt",
+          "url": "https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Luktelk",
+      "url": "https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1"
     },
     {
       "album": {
@@ -5678,7 +5786,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"

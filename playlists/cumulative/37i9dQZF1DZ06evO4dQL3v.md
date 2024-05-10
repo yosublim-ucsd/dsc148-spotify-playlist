@@ -2,9 +2,9 @@
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This is Banda Toro\. The essential tracks, all in one playlist.
+> This is Banda Toro\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-97 songs - 4 hr 39 min
+98 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bonito y Sabroso](https://open.spotify.com/track/7z4JT7Xxo7jZ4LRCHZptGV) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:53 | 2022-06-27 | 2022-08-25 |
 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 | 2022-06-01 |  |
 | [Carta Perdida \- Estilo Tierra Caliente](https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:17 | 2022-06-01 |  |
+| [Chiquilla Carinosa](https://open.spotify.com/track/3M3CJBCx9HtD3uyIOPg1Oa) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La ruca no era ruca](https://open.spotify.com/album/6dVt3gBo9u30rkraGA7P62) | 2:34 | 2024-05-10 |  |
 | [Chivo Chivon Chivito](https://open.spotify.com/track/41eQTl3PY9oNhOojrHZOr8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:41 | 2022-07-20 | 2022-10-13 |
 | [Como Paloma Errante](https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 2](https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4) | 2:43 | 2022-06-01 |  |
 | [Con el Sabor Amargo \- Estilo Tierra Caliente](https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:06 | 2022-06-01 |  |
@@ -64,7 +65,7 @@
 | [La Noche Que Chicago Se Murió](https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944) | [Los Estrafalarios](https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Chicago Se Murió](https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK) | 2:42 | 2023-05-02 | 2023-05-04 |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/2ykpZL5SZaefPAyUolKayB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:41 | 2024-04-30 |  |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 | 2022-06-01 | 2024-04-30 |
-| [La Ruca No Era Ruca](https://open.spotify.com/track/0kVdI21EAaG7Ls9MdfaiyQ) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La ruca no era ruca](https://open.spotify.com/album/6dVt3gBo9u30rkraGA7P62) | 4:22 | 2024-05-08 |  |
+| [La Ruca No Era Ruca](https://open.spotify.com/track/0kVdI21EAaG7Ls9MdfaiyQ) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La ruca no era ruca](https://open.spotify.com/album/6dVt3gBo9u30rkraGA7P62) | 4:22 | 2024-05-08 | 2024-05-10 |
 | [La Ruca No Era Ruca](https://open.spotify.com/track/2TjKzneuW8jwPsdbzyynlz) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 3:01 | 2024-04-13 |  |
 | [La Ruca No Era Ruca](https://open.spotify.com/track/7wj9uIM1WvyOPUxFmEcvpY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 3:01 | 2022-06-01 | 2024-04-13 |
 | [La Tijanita](https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:34 | 2022-10-13 | 2024-04-28 |

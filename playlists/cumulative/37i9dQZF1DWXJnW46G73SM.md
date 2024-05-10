@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-951 songs - 2 day 5 hr 47 min
+952 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,7 @@
 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2023-11-13 | 2024-02-06 |
 | [ف المولد](https://open.spotify.com/track/2bk5VFJ9jYO2I9JDqJeozw) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8) | [ف المولد](https://open.spotify.com/album/79rzyP7T0SCn33yeJeIWo8) | 3:10 | 2023-12-29 | 2024-02-02 |
 | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/track/4dYAFJEQjVh50FjSHBfHWl) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/album/6NsLjJGK0DOO8V1jMFK8q1) | 3:48 | 2023-04-14 | 2023-05-19 |
-| [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/6hcm0x8MMc4txLimxz3PeK) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 | 2024-05-02 |  |
+| [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 | 2024-05-02 |  |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 | 2023-03-25 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |
 | [فرق كبير](https://open.spotify.com/track/0iHctLTPPxoEtLuf9H88Z1) | [Mishal Alrassan](https://open.spotify.com/artist/6k4NPN7KoGhaM6yJvUzgHK) | [فرق كبير](https://open.spotify.com/album/1BoRwOUP3mt0I7uc8CdsEJ) | 3:23 | 2024-01-18 | 2024-02-16 |
@@ -942,6 +942,7 @@
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 | 2023-07-18 |
 | [يا جبروته](https://open.spotify.com/track/6P8X6tMFrkT9z2eF9xUg1c) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [يا جبروته](https://open.spotify.com/album/4FR5PW6hq2YBfOYu5vvUi5) | 4:29 | 2023-02-07 | 2023-03-18 |
 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 | 2022-09-01 | 2022-11-25 |
+| [يا خيبتو](https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [يا خيبتو](https://open.spotify.com/album/6vWs3pzaJe1qZzfF0EI2T2) | 2:46 | 2024-05-08 |  |
 | [يا دموع](https://open.spotify.com/track/1GIgWGFcQUXCSMJAFXeGP4) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [يا دموع](https://open.spotify.com/album/7mw60SumUTIOKuse5iQlwo) | 3:36 | 2023-06-15 | 2023-07-21 |
 | [يا رتها بتيجي](https://open.spotify.com/track/3Y5gHvhzaVhTpZDwMoBqOW) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [يا رتها بتيجي](https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr) | 4:07 | 2022-08-23 | 2022-11-18 |
 | [يا زين العابدين](https://open.spotify.com/track/1EqcgbV20mqyMiZihldXfe) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW), [Sabren El Negily](https://open.spotify.com/artist/5Zrk8InWtoiqUkMgrW17yy) | [Ya Zein El Abedin](https://open.spotify.com/album/3143g21GZo41GqYhIp9Ly2) | 3:17 | 2022-09-22 | 2022-12-21 |

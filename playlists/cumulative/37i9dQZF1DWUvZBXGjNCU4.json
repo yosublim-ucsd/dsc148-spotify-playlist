@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Across A Meadow",
+        "url": "https://open.spotify.com/album/6PI4DxEtl5CokXt2ytYrHv"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davidson",
+          "url": "https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152718,
+      "name": "Across A Meadow",
+      "url": "https://open.spotify.com/track/3RpkQpRRqEXeMGjrEUcBtd"
+    },
+    {
+      "album": {
         "name": "Afternoon hovers",
         "url": "https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187201,
       "name": "As Lovely as You",
       "url": "https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208096,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ"
@@ -1071,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Confianza",
+        "url": "https://open.spotify.com/album/6gKoezS6y9GGDzZFhNKIx9"
+      },
+      "artists": [
+        {
+          "name": "Cristof Walters",
+          "url": "https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131738,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/0l110LCnGDPOlbiePvONwN"
+    },
+    {
+      "album": {
         "name": "Crowns",
         "url": "https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA"
       },
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 135314,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm"
@@ -1464,6 +1500,24 @@
       "duration_ms": 174216,
       "name": "Evenings at Point Reyes",
       "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
+    },
+    {
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136171,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p"
     },
     {
       "album": {
@@ -2742,7 +2796,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 132291,
       "name": "Lake Como",
       "url": "https://open.spotify.com/track/2R9ykhDMzrzHsS6Btwtnjv"
@@ -3541,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Old friends not forgotten",
+        "url": "https://open.spotify.com/album/1dU4wnsmAgWL5bg4Vd2t3T"
+      },
+      "artists": [
+        {
+          "name": "Moody Me",
+          "url": "https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122532,
+      "name": "Old friends not forgotten",
+      "url": "https://open.spotify.com/track/6iB4Hb9KrgjoS2ZATwdXW2"
+    },
+    {
+      "album": {
         "name": "Andorra",
         "url": "https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e"
       },
@@ -3606,7 +3678,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133500,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv"
@@ -3642,7 +3714,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202470,
       "name": "Pacific Northwest",
       "url": "https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v"
@@ -3934,6 +4006,24 @@
       "duration_ms": 168434,
       "name": "Red Cliff",
       "url": "https://open.spotify.com/track/6lsYXz5zZ1DLxk1es2Z3Te"
+    },
+    {
+      "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq"
+      },
+      "artists": [
+        {
+          "name": "Carl Eksmo",
+          "url": "https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164361,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs"
     },
     {
       "album": {
@@ -4477,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8"
+      },
+      "artists": [
+        {
+          "name": "Rua Do Sol",
+          "url": "https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy"
+    },
+    {
+      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE"
       },
@@ -4722,7 +4830,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 147705,
       "name": "Symphony Road",
       "url": "https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY"
@@ -4920,7 +5028,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 140361,
       "name": "The Spring Bird",
       "url": "https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O"
@@ -5622,7 +5730,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232696,
       "name": "Wide Open Fields",
       "url": "https://open.spotify.com/track/5JcB7SJbD2TeJKEwHE4Pjt"
@@ -5698,6 +5806,24 @@
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
+    },
+    {
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK"
+      },
+      "artists": [
+        {
+          "name": "Benjamins Friend",
+          "url": "https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153125,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Sabrina Carpenter
+> The best tracks from the world of music\. Cover: ZICO, JENNIE
 
 141 songs - 7 hr 40 min
 

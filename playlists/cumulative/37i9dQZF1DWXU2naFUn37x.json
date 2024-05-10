@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. ANNA in cover \ud83d\udc8b",
+  "description": "Solo il meglio dello street rap italiano. Niky Savage in cover.",
   "name": "Street Culto",
   "tracks": [
     {
@@ -386,6 +386,24 @@
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "64 BARRE DA CENSURA (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "64 BARRE DA CENSURA (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV"
     },
     {
       "album": {
@@ -3502,6 +3520,24 @@
       "duration_ms": 206101,
       "name": "Easy (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU"
+    },
+    {
+      "album": {
+        "name": "EL PIBE DE ORO",
+        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
     },
     {
       "album": {
@@ -11562,6 +11598,24 @@
       "duration_ms": 217190,
       "name": "ZONDA",
       "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
+    },
+    {
+      "album": {
+        "name": "Z\u00c9",
+        "url": "https://open.spotify.com/album/7wMjDkXgZ8VOJWDnMA8bla"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154229,
+      "name": "Z\u00c9",
+      "url": "https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x"

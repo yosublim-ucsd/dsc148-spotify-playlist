@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219432,
+      "name": "Droom Sinds Klein",
+      "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
+    },
+    {
+      "album": {
         "name": "Pier Pressure",
         "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
       },
@@ -1958,6 +1976,24 @@
       "duration_ms": 146851,
       "name": "Nieuwe Ex",
       "url": "https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy"
+    },
+    {
+      "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150037,
+      "name": "Nikes & Kipsta",
+      "url": "https://open.spotify.com/track/5I5KzGtwT8uW7QJwdaZi8C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Club vibes wherever you are!
 
-113 songs - 5 hr 40 min
+114 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-09-01 |  |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-02-07 |  |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-09-29 |  |
+| [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 | 2024-02-07 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-09-01 |  |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-09-01 |  |
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-09-01 |  |
@@ -104,7 +105,7 @@
 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 | 2023-10-27 | 2023-11-21 |
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2023-09-01 | 2023-10-13 |
 | [Sun Is Dark](https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Sun Is Dark](https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO) | 2:38 | 2023-09-01 |  |
-| [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-09-01 |  |
+| [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-09-01 | 2024-05-10 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-09-01 | 2024-04-19 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2023-09-01 |  |
 | [Tears On The Dancefloor \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Tears On The Dancefloor \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt) | 3:31 | 2023-12-22 |  |

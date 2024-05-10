@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Body Drop",
+        "url": "https://open.spotify.com/album/5djmS90kHePMsuqEmSLR6M"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        },
+        {
+          "name": "JKLL",
+          "url": "https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214684,
+      "name": "Body Drop",
+      "url": "https://open.spotify.com/track/3CWwoYqnCzerl9DhlRNYoI"
+    },
+    {
+      "album": {
         "name": "Bottle of Bubbly",
         "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
       },
@@ -956,7 +978,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 236666,
       "name": "Bouncing Ball",
       "url": "https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY"
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 116162,
       "name": "Bouncy (Bass Test)",
       "url": "https://open.spotify.com/track/4F6b8D0ZNdni5shVRTlwWy"
@@ -2398,7 +2420,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 179671,
       "name": "Gimme The Word",
       "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
@@ -3459,6 +3481,32 @@
     },
     {
       "album": {
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -3986,6 +4034,32 @@
       "duration_ms": 138630,
       "name": "Money Dance",
       "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
+    },
+    {
+      "album": {
+        "name": "Mozart's Final Rave (Lacrimosa)",
+        "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "Dana Vicci",
+          "url": "https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105009,
+      "name": "Mozart's Final Rave (Lacrimosa)",
+      "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
     },
     {
       "album": {

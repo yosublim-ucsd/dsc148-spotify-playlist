@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Big Small Talk",
+        "url": "https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk"
+      },
+      "artists": [
+        {
+          "name": "Big Small Talk",
+          "url": "https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3334138,
+      "name": "Met Gala, DV Policy & Rafah",
+      "url": "https://open.spotify.com/episode/5pHauv3wough3jRTkYJE2d"
+    },
+    {
+      "album": {
         "name": "We Don't Have Time For This",
         "url": "https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ"
       },

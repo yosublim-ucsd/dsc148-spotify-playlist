@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 235226,
       "name": "Come Alive (Dry Bones)",
       "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 259293,
       "name": "How Can It Be",
       "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 255520,
       "name": "Once and for All",
       "url": "https://open.spotify.com/track/4EaGCr9Q4ztV8yAkpK5zNc"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
@@ -728,6 +728,24 @@
       "duration_ms": 257713,
       "name": "Saint Ferdinand (feat. Jon Batiste & Natalie Hemby)",
       "url": "https://open.spotify.com/track/4QBCy9CsTEsPtCBxPYedVV"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Salt & Light",
+      "url": "https://open.spotify.com/track/2LdbfpQ2gXgD0968RYarlx"
     },
     {
       "album": {

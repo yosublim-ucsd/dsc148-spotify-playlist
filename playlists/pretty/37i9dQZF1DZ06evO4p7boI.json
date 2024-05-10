@@ -1,12 +1,12 @@
 {
-  "description": "This is NAV. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 94589,
+  "description": "This is NAV. The essential tracks, all in one playlist.",
+  "num_followers": 94592,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABBTLfvdYHdDv2gYU+R/hqt",
+  "snapshot_id": "ZjrAgAAAAADxu3AG1PCiSECcdB4mHthi",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 150679,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 215066,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 150679,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 165013,
-      "name": "NOTHING 4 FREE (feat. NAV)",
-      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
+      "duration_ms": 165013,
+      "name": "NOTHING 4 FREE (feat. NAV)",
+      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
     },
     {
       "added_at": null,

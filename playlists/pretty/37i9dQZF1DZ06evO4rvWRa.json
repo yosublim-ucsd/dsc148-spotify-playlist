@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1629548,
+  "num_followers": 1629567,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACfb2LTjdtXhTatkDw8RSfj",
+  "snapshot_id": "ZjrAgAAAAADmNbWNE7Z6JL3a5s9FuugD",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
       },
@@ -243,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        }
-      ],
-      "duration_ms": 151702,
-      "name": "Better Off (Alone, Pt. III)",
-      "url": "https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
       },
@@ -291,26 +291,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
       "artists": [
         {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        },
-        {
-          "name": "Tomine Harket",
-          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X"
+      "duration_ms": 152214,
+      "name": "PS5",
+      "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
     },
     {
       "added_at": null,
@@ -339,30 +339,6 @@
       "duration_ms": 210288,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 152214,
-      "name": "PS5",
-      "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
     },
     {
       "added_at": null,
@@ -507,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walker Racing League",
         "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
       },
@@ -563,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire! (Tribbs Remix)",
         "url": "https://open.spotify.com/album/0D5CVgPJs3zWbzWhyK4cvK"
       },
@@ -607,6 +547,26 @@
       "duration_ms": 105664,
       "name": "Fire! - Tribbs Remix",
       "url": "https://open.spotify.com/track/3eCnYztoiJj5XC8A7SAXLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -727,6 +687,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Sing Me to Sleep",
+      "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Melody (Edward Artemyev) (feat. Leony)",
         "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
       },
@@ -751,26 +747,6 @@
       "duration_ms": 180151,
       "name": "Space Melody (Edward Artemyev) (feat. Leony)",
       "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 191098,
-      "name": "Somebody Like U",
-      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
     },
     {
       "added_at": null,
@@ -819,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 145824,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
       },
@@ -835,22 +827,6 @@
       "duration_ms": 171585,
       "name": "Hello World",
       "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
     },
     {
       "added_at": null,
@@ -895,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "Heading Home",
-      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -931,6 +887,26 @@
       "duration_ms": 129024,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "Heading Home",
+      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": null,
@@ -975,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 151101,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -995,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
       "artists": [
         {
@@ -1004,13 +1000,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 151101,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
+      "duration_ms": 161097,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     },
     {
       "added_at": null,

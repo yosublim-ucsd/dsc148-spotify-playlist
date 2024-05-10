@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+    },
+    {
+      "album": {
         "name": "Luka",
         "url": "https://open.spotify.com/album/7qalb7ab5XUNyJmcXrGQCT"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Subjectively good music xx
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 881 songs - 2 day 6 hr 13 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 888 songs - 2 day 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -889,5 +889,12 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 879 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 |
 | 880 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
 | 881 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
+| 882 | [Foreign Affair](https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [Apollonia](https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu) | 2:38 |
+| 883 | [Be Your Drug](https://open.spotify.com/track/73KET3327jJ8M42hVqRIEw) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Happy](https://open.spotify.com/album/0SVNUvUTd8ab9VmvguVIQf) | 2:28 |
+| 884 | [It Almost Worked](https://open.spotify.com/track/0Cs2n2GojQtYMVpZh7UCd7) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [The Night in Question: French Exit Outtakes](https://open.spotify.com/album/2DftBEanZT5Kk2t1vtYKFN) | 2:32 |
+| 885 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
+| 886 | [The Real World](https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Sheer Agony](https://open.spotify.com/artist/7rkVJB7ZekCLtOZ2PWD2mM) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:07 |
+| 887 | [Waiting for You](https://open.spotify.com/track/12bdwFDnyVWjk77wSQVoDK) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:20 |
+| 888 | [Why Did I Laugh Anyway](https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Why Did I Laugh Anyway](https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1) | 3:09 |
 
-Snapshot ID: `AAAIGwZnUSOoX2uVrIpeEUtq4Ey6qDG4`
+Snapshot ID: `AAAIIoLGthDFwJyGUTW3qwvopnMgBsVz`

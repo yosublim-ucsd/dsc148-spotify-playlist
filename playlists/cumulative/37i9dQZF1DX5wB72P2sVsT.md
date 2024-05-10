@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> MR TOUT LE MONDE au top des bangers dance/electro du moment !
+> David Guetta au top des bangers dance/electro du moment !
 
-150 songs - 6 hr 59 min
+151 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-09-28 | 2023-11-10 |
 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 | 2023-12-08 | 2024-04-19 |
 | [I Can Feel](https://open.spotify.com/track/3XxTXTFjmqQEOWXT3sfusp) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/75GccOMHI7dJddSgnue5A6) | 2:53 | 2024-04-18 |  |
-| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-25 |  |
+| [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-04-25 | 2024-05-10 |
+| [I Don't Wanna Wait \- Hardwell & Olly James Remix](https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [I Don't Wanna Wait \(Hardwell & Olly James Remix\)](https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4) | 3:03 | 2024-05-09 |  |
 | [in my room](https://open.spotify.com/track/29wXniSvoh2q2Y2XvJFtkm) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [in my room](https://open.spotify.com/album/3GecyACQiSEuh9khIQd4V7) | 3:04 | 2023-11-09 | 2023-12-22 |
 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-09-28 |  |
 | [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 | 2023-12-08 |  |

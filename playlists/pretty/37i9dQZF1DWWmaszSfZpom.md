@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,165 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,126 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 29 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
 | 30 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 31 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
-| 32 | [Namorar pra Quê?​](https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Namorar pra Quê?​](https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN) | 2:46 |
-| 33 | [Social Narga e Piscina](https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Social Narga e Piscina](https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT) | 3:05 |
+| 32 | [Social Narga e Piscina](https://open.spotify.com/track/1L3enLPv2RjsaytQFXTpuN) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK) | [Social Narga e Piscina](https://open.spotify.com/album/0qEFGepeUYo1t85SpbNCtT) | 3:05 |
+| 33 | [Namorar pra Quê?​](https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Namorar pra Quê?​](https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN) | 2:46 |
 | 34 | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix) | 3:04 |
 | 35 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 36 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |

@@ -1,10 +1,10 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 494955,
+  "num_followers": 495119,
   "original_name": "Beats to think to",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZhhdYAAAAADIlcfWlPFSaX6rUJtQffx5",
   "tracks": [
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Nanika",
-        "url": "https://open.spotify.com/album/0qhhw4Wid63IKH8TSLDNXs"
-      },
-      "artists": [
-        {
-          "name": "Sans Souci",
-          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Nanika",
-      "url": "https://open.spotify.com/track/5u57URyodAApYRUT7VTO6g"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Spaziergang im All",
         "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 498670,
       "name": "Spaziergang im All",
       "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Nanika",
+        "url": "https://open.spotify.com/album/0qhhw4Wid63IKH8TSLDNXs"
+      },
+      "artists": [
+        {
+          "name": "Sans Souci",
+          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Nanika",
+      "url": "https://open.spotify.com/track/5u57URyodAApYRUT7VTO6g"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "If I Had Wings",
-        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 420495,
-      "name": "If I Had Wings",
-      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Wadi Dana",
         "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 249000,
       "name": "Wadi Dana",
       "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "If I Had Wings",
+        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 420495,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Hegn",
         "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "The Elder",
-        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
       "artists": [
         {
-          "name": "Light Below",
-          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 232258,
-      "name": "The Elder",
-      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "The Elder",
+        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+      },
+      "artists": [
+        {
+          "name": "Light Below",
+          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 352920,
       "name": "Hipotez",
       "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Sense of Wonder",
         "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 194610,
       "name": "The Duty",
       "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9"
-      },
-      "artists": [
-        {
-          "name": "Nick Schwenderling",
-          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
+      },
+      "artists": [
+        {
+          "name": "Another Mind",
+          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
+        }
+      ],
+      "duration_ms": 476129,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
-      },
-      "artists": [
-        {
-          "name": "Another Mind",
-          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
-        }
-      ],
-      "duration_ms": 476129,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Mutation",
         "url": "https://open.spotify.com/album/2p23hNbE2AeJPskkwkGQ6v"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 488632,
       "name": "Mutation",
       "url": "https://open.spotify.com/track/58oYyiSqmTA2dzoM7AeCqq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2024-04-11 22:00:00",

@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-844 songs - 1 day 20 hr 28 min
+845 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\) \- ManyFew Remix](https://open.spotify.com/track/0WqQlPkG5YsKKJEXsO1Ptq) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [40 Days & 40 Nights \(feat\. Olivia Sebastianelli\) \[ManyFew Remix\]](https://open.spotify.com/album/57XYPPCNDtG2ABJIc9qVxA) | 2:30 | 2023-07-21 | 2023-12-14 |
 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 | 2022-11-11 | 2023-04-22 |
 | [A Dedication](https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Inside Out](https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0) | 3:47 | 2022-05-20 | 2022-06-10 |
+| [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-09 |  |
 | [A Temporary High \- Kito Remix](https://open.spotify.com/track/58542V08lKKhMHfkdU2Ugo) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [A Temporary High \(Kito Remix\)](https://open.spotify.com/album/7A5pMZfyF8bQToPbSq0ZmH) | 3:06 | 2022-08-19 | 2022-10-15 |
 | [A Thousand Golden People](https://open.spotify.com/track/36Oc2jTc0DcCoWXQRur7lA) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [A Thousand Golden People](https://open.spotify.com/album/3cBfuYo2EekRF6a5NAb6Rv) | 3:08 | 2022-12-09 | 2022-12-16 |
 | [Acid Rain](https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Acid Rain](https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC) | 3:00 | 2024-03-15 |  |

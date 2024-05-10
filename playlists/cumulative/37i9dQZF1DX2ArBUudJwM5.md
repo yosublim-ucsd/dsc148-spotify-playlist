@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Chita.
 
-1,029 songs - 2 day 7 hr 5 min
+1,030 songs - 2 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 | 2022-02-02 | 2022-04-07 |
 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 | 2023-11-08 | 2023-11-30 |
 | [Ancla](https://open.spotify.com/track/653aGqEPBnBcO2nJ7PwGF2) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:32 | 2023-02-01 | 2023-03-02 |
+| [Animales](https://open.spotify.com/track/2vF1KE6iIpQuebkFLU2tHv) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Altar](https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF) | 2:27 | 2024-05-09 |  |
 | [ANIQUILAMOS](https://open.spotify.com/track/10jmndG29Dwnp05Z7gTZ5G) | [Mantris Nikkita](https://open.spotify.com/artist/0Xk55qRygLyW3GdfhDsfJi), [Cimarrón](https://open.spotify.com/artist/55RsSMUUEc7iMzXQcRSHnI) | [FLESH](https://open.spotify.com/album/4abCTdzDoNBHpAcVlAxceV) | 3:21 | 2024-05-07 |  |
 | [Anochecemos](https://open.spotify.com/track/2ka5Ij6Nasvr5krBY93TgM) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 3:24 | 2023-11-29 | 2024-04-04 |
 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 | 2022-10-06 | 2022-11-08 |
@@ -874,7 +875,7 @@
 | [SKYS4U](https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [SKYS4U](https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2) | 5:26 | 2022-10-06 | 2024-03-07 |
 | [Slow](https://open.spotify.com/track/4RokOwoh3PYInL8gV9vyoz) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [Back](https://open.spotify.com/album/1QxV8skX6EQBtH2wEK5b2U) | 2:52 | 2024-04-05 |  |
 | [Sol de los Andes](https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Bruno Arias](https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df) | [Madre Tierra](https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX) | 4:36 | 2022-09-07 | 2022-10-06 |
-| [sola](https://open.spotify.com/track/2h45BjVC3a5o0zdPO1DIFI) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 3:11 | 2024-05-07 |  |
+| [sola](https://open.spotify.com/track/2h45BjVC3a5o0zdPO1DIFI) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 3:11 | 2024-05-07 | 2024-05-10 |
 | [Sola](https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [SOLA](https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N) | 3:11 | 2024-04-03 | 2024-05-08 |
 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 | 2022-10-06 | 2023-04-06 |
 | [Sola](https://open.spotify.com/track/5HcmDAvgFcutXcNBaXqFaH) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Heráldica](https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr) | 3:33 | 2024-05-07 |  |

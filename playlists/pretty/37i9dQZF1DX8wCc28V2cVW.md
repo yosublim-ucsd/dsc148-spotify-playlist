@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[](https://open.spotify.com/user/null) - 189,978 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,019 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 49 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
 | 50 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
 | 51 | [Triumph](https://open.spotify.com/track/0VIXeGG3ouqnIh3skWyjXm) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 3:14 |
-| 52 | [FFVII REMAKE: ライブラリフロア \(Corporate Archives\)](https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:01 |
+| 52 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
 | 53 | [CRISIS CORE Theme \- Succession](https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 0:43 |
-| 54 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
+| 54 | [FFVII REMAKE: ライブラリフロア \(Corporate Archives\)](https://open.spotify.com/track/5cfIk2N6PoGnUhgzgioRNf) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:01 |
 | 55 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 |
 | 56 | [FFVII REMAKE: シンク・オア・スイム \(Sync or Swim\)](https://open.spotify.com/track/4nMfIV0wwInFtocDHlKsst) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:01 |
 | 57 | [Phantoms](https://open.spotify.com/track/58hNR7JaOUY5TihJpm5DUa) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:46 |

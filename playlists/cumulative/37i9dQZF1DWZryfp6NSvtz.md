@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Cage The Elephant
 
-5,966 songs - 14 day 2 hr 36 min
+5,966 songs - 14 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2106,8 +2106,8 @@
 | [Hallucinate](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 | 2022-05-19 | 2022-05-27 |
 | [Halo](https://open.spotify.com/track/79pTRPk4bqz34vh574c3TX) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Halo](https://open.spotify.com/album/6fpqA0nA9YoIADNE3POe5Z) | 3:36 | 2022-11-25 | 2022-12-03 |
 | [Halo](https://open.spotify.com/track/7aCv75B0ySvqGBVkfBuT6G) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Rock Bottom](https://open.spotify.com/album/4M2Rn0RNZscWLdKplyfypf) | 2:58 | 2023-04-07 | 2023-04-15 |
+| [Halo](https://open.spotify.com/track/3F1GhdiVJ0Lg7Gaxm8lpVh) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story \(Deluxe\)](https://open.spotify.com/album/1K7BYTjLmrjXX3krLA2jHO) | 3:31 | 2024-05-03 |  |
 | [Halo](https://open.spotify.com/track/5jHRIIaMnuT8eVaA9C5o4R) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 3:31 | 2023-11-10 | 2023-11-18 |
-| [Halo](https://open.spotify.com/track/3F1GhdiVJ0Lg7Gaxm8lpVh) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story \(Deluxe\)](https://open.spotify.com/album/1K7BYTjLmrjXX3krLA2jHO) | 4:25 | 2024-05-03 |  |
 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 | 2023-05-19 | 2023-05-27 |
 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 | 2023-03-31 | 2023-04-09 |
 | [Hand Me Down](https://open.spotify.com/track/4Jo9UpYnxrV4hLNgyaecUT) | [Bad Pony](https://open.spotify.com/artist/425xk4XC4D4brNrWE4Rfhd) | [Hand Me Down](https://open.spotify.com/album/0CR6ACF3Ax4kCNo4szMK0e) | 3:06 | 2022-11-25 | 2022-12-03 |

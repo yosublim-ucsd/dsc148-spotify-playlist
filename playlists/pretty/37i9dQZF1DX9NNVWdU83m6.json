@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 51959,
+  "num_followers": 51967,
   "original_name": "Prog Jazz",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAAAlqu//D5sa2GHLoSvaeW1k",
+  "snapshot_id": "ZjzOkQAAAADRNtTlwZ8hU5nhZNnZ6LX2",
   "tracks": [
+    {
+      "added_at": "2024-05-09 13:24:33",
+      "album": {
+        "name": "So Far, So Nice",
+        "url": "https://open.spotify.com/album/5x4asQIuA8XjORUMW6uray"
+      },
+      "artists": [
+        {
+          "name": "Aksarven",
+          "url": "https://open.spotify.com/artist/2IVEyII41ohYahX5VMyKkr"
+        }
+      ],
+      "duration_ms": 381939,
+      "name": "So Far, So Nice",
+      "url": "https://open.spotify.com/track/0EY86f6kF4Mr2nUMGTPp95"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 88300,
+  "num_followers": 88320,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Sen D\u00f6nene Kadar",
+        "url": "https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "Sen D\u00f6nene Kadar",
+      "url": "https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 158023,
       "name": "KONTAK (feat. Ezhel)",
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Sen D\u00f6nene Kadar",
-        "url": "https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "Sen D\u00f6nene Kadar",
-      "url": "https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -231,18 +231,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "EVA & MIA",
-        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
       },
       "artists": [
         {
-          "name": "GOKO!",
-          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 174883,
-      "name": "EVA & MIA",
-      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
+      "duration_ms": 167350,
+      "name": "Bi Sonraki Hayat\u0131mda Gel",
+      "url": "https://open.spotify.com/track/4q9DUJOFEJJtFXB4mtePhV"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
+        "name": "EVA & MIA",
+        "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
       },
       "artists": [
         {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+          "name": "GOKO!",
+          "url": "https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun"
         }
       ],
-      "duration_ms": 167350,
-      "name": "Bi Sonraki Hayat\u0131mda Gel",
-      "url": "https://open.spotify.com/track/4q9DUJOFEJJtFXB4mtePhV"
+      "duration_ms": 174883,
+      "name": "EVA & MIA",
+      "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "\u015eampanya",
+        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
+      },
+      "artists": [
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "duration_ms": 253754,
+      "name": "\u015eampanya",
+      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Imdat",
         "url": "https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 194609,
       "name": "Imdat",
       "url": "https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "\u015eampanya",
-        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
-      },
-      "artists": [
-        {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
-        }
-      ],
-      "duration_ms": 253754,
-      "name": "\u015eampanya",
-      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Sen Ba\u015fkas\u0131n",
+        "url": "https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB"
+      },
+      "artists": [
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Sen Ba\u015fkas\u0131n",
+      "url": "https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Made In Turkey",
         "url": "https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 196583,
       "name": "AYA",
       "url": "https://open.spotify.com/track/1d9GjRbLvVdAVBOTkwew4j"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Sen Ba\u015fkas\u0131n",
-        "url": "https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB"
-      },
-      "artists": [
-        {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Sen Ba\u015fkas\u0131n",
-      "url": "https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "PARAMPAR\u00c7A",
-        "url": "https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR"
-      },
-      "artists": [
-        {
-          "name": "Papa Benj",
-          "url": "https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB"
-        },
-        {
-          "name": "Oversize",
-          "url": "https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs"
-        }
-      ],
-      "duration_ms": 128776,
-      "name": "PARAMPAR\u00c7A",
-      "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Yaz Alb\u00fcm\u00fc",
         "url": "https://open.spotify.com/album/3RdgVxFXrgwUjOxMmpqre4"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 199296,
       "name": "Latina",
       "url": "https://open.spotify.com/track/3JmENq4lSWUE2NkJEDiRBh"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "PARAMPAR\u00c7A",
+        "url": "https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR"
+      },
+      "artists": [
+        {
+          "name": "Papa Benj",
+          "url": "https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB"
+        },
+        {
+          "name": "Oversize",
+          "url": "https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs"
+        }
+      ],
+      "duration_ms": 128776,
+      "name": "PARAMPAR\u00c7A",
+      "url": "https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A"
     },
     {
       "added_at": "2023-08-31 21:00:00",

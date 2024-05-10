@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1310212,
+  "description": "This Is Banda MS de Sergio Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "num_followers": 1310340,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACZvvvSd/aCxsvSngNVgWtF",
+  "snapshot_id": "ZjrAgAAAAAC9mu6d1luJN+PyyJikmXhd",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "Lo Mejor Que Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo Que Lo Dudes",
         "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Lo Mejor Que Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Preparaci\u00f3n",
-        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Incre\u00edble",
-      "url": "https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 223200,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Incre\u00edble",
+      "url": "https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Altamente Probable",
+      "url": "https://open.spotify.com/track/2l4vLM7tnFJ5Yf84dr0qvG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Que Soporten",
         "url": "https://open.spotify.com/album/6DWrKCUvFC2yGSSpOOzcO3"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 215513,
       "name": "Y Que Soporten",
       "url": "https://open.spotify.com/track/0dXNs41HnOKdIkYtfmTNYB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Altamente Probable",
-      "url": "https://open.spotify.com/track/2l4vLM7tnFJ5Yf84dr0qvG"
     }
   ],
   "unique_name": "This Is Banda MS de Sergio Liz\u00e1rraga",

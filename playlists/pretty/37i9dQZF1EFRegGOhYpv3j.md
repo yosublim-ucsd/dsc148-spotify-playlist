@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 47 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 47 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 46 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 47 | [Perfect \- Acoustic with Strings](https://open.spotify.com/track/77gUPfmx5vYt3xFJFkuGh7) | [Jim Collins](https://open.spotify.com/artist/1VPhvO59mwagab2wEGNXbb) | [First Dance](https://open.spotify.com/album/0lAWa4xobgTZWNmpmp5WZp) | 4:32 |
 
-Snapshot ID: `AbQ0IAAAAAAzF4NPZYjvfE9colcXrXjL`
+Snapshot ID: `AbQ5wAAAAACBOpC5YMafiviVe+L/rO7p`

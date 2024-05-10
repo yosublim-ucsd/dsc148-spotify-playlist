@@ -1,12 +1,12 @@
 {
   "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 115660,
+  "num_followers": 115797,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAAAtCLhfpQrc1M0naleq6YH9",
+  "snapshot_id": "ZjrAgAAAAAAD3Yp+jn52b0PxhX2yp7fT",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Quiero Enamorar",
-        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy Ya Me Voy",
         "url": "https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 259976,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Quiero Enamorar",
+        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
     },
     {
       "added_at": null,

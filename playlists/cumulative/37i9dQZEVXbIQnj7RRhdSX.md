@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,798 songs - 3 day 19 hr 57 min
+1,799 songs - 3 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1189,6 +1189,7 @@
 | [Non è mai troppo tardi](https://open.spotify.com/track/0tsYxB1pizmaX2jEd5XVar) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Non è mai troppo tardi](https://open.spotify.com/album/1xLPTiwc6rokHNGfneYxoD) | 2:42 | 2021-08-15 | 2021-09-18 |
 | [Noodles](https://open.spotify.com/track/6nw8IZsJON0Jc2EpbRC8cu) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 1:52 | 2023-12-16 | 2023-12-18 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-04 | 2023-01-07 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-09 |  |
 | [Notte gialla \(feat\. Madame\)](https://open.spotify.com/track/5KkH1w1g6ACMRoz1fYvWCb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 3:11 | 2021-07-25 | 2021-07-29 |
 | [NOTTE SCURA \(feat\. Gazzelle & Tedua\)](https://open.spotify.com/track/2N3lyNW0cOeJzVNWo85Ci8) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:56 | 2022-01-08 | 2022-01-23 |
 | [Notti In Bianco](https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Blu Celeste](https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec) | 2:56 | 2021-09-12 | 2022-09-27 |
@@ -1668,7 +1669,7 @@
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-08 | 2024-02-18 |
 | [Tuta Lacoste \(feat\. Timal\)](https://open.spotify.com/track/5EqtRjjXWq4sxL3c6PDK8q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 3:28 | 2022-06-11 | 2022-06-13 |
 | [Tuta Maphia \(feat\. Paky\)](https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:32 | 2023-01-15 | 2023-02-07 |
-| [Tutta La Night](https://open.spotify.com/track/0CUNOGNzjQY5vHgliB7on6) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:47 | 2024-05-04 |  |
+| [Tutta La Night](https://open.spotify.com/track/0CUNOGNzjQY5vHgliB7on6) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:47 | 2024-05-04 | 2024-05-10 |
 | [tutta la notte](https://open.spotify.com/track/32SclbEhaMKvlMbncpy8W2) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [tutta la notte](https://open.spotify.com/album/7GFGRjqzzCeYdZ9IV7Ijjp) | 2:41 | 2021-03-27\* | 2021-05-15 |
 | [tutta la notte](https://open.spotify.com/track/7ftzLN04T6FZkVDdqjEukH) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [tutta la notte](https://open.spotify.com/album/38dX6StQLfZKgDzxmRLgZR) | 2:41 | 2021-05-15 | 2021-07-07 |
 | [Tuttecose \(feat\. Mara Sattei\)](https://open.spotify.com/track/6KLjClrXcuXiX4PWGHtmDk) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tuttecose \(feat\. Mara Sattei\)](https://open.spotify.com/album/2hIq0z8amoUx0UxHWpvu2w) | 3:17 | 2021-06-06 | 2021-09-27 |

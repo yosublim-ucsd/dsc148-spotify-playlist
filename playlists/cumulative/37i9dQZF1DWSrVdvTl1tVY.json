@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
+    },
+    {
+      "album": {
         "name": "Body Go",
         "url": "https://open.spotify.com/album/3lEHezN4wcJWAJ8XB5cDqx"
       },
@@ -3516,6 +3538,24 @@
       "duration_ms": 167875,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0J7eodyP1Y6DlrbZceybTp"
+    },
+    {
+      "album": {
+        "name": "Do It Like This",
+        "url": "https://open.spotify.com/album/1UuTD9NPPmW8A0H6xbnX1W"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120930,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/6nF2WZec3s2oVn0UzMlTUX"
     },
     {
       "album": {
@@ -8856,7 +8896,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 340157,
       "name": "Make Me Feel (Like Dancing)",
       "url": "https://open.spotify.com/track/100m5H7AWP78qoou9Eb8DF"
@@ -11303,6 +11343,28 @@
     },
     {
       "album": {
+        "name": "Preach (feat. Ron Carroll)",
+        "url": "https://open.spotify.com/album/0qEumhqsy2Q2W57kMcGItu"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245861,
+      "name": "Preach (feat. Ron Carroll)",
+      "url": "https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW"
       },
@@ -11704,7 +11766,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
@@ -13549,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Sunglasses",
+        "url": "https://open.spotify.com/album/69iTohGWGa451agVzIFJbC"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Sunglasses",
+      "url": "https://open.spotify.com/track/1Ump2Izmbp9bdEJtkTClgl"
+    },
+    {
+      "album": {
         "name": "Sunsleeper",
         "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
       },
@@ -13984,6 +14064,28 @@
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/0XMh0bXr9oKP1mzifGwIRK"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178409,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/69XbRqq05XaVBJtb7QLIEq"
     },
     {
       "album": {
@@ -16006,7 +16108,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Future & Metro Boomin'(pictured), Big Sean and more...",
+  "description": "Only the hottest Hip Hop from K.O & Maglera Doe Boy (pictured), Kendrick Lamar, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -2778,6 +2778,28 @@
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "album": {
+        "name": "Let Me Cook (feat. Maglera Doe Boy)",
+        "url": "https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233898,
+      "name": "Let Me Cook (feat. Maglera Doe Boy)",
+      "url": "https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj"
     },
     {
       "album": {

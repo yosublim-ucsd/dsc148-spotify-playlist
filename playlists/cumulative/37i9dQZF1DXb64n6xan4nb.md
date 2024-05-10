@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-173 songs - 12 hr 0 min
+174 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 | 2022-06-13 | 2024-04-19 |
 | [Brown City](https://open.spotify.com/track/5yMUXmoOqQbXPlj5C2Q3Au) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 3:55 | 2022-06-13 |  |
 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 | 2022-06-13 |  |
-| [By Your Side](https://open.spotify.com/track/1Tqh8t2mYCkfpkT9CbNyCN) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [CYWORLD BGM 2021](https://open.spotify.com/album/3tXXfUbgI751v5zW4Cg3nn) | 3:55 | 2022-06-13 |  |
+| [By Your Side](https://open.spotify.com/track/1Tqh8t2mYCkfpkT9CbNyCN) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [CYWORLD BGM 2021](https://open.spotify.com/album/3tXXfUbgI751v5zW4Cg3nn) | 3:55 | 2022-06-13 | 2024-05-10 |
 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 | 2022-06-13 | 2024-04-19 |
 | [Day by Day 2012 \(feat\. Verbal Jint\)](https://open.spotify.com/track/4o1l1P9R1e5Jd1FTrYbFti) | [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Day by Day 2012](https://open.spotify.com/album/1Yn35s6w4NyIrN0l7pTxVR) | 3:58 | 2022-06-13 | 2023-07-15 |
 | [December 32 Days](https://open.spotify.com/track/3hEJIHIow1MZVanhNYlaE1) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [CYWORLD BGM 2021](https://open.spotify.com/album/7yRPPGUIw89XPDMw3Il6c5) | 4:17 | 2022-06-13 |  |
@@ -97,6 +97,7 @@
 | [Then Then Then](https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7) | [Supreme Team](https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [Ames Room](https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh) | 4:23 | 2022-06-13 |  |
 | [This Is Not a Love Song](https://open.spotify.com/track/0xOPz9Ukeiae0fahAamCWt) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:47 | 2022-06-13 |  |
 | [This Is Not a Love Song](https://open.spotify.com/track/1TKDZ1RNuYUoyZYTUA1fBj) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:47 | 2022-06-13 | 2024-04-19 |
+| [Tic Tac Toe](https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR) | [부가킹즈](https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U) | [The Renaissance](https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l) | 3:55 | 2022-06-13 |  |
 | [Time Walking on Memory](https://open.spotify.com/track/1kqmsG932UIAB67TQW5ZXd) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Cyworld BGM 2021](https://open.spotify.com/album/5fddR7cpgW2J8ctiCb9b75) | 5:09 | 2022-06-13 | 2023-06-02 |
 | [Time Walking on Memory](https://open.spotify.com/track/4rvNw5ZkbuMYraAmkY8Qei) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Cyworld BGM 2021](https://open.spotify.com/album/6xH8OVNf4jcjQWwbs3UbS6) | 5:09 | 2022-06-13 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be＋](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2022-06-13 | 2024-04-19 |
@@ -106,7 +107,7 @@
 | [Without a Heart \- 10th Anniversary Ver.](https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI) | [8Eight](https://open.spotify.com/artist/5fp3IPvTlnkqI5NvRnwldJ) | [Fool Again](https://open.spotify.com/album/4wYYHmNtTMjlG8WXfznCwU) | 3:37 | 2022-06-13 | 2023-04-27 |
 | [Y \(feat.BUMZU\)](https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm) | [Kei](https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk), [Myundo](https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg), [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [Y](https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot) | 4:04 | 2022-06-13 |  |
 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 | 2022-06-13 |  |
-| [Y \(Please Tell Me Why\)](https://open.spotify.com/track/2DYyK2vOfYwjCuTOzDm2Xo) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [Cyworld BGM 2021](https://open.spotify.com/album/6ZDXXyKTtq5GcjIF3ZAZxN) | 3:48 | 2022-06-13 |  |
+| [Y \(Please Tell Me Why\)](https://open.spotify.com/track/2DYyK2vOfYwjCuTOzDm2Xo) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Cyworld BGM 2021](https://open.spotify.com/album/6ZDXXyKTtq5GcjIF3ZAZxN) | 3:48 | 2022-06-13 |  |
 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/4gwk1mjNJYQ4nvSVU6Vcl8) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [Cyworld BGM 2021](https://open.spotify.com/album/4yMo7ANOMcvtenEVbX43SJ) | 3:48 | 2022-06-13 | 2023-06-02 |
 | [Yukino Hana](https://open.spotify.com/track/71yUuFRQLmuLvjx786xWg8) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Cyworld BGM 2021](https://open.spotify.com/album/4kI6Yjgl79efxfWbKgSvSG) | 5:30 | 2022-06-13 | 2023-06-02 |
 | [Yukino Hana](https://open.spotify.com/track/7EAHBCEd5MFtg5K4AYeq1Q) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Cyworld BGM 2021](https://open.spotify.com/album/3pKaKGOJFJTwaHsXfGUFKT) | 5:30 | 2022-06-13 |  |

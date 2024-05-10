@@ -229,24 +229,28 @@
       "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-09-08 05:11:32",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Temporary (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -285,28 +289,24 @@
       "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 195000,
-      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+      "duration_ms": 178333,
+      "name": "Temporary (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Gang Slide",
@@ -1087,22 +1103,6 @@
       "duration_ms": 163720,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1251,22 +1267,6 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1389,24 +1389,20 @@
       "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-09-01 04:55:52",
       "album": {
-        "name": "Deep Ellum Interlude",
-        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
       },
       "artists": [
         {
-          "name": "Zay Johnny",
-          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
-        },
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 123150,
-      "name": "Deep Ellum Interlude",
-      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1441,36 +1437,24 @@
       "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
-      "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/5v5tNGmRVNvkDgyc6ATBNC"
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
       },
       "artists": [
         {
-          "name": "451",
-          "url": "https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA"
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
         }
       ],
-      "duration_ms": 198367,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 207175,
       "name": "Speak Your Mine",
       "url": "https://open.spotify.com/track/1i5hcCnWCHYu2mvUq04OPP"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/5v5tNGmRVNvkDgyc6ATBNC"
+      },
+      "artists": [
+        {
+          "name": "451",
+          "url": "https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Presence",
@@ -1779,6 +1763,22 @@
       "duration_ms": 184736,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
     }
   ],
   "unique_name": "Some Kinda Way",

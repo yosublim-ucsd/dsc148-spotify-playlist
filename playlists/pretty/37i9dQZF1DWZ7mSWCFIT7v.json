@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 224233,
+  "num_followers": 224292,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
-      "added_at": "2022-12-20 22:24:39",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
       "added_at": "2022-08-03 02:34:20",
       "album": {
         "name": "Truffles Sprinkles",
@@ -319,6 +303,22 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+    },
+    {
+      "added_at": "2022-12-20 22:24:39",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -441,26 +441,6 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
-      "added_at": "2023-11-23 03:12:41",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
-      },
-      "artists": [
-        {
-          "name": "Polygonia",
-          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
-        },
-        {
-          "name": "Popp",
-          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
-        }
-      ],
-      "duration_ms": 348947,
-      "name": "Honsu",
-      "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -491,6 +471,26 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2023-11-23 03:12:41",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
+      },
+      "artists": [
+        {
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        },
+        {
+          "name": "Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        }
+      ],
+      "duration_ms": 348947,
+      "name": "Honsu",
+      "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
       "added_at": "2022-03-30 15:08:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 455548,
       "name": "Rain 3",
       "url": "https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Inkjet / Fluo",
@@ -1055,6 +1039,22 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
+    },
+    {
+      "added_at": "2022-02-25 03:59:46",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Onism",
-        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
+        "name": "Suiseki",
+        "url": "https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN"
       },
       "artists": [
         {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 198881,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
+      "duration_ms": 210443,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
     },
     {
       "added_at": "2022-08-31 03:57:27",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Suiseki",
-        "url": "https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN"
+        "name": "Onism",
+        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
         }
       ],
-      "duration_ms": 210443,
-      "name": "Temple",
-      "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
+      "duration_ms": 198881,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
     },
     {
-      "added_at": "2023-03-22 17:48:40",
-      "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
-      },
-      "artists": [
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Symbolic Use Of Light",
@@ -1255,6 +1239,22 @@
       "duration_ms": 271237,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
+    },
+    {
+      "added_at": "2023-03-22 17:48:40",
+      "album": {
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+      },
+      "artists": [
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
       "added_at": "2023-03-31 19:28:25",
       "album": {
         "name": "Verve EP",
@@ -1371,6 +1355,22 @@
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+      },
+      "artists": [
+        {
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+        }
+      ],
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
-      "added_at": "2022-08-13 02:22:47",
-      "album": {
-        "name": "Summering (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 88960,
-      "name": "Summer Lawns",
-      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
-    },
-    {
       "added_at": "2022-01-12 18:40:19",
       "album": {
         "name": "E2-XO",
@@ -1435,6 +1419,22 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2022-08-13 02:22:47",
+      "album": {
+        "name": "Summering (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 88960,
+      "name": "Summer Lawns",
+      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
     },
     {
       "added_at": "2022-08-24 01:27:39",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
-      "added_at": "2023-10-28 00:12:45",
-      "album": {
-        "name": "Wiegenmusik / Constant Structure",
-        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
-      },
-      "artists": [
-        {
-          "name": "Simon Lovermann",
-          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
-        }
-      ],
-      "duration_ms": 152827,
-      "name": "Wiegenmusik",
-      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
-    },
-    {
       "added_at": "2023-02-16 00:21:45",
       "album": {
         "name": "I Can't Die as Well",
@@ -1485,20 +1469,20 @@
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-10-28 00:12:45",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "Wiegenmusik / Constant Structure",
+        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Simon Lovermann",
+          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
         }
       ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+      "duration_ms": 152827,
+      "name": "Wiegenmusik",
+      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1515,6 +1499,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-04-15 02:42:19",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Roaming",
+        "url": "https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Roaming",
+      "url": "https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "On danse comme des fous",
         "url": "https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU"
       },
@@ -1625,20 +1641,20 @@
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-11-09 13:54:27",
       "album": {
-        "name": "Roaming",
-        "url": "https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9"
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
       },
       "artists": [
         {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Roaming",
-      "url": "https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64"
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2023-11-08 01:22:26",
@@ -1655,22 +1671,6 @@
       "duration_ms": 332745,
       "name": "Obligation Reminder",
       "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
-    },
-    {
-      "added_at": "2022-11-09 13:54:27",
-      "album": {
-        "name": "sssssmilinggggg",
-        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
-      },
-      "artists": [
-        {
-          "name": "Kaho Matsui",
-          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "sssssmilinggggg",
-      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2021-10-06 04:42:05",

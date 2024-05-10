@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Ley Soul
 
-2,403 songs - 5 day 12 hr 7 min
+2,404 songs - 5 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Butterfinger](https://open.spotify.com/track/1IwPy3xBaK23stRDzMndjE) | [Honeybutter](https://open.spotify.com/artist/5upYtByo4cynxSzLNzULQf) | [Butterfinger](https://open.spotify.com/album/4LbvzGxQjBmKZkuXyzm7wU) | 3:11 | 2023-01-11 | 2023-02-16 |
 | [Butterflies](https://open.spotify.com/track/3SYsFMTvzorZYU7gAhw1Fi) | [Hook\-Ups](https://open.spotify.com/artist/6FMudRfeeTt2SB4g7mIgDk) | [Butterflies/Sorbet](https://open.spotify.com/album/16CwlYDYozZmQrdhB93Hqw) | 2:51 | 2022-04-06 | 2022-04-27 |
 | [Butterflies](https://open.spotify.com/track/6jD1XCmOrPYs0LnC787bRj) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:25 | 2022-10-12 | 2023-01-12 |
+| [By Now](https://open.spotify.com/track/0EExYRMDX3l1NDktZyQ4xL) | [Selma Eriksen](https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz) | [By Now](https://open.spotify.com/album/4uhDzuifb6l5eKXepy2g9x) | 3:25 | 2024-05-10 |  |
 | [cabin fever](https://open.spotify.com/track/3c3oUMxOr2cVFBY6V3v08C) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [cabin fever](https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6) | 1:13 | 2022-04-06 | 2023-01-12 |
 | [California](https://open.spotify.com/track/03Ed6WyM7oX5FsiRqsTxj6) | [Al Costelloe](https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy) | [California](https://open.spotify.com/album/5tTwHzlKocnXaDdihw4gAU) | 4:41 | 2022-03-30 | 2022-04-27 |
 | [California Blues](https://open.spotify.com/track/5HfhZ3Kx6EXo65bCVo4hwI) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE), [Holladay](https://open.spotify.com/artist/7EgVKRTV4O1d8EKduQzq2Q) | [California Blues](https://open.spotify.com/album/4DZfnMz5WfEgm1U2UALWz5) | 4:24 | 2024-01-10 | 2024-02-08 |

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220701,
+      "name": "Buc Tam Thu",
+      "url": "https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch"
+    },
+    {
+      "album": {
         "name": "Th\u01b0\u01a1ng M\u1ed9t Ng\u01b0\u1eddi \u1ede Xa (M\u01b0a H\u1ed3ng 114)",
         "url": "https://open.spotify.com/album/2PHPpYhbZCdXDWLQQXGCGl"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 295039,
       "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
       "url": "https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 355266,
       "name": "Gi\u1ecdt L\u1ec7 \u0110\u00e0i Trang (feat. Ho\u00e0i L\u00e2m)",
       "url": "https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 315030,
       "name": "Hai Dua Gian Nhau",
       "url": "https://open.spotify.com/track/1AzIDtHpJdBz06SbBejdPE"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 319330,
       "name": "Hai Sac Hoa Tigon",
       "url": "https://open.spotify.com/track/7su2RDJv3bxCxcHdml8Nds"
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 327784,
       "name": "Ph\u00fat Cu\u1ed1i",
       "url": "https://open.spotify.com/track/5kU2AE6ym4UvQSsNOskUBV"

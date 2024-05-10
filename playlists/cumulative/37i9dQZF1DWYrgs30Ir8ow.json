@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Kris Kross Amsterdam & INNA",
+  "description": "Altijd fris in Fresh Hits. Genna",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 132272,
       "name": "Beetje Fout (feat. Yssi SB)",
       "url": "https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 136804,
       "name": "Beetje Verliefd",
       "url": "https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0Dh59MYnNmPWhcjLZvKQwb"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140188,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr"
+    },
+    {
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -3146,6 +3164,24 @@
       "duration_ms": 180545,
       "name": "Droom Groot",
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
+    },
+    {
+      "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219432,
+      "name": "Droom Sinds Klein",
+      "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
     },
     {
       "album": {
@@ -4839,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Hoop Dat Jij Me Mist",
+        "url": "https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165595,
+      "name": "Hoop Dat Jij Me Mist",
+      "url": "https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -5152,7 +5206,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -5473,6 +5527,28 @@
     },
     {
       "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
+    },
+    {
+      "album": {
         "name": "Is It Love",
         "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
       },
@@ -5656,7 +5732,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -6663,6 +6739,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
         "name": "Summerpack",
         "url": "https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB"
       },
@@ -7543,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "Op De Zeeweg",
+        "url": "https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141069,
+      "name": "Op De Zeeweg",
+      "url": "https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs"
+    },
+    {
+      "album": {
         "name": "Opfok",
         "url": "https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju"
       },
@@ -7678,6 +7790,28 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "album": {
+        "name": "Overvloed",
+        "url": "https://open.spotify.com/album/3wnMD2qWzqoUD7xbF5k8Ft"
+      },
+      "artists": [
+        {
+          "name": "Genna",
+          "url": "https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT"
+        },
+        {
+          "name": "Jiri11",
+          "url": "https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Overvloed",
+      "url": "https://open.spotify.com/track/47RYk8TI6alMop74nycFDF"
     },
     {
       "album": {
@@ -7852,7 +7986,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 119285,
       "name": "Perdiste",
       "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
@@ -8821,6 +8955,24 @@
     },
     {
       "album": {
+        "name": "Schijnbaar Niet Waar",
+        "url": "https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151296,
+      "name": "Schijnbaar Niet Waar",
+      "url": "https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj"
+    },
+    {
+      "album": {
         "name": "Schultenbr\u00e4u",
         "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
       },
@@ -9526,6 +9678,28 @@
       "duration_ms": 142062,
       "name": "Stick To Your Ways",
       "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
+    },
+    {
+      "album": {
+        "name": "Stiekem \u201824",
+        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188956,
+      "name": "Stiekem \u201824",
+      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
     },
     {
       "album": {
@@ -11194,7 +11368,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 252920,
       "name": "We Still Don't Trust You",
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"

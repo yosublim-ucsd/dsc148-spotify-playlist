@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 148928,
       "name": "A N X I E T Y (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 107000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6FarFRn9u25aqc6sr2axuO"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198706,
       "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
       "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 139746,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7DeLJ82yL0mcIQRVdViP9x"
@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "MAKE THE WEST GREAT AGAIN",
+        "url": "https://open.spotify.com/album/7pAW452N8gTTdZFeuEjiTr"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155783,
+      "name": "COOL DOWN (feat. YG)",
+      "url": "https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
       },
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 157866,
       "name": "Cupid's Guidance",
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
@@ -1955,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
+    },
+    {
+      "album": {
         "name": "GOLDEN TAN",
         "url": "https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W"
       },
@@ -2076,6 +2116,32 @@
       "duration_ms": 214791,
       "name": "Heist",
       "url": "https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q"
+    },
+    {
+      "album": {
+        "name": "MEET THE 6IXERS",
+        "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Hell Yea",
+      "url": "https://open.spotify.com/track/40OYvbOfFgcdZ6a0Iz9FfP"
     },
     {
       "album": {
@@ -2790,7 +2856,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 169403,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
@@ -2984,6 +3050,24 @@
       "duration_ms": 172773,
       "name": "Mask On [Feat. Joey BadA$$]",
       "url": "https://open.spotify.com/track/3ICvetSViYp5NedhfHCq6i"
+    },
+    {
+      "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "album": {
@@ -3232,10 +3316,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 109655,
       "name": "Next Up Australia - S1-E9 - Pt.2",
       "url": "https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz"
+    },
+    {
+      "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
     },
     {
       "album": {
@@ -4214,7 +4320,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 156734,
       "name": "snakes",
       "url": "https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN"
@@ -4808,7 +4914,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 197333,
       "name": "Trauma (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9"

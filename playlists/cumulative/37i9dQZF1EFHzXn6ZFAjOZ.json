@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235644,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+    },
+    {
+      "album": {
         "name": "Natalie Don\u2019t",
         "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
       },

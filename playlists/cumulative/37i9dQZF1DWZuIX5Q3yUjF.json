@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: FR\u00c8NESYA, cura",
+  "description": "Il meglio dell'R&B italiano. Cover: Kuban",
   "name": "anima R&B",
   "tracks": [
     {
@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "713",
+        "url": "https://open.spotify.com/album/0iZpCEhefDXKxiLuyWCl5R"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        },
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158974,
+      "name": "713",
+      "url": "https://open.spotify.com/track/7j40WhUtQj7BEkfzvfUSLF"
+    },
+    {
+      "album": {
         "name": "A met\u00e0",
         "url": "https://open.spotify.com/album/2BZeTBZyRT1VcGEykUnusV"
       },
@@ -296,6 +318,24 @@
       "duration_ms": 189600,
       "name": "Accuss\u00ec",
       "url": "https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy"
+    },
+    {
+      "album": {
+        "name": "Acqua Calma",
+        "url": "https://open.spotify.com/album/71jeIpJNmUPD9K1eZ7b2hA"
+      },
+      "artists": [
+        {
+          "name": "Ale",
+          "url": "https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Acqua Calma",
+      "url": "https://open.spotify.com/track/6NccmfD7OI6arg2C6oZCwk"
     },
     {
       "album": {
@@ -5034,7 +5074,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 140877,
       "name": "LA NIGHT",
       "url": "https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE"
@@ -5698,7 +5738,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 156269,
       "name": "Lui",
       "url": "https://open.spotify.com/track/2CA7x4w6ozAUZFHChxcyxt"
@@ -5926,7 +5966,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 156000,
       "name": "Mai",
       "url": "https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy"
@@ -8014,7 +8054,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 171188,
       "name": "Primo Maggio",
       "url": "https://open.spotify.com/track/6DllcZhyq5frXtj7ZO4vas"
@@ -8072,6 +8112,24 @@
       "duration_ms": 173479,
       "name": "Qualcosa di Speciale",
       "url": "https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf"
+    },
+    {
+      "album": {
+        "name": "Quello che mi resta",
+        "url": "https://open.spotify.com/album/5Blef5UwcYrHpc4rvjEXcV"
+      },
+      "artists": [
+        {
+          "name": "DFWU",
+          "url": "https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Quello che mi resta",
+      "url": "https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl"
     },
     {
       "album": {
@@ -11470,7 +11528,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 162000,
       "name": "\u2018Ncroce",
       "url": "https://open.spotify.com/track/0CZOHbZ3roRxHhUfm749Xh"

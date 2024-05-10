@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Megan Moroney, Beyoncé, Miley Cyrus &amp; more! Cover: Megan Moroney
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,021 likes - 90 songs - 4 hr 40 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,020 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

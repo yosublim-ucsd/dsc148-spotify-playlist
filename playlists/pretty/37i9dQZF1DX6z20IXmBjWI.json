@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2019487,
+  "num_followers": 2019437,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfPHwAAAAADs+KWK/9ry+FJzNT0pUM3J",
+  "snapshot_id": "Zj1NWQAAAAD1HIchlAlFNW5GpzkfE/5T",
   "tracks": [
     {
       "added_at": "2024-03-15 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -555,6 +535,26 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -851,22 +851,6 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 183767,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 199906,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 183767,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Build A Problem",
         "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1667,42 +1667,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Hung the Moon",
-        "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Hung the Moon",
-      "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
@@ -1715,6 +1679,22 @@
       "duration_ms": 210160,
       "name": "How Can You Sing",
       "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1735,6 +1715,26 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Hung the Moon",
+        "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Hung the Moon",
+      "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nothing's Easy",
-        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
-      },
-      "artists": [
-        {
-          "name": "Tiz McNamara",
-          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
-        }
-      ],
-      "duration_ms": 186978,
-      "name": "Nothing's Easy",
-      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Nervous At Night",
         "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 187133,
       "name": "Planet With Water",
       "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Nothing's Easy",
+        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
+      },
+      "artists": [
+        {
+          "name": "Tiz McNamara",
+          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
+        }
+      ],
+      "duration_ms": 186978,
+      "name": "Nothing's Easy",
+      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "Brandy Alexander",
-      "url": "https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Patchwork Heart",
         "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
       },
@@ -1955,18 +1939,34 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Fortune",
-      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
+      "duration_ms": 216080,
+      "name": "Brandy Alexander",
+      "url": "https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "If Only There Was a River",
+        "url": "https://open.spotify.com/album/7zRf8EaFBN1VjLO7TgoTer"
+      },
+      "artists": [
+        {
+          "name": "Anna St. Louis",
+          "url": "https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD"
+        }
+      ],
+      "duration_ms": 146058,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0z2NEiu43ZN5r3OuUi2Cud"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "If Only There Was a River",
-        "url": "https://open.spotify.com/album/7zRf8EaFBN1VjLO7TgoTer"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "Anna St. Louis",
-          "url": "https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 146058,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/0z2NEiu43ZN5r3OuUi2Cud"
+      "duration_ms": 235546,
+      "name": "Fortune",
+      "url": "https://open.spotify.com/track/2UfQTKA8Rydw8bFvIO64yM"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Love Part Three",
         "url": "https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 267080,
       "name": "Love Part Three",
       "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Kelsey Hunter",
         "url": "https://open.spotify.com/album/0tOBHO98lIGttU6zneer3Z"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 240819,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/1Aepp4YzacHrpRM92k0zDd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
     },
     {
       "added_at": "2024-03-15 04:00:00",

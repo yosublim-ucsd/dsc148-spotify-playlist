@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg"
       },
@@ -64,6 +82,28 @@
       "duration_ms": 650499,
       "name": "B'ola (Live)",
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
+    },
+    {
+      "album": {
+        "name": "Legendary In His Presence 2 (Live)",
+        "url": "https://open.spotify.com/album/3KZbqrfhkl3ljwelGQRRKS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        },
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439013,
+      "name": "Bambelela (Live)",
+      "url": "https://open.spotify.com/track/3eyBfIEYWgMk1iEShi8BW2"
     },
     {
       "album": {

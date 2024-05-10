@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5503,
+  "num_followers": 5484,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
-        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Wrongful Meeting",
-      "url": "https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 261250,
       "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
       "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
+        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Wrongful Meeting",
+      "url": "https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
       "artists": [
         {
-          "name": "Chae Yeon",
-          "url": "https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR"
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -811,22 +811,6 @@
       "duration_ms": 251973,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -859,6 +843,22 @@
       "duration_ms": 226173,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+      },
+      "artists": [
+        {
+          "name": "Chae Yeon",
+          "url": "https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Break up With Her",
+      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -943,6 +959,22 @@
       "duration_ms": 208440,
       "name": "Hey, Come On!",
       "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -967,34 +999,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
       "artists": [
         {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Break up With Her",
-      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Year of The Tiger",
         "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 220609,
       "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
       "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "To Heaven",
-        "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 250409,
-      "name": "To Heaven",
-      "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "To Heaven",
+        "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 250409,
+      "name": "To Heaven",
+      "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Travel \u221e Directions",
         "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 253570,
       "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
       "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\ud551\uacc4",
-        "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Are You Ready?",
-        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
+        "name": "\ud551\uacc4",
+        "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
       },
       "artists": [
         {
-          "name": "Clon",
-          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Kung Ddari Sha Bah Rah",
-      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
+      "duration_ms": 219173,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Let Me Love",
+        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "\ub2e4\uc9d0",
+      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Let Me Love",
-        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
       },
       "artists": [
         {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
         }
       ],
-      "duration_ms": 240653,
-      "name": "\ub2e4\uc9d0",
-      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
+      "duration_ms": 234093,
+      "name": "Kung Ddari Sha Bah Rah",
+      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Exchange Kg. M4",
-        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 245423,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Exchange Kg. M4",
+        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
-        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "Unreasonable Reason",
-      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ub108",
         "url": "https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk"
       },
@@ -1395,6 +1363,22 @@
       "duration_ms": 222920,
       "name": "\uc904\ub798",
       "url": "https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
+        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
+      },
+      "artists": [
+        {
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+        }
+      ],
+      "duration_ms": 237963,
+      "name": "Unreasonable Reason",
+      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1427,6 +1411,22 @@
       "duration_ms": 244271,
       "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
       "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
     },
     {
       "added_at": "2024-04-04 20:06:12",

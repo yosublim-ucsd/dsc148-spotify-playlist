@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 108579,
+  "num_followers": 108666,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 345173,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 351280,
       "name": "All the Things You Are",
       "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 345173,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 191293,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 308160,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
         "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 181666,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 308160,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Our Man In Jazz",
-        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "I Could Write a Book - Remastered 1999",
-      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 267053,
       "name": "Do Nothing Till You Hear From Me",
       "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Our Man In Jazz",
+        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "I Could Write a Book - Remastered 1999",
+      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 627733,
       "name": "Basin Street Blues",
       "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
-        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 320693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Another Workout",
-        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 483946,
-      "name": "Hello, Young Lovers - Remastered 2006",
-      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -1867,34 +1851,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Take Five: Jazz Classics",
-        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+        "name": "Another Workout",
+        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
       "artists": [
         {
-          "name": "Teddy Wilson Trio",
-          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "The Jazz Messengers",
-        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 333493,
-      "name": "It's You or No One",
-      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
+      "duration_ms": 483946,
+      "name": "Hello, Young Lovers - Remastered 2006",
+      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1919,6 +1887,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "Take Five: Jazz Classics",
+        "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson Trio",
+          "url": "https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Verve Jazz Masters 50: Sonny Stitt",
         "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 189893,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "The Jazz Messengers",
+        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 333493,
+      "name": "It's You or No One",
+      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Long Ago (And Far Away)",
-      "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Play The Arrangements Of Jimmy Giuffre",
         "url": "https://open.spotify.com/album/0Rn37SXYjCna8E1PRUFCtD"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 606026,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Long Ago (And Far Away)",
+      "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
     },
     {
       "added_at": "2024-03-20 12:33:02",

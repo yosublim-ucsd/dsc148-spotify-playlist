@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-273 songs - 16 hr 15 min
+276 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Binario](https://open.spotify.com/track/5jXbK5R4O34yVQcA1K3dT9) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [Binario](https://open.spotify.com/album/72kJCAW25d4XGohTiwL5G9) | 4:12 | 2022-01-20 | 2022-07-26 |
 | [Binario](https://open.spotify.com/track/74jUxEgPy6Hu1mWF0WSe4X) | [Vale Cini](https://open.spotify.com/artist/7rQ7RP2RmLJh2EYATNDtZ1) | [La Bestia Melancólica](https://open.spotify.com/album/6L40FqZzA9MEIu4REZeHb1) | 4:12 | 2022-01-20 | 2022-07-24 |
 | [Bolero Falaz](https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:05 | 2022-12-09 | 2024-04-19 |
+| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-09 |  |
 | [Camping](https://open.spotify.com/track/6gWPba7W9RrpZn6r6Y90Yg) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Camping](https://open.spotify.com/album/1vXA2w1smHlu6TRNzQfNUu) | 3:07 | 2022-01-20 | 2022-07-29 |
 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 | 2022-01-20 |  |
 | [Carapazón](https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:25 | 2022-01-20 |  |
@@ -121,7 +122,7 @@
 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 | 2024-04-19 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
-| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 |  |
+| [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2024-05-10 |
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 | 2024-05-06 |
 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2023-08-04 |
 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 | 2024-03-07 |  |
@@ -167,7 +168,7 @@
 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 | 2022-01-20 |  |
 | [Mis Demonios](https://open.spotify.com/track/79V8A27yn7FiOlDec4yux9) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Mis Demonios](https://open.spotify.com/album/2IuP44TaCv53BeJSgNrl1z) | 2:57 | 2022-01-20 | 2022-07-27 |
 | [Monstruo](https://open.spotify.com/track/2Rc6wFcaYLWjlP9NIFoupV) | [PAM](https://open.spotify.com/artist/7ej7oMw5d0QQMq3uIo7qBJ), [Guide to RaZe](https://open.spotify.com/artist/5ga7Rculd6yTfQIfpkLFyg) | [Monstruo](https://open.spotify.com/album/3rWsZ0tXxQK8pU2BHjy90v) | 3:38 | 2022-01-20 | 2022-07-25 |
-| [Morir por Vos \(no puedo\) \- En Vivo](https://open.spotify.com/track/0gJBjTI6ijmS7PNxmhshhl) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Amarillo](https://open.spotify.com/album/5DZ3ZUQ6TezUopA8xkI5Rq) | 3:08 | 2024-04-19 |  |
+| [Morir por Vos \(no puedo\) \- En Vivo](https://open.spotify.com/track/0gJBjTI6ijmS7PNxmhshhl) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Amarillo](https://open.spotify.com/album/5DZ3ZUQ6TezUopA8xkI5Rq) | 3:08 | 2024-04-19 | 2024-05-10 |
 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 | 2022-01-20 |  |
 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra & Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 | 2022-01-20 |  |
 | [Mujeres](https://open.spotify.com/track/2wVZPxC1lrkix7RGHhUzkA) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Dectectives](https://open.spotify.com/album/4OCganNLdrhUcEgG5Hkcjx) | 3:34 | 2022-03-08 | 2023-06-22 |
@@ -203,6 +204,7 @@
 | [Ojos En El Carro](https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Pasar de las Luces](https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm) | 5:28 | 2022-07-15 | 2024-04-19 |
 | [Palo de Amansar](https://open.spotify.com/track/3zwtnySywGlO8RX5tVuf36) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos Que Ladran](https://open.spotify.com/album/1WHBTKPyE9lG2ljzPcznKD) | 3:11 | 2022-01-20 | 2022-07-28 |
 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 | 2022-07-15 | 2024-04-19 |
+| [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 | 2024-05-09 |  |
 | [Paranoia Social \- En Vivo en el Cck](https://open.spotify.com/track/5a3fr3yYsKm0ecAZegyorn) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Tranki Punki \(En Vivo en el Cck\)](https://open.spotify.com/album/3kL4sQ3THaUQsFaNvRDvfH) | 3:35 | 2022-01-20 | 2022-07-29 |
 | [Perdida](https://open.spotify.com/track/1ofdvyiY38PG0AkL3VAUv5) | [Florencia Ruiz](https://open.spotify.com/artist/2LpUM08iUKWPGOc1qoWMBt), [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n), [Claudia Sinesi](https://open.spotify.com/artist/4XWsqS48j9YCOCb52toAC5) | [Perdida](https://open.spotify.com/album/5hhkYtYs9gTCoXEfylxvwz) | 3:14 | 2023-09-07 | 2023-11-25 |
 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 | 2023-09-01 |  |
@@ -226,6 +228,7 @@
 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 | 2023-03-25 |  |
 | [Puta Ama](https://open.spotify.com/track/6yhM1IkrC75xyP30DZpwZ4) | [Mel Cruz](https://open.spotify.com/artist/1Z2RUF4NkTpb17orx30aBq) | [Puta Ama](https://open.spotify.com/album/6Dn5mzJT0z0KyHdObvB2yR) | 2:38 | 2022-01-20 | 2023-10-03 |
 | [Quedate](https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:13 | 2022-01-20 |  |
+| [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 | 2024-05-09 |  |
 | [Quizás Hoy](https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg) | [Erica García](https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL) | [El Cerebro](https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i) | 3:00 | 2022-01-20 | 2022-07-28 |
 | [Qué Va a Ser de Mí](https://open.spotify.com/track/5mAvpLtNWuJ4yZkHz0qW35) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [Qué Va a Ser de Mí](https://open.spotify.com/album/53Bep0Jp0mCwzRqTPjUj2X) | 3:53 | 2022-01-20 | 2022-07-29 |
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-11-24 |  |
@@ -276,7 +279,7 @@
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |
 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 |  |
-| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 |  |
+| [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 | 2024-05-10 |
 | [Voy a Ponerme Bien](https://open.spotify.com/track/2ygIcGSO2bkGxN6aFMhNaV) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Voy a Ponerme Bien](https://open.spotify.com/album/0lPUCCUNW4FXNSjkFWAxMH) | 2:56 | 2022-01-20 | 2022-07-29 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-01-20 |  |
 | [¿A Dónde Voy Si Se Termina el Mundo?](https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Las Presencias, Pt\. I](https://open.spotify.com/album/2OHrRjpglp8VuWitqQ7Pqh) | 3:36 | 2022-01-20 | 2022-07-28 |

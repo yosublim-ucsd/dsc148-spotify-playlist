@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,578 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,606 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 66 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 67 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 68 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
-| 69 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
-| 70 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
-| 71 | [Under The Influence \(Jersey Club\)](https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [DJ Taj](https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY) | [Under The Influence \(Jersey Club\)](https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp) | 2:19 |
+| 69 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
+| 70 | [Under The Influence \(Jersey Club\)](https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [DJ Taj](https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY) | [Under The Influence \(Jersey Club\)](https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp) | 2:19 |
+| 71 | [Price Going Up](https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Price Going Up](https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb) | 2:15 |
 | 72 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
 | 73 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 75 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
+| 75 | [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 |
 
 Snapshot ID: `ZismwAAAAADKxqmLcf7DnY211gZghQXL`

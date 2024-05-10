@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Odd Mob & OMNOM. 50% techno, 50% house",
-  "num_followers": 619757,
+  "num_followers": 619928,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1321,24 +1321,20 @@
       "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Don't Wanna Fall",
-        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Framed Stories",
-          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
         }
       ],
-      "duration_ms": 171968,
-      "name": "Don't Wanna Fall",
-      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1377,20 +1373,24 @@
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+        "name": "Don't Wanna Fall",
+        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
       },
       "artists": [
         {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Framed Stories",
+          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
         }
       ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+      "duration_ms": 171968,
+      "name": "Don't Wanna Fall",
+      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Keep It Real",
         "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
       },
@@ -1541,22 +1557,6 @@
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "One Pill",
@@ -1571,26 +1571,6 @@
       "duration_ms": 217946,
       "name": "One Pill",
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Reggie Watts",
-          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
-        }
-      ],
-      "duration_ms": 181251,
-      "name": "Motivashun",
-      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1611,6 +1591,26 @@
       "duration_ms": 152371,
       "name": "Kite - Majestic Remix",
       "url": "https://open.spotify.com/track/7iXl6u3RSBMOJNBNCKcGfs"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "duration_ms": 181251,
+      "name": "Motivashun",
+      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Taka",
@@ -1731,22 +1747,6 @@
       "duration_ms": 193650,
       "name": "Taka",
       "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Hypnotic",
@@ -1803,6 +1787,22 @@
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1841,6 +1841,26 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
+      "added_at": "2024-02-21 02:09:25",
+      "album": {
+        "name": "Vibrate / On The Ground",
+        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 142982,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/67AHavAU22raZTnVmN1TDR"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Don't Waste My Time (feat. Sophie Powers)",
@@ -1863,26 +1883,6 @@
       "duration_ms": 129373,
       "name": "Don't Waste My Time (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil"
-    },
-    {
-      "added_at": "2024-02-21 02:09:25",
-      "album": {
-        "name": "Vibrate / On The Ground",
-        "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 142982,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/67AHavAU22raZTnVmN1TDR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1925,22 +1925,6 @@
       "url": "https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Life Goes On",
@@ -1975,6 +1959,22 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2053,26 +2053,6 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Might Just",
-        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "James Patterson",
-          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "Might Just",
-      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Sneaky Link (feat. Barney Bones)",
@@ -2091,6 +2071,26 @@
       "duration_ms": 164115,
       "name": "Sneaky Link (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Might Just",
+        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -2169,6 +2169,30 @@
       "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
     },
     {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Show Me Love",
@@ -2213,28 +2237,24 @@
       "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Afloja",
-        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+        "name": "Rave It",
+        "url": "https://open.spotify.com/album/3aRbwjURSoWlegLkrXkQvG"
       },
       "artists": [
         {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
         },
         {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Afloja",
-      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+      "duration_ms": 214246,
+      "name": "Rave It",
+      "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2255,22 +2275,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Rave It",
-        "url": "https://open.spotify.com/album/3aRbwjURSoWlegLkrXkQvG"
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
       },
       "artists": [
         {
-          "name": "Buogo",
-          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
         },
         {
-          "name": "Mood Child",
-          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
         }
       ],
-      "duration_ms": 214246,
-      "name": "Rave It",
-      "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2295,26 +2315,6 @@
       "duration_ms": 205095,
       "name": "All For You - Westend Remix",
       "url": "https://open.spotify.com/track/2bR5Zu8IgFhhIlBXvpXeKG"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Better World",
-        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Chris Moody",
-          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "Better World",
-      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "added_at": "2024-03-15 04:00:00",

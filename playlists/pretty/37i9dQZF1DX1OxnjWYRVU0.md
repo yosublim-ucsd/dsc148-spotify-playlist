@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,242 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,330 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 188 | [Vacation](https://open.spotify.com/track/5BntybFFVAGlxV1BpS5e7v) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Vacation](https://open.spotify.com/album/5X9izYHlsWTV03n2WsJILt) | 2:05 |
 | 189 | [Lights](https://open.spotify.com/track/3Za7unc5zoAdtGmtLSwNKg) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Lights](https://open.spotify.com/album/1FhN3Mf7CQ75qiwDdGXvgL) | 3:02 |
 | 190 | [S&M](https://open.spotify.com/track/3rGYqChnde1rMoxaTBJ0Dw) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Golden Wizards](https://open.spotify.com/artist/7GCUXX16Ntz9cz18s702X5) | [S&M](https://open.spotify.com/album/6acbpZolQnLbzVhXoYryCw) | 2:20 |
-| 191 | [Heat Waves](https://open.spotify.com/track/6yxflva6Afzk0xvlRCGFy2) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [LØU](https://open.spotify.com/artist/760P7Qzgd5FwrIA3renAWG), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Heat Waves](https://open.spotify.com/album/5V8yhEPiVAmr5oV80T7vLc) | 2:20 |
+| 191 | [Heat Waves](https://open.spotify.com/track/6yxflva6Afzk0xvlRCGFy2) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [LØU](https://open.spotify.com/artist/760P7Qzgd5FwrIA3renAWG), [Citycr33d](https://open.spotify.com/artist/73Mkmyg2xnS7b5x65Wz6c5) | [Heat Waves](https://open.spotify.com/album/5V8yhEPiVAmr5oV80T7vLc) | 2:20 |
 | 192 | [you broke me first](https://open.spotify.com/track/3ztpVHzt35X2zwBbEh4gMg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [you broke me first](https://open.spotify.com/album/0OowUlZkI9g5T1qTWWyhID) | 2:41 |
 | 193 | [Numb](https://open.spotify.com/track/16oOcqhWq0jLesfL1ICC74) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Numb](https://open.spotify.com/album/61RourHT0SNrh4KGPRnIrZ) | 3:11 |
 | 194 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |

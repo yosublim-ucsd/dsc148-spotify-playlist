@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 265668,
       "name": "Ajakola",
       "url": "https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP"
@@ -140,6 +140,28 @@
       "duration_ms": 250360,
       "name": "Alayo",
       "url": "https://open.spotify.com/track/6C3VOdOfte4tMLFZT3fOeH"
+    },
+    {
+      "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
     },
     {
       "album": {
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
@@ -2856,6 +2878,28 @@
       "duration_ms": 184891,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/7w7q9tajAO0CiPw1Fx7vOG"
+    },
+    {
+      "album": {
+        "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
+        "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239036,
+      "name": "In The Room (feat. Annatoria) - Afro Beat Version",
+      "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
       "album": {
@@ -4705,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "AMEN ALBUM",
+        "url": "https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "On my way",
+      "url": "https://open.spotify.com/track/4YuvSP7S31IQuUwcBWgskb"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -4970,7 +5032,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180779,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/096IkFflGf4BsKhIgSNBYz"

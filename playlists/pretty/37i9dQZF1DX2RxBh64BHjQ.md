@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1GVenmuuAtusi17LY6FvgI">Skilla Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,715 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,753,913 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 33 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 34 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
 | 35 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 |
-| 36 | [Plata O Plomo \(Remix\)](https://open.spotify.com/track/3As19hYDpTwkp9Ia2yEqVF) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 2:56 |
+| 36 | [Plata O Plomo \(Remix\) \[feat\. Bashfortheworld\]](https://open.spotify.com/track/3As19hYDpTwkp9Ia2yEqVF) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 2:56 |
 | 37 | [Ridin Round](https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Ridin Round](https://open.spotify.com/album/1HzTsEctfuZ3NwhbfIrh6G) | 2:20 |
 | 38 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
 | 39 | [ScoreGod \(feat\. Luh Tyler\)](https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ScoreGod](https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9) | 2:19 |

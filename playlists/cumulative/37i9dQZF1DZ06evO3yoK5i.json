@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286746,
+      "name": "Huracan Meri - Remastered 2021",
+      "url": "https://open.spotify.com/track/16PPtSAznMYuqfeQ9vPYnM"
+    },
+    {
+      "album": {
         "name": "Calma Apparente",
         "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
       },
@@ -436,7 +454,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 249893,
       "name": "Ma che bello questo amore",
       "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 210613,
       "name": "Per Le Strade Una Canzone (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/6e75CS2hDy0ABDiO6Lj0wO"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232613,
       "name": "Perfetto",
       "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 278693,
       "name": "Un angelo non \u00e9",
       "url": "https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"

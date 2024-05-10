@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[](https://open.spotify.com/user/null) - 2,287,265 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,271 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 64608,
+  "num_followers": 64726,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -767,18 +767,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Match For My Memory",
-        "url": "https://open.spotify.com/album/1btxskaPEUaAs39MnammfS"
+        "name": "Ripcord (Australian Tour Edition)",
+        "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 179878,
-      "name": "Match For My Memory",
-      "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "Ripcord (Australian Tour Edition)",
-        "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
+        "name": "Match For My Memory",
+        "url": "https://open.spotify.com/album/1btxskaPEUaAs39MnammfS"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
+      "duration_ms": 179878,
+      "name": "Match For My Memory",
+      "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
     },
     {
       "added_at": "2024-01-12 05:01:00",

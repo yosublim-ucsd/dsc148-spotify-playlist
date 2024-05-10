@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,300 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,866 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

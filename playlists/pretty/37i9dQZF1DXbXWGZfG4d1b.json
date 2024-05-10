@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22330,
+  "num_followers": 22336,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 129945,
       "name": "Bar de Playa",
       "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Aeronostalgia (feat. J)",
         "url": "https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 227778,
       "name": "Aeronostalgia (feat. J)",
       "url": "https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Mala Influencia",
         "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 133775,
       "name": "Mala Influencia",
       "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -935,18 +951,18 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
       "artists": [
         {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
         }
       ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+      "duration_ms": 161604,
+      "name": "TIEMPO PERFECTO",
+      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
       "artists": [
         {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 161604,
-      "name": "TIEMPO PERFECTO",
-      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -995,22 +1011,6 @@
       "duration_ms": 169387,
       "name": "SUELO",
       "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "duration_ms": 194937,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 192464,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
-      },
-      "artists": [
-        {
-          "name": "Pretoria",
-          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
-        }
-      ],
-      "duration_ms": 194937,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "Mejor Sin Miedo",
         "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 188632,
       "name": "Mejor Sin Miedo",
       "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
     },
     {
       "added_at": "2024-04-25 19:23:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-04-25 19:23:40",
       "album": {
-        "name": "Evil Dead",
-        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
-      },
-      "artists": [
-        {
-          "name": "Justo Antes de la Guerra con los Esquimales",
-          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Evil Dead",
-      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
-    },
-    {
-      "added_at": "2024-04-25 19:23:40",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 178000,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/6sLMcDjjJYW1r78cxQT2hg"
+    },
+    {
+      "added_at": "2024-04-25 19:23:40",
+      "album": {
+        "name": "Evil Dead",
+        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
+      },
+      "artists": [
+        {
+          "name": "Justo Antes de la Guerra con los Esquimales",
+          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
+        }
+      ],
+      "duration_ms": 175046,
+      "name": "Evil Dead",
+      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
     },
     {
       "added_at": "2024-04-25 19:23:40",

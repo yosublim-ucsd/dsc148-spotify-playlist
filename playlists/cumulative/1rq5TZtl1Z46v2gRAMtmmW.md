@@ -4,7 +4,7 @@
 
 > 
 
-266 songs - 17 hr 59 min
+267 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-02-07 |  |
 | [Ressaca](https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Ressaca](https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5) | 3:25 | 2022-08-19 | 2022-09-17 |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-09 | 2023-07-08 |
-| [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 |  |
+| [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-12-19 | 2024-05-10 |
 | [Right Here](https://open.spotify.com/track/5lheFJ9dG8CvAUmDobTTYP) | [H31R](https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr), [JWords](https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV) | [Right Here](https://open.spotify.com/album/6eVyeXNcxcfv0eE5fZmteF) | 2:13 | 2023-09-26 | 2024-04-13 |
 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 | 2024-04-10 |  |
 | [RISE](https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [RISE](https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse) | 2:40 | 2024-04-17 |  |
@@ -264,6 +264,7 @@
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-02-06 | 2023-06-10 |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-07-28 | 2022-08-31 |
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 | 2022-09-21 |
+| [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 | 2024-05-09 |  |
 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 | 2023-08-09 | 2023-09-23 |
 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 | 2023-08-17 | 2023-09-06 |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |

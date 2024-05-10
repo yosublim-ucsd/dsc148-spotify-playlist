@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,160 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,168 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 9 | [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 |
 | 10 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 |
 | 11 | [Моя девочка не верит мне](https://open.spotify.com/track/24loT1nK0uDc6wQ1Fjrng1) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Моя девочка не верит мне](https://open.spotify.com/album/3zA2K6nbV497Q337GDohnp) | 3:54 |
-| 12 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/1JOU8GC4rAXxSkYSOUFKWR) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 |
+| 12 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 |
 | 13 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 |
 | 14 | [Какая?](https://open.spotify.com/track/0lEQFpuJSpREmNlc2h3PA2) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:56 |
 | 15 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 |
 | 50 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 |
 
-Snapshot ID: `Lc7hQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdA1GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 660753,
+  "num_followers": 660959,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAAyc/NbYP4HFBAY3oNHEsvo",
+  "snapshot_id": "ZjrAgAAAAACdxZyophv1dsKBsw5eRrXw",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Asilo (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -311,6 +291,22 @@
       "duration_ms": 268306,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": null,
@@ -347,38 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Qu\u00edmica Mayor",
-      "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -395,22 +359,6 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
       "added_at": null,
@@ -440,9 +388,25 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 211666,
-      "name": "No Soy Para Ti",
-      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+      "duration_ms": 231320,
+      "name": "Qu\u00edmica Mayor",
+      "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Caderas Blancas",
+      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
       "added_at": null,
@@ -463,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Tu Falta De Querer - En Vivo",
-      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -495,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "No Soy Para Ti",
+      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
         "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
       },
@@ -507,6 +471,22 @@
       "duration_ms": 273693,
       "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
       "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Tu Falta De Querer - En Vivo",
+      "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
       "added_at": null,
@@ -911,6 +891,22 @@
       "duration_ms": 41880,
       "name": "El Canto de Todos - Bonus Track",
       "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza (Deluxe)",
+        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     }
   ],
   "unique_name": "This Is Mon Laferte",

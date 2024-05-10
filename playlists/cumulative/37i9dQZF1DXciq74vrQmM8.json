@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. house of protection",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. cassyette",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -4201,6 +4201,28 @@
     },
     {
       "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/12IeUWvVfR2UWkhMKtDCLr"
+      },
+      "artists": [
+        {
+          "name": "g\u00fcrl",
+          "url": "https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL"
+        },
+        {
+          "name": "Bronnie",
+          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175925,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/7eueP1kgHVo1M9XVkyojq3"
+    },
+    {
+      "album": {
         "name": "Expensive City",
         "url": "https://open.spotify.com/album/7KikWHJJfV5OtaFOU1RY7f"
       },
@@ -5864,7 +5886,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 219162,
       "name": "HAPPY NEVER AFTER",
       "url": "https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH"
@@ -6902,7 +6924,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 128104,
       "name": "i want to be everything",
       "url": "https://open.spotify.com/track/3BeUEnvzY3ceGl4drQZdIJ"
@@ -7426,7 +7448,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 138973,
       "name": "Ipecac",
       "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
@@ -7538,7 +7560,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 137142,
       "name": "iwannabelikethat",
       "url": "https://open.spotify.com/track/70Fj7ub4JQN53fx31H4DMz"
@@ -8360,7 +8382,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133894,
       "name": "lock",
       "url": "https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl"
@@ -10173,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124760,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv"
+    },
+    {
+      "album": {
         "name": "follow:noise",
         "url": "https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN"
       },
@@ -11040,6 +11080,24 @@
       "duration_ms": 187000,
       "name": "QUENCH",
       "url": "https://open.spotify.com/track/2mbOoTwtgz0ZhSwGkL2EFs"
+    },
+    {
+      "album": {
+        "name": "QUIET",
+        "url": "https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS"
+      },
+      "artists": [
+        {
+          "name": "Chubby Cat",
+          "url": "https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200403,
+      "name": "QUIET",
+      "url": "https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ"
     },
     {
       "album": {
@@ -14604,7 +14662,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133978,
       "name": "WISH I AINT",
       "url": "https://open.spotify.com/track/5WlNM5UK3UC0v7hTJuB2xg"

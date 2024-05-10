@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 186964,
+  "num_followers": 186945,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 181365,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Joyful, Joyful",
         "url": "https://open.spotify.com/album/208bCz548yflYMALLMh1kN"
       },
@@ -559,18 +539,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
+      "duration_ms": 181365,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -591,6 +575,22 @@
       "duration_ms": 262649,
       "name": "All I Want For Christmas Is You (feat. Stokley)",
       "url": "https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "To: You (a holiday joint)",
@@ -739,6 +723,22 @@
       "duration_ms": 192455,
       "name": "To: You",
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Someday At Christmas",
-        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -841,38 +841,6 @@
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117520,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "What Christmas Means",
@@ -891,6 +859,38 @@
       "duration_ms": 257399,
       "name": "Be Mine For Christmas",
       "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -1053,24 +1073,20 @@
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2023-11-03 05:45:27",
       "album": {
-        "name": "The First Noel (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
         }
       ],
-      "duration_ms": 190286,
-      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
-      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1105,26 +1121,10 @@
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
+      "added_at": "2023-12-08 05:22:39",
       "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
-    },
-    {
-      "added_at": "2023-11-03 05:45:27",
-      "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
+        "name": "A Legacy Christmas",
+        "url": "https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA"
       },
       "artists": [
         {
@@ -1132,13 +1132,13 @@
           "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
         },
         {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+      "duration_ms": 265927,
+      "name": "Greatest Gift",
+      "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1155,22 +1155,6 @@
       "duration_ms": 195816,
       "name": "Spend Christmas With You",
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Best Of/20th Century - Christmas",
-        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1191,6 +1175,22 @@
       "duration_ms": 175347,
       "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1225,10 +1225,10 @@
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
+      "added_at": "2023-11-03 05:45:27",
       "album": {
-        "name": "A Legacy Christmas",
-        "url": "https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA"
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
       },
       "artists": [
         {
@@ -1236,13 +1236,13 @@
           "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
         },
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
         }
       ],
-      "duration_ms": 265927,
-      "name": "Greatest Gift",
-      "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
+      "duration_ms": 211200,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
     },
     {
       "added_at": "2021-12-15 17:30:29",

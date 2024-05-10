@@ -4,7 +4,7 @@
 
 > 
 
-688 songs - 1 day 8 hr 52 min
+689 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Nothing Changë](https://open.spotify.com/track/1zf2ZRV9cVuzp7DsL20w1b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:57 | 2024-02-16 | 2024-02-22 |
 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 | 2024-02-16 |  |
 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2022-09-11 | 2023-05-09 |
+| [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-10 |  |
 | [NUN \(feat\. DaBaby\)](https://open.spotify.com/track/3FmD4u75G1cdA7bt7KgCA5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:33 | 2023-01-20 | 2023-03-07 |
 | [Nun To Me](https://open.spotify.com/track/1wNdaSWQHqXTlwFYiORqdg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me](https://open.spotify.com/album/1cTbBlZz7ZBLQ2ddL2VNG0) | 2:06 | 2022-03-07 | 2023-05-09 |
 | [Nun To Me 2](https://open.spotify.com/track/4sFgIu8crDuYFB5D9rPnwc) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me 2](https://open.spotify.com/album/7xA683YceDSM06T3w4przz) | 2:06 | 2022-07-24 | 2023-12-14 |

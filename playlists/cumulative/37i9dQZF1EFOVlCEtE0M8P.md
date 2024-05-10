@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-227 songs - 13 hr 16 min
+229 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,12 @@
 | [Besándote](https://open.spotify.com/track/43jclIPKJv9iFiYWVyWqsb) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:01 | 2024-03-07 |  |
 | [Better By Now](https://open.spotify.com/track/0HBvEjoX56Ms9quzgKPi4l) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 4:06 | 2024-03-07 |  |
 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 | 2024-03-07 |  |
+| [Big Machine](https://open.spotify.com/track/6xzHk54yhS8PTMnJ7aRBa2) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Big Machine](https://open.spotify.com/album/1ML6SXLj3uHJ8hmWxavlAu) | 3:57 | 2024-05-09 |  |
 | [Bleed](https://open.spotify.com/track/73k6CSBwtpNiMNMVagMsUK) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:30 | 2024-03-07 |  |
 | [Bleeding Out](https://open.spotify.com/track/5YEcZucNrMAdo5AI9FNFoG) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:41 | 2024-03-07 |  |
 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 | 2024-03-07 |  |
 | [Bones](https://open.spotify.com/track/3aAmODvCT7Mf2c94zMOCGN) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 4:00 | 2024-03-07 |  |
+| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-09 |  |
 | [Brave](https://open.spotify.com/track/4Nslo8dwYV7tsnLtGDX63B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:21 | 2024-03-07 |  |
 | [Bulletproof](https://open.spotify.com/track/0dmjr5pZZnUq7Cfcvz8mfz) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:55 | 2024-03-07 |  |
 | [Bump](https://open.spotify.com/track/2AvoLwHjA39pO6R5W0dl0E) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:34 | 2024-03-07 |  |

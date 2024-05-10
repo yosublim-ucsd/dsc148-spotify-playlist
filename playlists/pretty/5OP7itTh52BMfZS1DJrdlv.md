@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 ### [100 Greatest Christmas Songs Ever](https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv)
 
-> Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\. Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
+> Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new! Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul 🎄
 
-[Topsify](https://open.spotify.com/user/topsify) - 933,854 likes - 100 songs - 5 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 933,739 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 24 | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/track/0caVtaIBvTLt9Pjw4OgDk2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:39 |
 | 25 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/4xjKPpeWbUCgQo6VnJLHZB) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 2:44 |
 | 26 | [Blue Christmas](https://open.spotify.com/track/6FA2CCCGjQrAVN1dtWsVVX) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 2:06 |
-| 27 | [Merry Christmas Baby](https://open.spotify.com/track/1cOxg22X8lIVuB4MdF7v3j) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:35 |
-| 28 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
+| 27 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
+| 28 | [Merry Christmas Baby](https://open.spotify.com/track/1cOxg22X8lIVuB4MdF7v3j) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:35 |
 | 29 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 |
 | 30 | [Christmas Lights](https://open.spotify.com/track/3ODH5TiKxbhJ0y1sFGZpd7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:02 |
 | 31 | [Santa's Coming for Us](https://open.spotify.com/track/6VO2CWVFBZEzcm1c6mToaM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [White Christmas \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/4UI0J1JqYBqVeSXgdIJo0x) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 2:22 |
 | 100 | [Silent Night](https://open.spotify.com/track/6hPaTWf6zuddDf2VNzYdAo) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:47 |
 
-Snapshot ID: `AAAGHrnYRcxYzrFmzRfHZed65Y34Ga1k`
+Snapshot ID: `AAAGIlB3kfSzPXA63k2rwdRfP7cnm3Rv`

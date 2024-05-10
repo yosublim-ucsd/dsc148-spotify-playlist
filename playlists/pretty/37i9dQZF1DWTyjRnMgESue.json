@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Lizzy McAlpine",
-  "num_followers": 76434,
+  "num_followers": 76528,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "I Guess",
-        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 224371,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Andrew",
         "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Love Like That (Words from Her)",
         "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 174489,
       "name": "Love Like That (Words from Her)",
       "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
-    },
-    {
       "added_at": "2024-04-22 22:29:54",
       "album": {
         "name": "Only One",
@@ -1099,6 +1083,22 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Name of God",
-        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 208837,
-      "name": "Name of God",
-      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Name of God",
+        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 208837,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 203324,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
       "artists": [
         {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 197416,
-      "name": "When I Was Younger",
-      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 187089,
       "name": "No Complaints",
       "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Someone to Follow",
-        "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
         }
       ],
-      "duration_ms": 286146,
-      "name": "Someone to Follow",
-      "url": "https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9"
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1631,18 +1631,34 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
       "artists": [
         {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
         }
       ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Someone to Follow",
+        "url": "https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Someone to Follow",
+      "url": "https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

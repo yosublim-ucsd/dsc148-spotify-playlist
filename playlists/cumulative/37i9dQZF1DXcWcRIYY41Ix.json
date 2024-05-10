@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 222873,
       "name": "Ana Iturrama",
       "url": "https://open.spotify.com/track/0J8smWtCuMtCCSPiL7VkPi"
@@ -1394,6 +1394,52 @@
       "duration_ms": 146731,
       "name": "Calma",
       "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
+    },
+    {
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/65x4U2QqAvZ48nZSDQbpVR"
+      },
+      "artists": [
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        },
+        {
+          "name": "Tomi Llancafil",
+          "url": "https://open.spotify.com/artist/2xy5kDRv2UMlxqJJT1RwTo"
+        },
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        },
+        {
+          "name": "Milagros Caliva",
+          "url": "https://open.spotify.com/artist/5Zz0dRPQsCEPXJInndPonI"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
+        },
+        {
+          "name": "Flor Bobadilla Oliva",
+          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
+        },
+        {
+          "name": "Manu Sija",
+          "url": "https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368610,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3kboOvTL8QO5qx6bVB094O"
     },
     {
       "album": {
@@ -3045,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "dif\u00edcil de olvidar",
+        "url": "https://open.spotify.com/album/0FRZmrIfXUidRzVenyQ21w"
+      },
+      "artists": [
+        {
+          "name": "Lola Vila",
+          "url": "https://open.spotify.com/artist/1tPuSgUu01ORw58W7A49KU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "dif\u00edcil de olvidar",
+      "url": "https://open.spotify.com/track/7aUjQg9J1OtRbtQGufEMyS"
+    },
+    {
+      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -3628,10 +3692,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/7iISpm6hy6cNtC2I0dymTE"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208484,
+      "name": "Eleg\u00eda",
+      "url": "https://open.spotify.com/track/6CgUntvaIGORRa5qTdx0Jx"
     },
     {
       "album": {
@@ -3686,6 +3768,24 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "album": {
+        "name": "En Veinte D\u00edas",
+        "url": "https://open.spotify.com/album/3S0jzswjcXBEcrE8sjMtkA"
+      },
+      "artists": [
+        {
+          "name": "Riki Rivera",
+          "url": "https://open.spotify.com/artist/56a9ZPfJUNNeHLjmxpqMCU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164025,
+      "name": "En Veinte D\u00edas",
+      "url": "https://open.spotify.com/track/6xcv4O4uFHAP01ay3vTSFC"
     },
     {
       "album": {
@@ -3882,6 +3982,24 @@
       "duration_ms": 291093,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/3h3OZvh4BysVSIeyd0Qfji"
+    },
+    {
+      "album": {
+        "name": "Canciones para bailar",
+        "url": "https://open.spotify.com/album/4eDRgC6vnESCN498Qs7Pe0"
+      },
+      "artists": [
+        {
+          "name": "Santi Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4OhOLgx55siRiNJmSXoAMc"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189464,
+      "name": "Faro",
+      "url": "https://open.spotify.com/track/6PQXVpGk5vGGl0E3F9hwJw"
     },
     {
       "album": {
@@ -5378,7 +5496,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208829,
       "name": "La vida en otra parte",
       "url": "https://open.spotify.com/track/1jt21ag9KE8eTchda3yzJi"
@@ -5414,7 +5532,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 220930,
       "name": "Lalal\u00e1",
       "url": "https://open.spotify.com/track/5WehJB7iFEIB2iNj0dgL3g"
@@ -6015,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "Maison Du Monde",
+        "url": "https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3"
+      },
+      "artists": [
+        {
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205271,
+      "name": "Maison Du Monde",
+      "url": "https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu"
+    },
+    {
+      "album": {
         "name": "Mal de altura",
         "url": "https://open.spotify.com/album/6bmZwTkliEqxF02VlKfv9e"
       },
@@ -6592,7 +6728,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
@@ -6832,6 +6968,24 @@
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
+    },
+    {
+      "album": {
+        "name": "Naranjas Al Mar",
+        "url": "https://open.spotify.com/album/1TeVkrngJJKL0wKcOJAOnv"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190468,
+      "name": "Naranjas Al Mar",
+      "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
     },
     {
       "album": {
@@ -7176,7 +7330,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 197442,
       "name": "No somos extra\u00f1os",
       "url": "https://open.spotify.com/track/3hDzrdAPXuxZCXBotYK4cu"
@@ -7995,6 +8149,24 @@
     },
     {
       "album": {
+        "name": "Piel de pantera",
+        "url": "https://open.spotify.com/album/4MHTbRMsbY662stuYGeczO"
+      },
+      "artists": [
+        {
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Piel de pantera",
+      "url": "https://open.spotify.com/track/3HjGCQ1KQfIKc1IkNbrJVn"
+    },
+    {
+      "album": {
         "name": "Plantar un bosque",
         "url": "https://open.spotify.com/album/3CWrkvYyZCUPCM1x6FRhzx"
       },
@@ -8130,7 +8302,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
@@ -9112,7 +9284,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
@@ -9786,7 +9958,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
@@ -11244,6 +11416,24 @@
       "duration_ms": 174705,
       "name": "Voy a Lo Que Voy",
       "url": "https://open.spotify.com/track/1w0upZ7jE1EVNcywPE7awm"
+    },
+    {
+      "album": {
+        "name": "Vuelta a la ra\u00edz",
+        "url": "https://open.spotify.com/album/4EYSC9060ijxHIuV1UQjms"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Vuelta a la ra\u00edz",
+      "url": "https://open.spotify.com/track/6FywEE8yHO35D0bHcHPQ9T"
     },
     {
       "album": {

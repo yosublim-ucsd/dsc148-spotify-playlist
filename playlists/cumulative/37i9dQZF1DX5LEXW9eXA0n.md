@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Lim Young Woong\(임영웅\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,206 songs - 3 day 6 hr 9 min
+1,207 songs - 3 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [A Way To Forget](https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6) | [Our Last Day](https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X) | 3:38 | 2023-10-20 | 2023-11-16 |
 | [About all love](https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [About all love](https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6) | 3:45 | 2023-10-20 | 2023-12-14 |
 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-11 | 2024-01-09 |
+| [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 | 2024-05-09 |  |
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-04-26 | 2023-09-12 |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |

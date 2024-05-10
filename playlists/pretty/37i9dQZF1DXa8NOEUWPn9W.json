@@ -1,10 +1,10 @@
 {
   "description": "House music lives here. United under one roof, featuring BLOND:ISH",
-  "num_followers": 1925287,
+  "num_followers": 1925470,
   "original_name": "Housewerk",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZjRhQAAAAABr+6ph3QwgEa1/q+6USip7",
   "tracks": [
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "More Love (Rampa &ME Remix)",
         "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 371897,
       "name": "More Love - Rampa &ME Remix",
       "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Make Me (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
-      },
-      "artists": [
-        {
-          "name": "Borai & Denham Audio",
-          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Make Me - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Love On You (feat. Griff Clawson)",
-        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 170196,
-      "name": "Love On You (feat. Griff Clawson)",
-      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Fine Fine Baby (with Kah-Lo)",
         "url": "https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 270402,
       "name": "Carry Me Higher - 7 Inch Version",
       "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Love On You (feat. Griff Clawson)",
+        "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Love On You (feat. Griff Clawson)",
+      "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "No Reason (Chris Lake Remix)",
         "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
       },
@@ -2007,22 +2027,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+        "name": "I Am The One",
+        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         },
         {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+      "duration_ms": 200624,
+      "name": "I Am The One",
+      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2067,26 +2087,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Am The One",
-        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "I Am The One",
-      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1ZDMO0PcbHNL0Tdx3ysi9U"
       },
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "All We Need (Deep Inside)",
+        "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 230669,
+      "name": "All We Need (Deep Inside)",
+      "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
       },
@@ -2143,18 +2159,34 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "All We Need (Deep Inside)",
-        "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 230669,
-      "name": "All We Need (Deep Inside)",
-      "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
+      "duration_ms": 133234,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2183,42 +2215,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Costa",
-        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Costa",
-      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Vente",
         "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
@@ -2239,18 +2235,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "In The Streets",
-        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
       },
       "artists": [
         {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
         }
       ],
-      "duration_ms": 127500,
-      "name": "In The Streets",
-      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
+      "duration_ms": 216400,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2291,6 +2291,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Veni, Vidi, Vici",
         "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
       },
@@ -2311,26 +2331,6 @@
       "duration_ms": 211875,
       "name": "Nineteen 84",
       "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Tarantula (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 201243,
-      "name": "Tarantula - Max Styler Remix",
-      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Disco Boy",
-        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 221370,
-      "name": "Disco Boy",
-      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "If You Want My Loving",
         "url": "https://open.spotify.com/album/1GEdPQx7k39X1OTlqNBae3"
       },
@@ -2423,18 +2407,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Cash For Love",
-        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
+        "name": "Disco Boy",
+        "url": "https://open.spotify.com/album/3Txc8x00YzCwL0RKvZ3jxs"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 276495,
-      "name": "Cash For Love",
-      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
+      "duration_ms": 221370,
+      "name": "Disco Boy",
+      "url": "https://open.spotify.com/track/0kE354dlcnsm9hYRTT2D5E"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Make My Body Move (Radio Edit)",
+        "url": "https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "duration_ms": 199091,
+      "name": "Make My Body Move",
+      "url": "https://open.spotify.com/track/3RftcZWMId2TQt95YRXKTQ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2463,22 +2467,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Make My Body Move (Radio Edit)",
-        "url": "https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ"
+        "name": "Cash For Love",
+        "url": "https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Cara Mel\u00edn",
-          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         }
       ],
-      "duration_ms": 199091,
-      "name": "Make My Body Move",
-      "url": "https://open.spotify.com/track/3RftcZWMId2TQt95YRXKTQ"
+      "duration_ms": 276495,
+      "name": "Cash For Love",
+      "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
     }
   ],
   "unique_name": "Housewerk",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
+  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
   "name": "This Is Lola Indigo",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232526,
       "name": "4 besos",
       "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 222912,
       "name": "CALLE",
       "url": "https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 166426,
       "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
       "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 165906,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
@@ -774,6 +774,24 @@
       "duration_ms": 172632,
       "name": "LA TIRITA",
       "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "LAS SOLTERAS",
+      "url": "https://open.spotify.com/track/3ggs4faDNokteDhi3Pbg4n"
     },
     {
       "album": {
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Mala Cara",
+      "url": "https://open.spotify.com/track/7jzWJgzbodsjOhJ5brR6eu"
+    },
+    {
+      "album": {
         "name": "MALA SUERTE",
         "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
       },
@@ -906,7 +942,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 199747,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "No Se Toca",
       "url": "https://open.spotify.com/track/1JNWhyAuTvjgJvmi6Psct4"
@@ -1052,7 +1088,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 181373,
       "name": "Problema",
       "url": "https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i"
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Adekunle Gold",
+  "description": "Tracks popping off in the Afro scene. Cover: Fireboy DML",
   "name": "Afro Station",
   "tracks": [
     {
@@ -392,6 +392,32 @@
       "duration_ms": 165000,
       "name": "Appel manqu\u00e9",
       "url": "https://open.spotify.com/track/7ul6BstETf3WQYYgsc3yIK"
+    },
+    {
+      "album": {
+        "name": "App\u00e9tit",
+        "url": "https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173157,
+      "name": "App\u00e9tit",
+      "url": "https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E"
     },
     {
       "album": {
@@ -2895,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Fuegopiano 1 : Pas ton b\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6UTvLhYhL3fVvxo7ePD6CL"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "Fuegopiano 1 : Pas ton b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/04EszC96H42YXOP9Y38YJy"
+    },
+    {
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
       },
@@ -3556,7 +3600,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 146292,
       "name": "J'en ai pas",
       "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
@@ -3904,7 +3948,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 137756,
       "name": "KUPE",
       "url": "https://open.spotify.com/track/7fUY7l9bzrVALFIlO5UwgD"
@@ -4990,6 +5034,24 @@
       "duration_ms": 164334,
       "name": "Mysterious",
       "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
+    },
+    {
+      "album": {
+        "name": "M\u00e9chant",
+        "url": "https://open.spotify.com/album/4F5lr9m0rxUcuIjeQHt46t"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185667,
+      "name": "M\u00e9chant",
+      "url": "https://open.spotify.com/track/0U6hV35cezJswQaTJoIyvK"
     },
     {
       "album": {
@@ -6831,6 +6893,28 @@
     },
     {
       "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "album": {
         "name": "Sudwe",
         "url": "https://open.spotify.com/album/2ihKrEGppe3qGmyWFJQjpQ"
       },
@@ -7720,7 +7804,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 150733,
       "name": "Wayeh",
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
@@ -7996,7 +8080,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198787,
       "name": "\u00c0 nous",
       "url": "https://open.spotify.com/track/2ipzfPstCSpD2Bw7OyX1mR"

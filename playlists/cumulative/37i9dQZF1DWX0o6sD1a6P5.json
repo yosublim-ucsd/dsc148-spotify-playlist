@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack x Franglish",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Dadju x Tayc",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "album": {
         "name": "Baddest Boy",
         "url": "https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP"
       },
@@ -2004,7 +2026,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 171236,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce"
@@ -4272,7 +4294,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
@@ -4856,7 +4878,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 137437,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
@@ -5660,6 +5682,24 @@
       "duration_ms": 188395,
       "name": "Italy (feat. Blaq Diamond)",
       "url": "https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8"
+    },
+    {
+      "album": {
+        "name": "J'en ai pas",
+        "url": "https://open.spotify.com/album/3hgDbNflYYzd3O3urFxMlQ"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146292,
+      "name": "J'en ai pas",
+      "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
     },
     {
       "album": {
@@ -7000,6 +7040,36 @@
       "duration_ms": 160349,
       "name": "Ma lady",
       "url": "https://open.spotify.com/track/3EfRYGRCd4l6e4kYHtEI4M"
+    },
+    {
+      "album": {
+        "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+        "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+      "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"
     },
     {
       "album": {
@@ -11420,7 +11490,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
@@ -12300,6 +12370,24 @@
       "duration_ms": 200496,
       "name": "Wawah b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/3zsXIz9wszecQHy0faMth0"
+    },
+    {
+      "album": {
+        "name": "Wayeh",
+        "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Wayeh",
+      "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
       "album": {

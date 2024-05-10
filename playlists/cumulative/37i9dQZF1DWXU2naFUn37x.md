@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Solo il meglio dello street rap italiano\. ANNA in cover 💋
+> Solo il meglio dello street rap italiano\. Niky Savage in cover.
 
-520 songs - 23 hr 58 min
+523 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [419](https://open.spotify.com/track/1IlSzZcgzNGjRCZ75RyGUW) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [419](https://open.spotify.com/album/3TtPOALgX7Kmt5ggWD2hoR) | 2:19 | 2024-04-25 |  |
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-08-13 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-11 | 2022-05-27 |
+| [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 | 2024-05-09 |  |
 | [7UP](https://open.spotify.com/track/4s8ZTHaLXl96NxjVy8qSjT) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7UP](https://open.spotify.com/album/5IyMgAKUtFV7yHH8owqypb) | 2:39 | 2024-02-01 | 2024-03-15 |
 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 | 2022-05-26 | 2022-10-14 |
 | [A45S](https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [A45S](https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ) | 2:40 | 2023-12-11 | 2024-01-19 |
@@ -166,6 +167,7 @@
 | [DURAG\_1.wav](https://open.spotify.com/track/5MIM58gkewbxNzJJnce6x3) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [DURAG\_1.wav](https://open.spotify.com/album/6WNrpAGiTir25UWOdtJEXr) | 1:56 | 2024-03-28 | 2024-04-19 |
 | [E Io Gioco A Hockey](https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 3:05 | 2024-03-28 | 2024-04-19 |
 | [Easy \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0DpTRR4HyiDJH4Waoj9hXU) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 3:26 | 2022-05-11 | 2022-11-04 |
+| [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 | 2024-05-09 |  |
 | [Elicotteri \(feat\. Geolier\)](https://open.spotify.com/track/6Hr11KoNJPsTYtZJHXQgKO) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:09 | 2023-06-08 | 2023-10-27 |
 | [Equipo](https://open.spotify.com/track/4Rkmo8hFBbqooJ2ZqsaDdM) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [UFO](https://open.spotify.com/artist/4tzyI3h5baq5BVp6LayRuQ), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [Equipo](https://open.spotify.com/album/74YFul3c3ygjXtYKnfmrhx) | 2:58 | 2022-06-09 | 2022-06-24 |
 | [EURO](https://open.spotify.com/track/0jyNaBwi570k2Y5s7FwqDW) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:23 | 2022-06-30 | 2022-07-08 |
@@ -528,5 +530,6 @@
 | [ZIG ZAG](https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [ZIG ZAG](https://open.spotify.com/album/1jokKdI2v5ZLwXdDYLjyIU) | 2:21 | 2024-01-18 | 2024-02-16 |
 | [Zig Zag](https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Zig Zag](https://open.spotify.com/album/1BKBhiWmq8ODbAc8VVNpJ2) | 2:42 | 2024-03-21 | 2024-05-03 |
 | [ZONDA](https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [ZONDA](https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK) | 3:37 | 2023-03-30 | 2023-06-09 |
+| [ZÉ](https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZÉ](https://open.spotify.com/album/7wMjDkXgZ8VOJWDnMA8bla) | 2:34 | 2024-05-09 |  |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

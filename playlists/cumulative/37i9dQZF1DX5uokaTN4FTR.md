@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Badger
+> The UK's biggest dance playlist! Cover: Zerb, The Chainsmokers, Ink
 
-584 songs - 1 day 6 hr 39 min
+585 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 | 2022-06-23 | 2022-07-20 |
 | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Sad Girls \(feat\. Rema\)](https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH) | 2:43 | 2022-09-15 | 2023-01-13 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-26 | 2022-08-12 |
-| [Same Old Song](https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Same Old Song](https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa) | 3:18 | 2023-10-27 |  |
+| [Same Old Song](https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Same Old Song](https://open.spotify.com/album/5iqxmTQSlUKzkU5SKRidQa) | 3:18 | 2023-10-27 | 2024-05-10 |
 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 | 2023-02-10 | 2023-03-31 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-20 |  |
 | [Say No More](https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Say No More](https://open.spotify.com/album/1E6TykuEqYxjkkAOPBzwUM) | 3:52 | 2022-09-08 | 2023-01-01 |
@@ -455,6 +455,7 @@
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-10 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-11 | 2024-03-09 |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-01-06 | 2023-06-16 |
+| [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-10 |  |
 | [Set My Mind Free](https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Set My Mind Free](https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO) | 3:00 | 2022-09-29 | 2023-03-03 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 | 2023-07-07 |
 | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/track/4P4653vortdXtcHf4iXWW7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Shadow \(feat\. MORGAN\)](https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1) | 3:00 | 2023-03-03 | 2023-08-11 |

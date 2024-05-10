@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Rachel Chinouriri
+> Discover your new favourite artists from UK&IE\. Cover: kwn
 
-260 songs - 14 hr 1 min
+261 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2022-02-18 | 2023-07-14 |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 | 2023-07-21 |  |
 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 | 2024-03-01 |  |
+| [eyes wide open](https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR) | 2:33 | 2024-05-09 |  |
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2022-02-18 |  |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2022-02-18 | 2023-07-14 |
 | [Filth](https://open.spotify.com/track/1U2WGdxYan1IYc70bY4jXJ) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Filth](https://open.spotify.com/album/66qcdkRaTQ7gcIEcABTM4Q) | 2:50 | 2023-06-15 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 29 min
+177 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 | 2024-02-27 |  |
 | [I Would Like](https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:46 | 2024-02-27 |  |
 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 | 2024-02-27 |  |
+| [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-05-09 |  |
 | [In the Dark](https://open.spotify.com/track/1GO9vCm5Cra5uWGSWQ5mGK) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:39 | 2024-02-27 |  |
 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 | 2024-02-27 |  |
 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 | 2024-02-27 |  |
@@ -120,6 +121,7 @@
 | [Please](https://open.spotify.com/track/2mtjE61KBNeAeMFSm8O9Kp) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Please](https://open.spotify.com/album/41KVKULVd75hp1N3EVV3GA) | 3:00 | 2024-02-27 |  |
 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 | 2024-02-27 |  |
 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 | 2024-02-27 |  |
+| [Psychic](https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Psychic](https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r) | 2:21 | 2024-05-09 |  |
 | [Put It to Bed](https://open.spotify.com/track/5KfDCX3PEyU4gJ81n2Mtz9) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Put It to Bed](https://open.spotify.com/album/3Vwnuv0NEc0OTYltcT619a) | 3:34 | 2024-02-27 |  |
 | [Queens Don't](https://open.spotify.com/track/0ExiKxfY5rHBW06TcV1xXU) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Queens Don't](https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC) | 3:05 | 2024-02-27 |  |
 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 | 2024-02-27 |  |
@@ -137,6 +139,7 @@
 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 | 2024-02-27 |  |
 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 | 2024-02-27 |  |
 | [Something's Gotta Give](https://open.spotify.com/track/7IL3UOlcJ6nmcCMwpnlfcA) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:56 | 2024-02-27 |  |
+| [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 | 2024-05-09 |  |
 | [Stay Blessed](https://open.spotify.com/track/06WmKeaY6E4Ud9FQoGEjA3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:50 | 2024-02-27 |  |
 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 | 2024-02-27 |  |
 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 | 2024-02-27 |  |

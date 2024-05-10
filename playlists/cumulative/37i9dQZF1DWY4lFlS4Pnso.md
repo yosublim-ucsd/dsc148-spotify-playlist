@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Dua Lipa
+> The UK's biggest playlist\. Cover: Artemas
 
 146 songs - 7 hr 43 min
 

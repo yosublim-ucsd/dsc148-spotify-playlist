@@ -1,10 +1,10 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Saint Levant",
-  "num_followers": 40554,
+  "num_followers": 40552,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZjRhQAAAAADy5lNx6MHHkcCge+NWXIAF",
   "tracks": [
@@ -67,18 +67,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Doggy",
-        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 132676,
-      "name": "Doggy",
-      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -99,22 +103,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "SAUDADE",
-        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
+        "name": "Doggy",
+        "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
       },
       "artists": [
         {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 172280,
-      "name": "barcelona92",
-      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
+      "duration_ms": 132676,
+      "name": "Doggy",
+      "url": "https://open.spotify.com/track/5S1ianZQLvtoL2A7rUETlq"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 135179,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+      "duration_ms": 134000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -335,22 +335,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Plus fort.",
-        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
       },
       "artists": [
         {
-          "name": "Bekar",
-          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Finalement",
-      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
+        "name": "Plus fort.",
+        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
+      "duration_ms": 204986,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "On y va",
+        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "On y va",
+      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -475,22 +495,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "On y va",
-        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
       },
       "artists": [
         {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 155496,
-      "name": "On y va",
-      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
+      "duration_ms": 121333,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -539,26 +559,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Longue Vie",
-        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "Longue Vie",
-      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Kulule",
         "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 157281,
       "name": "Kulule",
       "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -595,18 +611,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+      "duration_ms": 125868,
+      "name": "COMMERCE",
+      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -647,26 +667,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Il \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
-      },
-      "artists": [
-        {
-          "name": "Stavo",
-          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 125868,
-      "name": "COMMERCE",
-      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "L'\u00e9cole des Stars",
         "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
       },
@@ -699,26 +699,6 @@
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "GO GO GO (Feat. Josman)",
-        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 148877,
-      "name": "GO GO GO (Feat. Josman)",
-      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -759,6 +739,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "GO GO GO (Feat. Josman)",
+        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 148877,
+      "name": "GO GO GO (Feat. Josman)",
+      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "SUR LE CHEMIN (Phase 3)",
         "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
       },
@@ -771,6 +771,26 @@
       "duration_ms": 174928,
       "name": "45",
       "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Du feu",
+      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -807,42 +827,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Cramer",
-        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        }
-      ],
-      "duration_ms": 209767,
-      "name": "Cramer",
-      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Page blanche",
-        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Du feu",
-      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "PCC",
         "url": "https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 152666,
       "name": "PCC",
       "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Cramer",
+        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "duration_ms": 209767,
+      "name": "Cramer",
+      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
     },
     {
       "added_at": "2024-05-03 04:00:00",

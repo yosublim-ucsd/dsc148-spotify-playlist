@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190148,
       "name": "Be Ur Love",
       "url": "https://open.spotify.com/track/4LdJS5Tgxr9TwQ5TGZ7eGK"
@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 258000,
       "name": "B\u00ean d\u01b0\u1edbi \u00e1nh tr\u0103ng",
       "url": "https://open.spotify.com/track/6Ya9cvlwI44RVBComaVSOb"
@@ -6097,6 +6097,28 @@
     },
     {
       "album": {
+        "name": "Big Love Small City",
+        "url": "https://open.spotify.com/album/37xeZj973mZmOamBuzK7mw"
+      },
+      "artists": [
+        {
+          "name": "DEKISUG1",
+          "url": "https://open.spotify.com/artist/5hWEXMqp0CokDjz5xqm97K"
+        },
+        {
+          "name": "KIDDY",
+          "url": "https://open.spotify.com/artist/51924fPgc44lReOfibBGgz"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219300,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/5kTNW1ZQkGH1TuOWh9yRVP"
+    },
+    {
+      "album": {
         "name": "CML",
         "url": "https://open.spotify.com/album/2ctC4Nr9TjsUNZEQYJHN3j"
       },
@@ -7754,6 +7776,24 @@
       "duration_ms": 212960,
       "name": "C\u1ea3m Gi\u00e1c L\u1ea1 (feat. T\u00e0i Smile)",
       "url": "https://open.spotify.com/track/4okdW9XpuHlQW6YWt1rCp7"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m X\u00fac",
+        "url": "https://open.spotify.com/album/5zcRPwzrE8PDXXky3w9Mro"
+      },
+      "artists": [
+        {
+          "name": "The Wind",
+          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205107,
+      "name": "C\u1ea3m X\u00fac",
+      "url": "https://open.spotify.com/track/1RwYgB23bsY7vuQViq0tsw"
     },
     {
       "album": {
@@ -16774,7 +16814,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 215223,
       "name": "Mu\u1ed1n N\u00f3i Y\u00eau Em",
       "url": "https://open.spotify.com/track/6F0QvcQ72geuTJGjeXsOCm"
@@ -16868,7 +16908,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 352083,
       "name": "Mu\u1ed1n Y\u00eau",
       "url": "https://open.spotify.com/track/7BYafYxBVhf7eMDu8hyBH9"
@@ -22708,7 +22748,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 299960,
       "name": "Sau Khi Em \u0110i",
       "url": "https://open.spotify.com/track/27g20gBKmkCR27goZ8QGz0"
@@ -23466,6 +23506,28 @@
       "duration_ms": 201935,
       "name": "STRAWBERRY",
       "url": "https://open.spotify.com/track/68hg9ggHyucPmQIDM7M4GI"
+    },
+    {
+      "album": {
+        "name": "STRETCH",
+        "url": "https://open.spotify.com/album/0cKlKBOgH4YMiGJbClsvg3"
+      },
+      "artists": [
+        {
+          "name": "Hustlang Heily",
+          "url": "https://open.spotify.com/artist/0ABztwl5ApqMZOllFyaCmP"
+        },
+        {
+          "name": "Hustlang Lil Chop",
+          "url": "https://open.spotify.com/artist/4fMPFtvVdzFIww4CQIvjwr"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "STRETCH",
+      "url": "https://open.spotify.com/track/0AJEmxsCiYo7gCa79JPhDs"
     },
     {
       "album": {
@@ -24527,6 +24589,24 @@
     },
     {
       "album": {
+        "name": "terracotta",
+        "url": "https://open.spotify.com/album/6PQbxR7LQ3zjO2U45OHqUt"
+      },
+      "artists": [
+        {
+          "name": "blackvelvetz",
+          "url": "https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198326,
+      "name": "terracotta",
+      "url": "https://open.spotify.com/track/4TJZoe4HkSw6530CT2LR4k"
+    },
+    {
+      "album": {
         "name": "Tham Ph\u00fa Ph\u1ee5 H\u1ed3",
         "url": "https://open.spotify.com/album/1mGtH2htDQJV7l213KNME9"
       },
@@ -24652,6 +24732,32 @@
       "duration_ms": 197312,
       "name": "Theo \u00c1nh M\u1eb7t Tr\u1eddi",
       "url": "https://open.spotify.com/track/0wP2FxciFpzd5BlMqNAOr1"
+    },
+    {
+      "album": {
+        "name": "THEY FLIRT",
+        "url": "https://open.spotify.com/album/1GnFW4ALqYpsTriDdD8nIX"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/2SS68rlpemKET4j5nLibtC"
+        },
+        {
+          "name": "gung0cay",
+          "url": "https://open.spotify.com/artist/1Z3xp9Er70GeoUjeB77vJc"
+        },
+        {
+          "name": "SONNY.",
+          "url": "https://open.spotify.com/artist/11mtPXWFPLb00CVFy8Zdnm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "THEY FLIRT",
+      "url": "https://open.spotify.com/track/4lTzndpOF2Rnyr3XdL9p36"
     },
     {
       "album": {
@@ -31070,7 +31176,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174000,
       "name": "\u0110i\u00eau T\u00e0n",
       "url": "https://open.spotify.com/track/5gkAbev8uy1E6gPccJXXZM"

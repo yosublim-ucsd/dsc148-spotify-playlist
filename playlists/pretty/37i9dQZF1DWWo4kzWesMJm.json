@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 153938,
+  "num_followers": 154001,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 233813,
       "name": "\u00c0 nos h\u00e9ros du quotidien",
       "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1007,18 +1023,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+        "name": "G\u00e9ant",
+        "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "Saule",
+          "url": "https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34"
+        },
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+      "duration_ms": 205253,
+      "name": "Dusty Men - French Version",
+      "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "G\u00e9ant",
-        "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
-      },
-      "artists": [
-        {
-          "name": "Saule",
-          "url": "https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34"
-        },
-        {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Dusty Men - French Version",
-      "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2024-03-11 10:01:59",

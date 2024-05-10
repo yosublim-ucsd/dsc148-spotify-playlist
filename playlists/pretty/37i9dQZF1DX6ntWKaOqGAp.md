@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Mrs\. GREEN APPLE<br/> 日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,623 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,655 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 19 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 |
 | 20 | [首のない天使](https://open.spotify.com/track/30wvREMOlejtoaW2pBzuUo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [首のない天使](https://open.spotify.com/album/3BDcSoWFnsAZvtknCRqITq) | 3:38 |
 | 21 | [切望](https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:25 |
-| 22 | [ワンナイト \(2024 ver.\)](https://open.spotify.com/track/5snZ39XszkpBFugSmXrDmW) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [嘘だらけの日常の中で \(再録 ver.\)](https://open.spotify.com/album/5vl7ydrMlvxCtYR7VUEfG9) | 4:32 |
-| 23 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 |
+| 22 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
+| 23 | [ワンナイト \(2024 ver.\)](https://open.spotify.com/track/5snZ39XszkpBFugSmXrDmW) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [嘘だらけの日常の中で \(再録 ver.\)](https://open.spotify.com/album/5vl7ydrMlvxCtYR7VUEfG9) | 4:32 |
 | 24 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/1HfT1AF5VNwMLDHf6A0Vwi) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 2:48 |
 | 25 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
 | 26 | [喉仏](https://open.spotify.com/track/0pZ367OSDMoeZ2eP407lxG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [喉仏](https://open.spotify.com/album/40NShvuQIl5osOvG9jpm1G) | 3:26 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 89 | [ソニックムーブ](https://open.spotify.com/track/2SRFdavgZclceAugBxoM13) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソニックムーブ](https://open.spotify.com/album/67Ab1P3S8heq8cinjEDhbj) | 4:03 |
 | 90 | [Sensation](https://open.spotify.com/track/3S85AJeTGicEboPknU8rfd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [CIRCUS](https://open.spotify.com/album/7qQegy1ol3L6QZmBdp3TzC) | 3:09 |
 | 91 | [ブレイクスルー](https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [ブレイクスルー](https://open.spotify.com/album/7wkmbAsdhTrQ8ThQVs5gMf) | 4:04 |
-| 92 | [君に恋したあの日から](https://open.spotify.com/track/05VAHIyywowVMBmkjyFG7Q) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [君に恋したあの日から](https://open.spotify.com/album/1NtmBj7KcFqC8DKLq6MR66) | 4:31 |
-| 93 | [隣花](https://open.spotify.com/track/0kIx4wwk7Dns5dhmbNLjh3) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [MARBLES](https://open.spotify.com/album/4KX3UQCedlcxxUY7TTTnuZ) | 5:05 |
-| 94 | [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 |
-| 95 | [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 |
-| 96 | [Freedom](https://open.spotify.com/track/5lMnvFpIpBxeQ26PnU61Iz) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Freedom](https://open.spotify.com/album/5GaOq4GqX8K59X3BVH3bHf) | 3:44 |
-| 97 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
+| 92 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/4vp5t5VMY0oG8IgVQoEjsg) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 3:17 |
+| 93 | [君に恋したあの日から](https://open.spotify.com/track/05VAHIyywowVMBmkjyFG7Q) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [君に恋したあの日から](https://open.spotify.com/album/1NtmBj7KcFqC8DKLq6MR66) | 4:31 |
+| 94 | [隣花](https://open.spotify.com/track/0kIx4wwk7Dns5dhmbNLjh3) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [MARBLES](https://open.spotify.com/album/4KX3UQCedlcxxUY7TTTnuZ) | 5:05 |
+| 95 | [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 |
+| 96 | [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 |
+| 97 | [やまない愛はある](https://open.spotify.com/track/6r7l212tTfMruKNXL476tj) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [re:想\-EP](https://open.spotify.com/album/6RjcrhJWPFVH8qKyeB08oC) | 4:16 |
 | 98 | [さよならより遠いどこかへ](https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ハロー・グッドバイ \- EP](https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H) | 3:39 |
 | 99 | [東京](https://open.spotify.com/track/00V9LA7VW5ff8nATmCuszE) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [東京](https://open.spotify.com/album/17YDZhxb7tl5O8AfSyXvvB) | 4:44 |
 | 100 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 |
 
-Snapshot ID: `ZjpB8AAAAABDhwODrMHEGGoPJW0tGCZZ`
+Snapshot ID: `Zj0aXgAAAAB2wZC7botiWF1CDTrRwLE7`

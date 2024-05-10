@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-09",
-  "description": "This Is Linkin Park. Los temas esenciales, todos en una lista.",
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
   "name": "This Is Linkin Park",
   "tracks": [
     {
@@ -168,10 +168,28 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 230253,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"
     },
     {
       "album": {
@@ -316,7 +334,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 217613,
       "name": "Final Masquerade",
       "url": "https://open.spotify.com/track/3aYBjxTMvrEOP0A0UXg9ER"
@@ -474,6 +492,24 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "I'LL BE GONE",
+      "url": "https://open.spotify.com/track/3cQGb2POE359G9WH81bF60"
+    },
+    {
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -512,7 +548,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 233240,
       "name": "Until It's Gone",
       "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"

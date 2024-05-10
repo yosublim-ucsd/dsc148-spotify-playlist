@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 ### [This Is Edgardo Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO096Rby)
 
-> This is Edgardo Nuñez\. The essential tracks, all in one playlist.
+> This Is Edgardo Nuñez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,863 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,931 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 33 | [Kyc](https://open.spotify.com/track/2W1939GIXBdA58meh74sUU) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Kyc](https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7) | 2:49 |
 | 34 | [Ahi Les Encargo \- En Vivo](https://open.spotify.com/track/0Vn8F3xHv5z2NalIj0akgH) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Ahi Les Encargo \(En Vivo\)](https://open.spotify.com/album/4SQhbJm9V79GRSheXKGqlS) | 3:03 |
 | 35 | [Tatuajes](https://open.spotify.com/track/04et5uJuyiX6S2dGtfIusX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:35 |
-| 36 | [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 |
-| 37 | [No Me Trates De Engañar](https://open.spotify.com/track/5tI3iJOrGyxdvcVbpCcxy5) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 2:37 |
+| 36 | [No Me Trates De Engañar](https://open.spotify.com/track/5tI3iJOrGyxdvcVbpCcxy5) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 2:37 |
+| 37 | [Si Esta Botella Hablara](https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Si Esta Botella Hablara](https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o) | 3:08 |
 | 38 | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Danny Morales](https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK) | 2:30 |
 | 39 | [Alto y Piel Morena](https://open.spotify.com/track/6gEUZHMdjTWEi74fHNHW52) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:22 |
-| 40 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 |
-| 41 | [Tolin Infante](https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Tolin Infante](https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3) | 3:26 |
+| 40 | [Tolin Infante](https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Tolin Infante](https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3) | 3:26 |
+| 41 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 |
 | 42 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
 | 43 | [Golpe De Suerte](https://open.spotify.com/track/00fZZHPY9KBft8kB2nz8Xe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:48 |
 | 44 | [Andamos Enclicados \- En Vivo](https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:06 |
 | 45 | [Micaela / La María](https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 4:53 |
 | 46 | [Ya Se Fue El Parche](https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya Se Fue El Parche](https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc) | 2:56 |
-| 47 | [Perfecta Para MI](https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Perfecta Para Mi](https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ) | 2:59 |
+| 47 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 48 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:22 |
-| 49 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
+| 49 | [Perfecta Para MI](https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Perfecta Para Mi](https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ) | 2:59 |
 | 50 | [El Kiri](https://open.spotify.com/track/0HjBnIOpeszbXDQRn37ftK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 2:42 |
 
-Snapshot ID: `ZjlvAAAAAAD4fxjNLEww8hAnEN6Ihlq+`
+Snapshot ID: `ZjrAgAAAAAD0JuC+dwsIEZAVHkyFSBqF`

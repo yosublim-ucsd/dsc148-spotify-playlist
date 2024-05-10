@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: BÉBE YANA\)
 
-113 songs - 6 hr 40 min
+114 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Perfume \- Jafunk Remix](https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [iScreaM Vol.24 : Perfume Remixes](https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc) | 2:48 | 2024-04-05 |  |
 | [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 |  |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 |  |
+| [Pinnacle \- Pure 100% Remix](https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Pinnacle \(Remixes\)](https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog) | 3:26 | 2024-05-09 |  |
 | [Power \- Dash Berlin Remix](https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 5:00 | 2024-04-05 |  |
-| [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 |  |
+| [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 | 2024-05-10 |
 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 | 2024-04-05 |  |
 | [Power \- SHAUN Remix](https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 4:16 | 2024-04-05 |  |
 | [Queendom \- Demicat Remix](https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.11 : Queendom Remix](https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw) | 3:14 | 2024-04-05 |  |

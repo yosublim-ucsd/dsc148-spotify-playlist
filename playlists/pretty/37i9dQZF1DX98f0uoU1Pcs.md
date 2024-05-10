@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-[](https://open.spotify.com/user/null) - 274,056 likes - 127 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,118 likes - 127 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 129700,
       "name": "3arabawy",
       "url": "https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX"
@@ -3226,6 +3226,28 @@
       "duration_ms": 182044,
       "name": "MATBOSESH 3AL SORA KTEER",
       "url": "https://open.spotify.com/track/1GpGDH9ZjwsEsYpvWQlqed"
+    },
+    {
+      "album": {
+        "name": "Yemken",
+        "url": "https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri"
+      },
+      "artists": [
+        {
+          "name": "Ramez Naguib",
+          "url": "https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147677,
+      "name": "Matghebsh",
+      "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
     },
     {
       "album": {

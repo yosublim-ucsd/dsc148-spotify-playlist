@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,818 likes - 175 songs - 9 hr 35 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,815 likes - 175 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 19 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/7AUNWrmMYa8zdPUKlimGkx) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/album/1dQlFlTGJs2BuWTiEfxfNK) | 3:15 |
 | 20 | [Violin Concerto in E Major, BWV 1042/II\. Adagio](https://open.spotify.com/track/00Rn6Rj9GYAJWN1hi3tTxK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn), [The Apollon Ensemble](https://open.spotify.com/artist/67cIsIGXOAG57meLiyxRVL) | [Violin Concerto in E Major, BWV 1042/II\. Adagio](https://open.spotify.com/album/37GLY1MP5ji3lqn5ODibKP) | 6:02 |
 | 21 | [Emmanuel](https://open.spotify.com/track/0nmYFxpO3YHuMa1dlkkCPP) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Emmanuel](https://open.spotify.com/album/2j3lFcnI7wqnXA7oNGStN4) | 5:06 |
-| 22 | [Go, Crystal Tears](https://open.spotify.com/track/6PV9IkBIdKWWI9ag7Pe0YA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Venice](https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz) | 3:13 |
+| 22 | [Dowland: Go, Crystal Tears](https://open.spotify.com/track/6PV9IkBIdKWWI9ag7Pe0YA) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Venice](https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz) | 3:13 |
 | 23 | [Memories of the Moldau \(After "Vltava", JB 1:112/2; T.111\)](https://open.spotify.com/track/01WARO7EI1wjhJTLVH0zr4) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4) | [Memories of the Moldau \(After "Vltava", JB 1:112/2; T.111\)](https://open.spotify.com/album/2bMVvy7PnKJkRC7wygNSum) | 3:02 |
 | 24 | [Rituals of Peace](https://open.spotify.com/track/4Bs4Rmrbp2gnbWjN2SLdfW) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The Depths of Winter](https://open.spotify.com/album/4esowhE2QG5btJkM1blB31) | 3:05 |
 | 25 | [3 Nocturnes, Op\. 33: III\. Nocturne in A\-Flat Major](https://open.spotify.com/track/0YRnm2YeWpNB0gLmL1jQJn) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [3 Nocturnes, Op\. 33: III\. Nocturne in A\-Flat Major](https://open.spotify.com/album/4SS4QJjNRm7pAxRL6Tplpr) | 4:17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki, Sobel",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 193733,
       "name": "15 MINUT",
       "url": "https://open.spotify.com/track/0ohhlmedLa72XMSJwxW62A"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 147750,
       "name": "Chevy Tahoe",
       "url": "https://open.spotify.com/track/0CLiYWy7oPUicVElT0woQH"
@@ -2273,6 +2273,28 @@
     },
     {
       "album": {
+        "name": "GENERACJA CUZI",
+        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "GENERACJA CUZI",
+      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
+    },
+    {
+      "album": {
         "name": "GiEwOnT",
         "url": "https://open.spotify.com/album/064ETxMz9Qnq5vfa9jOxUm"
       },
@@ -2476,7 +2498,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 164895,
       "name": "HERO",
       "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
@@ -2750,7 +2772,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 172213,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/7oocCCnuxMs8ErYQtj3o52"
@@ -3779,6 +3801,28 @@
     },
     {
       "album": {
+        "name": "Masterszef",
+        "url": "https://open.spotify.com/album/3kFe20Iaed4dBBJkLaqI36"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Ksi\u0105\u017culo",
+          "url": "https://open.spotify.com/artist/1IvWinvbN8G1hPmthF7zWf"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153315,
+      "name": "Masterszef",
+      "url": "https://open.spotify.com/track/4yMZirO69kX51sOLvEtcJ5"
+    },
+    {
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/20Z43ZtZoSH9DWyeWoZGFi"
       },
@@ -4185,6 +4229,32 @@
     },
     {
       "album": {
+        "name": "NA WIEKI",
+        "url": "https://open.spotify.com/album/6OpOhM5DtQp6EwasYe6zOR"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "NA WIEKI",
+      "url": "https://open.spotify.com/track/5I2v4NCXfzHE3aM2ahHyA1"
+    },
+    {
+      "album": {
         "name": "UZUMAKI FORMA OSTATECZNA",
         "url": "https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79"
       },
@@ -4260,6 +4330,28 @@
       "duration_ms": 122553,
       "name": "NAGRODA NOBLA",
       "url": "https://open.spotify.com/track/1aat6MOvzUai0cgXSaOL6B"
+    },
+    {
+      "album": {
+        "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
+        "url": "https://open.spotify.com/album/35bDtCIzOjCqBQYUFAvlNw"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
+      "url": "https://open.spotify.com/track/2tSqulqhLGnC6efT6TNnuj"
     },
     {
       "album": {
@@ -4408,7 +4500,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 217706,
       "name": "Nicea",
       "url": "https://open.spotify.com/track/49pLSmIFXk7rTfWcQ2Bvh7"
@@ -4558,7 +4650,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 166989,
       "name": "Nie ma mnie",
       "url": "https://open.spotify.com/track/3Jj06vvPhibFWD6n0AotCJ"
@@ -4742,6 +4834,32 @@
       "duration_ms": 147969,
       "name": "O W\u0141OS",
       "url": "https://open.spotify.com/track/4JdfdZZyqU24NRkPSZKm7t"
+    },
+    {
+      "album": {
+        "name": "Obudzi\u0142em si\u0119 w Bukareszcie (Def Jam World Tour)",
+        "url": "https://open.spotify.com/album/5hX1mMMQpsU6P112AVrkVA"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Obudzi\u0142em si\u0119 w Bukareszcie - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/6pLzJmfqpaca8QGb19JZDp"
     },
     {
       "album": {
@@ -5096,6 +5214,28 @@
       "duration_ms": 155923,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3YOtBAz3WVDEYcnSLkVQgW"
+    },
+    {
+      "album": {
+        "name": "Pewex",
+        "url": "https://open.spotify.com/album/7a6ddYnMX1oxMs7KsjogfJ"
+      },
+      "artists": [
+        {
+          "name": "K\u0119K\u0119",
+          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Pewex",
+      "url": "https://open.spotify.com/track/6ENavkkI3fuWmLYhIlJRGP"
     },
     {
       "album": {
@@ -6840,7 +6980,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 199694,
       "name": "WRAK",
       "url": "https://open.spotify.com/track/5yMCVbmvy0BvOWNjghN5en"
@@ -7218,6 +7358,24 @@
       "duration_ms": 195652,
       "name": "Z\u0142oty Ch\u0142opak",
       "url": "https://open.spotify.com/track/3n7C71Ktp5G2gj6KX6wlAv"
+    },
+    {
+      "album": {
+        "name": "\u0141APIE OKAZJE",
+        "url": "https://open.spotify.com/album/3vGoBFKgORhfspM2AT10Qr"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "\u0141APIE OKAZJE",
+      "url": "https://open.spotify.com/track/4jzXf1IkczgPBCeyKCyaEe"
     },
     {
       "album": {

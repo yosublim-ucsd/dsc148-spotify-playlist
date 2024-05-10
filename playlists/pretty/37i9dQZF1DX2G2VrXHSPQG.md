@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,104 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,146 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 64 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 |
 | 65 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 |
 | 66 | [Far Away Truths](https://open.spotify.com/track/3dJCbcLcqMKJVZ9Vd390K3) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp) | 3:38 |
-| 67 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/6h6chJ3TzYA811yH4ewNeX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 2:49 |
-| 68 | [High Low](https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [High Low](https://open.spotify.com/album/6iS4AhPXyR0Q7c2iKoftTD) | 3:04 |
+| 67 | [High Low](https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [High Low](https://open.spotify.com/album/6iS4AhPXyR0Q7c2iKoftTD) | 3:04 |
+| 68 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/6h6chJ3TzYA811yH4ewNeX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 2:49 |
 | 69 | [Inside Out](https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:28 |
 | 70 | [Real Long Time](https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:17 |
 | 71 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 |

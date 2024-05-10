@@ -1,10 +1,10 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 8119,
+  "num_followers": 8134,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZcWxUAAAAABfDy0XE7K9iUAhCRVdnsXL",
   "tracks": [
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Que Quiero Yo",
         "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 189942,
       "name": "La Que Quiero Yo",
       "url": "https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Despu\u00e9s que Bailamos",
+        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 225126,
+      "name": "Despu\u00e9s que Bailamos",
+      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Todo Est\u00e1 Ok",
         "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 214574,
       "name": "Todo Est\u00e1 Ok",
       "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Despu\u00e9s que Bailamos",
-        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
-      },
-      "artists": [
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 225126,
-      "name": "Despu\u00e9s que Bailamos",
-      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dale Pa' Miami",
-        "url": "https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer"
+        "name": "El Gavilan",
+        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
       },
       "artists": [
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
         },
         {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 194274,
-      "name": "Dale Pa' Miami",
-      "url": "https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI"
+      "duration_ms": 207013,
+      "name": "El Gavilan",
+      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Ronnie Flex",
+  "description": "Motion & good vibes! Cover: Priceless",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1562,6 +1562,32 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
+    },
+    {
+      "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5"
+      },
+      "artists": [
+        {
+          "name": "Valentino Ignoto",
+          "url": "https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151082,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3"
     },
     {
       "album": {
@@ -3174,7 +3200,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 110026,
       "name": "Bosa",
       "url": "https://open.spotify.com/track/1sdHkEn4aLXw81KlRcanX0"
@@ -4404,7 +4430,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 136855,
       "name": "Crazy Voor Je",
       "url": "https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3"
@@ -5505,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Doorrijden",
+        "url": "https://open.spotify.com/album/7bgs8a5F48AEW6YwVrDXoe"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Doorrijden",
+      "url": "https://open.spotify.com/track/4eyaXW5N3NUEIPy79c3BRN"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1gTywEF0u2qLADTzEnwbsd"
       },
@@ -5918,7 +5962,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 166958,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
@@ -8388,7 +8432,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176937,
       "name": "Ik Haat Je",
       "url": "https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ"
@@ -10088,6 +10132,32 @@
       "duration_ms": 152748,
       "name": "LAMBO",
       "url": "https://open.spotify.com/track/25mTFieY8k7uVhEoEzsJgg"
+    },
+    {
+      "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/3exY6FK1Go4fkHxtsmjFgm"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152861,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/4xch4brbJFbXhKry8CPDUS"
     },
     {
       "album": {
@@ -20812,6 +20882,28 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
+    },
+    {
+      "album": {
+        "name": "Yu",
+        "url": "https://open.spotify.com/album/4Jl0QjOzox1CTftGjpkmam"
+      },
+      "artists": [
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145461,
+      "name": "Yu",
+      "url": "https://open.spotify.com/track/1dW46GRu7OnjnlMJsOcMoT"
     },
     {
       "album": {

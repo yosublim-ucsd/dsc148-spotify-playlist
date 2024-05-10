@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=kKwu6DlFSsic6y9kIs01aA">Usimamane</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT?si=PjlvtNTnSWKDDJh40vO8wg">BHADMAYORS</a>\. Artwork: Isu Kim.
 
 836 songs - 1 day 18 hr 4 min
 

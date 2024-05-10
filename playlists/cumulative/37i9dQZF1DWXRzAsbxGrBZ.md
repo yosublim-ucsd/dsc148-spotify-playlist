@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-134 songs - 15 hr 1 min
+135 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,13 @@
 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 | 2023-09-08 | 2024-04-19 |
 | [Confident \- China The Charmeleon The Animal Remix](https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confindent](https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u) | 7:43 | 2022-09-14 | 2023-09-15 |
 | [Dark Snow \- Bones Remix](https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T) | [The Rudeman](https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z), [Keegs Bantom](https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6), [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn) | [Dark Snow](https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV) | 6:07 | 2023-03-17 | 2024-01-02 |
-| [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 | 2024-04-25 |  |
+| [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 | 2024-04-25 | 2024-05-10 |
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 | 2023-03-18 |
 | [Deep Asence \- Original Mix](https://open.spotify.com/track/1gIWkyb8qK4Ia7pSUAQGmC) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Deep Asence \(Original Mix\)](https://open.spotify.com/album/4Q9M2BEfaTKHMfDIDduaNq) | 5:59 | 2024-04-25 | 2024-04-28 |
 | [Deep Within](https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/6OcILwpGGNkbvXlzB6KECP) | 7:16 | 2024-03-15 | 2024-04-19 |
 | [Deep Within](https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Deep Within](https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi) | 7:16 | 2023-03-17 | 2024-05-02 |
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 | 2022-11-18 |
+| [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 | 2024-05-03 |  |
 | [Do 4 Love](https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j) | [Back 2 Basics](https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9) | 7:19 | 2022-11-10 | 2023-03-18 |
 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 | 2022-11-10 |  |
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-11-18 |

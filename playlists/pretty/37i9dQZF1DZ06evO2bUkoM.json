@@ -1,33 +1,13 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49459,
+  "num_followers": 49455,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACMN+AYGIi0SxBL6mXtCBQK",
+  "snapshot_id": "ZjrAgAAAAAAjpH8TVABT1BXj86hhInUP",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cherry (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 152511,
-      "name": "Cherry (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
     {
       "added_at": null,
       "album": {
@@ -171,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greenlight",
-        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Greenlight",
-      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -199,6 +163,22 @@
       "duration_ms": 216453,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 205028,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
     },
     {
       "added_at": null,
@@ -235,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 205028,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -263,6 +227,22 @@
       "duration_ms": 218760,
       "name": "Gravel to Tempo",
       "url": "https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,
@@ -299,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
@@ -331,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Wanna Be Missed",
-      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "somewhere between the sand and the stardust",
         "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
       },
@@ -359,6 +307,22 @@
       "duration_ms": 210918,
       "name": "somewhere between the sand and the stardust",
       "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
     },
     {
       "added_at": null,
@@ -399,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "He'll Never Love You (HNLY)",
-      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
         "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
@@ -435,6 +383,22 @@
       "duration_ms": 167649,
       "name": "Bang! (feat. Hayley Kiyoko) (AhhHaa Remix)",
       "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "He'll Never Love You (HNLY)",
+      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
     },
     {
       "added_at": null,

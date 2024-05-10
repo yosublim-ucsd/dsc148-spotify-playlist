@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "hit rap og andet i den vibe \ud83d\udea8 nyt fra album fra Merro8 \ud83d\udea8",
+  "description": "hit rap og andet i den vibe \ud83d\udea8 Lamin har forsiden",
   "name": "100 DK",
   "tracks": [
     {
@@ -2712,6 +2712,24 @@
       "duration_ms": 174000,
       "name": "Sp\u00e5kone",
       "url": "https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7"
+    },
+    {
+      "album": {
+        "name": "Stadig",
+        "url": "https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5"
+      },
+      "artists": [
+        {
+          "name": "Ankerstjerne",
+          "url": "https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "Stadig",
+      "url": "https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC"
     },
     {
       "album": {

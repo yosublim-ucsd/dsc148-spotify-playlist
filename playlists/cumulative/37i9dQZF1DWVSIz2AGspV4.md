@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-288 songs - 16 hr 49 min
+290 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Ala Almawthoe](https://open.spotify.com/track/3NfQNwOtvNQqP48xFKSegX) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ala Almawthoe](https://open.spotify.com/album/053pOViKjZOnMsG4fHhq7N) | 2:01 | 2022-03-14 | 2022-06-11 |
 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 | 2023-02-08 | 2023-09-19 |
 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 | 2022-06-10 | 2023-02-22 |
-| [Aldniya Ensan \- الدنيا انسان](https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Aldniya Ensan \(الدنيا انسان\)](https://open.spotify.com/album/26R0thF36RaW86bcONy7KN) | 4:29 | 2023-06-20 |  |
+| [Aldniya Ensan \- الدنيا انسان](https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Aldniya Ensan \(الدنيا انسان\)](https://open.spotify.com/album/26R0thF36RaW86bcONy7KN) | 4:29 | 2023-06-20 | 2024-05-10 |
 | [Alhob Malik](https://open.spotify.com/track/3WgxnFv3nAsCdFaiRUdKbR) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Alhob Malik](https://open.spotify.com/album/1isYU8e5FwVDnqgxF1Sx0o) | 3:34 | 2023-01-26 | 2023-06-27 |
 | [Alhub Ibada](https://open.spotify.com/track/7qUeVqUrz1HIOfoMBnHUoC) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Alhub Ibada](https://open.spotify.com/album/2zXWcsl5FBgJGVhd3BEOVI) | 1:53 | 2023-03-24 | 2023-09-30 |
 | [Aljawu Ahrkah](https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ), [Abdullah Alhameem](https://open.spotify.com/artist/7tBqukCGsALuDvcw4yRfCZ) | [Aljawu Ahrkah](https://open.spotify.com/album/5li76rsSP17tyl7C2xAEGr) | 2:49 | 2023-05-02 | 2024-02-09 |
@@ -150,6 +150,7 @@
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-23 | 2022-05-14 |
 | [Heya Ghalta](https://open.spotify.com/track/66OSm9VA64mWnW5y4TtxKa) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 3:57 | 2021-12-23 | 2022-03-12 |
 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 | 2022-01-20 | 2022-06-07 |
+| [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 | 2024-05-09 |  |
 | [Hobbak Dar](https://open.spotify.com/track/2AIUJ9QAtwzP6wfLP9L1Ye) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Hobbak Dar](https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ) | 3:09 | 2023-05-01 | 2023-09-22 |
 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 | 2022-11-01 | 2023-05-23 |
 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-31 | 2023-03-01 |
@@ -203,7 +204,7 @@
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-24 | 2023-01-11 |
 | [Mn Alakher](https://open.spotify.com/track/0iz6oJXP4bApFD0nx6PvZ6) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Mn Alakher](https://open.spotify.com/album/0j15pXdLFmY9Vuaxdsoe4Q) | 2:59 | 2023-11-23 |  |
 | [Mno Enta](https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Mno Enta](https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c) | 4:09 | 2022-07-07 | 2022-11-13 |
-| [Mo Haram](https://open.spotify.com/track/5YXgPh7kJbqqmB7q9hWnwJ) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Mo Haram](https://open.spotify.com/album/5LGAkpDdSpu82l62dCs8mZ) | 2:57 | 2023-06-26 |  |
+| [Mo Haram](https://open.spotify.com/track/5YXgPh7kJbqqmB7q9hWnwJ) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Mo Haram](https://open.spotify.com/album/5LGAkpDdSpu82l62dCs8mZ) | 2:57 | 2023-06-26 | 2024-05-10 |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-02-09 | 2022-06-07 |
 | [Momken Trod](https://open.spotify.com/track/1uzQAA3DHWVLGQ1KfCUxp0) | [Sara Salman](https://open.spotify.com/artist/0WjGa4issvirboeMa7QWcc) | [Momken Trod](https://open.spotify.com/album/1DbmECM1LsBaPsEPTzSvZw) | 2:49 | 2024-04-12 |  |
 | [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 | 2024-04-11 |  |
@@ -290,6 +291,7 @@
 | [عايش بيك](https://open.spotify.com/track/5o6YB79ykoBierbnPsAj97) | [Mohammed Kareem](https://open.spotify.com/artist/6QuzMPf0Oi2xct379VkfZN) | [عايش بيك](https://open.spotify.com/album/6dJLJRqDIEVQFfEqLWFIyh) | 3:15 | 2022-03-11 | 2022-07-20 |
 | [عمري معاه](https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS) | [Muhanad Asir](https://open.spotify.com/artist/6ZHUebEY5oYuWHCif6ETjK), [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [عمري معاه](https://open.spotify.com/album/3GKBk0aFdDA9JcyNIvPEZN) | 3:52 | 2022-01-14 | 2022-05-21 |
 | [كلشي تقدر](https://open.spotify.com/track/1b4Luec2loblh0H2iwcqCh) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [كلشي تقدر](https://open.spotify.com/album/3vgFjKSdY2E5Q8KKiNJCuf) | 4:06 | 2024-01-02 | 2024-04-19 |
+| [مقهورين مني](https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd) | [Sara Al Zakariya](https://open.spotify.com/artist/1YGnSFYXfvmBNfCvbXEMSu) | [مقهورين مني](https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8) | 2:55 | 2024-05-09 |  |
 | [ممكن ترد](https://open.spotify.com/track/6EMnLaL2KJ2tpgocU8qpv2) | [سارة سلمان](https://open.spotify.com/artist/0bmkMt7WF8R7eBdVq67WTI) | [ممكن ترد](https://open.spotify.com/album/3jHsjXStlxPnjLQxL6pgUr) | 2:49 | 2024-04-12 | 2024-04-19 |
 | [من فدوه لضحكته](https://open.spotify.com/track/4DG0ry7yjuSn8MVRgbLwys) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [حاتم العراقي ٢٠٢٣ \- الجزءالأول](https://open.spotify.com/album/7ug9CI0dD9otnTYpQ0Ng6K) | 3:30 | 2023-06-29 | 2024-04-19 |
 | [مو حرام](https://open.spotify.com/track/65j4yTnvmKkcNCvRmXfqjA) | [مهند المرسومي](https://open.spotify.com/artist/7xzXw59hc1bIsERylCT2Tu) | [مو حرام](https://open.spotify.com/album/1aJXH3vn38aCw2Yx547PLl) | 2:57 | 2023-06-29 | 2024-04-19 |

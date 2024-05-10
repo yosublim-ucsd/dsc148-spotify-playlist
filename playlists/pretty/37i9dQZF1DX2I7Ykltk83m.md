@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,271 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,383 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,17 +92,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 82 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 83 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 |
 | 84 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 |
-| 85 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
-| 86 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |
-| 87 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 |
-| 88 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
-| 89 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
+| 85 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 |
+| 86 | [The Starlight Lounge](https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [The Starlight Lounge](https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF) | 3:34 |
+| 87 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
+| 88 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
+| 89 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
 | 90 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
 | 91 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
 | 92 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 93 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 |
-| 94 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
-| 95 | [First Prize Bravery](https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/5DNRLMYCFWYiXrp9RPdCM9) | 3:50 |
+| 94 | [First Prize Bravery](https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/5DNRLMYCFWYiXrp9RPdCM9) | 3:50 |
+| 95 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
 | 96 | [Fear](https://open.spotify.com/track/1JZw3uFeMJoY4dJ1dAmV0K) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Fear](https://open.spotify.com/album/2MF5k89uxvzaEGxxLBzPLA) | 4:17 |
 | 97 | [Mommy](https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mommy](https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby) | 3:07 |
 | 98 | [Moment In The Sun](https://open.spotify.com/track/18JJSMrFueMgQdCOGkolQ3) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/5sOC51cFgLhI1DjYhrJTMw) | 3:09 |

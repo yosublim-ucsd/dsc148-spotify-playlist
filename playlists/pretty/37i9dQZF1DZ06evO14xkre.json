@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 222972,
+  "num_followers": 223109,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADqfGvyiplNoLa8o85QrbEA",
+  "snapshot_id": "ZjrAgAAAAABEPmIC7amN2IVUk04gNH+i",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -279,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -299,26 +303,6 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": null,
@@ -391,42 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 177697,
-      "name": "Just A Stranger (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 156037,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
         "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
       },
@@ -447,22 +395,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 198057,
-      "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa"
+      "duration_ms": 156037,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 121145,
+      "name": "no eres tu(soy yo)",
+      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
     },
     {
       "added_at": null,
@@ -479,6 +439,30 @@
       "duration_ms": 155406,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": null,
@@ -508,33 +492,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 121145,
-      "name": "no eres tu(soy yo)",
-      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+      "duration_ms": 222383,
+      "name": "quiero sentirme bien",
+      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
     },
     {
       "added_at": null,
@@ -551,6 +511,26 @@
       "duration_ms": 155083,
       "name": "Love Between...",
       "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
     },
     {
       "added_at": null,
@@ -580,29 +560,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 222383,
-      "name": "quiero sentirme bien",
-      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 276904,
-      "name": "ME TENGO QUE IR",
-      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": null,
@@ -643,66 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
+        },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 113270,
-      "name": "Gotta Get Up - Interlude",
-      "url": "https://open.spotify.com/track/7N3c9CKUmRqrt3dDvGWBWG"
+      "duration_ms": 150699,
+      "name": "Worth the Wait (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
     },
     {
       "added_at": null,
@@ -723,6 +639,54 @@
       "duration_ms": 180000,
       "name": "la luz(F\u00edn)",
       "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 113270,
+      "name": "Gotta Get Up - Interlude",
+      "url": "https://open.spotify.com/track/7N3c9CKUmRqrt3dDvGWBWG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": null,
@@ -755,6 +719,22 @@
       "duration_ms": 401572,
       "name": "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",
       "url": "https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 161539,
+      "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
+      "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
     },
     {
       "added_at": null,
@@ -795,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 161539,
-      "name": "//aguardiente y lim\u00f3n %\u1d55\u203f\u203f\u1d55%",
-      "url": "https://open.spotify.com/track/0Ui4S8sgBCXv4Ao1HhTTun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -839,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 124651,
-      "name": "honey baby (SPOILED!)",
-      "url": "https://open.spotify.com/track/3rPaugbuZuIKJpVnF3b1RK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
       },
@@ -879,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Vida",
         "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
       },
@@ -891,6 +855,22 @@
       "duration_ms": 255183,
       "name": "Speed",
       "url": "https://open.spotify.com/track/0JmO3EBtl9qhnLkzr4FiP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 216982,
+      "name": "Flight 22",
+      "url": "https://open.spotify.com/track/3iv26BUAWSn83q8rhGKPE8"
     },
     {
       "added_at": null,
@@ -915,18 +895,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/5k1bL1NVtMr8M8WbRbZCtM"
       },
       "artists": [
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+      "duration_ms": 222162,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/2id1xnRQloCopsF5IFRY15"
     }
   ],
   "unique_name": "This Is Kali Uchis",

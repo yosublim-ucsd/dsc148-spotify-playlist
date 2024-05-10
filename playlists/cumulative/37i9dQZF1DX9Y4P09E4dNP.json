@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
@@ -3138,6 +3138,24 @@
       "duration_ms": 196398,
       "name": "Sure Banker",
       "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
+    },
+    {
+      "album": {
+        "name": "Kofi OO Kofi",
+        "url": "https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173242,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/4u06gL0vNj2Q4UF1cT19GV"
     },
     {
       "album": {

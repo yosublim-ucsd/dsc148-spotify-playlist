@@ -1,6 +1,6 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 141202,
+  "num_followers": 141314,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Eres Tu, Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1"
+        "name": "Salud por \u00c9l",
+        "url": "https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo"
       },
       "artists": [
         {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 170396,
-      "name": "Te La Pasas feat. EP",
-      "url": "https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU"
+      "duration_ms": 226083,
+      "name": "Salud por \u00c9l",
+      "url": "https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "No Eres Tu, Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "Te La Pasas feat. EP",
+      "url": "https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Mi Raz\u00f3n De Ser",
         "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 207946,
       "name": "P\u00eddeme Perd\u00f3n",
       "url": "https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Salud por \u00c9l",
-        "url": "https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 226083,
-      "name": "Salud por \u00c9l",
-      "url": "https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx"
     },
     {
       "added_at": "2023-10-06 06:00:00",

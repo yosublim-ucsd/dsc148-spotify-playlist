@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: João Maia Ferreira e Alex D'Alva.
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Bia Caboz, Piruka
 
-605 songs - 1 day 8 hr 16 min
+606 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Black Butterfly](https://open.spotify.com/track/2SPL4QXXmzq1MiGIeLVXrH) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Black Butterfly](https://open.spotify.com/album/6PZfnYoDuxnnelZP58y3Js) | 3:03 | 2024-01-19 | 2024-02-09 |
 | [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 | 2023-10-05 | 2023-12-09 |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
-| [Blunted](https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN) | [Dionísio07](https://open.spotify.com/artist/0SkKNaTeA9XhYQaekAUBLQ), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy), [Diferenciados](https://open.spotify.com/artist/3eNJgj8W3dc35pSXbzZXtG) | [Blunted](https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8) | 2:51 | 2024-04-25 |  |
+| [Blunted](https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN) | [Dionísio07](https://open.spotify.com/artist/0SkKNaTeA9XhYQaekAUBLQ), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy), [Diferenciados](https://open.spotify.com/artist/3eNJgj8W3dc35pSXbzZXtG) | [Blunted](https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8) | 2:51 | 2024-04-25 | 2024-05-10 |
 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 |  |
 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 | 2024-02-23 | 2024-03-15 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 | 2024-03-08 |
@@ -203,6 +203,7 @@
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-02 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-26 | 2023-06-16 |
+| [Fala\-me A Verdade](https://open.spotify.com/track/215AyS6uVbzOkoaFgLJyVC) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Fala\-me A Verdade](https://open.spotify.com/album/5HXZqmE9FWCR5r87YlI7eJ) | 2:52 | 2024-05-09 |  |
 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 | 2023-03-03 | 2023-06-23 |
 | [Falsa Cinderela](https://open.spotify.com/track/4KCR3YcAV2hwdnTDrRQKQo) | [VARC](https://open.spotify.com/artist/5oS1nvRZ8gHlNirN7dDlLn) | [Falsa Cinderela](https://open.spotify.com/album/0QvKQ9d42TVCt1anDSDCUg) | 2:51 | 2024-01-05 | 2024-02-02 |
 | [Faltou Mais Amor](https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg) | [DJ Edson Kulembe](https://open.spotify.com/artist/0AHLV1obvqEboZpOmsrqGJ), [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Faltou Mais Amor](https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY) | 3:04 | 2023-06-01 | 2023-06-16 |

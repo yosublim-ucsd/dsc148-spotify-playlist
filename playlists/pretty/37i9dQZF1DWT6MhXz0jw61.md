@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joyner Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,623 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,715 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 39 | [Superstar \(feat\. Matthew Santos\)](https://open.spotify.com/track/05zWq0WjBffvTzGJjAMmwz) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/4gRhQRsQFGPCOcN4hF5xaz) | 4:49 |
 | 40 | [Reading The Room](https://open.spotify.com/track/6vGGUxiXZnbYIMas4r72Bp) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 4:13 |
 | 41 | [Bliss](https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bliss](https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl) | 2:31 |
-| 42 | [Spinnin These Blocks](https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:53 |
+| 42 | [Spinnin These Blocks \(feat\. BJ The Chicago Kid, Maxo Kream & Paul Wall\)](https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:53 |
 | 43 | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DENiM \(feat\. Joey Bada$$\)](https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB) | 2:57 |
 | 44 | [Need It \(feat\. Paul Wall, Devin the Dude & DRODi\)](https://open.spotify.com/track/111vFXHqMq5WMA2aB5Ep1E) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [The Farmer's Market](https://open.spotify.com/album/76eqdBtHesUgYoVt4Yl546) | 4:24 |
 | 45 | [Cream Corn](https://open.spotify.com/track/4qHomAyRWyZKeaQOi3uMfo) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Decisions](https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC) | 3:19 |

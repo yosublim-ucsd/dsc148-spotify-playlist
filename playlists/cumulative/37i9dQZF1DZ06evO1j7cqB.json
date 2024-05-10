@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 95262,
       "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
       "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 178333,
       "name": "Castle Leoch",
       "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "The Singularity",
+        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243202,
+      "name": "Escape from the Machines",
+      "url": "https://open.spotify.com/track/2xyZON494V7biqOcJ4gwWX"
+    },
+    {
+      "album": {
         "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
       },
@@ -452,7 +478,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 338280,
       "name": "Fallen Through Time",
       "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
@@ -666,7 +692,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 392964,
       "name": "Infirmary",
       "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
@@ -1148,7 +1174,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 107386,
       "name": "Streets of Nassau",
       "url": "https://open.spotify.com/track/1nPrf3oHOLeAwqG74VilNS"

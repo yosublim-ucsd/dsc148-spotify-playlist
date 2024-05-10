@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,123 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,127 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 53 | [La Fuerza](https://open.spotify.com/track/2MNnYejvulFGxM9yoLt89j) | [Ensamble Folklórico Digital](https://open.spotify.com/artist/42AgikIswL8YgTNkWoqIiI), [Villa Diamante](https://open.spotify.com/artist/3teTanCAHVFtUilgdGrfaD), [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I), [Bienvenidos a la Computadora](https://open.spotify.com/artist/1viypXNNWz9XslwCH1Hzz4), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Cehache Respira](https://open.spotify.com/artist/7oKFnoNXS5mgfZ8ERqF23l) | [La Fuerza](https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R) | 4:27 |
 | 54 | [Unión de los Amantes](https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Camino a la Templanza](https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww) | 4:23 |
 | 55 | [Templo Andino](https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR) | [Orgänica Elemental](https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD) | [Templo Andino](https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym) | 5:58 |
-| 56 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
-| 57 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
+| 56 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
+| 57 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 |
 | 58 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 |
 | 59 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 |
 | 60 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 |

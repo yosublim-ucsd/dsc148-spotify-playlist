@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-318 songs - 14 hr 23 min
+320 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [i let you](https://open.spotify.com/track/7Iwc8sxR4SRiwMfitkuR85) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [i let you](https://open.spotify.com/album/4xIjNp9VOESGgR29hXgGAU) | 1:56 | 2024-01-14 |  |
 | [I like me better](https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [I like me better](https://open.spotify.com/album/0QY2Y1rFqtLuIfCU6VkRlS) | 2:51 | 2024-04-19 |  |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-09-02 |  |
+| [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/track/7GyDDKXVkvd1VJGNR9V897) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof) | [I Wanna Fall For You \(With No Parachute\)](https://open.spotify.com/album/74u6ly4nUgDd1iNURruzsT) | 2:27 | 2024-05-10 |  |
 | [I Want You](https://open.spotify.com/track/1XHQLzy4awKP4sgLK1H3zI) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [I Want You](https://open.spotify.com/album/4mvFYQqEmwJwTuW89l3o2e) | 2:13 | 2024-03-08 | 2024-03-30 |
 | [I Was Wrong \- Robin Schulz Remix](https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [I Was Wrong \(Robin Schulz Remix\)](https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT) | 3:40 | 2022-06-10 |  |
 | [I Won't Lie](https://open.spotify.com/track/1cF9iKZApJPXenLTSZ7Jp4) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Kiismin](https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [I Won't Lie](https://open.spotify.com/album/1YqCgO2jzxG7DZyBXUxidm) | 2:48 | 2023-11-13 |  |
@@ -172,6 +173,7 @@
 | [Lie To Me](https://open.spotify.com/track/7LqgpHvLdvIYSokiShzmnR) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Lie To Me](https://open.spotify.com/album/09cvPNWXtdkvOlGzQuxlDL) | 2:28 | 2024-02-09 |  |
 | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/track/3J09uhKXKITm0roetB1cL0) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Lie To Me \(feat\. KIDDO\)](https://open.spotify.com/album/3G8b5QeeM4r9YwsPy6UahO) | 2:37 | 2024-02-23 | 2024-03-30 |
 | [Lies](https://open.spotify.com/track/0HQlSIRkxAlXzJFReCyNad) | [GONE](https://open.spotify.com/artist/4pKLG10xJBXQ5SWhBmcT8J) | [Lies](https://open.spotify.com/album/6qvMgwJETqEU4QyY1buRUU) | 3:26 | 2024-04-11 | 2024-04-22 |
+| [Lifetime](https://open.spotify.com/track/0kQ4IoRD7iLZ7ykm9SFgsb) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Lifetime](https://open.spotify.com/album/3NaWbhdg7dEVoud2qBQOWy) | 2:08 | 2024-05-10 |  |
 | [light on](https://open.spotify.com/track/6L0ofQJUzCgcKGojFR4xl1) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [light on](https://open.spotify.com/album/5HO1TtZm5RlnnjyzwmamB0) | 3:05 | 2024-02-02 | 2024-03-16 |
 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 | 2023-12-28 |  |
 | [Like I Do](https://open.spotify.com/track/3JSCR3Zj2u7AoPMeJ7jFMs) | [Conner Fox](https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn) | [Like I Do](https://open.spotify.com/album/61h7NkJQwPVYg2kv3NJPiu) | 2:14 | 2024-04-19 |  |

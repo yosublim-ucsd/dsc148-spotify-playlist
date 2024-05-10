@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 69897,
+  "num_followers": 69926,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAA/903Ta1XhuQ96en2GBaDC",
+  "snapshot_id": "ZjrAgAAAAADD32U1Pa9BcqTRdyUsUX6b",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUGRIGHT",
-        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Colors of the Heart",
-      "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEMORIES of the End",
         "url": "https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 139211,
       "name": "MEMORIES of the End",
       "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Colors of the Heart",
+      "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 322720,
-      "name": "THE OVER",
-      "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
+      "duration_ms": 258933,
+      "name": "7th Trigger",
+      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 258933,
-      "name": "7th Trigger",
-      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+      "duration_ms": 322720,
+      "name": "THE OVER",
+      "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+        "name": "PROGLUTION",
+        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 218573,
-      "name": "echoOZ",
-      "url": "https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx"
+      "duration_ms": 272000,
+      "name": "\u6d6e\u4e16CROSSING",
+      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PROGLUTION",
-        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 272000,
-      "name": "\u6d6e\u4e16CROSSING",
-      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
+      "duration_ms": 218573,
+      "name": "echoOZ",
+      "url": "https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 229253,
-      "name": "AS ONE",
-      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,
@@ -620,25 +620,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+      "duration_ms": 229253,
+      "name": "AS ONE",
+      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "\u30b7\u30ea\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449 (Extra Edition)",
         "url": "https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 258786,
       "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Q.E.D.",
-      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DECIDED",
         "url": "https://open.spotify.com/album/01tDdRKQdnikXlEFegVDzA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 321240,
       "name": "RANGE",
       "url": "https://open.spotify.com/track/78ane668r0Oq96kSjgyUiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Q.E.D.",
+      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
     },
     {
       "added_at": null,

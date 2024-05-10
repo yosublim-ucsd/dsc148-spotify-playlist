@@ -2063,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "VOLUME 1",
+        "url": "https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286107,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
+    },
+    {
+      "album": {
         "name": "Call Me (Homegrown Session)",
         "url": "https://open.spotify.com/album/4ERgRmqcE2Yg2AM8P46P1h"
       },
@@ -2834,6 +2852,24 @@
       "duration_ms": 234600,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/1SJGHveCOfrS364qHbBAS8"
+    },
+    {
+      "album": {
+        "name": "Bicoastal: B-Sides",
+        "url": "https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
     },
     {
       "album": {
@@ -3628,7 +3664,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 293586,
       "name": "Dumpalltheguns - Feat. Danielle Ponder",
       "url": "https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K"
@@ -7953,6 +7989,28 @@
     },
     {
       "album": {
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+    },
+    {
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -8132,7 +8190,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 164568,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf"
@@ -9159,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "CASSANDRA (cherith)",
+        "url": "https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179654,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0VtHeJ4ezIwBpF6LIcRx1S"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -9364,6 +9440,24 @@
       "duration_ms": 209640,
       "name": "Misdirection",
       "url": "https://open.spotify.com/track/6W4aKypGDzibPr3rEnPBOa"
+    },
+    {
+      "album": {
+        "name": "Missing Me",
+        "url": "https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181237,
+      "name": "Missing Me",
+      "url": "https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk"
     },
     {
       "album": {
@@ -10966,7 +11060,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 150714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY"
@@ -15613,6 +15707,24 @@
     },
     {
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "album": {
         "name": "Truth & Soul",
         "url": "https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt"
       },
@@ -16564,6 +16676,24 @@
       "duration_ms": 217293,
       "name": "Where Is Our Love Song (feat. Gary Clark Jr.)",
       "url": "https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2"
+    },
+    {
+      "album": {
+        "name": "Where Is the Peace",
+        "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216135,
+      "name": "Where Is the Peace",
+      "url": "https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F"
     },
     {
       "album": {

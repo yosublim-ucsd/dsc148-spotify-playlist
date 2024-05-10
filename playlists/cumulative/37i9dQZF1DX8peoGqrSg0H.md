@@ -2,7 +2,7 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
 485 songs - 1 day 4 hr 51 min
 
@@ -103,7 +103,7 @@
 | [Shoot \(Choose\) เลย](https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [Shoot \(Choose\) เลย](https://open.spotify.com/album/6x16iACbWCOQ6f5NmMO1Is) | 3:30 | 2024-04-11 | 2024-04-19 |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
-| [Someone Someday \- SPEED UP](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday \(SPEED UP\)](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 |  |
+| [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 | 2024-04-25 |  |
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [SPARK!](https://open.spotify.com/track/4O2jdf604G0LxUb1HNLO8y) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [THE SECRETS OF THE UNIVERSE](https://open.spotify.com/album/1fkYltp0XYhWyE2FpYmbin) | 3:19 | 2023-11-16 | 2023-12-16 |
 | [SPIDERMAN](https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [SPIDERMAN](https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk) | 2:48 | 2023-02-23 | 2023-03-10 |

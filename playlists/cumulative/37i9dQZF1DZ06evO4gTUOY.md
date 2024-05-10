@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4gTUOY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4gTUOY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4gTUOY)
 
-### [This is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
+### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This Is Eminem\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 38 min
 

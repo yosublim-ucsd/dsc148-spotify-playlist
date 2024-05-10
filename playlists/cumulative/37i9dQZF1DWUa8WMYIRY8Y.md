@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Fontaines D.C.
+> Les meilleurs morceaux alternatifs du moment\. Photo : Big Special
 
-201 songs - 12 hr 14 min
+204 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/7xbguPHutm62PX2zKauTEz) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE \(bd/wh\)](https://open.spotify.com/album/1ocPyuuqpJiFvNJ4j8E66d) | 3:08 | 2024-04-04 | 2024-04-19 |
 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2023-09-28 | 2023-12-01 |
 | [Blame](https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Blame](https://open.spotify.com/album/0JV96dnVLdhJB91ciuoeVg) | 3:37 | 2023-10-12 | 2023-10-27 |
+| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-09 |  |
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-28 | 2023-10-27 |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-02-29 | 2024-03-29 |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-15 |  |
@@ -99,6 +100,7 @@
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-26 | 2023-12-08 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 | 2023-10-30 |
 | [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 | 2024-02-15 |  |
+| [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 | 2024-05-09 |  |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-09-28 | 2023-10-20 |
 | [It's Ok To Be Shallow](https://open.spotify.com/track/3NAJDJChdRKE6Fy1WI2Iug) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [It's Ok To Be Shallow](https://open.spotify.com/album/5sJD5w0YeprleBqgPYGA4y) | 3:14 | 2024-02-15 | 2024-03-15 |
 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 | 2023-11-30 | 2024-01-26 |
@@ -164,6 +166,7 @@
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-04-25 |  |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-09-28 | 2023-12-15 |
 | [Slipping Away](https://open.spotify.com/track/26u2W9VmoNNDqZMceqrBDs) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Slipping Away](https://open.spotify.com/album/3v2BiLetLp1wWT6lGceWiK) | 3:09 | 2023-10-19 | 2023-12-22 |
+| [Sociometer Blues](https://open.spotify.com/track/6wWrzyLyhCqlBk37a4NymO) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it 👍 don't give a fuck anymore 👍](https://open.spotify.com/album/10OAPWpR7qXlxUbJlRhSFi) | 3:43 | 2024-05-09 |  |
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-11-02 | 2023-12-01 |
 | [Space Invader](https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Space Invader](https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG) | 6:58 | 2023-09-28 | 2023-11-10 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-08 | 2024-01-12 |

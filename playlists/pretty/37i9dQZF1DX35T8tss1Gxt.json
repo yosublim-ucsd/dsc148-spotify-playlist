@@ -1,6 +1,6 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 239006,
+  "num_followers": 239073,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "I Surrender All (Allt till Jesus)",
-        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        },
-        {
-          "name": "Tommy Iceland",
-          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "I Surrender All (Allt till Jesus)",
-      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 202434,
       "name": "Lover of My Soul",
       "url": "https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "I Surrender All (Allt till Jesus)",
+        "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Tommy Iceland",
+          "url": "https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU"
+        }
+      ],
+      "duration_ms": 192968,
+      "name": "I Surrender All (Allt till Jesus)",
+      "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Wilder Wonderland",
         "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 220684,
       "name": "Just Wondering",
       "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "How I Love You",
-        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
       },
       "artists": [
         {
-          "name": "SHEALY",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Brandon Love",
-          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
         }
       ],
-      "duration_ms": 261000,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
+      "duration_ms": 165400,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/4V9Uxlaq2YpXjTNmTsa7vB"
+        "name": "How I Love You",
+        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
       },
       "artists": [
         {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+          "name": "SHEALY",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Brandon Love",
+          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
         }
       ],
-      "duration_ms": 165400,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/5QkHs6c3bwJUqTSKjunArU"
+      "duration_ms": 261000,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        },
+        {
+          "name": "Dante' Pride",
+          "url": "https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS"
+        }
+      ],
+      "duration_ms": 131018,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Thousands of Years",
         "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 197254,
       "name": "Mr. McClure",
       "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe"
-      },
-      "artists": [
-        {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
-        },
-        {
-          "name": "Dante' Pride",
-          "url": "https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS"
-        }
-      ],
-      "duration_ms": 131018,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Like Yours",
+        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Like Yours",
+      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Like Yours",
-        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Like Yours",
-      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Your Arms",
+        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
+      },
+      "artists": [
+        {
+          "name": "RORE",
+          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "Your Arms",
+      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Arms",
-        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
-      },
-      "artists": [
-        {
-          "name": "RORE",
-          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "Your Arms",
-      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "JUST BE US",
         "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 142889,
       "name": "JUST BE US",
       "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Let It Be Your Will",
-        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        }
-      ],
-      "duration_ms": 250295,
-      "name": "Let It Be Your Will",
-      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Your Love Will Never Change",
-        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+        "name": "Let It Be Your Will",
+        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
       },
       "artists": [
         {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Your Love Will Never Change",
-      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
+      "duration_ms": 250295,
+      "name": "Let It Be Your Will",
+      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1659,6 +1643,22 @@
       "duration_ms": 171806,
       "name": "Authenticity",
       "url": "https://open.spotify.com/track/0OTpRTiPww0PGHtXila6tx"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Your Love Will Never Change",
+        "url": "https://open.spotify.com/album/2Yq6QxSZAv7e48JOYpMsVu"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Your Love Will Never Change",
+      "url": "https://open.spotify.com/track/0rfx6Og7mSGN57kMJKoCnQ"
     },
     {
       "added_at": "2024-01-12 07:49:20",

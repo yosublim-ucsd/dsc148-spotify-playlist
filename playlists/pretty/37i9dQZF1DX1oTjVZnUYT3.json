@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 458838,
+  "num_followers": 458859,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bicho De 7 Cabe\u00e7as",
-        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Taxi Lunar",
-      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bis (Dois CDs)",
         "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 249960,
       "name": "Lindo Lago Do Amor",
       "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "added_at": "2021-11-26 03:18:52",

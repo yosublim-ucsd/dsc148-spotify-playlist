@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 226858,
       "name": "Dil Ki Kahani",
       "url": "https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC"
@@ -1876,6 +1876,24 @@
       "duration_ms": 230830,
       "name": "Haq Hai Tujhe",
       "url": "https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul"
+    },
+    {
+      "album": {
+        "name": "Putla",
+        "url": "https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Malhotra",
+          "url": "https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256305,
+      "name": "Haqeeqat",
+      "url": "https://open.spotify.com/track/2ws5qeW4BEsFP7Wnu16sjC"
     },
     {
       "album": {
@@ -4671,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Putla",
+        "url": "https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Malhotra",
+          "url": "https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234435,
+      "name": "Putla",
+      "url": "https://open.spotify.com/track/1MctTuryb5Fud6HJeEoZtJ"
+    },
+    {
+      "album": {
         "name": "Pyaar",
         "url": "https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw"
       },
@@ -6022,7 +6058,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 144715,
       "name": "Tu Yaad Aa Gaya",
       "url": "https://open.spotify.com/track/7ExuD1jzzH9cU99TvDdFTV"

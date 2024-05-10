@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 57219,
+  "num_followers": 57223,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
-      },
-      "artists": [
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 169487,
-      "name": "el film - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Lo que necesito",
         "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 200191,
       "name": "Lo que necesito",
       "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 169487,
+      "name": "el film - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Fin De Los Tiempos",
-        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
-      },
-      "artists": [
-        {
-          "name": "Paula Pera y el fin de los Tiempos",
-          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
-        }
-      ],
-      "duration_ms": 234625,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Velocidad Crucero",
         "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
       },
@@ -771,22 +755,34 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Sed de Ternura Vol.1 (Duo Set)",
-        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
+        "name": "Fin De Los Tiempos",
+        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        },
-        {
-          "name": "Juan Pablo de Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
+      "duration_ms": 234625,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -815,22 +811,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 183786,
       "name": "Suerte para m\u00ed",
       "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Sed de Ternura Vol.1 (Duo Set)",
+        "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        },
+        {
+          "name": "Juan Pablo de Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/3mtXjQYoBmpnmZeCchOLVT"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
       "artists": [
         {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
         }
       ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
         "url": "https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju"
       },
@@ -1263,42 +1279,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "no hace falta saber",
-        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "no hace falta saber",
-      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 244689,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "no hace falta saber",
+        "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "no hace falta saber",
+      "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "plasti bonus track",
         "url": "https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 202687,
       "name": "hoy me despert\u00e9 as\u00ed - v. 02",
       "url": "https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Brancciari",
-          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "No Ves Tal Vez",
         "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
@@ -1575,38 +1559,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Lo Que Hicimos",
-        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
       },
       "artists": [
         {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "S\u00f3nico Vivo",
-          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+          "name": "Gonzalo Brancciari",
+          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
         }
       ],
-      "duration_ms": 157725,
-      "name": "Lo Que Hicimos",
-      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
+      "duration_ms": 170904,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1631,6 +1595,42 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Lo Que Hicimos",
+        "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "S\u00f3nico Vivo",
+          "url": "https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe"
+        }
+      ],
+      "duration_ms": 157725,
+      "name": "Lo Que Hicimos",
+      "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "El rey del yuyal",
         "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 158980,
+  "description": "This is Aline Barros. Tutti i brani in un'unica playlist.",
+  "num_followers": 158988,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADeZ6HZ/sprpKWE0ATzcUDI",
+  "snapshot_id": "ZjrAgAAAAAAeAYUHClDLsveTVVdhJcSU",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 256441,
-      "name": "Primeira Ess\u00eancia (Jardim Particular)",
-      "url": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 273488,
       "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
       "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 256441,
+      "name": "Primeira Ess\u00eancia (Jardim Particular)",
+      "url": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extraordin\u00e1rio Amor de Deus",
         "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jehov\u00e1 Jireh",
-        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+        "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
+        "url": "https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 336662,
-      "name": "Jehov\u00e1 Jireh",
-      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
+      "duration_ms": 225200,
+      "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
+      "url": "https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
       "duration_ms": 303173,
       "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
       "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
-        "url": "https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
-      "url": "https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Declaro a Cristo",
-        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 288159,
-      "name": "Declaro a Cristo",
-      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
+      "duration_ms": 240976,
+      "name": "Sem Limites",
+      "url": "https://open.spotify.com/track/4UJbcK8Zm2glSVpmFvt2a9"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+        "name": "Declaro a Cristo",
+        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 240976,
-      "name": "Sem Limites",
-      "url": "https://open.spotify.com/track/4UJbcK8Zm2glSVpmFvt2a9"
+      "duration_ms": 288159,
+      "name": "Declaro a Cristo",
+      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
     },
     {
       "added_at": null,

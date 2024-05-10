@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 116770,
+  "num_followers": 116850,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Toda La Fuerza",
-        "url": "https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Si Te Estoy Rogando",
         "url": "https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 247906,
       "name": "Si Te Estoy Rogando",
       "url": "https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Con Toda La Fuerza",
+        "url": "https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Siendo Franco",
-        "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Ni Dios Lo Quiera",
         "url": "https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184386,
       "name": "Ni Dios Lo Quiera",
       "url": "https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Siendo Franco",
+        "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
     },
     {
       "added_at": "2022-05-25 16:50:02",

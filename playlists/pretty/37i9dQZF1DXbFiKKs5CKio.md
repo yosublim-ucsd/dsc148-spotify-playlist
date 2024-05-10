@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,638 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,660 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 |
 | 2 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 |
 | 3 | [curva escura](https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [curva escura](https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m) | 3:40 |
-| 4 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 |
-| 5 | [Paisagem](https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Paisagem](https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu) | 3:32 |
+| 4 | [Paisagem](https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Paisagem](https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu) | 3:32 |
+| 5 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 |
 | 6 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |
 | 7 | [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 |
 | 8 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |

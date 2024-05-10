@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAG8VEZwKpN8uL50uszS4JsDWhs2DI/",
+  "snapshot_id": "AAAG9ufi/TABnl00dtAVHpsV7j9KJmpy",
   "tracks": [
     {
       "added_at": "2024-05-03 02:23:23",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
+      "added_at": "2024-05-10 00:37:07",
+      "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7G2hn1s5kC1sxlQcXEXAUy"
+      },
+      "artists": [
+        {
+          "name": "BOBI ANDONOV",
+          "url": "https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy"
+        }
+      ],
+      "duration_ms": 188092,
+      "name": "Saint",
+      "url": "https://open.spotify.com/track/3wtGbwOllRwGYUFplSyJzA"
+    },
+    {
       "added_at": "2024-04-23 00:45:08",
       "album": {
         "name": "Young In Love",
@@ -71,6 +87,26 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-05-10 01:24:18",
+      "album": {
+        "name": "12 Notes",
+        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "Ways To Go (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
     },
     {
       "added_at": "2024-04-05 05:37:22",
@@ -107,6 +143,22 @@
       "duration_ms": 199947,
       "name": "Immortal Queen (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg"
+    },
+    {
+      "added_at": "2024-05-10 01:19:36",
+      "album": {
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
     },
     {
       "added_at": "2024-04-05 05:37:22",
@@ -155,6 +207,22 @@
       "duration_ms": 142706,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH"
+    },
+    {
+      "added_at": "2024-05-10 01:26:22",
+      "album": {
+        "name": "everything and nothing",
+        "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 140638,
+      "name": "take the hit",
+      "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
     },
     {
       "added_at": "2024-04-05 05:37:22",
@@ -219,6 +287,22 @@
       "duration_ms": 145622,
       "name": "Sacrifice Tomorrow",
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
+    },
+    {
+      "added_at": "2024-05-10 01:11:37",
+      "album": {
+        "name": "Wayside",
+        "url": "https://open.spotify.com/album/3HUoAP6sgFaWMm1vxRLWYm"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/0Z2f0EHh9wYSZWQzxEuhRy"
     },
     {
       "added_at": "2024-04-05 05:37:22",

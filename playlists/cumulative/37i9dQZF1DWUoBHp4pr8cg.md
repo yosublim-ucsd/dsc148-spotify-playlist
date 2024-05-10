@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Future & Metro Boomin'\(pictured\), Big Sean and more...
+> Only the hottest Hip Hop from K.O & Maglera Doe Boy \(pictured\), Kendrick Lamar, and more...
 
-278 songs - 15 hr 8 min
+279 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Legit](https://open.spotify.com/track/0N7KYoFclzCaF5COp7BIlH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 3:22 | 2022-11-14 | 2022-12-13 |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-19 | 2023-09-23 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-01-23 | 2024-02-09 |
+| [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU) | 3:53 | 2024-05-09 |  |
 | [Letter to Takeoff](https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Letter to Takeoff](https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX) | 3:37 | 2022-11-17 | 2023-03-07 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-06 | 2022-11-15 |
 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 | 2022-09-29 | 2022-11-04 |

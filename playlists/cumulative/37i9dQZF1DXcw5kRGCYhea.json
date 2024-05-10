@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 164737,
       "name": "Agent secret",
       "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
@@ -96,6 +96,28 @@
       "duration_ms": 179000,
       "name": "Akatsuki",
       "url": "https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "album": {
@@ -234,6 +256,28 @@
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "album": {
+        "name": "Confidences",
+        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128197,
+      "name": "Confidences",
+      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
     },
     {
       "album": {
@@ -576,7 +620,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174280,
       "name": "JOHN GOTTI (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/0f3DsHmOK9nzTiVU1Vvbil"
@@ -638,7 +682,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 166822,
       "name": "Layem",
       "url": "https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA"
@@ -784,7 +828,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194250,
       "name": "Mocro Mafia (feat. Maes)",
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
@@ -995,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "album": {
         "name": "Par\u00eds Como Hakimi",
         "url": "https://open.spotify.com/album/6EGdF6PPqUdepFkHiWam87"
       },
@@ -1046,7 +1108,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
@@ -1130,6 +1192,28 @@
       "duration_ms": 188968,
       "name": "Sokkar",
       "url": "https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW"
+    },
+    {
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "album": {

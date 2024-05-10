@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-119 songs - 7 hr 28 min
+121 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 | 2022-11-22 | 2024-03-01 |
 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:33 | 2023-01-06 | 2023-07-06 |
 | [Dame una señal](https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Dame una señal](https://open.spotify.com/album/6q2Qh4xPwCHNNjAb0Jcj0r) | 3:53 | 2023-07-14 | 2023-07-28 |
+| [DANCE DEPRE](https://open.spotify.com/track/74KLr2xkVGoL4qMAmMhP9v) | [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [DANCE DEPRE](https://open.spotify.com/album/1sSmSR6vjVwO3wTC6qsQLZ) | 3:58 | 2024-04-26 |  |
 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 | 2024-04-23 |  |
 | [DASOUL](https://open.spotify.com/track/6Pu0gcxT23ZEwTmkXIKZdO) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [Soenia](https://open.spotify.com/artist/0vuduaT81euHWyccGAYbaq) | [DASOUL](https://open.spotify.com/album/5WKQYhE3HKhycVuYZIqW3L) | 2:38 | 2024-03-29 |  |
 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 | 2023-07-28 |  |
@@ -88,10 +89,11 @@
 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 | 2022-11-22 |  |
 | [NQP \(No Quiero Parar\)](https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2) | [Danco](https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X) | [NQP \(No Quiero Parar\)](https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW) | 3:02 | 2023-02-02 |  |
 | [Nuestros Horarios](https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Rumbo](https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D) | 2:56 | 2022-11-22 |  |
-| [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 | 2023-01-27 |  |
+| [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 | 2023-01-27 | 2024-05-10 |
+| [Papaya](https://open.spotify.com/track/0V9mw8S22fciKdLiQlQNeZ) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Papaya](https://open.spotify.com/album/2oSZhnHDrFrTt4BCreAG9P) | 3:28 | 2024-04-26 |  |
 | [Papi ¿Dónde Está El Funk?](https://open.spotify.com/track/2xsAvvob9qFtBiEI1SK76p) | [Los Tetas](https://open.spotify.com/artist/4yjiCh3gayolGLTCVpHojS) | [Latin Funk All\-Stars](https://open.spotify.com/album/1O5LoF8u5HvjPf54M9RS6A) | 5:50 | 2024-03-29 |  |
 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 | 2022-11-22 | 2024-04-19 |
-| [Paraíso](https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Paraíso](https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD) | 2:40 | 2024-03-29 |  |
+| [Paraíso](https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Paraíso](https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD) | 2:40 | 2024-03-29 | 2024-05-10 |
 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 | 2022-11-22 |  |
 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 | 2022-11-22 |  |
 | [Precipicio](https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Precipicio](https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB) | 4:07 | 2023-05-26 | 2023-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Mustii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,829 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,834 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 37 | [Baggage](https://open.spotify.com/track/1mQN7wV7P7UTzLhpBhOOZ2) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [Baggage](https://open.spotify.com/album/6gvLq9TwxePLHCVcAyB6lH) | 2:58 |
 | 38 | [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 |
 | 39 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
-| 40 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
-| 41 | [Oh Lord](https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Oh Lord](https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW) | 2:57 |
-| 42 | [Love Myself Instead](https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Love Myself Instead](https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN) | 3:36 |
-| 43 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
-| 44 | [Time Will Tell](https://open.spotify.com/track/1qM63pyuwLKxHaASfEKK2I) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Time Will Tell](https://open.spotify.com/album/1OgA0KrmfCLFhvd4MYdcks) | 3:05 |
+| 40 | [Rodeo](https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Rodeo](https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL) | 4:15 |
+| 41 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
+| 42 | [Oh Lord](https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Oh Lord](https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW) | 2:57 |
+| 43 | [Love Myself Instead](https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Love Myself Instead](https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN) | 3:36 |
+| 44 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
 | 45 | [Seen My Man \- Spotify Singles](https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 2:57 |
 | 46 | [Soy Lesbiana](https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Soy Lesbiana](https://open.spotify.com/album/2EdFxhEmZtBAqbhl4CBIbR) | 1:36 |
 | 47 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 |
 | 50 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 |
 
-Snapshot ID: `Zjlg8AAAAADM1SZ/ZB0F4oBm4kqAxCvf`
+Snapshot ID: `ZjyVjQAAAAD5g3kGSlDkrP3vQdjkdEIP`

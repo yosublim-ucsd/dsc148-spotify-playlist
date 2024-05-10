@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 144428,
+  "num_followers": 144449,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Old Shep",
-      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Cool Water (With Bonus Tracks)",
         "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 129133,
       "name": "Cool Water",
       "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Old Shep",
+      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
     },
     {
       "added_at": "2024-03-15 21:17:26",

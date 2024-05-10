@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133549,
       "name": "Above the vast forest",
       "url": "https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 197542,
       "name": "Arbonne",
       "url": "https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190129,
       "name": "Girasoles para ti",
       "url": "https://open.spotify.com/track/0v8y9eVORFsgXpCFenxkV0"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 124273,
       "name": "Give me your advice",
       "url": "https://open.spotify.com/track/1GRIqNinueyMmuYH2luc30"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 133958,
       "name": "Glencoe",
       "url": "https://open.spotify.com/track/0OTaXtuwRJbuVFinxBev0B"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 154374,
       "name": "Laguna Colorada",
       "url": "https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx"
@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Leaving Behind",
+        "url": "https://open.spotify.com/album/5QPSLKJ2ZsmbldhsXvhDUT"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140166,
+      "name": "Leaving Behind",
+      "url": "https://open.spotify.com/track/3ieyL9VqZYHDSyeo6EyzkW"
+    },
+    {
+      "album": {
         "name": "Like no other",
         "url": "https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb"
       },
@@ -4174,6 +4192,24 @@
       "duration_ms": 207000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK"
+    },
+    {
+      "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP"
     },
     {
       "album": {
@@ -4350,7 +4386,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 177750,
       "name": "Lute",
       "url": "https://open.spotify.com/track/2NdSxdafeYHyE0UT2tu2CR"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180390,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/3IoGXIy7KOBTAS8nA99BAR"
@@ -4530,7 +4566,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 151138,
       "name": "Melibea",
       "url": "https://open.spotify.com/track/6iPklVZHZeyQBqm4zV2ruy"
@@ -4750,7 +4786,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 123399,
       "name": "Mises",
       "url": "https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v"
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 143406,
       "name": "Onschuldig",
       "url": "https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se"
@@ -5456,6 +5492,24 @@
       "duration_ms": 156456,
       "name": "Orchard",
       "url": "https://open.spotify.com/track/3udeKOIb6qvbKSYY9bH3Bs"
+    },
+    {
+      "album": {
+        "name": "Ordinary Sunday",
+        "url": "https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164338,
+      "name": "Ordinary Sunday",
+      "url": "https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955"
     },
     {
       "album": {
@@ -5787,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/0CpRpMXCgd0TvUup9IoPz2"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159175,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/7GxkKrjP9Mt8Wizi0YmjfX"
+    },
+    {
+      "album": {
         "name": "Ericeira",
         "url": "https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG"
       },
@@ -5874,7 +5946,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180500,
       "name": "Puebla",
       "url": "https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL"
@@ -5896,6 +5968,24 @@
       "duration_ms": 139461,
       "name": "Puigmal",
       "url": "https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi"
+    },
+    {
+      "album": {
+        "name": "Pula",
+        "url": "https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "Pula",
+      "url": "https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV"
     },
     {
       "album": {
@@ -6810,10 +6900,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 181149,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL"
+      },
+      "artists": [
+        {
+          "name": "Casper Hatlestad",
+          "url": "https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5"
     },
     {
       "album": {
@@ -7224,7 +7332,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 151212,
       "name": "Taller Than Trees",
       "url": "https://open.spotify.com/track/44sLGlyVicqZ8iyyLSzRye"
@@ -7462,7 +7570,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 161233,
       "name": "The Day We Met",
       "url": "https://open.spotify.com/track/2jkeX1SMWAkMTHeigflbjh"
@@ -7534,7 +7642,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180375,
       "name": "The Opera House",
       "url": "https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1"
@@ -7624,7 +7732,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 120337,
       "name": "Through Wildflowers",
       "url": "https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3"
@@ -7822,7 +7930,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 193866,
       "name": "Traveling Home",
       "url": "https://open.spotify.com/track/6UpA9GfzGPuny8IzZHu3ce"

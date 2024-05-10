@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Picus",
-  "num_followers": 73686,
+  "num_followers": 73738,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -383,30 +383,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "NO PIENSO LLAMAR",
-        "url": "https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "NO PIENSO LLAMAR",
-      "url": "https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "NO PIENSO LLAMAR",
+        "url": "https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "NO PIENSO LLAMAR",
+      "url": "https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
         "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2024-05-03 06:00:00",

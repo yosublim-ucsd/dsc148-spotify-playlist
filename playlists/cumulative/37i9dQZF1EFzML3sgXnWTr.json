@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "GUAGLI\u00d2",
+        "url": "https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162524,
+      "name": "GUAGLI\u00d2",
+      "url": "https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH"
+    },
+    {
+      "album": {
         "name": "Guardare gi\u00f9",
         "url": "https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB"
       },

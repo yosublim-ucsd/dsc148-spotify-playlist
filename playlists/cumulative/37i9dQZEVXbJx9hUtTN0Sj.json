@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 209562,
       "name": "Always on the run",
       "url": "https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Casa (Arabic version)",
+        "url": "https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145057,
+      "name": "Casa - Arabic Version",
+      "url": "https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 112347,
       "name": "DO NOT COPY MY FLOW",
       "url": "https://open.spotify.com/track/12CXDdYB8F138toCenq6Ev"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -2476,6 +2494,50 @@
     {
       "album": {
         "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/0032QlMqm65ohC25r4wP7Y"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "Friendly Pressure - Into The Sunshine Edit",
+      "url": "https://open.spotify.com/track/6AbZLLJi1jROnWngktz9Pi"
+    },
+    {
+      "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/0032QlMqm65ohC25r4wP7Y"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334760,
+      "name": "Friendly Pressure - Into The Sunshine Mix",
+      "url": "https://open.spotify.com/track/2iGJBdveYzCfZ8Pkagwu73"
+    },
+    {
+      "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
         "url": "https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl"
       },
       "artists": [
@@ -2490,7 +2552,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 334760,
       "name": "Friendly Pressure - Into The Sunshine Mix",
       "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
@@ -3049,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
+    },
+    {
+      "album": {
         "name": "HWASI",
         "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
       },
@@ -3096,7 +3176,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -4142,7 +4222,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 169403,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/28ZwgrsyIbpX4diz92ACnm"
@@ -4296,7 +4376,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "Luktelk",
       "url": "https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1"
@@ -4786,7 +4866,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 175896,
       "name": "No Rules!",
       "url": "https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq"
@@ -4822,7 +4902,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 162104,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/70QBnYP5lr1nhF3isSOJfj"
@@ -5242,7 +5322,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 203426,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/7AEfPUY8gHoEzQja4OOO49"
@@ -6668,7 +6748,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 179473,
       "name": "Teresa & Maria",
       "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,040 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,082 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 75 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 76 | [Ganas De Ti](https://open.spotify.com/track/6HmqcVpzZrbvec4Tdpn7LB) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Ganas De Ti](https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox) | 3:11 |
 | 77 | [LA NENA](https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [LA NENA](https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN) | 2:44 |
-| 78 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 |
-| 79 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
+| 78 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
+| 79 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 |
 | 80 | [La Bebesita](https://open.spotify.com/track/4UAzgCrE77nyGWm2E2XxMq) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [La Bebesita](https://open.spotify.com/album/1J0rKEarrykyd3N3nnXjXs) | 2:50 |
 | 81 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 |
 | 82 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |

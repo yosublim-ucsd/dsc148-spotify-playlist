@@ -1,10 +1,10 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 160167,
+  "num_followers": 160209,
   "original_name": "Hauntology",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "Zh6YkgAAAAAkHysRFscSqVhQxbSv3sMM",
   "tracks": [
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Lueena Coast",
-      "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
-    },
-    {
       "added_at": "2022-03-11 06:00:33",
       "album": {
         "name": "Recordings from the \u00c5land Islands",
@@ -511,6 +495,22 @@
       "duration_ms": 222400,
       "name": "Under the Midnight Sun",
       "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Lueena Coast",
+      "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
     },
     {
       "added_at": "2023-05-09 00:58:52",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
     },
     {
-      "added_at": "2024-02-02 05:51:49",
-      "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Other Channels",
@@ -575,6 +559,22 @@
       "duration_ms": 207866,
       "name": "Sundial",
       "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+    },
+    {
+      "added_at": "2024-02-02 05:51:49",
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "added_at": "2022-03-11 05:43:05",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Galactic Sounds",
-        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
-      },
-      "artists": [
-        {
-          "name": "Retep Folo",
-          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
-        }
-      ],
-      "duration_ms": 130582,
-      "name": "Galactic Pulse",
-      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
-    },
-    {
       "added_at": "2022-03-11 06:35:59",
       "album": {
         "name": "The Silver Threshold",
@@ -767,6 +751,22 @@
       "duration_ms": 256402,
       "name": "The Silver Threshold",
       "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Galactic Sounds",
+        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
+      },
+      "artists": [
+        {
+          "name": "Retep Folo",
+          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
+        }
+      ],
+      "duration_ms": 130582,
+      "name": "Galactic Pulse",
+      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
     },
     {
-      "added_at": "2023-12-22 16:02:06",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 111813,
-      "name": "Planeta Oc\u00e9ano",
-      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Black Mass",
@@ -831,22 +815,6 @@
       "duration_ms": 205026,
       "name": "Solomon's Rising",
       "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2022-07-15 05:23:56",
@@ -867,6 +835,38 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2023-12-22 16:02:06",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 111813,
+      "name": "Planeta Oc\u00e9ano",
+      "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "The Elektrik Karousel",
         "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Flowers Of Evil",
         "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 848256,
       "name": "Flowers Of Evil",
       "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
     },
     {
-      "added_at": "2023-12-12 20:36:27",
-      "album": {
-        "name": "El Tonto",
-        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 133853,
-      "name": "La Nebulosa",
-      "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "S\u00e9ance at Hobs Lane",
@@ -995,6 +979,22 @@
       "duration_ms": 193346,
       "name": "The Black Drop",
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+    },
+    {
+      "added_at": "2023-12-12 20:36:27",
+      "album": {
+        "name": "El Tonto",
+        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "La Nebulosa",
+      "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
     },
     {
       "added_at": "2022-02-21 20:35:59",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Thistledown",
+      "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+          "name": "Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
         }
       ],
-      "duration_ms": 255693,
-      "name": "Thistledown",
-      "url": "https://open.spotify.com/track/3g7cZxCC45GPg0Zq43sBDl"
+      "duration_ms": 297440,
+      "name": "Witch's Will",
+      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1083,22 +1099,6 @@
       "duration_ms": 159968,
       "name": "The Song Before",
       "url": "https://open.spotify.com/track/6X1sd1kEaSRdJRQ9wYrbZr"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Witch's Will",
-      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
     },
     {
-      "added_at": "2022-09-11 03:54:27",
-      "album": {
-        "name": "Dero",
-        "url": "https://open.spotify.com/album/1acIsjkwiQqk74P1HImtjo"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        }
-      ],
-      "duration_ms": 277524,
-      "name": "Dero",
-      "url": "https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Somniloquy",
@@ -1277,6 +1261,22 @@
       "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
     },
     {
+      "added_at": "2022-09-11 03:54:27",
+      "album": {
+        "name": "Dero",
+        "url": "https://open.spotify.com/album/1acIsjkwiQqk74P1HImtjo"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        }
+      ],
+      "duration_ms": 277524,
+      "name": "Dero",
+      "url": "https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL"
+    },
+    {
       "added_at": "2022-03-30 05:15:55",
       "album": {
         "name": "Orrery",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
@@ -1304,25 +1304,9 @@
           "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Caermaen",
-      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
-    },
-    {
-      "added_at": "2022-06-08 02:20:31",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
-      },
-      "artists": [
-        {
-          "name": "Monica Hapsari",
-          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
-        }
-      ],
-      "duration_ms": 437634,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2022-05-24 01:10:52",
@@ -1349,6 +1333,22 @@
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
     },
     {
+      "added_at": "2022-06-08 02:20:31",
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
+      },
+      "artists": [
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "duration_ms": 437634,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
+    },
+    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Study Series 02: Cycles and Seasons",
@@ -1363,6 +1363,22 @@
       "duration_ms": 242308,
       "name": "New Dimensions In",
       "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Wyrd Kalendar",
+        "url": "https://open.spotify.com/album/1eTmM4qDyRxI8gxS6aQLgA"
+      },
+      "artists": [
+        {
+          "name": "Concretism",
+          "url": "https://open.spotify.com/artist/4xNzWuRiCOPDrIObm7gdG2"
+        }
+      ],
+      "duration_ms": 228913,
+      "name": "Fair by the Sea",
+      "url": "https://open.spotify.com/track/0g3bxwZ1zrlZZUrsmz7xIR"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1399,24 +1415,8 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Wyrd Kalendar",
-        "url": "https://open.spotify.com/album/1eTmM4qDyRxI8gxS6aQLgA"
-      },
-      "artists": [
-        {
-          "name": "Concretism",
-          "url": "https://open.spotify.com/artist/4xNzWuRiCOPDrIObm7gdG2"
-        }
-      ],
-      "duration_ms": 228913,
-      "name": "Fair by the Sea",
-      "url": "https://open.spotify.com/track/0g3bxwZ1zrlZZUrsmz7xIR"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+      "duration_ms": 221626,
+      "name": "Caermaen",
+      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1613,26 +1613,6 @@
       "url": "https://open.spotify.com/track/5a7TKRBOr7g5W4Up8LwaFe"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/125uf8eko94rpAHLPTPh5B"
-      },
-      "artists": [
-        {
-          "name": "Mehmet Aslan",
-          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        }
-      ],
-      "duration_ms": 265124,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/7lCFqlVFKkYQUhvk5oozO3"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Translate",
@@ -1663,6 +1643,26 @@
       "duration_ms": 326426,
       "name": "It is narrow here",
       "url": "https://open.spotify.com/track/1QUNKDYuz1vxpRAHitxj9i"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/125uf8eko94rpAHLPTPh5B"
+      },
+      "artists": [
+        {
+          "name": "Mehmet Aslan",
+          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "duration_ms": 265124,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/7lCFqlVFKkYQUhvk5oozO3"
     },
     {
       "added_at": "2021-10-27 14:20:30",

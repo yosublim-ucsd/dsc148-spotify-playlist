@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 49532,
+  "num_followers": 49576,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
         "name": "Wrong Side Of Town",
         "url": "https://open.spotify.com/album/4CVsYdUQaVBpsWGZL1IGzX"
       },
@@ -923,6 +943,22 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -939,42 +975,6 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 183725,
       "name": "The One And Only",
       "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
-        "name": "Curse The Universe",
-        "url": "https://open.spotify.com/album/0MUpsDIB7XqwM7H9qoL2vG"
-      },
-      "artists": [
-        {
-          "name": "Half Past Two",
-          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Curse The Universe",
-      "url": "https://open.spotify.com/track/02Jc4S6p06RuUC0yCuTDUk"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
         "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30c3\u30bf\u30e9",
         "url": "https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-05-04 01:57:45",
       "album": {
+        "name": "Curse The Universe",
+        "url": "https://open.spotify.com/album/0MUpsDIB7XqwM7H9qoL2vG"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Curse The Universe",
+      "url": "https://open.spotify.com/track/02Jc4S6p06RuUC0yCuTDUk"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
         "name": "Where Did All My Friends Go?",
         "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 230014,
       "name": "Where Did All My Friends Go?",
       "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
-    },
-    {
-      "added_at": "2024-05-04 01:57:45",
-      "album": {
-        "name": "Behin Eta Berriz",
-        "url": "https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1"
-      },
-      "artists": [
-        {
-          "name": "Esne Beltza",
-          "url": "https://open.spotify.com/artist/2XPWNtVJSENbUVjYZSPnUP"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 194258,
-      "name": "Behin Eta Berriz",
-      "url": "https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3"
     },
     {
       "added_at": "2024-05-04 01:57:45",
@@ -1675,6 +1655,26 @@
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
+    },
+    {
+      "added_at": "2024-05-04 01:57:45",
+      "album": {
+        "name": "Behin Eta Berriz",
+        "url": "https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1"
+      },
+      "artists": [
+        {
+          "name": "Esne Beltza",
+          "url": "https://open.spotify.com/artist/2XPWNtVJSENbUVjYZSPnUP"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 194258,
+      "name": "Behin Eta Berriz",
+      "url": "https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3"
     },
     {
       "added_at": "2024-05-04 01:57:45",

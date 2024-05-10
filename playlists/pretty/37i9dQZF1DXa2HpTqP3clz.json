@@ -1,10 +1,10 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132747,
+  "num_followers": 132772,
   "original_name": "Grass Roots",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZismwAAAAACgqD+WelsohoEbiw61EoHS",
   "tracks": [
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Long Journey Home / Life To Go",
-        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 177453,
-      "name": "Long Journey Home",
-      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Long Journey Home / Life To Go",
+        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 177453,
+      "name": "Long Journey Home",
+      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
       "artists": [
         {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
         }
       ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -987,18 +987,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
+      "duration_ms": 230032,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1035,26 +1039,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 230032,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "3+ (EP)",
-        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
+        "name": "+ 1",
+        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
       },
       "artists": [
         {
@@ -1112,25 +1112,13 @@
           "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
         },
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 171520,
-      "name": "Born To Be With You",
-      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
+      "duration_ms": 253058,
+      "name": "Anna Marie (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1211,8 +1199,8 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "+ 1",
-        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
+        "name": "3+ (EP)",
+        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
       },
       "artists": [
         {
@@ -1220,13 +1208,25 @@
           "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
         },
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
         }
       ],
-      "duration_ms": 253058,
-      "name": "Anna Marie (feat. Sierra Hull)",
-      "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
+      "duration_ms": 171520,
+      "name": "Born To Be With You",
+      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Delta Queen",
-        "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
       "artists": [
         {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
         }
       ],
-      "duration_ms": 233946,
-      "name": "Delta Queen",
-      "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+        "name": "Delta Queen",
+        "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
       },
       "artists": [
         {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
         }
       ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+      "duration_ms": 233946,
+      "name": "Delta Queen",
+      "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Mayhayley's House",
+        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Diggin'",
+      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Mayhayley's House",
-        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 217222,
-      "name": "Diggin'",
-      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
-      },
-      "artists": [
-        {
-          "name": "Hogslop String Band",
-          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Mary Ann is a Pistol",
         "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Rachel's Tea Party",
-        "url": "https://open.spotify.com/album/6uzhgvE6gEDtDBrgzaNydc"
-      },
-      "artists": [
-        {
-          "name": "Tim and James",
-          "url": "https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz"
-        }
-      ],
-      "duration_ms": 83474,
-      "name": "Rachel's Tea Party",
-      "url": "https://open.spotify.com/track/3AeJjcBgpVzwxhcmET0aIO"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 176000,
       "name": "The Lives of the Innocent",
       "url": "https://open.spotify.com/track/74uMXgkmFPCj0YLMh39hhO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Rachel's Tea Party",
+        "url": "https://open.spotify.com/album/6uzhgvE6gEDtDBrgzaNydc"
+      },
+      "artists": [
+        {
+          "name": "Tim and James",
+          "url": "https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz"
+        }
+      ],
+      "duration_ms": 83474,
+      "name": "Rachel's Tea Party",
+      "url": "https://open.spotify.com/track/3AeJjcBgpVzwxhcmET0aIO"
     },
     {
       "added_at": "2024-04-26 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 42938,
+  "num_followers": 42947,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAACEYMMWPufCJphieK3GJCpT",
+  "snapshot_id": "ZjrAgAAAAABh0cNCOgtdcH8TtexQemov",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+      "duration_ms": 235518,
+      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 185000,
       "name": "Answering Bell",
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
-        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235518,
-      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 201693,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 301013,
-      "name": "La Cienega Just Smiled",
-      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 301013,
+      "name": "La Cienega Just Smiled",
+      "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "I'm Sorry And I Love You",
-      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Sign",
         "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 207971,
       "name": "Speeding Car",
       "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "I'm Sorry And I Love You",
+      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock N Roll",
         "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238333,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
       },
       "artists": [
         {
@@ -724,9 +724,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
       },
       "artists": [
         {
@@ -772,25 +788,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "The Rescue Blues",
-      "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+      "duration_ms": 284625,
+      "name": "Black Sheets of Rain - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3lYkwSZgN4hTk3wzx6FmNI"
     },
     {
       "added_at": null,

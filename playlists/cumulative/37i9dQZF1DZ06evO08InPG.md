@@ -4,10 +4,11 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-85 songs - 7 hr 27 min
+86 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Nation on Fire](https://open.spotify.com/track/3EQGVx92eRnUjptgNnKFr5) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 5:33 | 2024-05-10 |  |
 | [A Thousand Lies](https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:13 | 2022-05-30 |  |
 | [Aesthetics of Hate](https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 6:30 | 2022-05-30 |  |
 | [American High](https://open.spotify.com/track/1sbM3pW8xKd2HKm9bosFF2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:48 | 2022-05-30 | 2022-10-06 |
@@ -37,7 +38,7 @@
 | [Crashing Around You](https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:13 | 2022-05-30 |  |
 | [Darkness Within](https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 6:27 | 2022-10-09 | 2022-12-06 |
 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 | 2022-05-30 |  |
-| [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-05-30 |  |
+| [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-05-30 | 2024-05-10 |
 | [Days Turn Blue to Gray](https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:22 | 2022-05-30 | 2022-09-15 |
 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 | 2022-05-30 |  |
 | [Die Young \(Acoustic\)](https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Die Young \(Acoustic\)](https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu) | 4:57 | 2022-05-30 | 2024-04-24 |

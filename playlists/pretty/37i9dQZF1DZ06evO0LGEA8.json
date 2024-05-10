@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 220861,
+  "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
+  "num_followers": 221109,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABeINBg5/n6KUlDPxpL6I/t",
+  "snapshot_id": "ZjrAgAAAAAAifu9Iz1EbNyEDDR2jdfmW",
   "tracks": [
     {
       "added_at": null,
@@ -207,30 +207,6 @@
       "duration_ms": 194063,
       "name": "Solo Mintio",
       "url": "https://open.spotify.com/track/28SOEtquasClOf55g4PA6N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "No Que No Eras Fan",
-      "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
     },
     {
       "added_at": null,
@@ -563,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 316003,
+      "name": "Si Tuviera una Fortuna",
+      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orgullo Caf\u00e9",
         "url": "https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC"
       },
@@ -583,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 316003,
-      "name": "Si Tuviera una Fortuna",
-      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -608,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Mirada Triste",
-      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
+      "duration_ms": 210076,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
     },
     {
       "added_at": null,
@@ -676,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 210076,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs"
+      "duration_ms": 190066,
+      "name": "Mirada Triste",
+      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
     },
     {
       "added_at": null,
@@ -751,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -795,6 +755,22 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,
@@ -907,6 +883,22 @@
       "duration_ms": 269038,
       "name": "Humo y Tequila",
       "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 330161,
+      "name": "Las Chidas Pal Cuarto",
+      "url": "https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX"
     }
   ],
   "unique_name": "This Is La Santa Grifa",

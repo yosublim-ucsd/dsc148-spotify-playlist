@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Super Over (It's Really Really Really Over Edition)",
+        "url": "https://open.spotify.com/album/60MSlGTw8G4KR2l05F3t7P"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158704,
+      "name": "So Not Sober",
+      "url": "https://open.spotify.com/track/2RVChbMVi7Q0CKFnKSTGMr"
+    },
+    {
+      "album": {
         "name": "someone's gotta be the last",
         "url": "https://open.spotify.com/album/2xdqCp16HspPEn9EYHbAE6"
       },

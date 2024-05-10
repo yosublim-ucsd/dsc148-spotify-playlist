@@ -1,6 +1,6 @@
 {
   "description": "tu\u00ea e tutu filhos da noite empurrando o palio na marginal",
-  "num_followers": 1380207,
+  "num_followers": 1380517,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-05-01 00:01:00",
       "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "added_at": "2024-05-01 00:01:00",
+      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 271058,
       "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
       "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
-    },
-    {
-      "added_at": "2024-05-01 00:01:00",
-      "album": {
-        "name": "Problemas de um Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Problemas de um Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2024-05-01 00:01:00",

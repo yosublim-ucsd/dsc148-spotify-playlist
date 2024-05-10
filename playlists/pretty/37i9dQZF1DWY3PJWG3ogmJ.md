@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,369 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,518 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 56 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 |
 | 57 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 |
 | 58 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
-| 59 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
-| 60 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 |
+| 59 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 |
+| 60 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
 | 61 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
 | 62 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
 | 63 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 68 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 69 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 70 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
-| 71 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 72 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
+| 71 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
+| 72 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 73 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 | 74 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
 | 75 | [Seeds of Hate](https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [Gamechanger](https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT) | 3:48 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 104 | [Death from Above](https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV) | [Nothing Left](https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn) | [Disconnected](https://open.spotify.com/album/5svjN8DhfvgK6O8pmIYrT1) | 3:06 |
 | 105 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
 | 106 | [The Cavalry](https://open.spotify.com/track/2N30U6cJfBadNeLpGI2pjW) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [The Cavalry](https://open.spotify.com/album/7uHf3n8HA3BmLEAWAyCElZ) | 3:48 |
-| 107 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 |
-| 108 | [Frequency](https://open.spotify.com/track/5qWgw0V8qLbpwC6f9RvLn5) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Frequency](https://open.spotify.com/album/5iLEIidKMkTwbDxcb85B1i) | 3:08 |
+| 107 | [Frequency](https://open.spotify.com/track/5qWgw0V8qLbpwC6f9RvLn5) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Frequency](https://open.spotify.com/album/5iLEIidKMkTwbDxcb85B1i) | 3:08 |
+| 108 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 |
 | 109 | [Hostage to the Empire](https://open.spotify.com/track/0rGYbGA2AdnCbHhB50eShj) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Hostage to the Empire](https://open.spotify.com/album/1KwrFz2iGDGIeXJN0FkWKt) | 4:16 |
 | 110 | [Brutus](https://open.spotify.com/track/7I8vqZE2Vm4EqYIwCPhb0u) | [Benighted](https://open.spotify.com/artist/0dUwIwaPc6UukkCZTaaf7J) | [Brutus](https://open.spotify.com/album/2YSiuiH3hSM6bae2tMWREk) | 2:48 |
 | 111 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |

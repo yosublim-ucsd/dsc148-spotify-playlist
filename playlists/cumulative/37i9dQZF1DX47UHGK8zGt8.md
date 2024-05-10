@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-250 songs - 14 hr 10 min
+251 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 | 2022-04-01 |  |
+| [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-05-08 |  |
 | [Banho de Chuva](https://open.spotify.com/track/3DYzpfpTpzSo3T82yWDzTu) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/2MwCzhN4gsTPvEczD3PuX4) | 2:58 | 2023-10-02 | 2023-10-24 |
 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 | 2022-02-18 | 2022-07-29 |
 | [Benditas](https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Moska Apresenta Zoombido: Mart'nália](https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn) | 3:30 | 2022-04-01 | 2022-06-09 |
@@ -236,7 +237,7 @@
 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 |  |
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-08-25 |  |
 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 | 2022-02-18 |  |
-| [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2023-10-02 |  |
+| [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2023-10-02 | 2024-05-10 |
 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 | 2022-02-18 | 2023-03-18 |
 | [Vida + leve](https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX), [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Vida + leve](https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1) | 2:58 | 2023-10-23 | 2023-12-02 |
 | [Vida Lá Fora](https://open.spotify.com/track/2K0j2vGd9FRdY3yPIm3QQW) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Vida Lá Fora](https://open.spotify.com/album/0SJaoMf2HVlCpWCYRLNZYI) | 3:10 | 2023-09-22 | 2023-10-03 |

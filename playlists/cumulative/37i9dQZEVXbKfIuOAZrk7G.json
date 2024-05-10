@@ -9849,6 +9849,24 @@
     },
     {
       "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/26NytPWfwTRLNf5sc2pLZW"
+    },
+    {
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -15880,7 +15898,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -22580,7 +22598,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198040,
       "name": "Jind",
       "url": "https://open.spotify.com/track/3hiZaVVs8qOpicBHr0Uxid"
@@ -36360,7 +36378,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"

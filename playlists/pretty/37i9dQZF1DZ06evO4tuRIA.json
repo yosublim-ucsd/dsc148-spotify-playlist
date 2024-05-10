@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 80158,
+  "num_followers": 80171,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAAF9BskRNEm2DssiHMj7niV",
+  "snapshot_id": "ZjrAgAAAAAB+G9l4AWlUKL6wdIYQAAfu",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Cabrones",
-        "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 154232,
-      "name": "Dos Cabrones",
-      "url": "https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupcake Quemando",
         "url": "https://open.spotify.com/album/4jRTPn5owoTaIbmrIgxLjp"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Cabrones",
+        "url": "https://open.spotify.com/album/2ogxsrmUqu1gPHlDUF8qy2"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 154232,
+      "name": "Dos Cabrones",
+      "url": "https://open.spotify.com/track/6Oslt344WACSUnxR4bie1K"
     },
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/6QTQycuYjE89y8NaYIr6Nt"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Galvancillo",
-          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
-        },
-        {
-          "name": "Juan De Ron",
-          "url": "https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl"
-        }
-      ],
-      "duration_ms": 168519,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 153250,
       "name": "El Jeffrey",
       "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/6QTQycuYjE89y8NaYIr6Nt"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        },
+        {
+          "name": "Juan De Ron",
+          "url": "https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl"
+        }
+      ],
+      "duration_ms": 168519,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Hasta Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De D\u00eda A Noche",
         "url": "https://open.spotify.com/album/4FJBGA0XCukKbetJGkv8QG"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Hasta Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Caravanas",
         "url": "https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP"
       },
@@ -875,42 +875,6 @@
       "duration_ms": 197375,
       "name": "Las Caravanas",
       "url": "https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paso En Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
-      },
-      "artists": [
-        {
-          "name": "Jaime Y Fernando",
-          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 240879,
-      "name": "Paso En Culiacan (En Vivo)",
-      "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
     },
     {
       "added_at": null,
@@ -939,22 +903,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Guadalajara (feat. Regulo Caro)",
-        "url": "https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt"
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 167923,
-      "name": "En Guadalajara (feat. Regulo Caro)",
-      "url": "https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r"
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paso En Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP"
+      },
+      "artists": [
+        {
+          "name": "Jaime Y Fernando",
+          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 240879,
+      "name": "Paso En Culiacan (En Vivo)",
+      "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 172303,
       "name": "Un Chamaco Sin Futuro",
       "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Guadalajara (feat. Regulo Caro)",
+        "url": "https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 167923,
+      "name": "En Guadalajara (feat. Regulo Caro)",
+      "url": "https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r"
     }
   ],
   "unique_name": "This Is LEGADO 7",

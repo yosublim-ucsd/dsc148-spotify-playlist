@@ -1,12 +1,12 @@
 {
-  "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 100035,
+  "description": "This Is PARTYNEXTDOOR. Los temas esenciales, todos en una lista.",
+  "num_followers": 100109,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABYDnur7lhVHDLav4I13Amv",
+  "snapshot_id": "ZjrAgAAAAAAWw8Od1ZJV/WnHurOLzNSq",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
       "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
+      "duration_ms": 301895,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
     },
     {
       "added_at": null,
@@ -559,22 +555,6 @@
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 301895,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
     },
     {
       "added_at": null,
@@ -599,46 +579,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life On Earth - EP",
-        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "My Affection (with PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "LOYAL (feat. Drake)",
-      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
     },
     {
       "added_at": null,
@@ -675,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -687,26 +647,6 @@
       "duration_ms": 202661,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Wouldn't Leave",
-      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     },
     {
       "added_at": null,
@@ -727,6 +667,26 @@
       "duration_ms": 212280,
       "name": "Wednesday Night Interlude",
       "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Wouldn't Leave",
+      "url": "https://open.spotify.com/track/1nGoy0cEj0extAwXYNYTWd"
     },
     {
       "added_at": null,
@@ -763,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 303628,
+      "name": "WEST DISTRICT",
+      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -779,22 +755,6 @@
       "duration_ms": 368035,
       "name": "Since Way Back",
       "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 303628,
-      "name": "WEST DISTRICT",
-      "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"
     },
     {
       "added_at": null,

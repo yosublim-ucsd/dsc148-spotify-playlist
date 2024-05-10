@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Eugenia Quevedo.",
-  "num_followers": 702785,
+  "num_followers": 702919,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -923,18 +923,22 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+      "duration_ms": 248458,
+      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
     },
     {
       "added_at": "2024-05-03 03:00:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2024-05-03 03:00:00",
       "album": {
-        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 248458,
-      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "added_at": "2024-05-03 03:00:00",

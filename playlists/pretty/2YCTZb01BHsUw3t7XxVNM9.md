@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 546 likes - 479 songs - 1 day 9 hr 27 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 547 likes - 479 songs - 1 day 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

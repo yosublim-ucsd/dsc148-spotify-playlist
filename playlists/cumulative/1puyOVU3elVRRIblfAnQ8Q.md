@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-138 songs - 8 hr 5 min
+139 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Lifted](https://open.spotify.com/track/6yqQCT6Y08rUr2rkXvAd7K) | [Joluca](https://open.spotify.com/artist/3giycuiv9FsMjaSEsJ8i1E) | [Lifted](https://open.spotify.com/album/3IVDw1dncG4Y7Kkv3vP0H9) | 3:14 | 2023-06-22 | 2023-11-09 |
 | [Lily Of The Valley](https://open.spotify.com/track/0NudygRakr4IVXP4afCD3x) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Lily Of The Valley](https://open.spotify.com/album/22MhIeIM0sCQ7bJllDMnSZ) | 3:48 | 2024-04-30 |  |
 | [LONG WALK](https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX) | [GRAIL SOUNDS](https://open.spotify.com/artist/3FwFFAF9CxERhMrf9R68l4), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [LONG WALK](https://open.spotify.com/album/74Zd13jnHn0ee71K0OOUjc) | 3:53 | 2023-07-14 | 2024-01-27 |
+| [Lovin U](https://open.spotify.com/track/2N6uw9GNlh19AzqKo35R0q) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [Lovin U](https://open.spotify.com/album/6ZRxZKTjqrBd4GXeyzPeKj) | 4:03 | 2024-05-09 |  |
 | [LSDP](https://open.spotify.com/track/4hqF46oRXqePhKiNlmPuoT) | [BLXK MNTN](https://open.spotify.com/artist/2Hop8XZ4bSF0HeVjxXfYMW) | [LSDP](https://open.spotify.com/album/5hyAsGuY5huSDHjA5rLqqJ) | 3:02 | 2023-08-02 | 2024-01-27 |
 | [Mellow Man](https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 |  |
 | [MIC CHECK](https://open.spotify.com/track/3FZY2bYqCoTUZEyueDzqRC) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [MIC CHECK](https://open.spotify.com/album/1NUs0wLUWhQDVhTkpd20Ue) | 2:51 | 2023-05-17 | 2024-01-27 |

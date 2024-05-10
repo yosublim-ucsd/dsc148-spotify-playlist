@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Esteman. The essential tracks, all in one playlist.",
+  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
   "name": "This Is Esteman",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
+    },
+    {
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 195913,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 221760,
       "name": "Juan Y Paul",
       "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 226586,
       "name": "Milagrosa",
       "url": "https://open.spotify.com/track/7i0IAeWI5SLPWtwCHiS9kD"

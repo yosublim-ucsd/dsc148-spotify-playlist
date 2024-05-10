@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 460657,
+  "num_followers": 460664,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Boxer",
         "url": "https://open.spotify.com/album/7dpExLHVdNg2IasaFb9SxI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 151817,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/6HopKFVZmGU3YQF5Ac3EXa"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
         "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 216773,
       "name": "Remembering Mountains",
       "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 168968,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 194251,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 168968,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
     },
     {
       "added_at": "2024-04-19 04:00:00",

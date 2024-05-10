@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-83 songs - 4 hr 25 min
+84 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
 | [Haaniya](https://open.spotify.com/track/01rsvFmtiW3Cr5oMW1RA9m) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Haaniya](https://open.spotify.com/album/6EMMY5bwElZSSlwzw8XNA7) | 3:08 | 2023-03-18 | 2023-04-20 |
+| [Horse Stick](https://open.spotify.com/track/662pPKD0ssAigYYixY7Isn) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Horse Stick](https://open.spotify.com/album/4JzQWrQ5woDnrNGyCJ6wxy) | 2:56 | 2024-05-09 |  |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2023-03-18 |  |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 |  |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |
@@ -51,7 +52,7 @@
 | [License](https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [License](https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q) | 2:34 | 2023-09-15 |  |
 | [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 |  |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-30 |  |
-| [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 |  |
+| [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 |  |
 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 | 2023-03-18 |  |
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-10-03 | 2024-04-19 |

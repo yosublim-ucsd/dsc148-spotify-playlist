@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-116 songs - 5 hr 56 min
+117 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Banana Boat Song \(Dance Version\)](https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 3:07 | 2022-07-15 | 2024-04-22 |
 | [Barbie World](https://open.spotify.com/track/72bMredJdYI2iFjQUPGNOX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:50 | 2024-01-30 | 2024-05-06 |
 | [Beggin'](https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beggin'](https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq) | 3:18 | 2022-03-31 | 2022-07-23 |
-| [Best Thing Ever \- Dance Remix](https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Nickelodeon Mix It Up! Vol\. 9: Danceapalooza \(The Remixes\)](https://open.spotify.com/album/20sByOLAT2A2S3VpaWCnyK) | 2:33 | 2024-03-22 |  |
+| [Best Thing Ever \- Dance Remix](https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Nickelodeon Mix It Up! Vol\. 9: Danceapalooza \(The Remixes\)](https://open.spotify.com/album/20sByOLAT2A2S3VpaWCnyK) | 2:33 | 2024-03-22 | 2024-05-10 |
 | [Better Days](https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Better Days](https://open.spotify.com/album/1G5XNPBHbI7gKmN9JzOLB7) | 2:39 | 2022-03-31 | 2022-07-28 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2024-01-30 |  |
 | [Better When I'm Dancin'](https://open.spotify.com/track/0BMyRHOFOvHjAEzeNfQIeN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF) | 2:56 | 2022-10-14 | 2022-11-12 |
@@ -108,6 +108,7 @@
 | [STAY](https://open.spotify.com/track/2IKHl3w9vstJH5bGuFOKnf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [STAY](https://open.spotify.com/album/4beiC4EtRtovImB28vhtYk) | 2:19 | 2022-03-31 | 2022-07-28 |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-13 |  |
 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 | 2023-01-20 |  |
+| [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-05-09 |  |
 | [Supalonely](https://open.spotify.com/track/69OnePtJae8GBBJ884fU86) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Supalonely](https://open.spotify.com/album/0Y1syKjdu4ysX2nGTG7gPw) | 3:41 | 2022-03-31 | 2022-07-05 |
 | [Super Siah Step](https://open.spotify.com/track/79NuWJzzxntPPy06Hs8qlU) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Super Siah Step](https://open.spotify.com/album/1PfQxrHBvPABuDnUXhqS2s) | 2:05 | 2023-06-02 |  |
 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 | 2022-03-31 |  |

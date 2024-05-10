@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-112 songs - 5 hr 35 min
+113 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Farraar](https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD) | [Addy B](https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Farraar](https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc) | 3:30 | 2023-08-30 | 2024-03-02 |
 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 | 2023-10-03 | 2023-12-23 |
 | [Gaadi Desiyan Ki](https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD) | 2:37 | 2023-07-24 | 2024-04-19 |
-| [Gaadi Desiyan Ki](https://open.spotify.com/track/29LASRlIKyyLWdblS6EtHT) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/6AnLuEjSLhEfvvPyz4uspt) | 2:37 | 2024-04-17 |  |
+| [Gaadi Desiyan Ki](https://open.spotify.com/track/29LASRlIKyyLWdblS6EtHT) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/6AnLuEjSLhEfvvPyz4uspt) | 2:37 | 2024-04-17 | 2024-05-10 |
 | [Gaadi Nuye Chalegi](https://open.spotify.com/track/3kSpXJst1L9ahYkLnE15rb) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Gaadi Nuye Chalegi](https://open.spotify.com/album/06vtwe32fMoLMFkyns4UW8) | 2:50 | 2023-07-24 |  |
 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 | 2023-07-31 | 2023-11-10 |
 | [Gunday](https://open.spotify.com/track/0HdMNvCZPuUWgyv3PSES4V) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E), [Rao Inderjeet Singh](https://open.spotify.com/artist/1UUxLQuphE7XL3EOQga1yk), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa) | [Gunday](https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0) | 2:56 | 2023-07-24 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [Haryanvi Swag](https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Haryanvi Swag](https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C) | 2:23 | 2023-07-24 |  |
 | [Hashtag](https://open.spotify.com/track/24zHwk9jgxzOHnOPuYIqAJ) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Hashtag](https://open.spotify.com/album/3bGxx8NysaqVYt3pR6r7de) | 3:09 | 2023-07-24 | 2023-08-01 |
 | [Hathkadi](https://open.spotify.com/track/3iaprUf4dr63Iq31S4XeZ7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Hathkadi](https://open.spotify.com/album/46se898ZDUG4m3aRv001y9) | 2:56 | 2023-07-24 | 2024-01-06 |
+| [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/0M565MVvfhHMAdcAMwyluS) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 | 2024-05-09 |  |
 | [Inaam](https://open.spotify.com/track/51O38IidoQaQ8XwIoJZ4fw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/5xhWijw7nDOj8OodK0fa1e) | 3:04 | 2023-07-24 | 2024-04-19 |
 | [Inaam](https://open.spotify.com/track/6sR651uGpEJxhZqqnLdYRh) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/2XtzyKgKRtm3PcVS01l2zz) | 3:04 | 2024-04-17 |  |
 | [Jaat](https://open.spotify.com/track/7JGrjPpKep3LJdiEHQ4N0K) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Jaat](https://open.spotify.com/album/290kPIm8AJR2pAZXiiH4PZ) | 2:57 | 2023-07-24 | 2024-04-19 |

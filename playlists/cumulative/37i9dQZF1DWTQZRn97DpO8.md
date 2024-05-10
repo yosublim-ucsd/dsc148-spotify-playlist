@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Sonny Rave
 
-157 songs - 7 hr 47 min
+159 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Get out](https://open.spotify.com/track/7DAlqXg9qH3ZPV43aMQIto) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Les Malheurs de Jäde](https://open.spotify.com/album/2pZqWuWxGsGTSj6s7C3OfQ) | 2:41 | 2024-03-14 | 2024-03-22 |
 | [GIGI](https://open.spotify.com/track/4Rkru3YgYVOCufUoq1uY8H) | [Swing](https://open.spotify.com/artist/0OQMxt6l70FM2YlLwYDiEn) | [AU REVOIR SIMEON](https://open.spotify.com/album/1HhZFt1UjtsZaQZCHwoMaR) | 0:56 | 2024-01-18 | 2024-02-23 |
 | [GOLDEN WAY!](https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [GOLDEN WAY!](https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE) | 3:22 | 2023-10-19 | 2023-12-22 |
+| [Help myself](https://open.spotify.com/track/1mVfoELax0YsPAEvFGAuMF) | [Claire.](https://open.spotify.com/artist/2Oarfy9KYx29vnn9j8EjX7) | [Help myself](https://open.spotify.com/album/0t5oNI4iJZ34Y0EpYQsvCg) | 3:14 | 2024-05-09 |  |
 | [Henny n Shit](https://open.spotify.com/track/4nZeTqowlfbouZYxPvLpDZ) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [Henny n Shit](https://open.spotify.com/album/3d53OX8mso58CDSjaWHMv3) | 2:42 | 2024-02-01 | 2024-03-01 |
 | [HIVER SOLEIL](https://open.spotify.com/track/4NsoWOlbqgiV6D32n4vzvR) | [Willem](https://open.spotify.com/artist/5C2rvqVmZ93SCkWpSKBVnb) | [HIVER SOLEIL](https://open.spotify.com/album/3fU28aRCX93j1EWFU7qPwq) | 3:08 | 2024-04-25 |  |
 | [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 | 2024-01-05 |
@@ -75,6 +76,7 @@
 | [Karma](https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Genesis](https://open.spotify.com/album/0yC6cKV2omFGF9jXCWGIBc) | 2:35 | 2023-09-28 | 2023-10-27 |
 | [L'amour dure 6 ans](https://open.spotify.com/track/704opmBSscvN3R4nstMKCE) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [L'amour dure 6 ans](https://open.spotify.com/album/69XMsbl3gXXkTWkxdUv7Ys) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 | 2023-09-28 | 2024-01-12 |
+| [La Fille Du Motel](https://open.spotify.com/track/502Ix88YejAD4djIdUDZQU) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [La Fille Du Motel](https://open.spotify.com/album/2y1yonPlmUChg7vfxyEi3R) | 3:19 | 2024-05-09 |  |
 | [La mienne](https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 3:32 | 2023-09-28 | 2024-03-08 |
 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 | 2023-09-28 | 2024-04-12 |
 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 | 2024-02-08 |  |
@@ -108,7 +110,7 @@
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-09-28 | 2023-12-01 |
 | [Pansement](https://open.spotify.com/track/1eNFHLLofgZl9Lb3JA7jik) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [East\-Blue \(Gold edition\)](https://open.spotify.com/album/7CCmqM36JQ4WS33ZDfm3zk) | 2:33 | 2024-01-18 | 2024-02-02 |
 | [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 | 2024-02-29 |  |
-| [Pense à moi](https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Pense à moi](https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE) | 3:24 | 2024-02-15 |  |
+| [Pense à moi](https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Pense à moi](https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE) | 3:24 | 2024-02-15 | 2024-05-10 |
 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 | 2023-11-09 |  |
 | [Photoshop](https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/3ByHDNYa3Wp3ecUHYOd4ve) | 2:24 | 2024-01-25 | 2024-04-19 |
 | [Plus la peine](https://open.spotify.com/track/11okUANe3u6NzVAL2G33So) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus la peine](https://open.spotify.com/album/7exJUBfgVVkKFfrnn5eqMZ) | 3:08 | 2023-12-08 | 2024-01-26 |
@@ -125,7 +127,7 @@
 | [Red Flags](https://open.spotify.com/track/5gWcJXR5SwxC3y8HLykCOG) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Red Flags](https://open.spotify.com/album/4RoSb6Zn64vvlAQQHOoiBB) | 3:23 | 2024-02-29 | 2024-04-05 |
 | [Reste en Vie](https://open.spotify.com/track/1qkwBaQUYh3HeUlUlGu8YM) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:18 | 2023-09-28 | 2024-04-26 |
 | [Restons tranquilles](https://open.spotify.com/track/6LW8XqunD8dtcCT1UpBmRG) | [Yakuzian](https://open.spotify.com/artist/5lpfeX5C3gGvxa5dja8JhM) | [Restons tranquilles](https://open.spotify.com/album/0Q3snq5JRm4KHx7uXrO2n4) | 2:55 | 2023-09-28 | 2023-10-20 |
-| [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 | 2023-09-28 |  |
+| [Room 69 \- Acoustic version](https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Room 69 \(Acoustic version\)](https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem) | 2:50 | 2023-09-28 | 2024-05-10 |
 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 | 2023-12-08 |
 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 | 2024-02-22 | 2024-04-05 |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 | 2023-11-17 |

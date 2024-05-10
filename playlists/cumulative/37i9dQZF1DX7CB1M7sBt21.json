@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+    },
+    {
+      "album": {
         "name": "Forget To Miss You",
         "url": "https://open.spotify.com/album/4HycDHpwjv22BJqpxHKxlf"
       },
@@ -2150,6 +2168,32 @@
       "duration_ms": 138880,
       "name": "Hello (Call All My Friends)",
       "url": "https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/7GqAhLCl53VXlxrOgBK03j"
+      },
+      "artists": [
+        {
+          "name": "Westerlund",
+          "url": "https://open.spotify.com/artist/2E2I4XqkMhd2eoJv7ExGlO"
+        },
+        {
+          "name": "Groove Crackers",
+          "url": "https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8"
+        },
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144012,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3qz7yN7gff4ehIkAOet7wB"
     },
     {
       "album": {
@@ -4446,7 +4490,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 153600,
       "name": "Riff",
       "url": "https://open.spotify.com/track/7xG6aGSYbas8SWYNtAJrPM"
@@ -4914,7 +4958,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"

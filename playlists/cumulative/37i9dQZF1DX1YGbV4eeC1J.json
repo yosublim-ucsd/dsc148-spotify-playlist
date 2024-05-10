@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Barnaba & Yammi",
+  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Diamond Platnumz & Zuchu",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Je T Aime",
+        "url": "https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256644,
+      "name": "Je T Aime",
+      "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
+    },
+    {
+      "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
       },
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 242694,
       "name": "Miss U Mama",
       "url": "https://open.spotify.com/track/6whQSAHFD8uejAoSKXJC9e"
@@ -2857,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Raha (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Raha (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL"
+    },
+    {
+      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I"
       },
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 203636,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-04",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Rvssian, Rauw Alejandro & Ayra Starr",
   "name": "\u00c9xitos Uruguay",
   "tracks": [
     {
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "La Corriente",
+        "url": "https://open.spotify.com/album/2XyaFNG4Uc8lB9MdhHsvSr"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/1btMvaVE0HLbzuyvNaPgkh"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1669,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "album": {
         "name": "pa",
         "url": "https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op"
       },
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

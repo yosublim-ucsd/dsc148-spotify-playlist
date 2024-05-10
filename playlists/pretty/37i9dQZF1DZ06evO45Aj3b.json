@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dominic Fike. Los temas esenciales, todos en una lista.",
-  "num_followers": 75387,
+  "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
+  "num_followers": 75453,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADDbytvoiZH4ov3ub8fumvU",
+  "snapshot_id": "ZjrAgAAAAABh5qWYMAN66pIpT8SJuP4F",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 107280,
-      "name": "Westcoast Collective",
-      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+      "duration_ms": 161608,
+      "name": "hi grace",
+      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 107280,
+      "name": "Westcoast Collective",
+      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 121630,
       "name": "1.23.23",
       "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 133560,
-      "name": "She Wants My Money",
-      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 133560,
+      "name": "She Wants My Money",
+      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 161608,
-      "name": "hi grace",
-      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
+      "duration_ms": 116333,
+      "name": "bowie box",
+      "url": "https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"
     },
     {
       "added_at": null,
@@ -340,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 116333,
-      "name": "bowie box",
-      "url": "https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"
+      "duration_ms": 164282,
+      "name": "THICKRICK",
+      "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"
     },
     {
       "added_at": null,
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 164282,
-      "name": "THICKRICK",
-      "url": "https://open.spotify.com/track/4mY6K0hRQlpOs3hyTNOcKe"
+      "duration_ms": 65091,
+      "name": "coast2coast",
+      "url": "https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA"
     },
     {
       "added_at": null,
@@ -467,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 65091,
-      "name": "coast2coast",
-      "url": "https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA"
+      "duration_ms": 198425,
+      "name": "Die For You (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
     },
     {
       "added_at": null,
@@ -511,26 +531,6 @@
       "duration_ms": 108533,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Die For You (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
     },
     {
       "added_at": null,

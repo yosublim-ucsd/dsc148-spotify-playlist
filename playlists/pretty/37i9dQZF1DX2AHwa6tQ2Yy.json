@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 47530,
+  "num_followers": 47546,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 231448,
+      "duration_ms": 255800,
       "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 255800,
+      "duration_ms": 231448,
       "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "SEE YOU TRY...",
+        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
+      },
+      "artists": [
+        {
+          "name": "Yawdoesitall",
+          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
+        },
+        {
+          "name": "Yasmina Sadiki",
+          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
+        },
+        {
+          "name": "TAWANDA",
+          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
+        },
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "SEE YOU TRY...",
+      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1131,34 +1159,6 @@
       "duration_ms": 276229,
       "name": "Hard To Get High",
       "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "SEE YOU TRY...",
-        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
-      },
-      "artists": [
-        {
-          "name": "Yawdoesitall",
-          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
-        },
-        {
-          "name": "Yasmina Sadiki",
-          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
-        },
-        {
-          "name": "TAWANDA",
-          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
-        },
-        {
-          "name": "DEVAURA",
-          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "SEE YOU TRY...",
-      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+        "name": "Evil In Your Eyes",
+        "url": "https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
         }
       ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+      "duration_ms": 144995,
+      "name": "Evil In Your Eyes",
+      "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
     },
     {
       "added_at": "2024-03-14 20:40:35",

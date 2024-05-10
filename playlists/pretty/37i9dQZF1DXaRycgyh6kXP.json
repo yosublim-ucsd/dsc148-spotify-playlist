@@ -1,10 +1,10 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 216751,
+  "num_followers": 216852,
   "original_name": "Electronica Romantica",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZhixwAAAAAAGaVkAhMjZb4keRYSwgbrT",
   "tracks": [
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
-      },
-      "artists": [
-        {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
-        }
-      ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "The Tunnel and the Clearing",
         "url": "https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
+      },
+      "artists": [
+        {
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
+        }
+      ],
+      "duration_ms": 229158,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Sketch for Winter X: Immortal Word",
         "url": "https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv"
       },
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Another Girl",
         "url": "https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 285036,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1535,6 +1535,26 @@
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 130440,
       "name": "Tommib Help Buss",
       "url": "https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "The Way You Talk",
-      "url": "https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7"
     },
     {
       "added_at": "2024-04-12 04:00:00",

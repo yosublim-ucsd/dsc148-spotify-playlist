@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[](https://open.spotify.com/user/null) - 14,226 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,231 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 69 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 |
 | 70 | [Pressure \(feat\. Thama Tee\)](https://open.spotify.com/track/5Z4GEEF7ePjdUzPY6CKOoI) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Pressure \(feat\. Thama Tee\)](https://open.spotify.com/album/49M4TyiZuRTkryPF2T9BMA) | 3:57 |
 | 71 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
-| 72 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
+| 72 | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 |
 | 73 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
-| 74 | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 |
+| 74 | [People Pleaser](https://open.spotify.com/track/4sS3l0GDiJ3ZwLIIiuWMFi) | [G\-West](https://open.spotify.com/artist/39utnMndFEvTgT6ldinEaJ), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [People Pleaser](https://open.spotify.com/album/1WhgmvuCmr1J2o8zPqNFGt) | 3:17 |
 | 75 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
 | 76 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 |
 | 77 | [Oh My Days](https://open.spotify.com/track/6pFItbFfi3fNagHGCeXCUF) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 80 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 
-Snapshot ID: `ZjQbCwAAAAC7wtJ5gMdXr1xY8ePFf+/0`
+Snapshot ID: `Zj1jvAAAAACkq5MPFfMOVupI36Be718M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,610 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,708 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 52 | [Rabb](https://open.spotify.com/track/4ma0IT1ooa3HcH0KU7AF6L) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:24 |
 | 53 | [Still](https://open.spotify.com/track/5WnE7JNO0HYILXMCl0OOO2) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Still](https://open.spotify.com/album/0JZE0Bs194zOX4iwYeiDkX) | 3:36 |
 | 54 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 |
-| 55 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
+| 55 | [Duji Vaar Pyar](https://open.spotify.com/track/1B5D51wDedzm68VnAEcH0a) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Duji Vaar Pyar](https://open.spotify.com/album/4iWkvBwlFEaWE98W6JuNgL) | 3:15 |
 | 56 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 57 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 |
 | 58 | [Raah Warga](https://open.spotify.com/track/16nRLGxHk3OCvDtkBmBi0M) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Raah Warga](https://open.spotify.com/album/2zFYFKuWZU3Ypo5SbXyVo0) | 3:40 |

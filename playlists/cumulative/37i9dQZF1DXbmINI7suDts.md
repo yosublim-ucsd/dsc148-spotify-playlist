@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day
+> Get your spirits up and manage your mood any time of the day\. Cover: MAUIMØON
 
-117 songs - 6 hr 37 min
+118 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Magician](https://open.spotify.com/track/5jNt4Zok4HVAPRtq8eFtRC) | [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Magician](https://open.spotify.com/album/2gmGcuJjhe04ZIF5Xuj8Ul) | 2:41 | 2024-01-19 |  |
 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 | 2023-03-31 | 2024-04-19 |
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-17 |  |
+| [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-09 |  |
 | [Melo](https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 2:54 | 2023-08-25 |  |
 | [Moyo \- Acoustic](https://open.spotify.com/track/6YZf3C5fcEVVzfywVEHhsZ) | [Jack Dope](https://open.spotify.com/artist/28bgZfBMxceqhwKq389vbG), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Moyo \(Acoustic\)](https://open.spotify.com/album/4vUkJcpljy6ZTJjRTwHy5g) | 3:32 | 2023-08-25 |  |
 | [Mpulira](https://open.spotify.com/track/2Stgu3JrecN6iC1qDEvOOk) | [Iryn Namubiru](https://open.spotify.com/artist/3wL9WpeM5kjkIw3CxIRIDf) | [Mpulira](https://open.spotify.com/album/0AdUYa3CWWfdYWSNMrexxl) | 4:18 | 2022-06-06 | 2023-02-11 |
@@ -75,7 +76,7 @@
 | [Muunda](https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Muunda](https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG) | 3:34 | 2022-11-10 |  |
 | [Naawe](https://open.spotify.com/track/55GWIiAMNisTX5YLav9XuR) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Artin](https://open.spotify.com/artist/0tTAQOHjHY6DXPHEuLCvQG) | [Naawe](https://open.spotify.com/album/08B4E8ScG8wygWm4iR5D9J) | 3:12 | 2023-09-07 |  |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-06-06 |  |
-| [Ndi Mukyala](https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:33 | 2022-06-06 |  |
+| [Ndi Mukyala](https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:33 | 2022-06-06 | 2024-05-10 |
 | [Niko Tayari](https://open.spotify.com/track/6aGRoz8dTzxypGDVBaoDYH) | [Daddy Cabu](https://open.spotify.com/artist/10RsOjLENonmgQAiBBbFXe), [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [Niko Tayari](https://open.spotify.com/album/0K34dlSrXSokGh4VG9X2EL) | 3:00 | 2022-06-06 | 2023-01-27 |
 | [Niyo Ndirimbo](https://open.spotify.com/track/0J8exQMukp4lBP2alsaNWy) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64), [Adrien](https://open.spotify.com/artist/3sw22hr0nnSyb51poFeV1t) | [Niyo Ndirimbo](https://open.spotify.com/album/6U4XtK4eFbBDoHXmGYCZ7f) | 4:06 | 2024-01-19 |  |
 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 | 2022-06-06 |  |

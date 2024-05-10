@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:ياسر عبدالوهاب
 
-135 songs - 8 hr 17 min
+136 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-19 | 2023-09-30 |
 | [Met Bab](https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:06 | 2023-05-26 | 2023-12-30 |
 | [Methl Eyounech](https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Methl Eyounech](https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU) | 4:05 | 2023-12-29 |  |
-| [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-25 |  |
+| [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-25 | 2024-05-10 |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-05-06 | 2022-07-20 |
 | [My Angel](https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [My Angel](https://open.spotify.com/album/6vDsUpYNxKGDcMDRUzLZpF) | 3:47 | 2022-07-08 | 2023-04-05 |
 | [Nekser El Khater](https://open.spotify.com/track/2vnApSgg3vhyzjbcxcww2h) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Nekser El Khater](https://open.spotify.com/album/1Hy6wVNw1CHqgvm0BKKfjc) | 3:04 | 2023-04-04 | 2023-12-30 |
@@ -131,6 +131,7 @@
 | [Ya Ghality](https://open.spotify.com/track/59RLZGo87dYKyPOCcAAgSL) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Ya Ghality](https://open.spotify.com/album/2lNTAtqI85Bl1NVhu4RQp9) | 3:20 | 2022-05-06 | 2023-04-27 |
 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 | 2022-07-19 |  |
 | [Yamak Mazaji](https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Yamak Mazaji](https://open.spotify.com/album/5OV4xIUKf1Ms8gAW52YCU4) | 3:13 | 2023-05-26 |  |
+| [Yeraqebni](https://open.spotify.com/track/0g6frByAc4v9DatpduW59v) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Yeraqbni](https://open.spotify.com/album/0FuGAtuv9IjVv1cYEGyDfq) | 4:16 | 2024-05-09 |  |
 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 | 2022-08-26 | 2023-02-09 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-25 |  |
 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 | 2022-05-06 | 2023-04-27 |

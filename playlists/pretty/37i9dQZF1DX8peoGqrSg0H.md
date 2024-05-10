@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
 
-[](https://open.spotify.com/user/null) - 158,288 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,353 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
 | 2 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
-| 3 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
-| 4 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 |
+| 3 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 |
+| 4 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
 | 5 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
 | 6 | [FEAT](https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [FEAT](https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw) | 2:59 |
 | 7 | [อยากชวนเธอมาสนิท \(PASSERBY\)](https://open.spotify.com/track/0Owt9EMT0meybf6Nb5PgLl) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [อยากชวนเธอมาสนิท \(PASSERBY\) \- Single](https://open.spotify.com/album/4NEDDZd9neIQfphG2fxA61) | 3:02 |
 | 8 | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/track/5gfgG5rdsY3Ujs59xGwgo0) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/album/0StrxX14x5iooTqtn8nXOy) | 3:07 |
 | 9 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 |
-| 10 | [Someone Someday \- SPEED UP](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday \(SPEED UP\)](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
+| 10 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
 | 11 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
 | 12 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
 | 13 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 60 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 |
 
-Snapshot ID: `ZjpeDgAAAADbpNV0w2Vb3iLRXSGjToFw`
+Snapshot ID: `ZjyjNAAAAACIdfHKx6Mo1ymXbKwojpPq`

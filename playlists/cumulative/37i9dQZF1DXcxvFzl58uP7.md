@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-976 songs - 2 day 2 hr 41 min
+977 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Call Me Yours](https://open.spotify.com/track/4FD5Jzr5wbs6eDm0uvJvMD) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [I Miss Myself, Sometimes](https://open.spotify.com/album/3aTPJTfGDRLKqoJwCNlMc2) | 2:16 | 2021-10-25 | 2022-07-22 |
 | [call you back](https://open.spotify.com/track/0SYB5z2LTlUyebRnUQadtN) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [call you back](https://open.spotify.com/album/7LgWdRd92BsM5NKdt9o3by) | 2:41 | 2022-04-08 | 2022-04-19 |
 | [Calls](https://open.spotify.com/track/5RzEyrxL09e1D80CXHmFAx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/2LNjaaGyhhMomXZOzqGgTw) | 2:51 | 2021-03-05 | 2022-04-18 |
-| [came to the party for you \(demo\)](https://open.spotify.com/track/1hl7wtlGV8fsRodnIjISRi) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [when the time is right, you’ll find me again](https://open.spotify.com/album/1ZCQUEJrtwp4kJZ2Qcqzh1) | 3:10 | 2024-01-12 |  |
+| [came to the party for you \(demo\)](https://open.spotify.com/track/1hl7wtlGV8fsRodnIjISRi) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [when the time is right, you’ll find me again](https://open.spotify.com/album/1ZCQUEJrtwp4kJZ2Qcqzh1) | 3:10 | 2024-01-12 | 2024-05-10 |
 | [Can Ghosts Be Gay?](https://open.spotify.com/track/5rffwMI9mXlXJimHmIGzYQ) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Can Ghosts Be Gay?](https://open.spotify.com/album/1IEn9lyrg2jFJUUdXUoznG) | 3:21 | 2020-09-25 | 2022-04-21 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/5Ti99QiUdIwe0xG4gS22FL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr) | 4:38 | 2019-07-30\* | 2022-07-29 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-09-14 | 2024-04-19 |
@@ -274,6 +274,7 @@
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2023-01-12 | 2023-08-26 |
 | [Erase](https://open.spotify.com/track/4luBGXcgpFQPPAtcF4zEdv) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Erase](https://open.spotify.com/album/5CQJNJ3aHoWhegy4Xp7LcC) | 3:56 | 2019-07-30\* | 2021-05-26 |
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2019-07-31 | 2021-05-28 |
+| [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-03 |  |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-04-28 | 2022-07-28 |
 | [Everybody's On Their Phone](https://open.spotify.com/track/7d49KErT1Y89f4KkgpLpW8) | [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Everybody's On Their Phone](https://open.spotify.com/album/1WHNJKcw8NKwdjIGRF2VSi) | 2:43 | 2021-01-17 | 2022-04-21 |
 | [Everything You've Always Wanted](https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Everything You've Always Wanted](https://open.spotify.com/album/36ow8IpG5355jkilVe48kD) | 3:10 | 2023-06-09 | 2023-09-21 |

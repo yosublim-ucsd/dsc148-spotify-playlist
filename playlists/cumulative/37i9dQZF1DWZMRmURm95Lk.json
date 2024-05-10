@@ -1641,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "PROTOMARANZA",
+        "url": "https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6"
+      },
+      "artists": [
+        {
+          "name": "Articolo 31",
+          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "CONTRABBANDO (feat. Neffa)",
+      "url": "https://open.spotify.com/track/0QS13NtJOwI4CECSOhy1ZB"
+    },
+    {
+      "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
       },
@@ -3137,6 +3159,32 @@
     },
     {
       "album": {
+        "name": "Hall of fame",
+        "url": "https://open.spotify.com/album/2NmxyPGHNH6cCOaWqItpvO"
+      },
+      "artists": [
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Dj MS",
+          "url": "https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237383,
+      "name": "Hall of fame",
+      "url": "https://open.spotify.com/track/73p4A7HdNMSmQizrmGqxSs"
+    },
+    {
+      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -3785,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "Ko",
+      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
+    },
+    {
+      "album": {
         "name": "Kojima",
         "url": "https://open.spotify.com/album/2YJSVXhcMTd6Ft8Rol8fUH"
       },
@@ -4334,7 +4400,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 150000,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/4mH5rfbzVyo1zjMazlOlCl"
@@ -4934,7 +5000,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 155727,
       "name": "Mai pi\u00f9",
       "url": "https://open.spotify.com/track/7eCTouW8AsJxIhUuia3ASY"
@@ -5018,7 +5084,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 334365,
       "name": "Malpensandoti",
       "url": "https://open.spotify.com/track/2rBHgIDH8ckPk4l9YCHcjI"
@@ -5285,6 +5351,28 @@
     },
     {
       "album": {
+        "name": "MEZZI",
+        "url": "https://open.spotify.com/album/6NULVFxAsYWRwn0YbEimNM"
+      },
+      "artists": [
+        {
+          "name": "Garelli",
+          "url": "https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "MILANO, linea quattro",
+      "url": "https://open.spotify.com/track/3M0zVFuPllXyzBvk1nARj7"
+    },
+    {
+      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/0Jr5DEtwMwoF4UY2PoArzL"
       },
@@ -5322,6 +5410,24 @@
       "duration_ms": 147804,
       "name": "Miscela",
       "url": "https://open.spotify.com/track/2PXCGlSOxOlDlfGe5hL2ER"
+    },
+    {
+      "album": {
+        "name": "MISERABILE",
+        "url": "https://open.spotify.com/album/3pw6wIkDLsG3a9BB0c4Zr1"
+      },
+      "artists": [
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151538,
+      "name": "MISERABILE",
+      "url": "https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw"
     },
     {
       "album": {
@@ -6234,7 +6340,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208666,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU"
@@ -7250,7 +7356,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 227388,
       "name": "Rap in vena",
       "url": "https://open.spotify.com/track/7INUbNSkLTxJiqZ1FhNcxa"
@@ -8554,7 +8660,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 205806,
       "name": "Storia di Antonio",
       "url": "https://open.spotify.com/track/7GjFG5zQXYS1G23C4aS2Ry"
@@ -8836,7 +8942,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 197100,
       "name": "Tergicristalli",
       "url": "https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB"

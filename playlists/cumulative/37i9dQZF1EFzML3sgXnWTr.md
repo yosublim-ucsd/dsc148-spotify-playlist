@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 29 min
+68 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Furore](https://open.spotify.com/track/126uno7VzFHCCL1FQI1vCO) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore \(Official Video \- Sanremo 2023\)](https://open.spotify.com/album/6ppxonXmys4Kfc5t1lmvep) | 3:48 | 2023-12-14 | 2024-02-02 |
 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 | 2022-09-16 |  |
 | [Graffiti \(feat\. Emma\)](https://open.spotify.com/track/7bXzLHaVFzhpbuM4wewmIj) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 3:34 | 2024-05-01 |  |
+| [GUAGLIÒ](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 | 2024-05-09 |  |
 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 | 2022-09-16 |  |
 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 | 2022-09-16 |  |
 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 | 2022-09-16 |  |

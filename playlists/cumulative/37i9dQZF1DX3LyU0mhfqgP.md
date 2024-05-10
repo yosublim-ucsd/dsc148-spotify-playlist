@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Mustii
 
-1,179 songs - 2 day 15 hr 46 min
+1,180 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 | 2024-04-09 |  |
 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 | 2023-05-09 | 2023-06-02 |
 | [Rockwell](https://open.spotify.com/track/2L3id4Vcv8mGUPd0egVNoB) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Rockwell](https://open.spotify.com/album/5yJnb0VwFCsuNoKyn8iN7B) | 2:53 | 2022-02-18 | 2022-07-25 |
+| [Rodeo](https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Rodeo](https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL) | 4:15 | 2024-05-09 |  |
 | [romantyzuję przeszłość](https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję przeszłość](https://open.spotify.com/album/20IlKsdw4YrL4eMXqnZj9W) | 3:08 | 2024-02-13 | 2024-03-13 |
 | [rozbijam się](https://open.spotify.com/track/0fJAw5UfQRauCcyI8jZ4Ue) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [rozbijam się](https://open.spotify.com/album/49GOF2w8VI9BD7BsRtAAM6) | 3:32 | 2024-03-12 | 2024-05-07 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-22 | 2022-12-01 |
@@ -1039,7 +1040,7 @@
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-07-11 | 2023-08-09 |
 | [Time \(Hearts Full of Love\) \(Single Mix\) \- Bonus Track](https://open.spotify.com/track/2BrDS0VPvyECLM10sh2vwl) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Time \(Hearts Full of Love\)](https://open.spotify.com/album/5piZN2APmYn6Ti27VF5l73) | 3:29 | 2022-01-21 | 2022-04-20 |
 | [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-05-16 | 2023-06-02 |
-| [Time Will Tell](https://open.spotify.com/track/1qM63pyuwLKxHaASfEKK2I) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Time Will Tell](https://open.spotify.com/album/1OgA0KrmfCLFhvd4MYdcks) | 3:05 | 2024-03-12 |  |
+| [Time Will Tell](https://open.spotify.com/track/1qM63pyuwLKxHaASfEKK2I) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Time Will Tell](https://open.spotify.com/album/1OgA0KrmfCLFhvd4MYdcks) | 3:05 | 2024-03-12 | 2024-05-10 |
 | [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-13 | 2022-07-28 |
 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 | 2022-05-13 | 2022-12-01 |
 | [Todo Lamento](https://open.spotify.com/track/575TV9YEnYo7bVLa0sveRn) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Tiene Que Ser Para Mí](https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK) | 2:35 | 2023-01-24 | 2024-01-11 |

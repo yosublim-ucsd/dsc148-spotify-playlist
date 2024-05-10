@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Vibes Inc
+> From the trenches\. Through the streets.<br/>Cover: Seyi Vibes and Bloody Civilian
 
-239 songs - 11 hr 0 min
+240 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 |  |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 |  |
 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 | 2024-04-05 |
-| [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 |  |
+| [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 | 2024-05-10 |
 | [Time \- Remix](https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Time \(Remix\)](https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1) | 2:27 | 2023-02-16 | 2023-12-30 |
 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 | 2022-06-29 | 2023-03-25 |
 | [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2023-12-08 |  |
@@ -236,6 +236,7 @@
 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 | 2024-01-26 |  |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 |  |
 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 | 2022-08-25 | 2023-09-29 |
+| [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 | 2024-05-10 |  |
 | [Who dey come \(cruise beat\)](https://open.spotify.com/track/4aoNaVLRCGnKZYQv8EQz3Q) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi), [Ijoba yagi](https://open.spotify.com/artist/78BWqC86D3Q5UWnj3ohCQg) | [Who dey come \(cruise beat\)](https://open.spotify.com/album/6vPtQ8jZtQLWtT3LZqI3kZ) | 1:47 | 2022-06-29 | 2023-04-15 |
 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2023-03-24 | 2023-10-20 |
 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 | 2023-02-03 | 2023-03-29 |

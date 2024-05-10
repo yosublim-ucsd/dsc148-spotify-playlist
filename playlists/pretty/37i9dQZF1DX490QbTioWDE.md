@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,785 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,919 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 46 | [Luna](https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Luna](https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3) | 3:05 |
 | 47 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
 | 48 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
-| 49 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 |
+| 49 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
 | 50 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
-| 51 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
+| 51 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 |
 | 52 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
 | 53 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 |
 | 54 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 |

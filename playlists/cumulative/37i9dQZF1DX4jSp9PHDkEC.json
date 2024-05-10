@@ -4903,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/1BcE9hsek60BJuFzVyz2Ln"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/7zWQ9qz0vAK75QBTGLZ0Wb"
+    },
+    {
+      "album": {
         "name": "Reflection of Youth",
         "url": "https://open.spotify.com/album/2OQsnw29udJZFHyNaHSRDJ"
       },
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
@@ -6594,6 +6612,24 @@
       "duration_ms": 518373,
       "name": "Quick Canal (W/ Laetitia Sadier)",
       "url": "https://open.spotify.com/track/2mJhNvt2dDCfcNn8IZg6sF"
+    },
+    {
+      "album": {
+        "name": "quiet motions",
+        "url": "https://open.spotify.com/album/1KGg761SMmdSo8Iv2lZPxb"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "quiet motions",
+      "url": "https://open.spotify.com/track/1PgfRXFbqNK2S97sRmhn0n"
     },
     {
       "album": {
@@ -9644,7 +9680,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 216038,
       "name": "Yam Yam",
       "url": "https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK"

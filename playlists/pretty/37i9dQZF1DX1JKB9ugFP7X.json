@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23982,
+  "num_followers": 23983,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Remixes II",
         "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 301120,
       "name": "La Casa del Amor Nocturno",
       "url": "https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Club de Fans de John Boy",
-        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 218806,
-      "name": "Club de Fans de John Boy",
-      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Fotonovela",
         "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 272695,
       "name": "ACUARIO",
       "url": "https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Emocionalmente Tuya",
-        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Emocionalmente Tuya",
-      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "la noche de ayer",
         "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Emocionalmente Tuya",
+        "url": "https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Emocionalmente Tuya",
+      "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Borracha en un Ba\u00f1o Ajeno",
-        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
-      },
-      "artists": [
-        {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Borracha en un Ba\u00f1o Ajeno",
-      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 134425,
       "name": "PURA",
       "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Borracha en un Ba\u00f1o Ajeno",
+        "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "duration_ms": 240531,
+      "name": "Borracha en un Ba\u00f1o Ajeno",
+      "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "MUY MUCHO",
-        "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "PARACETAMOL (perd\u00f3n x ser bella)",
-      "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 198149,
       "name": "Qui\u00e9n Me Escucha",
       "url": "https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "MUY MUCHO",
+        "url": "https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "PARACETAMOL (perd\u00f3n x ser bella)",
+      "url": "https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Regresar\u00e1s \u2606",
-        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Regresar\u00e1s \u2606",
-      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Des",
         "url": "https://open.spotify.com/album/0aNPqbzj34bIvcshvWSZLX"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 225550,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/3fD9K7rYQJi0IDozmqpGYp"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Regresar\u00e1s \u2606",
+        "url": "https://open.spotify.com/album/6phR2JzPi92YXV2P5nj54w"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Regresar\u00e1s \u2606",
+      "url": "https://open.spotify.com/track/3ouQiJZ77ps1Vb9H3txIHU"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "El Mundo Ser\u00e1 Nuestro",
         "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 278120,
       "name": "El Mundo Ser\u00e1 Nuestro",
       "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2024-04-26 03:00:00",

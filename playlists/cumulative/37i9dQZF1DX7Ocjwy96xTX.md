@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-283 songs - 16 hr 55 min
+284 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Steal The Air](https://open.spotify.com/track/3uIdz7rkBAvKVQY1WC4R1U) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:34 | 2023-12-06 |  |
 | [Still Dark](https://open.spotify.com/track/6onAMsBb1Peu1Tlyw8Qpjx) | [Pure Hex](https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN) | [Still Dark](https://open.spotify.com/album/6U18oWqglloxQUzhAbj79Y) | 3:19 | 2023-07-13 | 2023-08-26 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2022-10-24 | 2022-10-29 |
+| [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 | 2024-05-09 |  |
 | [STRESS TEST](https://open.spotify.com/track/7FcI2IZQ0iNgFfitw69FQe) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [STRESS TEST](https://open.spotify.com/album/08Fm8W3qXewhwX8H0o68o4) | 2:33 | 2023-09-29 | 2023-12-07 |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-12 | 2023-07-14 |
 | [Sunlife](https://open.spotify.com/track/0O4HZnB8i1dKevyXWboItC) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Nothing](https://open.spotify.com/album/4r2zLy7AW0JfTKiBjWQGMy) | 4:13 | 2023-10-13 |  |

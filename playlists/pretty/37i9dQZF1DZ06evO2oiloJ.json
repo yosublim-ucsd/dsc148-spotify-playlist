@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 194110,
+  "num_followers": 194196,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABCn1V26SJeM7ZLR/j0oZv0",
+  "snapshot_id": "ZjrAgAAAAAD6+WzfYhc1GkdlRcu6f2fP",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,30 @@
       "duration_ms": 169411,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/5eSRsILuZOdEz55igfg9qV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 235014,
+      "name": "Rich Off Pain (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
     },
     {
       "added_at": null,

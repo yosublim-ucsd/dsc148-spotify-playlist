@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 168294,
+  "num_followers": 168320,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAAGkN4U0fZUfSvkpJZZTUyx",
+  "snapshot_id": "ZjrAgAAAAAAeabqb3sZ1xwCd9IrhZPbd",
   "tracks": [
     {
       "added_at": null,
@@ -480,17 +480,17 @@
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 243373,
-      "name": "A Cada Vento - Live",
-      "url": "https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD"
+      "duration_ms": 177560,
+      "name": "Rua Augusta - Live",
+      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
         },
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 312680,
-      "name": "A Cada Vento (feat. Rael) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
+      "duration_ms": 237108,
+      "name": "Seu Jogo",
+      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
     },
     {
       "added_at": null,
@@ -556,17 +556,17 @@
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
           "name": "Criolo",
           "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Rua Augusta - Live",
-      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
+      "duration_ms": 243373,
+      "name": "A Cada Vento - Live",
+      "url": "https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD"
     },
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essa \u00c9 a Nossa M\u00fasica",
-        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
         {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         }
       ],
-      "duration_ms": 237108,
-      "name": "Seu Jogo",
-      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
+      "duration_ms": 312680,
+      "name": "A Cada Vento (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Coisas",
-        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Mil Coisas",
-      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 127053,
       "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
       "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acabou, mas tem...",
-        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "Acabou, mas tem...",
-      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -852,33 +836,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Evandro Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 188666,
-      "name": "S\u00f3 Mais Uma Noite - Live",
-      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
+      "duration_ms": 271840,
+      "name": "Vida Loka I - Live",
+      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
     },
     {
       "added_at": null,
@@ -903,6 +867,26 @@
       "duration_ms": 138448,
       "name": "Sol de Giz de Cera",
       "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
     },
     {
       "added_at": null,
@@ -944,13 +928,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+          "name": "Evandro Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
         }
       ],
-      "duration_ms": 271840,
-      "name": "Vida Loka I - Live",
-      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
+      "duration_ms": 188666,
+      "name": "S\u00f3 Mais Uma Noite - Live",
+      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
     },
     {
       "added_at": null,
@@ -991,6 +975,22 @@
       "duration_ms": 193954,
       "name": "Gueto - Ao Vivo",
       "url": "https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
     },
     {
       "added_at": null,
@@ -1091,26 +1091,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+        "name": "Eu Sou a Mar\u00e9 Viva",
+        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
         },
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+      "duration_ms": 274145,
+      "name": "Manifesto (feat. Lenine & Emicida)",
+      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
     }
   ],
   "unique_name": "This Is Emicida",

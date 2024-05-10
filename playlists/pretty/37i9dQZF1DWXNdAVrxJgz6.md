@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,202 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,314 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 47 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 |
 | 48 | [Después de Ti ¿Quién?](https://open.spotify.com/track/2pwaDBvwFwppCMnnTUbl7A) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 3:54 |
 | 49 | [Nuevo Amor](https://open.spotify.com/track/3Omc1JskWu7w1bJqBcB5dq) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 3:20 |
-| 50 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
+| 50 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 |
 | 51 | [Perdí la Pose](https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 2:37 |
-| 52 | [Pídeme Perdón](https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:27 |
-| 53 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 |
+| 52 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
+| 53 | [Pídeme Perdón](https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:27 |
 | 54 | [El Mes De Enero](https://open.spotify.com/track/4YmlELbX9klHVjD4ZqyUWn) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Dejame Vacio](https://open.spotify.com/album/6SEYiyzGvrtW3QSgzYZcuW) | 3:36 |
 | 55 | [Y Si Te Robo?](https://open.spotify.com/track/7uQDvbL52jBIIID4xtK4fo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 2:48 |
 | 56 | [Un Fin en Culiacán](https://open.spotify.com/track/37vF7elYtlTkViAUGFY078) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 2:34 |

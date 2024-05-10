@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury. ",
+  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury con Arde Bogot\u00e1.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 252412,
       "name": "Bombas en Madrid",
       "url": "https://open.spotify.com/track/1Lc4PJwLkBDTif9VkcuoNt"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 425813,
       "name": "Como los gatos salvajes - En directo",
       "url": "https://open.spotify.com/track/0HbOgq6eJqQFiP0SVokmJH"
@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "De vuelta a casa",
+        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266175,
+      "name": "De vuelta a casa",
+      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
+    },
+    {
+      "album": {
         "name": "Defraudado",
         "url": "https://open.spotify.com/album/3lDm6WNV7sD7dCFiRmhyo5"
       },
@@ -1854,6 +1876,24 @@
       "duration_ms": 284034,
       "name": "Deseando ver la luz",
       "url": "https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ"
+    },
+    {
+      "album": {
+        "name": "Desesperaci\u00f3n",
+        "url": "https://open.spotify.com/album/2NdTFCFZ2k0Fi56mUFHVFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Perea",
+          "url": "https://open.spotify.com/artist/1RDmz2DB87UtfVvkEuQLF9"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243061,
+      "name": "Desesperaci\u00f3n",
+      "url": "https://open.spotify.com/track/3f1Bjc2q2gz88GNcagQwMt"
     },
     {
       "album": {
@@ -3143,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Fotosensible",
+        "url": "https://open.spotify.com/album/3WWU3uQsDXO32uYXsSkVQN"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Fotosensible",
+      "url": "https://open.spotify.com/track/0dNR2ihcMpfZtYCGgYmKUW"
+    },
+    {
+      "album": {
         "name": "Frontera",
         "url": "https://open.spotify.com/album/7dzdulNT3TKEUmkpDZj8vk"
       },
@@ -4182,7 +4240,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 240456,
       "name": "Lavar la Ropa",
       "url": "https://open.spotify.com/track/3IZ9WpjvXdVXyLR6RRHPiB"
@@ -4588,7 +4646,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -4906,6 +4964,24 @@
       "duration_ms": 229772,
       "name": "Mirando Al Precipicio",
       "url": "https://open.spotify.com/track/26mXqEPGzrltvJfBn9vycx"
+    },
+    {
+      "album": {
+        "name": "Mirihi",
+        "url": "https://open.spotify.com/album/00WDW6hxgP05pgLC6OfUjq"
+      },
+      "artists": [
+        {
+          "name": "Issak",
+          "url": "https://open.spotify.com/artist/7nVoXDJbbTOX6Ng6qDoxqZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181320,
+      "name": "Mirihi",
+      "url": "https://open.spotify.com/track/5LZOvmMXll7f24gflG6k2X"
     },
     {
       "album": {
@@ -6029,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "TODO BIEN TODO EL RATO",
+        "url": "https://open.spotify.com/album/1c9QrG2ZEvedt3k9T2FFSe"
+      },
+      "artists": [
+        {
+          "name": "Combo Paradiso",
+          "url": "https://open.spotify.com/artist/3dCv4VhKSBmWrXGmgz67hz"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218352,
+      "name": "QU\u00c9 QUIERES QUE TE DIGA",
+      "url": "https://open.spotify.com/track/76K75iZ9xdyXz91Z2viBrd"
+    },
+    {
+      "album": {
         "name": "Red Onions",
         "url": "https://open.spotify.com/album/0rXexh0GPwNCDFmy3W3J7i"
       },
@@ -6924,7 +7018,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208872,
       "name": "Tiramis\u00fa",
       "url": "https://open.spotify.com/track/62IZgrsHNs2qkyrk1f9Od8"

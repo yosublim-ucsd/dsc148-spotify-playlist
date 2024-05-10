@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[](https://open.spotify.com/user/null) - 415,394 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,486 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

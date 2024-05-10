@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Grafix",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: SHY FX",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Burn For You",
+        "url": "https://open.spotify.com/album/1PG1nONa6BxIrkmcEcemD6"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Burn For You",
+      "url": "https://open.spotify.com/track/19uyrxLPmX9sAnQC3y9EkA"
+    },
+    {
+      "album": {
         "name": "Burning Babylon",
         "url": "https://open.spotify.com/album/5cXqAiqBUuBmBYws3GWkow"
       },
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 204137,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/7cSIPXSNgMTZ8XKD1YHd7c"
@@ -8132,7 +8150,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 178662,
       "name": "Metronome",
       "url": "https://open.spotify.com/track/2TPd61i31Aifaj8P0gRFm7"
@@ -8176,7 +8194,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 173793,
       "name": "Miss A Moment",
       "url": "https://open.spotify.com/track/7p2oHNSy9qMmxlB2vftYYG"
@@ -8793,6 +8811,24 @@
     },
     {
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/4diS3O2zXWbIkVjYrzmOKZ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173697,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1"
+    },
+    {
+      "album": {
         "name": "Ninja Bike",
         "url": "https://open.spotify.com/album/7lozbB05OVPex60QL9lVyr"
       },
@@ -9250,7 +9286,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180689,
       "name": "On The List",
       "url": "https://open.spotify.com/track/6S4JRqrrBl0yMGHjN3DFc6"
@@ -9778,6 +9814,32 @@
       "duration_ms": 388439,
       "name": "Phukalupe",
       "url": "https://open.spotify.com/track/14Qh13evGAvlSoY9JeIgAs"
+    },
+    {
+      "album": {
+        "name": "Pink Champagne",
+        "url": "https://open.spotify.com/album/6DKMeG882ONa1k7JFA2hJA"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172552,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/6JzebihEqB9eq3uMvb9v2F"
     },
     {
       "album": {
@@ -10584,6 +10646,24 @@
       "duration_ms": 318171,
       "name": "Revolution Not Televised",
       "url": "https://open.spotify.com/track/0J1odRZupjNiGiQZyCYCl3"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "album": {
@@ -11875,6 +11955,24 @@
     },
     {
       "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187339,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
+    },
+    {
+      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -12370,6 +12468,28 @@
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"
+    },
+    {
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/4DGgvoufA86oWgDFJdoRM2"
+      },
+      "artists": [
+        {
+          "name": "Ed Solo",
+          "url": "https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa"
+        },
+        {
+          "name": "Durazz",
+          "url": "https://open.spotify.com/artist/0mjPmdFKBSErnCpZVIWL7h"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246896,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/3z8YKOIde4oDsm8KDjUlcd"
     },
     {
       "album": {
@@ -13048,7 +13168,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 147586,
       "name": "Today, Tomorrow and Forever",
       "url": "https://open.spotify.com/track/25tArZza3TeM5GH86ewaHD"

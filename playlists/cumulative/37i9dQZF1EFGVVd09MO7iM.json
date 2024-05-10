@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
@@ -7794,6 +7794,24 @@
       "duration_ms": 287045,
       "name": "Southern Hospitality - Uncensored Version, Directors Cut",
       "url": "https://open.spotify.com/track/3kjVsbQ7uo6FPywh1swcgI"
+    },
+    {
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Spanish Lesson",
+      "url": "https://open.spotify.com/track/4cAuZ9PwjxBwmwuCr6s5wl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 85610,
+  "num_followers": 85672,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-03-20 14:40:22",
       "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Wandering - Remastered",
+      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+    },
+    {
+      "added_at": "2024-03-20 14:40:22",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 398266,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
-    },
-    {
-      "added_at": "2024-03-20 14:40:22",
-      "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "Wandering - Remastered",
-      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
     },
     {
       "added_at": "2024-03-20 14:40:22",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-03-20 14:40:22",
       "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+      "duration_ms": 165933,
+      "name": "How About You? - Remastered 1998",
+      "url": "https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX"
     },
     {
       "added_at": "2024-03-20 14:40:22",
@@ -855,18 +855,34 @@
     {
       "added_at": "2024-03-20 14:40:22",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 165933,
-      "name": "How About You? - Remastered 1998",
-      "url": "https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX"
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+    },
+    {
+      "added_at": "2024-03-20 14:40:22",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2024-03-20 14:40:22",
@@ -887,22 +903,6 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2024-03-20 14:40:22",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2024-03-20 14:40:22",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-20 14:40:22",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 146173,
-      "name": "Between The Devil And The Deep Blue Sea",
-      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
-    },
-    {
-      "added_at": "2024-03-20 14:40:22",
-      "album": {
         "name": "Shirley / Let's Face the Music",
         "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 174600,
       "name": "If I Were a Bell - 2004 Remaster",
       "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
+    },
+    {
+      "added_at": "2024-03-20 14:40:22",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "Between The Devil And The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
     },
     {
       "added_at": "2024-03-20 14:40:22",

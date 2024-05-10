@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52404,
+  "num_followers": 52400,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -251,8 +251,8 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -419,8 +419,8 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
-      },
-      "artists": [
-        {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "More than Close",
         "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 162478,
       "name": "More than Close",
       "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Wave After Wave EP",
         "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
       },
@@ -907,34 +891,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
       },
       "artists": [
         {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,18 +923,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
       },
       "artists": [
         {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
         }
       ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Ones Left Behind",
-        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
-      },
-      "artists": [
-        {
-          "name": "Martin Rapide",
-          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
-        }
-      ],
-      "duration_ms": 148987,
-      "name": "The Ones Left Behind",
-      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "The Ones Left Behind",
+        "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "duration_ms": 148987,
+      "name": "The Ones Left Behind",
+      "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Broadchurch (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 263347,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205000,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Broadchurch (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 263347,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
-      },
-      "artists": [
-        {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
-        }
-      ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",

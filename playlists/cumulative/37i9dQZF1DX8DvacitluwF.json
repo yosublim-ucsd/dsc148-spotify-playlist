@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=1JTMf38_RxahO7HM59iohQ>Qing Madi</a>, <a href=https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR?si=1IheAN6fQLqYLiclUMcpKw>Chlo\u00eb</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=jTSkWGyPQEyp5bSnVk6kDQ>Sio</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "All The Way / Bizarre",
+        "url": "https://open.spotify.com/album/2hhP1KXUIcu5zt6wEDSi9R"
+      },
+      "artists": [
+        {
+          "name": "GiddyGang",
+          "url": "https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q"
+        },
+        {
+          "name": "Vuyo",
+          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
+    },
+    {
+      "album": {
         "name": "ALL4U",
         "url": "https://open.spotify.com/album/7xVPcDT7xrPrPPah89KQW6"
       },
@@ -325,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Sarang / \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/4rwdjhmikuhQ7APQMKrNoe"
+    },
+    {
+      "album": {
         "name": "Back 2 U",
         "url": "https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo"
       },
@@ -344,6 +384,28 @@
       "duration_ms": 310000,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX"
+    },
+    {
+      "album": {
+        "name": "Baki Pekee Yako",
+        "url": "https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        },
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238661,
+      "name": "Baki Pekee Yako",
+      "url": "https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte"
     },
     {
       "album": {
@@ -442,6 +504,24 @@
       "duration_ms": 249917,
       "name": "Blame Yourself",
       "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
+    },
+    {
+      "album": {
+        "name": "Blest",
+        "url": "https://open.spotify.com/album/0Asli178nP9vJqeGXjrFW8"
+      },
+      "artists": [
+        {
+          "name": "Yamiko",
+          "url": "https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "Blest",
+      "url": "https://open.spotify.com/track/6qKllVNzmfdjDVQuzqiC2C"
     },
     {
       "album": {
@@ -590,6 +670,24 @@
       "duration_ms": 162764,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV"
+    },
+    {
+      "album": {
+        "name": "Buy Me Love",
+        "url": "https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H"
+      },
+      "artists": [
+        {
+          "name": "STACY KAMATU",
+          "url": "https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202597,
+      "name": "Buy Me Love",
+      "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
     },
     {
       "album": {
@@ -1974,7 +2072,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213818,
       "name": "ilikeyou",
       "url": "https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq"
@@ -2549,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Maybe It's You",
+        "url": "https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE"
+    },
+    {
+      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -2820,6 +2936,24 @@
       "duration_ms": 235555,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb"
+    },
+    {
+      "album": {
+        "name": "Mellow Dramatic",
+        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234582,
+      "name": "New Lamp",
+      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
     },
     {
       "album": {
@@ -3176,6 +3310,28 @@
       "duration_ms": 216000,
       "name": "Pillow Talk",
       "url": "https://open.spotify.com/track/1Necud0IeseT20zQBUg5l8"
+    },
+    {
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209518,
+      "name": "Please Don't Fall In Love With Me - Live",
+      "url": "https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m"
     },
     {
       "album": {
@@ -4120,7 +4276,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 215510,
       "name": "Umhlaba",
       "url": "https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG"
@@ -4446,7 +4602,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
@@ -4632,7 +4788,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176692,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"

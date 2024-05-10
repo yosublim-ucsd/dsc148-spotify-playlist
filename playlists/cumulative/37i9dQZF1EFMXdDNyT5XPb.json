@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Then There Was You (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Then There Was You - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
+    },
+    {
+      "album": {
         "name": "You Got It All",
         "url": "https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q"
       },

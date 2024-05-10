@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 49209,
+  "num_followers": 49302,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADBqOWsTyq7U8zLlGktTek6",
+  "snapshot_id": "ZjrAgAAAAADKQYCuTb5Rf59ETNzREsJU",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -783,6 +763,34 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
     },
     {
       "added_at": null,
@@ -835,34 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 222858,
       "name": "exalta",
       "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
       "duration_ms": 192004,
       "name": "REAL NIGGA",
       "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".38",
-        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
     },
     {
       "added_at": null,
@@ -983,6 +959,26 @@
       "duration_ms": 225877,
       "name": "O Que Quiser Fazer",
       "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 251668,
+      "name": "Julius",
+      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
     },
     {
       "added_at": null,
@@ -1047,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 251668,
-      "name": "Julius",
-      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -1095,6 +1071,30 @@
     {
       "added_at": null,
       "album": {
+        "name": ".38",
+        "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -1115,6 +1115,30 @@
       "duration_ms": 208817,
       "name": "Mun R\u00e1 - Sabotage 50",
       "url": "https://open.spotify.com/track/2dmusPFbSC9BF1tRaj0uBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 232096,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
     },
     {
       "added_at": null,
@@ -1163,30 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 232096,
-      "name": "Gigantes",
-      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -1219,6 +1219,34 @@
       "duration_ms": 281684,
       "name": "Canto das Baixas",
       "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favela Vive 2",
+        "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
+      },
+      "artists": [
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 422857,
+      "name": "Favela Vive 2",
+      "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
     },
     {
       "added_at": null,
@@ -1271,34 +1299,6 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Favela Vive 2",
-        "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
-      },
-      "artists": [
-        {
-          "name": "ADL",
-          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 422857,
-      "name": "Favela Vive 2",
-      "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
     },
     {
       "added_at": null,

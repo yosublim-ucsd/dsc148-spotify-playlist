@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 61712,
+  "num_followers": 61741,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Stand on the Word",
-        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
-      },
-      "artists": [
-        {
-          "name": "The Joubert Singers",
-          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Stand on the Word - Studio Version",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 508120,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Stand on the Word - Studio Version",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Never Gonna Let You Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 204653,
       "name": "Turn the Beat Around - 7\" Single Edit",
       "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2024-02-12 15:00:21",

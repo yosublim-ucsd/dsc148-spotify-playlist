@@ -4,7 +4,7 @@
 
 > A Spotify program to promote exciting artists! RADAR BNLX: <a href="spotify:artist:7Hr9muVs27WNIcEqGVQGcm">Siggy & D1ns</a> \(cover\), The Indien, Berre en Roxy Dekker
 
-175 songs - 9 hr 12 min
+177 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2024-01-19 |
 | [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 | 2022-01-24 | 2022-08-26 |
 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-09-14 |  |
+| [Droom Sinds Klein](https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 3:39 | 2024-05-09 |  |
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-08-26 |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 | 2022-03-19 |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-25 | 2022-06-17 |
@@ -110,6 +111,7 @@
 | [Niemandsland](https://open.spotify.com/track/6HhIYDdrEDrop9DysAOdma) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Niemandsland](https://open.spotify.com/album/2MEH4QZXoKYJIKMHv1c4Xi) | 3:02 | 2021-12-10 | 2022-03-12 |
 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 | 2023-09-14 |  |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-07-20 | 2024-01-19 |
+| [Nikes & Kipsta](https://open.spotify.com/track/5I5KzGtwT8uW7QJwdaZi8C) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 2:30 | 2024-05-09 |  |
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-01-24 | 2022-06-17 |
 | [Nothin’ to worry](https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Nothin’ to worry](https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv) | 2:42 | 2022-08-25 | 2023-05-10 |
 | [Numbers Up](https://open.spotify.com/track/2rPcQeiLE5nYhuSFTUAdK0) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/3g6EiOXZ7PNeV3gpuuMjuh) | 3:25 | 2022-07-12 | 2022-10-28 |

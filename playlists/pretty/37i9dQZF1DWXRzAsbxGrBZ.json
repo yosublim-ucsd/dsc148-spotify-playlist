@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 53474,
+  "num_followers": 53595,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
+        "name": "Imizi YoBaba",
+        "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
+      },
+      "artists": [
+        {
+          "name": "Soulfreakah",
+          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 388173,
+      "name": "Imizi YoBaba",
+      "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
         "name": "My Heartbeat For You",
         "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 353701,
       "name": "You've Been Missing Me",
       "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
-        "name": "Imizi YoBaba",
-        "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
-      },
-      "artists": [
-        {
-          "name": "Soulfreakah",
-          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 388173,
-      "name": "Imizi YoBaba",
-      "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
     },
     {
       "added_at": "2024-05-03 07:21:21",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        }
+      ],
+      "duration_ms": 373448,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
-      },
-      "artists": [
-        {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        }
-      ],
-      "duration_ms": 373448,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
     },
     {
       "added_at": "2024-05-03 07:21:21",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
-      },
-      "artists": [
-        {
-          "name": "The Groove Experience",
-          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
-        },
-        {
-          "name": "Aiyon",
-          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
-        }
-      ],
-      "duration_ms": 417600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
         "name": "Usangikhumbula (Fka Mash Glitch Dub)",
         "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 359750,
       "name": "Usangikhumbula - Fka Mash Glitch Dub",
       "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
+      },
+      "artists": [
+        {
+          "name": "The Groove Experience",
+          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
+        },
+        {
+          "name": "Aiyon",
+          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
+        }
+      ],
+      "duration_ms": 417600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
     },
     {
       "added_at": "2024-05-03 07:21:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
-        "name": "Those Times",
-        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
-      },
-      "artists": [
-        {
-          "name": "C-Moody",
-          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
-        }
-      ],
-      "duration_ms": 465288,
-      "name": "Those Times",
-      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
+      },
+      "artists": [
+        {
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+        }
+      ],
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     },
     {
       "added_at": "2024-05-03 07:21:21",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
-        "name": "Awesome God",
-        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "Bee bar",
-          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 198000,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
     },
     {
       "added_at": "2024-05-03 07:21:21",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-03 07:21:21",
       "album": {
-        "name": "Nkaoza EP",
-        "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
-      },
-      "artists": [
-        {
-          "name": "El Payo",
-          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
-        }
-      ],
-      "duration_ms": 369045,
-      "name": "Dawnlands",
-      "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
-    },
-    {
-      "added_at": "2024-05-03 07:21:21",
-      "album": {
         "name": "Lomthwalo",
         "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
       },
@@ -1003,6 +987,26 @@
       "duration_ms": 366206,
       "name": "Lo'Mthwalo - Original Mix",
       "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
+    },
+    {
+      "added_at": "2024-05-03 07:21:21",
+      "album": {
+        "name": "Dlali Number",
+        "url": "https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR"
+      },
+      "artists": [
+        {
+          "name": "BusyExplore",
+          "url": "https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99"
+        },
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 281606,
+      "name": "Dlali Namba - Original Mix",
+      "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
     }
   ],
   "unique_name": "Deep House Session",

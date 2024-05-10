@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w\">Gerhard Steyn</a> & <a href=\"https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6-ff9tIShiv7deQTozkSg\">Liezel Pieters</a>  ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=HCVYTrC6SRi08zH0Co-EpA\">Appel</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Elke Liewe Ding",
+        "url": "https://open.spotify.com/album/7qU2Oc3eVrLclwU0rAgye4"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223264,
+      "name": "Elke Liewe Ding",
+      "url": "https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z"
+    },
+    {
+      "album": {
         "name": "Elke Troep",
         "url": "https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 175434,
       "name": "Frikkie vir 'n Rukkie",
       "url": "https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy"
@@ -1377,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
+    {
+      "album": {
         "name": "Helemal",
         "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
       },
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 210319,
       "name": "Hey Sonneblom",
       "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"

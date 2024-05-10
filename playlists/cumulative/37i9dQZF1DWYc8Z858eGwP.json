@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Everything's Blurred But You",
+        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
+    },
+    {
+      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy"
       },

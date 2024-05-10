@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,778 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,815 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 79 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 |
 | 80 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
 | 81 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
-| 82 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 |
-| 83 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 |
+| 82 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 |
+| 83 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 |
 | 84 | [Disco Trip](https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Disco Trip EP](https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY) | 3:35 |
-| 85 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
-| 86 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
+| 85 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
+| 86 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
 | 87 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
 | 88 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
-| 89 | [Step Forward](https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Step Forward EP](https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I) | 5:35 |
-| 90 | [Picante](https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1) | [Manda Moor](https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP) | [Picante EP](https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE) | 5:44 |
+| 89 | [Picante](https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1) | [Manda Moor](https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP) | [Picante EP](https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE) | 5:44 |
+| 90 | [Step Forward](https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Step Forward EP](https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I) | 5:35 |
 | 91 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 92 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 93 | [What We Got](https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [What We Got](https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy) | 5:20 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 95 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 |
 | 96 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 97 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 |
-| 98 | [Hand In Hand \- Jonathan Kaspar Remix](https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Hand In Hand \(Jonathan Kaspar Remix\)](https://open.spotify.com/album/45kxDHNQkSL6mVlac1OAd6) | 7:16 |
-| 99 | [without you](https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [without you](https://open.spotify.com/album/05maWYabu665iJoxUOxDHB) | 5:36 |
+| 98 | [without you](https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [without you](https://open.spotify.com/album/05maWYabu665iJoxUOxDHB) | 5:36 |
+| 99 | [Hand In Hand \- Jonathan Kaspar Remix](https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Hand In Hand \(Jonathan Kaspar Remix\)](https://open.spotify.com/album/45kxDHNQkSL6mVlac1OAd6) | 7:16 |
 | 100 | [Noreaga](https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Noreaga](https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1) | 8:07 |
 
 Snapshot ID: `ZjRhQAAAAADQKmXH9OHtbdzmJR8ZTu1x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,625 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,675 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 37 | [The Next Movement](https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Things Fall Apart](https://open.spotify.com/album/5Kv0SrABtsIyzCniJvR5ih) | 4:10 |
 | 38 | [Wipeout \(Re\-Recorded Version\)](https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 4:01 |
 | 39 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
-| 40 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |
+| 40 | [Rapper's Delight](https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [Rhino Hi\-Five: The Sugarhill Gang](https://open.spotify.com/album/5ccON60mNYkYjzOfu3XBoT) | 7:07 |
 
 Snapshot ID: `ZcuWggAAAAAi2u0oGG+W87zJ1fRZ3spN`

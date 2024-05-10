@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Amerado
 
-359 songs - 18 hr 50 min
+360 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Summer ABA](https://open.spotify.com/track/6g91DkaLUfwlJd8bvBMOzI) | [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Summer ABA](https://open.spotify.com/album/5EzDnJUDyoTXOiGHyVQNjM) | 2:36 | 2024-05-03 |  |
 | [Super Super](https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Super Super](https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT) | 2:20 | 2023-05-12 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-11-04 | 2023-02-24 |
+| [Take Away](https://open.spotify.com/track/4u06gL0vNj2Q4UF1cT19GV) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 2:53 | 2024-05-10 |  |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-11-04 | 2024-03-15 |
 | [Taxi Man](https://open.spotify.com/track/1mTqMAquA9C5GmhuxL9LE9) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [DJ Lara Fraser](https://open.spotify.com/artist/15m07VNwsg2P2RqwcvEZc4) | [Taxi Man](https://open.spotify.com/album/5c5ygfhZh0L7EEQeEgB7ml) | 3:07 | 2023-08-31 | 2023-09-15 |
 | [Temptation](https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:15 | 2023-08-10 | 2023-09-09 |

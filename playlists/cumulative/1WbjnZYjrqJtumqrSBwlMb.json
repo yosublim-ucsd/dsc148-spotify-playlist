@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0SVNUvUTd8ab9VmvguVIQf"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148991,
+      "name": "Be Your Drug",
+      "url": "https://open.spotify.com/track/73KET3327jJ8M42hVqRIEw"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -4775,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "Apollonia",
+        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158314,
+      "name": "Foreign Affair",
+      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -7334,6 +7370,24 @@
       "duration_ms": 142645,
       "name": "islands",
       "url": "https://open.spotify.com/track/79ZREdwPWfeweZ84gUtvjg"
+    },
+    {
+      "album": {
+        "name": "The Night in Question: French Exit Outtakes",
+        "url": "https://open.spotify.com/album/2DftBEanZT5Kk2t1vtYKFN"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "It Almost Worked",
+      "url": "https://open.spotify.com/track/0Cs2n2GojQtYMVpZh7UCd7"
     },
     {
       "album": {
@@ -10816,6 +10870,24 @@
       "duration_ms": 181812,
       "name": "Please Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/6Oy0oLJUbZC7FTay0OLyGn"
+    },
+    {
+      "album": {
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "album": {
@@ -14503,6 +14575,28 @@
     },
     {
       "album": {
+        "name": "The End Of Comedy",
+        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Sheer Agony",
+          "url": "https://open.spotify.com/artist/7rkVJB7ZekCLtOZ2PWD2mM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "The Real World",
+      "url": "https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Start Here.",
         "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
@@ -15791,6 +15885,24 @@
     },
     {
       "album": {
+        "name": "Bad Bonez",
+        "url": "https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln"
+      },
+      "artists": [
+        {
+          "name": "Michael Seyer",
+          "url": "https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200899,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/12bdwFDnyVWjk77wSQVoDK"
+    },
+    {
+      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
       },
@@ -16384,6 +16496,24 @@
       "duration_ms": 336826,
       "name": "Who The Fuck Are Arctic Monkeys?",
       "url": "https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt"
+    },
+    {
+      "album": {
+        "name": "Why Did I Laugh Anyway",
+        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189311,
+      "name": "Why Did I Laugh Anyway",
+      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: Mr Drew
 
-185 songs - 12 hr 53 min
+186 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 |  |
 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 | 2024-04-03 | 2024-05-03 |
 | [Jakpa](https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Jakpa](https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU) | 3:05 | 2024-03-04 |  |
-| [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-03-04 |  |
+| [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-03-04 | 2024-05-10 |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2021-11-11 | 2024-03-05 |
 | [Konkontiba \(feat\. Batman\)](https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ) | [Obour](https://open.spotify.com/artist/3gPfj7Ur5rEUNRNd8kPjRv), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:41 | 2020-02-20 | 2022-03-16 |
 | [Kotosa](https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G) | [Wutah](https://open.spotify.com/artist/15YvgMGSsybKVkZIIqOheJ) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:04 | 2020-02-20 | 2022-07-25 |
@@ -166,6 +166,7 @@
 | [Sudwe Remix](https://open.spotify.com/track/5WruQLyuTbbGbu5VXZVT5W) | [KK Fosu](https://open.spotify.com/artist/7pPwgEQEB4AJoAHxtZdhUc) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 4:32 | 2020-02-20 | 2022-10-16 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-11-17 |
 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 | 2021-11-25 | 2024-03-05 |
+| [Take Away](https://open.spotify.com/track/4u06gL0vNj2Q4UF1cT19GV) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 2:53 | 2024-05-10 |  |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-05-19 | 2024-04-04 |
 | [Tebidi \(feat\. Michael Dwamena\)](https://open.spotify.com/track/3aDUSS1u60v9OIwtQQw3p9) | [Kool Joe](https://open.spotify.com/artist/5M9sGpyOMhWysL6CKLbUKw), [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:56 | 2020-02-20 | 2022-07-29 |
 | [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 | 2020-02-20 | 2022-07-29 |

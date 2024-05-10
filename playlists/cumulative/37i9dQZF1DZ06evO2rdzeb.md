@@ -2,7 +2,7 @@
 
 ### [This Is Adrianne Lenker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rdzeb)
 
-> This Is Adrianne Lenker\. Los temas esenciales, todos en una lista.
+> This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
 56 songs - 3 hr 34 min
 

@@ -2,9 +2,9 @@
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is: Tassia Reis\. Alle wichtigen Tracks in einer Playlist.
+> This is Tassia Reis\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 6 min
+64 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,10 +31,11 @@
 | [Flor Laranja](https://open.spotify.com/track/6UHq4ElwVLCiLomYupUmt9) | [A.X.L.](https://open.spotify.com/artist/0do07emvR7qjROBp1jl7Yt), [Skeeter](https://open.spotify.com/artist/7g7jKmP3nb2Ys5jdoZpdsw), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Quando É Preciso Voltar](https://open.spotify.com/album/2A0EOT2JGSudDtoqE6hFXJ) | 3:55 | 2023-11-10 | 2023-12-14 |
 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 | 2023-09-18 |  |
 | [Good Trip](https://open.spotify.com/track/34tLeAhdqvCTvkZEFwrDzO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 4:00 | 2023-09-18 |  |
+| [Imensa Luz](https://open.spotify.com/track/4mOjdY1yfPaDqyjlmlWXaB) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:58 | 2024-05-10 |  |
 | [Mais que Refrão](https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:45 | 2024-03-16 |  |
 | [Manifesto / Pule, Garota](https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk), [Djamila Ribeiro](https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF) | [Rimas & Melodias](https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb) | 8:39 | 2023-09-18 |  |
 | [Me Beije](https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 4:00 | 2023-09-18 |  |
-| [Me Diga](https://open.spotify.com/track/7KA1Jat97Xaq1eKJKnIjRq) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:30 | 2023-09-18 |  |
+| [Me Diga](https://open.spotify.com/track/7KA1Jat97Xaq1eKJKnIjRq) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:30 | 2023-09-18 | 2024-05-10 |
 | [Meu Rap Jazz](https://open.spotify.com/track/0co1nPQjEhGFFPcWEwu5H8) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:06 | 2023-09-18 |  |
 | [Mimo](https://open.spotify.com/track/6jin8GA6YdDvpc3hCuc8Bd) | [Mental Abstrato](https://open.spotify.com/artist/01gqM3yHQTNQLid9Q65var), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Mimo](https://open.spotify.com/album/385GKpFMzcxXuNtTzxNKbP) | 3:55 | 2024-02-23 | 2024-03-13 |
 | [No Seu Radinho](https://open.spotify.com/track/0hPIIP3VEEjUeS3ybvhEEQ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 4:11 | 2023-09-18 |  |

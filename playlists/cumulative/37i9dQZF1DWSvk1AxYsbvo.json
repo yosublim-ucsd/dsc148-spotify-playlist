@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Give me a title",
+        "url": "https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163786,
+      "name": "Give me a title",
+      "url": "https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7"
+    },
+    {
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176373,
       "name": "Losing Myself",
       "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"

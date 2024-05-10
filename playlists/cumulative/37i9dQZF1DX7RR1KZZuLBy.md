@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-253 songs - 23 hr 21 min
+254 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-05-12 | 2023-11-03 |
 | [Awuwedwa](https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Sane](https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF) | 4:06 | 2023-05-12 | 2023-11-03 |
 | [Ba Buwa Ka Wena](https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ) | [Lejwe La Motheo Artists Development](https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT) | [Thapelo Yaka](https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg) | 4:48 | 2023-06-23 |  |
+| [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 | 2024-01-26 |  |
 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 | 2023-08-04 |  |
 | [Battlefield \(Worktape Session\)](https://open.spotify.com/track/2dzfEyNZ1dX7EEdxerFY8Y) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Battlefield \(Worktape Session\)](https://open.spotify.com/album/2n10tviArq5SQhZ84NoCw5) | 3:50 | 2023-07-21 | 2023-11-03 |
 | [Bayohlala Bejabula \- Live](https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Devotional Praise \(Live\)](https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM) | 4:31 | 2023-08-25 | 2023-11-03 |
@@ -152,7 +153,7 @@
 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 | 2018-09-23 | 2023-06-02 |
 | [New Heart](https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [New Heart](https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z) | 3:22 | 2024-02-16 | 2024-03-01 |
 | [New Wine \- Live](https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 8:10 | 2019-02-11 | 2023-04-21 |
-| [Ngena Noah](https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Ngena Noah](https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH) | 4:31 | 2023-05-12 |  |
+| [Ngena Noah](https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Ngena Noah](https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH) | 4:31 | 2023-05-12 | 2024-05-10 |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2023-11-10 |
 | [Nguna Phakade \(Live\)](https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 11:08 | 2023-10-27 | 2023-11-10 |
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 | 2023-11-03 |

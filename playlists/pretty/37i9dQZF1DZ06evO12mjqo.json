@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 400685,
+  "num_followers": 400918,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACi22FaROK5nVzPeAaBVUem",
+  "snapshot_id": "ZjrAgAAAAACdWNp+/RrRqJS7MrUiX32F",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay [Feat. Patrick Wilson]",
         "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Hunter\u2019s Moon",
-      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 268746,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Hunter\u2019s Moon",
+      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
     },
     {
       "added_at": null,
@@ -303,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Griftwood",
-      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
@@ -331,6 +299,22 @@
       "duration_ms": 253173,
       "name": "He Is",
       "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Griftwood",
+      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
     },
     {
       "added_at": null,
@@ -360,25 +344,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 238813,
-      "name": "Jigolo Har Megiddo",
-      "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 302040,
-      "name": "Kaisarion",
-      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
+      "duration_ms": 353320,
+      "name": "Monstrance Clock",
+      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
     },
     {
       "added_at": null,
@@ -395,6 +363,22 @@
       "duration_ms": 247373,
       "name": "Mummy Dust",
       "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 302040,
+      "name": "Kaisarion",
+      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
     },
     {
       "added_at": null,
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 353320,
-      "name": "Monstrance Clock",
-      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
+      "duration_ms": 238813,
+      "name": "Jigolo Har Megiddo",
+      "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Miasma",
+      "url": "https://open.spotify.com/track/7Le5UXQgzpsbK8oaEYGG6T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 246040,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/5a6XgGtGrCjE7qJ5qPtFZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 56306,
+      "name": "Sp\u00f6ksonat",
+      "url": "https://open.spotify.com/track/45E7Yc6VNL0Qoo216EoD0R"
     }
   ],
   "unique_name": "This Is Ghost",

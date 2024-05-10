@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,383 likes - 300 songs - 10 hr 44 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,372 likes - 300 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 153 | [Tigersus](https://open.spotify.com/track/0E8Ihr2KYshs5HxOiKm6v2) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Tigersus](https://open.spotify.com/album/0TMR0qfeIrNrTf9oJOzqSC) | 2:09 |
 | 154 | [Lovelights](https://open.spotify.com/track/3JrqM3cP0mrZ0E4ahijZNy) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Lovelights](https://open.spotify.com/album/6Iqu9YahqReKgoltwyXIXZ) | 1:54 |
 | 155 | [Sunset Boulevard](https://open.spotify.com/track/6pGr4aWJMviIWQV2ciKsU4) | [DertyLee](https://open.spotify.com/artist/1kpPJh39t047tIElYPB9ij) | [Sunset Boulevard](https://open.spotify.com/album/3rE0wSOQXaM2eXaA3NFTuF) | 1:55 |
-| 156 | [location](https://open.spotify.com/track/52gdO8KCJo64MBRGYGq02m) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Hobbes Duende](https://open.spotify.com/artist/1tBhFZFVTP0nPbh6jC3vRi), [SVRGE](https://open.spotify.com/artist/3y0pyiFPjDG4MRbPRHZpx5) | [location](https://open.spotify.com/album/37aVKuOcP8HPkazO0Gawy7) | 1:52 |
+| 156 | [location](https://open.spotify.com/track/52gdO8KCJo64MBRGYGq02m) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws), [Hobbes Duende](https://open.spotify.com/artist/1tBhFZFVTP0nPbh6jC3vRi), [svrge](https://open.spotify.com/artist/3wu9lbsCktd3djkgBA3djh) | [location](https://open.spotify.com/album/37aVKuOcP8HPkazO0Gawy7) | 1:52 |
 | 157 | [Tides](https://open.spotify.com/track/1c0yyBTelUJ2O0TFRiDyRB) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [At The Lighthouse](https://open.spotify.com/album/4wSmfjudlbwaXNoV5EWmvr) | 2:22 |
 | 158 | [time capsule](https://open.spotify.com/track/5W7XLrgsphDwEVCFLRG286) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U) | [time capsule](https://open.spotify.com/album/4ILfB6dZWCTaclugoElZ7U) | 1:49 |
 | 159 | [Train Station](https://open.spotify.com/track/7e3aGcmNkfRnRi10OCDOwc) | [ROSCHER](https://open.spotify.com/artist/7sX0iTjgvEOXcY2VenkQnE) | [Train Station](https://open.spotify.com/album/4aBB9HVIXU2Um9ebaYcfQQ) | 1:20 |

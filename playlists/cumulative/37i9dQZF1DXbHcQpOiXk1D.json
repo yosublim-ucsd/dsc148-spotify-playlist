@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
+  "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -8915,6 +8915,24 @@
     },
     {
       "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "album": {
         "name": "Something's Going On",
         "url": "https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl"
       },
@@ -9266,7 +9284,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 204254,
       "name": "Statue",
       "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
@@ -10555,6 +10573,24 @@
     },
     {
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "album": {
         "name": "Trust the Process",
         "url": "https://open.spotify.com/album/1vh6LYnYdWWqkF2biGjdHc"
       },
@@ -11276,7 +11312,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"

@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 183693,
       "name": "Dirthouse",
       "url": "https://open.spotify.com/track/22yW9zEVazCKjN2wJgRiX3"
@@ -398,6 +398,24 @@
       "duration_ms": 178000,
       "name": "Jic Boi",
       "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+    },
+    {
+      "album": {
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/4Akbc8ZCeZ8plRrunJEjPf"
     },
     {
       "album": {

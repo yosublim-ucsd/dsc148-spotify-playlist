@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 114282,
+  "num_followers": 114499,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-26 00:07:11",
       "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
+    },
+    {
+      "added_at": "2024-04-26 00:07:11",
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
-    },
-    {
-      "added_at": "2024-04-26 00:07:11",
-      "album": {
-        "name": "Seperti Seharusnya",
-        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Separuh Aku",
-      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
     },
     {
       "added_at": "2024-04-26 00:07:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-26 00:07:11",
       "album": {
-        "name": "Semua Aku Dirayakan",
-        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310625,
-      "name": "Semua Aku Dirayakan",
-      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
-    },
-    {
-      "added_at": "2024-04-26 00:07:11",
-      "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 257531,
       "name": "Kisah Tanpa Dirimu",
       "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
+    },
+    {
+      "added_at": "2024-04-26 00:07:11",
+      "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     }
   ],
   "unique_name": "galau rabak",

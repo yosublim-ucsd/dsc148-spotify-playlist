@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-523 songs - 1 day 12 hr 20 min
+524 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,8 @@
 | [Unfair](https://open.spotify.com/track/6nWpan8wexQM0Z3ZNSif6H) | [Josh Kelley](https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW) | [Special Company \(Deluxe\)](https://open.spotify.com/album/5poTXma29vmUDnx0ddS1l3) | 3:23 | 2023-12-30 |  |
 | [Unfinished Songs](https://open.spotify.com/track/37FWLRydBTjmDdOwNYjqrP) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Loved Me Back to Life](https://open.spotify.com/album/0rsJSdnc89hsmJkCV24YQK) | 3:40 | 2023-12-30 |  |
 | [Uninvited Guest](https://open.spotify.com/track/0NmaPrY7RqqXh2ogVxuKxC) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 3:55 | 2023-12-30 |  |
-| [Unspoken Love](https://open.spotify.com/track/3PkgOEgZJb7WxTeaPAOu37) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/0GOqu4nOTog5yVjCga8vhc) | 3:20 | 2023-12-30 |  |
+| [Unspoken Love](https://open.spotify.com/track/30uNcSqhzHitYVrxsPLJKE) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/1uVQjJXQxusnLxun611M9d) | 3:20 | 2024-05-09 |  |
+| [Unspoken Love](https://open.spotify.com/track/3PkgOEgZJb7WxTeaPAOu37) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/0GOqu4nOTog5yVjCga8vhc) | 3:20 | 2023-12-30 | 2024-05-10 |
 | [Until U Love U \- Nicole Scherzinger](https://open.spotify.com/track/1vMfU4wCxvVzXxMqUuDX5l) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 3:38 | 2023-12-30 |  |
 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 | 2023-12-30 |  |
 | [Was It Something I Didn't Say \- Acoustic Version](https://open.spotify.com/track/4pJTZYH1Zq4Z9kQ6Zr42Ku) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Was It Something I Didn't Say](https://open.spotify.com/album/50pwpeDPHfLatchFCRCyGE) | 5:11 | 2023-12-30 |  |

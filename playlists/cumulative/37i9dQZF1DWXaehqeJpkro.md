@@ -2,9 +2,9 @@
 
 ### [노래방 인기가요 \(Singing Room K\-Pop\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: BIBI\(비비\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: LEE CHANGSUB\(이창섭\)\)
 
-297 songs - 19 hr 26 min
+300 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-04-02 |  |
 | [Love, ing](https://open.spotify.com/track/269Fxuy0WNGk4nnI8M5LdK) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/2hEI4wV5hL1hioRpwwGBJc) | 4:30 | 2022-02-17 |  |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2022-02-17 | 2023-11-16 |
+| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-05-09 |  |
 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 | 2022-02-17 |  |
 | [Marry Me](https://open.spotify.com/track/7aGU77FK6dBEFKWVKPeKXe) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [마크툽 프로젝트 Vol\. 03](https://open.spotify.com/album/0S9RrasD1Z6Y6Efkd3RfTj) | 4:21 | 2022-02-17 |  |
 | [Me After You](https://open.spotify.com/track/3gucipmp9z0bf7pjEbtTX0) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/3Zvz3DnPC7UgRyiO8LprUt) | 4:40 | 2023-11-14 | 2024-04-19 |
@@ -212,6 +213,7 @@
 | [Still love you](https://open.spotify.com/track/0ih4PcU40uucAVEbD2486u) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4), [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [FNC LAB 'Still love you'](https://open.spotify.com/album/0tlT3SCG5H1QpS3F6cQtlq) | 4:18 | 2022-02-17 |  |
 | [Suddenly](https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Bipolar](https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v) | 2:36 | 2022-02-17 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-10-04 |  |
+| [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-05-09 |  |
 | [Tempo](https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON’T MESS UP MY TEMPO – The 5th Album](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) | 3:44 | 2021-03-11 | 2022-02-18 |
 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 | 2022-02-17 |  |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-02-17 |  |
@@ -265,6 +267,7 @@
 | [그래서 그대는](https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Yarn's Best Vol.1](https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP) | 4:24 | 2023-10-04 |  |
 | [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 | 2023-11-14 |  |
 | [기다리다](https://open.spotify.com/track/3XTcTwWPQZg9Ob0u4RBIfP) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Audition \(Time2Rock\)](https://open.spotify.com/album/3nAt9ncRZ7wW3sytjNtXTj) | 4:37 | 2023-11-14 |  |
+| [깊은 밤을 날아서](https://open.spotify.com/track/5vVL45nncczKCWS0uIQpzN) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 3:02 | 2024-05-09 |  |
 | [까만 안경](https://open.spotify.com/track/0IPZBKJ5PfYR2y7nmCMDIb) | [Eru](https://open.spotify.com/artist/3mifQJuBZSvh5KRwRptZO0) | [SBS Archive K \- K\-POP](https://open.spotify.com/album/0wQi0RmbvIZIEkLDjjE5x5) | 3:52 | 2022-02-17 |  |
 | [꿈속에 너](https://open.spotify.com/track/79w8z28yTXmAvC7L7grLux) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [두 번째 이야기](https://open.spotify.com/album/2R2jo2dkMi4TFyBvSOFAj1) | 4:11 | 2022-02-17 |  |
 | [나에게로의 초대 \(이상한 나라의 앨리스, 하트다 하트여왕\)](https://open.spotify.com/track/0OJK94VxU23n0pnc6R9vbR) | [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW), [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 89th \(Live Version\)](https://open.spotify.com/album/4dGCjv53KvBnD5Qt5oROhk) | 4:06 | 2022-02-17 |  |

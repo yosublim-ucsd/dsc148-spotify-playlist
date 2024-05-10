@@ -2,16 +2,18 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Shaka Ponk au top des meilleurs morceaux rock du moment.
+> The Smashing Pumpkins au top des meilleurs morceaux rock du moment.
 
-178 songs - 10 hr 4 min
+181 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo) | 3:12 | 2024-05-09 |  |
 | [999](https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [999](https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj) | 3:21 | 2024-01-11 | 2024-01-19 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 | 2024-05-03 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-04-03 | 2024-04-24 |
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-09 | 2023-12-08 |
+| [Alone](https://open.spotify.com/track/7v80vLTX2QWEdfdafFTj4u) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Alone](https://open.spotify.com/album/6Amqo835TnuSYSnSEqHdx1) | 4:16 | 2024-05-09 |  |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-19 | 2024-02-16 |
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-25 | 2024-03-08 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-28 | 2024-04-16 |
@@ -85,14 +87,14 @@
 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-11-09 | 2023-12-22 |
 | [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-17 | 2024-03-27 |
 | [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-26 |  |
-| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-04 |  |
+| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-04 | 2024-05-10 |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-04-29 |  |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 |  |
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-26 | 2024-04-01 |
 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 | 2024-03-28 | 2024-04-19 |
 | [Lazerlove](https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Lazerlove](https://open.spotify.com/album/68JPnjiLgcObumeXhtlZ9W) | 4:18 | 2024-03-21 |  |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-04-29 |  |
-| [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-21 |  |
+| [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-21 | 2024-05-10 |
 | [Let's Go](https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Let's Go](https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE) | 3:13 | 2024-04-15 |  |
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-28 | 2023-11-10 |
 | [Lights Out](https://open.spotify.com/track/7CeS36dnnR2Ym14PP0Zg4P) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:53 | 2023-09-28 | 2023-10-20 |
@@ -183,8 +185,9 @@
 | [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 | 2024-03-14 | 2024-04-24 |
 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 | 2024-01-18 | 2024-03-01 |
 | [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2023-09-28 | 2023-11-10 |
-| [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 |  |
+| [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 | 2024-05-10 |
 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2023-11-09 | 2024-02-02 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-10-12 | 2023-12-08 |
+| [Zebra](https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Zebra](https://open.spotify.com/album/7JZphv3s2oDlaW6bl7PCdo) | 2:29 | 2024-05-09 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. RIZHA",
-  "num_followers": 216781,
+  "num_followers": 216763,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "CHICA BONITA",
-        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 97876,
-      "name": "CHICA BONITA",
-      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "Nunca Volver\u00e1",
         "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "CHICA BONITA",
+        "url": "https://open.spotify.com/album/1UuhV7VQzkEXU6o37DC1ZC"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 97876,
+      "name": "CHICA BONITA",
+      "url": "https://open.spotify.com/track/4jCoSP8cmfPBFvFFXkIUjT"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "Caballero de la Muerte",
-        "url": "https://open.spotify.com/album/5IkSudU3P0f72BO25relHr"
-      },
-      "artists": [
-        {
-          "name": "Joven Myke",
-          "url": "https://open.spotify.com/artist/71x9rPeYKmmrcYYQCMi7xg"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Caballero de la Muerte",
-      "url": "https://open.spotify.com/track/2lFJlrVU6sN8yRgkWXvYd3"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "FINA Y ELEGANTA",
         "url": "https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 152068,
       "name": "FINA Y ELEGANTA",
       "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "Caballero de la Muerte",
+        "url": "https://open.spotify.com/album/5IkSudU3P0f72BO25relHr"
+      },
+      "artists": [
+        {
+          "name": "Joven Myke",
+          "url": "https://open.spotify.com/artist/71x9rPeYKmmrcYYQCMi7xg"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Caballero de la Muerte",
+      "url": "https://open.spotify.com/track/2lFJlrVU6sN8yRgkWXvYd3"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "AUTOBOICOT",
-        "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
-      },
-      "artists": [
-        {
-          "name": "Suave",
-          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 201578,
-      "name": "AUTOBOICOT",
-      "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "GRIS",
         "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 125991,
       "name": "GRIS",
       "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "AUTOBOICOT",
+        "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 201578,
+      "name": "AUTOBOICOT",
+      "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "irl.angel",
-        "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
-      },
-      "artists": [
-        {
-          "name": "conan kid",
-          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "irl.angel",
-      "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "MIEDO MADRID",
         "url": "https://open.spotify.com/album/3RzZDssgztAD1xg2YCyuc6"
       },
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "NO PIDO TANTO",
-        "url": "https://open.spotify.com/album/6Pj4PKFV3cTAyLIW28Warq"
+        "name": "irl.angel",
+        "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
       },
       "artists": [
         {
-          "name": "Sanzzz",
-          "url": "https://open.spotify.com/artist/1vVjd1HIXSvhQKsRfCLg18"
-        },
-        {
-          "name": "JCC",
-          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
         }
       ],
-      "duration_ms": 139800,
-      "name": "NO PIDO TANTO",
-      "url": "https://open.spotify.com/track/0EgJpYLEW3HH9AF34cAOJg"
+      "duration_ms": 113600,
+      "name": "irl.angel",
+      "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1371,6 +1351,26 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "NO PIDO TANTO",
+        "url": "https://open.spotify.com/album/6Pj4PKFV3cTAyLIW28Warq"
+      },
+      "artists": [
+        {
+          "name": "Sanzzz",
+          "url": "https://open.spotify.com/artist/1vVjd1HIXSvhQKsRfCLg18"
+        },
+        {
+          "name": "JCC",
+          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "NO PIDO TANTO",
+      "url": "https://open.spotify.com/track/0EgJpYLEW3HH9AF34cAOJg"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "MOTOR",
-        "url": "https://open.spotify.com/album/155dFei2mmTKe5jsswJxuL"
-      },
-      "artists": [
-        {
-          "name": "Pink Kardashian",
-          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
-        },
-        {
-          "name": "Druwu",
-          "url": "https://open.spotify.com/artist/6ShvjNNRRfnkQEOhUJdFb5"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "MOTOR",
-      "url": "https://open.spotify.com/track/6biw3fcABUuQJLb1Ktxk9k"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "Y T\u00fa Con \u00c9l (Extra\u00f1\u00e1ndote)",
         "url": "https://open.spotify.com/album/42Bq0SlMUwEY4a9v5nffD2"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 190090,
       "name": "Y T\u00fa Con \u00c9l - Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3akWoBzRyv21tNhCTKlcqI"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "MOTOR",
+        "url": "https://open.spotify.com/album/155dFei2mmTKe5jsswJxuL"
+      },
+      "artists": [
+        {
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Druwu",
+          "url": "https://open.spotify.com/artist/6ShvjNNRRfnkQEOhUJdFb5"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "MOTOR",
+      "url": "https://open.spotify.com/track/6biw3fcABUuQJLb1Ktxk9k"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "SoBlack / +Dti / AcidSuperstar",
-        "url": "https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        },
-        {
-          "name": "NENU",
-          "url": "https://open.spotify.com/artist/3WbLhFZjEEcfOeyNcn9o9C"
-        }
-      ],
-      "duration_ms": 153105,
-      "name": "Acid Superstar",
-      "url": "https://open.spotify.com/track/1HJ0p5JgggcQ03nRIbZxkC"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "Estrella De La Noche",
         "url": "https://open.spotify.com/album/21uXi8TrDnKuCRARfnia6G"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 185460,
       "name": "Estrella De La Noche",
       "url": "https://open.spotify.com/track/3GGd933RB3nS915oezHTJl"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "SoBlack / +Dti / AcidSuperstar",
+        "url": "https://open.spotify.com/album/6SJENbjHrI4Q82Iz31JiUM"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "NENU",
+          "url": "https://open.spotify.com/artist/3WbLhFZjEEcfOeyNcn9o9C"
+        }
+      ],
+      "duration_ms": 153105,
+      "name": "Acid Superstar",
+      "url": "https://open.spotify.com/track/1HJ0p5JgggcQ03nRIbZxkC"
     },
     {
       "added_at": "2024-04-26 19:11:18",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-04-26 19:11:18",
       "album": {
-        "name": "hannah montana",
-        "url": "https://open.spotify.com/album/3D0cC6o8loxckFJOX9ytkv"
-      },
-      "artists": [
-        {
-          "name": "keko",
-          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
-        }
-      ],
-      "duration_ms": 132672,
-      "name": "hannah montana",
-      "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
-    },
-    {
-      "added_at": "2024-04-26 19:11:18",
-      "album": {
         "name": "Girl!",
         "url": "https://open.spotify.com/album/1ply2s263uFYyGKghfuviG"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 197468,
       "name": "Girl!",
       "url": "https://open.spotify.com/track/17vLq7x19C5eMphdQNJDD5"
+    },
+    {
+      "added_at": "2024-04-26 19:11:18",
+      "album": {
+        "name": "hannah montana",
+        "url": "https://open.spotify.com/album/3D0cC6o8loxckFJOX9ytkv"
+      },
+      "artists": [
+        {
+          "name": "keko",
+          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
+        }
+      ],
+      "duration_ms": 132672,
+      "name": "hannah montana",
+      "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
     },
     {
       "added_at": "2024-04-26 19:11:18",

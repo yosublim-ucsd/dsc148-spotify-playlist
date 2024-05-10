@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,048 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,068 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 33 | [Jesucristo Me Toco \- En Vivo](https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J) | [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Jesucristo Me Toco \(En Vivo\)](https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX) | 3:39 |
 | 34 | [Felicidad](https://open.spotify.com/track/0CN4D8I9yuu8HHkNAjDnQP) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 4:04 |
 | 35 | [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 |
-| 36 | [Poniendo el Estilo](https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5) | [Spiritual Bless](https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv) | [Poniendo el Estilo](https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI) | 4:18 |
+| 36 | [Creo En Ti](https://open.spotify.com/track/4OZcxfCkwY1em4aSG8RKOk) | [Alex D'Castro](https://open.spotify.com/artist/5u21XmwRCdP8za3HRjJIct) | [Alex D'castro, a Mis Amigos ...Lo Mejor](https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0) | 4:24 |
 | 37 | [La Biblia](https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:34 |
-| 38 | [Creo En Ti](https://open.spotify.com/track/4OZcxfCkwY1em4aSG8RKOk) | [Alex D'Castro](https://open.spotify.com/artist/5u21XmwRCdP8za3HRjJIct) | [Alex D'castro, a Mis Amigos ...Lo Mejor](https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0) | 4:24 |
+| 38 | [Poniendo el Estilo](https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5) | [Spiritual Bless](https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv) | [Poniendo el Estilo](https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI) | 4:18 |
 | 39 | [Cambio de Plan](https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Cambio de Plan](https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm) | 3:42 |
 | 40 | [Armonía](https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u) | 2:55 |
-| 41 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
-| 42 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Yo Tierra, Tú Semilla](https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl) | 3:44 |
+| 41 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
+| 42 | [El Esta Aquí](https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [David Y Abraham "La Historia"](https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD) | 5:59 |
 | 43 | [Caminamos En La Luz](https://open.spotify.com/track/6ARRtBKk1fwEZpfAfsAbD0) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:00 |
-| 44 | [Ganarlos a Todos](https://open.spotify.com/track/0XmNgMHkBTJHXY968aCLWF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/27RxGAYGrcBwdp3KBdlZIb) | 5:21 |
-| 45 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
-| 46 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
-| 47 | [Dependo de Ti](https://open.spotify.com/track/5gbsTyMgtbGEkZwQbnfF90) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/31rd8tqz4OcQPt6lG59CjT) | 3:15 |
-| 48 | [Que Tire La Piedra](https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:24 |
-| 49 | [Unico Version Merengue](https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp) | [Lizzie Lizzie](https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x) | [Indescriptible](https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo) | 4:07 |
-| 50 | [El Esta Aquí](https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [David Y Abraham "La Historia"](https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD) | 5:59 |
+| 44 | [Mi Iglesia](https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:53 |
+| 45 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
+| 46 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Yo Tierra, Tú Semilla](https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl) | 3:44 |
+| 47 | [Ganarlos a Todos](https://open.spotify.com/track/0XmNgMHkBTJHXY968aCLWF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/27RxGAYGrcBwdp3KBdlZIb) | 5:21 |
+| 48 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 49 | [Dependo de Ti](https://open.spotify.com/track/5gbsTyMgtbGEkZwQbnfF90) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/31rd8tqz4OcQPt6lG59CjT) | 3:15 |
+| 50 | [Unico Version Merengue](https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp) | [Lizzie Lizzie](https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x) | [Indescriptible](https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo) | 4:07 |
 
 Snapshot ID: `ZIsLYgAAAAC4RD4O1qj5LOU3BVKG5Awj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kayode
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,985 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,998 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 50 | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/track/3D6lFwZAMGDuAUb5YuuUwQ) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Blackoutt MC](https://open.spotify.com/artist/4BuVB9M4LodpY72q4pXoS0) | [Jhony Convida \#7 \- Preto$](https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q) | 4:59 |
 | 51 | [Alegria](https://open.spotify.com/track/5cIhfx7tNDuHCtJg0QCWTM) | [Domalote](https://open.spotify.com/artist/6TiYrtFfbM9NZr53oENtGe), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c) | [Alegria](https://open.spotify.com/album/2tvWQnxCgthxE4f8J9hRzN) | 1:41 |
 | 52 | [Quebra](https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3) | [ruadois](https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5) | [Proibido Estacionar, Vol\. 2 \- Live Set](https://open.spotify.com/album/3dNyEVY0LHKpG6voegof2I) | 2:37 |
-| 53 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
+| 53 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
 | 54 | [Corpo São Mente Muito](https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G) | [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf), [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Picaretas de Fachada: Summer Hits](https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu) | 3:35 |
 | 55 | [AIR MAX ERA](https://open.spotify.com/track/5ye6PWvElf1WVIq86uogKM) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [AIR MAX ERA](https://open.spotify.com/album/31s3srrXf0eUoTvrF06Jow) | 3:01 |
 | 56 | [Eu Já Sei Disso](https://open.spotify.com/track/12mQWGgiEjYBYhSaofXVGp) | [COLASNI](https://open.spotify.com/artist/0guOyrCTXlSdhKScVTLEHl), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Eu Já Sei Disso](https://open.spotify.com/album/0n5s7vOpNmoIWPeqf9fTSl) | 2:32 |

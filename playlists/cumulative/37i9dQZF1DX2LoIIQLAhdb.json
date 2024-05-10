@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Avec toi",
+        "url": "https://open.spotify.com/album/1ljdSTCoSGjBhURcFKaP2P"
+      },
+      "artists": [
+        {
+          "name": "Asma",
+          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
+        },
+        {
+          "name": "Gaby",
+          "url": "https://open.spotify.com/artist/7LlIOJgT58BCUb5YoMC42w"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Avec toi",
+      "url": "https://open.spotify.com/track/2pmXG67bKTanPef0hnJrji"
+    },
+    {
+      "album": {
         "name": "Glow Up",
         "url": "https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9"
       },
@@ -523,6 +545,28 @@
     },
     {
       "album": {
+        "name": "GINGER BOY",
+        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151410,
+      "name": "Bodyguard",
+      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
+    },
+    {
+      "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
       },
@@ -726,7 +770,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 152470,
       "name": "Candy",
       "url": "https://open.spotify.com/track/0U8PAXrNktnPR0aQEmfV5P"
@@ -2050,7 +2094,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
@@ -2350,7 +2394,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194466,
       "name": "Joli coeur",
       "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
@@ -2553,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "L'official",
+        "url": "https://open.spotify.com/album/7nU4DM4TY3j0C5uuINrFnk"
+      },
+      "artists": [
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "L'official",
+      "url": "https://open.spotify.com/track/1CGz3eUcjnym8RqfrnoUhr"
+    },
+    {
+      "album": {
         "name": "Cullinan",
         "url": "https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U"
       },
@@ -2590,7 +2652,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 189120,
       "name": "La guitare suit la m\u00e9lo",
       "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
@@ -5214,6 +5276,28 @@
       "duration_ms": 158971,
       "name": "Tout",
       "url": "https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA"
+    },
+    {
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "TOUT essayer ?",
+      "url": "https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc"
     },
     {
       "album": {

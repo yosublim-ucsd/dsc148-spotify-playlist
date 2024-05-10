@@ -4,7 +4,7 @@
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 19 min
+61 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [beer](https://open.spotify.com/track/3FX7BftvAfyeyPBjxO9t7f) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:11 | 2023-02-08 | 2023-03-25 |
 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0zh4T437EeNPSeWf2LITdM) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/album/72xen7JDla12oGrjCxrtvu) | 3:09 | 2023-02-08 | 2023-04-18 |
 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/1j8BTJKOWfHGVJ1vAZycde) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:09 | 2023-12-13 |  |
-| [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2023-02-08 |  |
+| [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 | 2023-02-08 | 2024-05-10 |
 | [BLURRY](https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1) | 5:00 | 2023-02-08 |  |
 | [BOOTS](https://open.spotify.com/track/48r61fmMtlyjaMgXhi0Go6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:13 | 2023-02-08 |  |
 | [Boy From The South \(HARDY feat\. Cole Swindell, Dustin Lynch\)](https://open.spotify.com/track/1gdjti71zfhyuiE9cXLR8s) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:05 | 2023-02-08 |  |
@@ -68,5 +68,6 @@
 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 | 2023-02-08 | 2023-08-07 |
 | [WHERE TO FIND ME](https://open.spotify.com/track/5OeF6XbsPBDmhKXD30CKEZ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 3:54 | 2023-02-08 |  |
 | [Y’all Boys](https://open.spotify.com/track/1NJnv7vvUZ5xM1DIWbngmN) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 2:32 | 2023-02-08 |  |
+| [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/2RtIK8NXQr9hILPatp9qrh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1melLSxJUfXvY7sDZv1U6Z) | 3:12 | 2024-05-10 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

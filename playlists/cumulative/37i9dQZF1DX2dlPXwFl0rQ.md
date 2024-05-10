@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Estilo Sin Límite, Paty Cantu en portada.
 
-401 songs - 21 hr 26 min
+402 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Dos Locos](https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Locos De Amor](https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8) | 3:26 | 2021-12-17 | 2023-04-15 |
 | [Easy On Me](https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Easy On Me](https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B) | 3:41 | 2024-02-23 | 2024-05-04 |
 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 | 2023-01-20 | 2023-10-28 |
-| [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 | 2024-01-26 |  |
+| [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 | 2024-01-26 | 2024-05-10 |
 | [El Cofrecito](https://open.spotify.com/track/28EgoxjaUhr9mFZRhjIUTL) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Alma De Rancho](https://open.spotify.com/album/3m3YJeynoSZ6MM7OdN3jAt) | 2:34 | 2022-01-28 | 2022-03-15 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/1FvNYJei932TIqXsyHkAhG) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/4wSDu2770UGHS1FH3yjF43) | 3:30 | 2023-08-22 | 2023-09-01 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 | 2023-08-22 | 2023-11-18 |
@@ -138,6 +138,7 @@
 | [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-24 | 2023-06-17 |
 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Volumen 2](https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe) | 4:00 | 2022-12-09 | 2023-11-18 |
 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 | 2022-04-08 | 2023-06-17 |
+| [Hielera De Caricias](https://open.spotify.com/track/4MDQ3wJRrqwY5jh1q6DTZA) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Hielera De Caricias](https://open.spotify.com/album/3e6BTD3xUgDhJG3dcUqnzU) | 3:13 | 2024-05-03 |  |
 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 | 2021-12-17 | 2023-07-29 |
 | [Hoy Me Has Perdido](https://open.spotify.com/track/7iHK82vsBnA4YTb8SNAmt8) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Mis Chamacas Favoritas](https://open.spotify.com/album/7F55DbEevH99aFJyXZzDPy) | 2:57 | 2021-12-17 | 2022-04-09 |
 | [Hoy Me Voy A Emborrachar](https://open.spotify.com/track/3O6AIhv3Byai1T9U0bwaat) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Hoy Me Voy A Emborrachar](https://open.spotify.com/album/46eaEef4bHoYLaVLj9iqLc) | 3:21 | 2023-10-27 | 2024-02-24 |
@@ -365,10 +366,10 @@
 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 | 2023-07-14 |  |
 | [Tu "Nada Que Ver"](https://open.spotify.com/track/29ctf3WZfDsoJj56YcxaaK) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Tu "Nada Que Ver"](https://open.spotify.com/album/1kb2qHM5RE5fgYloTnvHZR) | 2:12 | 2024-05-03 |  |
 | [Tu Casi Algo](https://open.spotify.com/track/4lN3ybB2niteicPFKqVQTk) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Tu Casi Algo](https://open.spotify.com/album/2z4f4hNhcs9JV5FR0H2QR8) | 2:25 | 2023-09-15 | 2024-02-24 |
-| [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 | 2023-06-16 | 2024-05-07 |
+| [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 | 2023-06-16 |  |
 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 | 2024-05-03 |  |
 | [Tus Desprecios](https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv) | [Kimberly Pleitez](https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr) | [Tus Desprecios](https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv) | 3:01 | 2023-04-14 | 2023-10-28 |
-| [Tus Mentiras](https://open.spotify.com/track/5chVcTt95glP47mhpSm28B) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Tus Mentiras](https://open.spotify.com/album/65sQsNgmHiiortptKtiScz) | 3:46 | 2024-01-26 |  |
+| [Tus Mentiras](https://open.spotify.com/track/5chVcTt95glP47mhpSm28B) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Tus Mentiras](https://open.spotify.com/album/65sQsNgmHiiortptKtiScz) | 3:46 | 2024-01-26 | 2024-05-10 |
 | [Un Amor en el Olvido](https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Un Amor en el Olvido](https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R) | 3:02 | 2022-12-09 | 2023-07-15 |
 | [Un Bello Error](https://open.spotify.com/track/2UnJ3cvIcKYUApiGPuI53A) | [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Besos](https://open.spotify.com/album/5fGqMJB9ima0bVAMn1gWy9) | 2:26 | 2022-09-02 | 2022-12-10 |
 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 | 2021-12-17 | 2022-04-29 |

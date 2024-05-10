@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Daniel, Me Estás Matando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,244 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,275 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 84 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 |
 | 85 | [Más Que Ella](https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Más Que Ella](https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e) | 3:15 |
 | 86 | [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 |
-| 87 | [Justo Así](https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Justo Así](https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk) | 2:23 |
-| 88 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 |
+| 87 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 |
+| 88 | [Justo Así](https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Justo Así](https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk) | 2:23 |
 | 89 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
 | 90 | [Bolero](https://open.spotify.com/track/1OVRnfZ5zSR0GwXcSYMGEg) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Esteman](https://open.spotify.com/artist/1Wa2BFXZT8sHOXEROLlAMK) | [Algo\-Ritmo : Mexican Institute of Sound Hits 2004\-2024](https://open.spotify.com/album/4SY8pI6k7ND7wWAPrWVQqE) | 3:37 |
 | 91 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Sia. The essential tracks, all in one playlist.",
+  "description": "This Is Sia. Los temas esenciales, todos en una lista.",
   "name": "This Is Sia",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Bang My Head (feat. Sia & Fetty Wap)",
       "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 241910,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
@@ -1162,6 +1162,24 @@
       "duration_ms": 246816,
       "name": "ON (Feat. Sia)",
       "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
+    },
+    {
+      "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178591,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn"
     },
     {
       "album": {
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 205207,
       "name": "Together",
       "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"

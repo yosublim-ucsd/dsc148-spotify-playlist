@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 9 min
+146 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 | 2023-12-30 |  |
 | [Masterpiece](https://open.spotify.com/track/2pOxs66DFLeyKgq7SHguLW) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Stones & Giants](https://open.spotify.com/album/0pFsaEcaen7zirGPKDjqGC) | 4:11 | 2023-12-30 |  |
 | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA) | 3:11 | 2023-12-30 |  |
+| [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 | 2024-05-09 |  |
 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 | 2023-12-31 |  |
 | [Natalie Don't](https://open.spotify.com/track/3fEtxqmS2R9TRSMr0mRM15) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/7vLbRuvBHQFkPXvDID9xkY) | 3:17 | 2023-12-30 | 2024-02-02 |
 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 | 2023-12-30 |  |

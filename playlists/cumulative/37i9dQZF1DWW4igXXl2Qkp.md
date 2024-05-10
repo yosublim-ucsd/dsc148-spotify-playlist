@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:02hku5R1SCUiTPydXMdKBp">Seiji Oda</a>
 
-1,196 songs - 2 day 3 hr 51 min
+1,197 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Beat Em Down](https://open.spotify.com/track/0Sjhry41MJu2WSVDBdhJfn) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [Beat Em Down](https://open.spotify.com/album/1fzHKs0eAeX9jMIEAHDnZ6) | 2:10 | 2022-03-16 | 2022-04-07 |
 | [beautiful \(baby jaycee\)](https://open.spotify.com/track/7yyU2itJ4djIxcTv6rWUvS) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [beautiful \(baby jaycee\)](https://open.spotify.com/album/3CMsBstwgQGZJSfygA7Qcy) | 2:36 | 2024-03-27 | 2024-04-04 |
 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 | 2022-01-13 | 2022-02-10 |
-| [Before I Leave](https://open.spotify.com/track/3qOzDtXdWVAVZ0DbJbtgki) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Rizz Capolatti](https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 4:12 | 2024-05-01 |  |
+| [Before I Leave \(feat\. Rizz Capolatti & Joseph Chilliams\)](https://open.spotify.com/track/3qOzDtXdWVAVZ0DbJbtgki) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Rizz Capolatti](https://open.spotify.com/artist/78bSQbQwJ5IHNCqDrILTGj), [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 4:12 | 2024-05-01 |  |
 | [before the sunset](https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy) | [Seth Sutch](https://open.spotify.com/artist/2znMo5vYA8FuOuCZ1V8uXt) | [before the sunset](https://open.spotify.com/album/7yBmQJ8URZIoE4Fr1wVdmr) | 2:31 | 2023-03-01 | 2023-05-18 |
 | [Ben10](https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c) | [Ben10](https://open.spotify.com/album/1nA3Vx5C8t2yduDXgkHQbW) | 2:51 | 2022-10-05 | 2022-12-01 |
 | [BENIHANAS](https://open.spotify.com/track/0zHIzLEmeCCKUHyoSp3FiP) | [Lil Benny](https://open.spotify.com/artist/3V5erRwkViNiYbgKqXjrF0) | [BENIHANAS](https://open.spotify.com/album/3UNsv3I6ei272tlnjYX8Gv) | 2:37 | 2023-05-17 | 2023-07-27 |
@@ -450,6 +450,7 @@
 | [gochujang](https://open.spotify.com/track/5VazOHd6tWSejBmt9tWR7r) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [lil ricefield](https://open.spotify.com/artist/2lNuUKrRrHRQ6cYVmrAazL) | [gochujang](https://open.spotify.com/album/70F7rerrUW85HY8gpxn9mc) | 1:48 | 2022-01-19 | 2022-02-10 |
 | [Going Up](https://open.spotify.com/track/2z4QiyjKuIFXnRne4AVrCi) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Going Up](https://open.spotify.com/album/1ZBOf2qbjdjz6LkpCqXDYA) | 2:12 | 2022-02-23 | 2022-03-24 |
 | [Gol Chane'](https://open.spotify.com/track/3J7ACQMFkrloBL0cQAIWWL) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Gol Chane'](https://open.spotify.com/album/5OyS7ng0o34uyaYcNDUEVB) | 1:48 | 2022-07-27 | 2022-09-01 |
+| [GOLDMEMBERS](https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 2:26 | 2024-05-09 |  |
 | [Goo Kuu](https://open.spotify.com/track/66d7S0awoQBUZOneJ2ZMjW) | [Twan Staxks](https://open.spotify.com/artist/41DLPnBE1Q11mFnYKrS1C2) | [Goo Kuu](https://open.spotify.com/album/5IFwgRGIMdTgFIztBetI1C) | 2:09 | 2022-05-11 | 2022-07-01 |
 | [Good Day](https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Junkie Mode](https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03) | 3:18 | 2023-04-12 | 2024-01-17 |
 | [GOOD GUYS](https://open.spotify.com/track/68tqTEwnCTQzGZKyB0fB1E) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [GOOD GUYS](https://open.spotify.com/album/3rco725IKm4H8xoReOKUE6) | 2:32 | 2023-05-10 | 2023-08-03 |
@@ -646,7 +647,7 @@
 | [M's](https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh) | [Babyfa$e James](https://open.spotify.com/artist/7lKBs2XWGCUiQDCvDo85U8) | [M's](https://open.spotify.com/album/1vT26SBXuPg7oLFizMWtQq) | 2:16 | 2023-02-01 | 2023-03-23 |
 | [M3GA TRUTH](https://open.spotify.com/track/0PZuIkYLyx7mV0k6h0WdiN) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/4OIAA2jMdNTutZ86YnbV1j) | 3:54 | 2022-08-10 | 2022-08-13 |
 | [M3ga Truth](https://open.spotify.com/track/68RBqPT6xgU3g5CTMJqQm1) | [K11NG LV](https://open.spotify.com/artist/3BPUxPloFYcoauw9ctqqQ5) | [M3GA TRUTH](https://open.spotify.com/album/1hgWV0xGW5XO5uXp4KnvTj) | 3:54 | 2022-08-10 | 2022-09-09 |
-| [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-05-08 |  |
+| [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-05-08 | 2024-05-10 |
 | [Magic](https://open.spotify.com/track/7kbuH7MYhhc8pX19OxeCfd) | [Kiraly Payne](https://open.spotify.com/artist/0vWdKxJyCD8VKzBRXtW0cv) | [Magic](https://open.spotify.com/album/2NEOvrVRpRxdwz5RrO9NJU) | 3:17 | 2024-03-27 | 2024-05-09 |
 | [Main Line](https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [BSG](https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3) | 3:40 | 2022-01-26 | 2023-01-12 |
 | [Main Quest](https://open.spotify.com/track/5c7lD3xgi30uJ58pdgFaQx) | [O.E.](https://open.spotify.com/artist/1BNwD0GcTCdzY2pWmg2M1p) | [Main Quest](https://open.spotify.com/album/6X157uNy6pumcoFcb4aKlU) | 2:42 | 2023-10-18 | 2023-11-30 |

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-181 songs - 10 hr 22 min
+183 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,13 +120,14 @@
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-12-22 | 2023-03-18 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-12-22 | 2023-05-05 |
 | [No Time to Look at You](https://open.spotify.com/track/2y7BiJKbpLp1ooF5dZ25eZ) | [MAUGER](https://open.spotify.com/artist/0xYTp14znacYOEZ1ieRsvD) | [Sunday Competition](https://open.spotify.com/album/05eSwrzxGxXVGgs7MW6YyQ) | 3:13 | 2022-12-22 | 2024-02-09 |
-| [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 |  |
+| [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2023-11-16 | 2024-05-10 |
 | [Open Hearts](https://open.spotify.com/track/1rCr67Uoj5GndsMEC8Gkvq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6h2sXjfVdBakT2T3w0R7Vv) | 3:23 | 2024-04-18 |  |
 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 | 2022-12-22 | 2024-04-19 |
 | [Out of the Blue](https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wrote](https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0) | 3:36 | 2023-12-24 |  |
 | [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 | 2023-12-30 |
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-12-22 | 2023-11-10 |
+| [Pillow Scream](https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Pillow Scream](https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF) | 3:10 | 2024-05-09 |  |
 | [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 | 2023-05-30 |
 | [Questionnaire](https://open.spotify.com/track/4iHzg001tiA65MGZ4dq0Je) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2](https://open.spotify.com/album/0ys8RG7cVPqEJoiMhaimV9) | 2:45 | 2023-05-25 | 2024-04-19 |
 | [Questionnaire](https://open.spotify.com/track/5KdKfHEQRIineiZYVqMHNI) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Questionnaire](https://open.spotify.com/album/6SLKkRjBbmJMbzYAjHPZrP) | 2:45 | 2023-02-16 |  |
@@ -137,7 +138,7 @@
 | [Standing On The Edge \- Acoustic](https://open.spotify.com/track/3jgdUDYQC7JrENjQ5lWzdB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge \(Acoustic\)](https://open.spotify.com/album/4H0brVQx6svIimL2T368KW) | 4:07 | 2023-10-20 |  |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-14 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 |  |
-| [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2022-12-22 |  |
+| [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2022-12-22 | 2024-05-10 |
 | [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-01 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-12-22 | 2024-02-15 |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-11-09 |  |
@@ -173,6 +174,7 @@
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 |  |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 | 2023-07-14 |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2022-12-22 |  |
+| [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 |  |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-12-22 | 2023-02-24 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-12-22 | 2023-04-26 |
 | [Weathered \- Stripped](https://open.spotify.com/track/3AnaM2KjdnVzEsyZJeWpa3) | [James Walker](https://open.spotify.com/artist/08cmuH6uJGH9dQjvvdkTvR) | [Weathered \(Stripped\)](https://open.spotify.com/album/5EwUclGhBBOHWtVbu8AIGu) | 4:08 | 2022-12-22 | 2023-12-16 |

@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
@@ -9192,6 +9192,28 @@
       "duration_ms": 221096,
       "name": "La Misma Bandera",
       "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Guapa",
+        "url": "https://open.spotify.com/album/1hB9uAmLvJccFMQWP71njp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "La M\u00e1s Guapa",
+      "url": "https://open.spotify.com/track/6BoTME0qMxPFnVJMQqyZji"
     },
     {
       "album": {

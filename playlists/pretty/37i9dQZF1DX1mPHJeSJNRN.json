@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 16392,
+  "num_followers": 16408,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 477973,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
-    },
-    {
-      "added_at": "2024-03-20 14:51:50",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 262573,
       "name": "I Will Wait for You",
       "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
+    },
+    {
+      "added_at": "2024-03-20 14:51:50",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1215,26 +1215,18 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Live at Unity",
-        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
       },
       "artists": [
         {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 364626,
-      "name": "Only Love Can Break Your Heart - Live",
-      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
+      "duration_ms": 381560,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
     },
     {
       "added_at": "2024-03-20 14:51:50",
@@ -1255,18 +1247,26 @@
     {
       "added_at": "2024-03-20 14:51:50",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+        "name": "Live at Unity",
+        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
         }
       ],
-      "duration_ms": 381560,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
+      "duration_ms": 364626,
+      "name": "Only Love Can Break Your Heart - Live",
+      "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
     },
     {
       "added_at": "2024-03-20 14:51:50",

@@ -1,10 +1,10 @@
 {
   "description": "Top country hits you know and love! Cover: Kacey Musgraves",
-  "num_followers": 545052,
+  "num_followers": 545125,
   "original_name": "Big Country",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZjRhfAAAAADxJBaYbXgJInfrXlRO/rem",
   "tracks": [
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 214798,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 214798,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
     },
     {
       "added_at": "2024-05-03 04:01:00",

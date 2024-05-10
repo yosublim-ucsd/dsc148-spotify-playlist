@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Shironamhin
 
-320 songs - 1 day 3 hr 25 min
+324 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bachao](https://open.spotify.com/track/0ma2ngaL9dwqlNUKEe84FN) | [Munhamanna.](https://open.spotify.com/artist/48vUe0vzNlHzJz6dfdqtqX), [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls), [Samiul Haque](https://open.spotify.com/artist/7tstbXKlLF8TKs23HYyAhL) | [Bachao](https://open.spotify.com/album/44HcKaBI2tWqsSEmIK9WLJ) | 4:46 | 2022-06-16 | 2023-02-18 |
 | [Baksho Bondi](https://open.spotify.com/track/6BEM34Z4MEPMd5wDq4WZYO) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 6:51 | 2023-03-15 | 2023-04-29 |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2023-02-17 | 2023-04-04 |
+| [Batighor](https://open.spotify.com/track/0hUennvBRzCBz7WeaXkRr5) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Batighor](https://open.spotify.com/album/5FLqB9JhcOaVi7xCLbpITO) | 6:07 | 2024-05-09 |  |
 | [Beatles](https://open.spotify.com/track/7eNQLrONUBz1Ae2QkJpzI6) | [Firoze Jong](https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq) | [Beatles](https://open.spotify.com/album/5KbfOmpfR9GJml6ai5JnDo) | 4:34 | 2023-05-21 | 2023-08-01 |
 | [Bedona](https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Notun Srot](https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy) | 4:09 | 2022-11-30 |  |
 | [Behula](https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Behula](https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG) | 3:52 | 2023-02-17 | 2024-03-13 |
@@ -111,7 +112,9 @@
 | [Ek Jomuna](https://open.spotify.com/track/50vQz9PHOJLvdmMkjL9MgL) | [Khiyo](https://open.spotify.com/artist/5MSaF2NFNibDfRvof5BAa9) | [Bondona](https://open.spotify.com/album/3eJZsoGNDMrnGqS3iwoAW7) | 3:13 | 2022-07-29 | 2022-09-24 |
 | [Ek Shokale](https://open.spotify.com/track/6t5ccJLoXgGZGOLRA0Mbip) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ek Shokale](https://open.spotify.com/album/5MqL326rSE0RhufZcQ2Rry) | 4:14 | 2022-06-16 | 2023-01-21 |
 | [Eka Shomoy](https://open.spotify.com/track/3hIUEpzW4ARKNgaqN3wc9p) | [EnB](https://open.spotify.com/artist/0DSUmiiDThNsaFtBid86ii) | [Eka Shomoy](https://open.spotify.com/album/7wFog5D5FhnfqWoD33k7rX) | 5:22 | 2023-09-12 | 2023-11-22 |
+| [Ekanto Golaap](https://open.spotify.com/track/7LvHieZe4yPYpDRF0OPCmk) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Ekanto Golaap](https://open.spotify.com/album/16PdkicE350PBwzKQAHmkw) | 4:17 | 2024-05-09 |  |
 | [Ekhane Akash Meshe](https://open.spotify.com/track/2OP8aGOhdnmjWCLKNTeHNY) | [Metrolife](https://open.spotify.com/artist/2QGWBYPcbTEVS8Kj0Ncjtx), [Mehedi Hasan Ayon](https://open.spotify.com/artist/1NzAo0keHigwcaEOnoaQmw) | [Ekhane Akash Meshe](https://open.spotify.com/album/66vCUkCiBKsNrExal2zw3s) | 7:12 | 2022-11-30 | 2023-01-21 |
+| [Ekhono](https://open.spotify.com/track/47w02kWfoGk4KNqNLid8GC) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 3:59 | 2024-05-09 |  |
 | [Ekhono](https://open.spotify.com/track/4ZoiikOfDXv4ks5rRqiK1Z) | [Jatrik](https://open.spotify.com/artist/6MMQ5xS4dg5ImURe4UFbWU) | [Ekhono](https://open.spotify.com/album/01DwqEvRJlH9iU5knnO2uB) | 4:54 | 2022-06-16 | 2023-03-16 |
 | [Ekta Kichu Hobe](https://open.spotify.com/track/6SedmmZ4HPn6IKYLwuDxLS) | [The Stargate](https://open.spotify.com/artist/7tcrODkS6QJqkLFNXFxnZZ) | [Ekta Kichu Hobe](https://open.spotify.com/album/1V8xu39XVLWEm9OQ4a7Cz4) | 3:44 | 2023-09-12 | 2023-09-27 |
 | [Epitaph](https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 6:43 | 2023-02-17 |  |
@@ -145,6 +148,7 @@
 | [Jadur Shohor](https://open.spotify.com/track/1x2Rx5lJw6RwHzYGsROHNk) | [Chirkutt](https://open.spotify.com/artist/5yAjp9iEmSbfjdTvGl85Ib) | [Jadur Shohor](https://open.spotify.com/album/75Drx1ZBQersYmvIrnTv8T) | 6:16 | 2023-08-07 |  |
 | [Jail Khanar Chithi](https://open.spotify.com/track/38EhI25fwrRgqQVr0bckFH) | [Shohortoli](https://open.spotify.com/artist/3haP4kXW7nY2k03cT7MbtD) | [Borabor Shohortoli](https://open.spotify.com/album/5R6qumFIhxLfR1SEamZois) | 9:22 | 2023-04-03 | 2023-04-29 |
 | [Jana Ki Chhilo?](https://open.spotify.com/track/7BFOxqjMLxKGXOn8VB7VQG) | [Buffering](https://open.spotify.com/artist/1W4HbIZa9wnuJLYxVIrBnH) | [Jana Ki Chhilo?](https://open.spotify.com/album/0J8risMmNAx4OOAqRUQlCh) | 6:20 | 2022-09-20 | 2023-02-18 |
+| [Janena Keu](https://open.spotify.com/track/4pMAxBRzuPzm8Sf49TNzPo) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Janena Keu](https://open.spotify.com/album/5d7fEqFSoTeoDNdad6mZMp) | 7:02 | 2024-05-09 |  |
 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 | 2022-06-16 | 2023-09-13 |
 | [Jeno Tomari Kache](https://open.spotify.com/track/6iMgrj9v5byFgbl9pyinpF) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Somlata](https://open.spotify.com/artist/2xMZqRbIbvfnDxZmcdq9rN) | [Shudhu Tomari Jonyo](https://open.spotify.com/album/2GICr5p81pM3Z0T9BJFb1o) | 4:36 | 2024-03-12 |  |
 | [Jhaal](https://open.spotify.com/track/5584oJPEvdI51kgsCR4mbp) | [SIN](https://open.spotify.com/artist/22bCoAwCZyUVMFQBaChhgS) | [Jhaal](https://open.spotify.com/album/4TbsjQcvZa5FkbI8GsjzFA) | 3:38 | 2022-08-29 | 2022-09-24 |

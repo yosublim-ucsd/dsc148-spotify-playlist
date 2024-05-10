@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. SLF in cover con \"Sar\u00f2 con te\", dedicata allo scudetto del Napoli \ud83d\udc99",
+  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover, el pibe de oro \ud83d\udc99",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 149000,
       "name": "2 SECONDI",
       "url": "https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn"
+    },
+    {
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/0qptCmlp2ryf8ypgPRunIQ"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162838,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/7sSICWhxNqMGtuUYGW0TyR"
     },
     {
       "album": {
@@ -198,7 +220,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 142798,
       "name": "A' vita senz' e te (Me fa paura)",
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174124,
       "name": "Colpa Mia",
       "url": "https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174532,
       "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
@@ -1601,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "EL PIBE DE ORO",
+        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
+    },
+    {
+      "album": {
         "name": "EMIRATES",
         "url": "https://open.spotify.com/album/2FeMXivnB7SG2PnT3Sq4LH"
       },
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 157950,
       "name": "FCCV",
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
@@ -2064,7 +2104,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 169000,
       "name": "GUAJ (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/3AuxMngBpEvLcnQgkDanyI"
@@ -2412,6 +2452,50 @@
       "duration_ms": 169076,
       "name": "INDELEBILE",
       "url": "https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB"
+    },
+    {
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "album": {
+        "name": "INT\u2019A BUFERA",
+        "url": "https://open.spotify.com/album/3jM7GBHjZrU0BqbeaYIRZ7"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
+        },
+        {
+          "name": "Rox is Here",
+          "url": "https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "INT\u2019A BUFERA",
+      "url": "https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa"
     },
     {
       "album": {
@@ -3199,6 +3283,28 @@
     },
     {
       "album": {
+        "name": "MEGL SI TE NE VAI",
+        "url": "https://open.spotify.com/album/615Z0bLHxe5sfOWbn07nkQ"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Ceru167",
+          "url": "https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138359,
+      "name": "MEGL SI TE NE VAI",
+      "url": "https://open.spotify.com/track/2JZzFtd3VZxAK20ClppIWC"
+    },
+    {
+      "album": {
         "name": "MEMORIA",
         "url": "https://open.spotify.com/album/0KHVqQMyO8Y3WImzGiucWj"
       },
@@ -3498,7 +3604,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 165666,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
@@ -3538,6 +3644,28 @@
       "duration_ms": 159763,
       "name": "Motorola",
       "url": "https://open.spotify.com/track/0FVgTO00uY8WyHPtfHp4Az"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        },
+        {
+          "name": "Milano Mobster",
+          "url": "https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37"
     },
     {
       "album": {
@@ -4823,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Vita bona",
+        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Quanno me ne so juto",
+      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
+    },
+    {
+      "album": {
         "name": "QUANNO ME NE SO JUTO, Pt. II",
         "url": "https://open.spotify.com/album/7tAZQpjOq08v3WE2IoEK3b"
       },
@@ -5428,7 +5574,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 221204,
       "name": "Sincer (feat. Lele Blade & Icy Subzero)",
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"

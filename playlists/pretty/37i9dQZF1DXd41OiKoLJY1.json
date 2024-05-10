@@ -1,13 +1,213 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Giro. Artwork: Isu Kim\n",
-  "num_followers": 59515,
+  "description": "Fresh releases from your future favorite artists. Cover: Her Name Is Noelle. Artwork: Isu Kim\n",
+  "num_followers": 59530,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRREgAAAAAJ4V/rj9XGndvFcH/QQTRP",
+  "snapshot_id": "ZjzzAAAAAADHJq2zt/Wrgkt5WUronzLV",
   "tracks": [
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Hiyang (feat. Nikka of the vowels they orbit)",
+        "url": "https://open.spotify.com/album/2Dp4mf5B2zXEm5ydYD40Mt"
+      },
+      "artists": [
+        {
+          "name": "tot\u00e2",
+          "url": "https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3"
+        },
+        {
+          "name": "Nikka of the vowels they orbit",
+          "url": "https://open.spotify.com/artist/7omobQY1yjQYKbDkBhhMlc"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Hiyang (feat. Nikka of the vowels they orbit)",
+      "url": "https://open.spotify.com/track/0uuD830LTQaKnaagq7Ow3d"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Isang Araw",
+        "url": "https://open.spotify.com/album/0S5wNRPluNRpuyWLoU0WCM"
+      },
+      "artists": [
+        {
+          "name": "luna",
+          "url": "https://open.spotify.com/artist/1UYvaxf3TTLJeisut0S6Ao"
+        }
+      ],
+      "duration_ms": 278399,
+      "name": "Isang Araw",
+      "url": "https://open.spotify.com/track/7Iman5sO5akcz5TjIiC5vB"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "HEART SAY SO (feat. Kylee & Patricia Heart)",
+        "url": "https://open.spotify.com/album/4QyFnD45HCW4oPuAKgOiY3"
+      },
+      "artists": [
+        {
+          "name": "Introvert Fiesta",
+          "url": "https://open.spotify.com/artist/1lJ1Rc8s6XhP5jzmuJTXZ9"
+        },
+        {
+          "name": "Cebu Made",
+          "url": "https://open.spotify.com/artist/2yGE7BoBkBrZ46q8FTg38V"
+        },
+        {
+          "name": "Kylee",
+          "url": "https://open.spotify.com/artist/5onqREsk3C2DgIuBdjdeEr"
+        },
+        {
+          "name": "Patricia Heart",
+          "url": "https://open.spotify.com/artist/4QehQldTyamU6bN7wQ1GaT"
+        }
+      ],
+      "duration_ms": 125851,
+      "name": "HEART SAY SO (feat. Kylee & Patricia Heart)",
+      "url": "https://open.spotify.com/track/7fD9hV338zZZbuL3KT84PX"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "YOU ARE AMAZING",
+        "url": "https://open.spotify.com/album/1HdEO8KjrtPaPThO60G4pN"
+      },
+      "artists": [
+        {
+          "name": "Iczy Luci",
+          "url": "https://open.spotify.com/artist/5ujUKwOpoYEShjGgLlHTOT"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "YOU ARE AMAZING",
+      "url": "https://open.spotify.com/track/5auuIRBXBWLec7BmFaZ27J"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Fighting One's Battle",
+        "url": "https://open.spotify.com/album/5RUrH2jZAyNwVUfpx4nPQj"
+      },
+      "artists": [
+        {
+          "name": "Her Name Is Noelle",
+          "url": "https://open.spotify.com/artist/2Fgg0mgz3aIYvS6wCGzdVT"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Fighting One's Battle",
+      "url": "https://open.spotify.com/track/66mldcCYLWrt1xitlQDtAj"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/1tTItsT5lEVE1uHLpzlWha"
+      },
+      "artists": [
+        {
+          "name": "felhony",
+          "url": "https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m"
+        },
+        {
+          "name": "Kyx",
+          "url": "https://open.spotify.com/artist/5odIdUwo9MYSgXfCezeCkw"
+        }
+      ],
+      "duration_ms": 208028,
+      "name": "We Up!",
+      "url": "https://open.spotify.com/track/1M0wDYYBvPdBzOpJOE3NFm"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "phases",
+        "url": "https://open.spotify.com/album/09PP1zsKOH23EjIJPpjQfQ"
+      },
+      "artists": [
+        {
+          "name": "rk jlln",
+          "url": "https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC"
+        }
+      ],
+      "duration_ms": 230227,
+      "name": "shapeshift",
+      "url": "https://open.spotify.com/track/1CabsnHP9WtwExfUyLDvd8"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Tara Na",
+        "url": "https://open.spotify.com/album/0N2Kw54oqaefS2NBpYUYlE"
+      },
+      "artists": [
+        {
+          "name": "Yhuan",
+          "url": "https://open.spotify.com/artist/3Dw1lH0mmEb3kx6qJXEN53"
+        }
+      ],
+      "duration_ms": 262679,
+      "name": "Tara na",
+      "url": "https://open.spotify.com/track/7JZPLfZAL7WK2bdvLnPwXM"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "bounce",
+        "url": "https://open.spotify.com/album/4KhbjJW0iZwDUl8ljoSYgq"
+      },
+      "artists": [
+        {
+          "name": "davidgocray",
+          "url": "https://open.spotify.com/artist/7IGGcRfxyZgcplCukyvWx1"
+        }
+      ],
+      "duration_ms": 77180,
+      "name": "bounce",
+      "url": "https://open.spotify.com/track/1Ibrew1rTKld6iqXNwi2kZ"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3zkJngIyyySnWWkdJUdAG7"
+      },
+      "artists": [
+        {
+          "name": "Darlene",
+          "url": "https://open.spotify.com/artist/2UEpN5pwe3wjaq81QxIow4"
+        }
+      ],
+      "duration_ms": 200322,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6KKtQvvIOwCchvr3sqWlPY"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "SAYANG U WASTED MY TIME",
+        "url": "https://open.spotify.com/album/4ZFAxTQjlk3khykerWi4vM"
+      },
+      "artists": [
+        {
+          "name": "Nouvul",
+          "url": "https://open.spotify.com/artist/4N61Y1Q9EXv2ug9wwHUTdQ"
+        },
+        {
+          "name": "BABY FREEZE",
+          "url": "https://open.spotify.com/artist/4BQ84eYGgqG80ToE0F5rBQ"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "SAYANG U WASTED MY TIME",
+      "url": "https://open.spotify.com/track/0gc0EDJ3rDO5bMZRosphGB"
+    },
     {
       "added_at": "2024-05-02 16:00:00",
       "album": {
@@ -1507,142 +1707,6 @@
       "duration_ms": 259445,
       "name": "Abo",
       "url": "https://open.spotify.com/track/1HkpBZNQW2rWJBijtskjh1"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Hinding-hindi",
-        "url": "https://open.spotify.com/album/46t6B8ZP3qcnWUxtFUHhfk"
-      },
-      "artists": [
-        {
-          "name": "Tamara",
-          "url": "https://open.spotify.com/artist/1Kxv8d3e9Lwi4zDVh0JAXI"
-        }
-      ],
-      "duration_ms": 184459,
-      "name": "Hinding-hindi",
-      "url": "https://open.spotify.com/track/1u6CNdE4V7LhHjL5cxXmxg"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Vanilla Bean",
-        "url": "https://open.spotify.com/album/3WDpNCHGH6lDfntfLVvXk3"
-      },
-      "artists": [
-        {
-          "name": "Peyton",
-          "url": "https://open.spotify.com/artist/6XrRDZ1bxk8neCrBcJq87Q"
-        }
-      ],
-      "duration_ms": 148041,
-      "name": "Vanilla Bean",
-      "url": "https://open.spotify.com/track/0kyvcMCfsaNAAQApD4qN6B"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Even For A Moment",
-        "url": "https://open.spotify.com/album/6Zwooag5yNvynGxj2ll4KT"
-      },
-      "artists": [
-        {
-          "name": "Reanne Borela",
-          "url": "https://open.spotify.com/artist/4VesHAVAMMJsmXZGMEo4IA"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Even For A Moment",
-      "url": "https://open.spotify.com/track/6leKaAag4cskG0wuvZKtDu"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "isama mo ako",
-        "url": "https://open.spotify.com/album/1wtedr3FOR0x7tCvuXaUb1"
-      },
-      "artists": [
-        {
-          "name": "YNGVIE",
-          "url": "https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK"
-        }
-      ],
-      "duration_ms": 188784,
-      "name": "isama mo ako",
-      "url": "https://open.spotify.com/track/3CpPIMJcpWed3qWSmUkFQA"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "MENACIN'",
-        "url": "https://open.spotify.com/album/4G68kcagsLyJTdXCdGDe7t"
-      },
-      "artists": [
-        {
-          "name": "Sin Santos",
-          "url": "https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5"
-        },
-        {
-          "name": "FFXRK",
-          "url": "https://open.spotify.com/artist/159r20ZB7BNQcyW6dnCdQj"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "MENACIN'",
-      "url": "https://open.spotify.com/track/0r9eozuSMViZPPfcUWfKj6"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/7LUwgr0BwOgXg7Bye7R1Qx"
-      },
-      "artists": [
-        {
-          "name": "Linya.linyahan",
-          "url": "https://open.spotify.com/artist/2sfF2jriiC8NerBklEbtwU"
-        },
-        {
-          "name": "Cloud Primeo",
-          "url": "https://open.spotify.com/artist/1hvTPGsMBVdfRrAacLKKFE"
-        }
-      ],
-      "duration_ms": 269498,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/07JVx5VkPTA8MPTHYyJL19"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Oras-oras",
-        "url": "https://open.spotify.com/album/2IntdTkb5Y2j7KXjEsnp34"
-      },
-      "artists": [
-        {
-          "name": "Rap Sanchez",
-          "url": "https://open.spotify.com/artist/6F51JteWuKXpMTjnLALEO4"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Oras-oras",
-      "url": "https://open.spotify.com/track/0BOH2814AIrAuMNBw63BmO"
-    },
-    {
-      "added_at": "2024-04-25 16:00:25",
-      "album": {
-        "name": "Bakit Di Na Lang Ako",
-        "url": "https://open.spotify.com/album/5eq3kXWWCrdmroHLCYt2El"
-      },
-      "artists": [
-        {
-          "name": "OC-J",
-          "url": "https://open.spotify.com/artist/6KYPH30jIa62XviMrDtMbS"
-        }
-      ],
-      "duration_ms": 250235,
-      "name": "Bakit Di Na Lang Ako",
-      "url": "https://open.spotify.com/track/4UrccxqwiO3FHDX1x8I1qN"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

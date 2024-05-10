@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : MDNS
+> La scène française branchée sur courant alternatif\. Photo : Liv del Estal
 
-164 songs - 8 hr 49 min
+165 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [babyBB](https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD) | 3:20 | 2024-02-29 |  |
 | [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 | 2024-01-27 |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
+| [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 |  |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:13 | 2023-12-08 |  |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 |  |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 | 2024-01-19 |
@@ -63,7 +64,7 @@
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 |  |
 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 | 2024-04-18 |  |
-| [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 |  |
+| [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 |  |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 | 2024-02-02 |
 | [Idiot du quartier de lune](https://open.spotify.com/track/2rD3JBQh4lkVj0qvSbZzw0) | [Ian Caulfield](https://open.spotify.com/artist/4jcI2D2oUbSyQYB4isUZiz) | [Idiot du quartier de lune](https://open.spotify.com/album/6fig2z3viSXQIukDe36Hwo) | 3:21 | 2023-10-12 |  |

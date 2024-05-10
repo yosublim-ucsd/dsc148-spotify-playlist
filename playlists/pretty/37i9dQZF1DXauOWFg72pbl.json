@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 583044,
+  "num_followers": 583071,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Wanting and Waiting",
-        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -891,22 +875,6 @@
       "duration_ms": 234466,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Blunderbuss",
-        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Sixteen Saltines",
-      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -927,22 +895,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Blunderbuss",
+        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Sixteen Saltines",
+      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -959,6 +939,26 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Shakin' Off The Rust",
-        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
       "artists": [
         {
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Shakin' Off The Rust",
-      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
+      "duration_ms": 186156,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Don't Miss",
-        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
+        "name": "Shakin' Off The Rust",
+        "url": "https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 186156,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+      "duration_ms": 222936,
+      "name": "Shakin' Off The Rust",
+      "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 239114,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6Q6ByVmO7mtrbmhq3q1ALF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Be Legendary",
-      "url": "https://open.spotify.com/track/2mVFo8BJ6ZPh82QAOpCUbT"
     }
   ],
   "unique_name": "Beer & Wings",

@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 474224,
       "name": "2:16",
       "url": "https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV"
@@ -1156,6 +1156,24 @@
       "duration_ms": 232420,
       "name": "As You Were (Original Mix)",
       "url": "https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p"
+    },
+    {
+      "album": {
+        "name": "This Bliss",
+        "url": "https://open.spotify.com/album/5ISoAxEvezM5hpiZzmUJ7J"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391106,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/1rUI48b5rFq46VvWDyEgjB"
     },
     {
       "album": {
@@ -10088,7 +10106,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 276157,
       "name": "Nation",
       "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
@@ -13115,6 +13133,24 @@
     },
     {
       "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352586,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci"
+    },
+    {
+      "album": {
         "name": "Luminosity Device",
         "url": "https://open.spotify.com/album/1P1k0VL2WAraMix5pgIb6B"
       },
@@ -15360,7 +15396,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 161951,
       "name": "The Last Dance - Synthapella",
       "url": "https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa"
@@ -15630,7 +15666,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 224303,
       "name": "The Path Less Travelled",
       "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
@@ -16400,6 +16436,28 @@
       "duration_ms": 138200,
       "name": "Tumbler",
       "url": "https://open.spotify.com/track/0sIETaTpa1K66BS4AEtmFr"
+    },
+    {
+      "album": {
+        "name": "twelve",
+        "url": "https://open.spotify.com/album/5nbB9U8PPRI2rzEfYT3371"
+      },
+      "artists": [
+        {
+          "name": "Louis Carnell",
+          "url": "https://open.spotify.com/artist/4qCmhUVU5FypJEFPWYxpvJ"
+        },
+        {
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369214,
+      "name": "twelve",
+      "url": "https://open.spotify.com/track/6rRRueTvqqNuhjxe8Zw4D5"
     },
     {
       "album": {
@@ -17274,6 +17332,24 @@
       "duration_ms": 203746,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/0qXbs6RjB73qVRqmdgppZT"
+    },
+    {
+      "album": {
+        "name": "What You Thought That Day",
+        "url": "https://open.spotify.com/album/0EFi8FOJEFcEtzZQCj5wzS"
+      },
+      "artists": [
+        {
+          "name": "IDRA",
+          "url": "https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "What You Thought That Day",
+      "url": "https://open.spotify.com/track/5Y0PzgW5d8zIC7AeX6qhme"
     },
     {
       "album": {

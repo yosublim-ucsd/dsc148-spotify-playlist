@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g">Manana</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV\-LkmPxCQ">Shallipopi</a> and <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA">Joshua Baraka</a>
 
-330 songs - 17 hr 36 min
+331 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-05-05 | 2022-10-14 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-05-03 | 2022-09-24 |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-05-09 |  |
+| [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 | 2024-05-09 |  |
 | [Getting Late](https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy) | 4:14 | 2021-03-01 | 2022-05-06 |
 | [Ghana Bop](https://open.spotify.com/track/3zvitqVLMhzKzq3tQR4INc) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Wondergirl](https://open.spotify.com/album/5gX8CJicdyXFqlUtYTNqF6) | 2:44 | 2021-05-03 | 2022-05-06 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2024-05-09 |

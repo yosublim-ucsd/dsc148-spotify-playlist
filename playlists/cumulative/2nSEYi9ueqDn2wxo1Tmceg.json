@@ -8285,6 +8285,24 @@
     },
     {
       "album": {
+        "name": "Kids On Holiday (Live)",
+        "url": "https://open.spotify.com/album/6r6V1etUvbGViUVFVt0y8c"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396814,
+      "name": "Kids On Holiday - Live",
+      "url": "https://open.spotify.com/track/2NaQ5oJ6SzF2YTVPBbvdky"
+    },
+    {
+      "album": {
         "name": "Bird Machine",
         "url": "https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Fedde Le Grand",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Will Clarke",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
+    },
+    {
+      "album": {
         "name": "Blow Ya Mind",
         "url": "https://open.spotify.com/album/51wbHKnC7gsMIdfbtRueKw"
       },
@@ -2202,7 +2224,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 189000,
       "name": "Bugging",
       "url": "https://open.spotify.com/track/3G2WoX9eNTAMnhpnDnNHGI"
@@ -3618,7 +3640,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202633,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/4UyLsFc8HIcj7k4N6fXBWt"
@@ -3784,7 +3806,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 240001,
       "name": "DFCW",
       "url": "https://open.spotify.com/track/1T8dzkxfuABDgXS0pG1fDf"
@@ -4465,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/37J5A2UvvwnQMOb6Q6wJa4"
+      },
+      "artists": [
+        {
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/7ilI1BbEZgxPRrUiaTTOjI"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/5gjhdgT90wzs9QeDRpEdrB"
       },
@@ -4560,7 +4600,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187200,
       "name": "Drop It",
       "url": "https://open.spotify.com/track/7EAECM8UkwVR5KZ9YDky9X"
@@ -7828,6 +7868,24 @@
       "duration_ms": 166451,
       "name": "High On That New Love",
       "url": "https://open.spotify.com/track/1QH1Lhz1GFShACuoKgFcL9"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/34CebpdXgcpEhSzu5zvyPn"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262937,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7tdmyozV2za6S269VIMdHt"
     },
     {
       "album": {
@@ -13212,7 +13270,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 206320,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
@@ -14608,7 +14666,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 217500,
       "name": "Pop That",
       "url": "https://open.spotify.com/track/2QRGNzgsQVSHCKA3TqH23N"
@@ -14630,7 +14688,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174444,
       "name": "Post Malone (feat. RANI)",
       "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
@@ -14656,7 +14714,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -16668,7 +16726,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 156000,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/6xkFJfOr9SMCVN48RXNDIg"
@@ -19468,7 +19526,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208406,
       "name": "The Records",
       "url": "https://open.spotify.com/track/18fApEcxDOp88JN8tgYzBL"
@@ -20058,7 +20116,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 178329,
       "name": "To The Drum",
       "url": "https://open.spotify.com/track/4NEMVoMjqwr5saV77JuEI8"
@@ -21200,6 +21258,28 @@
       "duration_ms": 213032,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/6epDDkgs6Vy0O43wxSEuZ3"
+    },
+    {
+      "album": {
+        "name": "Wanene",
+        "url": "https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213780,
+      "name": "Wanene",
+      "url": "https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ"
     },
     {
       "album": {
@@ -22380,7 +22460,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 212573,
       "name": "You Don't Know Me (feat. RAYE)",
       "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"

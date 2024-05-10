@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 130139,
+  "num_followers": 130194,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "4 Decadas de Exitos",
-        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "AMOR PROPIO",
         "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 172485,
       "name": "AMOR PROPIO",
       "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 262661,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+      "duration_ms": 262661,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1023,6 +1007,22 @@
       "duration_ms": 164040,
       "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Mi Trokita Cumbia",
-        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Volumen Prohibido",
         "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Mi Trokita Cumbia",
+        "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lo Mejor de Mi Vida",
-        "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
-      },
-      "artists": [
-        {
-          "name": "La Firma",
-          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Lo Mejor de Mi Vida",
-      "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Estan De Moda",
         "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 285600,
       "name": "Quien Perdera",
       "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Lo Mejor de Mi Vida",
+        "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
+      },
+      "artists": [
+        {
+          "name": "La Firma",
+          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Lo Mejor de Mi Vida",
+      "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "No Tengo Amigos",
-      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Lo Mejor De",
         "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 212140,
       "name": "Vete a Buscar Aquel",
       "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "No Tengo Amigos",
+      "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "La Voz Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Si Yo Fuera Tu",
+      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
         "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "La Voz Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Si Yo Fuera Tu",
-      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "El Canto De Un Rebelde Para Un",
-        "url": "https://open.spotify.com/album/7hcqIWxB110shP4PC8Wu9a"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "La Ramita De Ciriguaya",
-      "url": "https://open.spotify.com/track/0PzepClKfRFI87D1TywZnT"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Tatuajes de P\u00f3lvora",
         "url": "https://open.spotify.com/album/6fEY0doTao8Nnqb8cP9UPx"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 200800,
       "name": "Tanto Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4LoQB01RbhL1vdJPxFmqDA"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "El Canto De Un Rebelde Para Un",
+        "url": "https://open.spotify.com/album/7hcqIWxB110shP4PC8Wu9a"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "La Ramita De Ciriguaya",
+      "url": "https://open.spotify.com/track/0PzepClKfRFI87D1TywZnT"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "\u00c9xitos Andr\u00e9s Landero",
+        "url": "https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a"
+      },
+      "artists": [
+        {
+          "name": "Andres Landero Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Cuando Lo Negro Sea Bello",
+      "url": "https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Cumbia Valledupar",
         "url": "https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 322720,
       "name": "Cumbia de Mis Amores - Cover En Vivo",
       "url": "https://open.spotify.com/track/6ZHxgkTUjoXn8k58CjFdkP"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "\u00c9xitos Andr\u00e9s Landero",
-        "url": "https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a"
-      },
-      "artists": [
-        {
-          "name": "Andres Landero Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Cuando Lo Negro Sea Bello",
-      "url": "https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Tropa Loca Antolog\u00eda Musical",
-        "url": "https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Co. De Paco Silva",
-          "url": "https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Bonito Son - Cumbia",
-      "url": "https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 170180,
       "name": "El Sonido De Tu Voz",
       "url": "https://open.spotify.com/track/6RtZYoM4rNdoDVgbwfOK2V"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "La Tropa Loca Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Co. De Paco Silva",
+          "url": "https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Bonito Son - Cumbia",
+      "url": "https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

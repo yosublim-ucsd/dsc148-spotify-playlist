@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174840,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198407,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 186149,
       "name": "Bum Bum Tam Tam - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/7vh69SQxqTfa5tsG4zeZOk"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 201254,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
@@ -486,6 +486,28 @@
       "duration_ms": 238451,
       "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
       "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
+    },
+    {
+      "album": {
+        "name": "Beach House & EDM Lounge",
+        "url": "https://open.spotify.com/album/2G8XUGYuXiRz6DFeoVPzBD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224744,
+      "name": "I See Love - Extended Mix",
+      "url": "https://open.spotify.com/track/0bXZ7EDW04kNR8jaxZ4xLc"
     },
     {
       "album": {
@@ -632,7 +654,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 184133,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
@@ -702,7 +724,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 186490,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC"
@@ -801,6 +823,32 @@
     },
     {
       "album": {
+        "name": "My Life Is Music (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "The Visionary",
+          "url": "https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "My Life Is Music - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
       },
@@ -882,7 +930,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 196821,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
@@ -930,7 +978,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 159850,
       "name": "Perfect Melody",
       "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
@@ -952,7 +1000,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
@@ -1029,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Era Istrefi",
+          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170120,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey"
+    },
+    {
+      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -1074,7 +1144,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194407,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
@@ -1200,7 +1270,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
@@ -1252,7 +1322,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 192449,
       "name": "We Could Go Back",
       "url": "https://open.spotify.com/track/6tgSxgv4moPC3XvX11SKhs"
@@ -1274,7 +1344,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
@@ -1312,6 +1382,32 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/4H0iUwnJaY9Ev07IP6DW5j"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
           "name": "Chelcee Grimes",
           "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
         },
@@ -1326,7 +1422,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 212640,
       "name": "Wild",
       "url": "https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH"

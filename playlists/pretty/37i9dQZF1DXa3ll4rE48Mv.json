@@ -1,10 +1,10 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 191722,
+  "num_followers": 191803,
   "original_name": "Queercore",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZIsUzQAAAABfw5DG9WdSVjTE2i4EWEfe",
   "tracks": [
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Everything Dies",
-        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
-      },
-      "artists": [
-        {
-          "name": "Nervus",
-          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Chickens",
         "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 260000,
       "name": "Chickens",
       "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Everything Dies",
+        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Sick Sad World",
+      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

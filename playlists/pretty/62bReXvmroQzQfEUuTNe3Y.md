@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,234,845 likes - 149 songs - 8 hr 5 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,235,790 likes - 149 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

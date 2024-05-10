@@ -1,12 +1,12 @@
 {
   "description": "New music from Kendrick Lamar, Drake and Gunna. ",
-  "num_followers": 15825880,
+  "num_followers": 15830843,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zjvr6wAAAAAdeAdEcT9I+aW3SJYRU6Av",
+  "snapshot_id": "ZjxKQAAAAACJQee4sv8rnJzl6VC8JLfh",
   "tracks": [
     {
       "added_at": "2024-05-08 21:17:31",
@@ -187,6 +187,26 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "added_at": "2024-05-09 04:00:00",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": "2024-05-08 21:17:31",

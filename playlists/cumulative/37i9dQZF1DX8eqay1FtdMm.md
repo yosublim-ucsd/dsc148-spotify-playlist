@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Baek Ji Young\(백지영\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Parc Jae Jung\(박재정\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-508 songs - 1 day 9 hr 1 min
+511 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-28 | 2023-03-06 |
 | [A Song For You](https://open.spotify.com/track/28ocL3QAnZYKfC6KKHYSq3) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [A Song For You \(2nd MAKE:UP\)](https://open.spotify.com/album/5SPMrBVM6ZOg2DBRHR2s3D) | 4:03 | 2022-01-18 | 2022-06-01 |
 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 | 2021-12-20 |  |
+| [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 | 2024-05-09 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 |  |
 | [After Summer](https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 3:15 | 2021-12-20 | 2022-07-27 |
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-19 | 2023-01-11 |
@@ -52,12 +53,12 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-08 | 2024-04-24 |
 | [Beauty\(2021\)](https://open.spotify.com/track/2aY3oOlqP2IfFeyLL2Xjyu) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Beauty\(2021\)](https://open.spotify.com/album/2POm3VpxdpC8NyZ5qpC5G8) | 3:41 | 2022-01-21 | 2022-04-14 |
 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 | 2021-12-20 |  |
-| [Because of love](https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because of love](https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X) | 3:40 | 2024-05-02 |  |
+| [Because of love](https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because of love](https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X) | 3:40 | 2024-05-02 | 2024-05-10 |
 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 | 2022-02-10 |  |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2021-12-20 | 2022-10-25 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-07-25 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-03-24 | 2022-12-13 |
-| [Between Heaven And Hell](https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Between Heaven And Hell](https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd) | 3:46 | 2024-05-02 |  |
+| [Between Heaven And Hell](https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Between Heaven And Hell](https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd) | 3:46 | 2024-05-02 | 2024-05-10 |
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-01-25 |
 | [Big world](https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 3:54 | 2023-01-02 | 2023-10-06 |
 | [Blame](https://open.spotify.com/track/4D0Zn7ULyzUVDC5z4dx5VT) | [Ragoon](https://open.spotify.com/artist/6KukpOkfUcJxKmgsGEvTaz) | [Blame](https://open.spotify.com/album/5CtYaFaa9tWwfgyJkfODVF) | 4:19 | 2022-03-29 | 2022-04-21 |
@@ -163,6 +164,7 @@
 | [Heartache](https://open.spotify.com/track/3bSTr4YmIxaiB97Yo2pGrr) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Heartache](https://open.spotify.com/album/4FWBSVDxn1E0eQConJ66Qr) | 3:33 | 2022-03-24 | 2022-04-21 |
 | [Heartless Word 반대말](https://open.spotify.com/track/3fhBh2F7kx1Cg8etl0soSj) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [The Four Seasons](https://open.spotify.com/album/4hlXz1SzeyISBeaT8NAUtw) | 4:16 | 2022-04-01 | 2022-04-14 |
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-07-11 | 2023-07-21 |
+| [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 | 2024-05-09 |  |
 | [Hee Jae](https://open.spotify.com/track/6NPwyiOIJMTSVGspkOKiX7) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [\[Vol.4\] You Hee yul's Sketchbook 10th Anniversary Project : 2nd Voice 'Sketchbook X Ben'](https://open.spotify.com/album/6o1qBQswi3EBElxewqi7Yl) | 5:41 | 2021-12-20 | 2022-06-03 |
 | [Hello](https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:55 | 2024-02-20 | 2024-04-24 |
 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 | 2023-01-25 | 2024-01-10 |
@@ -375,11 +377,12 @@
 | [Stars](https://open.spotify.com/track/6Mn74uvm0wZaEjPK0eTtHY) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Shape of Rothy](https://open.spotify.com/album/4DsSCFGCzQ4GPMw3pTh3A5) | 4:20 | 2021-12-20 | 2022-07-29 |
 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 | 2021-12-20 |  |
 | [Stay](https://open.spotify.com/track/4GJe5QQxmtHsJa3AvZroal) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:18 | 2022-05-31 | 2022-06-15 |
-| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 |  |
+| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 | 2024-05-10 |
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-02-20 | 2024-04-24 |
 | [Still](https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [ALAL \#3](https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2) | 4:08 | 2022-03-29 | 2022-04-17 |
+| [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 |  |
 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 |  |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |

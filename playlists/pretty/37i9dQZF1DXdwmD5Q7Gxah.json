@@ -1,13 +1,29 @@
 {
-  "description": "songs that linger \ud83d\ude0e ft royel otis",
+  "description": "beabadoobee \ud83e\udd1d rick rubin",
   "num_followers": 1145760,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjqoXAAAAACHJZyyc8FWgJq0p2dfxxcP",
+  "snapshot_id": "Zj07KwAAAACbcGNl2tr7CxQn3j6koS4a",
   "tracks": [
+    {
+      "added_at": "2024-05-09 21:07:55",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {

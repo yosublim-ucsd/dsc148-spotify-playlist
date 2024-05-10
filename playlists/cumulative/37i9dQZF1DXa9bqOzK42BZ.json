@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "All of My Worship",
+        "url": "https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK"
+      },
+      "artists": [
+        {
+          "name": "Afrobeats Worship",
+          "url": "https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208701,
+      "name": "All of My Worship",
+      "url": "https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp"
+    },
+    {
+      "album": {
         "name": "Amefanya",
         "url": "https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs"
       },
@@ -270,7 +296,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198400,
       "name": "BABA MWEMA",
       "url": "https://open.spotify.com/track/7pM0W3cq4NYaG5pmt3FDA9"
@@ -310,6 +336,24 @@
       "duration_ms": 201599,
       "name": "Bijoux",
       "url": "https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0HYkPm2FuTCLiC7fCMf8JG"
+      },
+      "artists": [
+        {
+          "name": "Bigpapamadethis",
+          "url": "https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137875,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/4Eb505zojHO3HVFOY1tiBO"
     },
     {
       "album": {
@@ -1002,6 +1046,24 @@
       "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
+    },
+    {
+      "album": {
+        "name": "Mafinyo",
+        "url": "https://open.spotify.com/album/35OrbuAz7HimsFYUwE4QfQ"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Mafinyo",
+      "url": "https://open.spotify.com/track/0Dvegx9rdQ1zcDuwrmD9lg"
     },
     {
       "album": {
@@ -1966,7 +2028,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 236726,
       "name": "Nitumie",
       "url": "https://open.spotify.com/track/5mApIp6LxaHq9htEK9g7KV"
@@ -1984,7 +2046,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 467360,
       "name": "Niumbie Moyo Safi",
       "url": "https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq"

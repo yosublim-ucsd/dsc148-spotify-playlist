@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 152138,
+  "num_followers": 152196,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Put It In A Song",
-        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Put It In A Song",
-      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 162920,
       "name": "All I Know About Girls",
       "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 215721,
       "name": "Little More Be Alright",
       "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "While You're Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
-      },
-      "artists": [
-        {
-          "name": "Drew Parker",
-          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "While You're Gone - Acoustic",
-      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "While You're Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "While You're Gone - Acoustic",
+      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "I Don't Wanna Go To Heaven (Choir Version)",
         "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+        }
+      ],
+      "duration_ms": 160875,
+      "name": "Love Makes You Blind - Acoustic Version",
+      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 182327,
       "name": "At the End of a Bar - Acoustic",
       "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Love Makes You Blind - Acoustic Version",
-      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
     },
     {
       "added_at": "2024-05-03 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 48063,
+  "num_followers": 48081,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-25 19:28:32",
       "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2024-04-25 19:28:32",
+      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-04-25 19:28:32",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2024-04-25 19:28:32",
@@ -1007,22 +1023,6 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2024-04-25 19:28:32",
-      "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2024-04-25 19:28:32",
@@ -1116,13 +1116,13 @@
       },
       "artists": [
         {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
     },
     {
       "added_at": "2024-04-25 19:28:32",
@@ -1132,13 +1132,13 @@
       },
       "artists": [
         {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
         }
       ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2024-04-25 19:28:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-04-25 19:28:32",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2024-04-25 19:28:32",
-      "album": {
         "name": "D\u00fao Cejas Sol\u00eds",
         "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
@@ -1396,13 +1380,13 @@
       },
       "artists": [
         {
-          "name": "Los hermanos Cena",
-          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
         }
       ],
-      "duration_ms": 110706,
-      "name": "Camino a las cuchillas",
-      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2024-04-25 19:28:32",
@@ -1419,6 +1403,22 @@
       "duration_ms": 139253,
       "name": "El Gato Blanco",
       "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
+    },
+    {
+      "added_at": "2024-04-25 19:28:32",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
     },
     {
       "added_at": "2024-04-25 19:28:32",

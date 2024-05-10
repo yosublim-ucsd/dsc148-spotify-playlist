@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-773 songs - 1 day 17 hr 32 min
+778 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-04-24 | 2021-05-12 |
 | [Safe Place](https://open.spotify.com/track/473mm8ZCEemFD8p2RnP9nz) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [semilucent](https://open.spotify.com/album/0pQOeB5lxMJ8OhNZE2Jv9a) | 2:43 | 2020-07-31 | 2021-05-12 |
 | [Said&Done](https://open.spotify.com/track/5lU7ncUEARvpKJ0jGAgaqO) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Said&Done](https://open.spotify.com/album/3bHF1i9CFWmYU8ZsL6HgFB) | 2:40 | 2019-11-08 |  |
+| [Saint](https://open.spotify.com/track/3wtGbwOllRwGYUFplSyJzA) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [SAINT](https://open.spotify.com/album/7G2hn1s5kC1sxlQcXEXAUy) | 3:08 | 2024-05-10 |  |
 | [Same Things](https://open.spotify.com/track/0lGfXIzwIPBLeP149vMCS9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx) | 2:49 | 2024-04-23 |  |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2019-08-27\* | 2021-05-12 |
 | [Satellite](https://open.spotify.com/track/3xIP4i2mstqylCME7dek0G) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Satellite](https://open.spotify.com/album/5wmvoawQeyRINdlMJtZJlf) | 4:22 | 2019-08-27\* | 2020-05-19 |
@@ -658,6 +659,7 @@
 | [Sweet Tooth](https://open.spotify.com/track/6dhn5ZreoskYocA256lMPV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sweet Tooth](https://open.spotify.com/album/50pwo2lVRHdrusSovA3ic2) | 4:06 | 2020-02-14 | 2021-05-12 |
 | [Switchblade](https://open.spotify.com/track/6Ve2gwTaMxTgKMuAcHbwcH) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Switchblade](https://open.spotify.com/album/3Jbl4tevdetpELBgXwBjKp) | 3:24 | 2020-04-03 | 2021-05-12 |
 | [Take Our Time](https://open.spotify.com/track/5J7VVz63RMbZYJL9ARKZ7M) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Take Our Time](https://open.spotify.com/album/6gAxxBZ0MFg22Bmrh07moe) | 3:38 | 2019-08-27\* | 2019-11-11 |
+| [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 |  |
 | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI) | 3:27 | 2021-09-24 |  |
 | [TALK DEEP](https://open.spotify.com/track/6RMvf7OCYYSw4x2K8UakDt) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [TALK DEEP](https://open.spotify.com/album/6QSypClxqJS7M5fhLSbuK7) | 3:30 | 2019-10-11 |  |
 | [Talk You Down](https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Talk You Down](https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD) | 2:36 | 2021-01-08 |  |
@@ -685,6 +687,7 @@
 | [The One](https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The One](https://open.spotify.com/album/1iIO7Ft3S5Yq6ZG7mb87qs) | 3:20 | 2022-11-18 |  |
 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2020-03-27 | 2021-05-12 |
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2020-12-04 |  |
+| [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-10 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-10-16 |  |
 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 | 2019-11-22 | 2020-05-19 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-02-10 |  |
@@ -739,6 +742,8 @@
 | [War Is Love](https://open.spotify.com/track/786Lp156fjnJQOW6OxGre1) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [War Is Love](https://open.spotify.com/album/3LrEoKNF8CswuzeE2FcGxu) | 4:00 | 2023-04-21 |  |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 |  |
 | [Waves](https://open.spotify.com/track/53xhyrYyJMNylCQFJQgbCY) | [Jamyang](https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw) | [Waves](https://open.spotify.com/album/6kGWiXF2tpr7sCz1Ap1hFb) | 3:55 | 2022-10-14 |  |
+| [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-05-10 |  |
+| [Wayside](https://open.spotify.com/track/0Z2f0EHh9wYSZWQzxEuhRy) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Wayside](https://open.spotify.com/album/3HUoAP6sgFaWMm1vxRLWYm) | 3:44 | 2024-05-10 |  |
 | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/track/3cabEB5HG1oocs574S4icH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [We All Have \(feat\. Matt Berninger\)](https://open.spotify.com/album/7muvMsqEbqB2YmsX4ONcHE) | 2:39 | 2021-02-06 | 2022-07-30 |
 | [We Are Warriors](https://open.spotify.com/track/15fb3LJiJbuc5s272jXdUq) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [We Are Warriors](https://open.spotify.com/album/6tHvL1cUXtz3IzXgGhqlZz) | 3:45 | 2020-04-24 | 2021-05-12 |
 | [We Don't Talk About It](https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [We Don't Talk About It](https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk) | 2:54 | 2023-11-17 |  |

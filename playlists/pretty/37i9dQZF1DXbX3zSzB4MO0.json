@@ -1,6 +1,6 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 7026,
+  "num_followers": 7188,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
-      },
-      "artists": [
-        {
-          "name": "Picco",
-          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8"
+      },
+      "artists": [
+        {
+          "name": "Picco",
+          "url": "https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK"
+        }
+      ],
+      "duration_ms": 170155,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "UNTZ UNTZ",
-        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 146736,
-      "name": "UNTZ UNTZ",
-      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 141333,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
+        "name": "UNTZ UNTZ",
+        "url": "https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 146736,
+      "name": "UNTZ UNTZ",
+      "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+        "name": "Lennon",
+        "url": "https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 200318,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+      "duration_ms": 205429,
+      "name": "Lennon",
+      "url": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
     },
     {
       "added_at": "2024-02-07 08:57:42",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-02-07 08:57:42",
       "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2024-02-07 08:57:42",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 230645,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
-    },
-    {
-      "added_at": "2024-02-07 08:57:42",
-      "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2024-02-07 08:57:42",

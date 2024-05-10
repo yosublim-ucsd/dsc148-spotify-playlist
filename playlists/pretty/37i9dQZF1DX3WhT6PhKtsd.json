@@ -1,6 +1,6 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 115252,
+  "num_followers": 115250,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Sugarbread",
         "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 185000,
       "name": "Me and the Devil",
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
     },
     {
       "added_at": "2023-11-29 12:29:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "Jagged Little Pill",
         "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 249200,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Kiss With A Fist",
+      "url": "https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b"
     },
     {
       "added_at": "2023-11-29 12:29:47",

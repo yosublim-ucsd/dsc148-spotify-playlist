@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 27306,
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
+  "num_followers": 27347,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABFqYZMqPTKiKydIaFGExRu",
+  "snapshot_id": "ZjrAgAAAAAAKGBryyBG1iLLlTLfGo+RR",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150045,
+      "name": "Las Dos R",
+      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150045,
-      "name": "Las Dos R",
-      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
     },
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Coquette",
         "url": "https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 142469,
       "name": "Tu Coquette",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": null,
@@ -431,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Benjamines",
-        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
+        "name": "DE 8 A 5",
+        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 166284,
-      "name": "Los Benjamines",
-      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
+      "duration_ms": 194477,
+      "name": "De 8 A 5",
+      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DE 8 A 5",
-        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
+        "name": "Los Benjamines",
+        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 194477,
-      "name": "De 8 A 5",
-      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
+      "duration_ms": 166284,
+      "name": "Los Benjamines",
+      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
     },
     {
       "added_at": null,

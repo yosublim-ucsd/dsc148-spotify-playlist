@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=HiPi0eTOTaGlT9gbytUBvw">Zaan Sonnekus</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=G8Yjoqa\-Q16QIr7V7Zklcw">Zoé</a>
 
-468 songs - 1 day 3 hr 58 min
+470 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
 | [Bones](https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o) | [Avolver](https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H) | [Bones](https://open.spotify.com/album/6VMjSQFJ3538k9UyZVQn1d) | 3:41 | 2023-07-28 | 2023-09-29 |
-| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 |  |
+| [Brainmash](https://open.spotify.com/track/2R3bKKFvTLBshLNPyykj6y) | [Taxi Violence](https://open.spotify.com/artist/3EVMIaXyxgpMr0RfN0tka6) | [Soul Shake](https://open.spotify.com/album/04D9j7lpxVlFKPTfSbcGJL) | 4:01 | 2024-01-04 | 2024-05-10 |
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 | 2022-11-18 |
 | [Bumper Sticker](https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3) | [Berry](https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd) | [Bumper Sticker](https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8) | 2:54 | 2023-12-21 | 2024-01-05 |
 | [Burn It](https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Burn It](https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi) | 2:32 | 2023-07-06 | 2023-09-16 |
@@ -288,6 +288,7 @@
 | [My Wolf](https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL) | [Hansie Roodt](https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3) | [My Wolf](https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf) | 3:44 | 2023-03-30 | 2023-05-26 |
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |
 | [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
+| [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 | 2024-05-09 |  |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 | 2023-03-31 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2023-05-06 |
 | [No One Else Will](https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [No One Else Will](https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98) | 3:20 | 2023-02-16 | 2023-03-18 |
@@ -344,6 +345,7 @@
 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 | 2022-04-08 | 2023-01-13 |
 | [Road Rage](https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Road Rage](https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd) | 3:00 | 2023-03-23 | 2023-04-15 |
 | [roadkill\~](https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [roadkill\~](https://open.spotify.com/album/72h5rMFASPwgX5i5wSuwGx) | 2:46 | 2023-09-28 | 2024-01-05 |
+| [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 | 2024-05-09 |  |
 | [Runners](https://open.spotify.com/track/04ji2S99gUmYFUM7meH2dq) | [Squeal](https://open.spotify.com/artist/05QUj92uS2fRlB6P2RO5uV) | [Rocktober \(The Best South African Rock Hits of All Time\)](https://open.spotify.com/album/4BO2l8sACrAbp1OCtSWK8Q) | 5:37 | 2024-01-04 | 2024-03-30 |
 | [Safari Music](https://open.spotify.com/track/6Qen4bdmho0oKLwfDwgu3n) | [Not My Dog](https://open.spotify.com/artist/7p5v2JRt5D9QjHn3u8h16T) | [Dogumentary](https://open.spotify.com/album/2xV7OjTmhfasmMXVEIr56g) | 3:28 | 2024-01-04 | 2024-02-10 |
 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 | 2022-09-15 | 2022-11-18 |
@@ -393,7 +395,7 @@
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 | 2023-04-28 |
 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 | 2023-02-10 |
-| [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 | 2023-08-17 |  |
+| [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 | 2023-08-17 | 2024-05-10 |
 | [Surfing Sunshine](https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Surfing Sunshine](https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt) | 3:33 | 2023-12-14 | 2024-01-05 |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Synesthesia](https://open.spotify.com/track/0hBQalBDzf9sjhvXpQUqEh) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Synesthesia](https://open.spotify.com/album/2HM59GCBORsw7BUQAkY3S0) | 3:53 | 2023-06-22 | 2023-09-01 |

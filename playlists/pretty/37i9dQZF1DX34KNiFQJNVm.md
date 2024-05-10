@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dua Lipa, Matuê com MC Ryan SP, Simone Mendes e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,904,370 likes - 61 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,511 likes - 61 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 24 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
 | 25 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
 | 26 | [Saudade Da Minha Boca](https://open.spotify.com/track/61xZc4xLOdDttkMo3CxXXO) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Saudade Da Minha Boca](https://open.spotify.com/album/3OWyQaHWMR9gabWjKGBo8f) | 2:29 |
-| 27 | [Parecia Tempestade 2](https://open.spotify.com/track/7sMuAvXAGZdOyFA07whtmQ) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade 2](https://open.spotify.com/album/3mdSuoKePmcUPOdergQd0g) | 3:13 |
+| 27 | [Parecia Tempestade 2](https://open.spotify.com/track/7sMuAvXAGZdOyFA07whtmQ) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Parecia Tempestade 2](https://open.spotify.com/album/3mdSuoKePmcUPOdergQd0g) | 3:13 |
 | 28 | [Já Era](https://open.spotify.com/track/3XwX7R3zleBYRi3FZDGhCm) | [Banda Encantu's](https://open.spotify.com/artist/1f1sZAhZSx4WDTruYgzyJU), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Já Era](https://open.spotify.com/album/2cK6Aoymp5KXxvthqqh8EG) | 3:24 |
 | 29 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
 | 30 | [Tentativa Frustrada \- Ao Vivo](https://open.spotify.com/track/2lGz88oRaz8bepHKKQAohZ) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Faces \(Ao Vivo\)](https://open.spotify.com/album/1KtqeX6Cbap0vwis06Lici) | 2:27 |

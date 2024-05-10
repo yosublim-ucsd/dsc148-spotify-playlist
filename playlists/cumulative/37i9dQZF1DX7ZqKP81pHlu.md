@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Didine Canon 16
 
-198 songs - 12 hr 2 min
+199 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dawama](https://open.spotify.com/track/0DW1FQLgauly0anz5SO4bp) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Dawama](https://open.spotify.com/album/1meUVcj9RkoWV0gFcQDeJW) | 3:06 | 2021-12-09 | 2022-05-27 |
 | [Dbayli Ana \- Fransa Daretha Biya](https://open.spotify.com/track/311Jnoa5h8dGNb1MphFeBu) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [Dbayli Ana \(Fransa Daretha Biya\)](https://open.spotify.com/album/3V1yNsmV6eDPsCH6QyNhRH) | 2:42 | 2023-03-30 | 2023-07-30 |
 | [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-04 |  |
-| [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-02 |  |
+| [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-02 | 2024-05-10 |
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-17 | 2024-04-19 |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
 | [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2022-12-07 | 2023-07-06 |
@@ -190,6 +190,7 @@
 | [Ya Men 3ach](https://open.spotify.com/track/7HkC5x6gmkpZMsIbFeDTue) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Ya Men 3ach](https://open.spotify.com/album/3yJFWGqu2gS8JUEeJmLGyK) | 3:27 | 2023-08-14 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-12-09 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-07-27 | 2023-02-01 |
+| [Ya Zina](https://open.spotify.com/track/4p46adwQi8jhAn9TvinajR) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ya Zina](https://open.spotify.com/album/04b2cvC1OdozRXWFtyXhNj) | 3:04 | 2024-05-09 |  |
 | [Yaba \- Radio Edit](https://open.spotify.com/track/2rGB8lhemhyqt9iGh6ywqE) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Yaba \(Radio Edit\)](https://open.spotify.com/album/0TNsKfKeDyinPTmywsMk4H) | 2:59 | 2022-01-13 | 2022-12-06 |
 | [Yep](https://open.spotify.com/track/6pFRcvL8oX5duShyl6PHYO) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Yep](https://open.spotify.com/album/1PocOFwDgl4w4i6VOuUOP3) | 3:29 | 2021-12-09 | 2022-03-10 |
 | [Yumi](https://open.spotify.com/track/5xhz6CQejKPhHPZc5Qtw2l) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Viviane Mrad](https://open.spotify.com/artist/1t1XemHRUnIGM5kjy4BX93) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:30 | 2021-12-09 | 2022-04-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. Cover \- Asim Azhar\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,717 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,811 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 54 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 |
 | 55 | [O’Sajna](https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:28 |
 
-Snapshot ID: `Zi/uMAAAAADQU5G13ThHUYGCF6sL0uTd`
+Snapshot ID: `Zjx9FAAAAAC2411nr1YGAuSYt7+q4BdJ`

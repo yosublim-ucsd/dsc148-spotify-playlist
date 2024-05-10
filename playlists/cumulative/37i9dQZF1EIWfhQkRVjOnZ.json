@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190693,
       "name": "94 Hours",
       "url": "https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 205853,
       "name": "A Certain Death",
       "url": "https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM"
+    },
+    {
+      "album": {
+        "name": "Lost In The Sound Of Separation",
+        "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "A Fault Line, A Fault Of Mine",
+      "url": "https://open.spotify.com/track/1XI4mmQ96K6uRHTxYpQmF1"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 239866,
       "name": "A Moment Suspended In Time",
       "url": "https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt"
@@ -203,6 +221,24 @@
     },
     {
       "album": {
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "An Ocean Between Us",
+      "url": "https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN"
+    },
+    {
+      "album": {
         "name": "The Powerless Rise",
         "url": "https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk"
       },
@@ -286,7 +322,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 169466,
       "name": "Condemned",
       "url": "https://open.spotify.com/track/3Gr6fisu6QAHN49IHD6lGC"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -448,7 +484,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 207573,
       "name": "Desperate Times, Desperate Measures",
       "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 150600,
       "name": "Falling Upon Deaf Ears",
       "url": "https://open.spotify.com/track/3Q8rWsHfRCjgU0xbSPGtgm"
@@ -610,7 +646,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 268880,
       "name": "Hush Yael",
       "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 222346,
       "name": "Indictment",
       "url": "https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7"
@@ -736,7 +772,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194293,
       "name": "It Dwells In Me",
       "url": "https://open.spotify.com/track/2zkTehkNBWVQIGda4y729C"
@@ -772,7 +808,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 203066,
       "name": "Losing Sight",
       "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 191625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -1240,7 +1276,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190506,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/4JootIUZqWEfvhIuvljZTu"
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 215309,
       "name": "The Mixture",
       "url": "https://open.spotify.com/track/6Bq9z97LDFXTopPwFvTtJH"
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 162080,
       "name": "Those in Glass Houses",
       "url": "https://open.spotify.com/track/2BQweirrpIiMOx0tNtjTXe"
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "World Without A Sun",
       "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"

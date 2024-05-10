@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-72 songs - 3 hr 41 min
+73 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-07-18 |  |
 | [GODFATHER](https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:00 | 2024-01-30 | 2024-04-07 |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 |  |
+| [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 |  |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2023-07-18 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-07-18 | 2023-09-05 |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 |  |

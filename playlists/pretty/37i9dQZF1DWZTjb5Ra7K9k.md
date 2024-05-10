@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,523 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,525 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 5 | [Muscle Memory](https://open.spotify.com/track/78Q0Y5UJrTGFr12YUzmjfB) | [Ryan Keen](https://open.spotify.com/artist/7LLZkvAZN3jH7srfTQ7woi) | [Muscle Memory](https://open.spotify.com/album/6oH8aMhupL7iRiJVYwUuou) | 2:36 |
 | 6 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 |
 | 7 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
-| 8 | [Ela Vai Voltar \(Todos Os Defeitos De Uma Mulher Perfeita\)](https://open.spotify.com/track/70dJEanFPdYuWZumkrnKeX) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 3:08 |
-| 9 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
+| 8 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
+| 9 | [Ela Vai Voltar \(Todos Os Defeitos De Uma Mulher Perfeita\)](https://open.spotify.com/track/70dJEanFPdYuWZumkrnKeX) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 3:08 |
 | 10 | [Medication](https://open.spotify.com/track/2WQKHNETUytUGsD32TTNeO) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 3:42 |
 | 11 | [Go With The Flow](https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:07 |
 | 12 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 46 | [Piloto Automático](https://open.spotify.com/track/739RpxxbLVj7YQz2wGJcE1) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Piloto Automático](https://open.spotify.com/album/5w5bBSJCBvUUy2VeOgPnzu) | 3:05 |
 | 47 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
 | 48 | [Light On](https://open.spotify.com/track/1mAqeDjQMfKhjT6nLyQBZQ) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Light On](https://open.spotify.com/album/5zbsXC9sAXCkpNjso1U3au) | 3:25 |
-| 49 | [Free da Herb](https://open.spotify.com/track/1SzqBvS1g7jTvRWTmsvWjL) | [Sashamon](https://open.spotify.com/artist/3EogSxYXgnES1hVk0nxB8X) | [Free da Herb](https://open.spotify.com/album/4DNg55sslW9KlxU7UcDFEx) | 4:39 |
+| 49 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 | 50 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 51 | [Beautiful Day](https://open.spotify.com/track/50PffPMRdXU3zHF8HNH9Cn) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Move By Yourself](https://open.spotify.com/album/69XHTH6KlnBt04ESBn1h24) | 3:26 |
-| 52 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
+| 52 | [Free da Herb](https://open.spotify.com/track/1SzqBvS1g7jTvRWTmsvWjL) | [Sashamon](https://open.spotify.com/artist/3EogSxYXgnES1hVk0nxB8X) | [Free da Herb](https://open.spotify.com/album/4DNg55sslW9KlxU7UcDFEx) | 4:39 |
 | 53 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 | 54 | [Drive It Home](https://open.spotify.com/track/1v9xSeOKG3pnq00HeSlTSp) | [Igor Prado Band](https://open.spotify.com/artist/4GtcdXuoDPEuU3FhNUxMtq) | [Watch Me Move!](https://open.spotify.com/album/0hFGBoZF8ZpRTbTTwdfoJY) | 4:29 |
 | 55 | [Don't Kill the Magic](https://open.spotify.com/track/7jxAqSueEJPdTrgGCFR7Bl) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/3fQO0DKQULrh7toBH9eoPg) | 3:39 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 65 | [California](https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:10 |
 | 66 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
 | 67 | [Self\-Esteem](https://open.spotify.com/track/7oMQBs40QK1wQ3dI4pc29Q) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash \(2008 Remaster\)](https://open.spotify.com/album/6xkuVd7iJcSSJamThkWY0p) | 4:17 |
-| 68 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
-| 69 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |
+| 68 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
+| 69 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
 | 70 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
-| 71 | [Island In The Sun](https://open.spotify.com/track/3Pnhzf3Knhdsavx0VM2ZmG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2hDiTEsKePTnDcvKEuLizk) | 3:20 |
-| 72 | [The Middle](https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 2:48 |
-| 73 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |
+| 71 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |
+| 72 | [Island In The Sun](https://open.spotify.com/track/3Pnhzf3Knhdsavx0VM2ZmG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2hDiTEsKePTnDcvKEuLizk) | 3:20 |
+| 73 | [The Middle](https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 2:48 |
 | 74 | [The Fixer](https://open.spotify.com/track/0xOyLz45bRFXuuSfcKr25R) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/5pGKourRchGRrTKZxgpNCD) | 2:56 |
 | 75 | [A Droga do Amor](https://open.spotify.com/track/38PX0WrvtJwiH6NMo26L3r) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Dom R](https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1) | [Ari Acústico](https://open.spotify.com/album/2tFOghhE6FYD8MtRVuJzbM) | 3:52 |
 

@@ -2,7 +2,7 @@
 
 ### [This Is Mau y Ricky](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rApNf)
 
-> This is Mau y Ricky\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Mau y Ricky\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 26 min
 
@@ -64,8 +64,8 @@
 | [Sin Querer Queriendo \(feat\. Mau y Ricky\)](https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:48 | 2023-09-25 |  |
 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 | 2023-09-25 |  |
 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 | 2023-09-25 |  |
-| [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 | 2023-10-10 |  |
-| [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 | 2024-01-06 | 2024-05-02 |
+| [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 | 2023-10-10 | 2024-05-10 |
+| [Vas a Destrozarme \- Versión Eden Muñoz](https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eden Muñoz](https://open.spotify.com/artist/7jpP5NoI4GwLIHsqkS4Ukj) | [Vas a Destrozarme \(Versión Eden Muñoz\)](https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo) | 2:57 | 2024-01-06 |  |
 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/4zKgBYhLafD8xszGCAiThg) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:24 | 2024-03-22 |  |
 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/5MVwgz47Vk7xknqySz0376) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/album/5ABQADzHNwWS2DoftWlvIS) | 3:24 | 2023-09-25 | 2024-02-23 |
 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 | 2023-09-25 |  |

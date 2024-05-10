@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Confianza",
+        "url": "https://open.spotify.com/album/6gKoezS6y9GGDzZFhNKIx9"
+      },
+      "artists": [
+        {
+          "name": "Cristof Walters",
+          "url": "https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131738,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/0l110LCnGDPOlbiePvONwN"
+    },
+    {
+      "album": {
         "name": "Count On Me",
         "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
       },
@@ -1697,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/0GyjxgnC0a3HuoR7Gu5L48"
+      },
+      "artists": [
+        {
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136171,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3A4LIH23q9wvMPbeXqqM0p"
+    },
+    {
+      "album": {
         "name": "Happy Days Are Long Awaited",
         "url": "https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf"
       },
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 165499,
       "name": "Familiar Dedication",
       "url": "https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7"
@@ -1892,6 +1928,24 @@
       "duration_ms": 233044,
       "name": "Floating Away",
       "url": "https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B"
+    },
+    {
+      "album": {
+        "name": "Fly Up",
+        "url": "https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Fly Up",
+      "url": "https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E"
     },
     {
       "album": {
@@ -2688,7 +2742,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 132375,
       "name": "I'm Coming Home To You",
       "url": "https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY"
@@ -4042,7 +4096,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 179217,
       "name": "Pumori",
       "url": "https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS"
@@ -4157,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq"
+      },
+      "artists": [
+        {
+          "name": "Carl Eksmo",
+          "url": "https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164361,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs"
+    },
+    {
+      "album": {
         "name": "Rest Sea",
         "url": "https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq"
       },
@@ -4186,7 +4258,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 182642,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B"
@@ -5165,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "The Space Between Us",
+        "url": "https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131582,
+      "name": "The Space Between Us",
+      "url": "https://open.spotify.com/track/7ltsUby2slylSm4sourcaO"
+    },
+    {
+      "album": {
         "name": "The Summer House",
         "url": "https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH"
       },
@@ -5374,7 +5464,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 183406,
       "name": "Untroubled by a Rainy Day",
       "url": "https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg"
@@ -5810,6 +5900,24 @@
       "duration_ms": 127285,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2"
+    },
+    {
+      "album": {
+        "name": "Whispering Winds",
+        "url": "https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222699,
+      "name": "Whispering Winds",
+      "url": "https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE"
     },
     {
       "album": {

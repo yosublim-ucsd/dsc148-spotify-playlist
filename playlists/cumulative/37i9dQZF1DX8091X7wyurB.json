@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 265668,
       "name": "Ajakola",
       "url": "https://open.spotify.com/track/3mFTP1OpdAA3bgz3pTcISP"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174146,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Idimma (Eze Ndi Eze)",
+        "url": "https://open.spotify.com/album/0LCwamaQHuw2LGamvIrLHl"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262352,
+      "name": "Idimma (Eze Ndi Eze)",
+      "url": "https://open.spotify.com/track/0GoPyFOYLSYJxq8gNUBeRa"
+    },
+    {
+      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -3080,6 +3098,28 @@
       "duration_ms": 248000,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
+    },
+    {
+      "album": {
+        "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
+        "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239036,
+      "name": "In The Room (feat. Annatoria) - Afro Beat Version",
+      "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
       "album": {
@@ -4482,7 +4522,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
@@ -6115,6 +6155,28 @@
     },
     {
       "album": {
+        "name": "There For Me",
+        "url": "https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "There For Me",
+      "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
+    },
+    {
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -6294,6 +6356,28 @@
       "duration_ms": 488338,
       "name": "Tobechukwu - Live",
       "url": "https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kaggwa",
+          "url": "https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF"
+        },
+        {
+          "name": "Johnmarie",
+          "url": "https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW"
     },
     {
       "album": {
@@ -6824,7 +6908,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"

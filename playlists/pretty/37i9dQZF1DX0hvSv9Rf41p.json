@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Tape B and Mersiv",
-  "num_followers": 975777,
+  "num_followers": 975791,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1505,28 +1505,24 @@
       "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "On Forever",
-        "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Saint Raymond",
-          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 209556,
-      "name": "On Forever",
-      "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1549,24 +1545,28 @@
       "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+        "name": "On Forever",
+        "url": "https://open.spotify.com/album/3MHBdi41YtCEG2quEk5rTL"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Saint Raymond",
+          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
+      "duration_ms": 209556,
+      "name": "On Forever",
+      "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Mind Pluck",
         "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
       },
@@ -1711,6 +1711,26 @@
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1735,26 +1755,6 @@
       "duration_ms": 202374,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1961,6 +1961,26 @@
       "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
     },
     {
+      "added_at": "2024-02-12 18:48:17",
+      "album": {
+        "name": "Rainbow Funk",
+        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Rainbow Funk",
+      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Thrilla",
@@ -1983,26 +2003,6 @@
       "duration_ms": 134222,
       "name": "Thrilla",
       "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
-    },
-    {
-      "added_at": "2024-02-12 18:48:17",
-      "album": {
-        "name": "Rainbow Funk",
-        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Rainbow Funk",
-      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
     },
     {
       "added_at": "2024-02-16 05:00:00",

@@ -5941,6 +5941,24 @@
     },
     {
       "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB"
+      },
+      "artists": [
+        {
+          "name": "JAKEN",
+          "url": "https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3"
+    },
+    {
+      "album": {
         "name": "WE'LL DIE THIS WAY",
         "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
       },

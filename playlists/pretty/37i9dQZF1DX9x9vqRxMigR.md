@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[](https://open.spotify.com/user/null) - 17,507 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 155 | [Whiskeytown](https://open.spotify.com/track/2sVBgQeUnX9xoaz7FRxBzF) | [Kim Beggs](https://open.spotify.com/artist/3x5PUluyLCMyyui1cKPSMz) | [Whiskeytown](https://open.spotify.com/album/1tndh3EH7dQdnd8qgkmiPs) | 2:41 |
 | 156 | [Bridget O'Brien](https://open.spotify.com/track/0fWTuCmeAKsXI7BUhvIpa5) | [Maggie's Wake](https://open.spotify.com/artist/32nLGIjWdNdHMoSIZwQckI) | [Bridget O'Brien](https://open.spotify.com/album/6Lco4AzkyMDDS7RlwjWWnT) | 4:03 |
 | 157 | [Mona Lisa](https://open.spotify.com/track/5gjQL2l6bPnWLPSSLErDev) | [Minor Gold](https://open.spotify.com/artist/2lirdoVpJHkqTyXzIpS8nI) | [Minor Gold](https://open.spotify.com/album/2pwhfKM3O7V8CQha9WlWJR) | 3:35 |
-| 158 | [Sarasota Someone](https://open.spotify.com/track/2dr1iitxS6NwTldY6gbPKv) | [Johnny Gallagher](https://open.spotify.com/artist/0ae0i1u5IUMD7HHlJkMhO6) | [Six Day Hurricane](https://open.spotify.com/album/7H8SeuuVvmfgkXyfSOzY1k) | 3:18 |
+| 158 | [Sarasota Someone](https://open.spotify.com/track/2dr1iitxS6NwTldY6gbPKv) | [John Gallagher Jr.](https://open.spotify.com/artist/20HJ0KBphamOUmXI1uG1z6) | [Six Day Hurricane](https://open.spotify.com/album/7H8SeuuVvmfgkXyfSOzY1k) | 3:18 |
 | 159 | [Golden Hour](https://open.spotify.com/track/31eu3MQRIFaqJ8fZEONmzE) | [Quote the Raven](https://open.spotify.com/artist/3I9xFLBufkAp1ZEgnCnvyG) | [Golden Hour](https://open.spotify.com/album/7CqSFGjqdus3l2P3F3D7cd) | 4:05 |
 | 160 | [Fargo](https://open.spotify.com/track/4bmLGkgfX9CFVAdWrnXNct) | [Trond Kallevåg](https://open.spotify.com/artist/4lcCxjuWA9pwb2P5zv2NKo), [Selma French](https://open.spotify.com/artist/29GtMvNorPFe7RRUEpNpnV), [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ), [Jo Berger Myhre](https://open.spotify.com/artist/2N72U43CKlDsbSYE6dwgAB), [Håkon Aase](https://open.spotify.com/artist/3pmI7NcMTtUpNdvxUxwk8w), [Ola Øverby](https://open.spotify.com/artist/2kXipErQSihl5ArYS1M0QK) | [Amerikabåten](https://open.spotify.com/album/45Id3mPJSAAScGyDzxYfVV) | 4:28 |
 | 161 | [Beautiful Ride](https://open.spotify.com/track/1SfAEo0sApBnPDlNPWvqQe) | [Christie Lenée](https://open.spotify.com/artist/2r1JtoRnsD6awy7pOQEw00) | [Coming Alive](https://open.spotify.com/album/2z4cAxgnE06Nbi0I1vsyhe) | 4:50 |

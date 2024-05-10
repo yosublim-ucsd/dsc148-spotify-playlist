@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Felix Cartal
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,362 likes - 115 songs - 5 hr 58 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,367 likes - 115 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

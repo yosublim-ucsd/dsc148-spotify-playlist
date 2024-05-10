@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-952 songs - 1 day 21 hr 52 min
+953 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF) | 3:14 | 2024-03-15 | 2024-05-09 |
 | [COME HERE!](https://open.spotify.com/track/4lJEAyZDt8m7vXREjEXS6q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:48 | 2023-05-05 | 2023-06-10 |
 | [Come On, Let's Go \(with Nigo\)](https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:19 | 2022-03-25 | 2022-08-13 |
+| [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Come Over \(feat\. 2 Chainz & Mike WiLL Made\-It\)](https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf) | 3:23 | 2024-05-08 |  |
 | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B) | 1:52 | 2021-10-18 | 2023-01-28 |
 | [Comprehend](https://open.spotify.com/track/6fVf1iCB8ci3kRVrsatRli) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Comprehend](https://open.spotify.com/album/0AHwvcdt7MwJOyBMbKQimQ) | 2:46 | 2022-07-22 | 2022-07-24 |
 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 | 2023-01-27 | 2023-03-04 |
@@ -266,7 +267,7 @@
 | [Extinct](https://open.spotify.com/track/70hDklZStSazrExPjHJPfR) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [New Beginnings](https://open.spotify.com/album/3wzeXReoE5Ul6ZMLvkAnHw) | 3:42 | 2022-03-25 | 2022-04-21 |
 | [Extra](https://open.spotify.com/track/55zLakFu40MkJJnp5Q1ijZ) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [EGOT the EP](https://open.spotify.com/album/4ZzmOGM0viirRaZVeQAgBJ) | 4:03 | 2022-06-03 | 2022-07-23 |
 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 | 2023-03-24 | 2023-05-20 |
-| [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 |  |
+| [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 | 2024-05-10 |
 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 | 2023-03-24 | 2023-04-11 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-03 | 2022-06-11 |
 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 | 2022-01-28 | 2022-07-24 |

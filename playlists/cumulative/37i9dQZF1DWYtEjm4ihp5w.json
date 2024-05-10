@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 163333,
       "name": "Akhennouch",
       "url": "https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk"
@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "FEUTAH",
+        "url": "https://open.spotify.com/album/7qSKmrrrE0o8mZd98Z6PSr"
+      },
+      "artists": [
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192496,
+      "name": "FEUTAH",
+      "url": "https://open.spotify.com/track/3J7Kmg4rbb4G3q5z5X64Rz"
+    },
+    {
+      "album": {
         "name": "Flouka",
         "url": "https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA"
       },
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 211718,
       "name": "HASSIT",
       "url": "https://open.spotify.com/track/6tYP1jWtifDbPqbag1XFjF"
@@ -1972,6 +1990,24 @@
       "duration_ms": 207029,
       "name": "L'appel",
       "url": "https://open.spotify.com/track/7ckLKPOdCIcW0ZixYYw91a"
+    },
+    {
+      "album": {
+        "name": "L7ara",
+        "url": "https://open.spotify.com/album/3tKdlwdmM8EfhPGNfQZzze"
+      },
+      "artists": [
+        {
+          "name": "Uzishettan",
+          "url": "https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "L7ara",
+      "url": "https://open.spotify.com/track/18svODSSAYC1DeOpn20xYT"
     },
     {
       "album": {
@@ -2540,7 +2576,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 207240,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4Qwzw8eFrFYUkegexOtyNm"
@@ -2866,7 +2902,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 225230,
       "name": "Omri",
       "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
@@ -3627,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227890,
+      "name": "Stafit",
+      "url": "https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG"
       },
@@ -4134,7 +4188,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 224628,
       "name": "Vvs",
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
@@ -4276,7 +4330,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190000,
       "name": "WILI",
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
@@ -4411,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "YA RAYEH",
+        "url": "https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "YA RAYEH",
+      "url": "https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT"
+    },
+    {
+      "album": {
         "name": "Ya Salam",
         "url": "https://open.spotify.com/album/1KtfpysU1BtHrbhVPCHFFJ"
       },
@@ -4468,6 +4544,24 @@
       "duration_ms": 289714,
       "name": "Yeah ho v4",
       "url": "https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC"
+    },
+    {
+      "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203694,
+      "name": "Zagalo",
+      "url": "https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH"
     },
     {
       "album": {

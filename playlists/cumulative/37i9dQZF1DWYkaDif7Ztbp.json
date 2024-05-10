@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=Mh1hzhagR2-Ci5kxnSfveg\">Joeboy </a>  and   <a href=\"https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh?si=Wjm0yfSZQaegkp3L5JyZpA\">Qing Madi</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=WeKBK7eBQzO2zcz13EvRVA\">Tems</a>  ",
   "name": "African Heat",
   "tracks": [
     {
@@ -882,6 +882,28 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "album": {
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
@@ -3960,6 +3982,32 @@
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
+    },
+    {
+      "album": {
+        "name": "Komasava (Comment \u00c7a Va)",
+        "url": "https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Komasava (Comment \u00c7a Va)",
+      "url": "https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb"
     },
     {
       "album": {
@@ -5138,7 +5186,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
@@ -6582,7 +6630,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 162603,
       "name": "Soro",
       "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
@@ -7744,6 +7792,40 @@
       "duration_ms": 471478,
       "name": "UYATHANDEKA",
       "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
+    },
+    {
+      "album": {
+        "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
+        "url": "https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Ohp Sage",
+          "url": "https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285034,
+      "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
+      "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
     },
     {
       "album": {

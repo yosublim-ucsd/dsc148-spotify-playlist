@@ -1,12 +1,12 @@
 {
   "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
-  "num_followers": 131427,
+  "num_followers": 131462,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABmBC4+V9cbYGLjlNDHKzX9",
+  "snapshot_id": "ZjrAgAAAAACVsgTicIgzveCEY3RUQ5pr",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "No hay pedo",
+      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -627,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dama De Los Callejones",
-        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Dama De Los Callejones",
-      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin de siglo",
-        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+        "name": "Dama De Los Callejones",
+        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
       },
       "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 151933,
-      "name": "No hay pedo",
-      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
+      "duration_ms": 190093,
+      "name": "Dama De Los Callejones",
+      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 158533,
-      "name": "Una y otra vez",
-      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
+      "duration_ms": 158533,
+      "name": "Una y otra vez",
+      "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
       "duration_ms": 263066,
       "name": "El rey",
       "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 363146,
-      "name": "Chavo de onda - Live",
-      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 363146,
+      "name": "Chavo de onda - Live",
+      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nezayork",
         "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 154005,
       "name": "Nezayork",
       "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "Ni\u00f1o sin amor - Live",
-      "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
       "duration_ms": 306773,
       "name": "Solamente Dios",
       "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "Ni\u00f1o sin amor - Live",
+      "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
     },
     {
       "added_at": null,

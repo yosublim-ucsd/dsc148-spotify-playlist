@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 319840,
+  "num_followers": 319912,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjgdgAAAAADci1spWs/PcQneg3B8wuaS",
+  "snapshot_id": "ZjrAgAAAAAD0097vBQHfBQLTWllE+gXM",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disfruto el Momento",
-        "url": "https://open.spotify.com/album/1XpgbryofDnJiNFwQgGKQj"
+        "name": "El Federal de Caminos",
+        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
       },
       "artists": [
         {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 183968,
-      "name": "Disfruto el Momento",
-      "url": "https://open.spotify.com/track/1SPLvy8C1kBaBQfXLsFmPp"
+      "duration_ms": 183756,
+      "name": "El Federal de Caminos",
+      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Federal de Caminos",
-        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
+        "name": "Disfruto el Momento",
+        "url": "https://open.spotify.com/album/1XpgbryofDnJiNFwQgGKQj"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 183756,
-      "name": "El Federal de Caminos",
-      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+      "duration_ms": 183968,
+      "name": "Disfruto el Momento",
+      "url": "https://open.spotify.com/track/1SPLvy8C1kBaBQfXLsFmPp"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor del Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 184350,
-      "name": "El Mejor del Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Aprend\u00ed",
         "url": "https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 165701,
       "name": "Lo Que Aprend\u00ed",
       "url": "https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mejor del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 184350,
+      "name": "El Mejor del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

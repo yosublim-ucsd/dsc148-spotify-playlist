@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Kayan
 
-[](https://open.spotify.com/user/null) - 17,152 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,161 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

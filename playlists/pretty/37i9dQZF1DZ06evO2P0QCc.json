@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 108147,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 108176,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADFQZPHS47LBot4Ywut7CEC",
+  "snapshot_id": "ZjrAgAAAAADyvsM6TCawDwLkpggX5RMo",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 214933,
       "name": "Serpientes Y Escaleras",
       "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Natalia Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
-      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Natalia Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+      "duration_ms": 214000,
+      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
+      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
       "duration_ms": 248720,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0coZWcSFpUwrkimzmiUfVM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Yo No Se T\u00fa",
-      "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+      "duration_ms": 222400,
+      "name": "Yo No Se T\u00fa",
+      "url": "https://open.spotify.com/track/1pNA1WDGprHjwNVINAvVNs"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 172771,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,

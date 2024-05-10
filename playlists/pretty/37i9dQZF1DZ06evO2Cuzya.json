@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gracie Abrams. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 72819,
+  "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
+  "num_followers": 72991,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABRjXeLx40EDAx5YjYq5SMB",
+  "snapshot_id": "ZjrAgAAAAADZH8RhJFCoZp6CfwJ9XX6o",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": null,
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 246352,
-      "name": "Camden",
-      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": null,
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+      "duration_ms": 170805,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
     },
     {
       "added_at": null,
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Under / Over",
-      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
+      "duration_ms": 162506,
+      "name": "tehe",
+      "url": "https://open.spotify.com/track/2kp86yPhiPBTyoTYHB403F"
     },
     {
       "added_at": null,
@@ -444,9 +428,25 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 170805,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+      "duration_ms": 160561,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 125452,
+      "name": "Painkillers",
+      "url": "https://open.spotify.com/track/2DWuT8Xe7IeZK6feMqH7it"
     }
   ],
   "unique_name": "This Is Gracie Abrams",

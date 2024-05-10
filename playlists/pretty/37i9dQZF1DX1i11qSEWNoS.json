@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 576056,
+  "num_followers": 576322,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 153406,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Alles ist relativ",
-        "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
-      },
-      "artists": [
-        {
-          "name": "BIG TIM",
-          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
-        }
-      ],
-      "duration_ms": 126605,
-      "name": "Alles ist relativ",
-      "url": "https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "Alles ist relativ",
+        "url": "https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        }
+      ],
+      "duration_ms": 126605,
+      "name": "Alles ist relativ",
+      "url": "https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "The Way I Are (Techno Remix)",
-        "url": "https://open.spotify.com/album/0fPS05JQwPESOcZGcS0Qqk"
-      },
-      "artists": [
-        {
-          "name": "Consilium",
-          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
-        },
-        {
-          "name": "RobxDan",
-          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "The Way I Are - Techno Remix",
-      "url": "https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "The Way I Are (Techno Remix)",
+        "url": "https://open.spotify.com/album/0fPS05JQwPESOcZGcS0Qqk"
+      },
+      "artists": [
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        },
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "The Way I Are - Techno Remix",
+      "url": "https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "All The Things She Said (Teaboy Flip)",
-        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
-      },
-      "artists": [
-        {
-          "name": "TEABOY",
-          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "All The Things She Said - Teaboy Flip",
-      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
-    },
-    {
-      "added_at": "2024-05-01 09:58:59",
-      "album": {
         "name": "I Wouldn't Mind",
         "url": "https://open.spotify.com/album/1YvMESin0KV0FsTinzdhz3"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 119200,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/3XB10votaPOcmrFS1dM59j"
+    },
+    {
+      "added_at": "2024-05-01 09:58:59",
+      "album": {
+        "name": "All The Things She Said (Teaboy Flip)",
+        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+      },
+      "artists": [
+        {
+          "name": "TEABOY",
+          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "All The Things She Said - Teaboy Flip",
+      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
     },
     {
       "added_at": "2024-05-01 09:58:59",
@@ -1811,18 +1811,22 @@
     {
       "added_at": "2024-05-01 09:58:59",
       "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
       "artists": [
         {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     }
   ],
   "unique_name": "schiebt anders",

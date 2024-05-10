@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-541 songs - 1 day 12 hr 29 min
+543 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2023-01-17 | 2024-04-19 |
 | [Like It Was Yesterday](https://open.spotify.com/track/6bHBIj9bWWbGA18uwInOVf) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:27 | 2023-01-17 |  |
 | [Linger](https://open.spotify.com/track/2TaBkGBK3NSGcaHBuvToVe) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Linger](https://open.spotify.com/album/5RPrdb4VjSduFPAyAr4FC6) | 4:22 | 2023-01-17 | 2024-04-19 |
+| [Linger](https://open.spotify.com/track/7zWQ9qz0vAK75QBTGLZ0Wb) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Linger](https://open.spotify.com/album/1BcE9hsek60BJuFzVyz2Ln) | 4:22 | 2023-01-17 |  |
 | [Living](https://open.spotify.com/track/4ytv5Yzyal3LzKyMjRXjse) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Reflection of Youth](https://open.spotify.com/album/2OQsnw29udJZFHyNaHSRDJ) | 4:39 | 2023-01-17 |  |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-11-24 |  |
 | [Look At Me Now](https://open.spotify.com/track/0YBEcp0T2LfQVxTs4ozFew) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Look At Me Now](https://open.spotify.com/album/5UZArj31gNk2uEFsDKawUt) | 3:03 | 2023-01-17 |  |
@@ -336,7 +337,7 @@
 | [On Another Ocean \(January / June\)](https://open.spotify.com/track/1B3RqpFxuPQhVoQzfRIPpB) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 4:23 | 2023-01-17 | 2024-04-19 |
 | [On Our Hands](https://open.spotify.com/track/1inylUWfAII24XUmKOkaOV) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [About You](https://open.spotify.com/album/1irvUzlivNloEJmnyUNKL0) | 3:58 | 2023-01-17 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2023-01-17 | 2024-04-19 |
-| [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2023-01-17 |  |
+| [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2023-01-17 | 2024-05-10 |
 | [Only Love Can](https://open.spotify.com/track/3UnJeER1Ls8XYzTN9atcPc) | [Ailie Ormston](https://open.spotify.com/artist/4PaNF1hJdZop3hqlEHj67Y), [Tim Fraser](https://open.spotify.com/artist/3wVcwsDuXAz8tpAsvmHsmE) | [It Changes](https://open.spotify.com/album/6kJxv0g8zTCXqtNb0d8LMk) | 3:52 | 2023-01-17 |  |
 | [Only One](https://open.spotify.com/track/6FFs23jJhushOE2kdE0HKC) | [The Belle Game](https://open.spotify.com/artist/7jODCOa0FcBJyrcUocGq0p) | [Only One](https://open.spotify.com/album/4DSoSxygd8bbQ9afXvkCQc) | 4:36 | 2023-01-17 |  |
 | [Orange Blossoms](https://open.spotify.com/track/2G592yetfLvLCY6N5m9WF6) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:44 | 2023-01-17 |  |
@@ -364,6 +365,7 @@
 | [Punta Cometa \- Dancing For The Answers Alt Version](https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dancing For The Answers \- EP](https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg) | 3:36 | 2023-01-17 |  |
 | [Quarry](https://open.spotify.com/track/26dfOUk6kHh32ZmXFZ4Ixu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:52 | 2023-01-17 | 2023-08-12 |
 | [Quick Canal \(W/ Laetitia Sadier\)](https://open.spotify.com/track/2mJhNvt2dDCfcNn8IZg6sF) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Laetita Sadier](https://open.spotify.com/artist/0vUkJ48GOHNggVNuX6ZXOX) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 8:38 | 2023-01-17 |  |
+| [quiet motions](https://open.spotify.com/track/1PgfRXFbqNK2S97sRmhn0n) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [quiet motions](https://open.spotify.com/album/1KGg761SMmdSo8Iv2lZPxb) | 2:38 | 2023-01-17 |  |
 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 | 2023-01-17 | 2024-04-19 |
 | [Quiet, The Winter Harbor](https://open.spotify.com/track/1OArWxrw689jZXaJzSErbh) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:15 | 2023-01-17 |  |
 | [Red Lines](https://open.spotify.com/track/4jwfGp3iVH7CAqW0YEZ9jy) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Red Lines](https://open.spotify.com/album/0KzRmfb1jdOSuGRYjnT3H2) | 3:56 | 2023-01-17 | 2024-04-19 |
@@ -530,7 +532,7 @@
 | [Wolf](https://open.spotify.com/track/0gI6KFnLCbneSdaayPBwiI) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/4Ls6xTsUYpgpYap10m6gVi) | 5:29 | 2023-01-17 | 2024-04-19 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-01-17 |  |
 | [Would You Rather](https://open.spotify.com/track/0ulpimSr7njRd2UFadBAPv) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:19 | 2023-01-17 | 2024-04-19 |
-| [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2023-01-17 |  |
+| [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2023-01-17 | 2024-05-10 |
 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 | 2023-01-17 | 2024-04-19 |
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2023-01-17 |  |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2023-01-17 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 37924,
+  "num_followers": 37930,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
@@ -795,62 +795,6 @@
     {
       "added_at": "2024-04-16 16:04:49",
       "album": {
-        "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
-        "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
-      },
-      "artists": [
-        {
-          "name": "Grone",
-          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "A Matilha",
-          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 322298,
-      "name": "Rival",
-      "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
-    },
-    {
-      "added_at": "2024-04-16 16:04:49",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2024-04-16 16:04:49",
-      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -883,6 +827,62 @@
       "duration_ms": 300000,
       "name": "Fura Bilion\u00e1rios",
       "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
+    },
+    {
+      "added_at": "2024-04-16 16:04:49",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2024-04-16 16:04:49",
+      "album": {
+        "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
+        "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
+      },
+      "artists": [
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "A Matilha",
+          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 322298,
+      "name": "Rival",
+      "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
     },
     {
       "added_at": "2024-04-16 16:04:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,110 likes - 46 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,196 likes - 47 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 42 | [Forever Set In Stone](https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Forever Set In Stone](https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A) | 2:59 |
 | 43 | [No Deal](https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:07 |
 | 44 | [Break My Heart](https://open.spotify.com/track/5eSRsILuZOdEz55igfg9qV) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Jupiter's Diary: 7 Day Theory](https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH) | 2:49 |
-| 45 | [Forever](https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:34 |
-| 46 | [Never Get Over Me](https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 2:50 |
+| 45 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
+| 46 | [Forever](https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:34 |
+| 47 | [Never Get Over Me](https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 2:50 |
 
-Snapshot ID: `ZjlvAAAAAABCn1V26SJeM7ZLR/j0oZv0`
+Snapshot ID: `ZjrAgAAAAAD6+WzfYhc1GkdlRcu6f2fP`

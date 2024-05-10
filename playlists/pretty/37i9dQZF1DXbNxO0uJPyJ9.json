@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 680993,
+  "num_followers": 681132,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 370386,
+      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
+      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "The Raw & The Cooked (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 426671,
       "name": "She Drives Me Crazy - David Z 12\" Remix",
       "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 370386,
-      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
-      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "45 RPM - The Singles Of The The",
-        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 599400,
-      "name": "Uncertain Smile - 12\" Remix",
-      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Axel F (Theme from \"Beverly Hills Cop\")",
         "url": "https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 310525,
       "name": "Axel F - Extended Mix",
       "url": "https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "45 RPM - The Singles Of The The",
+        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 599400,
+      "name": "Uncertain Smile - 12\" Remix",
+      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
     },
     {
       "added_at": "2024-02-06 15:45:26",

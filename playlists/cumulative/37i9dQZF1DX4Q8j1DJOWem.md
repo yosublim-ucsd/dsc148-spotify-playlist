@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: PERSES
 
-181 songs - 11 hr 21 min
+182 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-03-28 |  |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-01 |  |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-02-18 | 2024-03-29 |
+| [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-05-09 |  |
 | [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2022-09-15 | 2023-04-14 |
 | [แอบหวัง](https://open.spotify.com/track/0LLETxISOeZVam4l0RwcpV) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/1ldWFFPGu73WRha8M9P5Eg) | 3:55 | 2022-09-15 | 2022-10-14 |
 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 | 2022-10-12 | 2024-03-29 |

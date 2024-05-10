@@ -1,13 +1,69 @@
 {
-  "description": "a new world of alternative electronic music. Cover: Pretty Girl",
-  "num_followers": 128613,
+  "description": "A new world of alternative electronic music. Cover: 1tbsp",
+  "num_followers": 128615,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjA+OQAAAAAHnMNoBDQKAz6CPWDPdv1H",
+  "snapshot_id": "ZjzW4AAAAAA1+qM7Ip++c2OSe8EyxKHb",
   "tracks": [
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "Limosina",
+        "url": "https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        }
+      ],
+      "duration_ms": 123901,
+      "name": "Limosina",
+      "url": "https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/0ZpVzaA4krJNRu7Kduh1PZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 191655,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/3apc7XUBxJQjIBgM5TsN6y"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "If U Like Me",
+        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "If U Like Me - Edit",
+      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
+    },
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
@@ -25,24 +81,56 @@
       "url": "https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk"
     },
     {
-      "added_at": "2024-04-30 00:41:29",
+      "added_at": "2024-05-09 14:00:00",
       "album": {
-        "name": "Business As Usual EP",
-        "url": "https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/72zB4slx8DL4YkUG69p0m3"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Peaky Beats",
-          "url": "https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd"
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
         }
       ],
-      "duration_ms": 273053,
-      "name": "Lovesome",
-      "url": "https://open.spotify.com/track/6563duTX83eTMkc2AGETfE"
+      "duration_ms": 237761,
+      "name": "With Love",
+      "url": "https://open.spotify.com/track/62Su2yhkWvhgAtFhZ552kO"
+    },
+    {
+      "added_at": "2024-04-30 00:41:29",
+      "album": {
+        "name": "saving flowers",
+        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "Wasting Time (til the end of the world)",
+        "url": "https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 180484,
+      "name": "Wasting Time (til the end of the world)",
+      "url": "https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -67,6 +155,102 @@
       "duration_ms": 126311,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/5VVAxypWN32ntmotudWks2"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "Melter",
+        "url": "https://open.spotify.com/album/0HueEubCVTggbxE0j6nXnN"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Melter",
+      "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "SENESCENCE 01 + 02",
+        "url": "https://open.spotify.com/album/10AiRqTgQchfpfS4ItqtXM"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/3Y8RTzih2Ic7zcsL8jqp58"
+    },
+    {
+      "added_at": "2024-04-30 00:41:29",
+      "album": {
+        "name": "Business As Usual EP",
+        "url": "https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Peaky Beats",
+          "url": "https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Lovesome",
+      "url": "https://open.spotify.com/track/6563duTX83eTMkc2AGETfE"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "back2u",
+        "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "back2u",
+      "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
+    },
+    {
+      "added_at": "2024-04-30 00:41:29",
+      "album": {
+        "name": "Essence Of Time",
+        "url": "https://open.spotify.com/album/2rpbIhZzXjuR7oq9YqzdU2"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 360651,
+      "name": "Essence Of Time",
+      "url": "https://open.spotify.com/track/0j9o5Q8u7w7CM5m3qkH3nB"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -183,26 +367,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "saving flowers",
-        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 210785,
-      "name": "saving flowers",
-      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "1+1=11",
         "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
       },
@@ -287,6 +451,22 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
+    },
+    {
+      "added_at": "2024-04-30 00:41:29",
+      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
       },
@@ -355,22 +535,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "Essence Of Time",
-        "url": "https://open.spotify.com/album/2rpbIhZzXjuR7oq9YqzdU2"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 360651,
-      "name": "Essence Of Time",
-      "url": "https://open.spotify.com/track/0j9o5Q8u7w7CM5m3qkH3nB"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "Haraka \"\u062d\u0631\u0643\u0629\"",
         "url": "https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV"
       },
@@ -387,6 +551,26 @@
       "duration_ms": 301297,
       "name": "Haraka \"\u062d\u0631\u0643\u0629\"",
       "url": "https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2"
+    },
+    {
+      "added_at": "2024-05-09 14:00:00",
+      "album": {
+        "name": "N.S.E.W.",
+        "url": "https://open.spotify.com/album/3q66Do81jSiuWM6GUSZRds"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        },
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "N.S.E.W.",
+      "url": "https://open.spotify.com/track/5Ez5Vzf9oD2owQLfHvkx3F"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -447,22 +631,6 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -839,6 +1007,22 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
+      "added_at": "2024-04-30 00:41:29",
+      "album": {
         "name": "CHROMA 002",
         "url": "https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw"
       },
@@ -959,22 +1143,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "Guitar Hero",
-        "url": "https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ"
-      },
-      "artists": [
-        {
-          "name": "CC:DISCO!",
-          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "Guitar Hero",
-      "url": "https://open.spotify.com/track/6WmHyrOiOgqRavOTm01SIY"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/1ZS3N0G3zEzIcHtIoLYl90"
       },
@@ -1007,22 +1175,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "Loves Love",
-        "url": "https://open.spotify.com/album/7xkfQzYFzlUcIADSNcHwsS"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 325131,
-      "name": "Loves Love",
-      "url": "https://open.spotify.com/track/6qvNXEyOlTbJz6P2Vz20Cc"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "undrcut",
         "url": "https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR"
       },
@@ -1035,30 +1187,6 @@
       "duration_ms": 242277,
       "name": "undrcut",
       "url": "https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "DANCE FOREVER (feat. thatboykwame & Ninajirachi)",
-        "url": "https://open.spotify.com/album/1Mp29E8N0Fj7waCNmTwLYZ"
-      },
-      "artists": [
-        {
-          "name": "1NN3R53LF",
-          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
-        },
-        {
-          "name": "thatboykwame",
-          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 251429,
-      "name": "DANCE FOREVER (feat. thatboykwame & Ninajirachi)",
-      "url": "https://open.spotify.com/track/2DBOmejw6oWH4P9uJ73xga"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -1079,22 +1207,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "Luna EP",
         "url": "https://open.spotify.com/album/0DET8MfvJCKUs6l1ICACFG"
       },
@@ -1107,22 +1219,6 @@
       "duration_ms": 259687,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2IA6VXnHBPEGFwSLQ3nDHo"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "U Got Me",
-        "url": "https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 201860,
-      "name": "U Got Me",
-      "url": "https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -1143,22 +1239,6 @@
     {
       "added_at": "2024-04-30 00:41:29",
       "album": {
-        "name": "Lava Shake",
-        "url": "https://open.spotify.com/album/0svKzPjGpnoZwtcrMuf8US"
-      },
-      "artists": [
-        {
-          "name": "Marko East",
-          "url": "https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi"
-        }
-      ],
-      "duration_ms": 306539,
-      "name": "Lava Shake",
-      "url": "https://open.spotify.com/track/5ZAivcYkclqR3MMQ2S8OTf"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/3pzH6jllgnJ6viOtPqxbd4"
       },
@@ -1175,22 +1255,6 @@
       "duration_ms": 169720,
       "name": "Motive",
       "url": "https://open.spotify.com/track/3IEPhX1Xk2XlLcLor1whVT"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls"
-      },
-      "artists": [
-        {
-          "name": "AK SPORTS",
-          "url": "https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju"
-        }
-      ],
-      "duration_ms": 194950,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi"
     },
     {
       "added_at": "2024-04-30 00:41:29",
@@ -1379,58 +1443,6 @@
       "duration_ms": 230074,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "Self To Blame",
-        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Kayla Blackmon",
-          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Self To Blame",
-      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "Blow Out",
-        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 216070,
-      "name": "Blow Out",
-      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
-    },
-    {
-      "added_at": "2024-04-30 00:41:29",
-      "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/7IFuNgbybstjuIAZ90xbNZ"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 255104,
-      "name": "Bueno",
-      "url": "https://open.spotify.com/track/2fiZFsUa2pMlHZEOvRu8KL"
     },
     {
       "added_at": "2024-04-30 00:41:29",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 133178,
+  "description": "This Is Bj\u00f6rk. Los temas esenciales, todos en una lista.",
+  "num_followers": 133199,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAA9ebbcCrGeNa3Q+vVdVmul",
+  "snapshot_id": "ZjrAgAAAAAAAGp2uoScn3Jx/0QTrSSo5",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oral (Olof Dreijer Remix)",
-        "url": "https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/04xnEWQgojFB2It1mXwel1"
       },
       "artists": [
         {
@@ -68,17 +68,13 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Olof Dreijer",
-          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+          "name": "David Arnold",
+          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
         }
       ],
-      "duration_ms": 321800,
-      "name": "Oral - Olof Dreijer Remix",
-      "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
+      "duration_ms": 237240,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/0OwMBaWRYmAAN48DcLZSeS"
     },
     {
       "added_at": null,
@@ -115,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/04xnEWQgojFB2It1mXwel1"
+        "name": "Oral (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw"
       },
       "artists": [
         {
@@ -124,13 +120,17 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         },
         {
-          "name": "David Arnold",
-          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/0OwMBaWRYmAAN48DcLZSeS"
+      "duration_ms": 321800,
+      "name": "Oral - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bastards",
-        "url": "https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Matthew Herbert",
-          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
-        }
-      ],
-      "duration_ms": 37000,
-      "name": "Sacrifice Reprise - Matthew Herbert's Pins and Needles Mix",
-      "url": "https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -491,6 +471,22 @@
       "duration_ms": 286903,
       "name": "Atopos",
       "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 409320,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
     },
     {
       "added_at": null,
@@ -575,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 409320,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Akoma",
         "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
       },
@@ -612,7 +592,7 @@
       "added_at": null,
       "album": {
         "name": "Bastards",
-        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
+        "url": "https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw"
       },
       "artists": [
         {
@@ -620,13 +600,29 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         },
         {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
         }
       ],
-      "duration_ms": 399080,
-      "name": "Crystalline - Omar Souleyman Remix",
-      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
+      "duration_ms": 37000,
+      "name": "Sacrifice Reprise - Matthew Herbert's Pins and Needles Mix",
+      "url": "https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,
@@ -655,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bastards",
+        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 399080,
+      "name": "Crystalline - Omar Souleyman Remix",
+      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
     },
     {
       "added_at": null,

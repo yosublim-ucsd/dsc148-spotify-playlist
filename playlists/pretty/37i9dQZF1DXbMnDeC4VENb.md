@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,403 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,457 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 64 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 |
 | 65 | [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 |
 | 66 | [le valgo madre](https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [le valgo madre](https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk) | 2:36 |
-| 67 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
-| 68 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 |
+| 67 | [Sólo Si Es Contigo](https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Si Es Contigo](https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon) | 3:59 |
+| 68 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
 | 69 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
 | 70 | [Ni Como Amigo](https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ni Como Amigo](https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ) | 3:40 |
 | 71 | [Intento Tras Intento](https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN) | [El Muisca](https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [Intento Tras Intento](https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ) | 3:04 |

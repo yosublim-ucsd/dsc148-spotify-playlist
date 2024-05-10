@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,463,144 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463,293 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,25 +27,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 17 | [Mr\. Brownstone](https://open.spotify.com/track/65G4Ib3w7tgLjUkO5GseN0) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 3:48 |
 | 18 | [Estranged](https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 9:23 |
 | 19 | [Better](https://open.spotify.com/track/3nW5v0Htr1ySk8czTJIA2V) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:57 |
-| 20 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
+| 20 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 |
 | 21 | [It's So Easy](https://open.spotify.com/track/58YL9Jo1T0wyijCOZWRmyL) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 3:22 |
 | 22 | [14 Years](https://open.spotify.com/track/7xki0BmuOllyquWqjhETyr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 4:21 |
-| 23 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 |
+| 23 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
 | 24 | [Hard Skool](https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Hard Skool](https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0) | 3:41 |
-| 25 | [Ain't It Fun](https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 5:05 |
-| 26 | [One In A Million](https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 6:08 |
-| 27 | [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 |
+| 25 | [Dead Horse](https://open.spotify.com/track/7tdJuL2ZgmKDwIIFDdNanK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:17 |
+| 26 | [Ain't It Fun](https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 5:05 |
+| 27 | [One In A Million](https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 6:08 |
 | 28 | [Chinese Democracy](https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:43 |
-| 29 | [Attitude](https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 1:27 |
-| 30 | [Shadow Of Your Love](https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Shadow Of Your Love](https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm) | 3:05 |
-| 31 | [Dead Horse](https://open.spotify.com/track/7tdJuL2ZgmKDwIIFDdNanK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:17 |
+| 29 | [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 |
+| 30 | [Attitude](https://open.spotify.com/track/0ivarc4umuzp5I3J7lPDJc) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 1:27 |
+| 31 | [Shadow Of Your Love](https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Shadow Of Your Love](https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm) | 3:05 |
 | 32 | [There Was A Time](https://open.spotify.com/track/2PrmCyoClC4ulLJR42z74O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:40 |
-| 33 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 |
-| 34 | [Mama Kin \- Live Version](https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 3:55 |
+| 33 | [Mama Kin \- Live Version](https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 3:55 |
+| 34 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 |
 | 35 | [It's Alright \- Live In Houston / 1992](https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Live Era '87\-'93](https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs) | 3:07 |
 | 36 | [Shackler's Revenge](https://open.spotify.com/track/0S9eOzGwLHUwmjYvB5jG4x) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 3:36 |
-| 37 | [New Rose](https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 2:38 |
-| 38 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
+| 37 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 |
+| 38 | [New Rose](https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 2:38 |
 | 39 | [Nice Boys \- Live](https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:02 |
 | 40 | [Sorry](https://open.spotify.com/track/4g9TfQAiEN6lDNRJJsiU9T) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:14 |
 | 41 | [Hotel California / Only Women Bleed / Knockin' On Heaven's Door \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/4lOISkmUcErziyEn4jHSy2) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 11:38 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 47 | [Voodoo Child \(Slight Return\) / Civil War \- Live In New York, Ritz Theatre \- May 16, 1991](https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 8:49 |
 | 48 | [Sail Away Sweet Sister \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/0SssEf0vqdVTYLPjgC187j) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 1:48 |
 
-Snapshot ID: `ZjlvAAAAAAAZVLh+bc6XhYtpaFcFsLq3`
+Snapshot ID: `ZjrAgAAAAABtp+5x5CGYMbr4CDXRpnY8`

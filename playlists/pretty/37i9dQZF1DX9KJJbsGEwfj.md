@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9KJJbsGEwfj.md) - [plain]
 
 > ¡Únete al party con estos hits! Baila y canta hasta el amanecer
 
-[](https://open.spotify.com/user/null) - 1,979,235 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979,262 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

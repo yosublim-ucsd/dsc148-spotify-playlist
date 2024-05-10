@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=2khTaVjqRgusz1BA7\_IgQw"> Kenji </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,744 likes - 200 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,845 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 24 | [Too Much](https://open.spotify.com/track/4rNGlfs2wLQugYTiZhEsIv) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Too Much](https://open.spotify.com/album/6CmIJH0MkG7DDKqMAx1LJc) | 1:56 |
 | 25 | [29](https://open.spotify.com/track/4jJpY1yXwNqefXIMoSAp0e) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [29](https://open.spotify.com/album/7wFoPVqRrtL3UmdROeydJu) | 2:41 |
 | 26 | [spiderman](https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [spiderman](https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v) | 2:55 |
-| 27 | [Mangosteen](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 |
+| 27 | [Mangosteen \(feat\. Sailorr & Biako\)](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 |
 | 28 | [Sugar Baby](https://open.spotify.com/track/1ftIR5m7n0JRqVR81tjJiR) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Something Burning](https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA) | 3:02 |
 | 29 | [Cruel](https://open.spotify.com/track/2RhAlW5bOJkYcFo9fMG7eJ) | [Charity](https://open.spotify.com/artist/1zakWJ9ww8UBu0JjydTRtz) | [Cruel](https://open.spotify.com/album/1L17zAtAnSpPSm3mCh757R) | 3:25 |
 | 30 | [Not About You](https://open.spotify.com/track/0V5O0XJRWJFtgEnBOL4qa7) | [Sy'Rai](https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ) | [Not About You](https://open.spotify.com/album/7sfQyYMKf7o5loW4Unsndp) | 3:53 |

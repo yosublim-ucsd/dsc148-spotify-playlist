@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 445292,
+  "num_followers": 445308,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Lauana Prado",
         "url": "https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Contatinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173229,
-      "name": "Contatinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Amor de Verdade",
         "url": "https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 197333,
       "name": "Amor de Verdade",
       "url": "https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Contatinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173229,
+      "name": "Contatinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Temporal (Audio)",
-        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
-      },
-      "artists": [
-        {
-          "name": "Art Popular",
-          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Anitta",
         "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 150933,
       "name": "Show das Poderosas",
       "url": "https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Temporal (Audio)",
+        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
+      },
+      "artists": [
+        {
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -799,18 +799,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Katinguel\u00ea Na \u00c1rea",
-        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
       "artists": [
         {
-          "name": "Katinguel\u00ea",
-          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Inara\u00ed",
-      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -843,22 +847,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+        "name": "Katinguel\u00ea Na \u00c1rea",
+        "url": "https://open.spotify.com/album/6be252ruiK8KktdALdpNvq"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Katinguel\u00ea",
+          "url": "https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu"
         }
       ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+      "duration_ms": 234360,
+      "name": "Inara\u00ed",
+      "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Latino Apresenta as Aventuras de DJ L - Festa no Ap\u00ea",
-        "url": "https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG"
-      },
-      "artists": [
-        {
-          "name": "Latino",
-          "url": "https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Festa no Ap\u00ea (Dragostea Din Tei)",
-      "url": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "FICA \u00c0 VONTADE",
         "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Latino Apresenta as Aventuras de DJ L - Festa no Ap\u00ea",
+        "url": "https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG"
+      },
+      "artists": [
+        {
+          "name": "Latino",
+          "url": "https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Festa no Ap\u00ea (Dragostea Din Tei)",
+      "url": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Zeca Pagodinho Naturalmente",
-        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Deixa A Vida Me Levar",
-      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Eu Quero Tchu Eu Quero Tcha - Single",
         "url": "https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 159755,
       "name": "Eu Quero Tchu Eu Quero Tcha",
       "url": "https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Zeca Pagodinho Naturalmente",
+        "url": "https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Temporal (Audio)",
+        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
+      },
+      "artists": [
+        {
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Pimpolho",
+      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Temporal (Audio)",
-        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
-      },
-      "artists": [
-        {
-          "name": "Art Popular",
-          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Pimpolho",
-      "url": "https://open.spotify.com/track/0G3PPOWMMPwBJIEH7Udnsu"
     },
     {
       "added_at": "2022-02-10 18:18:16",

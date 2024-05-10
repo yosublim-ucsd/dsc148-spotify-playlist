@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-275 songs - 7 hr 2 min
+280 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,14 @@
 | [A Goodnight Lullaby](https://open.spotify.com/track/4cKRxN6IuZsDXmvixgDLvH) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:25 | 2022-02-10 | 2024-04-04 |
 | [A Little Boat](https://open.spotify.com/track/6ahZWO4bnowdtkAJwkahWD) | [Simon Hill](https://open.spotify.com/artist/3CNRDi8CRRB2IF1v9no6NQ) | [A Little Boat](https://open.spotify.com/album/44X6fpGpyp0stgq8Rs5KE0) | 1:14 | 2023-10-20 |  |
 | [A Million Stars](https://open.spotify.com/track/4aH25xvRwslDEiIxLP0X4I) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [A Million Stars](https://open.spotify.com/album/72EQTt6Lwg7GrxSx9jHTaJ) | 2:22 | 2024-04-19 |  |
+| [A Mother's Embrace](https://open.spotify.com/track/6Ei6AIq1k3kcGNXFmUGlZU) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [A Mother's Embrace](https://open.spotify.com/album/1CjVstZsmXVWyeUduC5n7Y) | 2:03 | 2024-05-10 |  |
 | [A Ram Sam Sam](https://open.spotify.com/track/56QKL1S0CywvdIjp0vHtjh) | [Carine Vester](https://open.spotify.com/artist/3lfo96yWyh9kw1mprRdOLU) | [Ten Little Indians](https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2) | 1:33 | 2022-02-10 | 2023-05-19 |
 | [A Smile for Everyone](https://open.spotify.com/track/6kkVJzTyJ4LKh4zM6TodVF) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 2:07 | 2022-02-10 | 2024-04-04 |
 | [A Whole New World](https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box](https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1) | 1:29 | 2022-02-10 | 2024-04-19 |
 | [Above The Clouds](https://open.spotify.com/track/5aUiCEgcDoyrgBp19HMHoI) | [Tip Tap Toe](https://open.spotify.com/artist/4FaFReBiOHAUBP72P5y6Zq) | [Above The Clouds](https://open.spotify.com/album/0Qkj0sWVojbN3xsgiramj9) | 1:32 | 2022-02-10 | 2022-06-11 |
 | [Adventure Of Things](https://open.spotify.com/track/1AXMCQeypMb61BTIo3SBTn) | [Magical Wonders](https://open.spotify.com/artist/3WC72UDmuQ9lnnF5LIEvxE) | [Adventure Of Things](https://open.spotify.com/album/2y4N0o49sFYJJpzTqrJlrq) | 1:44 | 2022-02-10 | 2023-06-16 |
 | [Almost Bedtime](https://open.spotify.com/track/4lxWsII6WYqv2m6psFTWjQ) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [Almost Bedtime](https://open.spotify.com/album/1CXOzVd83iN3zwVte4uRgP) | 1:03 | 2023-12-08 |  |
+| [Almost Summer](https://open.spotify.com/track/4jd4BSJkS0PSgFPdgpUBGy) | [Lill Bosse](https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK) | [Almost Summer](https://open.spotify.com/album/4vRciY9DkQsmhYwd2gtGZd) | 1:49 | 2024-05-10 |  |
 | [Amapola](https://open.spotify.com/track/4qBgpnKwSCsUGySMCXIzRc) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Musikbox](https://open.spotify.com/album/5W5UaRDHGYnaO4sk5AWQFZ) | 1:47 | 2022-02-10 | 2022-06-11 |
 | [Angels Watching](https://open.spotify.com/track/645aw5RzvcmIXq9s4H3JpR) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Angels Watching](https://open.spotify.com/album/0Q1B92Ey7yC9X4GAGvtVEb) | 1:20 | 2023-11-17 |  |
 | [Arioso](https://open.spotify.com/track/6cRJchgiqEWwaGQfydYaJW) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Pieces](https://open.spotify.com/album/590SCNsLWNHSHSmCH0mgU9) | 2:01 | 2022-02-10 | 2022-06-11 |
@@ -62,6 +64,7 @@
 | [Bug Juice Summer](https://open.spotify.com/track/29uMnRN95ImeQVvQhky5Pk) | [Samantha Ant](https://open.spotify.com/artist/6PVRdp7qSiUrGPo8Gj9FU1) | [Caterpillar Waltz](https://open.spotify.com/album/2DSkZZVi8VFdDp0YHUan8U) | 1:49 | 2022-02-10 | 2024-04-04 |
 | [Bundle Of Joy](https://open.spotify.com/track/3e5g2MWiGuU0h2RQxef002) | [Little Night Owl](https://open.spotify.com/artist/0XtzVCRLGk98nYDNNNnnzX) | [Bundle Of Joy](https://open.spotify.com/album/15nuJXpYq54wHHVRYqXCpA) | 1:09 | 2023-11-17 |  |
 | [Calm Story](https://open.spotify.com/track/2JfSBZNtR4RlzoTtuASeO7) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Calm Story](https://open.spotify.com/album/7qg5bHIbYVLCbwPSQ34I6Y) | 1:28 | 2022-02-10 |  |
+| [Canon in D](https://open.spotify.com/track/6pDwnbhtHjV6QCNryWxkv1) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [Canon in D](https://open.spotify.com/album/20IB5tIxaO6cBDJe7dEypp) | 1:49 | 2024-05-10 |  |
 | [Captain Adventure](https://open.spotify.com/track/7MpoAKqBEqzUYlCUKseSZq) | [Candy Pirates](https://open.spotify.com/artist/5t0D8K9ZJUzi0tNnuwZTjn) | [Captain Adventure](https://open.spotify.com/album/73UN2PPCs3a0JbPFbN1XTO) | 1:34 | 2022-10-07 |  |
 | [Charlies Lullaby](https://open.spotify.com/track/1z1Rc9QEs8BZoE889WdaIv) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Charlies Lullaby](https://open.spotify.com/album/7s41COd3IkV0akH9fGqXkL) | 1:47 | 2023-06-02 |  |
 | [Cielito Lindo](https://open.spotify.com/track/633k2PmrV5MMNXAKcOmPpq) | [Hakima Feré](https://open.spotify.com/artist/265CoPrCR8buOOIW2YLWRf) | [Cielito Lindo](https://open.spotify.com/album/5F7kxYBfQJqQAjmDLMVwmn) | 1:29 | 2022-02-10 | 2024-04-04 |
@@ -143,6 +146,7 @@
 | [Little Bo Peep](https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Tommy Thumb](https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes) | 1:42 | 2022-02-10 | 2023-04-21 |
 | [Little Cat](https://open.spotify.com/track/6dHzijXrFnRCsCzPyiwLPJ) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Little Cat](https://open.spotify.com/album/2QsXtBg2CG4EAeto6zQMUC) | 1:07 | 2023-08-31 |  |
 | [Little Dreamers](https://open.spotify.com/track/4alV2d3zSYVDSBOHGTGaaW) | [Amy Chesney](https://open.spotify.com/artist/5yJ7GLInAPoiOY6MCEbMyi) | [Little Dreamers](https://open.spotify.com/album/6oV11mfEZwRux1ESS3ZCz4) | 1:41 | 2022-02-10 |  |
+| [Little Frogs](https://open.spotify.com/track/5UJtvCLf8lSXYftazQXQUx) | [Isa Kaur](https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m) | [Little Frogs](https://open.spotify.com/album/5r9j4z6T183GgxHtXrRwlt) | 1:11 | 2024-05-10 |  |
 | [Little Red Scarf](https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW) | [Bernie Toft](https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp) | [Little Red Scarf](https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG) | 1:27 | 2023-01-20 |  |
 | [London Bridge](https://open.spotify.com/track/2mZs2T1Db29O7RL82hul2u) | [Kilian Skoog](https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK) | [London Bridge](https://open.spotify.com/album/32phA7pyDzvVPFqzPGNOuJ) | 1:21 | 2022-07-29 |  |
 | [Lullaby For My Dearest](https://open.spotify.com/track/4llzqO9uUBV4TTE0TbfNCF) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:25 | 2022-02-10 | 2023-04-21 |
@@ -222,7 +226,7 @@
 | [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
 | [Storybook](https://open.spotify.com/track/3yPJpsAl7FIQ4AaDP5RQkr) | [Maria Gustavo](https://open.spotify.com/artist/0iTNrCJl7pHmoN50pTNL3t) | [Storybook](https://open.spotify.com/album/5hvuGvH0a6v5LntcX7HywG) | 1:51 | 2023-11-17 |  |
 | [Summer Breeze](https://open.spotify.com/track/7wnDE54KPPU2orw1S3rIAP) | [Jasper Rose](https://open.spotify.com/artist/0BPUcozC2MjvitrABNOLId) | [Summer Breeze](https://open.spotify.com/album/6ynhDnqP1WVdmPzpaTQ1GV) | 1:40 | 2023-12-08 |  |
-| [Summer Winds](https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz) | [My Karlsson](https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa) | [Summer Winds](https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6) | 1:08 | 2023-10-06 |  |
+| [Summer Winds](https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz) | [My Karlsson](https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa) | [Summer Winds](https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6) | 1:08 | 2023-10-06 | 2024-05-10 |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-17 |  |
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 | 2024-04-04 |
 | [Sunny Slope](https://open.spotify.com/track/6y6v0UwqAF6rIHMorMzhKh) | [Mike Lusty](https://open.spotify.com/artist/5GBDVf1uHDtgMMogIxt8wo) | [Sunny Slope](https://open.spotify.com/album/412nFRM9lfbEAKNwaGFWzN) | 1:14 | 2023-06-08 |  |
@@ -245,6 +249,7 @@
 | [The Little Cat](https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [The Little Cat](https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H) | 1:01 | 2024-03-01 |  |
 | [The Little Star](https://open.spotify.com/track/2jK3M0pInr6YaMmJZBKS8f) | [Paige Mercier](https://open.spotify.com/artist/2Fqoyakpw6y0FemMaXayce) | [The Little Star](https://open.spotify.com/album/3AvRG2VgTe93WHDKkpvW8O) | 1:16 | 2022-02-10 |  |
 | [The Little Turtle](https://open.spotify.com/track/1JyJ3uctO50xWO0nLX6kJr) | [Marcus Stillman](https://open.spotify.com/artist/4harlYKMPbSGXod94voGhU) | [The Little Turtle \(Music Box\)](https://open.spotify.com/album/1dLaciTBu1UKOksbcrPJkK) | 1:50 | 2022-02-10 | 2024-04-04 |
+| [The Neverland Song](https://open.spotify.com/track/5B09a5HPbibaz3t6KwtzL6) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [The Neverland Song](https://open.spotify.com/album/37Q6uoqXaaYFUA3HDMQW3C) | 1:28 | 2024-05-10 |  |
 | [The Sleeping Waltz](https://open.spotify.com/track/3gV7QZL2TLxcqczvp3Mi6D) | [Drei malo](https://open.spotify.com/artist/1fB4LWGsh4lYCFImN1L4Ge) | [The Sleeping Waltz](https://open.spotify.com/album/6vgxJbxfXc2H3mWTJcc1dT) | 1:32 | 2022-02-10 | 2023-05-19 |
 | [The Spider And The Funny Fly](https://open.spotify.com/track/3Y3MfthU9xFXlO19WHAuSh) | [LouLou Patterson](https://open.spotify.com/artist/0d6qCJGBHwIkP37kRebgfs) | [The Spider And The Funny Fly](https://open.spotify.com/album/0uctVCyByG3WWzan3jWsjy) | 1:50 | 2022-02-10 | 2023-05-19 |
 | [The Stars and The Moon](https://open.spotify.com/track/42Cj3aQRIAaE0Fii8rwHLT) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [The Stars and The Moon](https://open.spotify.com/album/4yeNucrJoogGEfsvPm8DSE) | 1:17 | 2022-02-10 |  |

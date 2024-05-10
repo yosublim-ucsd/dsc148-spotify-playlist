@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232164,
       "name": "Fallen so Young",
       "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
@@ -4414,6 +4414,24 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
+    },
+    {
+      "album": {
+        "name": "Without / Within",
+        "url": "https://open.spotify.com/album/5yMPFIjnYwfGjxyFdY80HZ"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304493,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/5hGhweoDb1rZalo01o87zm"
     },
     {
       "album": {

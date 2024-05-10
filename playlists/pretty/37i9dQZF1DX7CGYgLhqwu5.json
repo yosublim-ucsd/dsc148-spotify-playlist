@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 376236,
+  "num_followers": 376258,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "All-American Cowboy",
-        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
-      },
-      "artists": [
-        {
-          "name": "Henson Cargill",
-          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Skip a Rope",
-      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Glen Campbell - The Capitol Years 1965 - 1977",
         "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 160866,
       "name": "Galveston",
       "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "All-American Cowboy",
+        "url": "https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0"
+      },
+      "artists": [
+        {
+          "name": "Henson Cargill",
+          "url": "https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Skip a Rope",
+      "url": "https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "The Carroll County Accident",
-      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196400,
       "name": "Me And Bobby McGee",
       "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2023-11-21 21:06:39",

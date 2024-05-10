@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Nabila Taqiyyah",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Nyoman Paul",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -248,6 +248,24 @@
       "duration_ms": 258351,
       "name": "Badut",
       "url": "https://open.spotify.com/track/7o12WO9nt0euUwWxFmF0JR"
+    },
+    {
+      "album": {
+        "name": "Bagaimana Kabarmu?",
+        "url": "https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265361,
+      "name": "Bagaimana Kabarmu?",
+      "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
     },
     {
       "album": {
@@ -526,7 +544,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 239809,
       "name": "Bersyukurlah",
       "url": "https://open.spotify.com/track/7diJ5Zc1aScEyGVmGxUDig"
@@ -696,7 +714,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 196299,
       "name": "Buang - Buang Waktu",
       "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
@@ -736,6 +754,28 @@
       "duration_ms": 186872,
       "name": "Bukan Denganku",
       "url": "https://open.spotify.com/track/4S7pJQ5qyMhLIPZpRnfQqH"
+    },
+    {
+      "album": {
+        "name": "Bukan Sebuah Rindu",
+        "url": "https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231978,
+      "name": "Bukan Sebuah Rindu",
+      "url": "https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp"
     },
     {
       "album": {
@@ -1079,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143743,
+      "name": "Don't You Dare Hesitate",
+      "url": "https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05"
+    },
+    {
+      "album": {
         "name": "BORDER ROOM",
         "url": "https://open.spotify.com/album/6dIwYCSul7keEQ6pd1q83Y"
       },
@@ -1126,7 +1184,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 246093,
       "name": "Dursila - From \"Malang Si Puteri\"",
       "url": "https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH"
@@ -1346,7 +1404,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 193959,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
@@ -2105,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Kehilanganmu",
+        "url": "https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233087,
+      "name": "Kehilanganmu",
+      "url": "https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x"
+    },
+    {
+      "album": {
         "name": "Keluarga (From\" Glenn Fredly The Movie\")",
         "url": "https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns"
       },
@@ -2156,6 +2232,24 @@
       "duration_ms": 236186,
       "name": "Khayal Jadi Nyata",
       "url": "https://open.spotify.com/track/6zlBOYdSTxbpVWTVqXBGuU"
+    },
+    {
+      "album": {
+        "name": "Kini Mereka Tahu",
+        "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284136,
+      "name": "Kini Mereka Tahu",
+      "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
     },
     {
       "album": {
@@ -2278,7 +2372,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 215384,
       "name": "Kukira Hanya Lagu",
       "url": "https://open.spotify.com/track/37lt8ItlvPlHFg6V5pYzih"
@@ -2510,7 +2604,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 192459,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr"
@@ -2616,6 +2710,24 @@
       "duration_ms": 249039,
       "name": "MADE 4 U",
       "url": "https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV"
+    },
+    {
+      "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/12NWZ9Mqv0wEotkMHmrDNm"
+      },
+      "artists": [
+        {
+          "name": "JKT48",
+          "url": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188636,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/2k7cxrmYo5sYdaJn4125St"
     },
     {
       "album": {
@@ -2977,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Mengheningkan Cinta",
+        "url": "https://open.spotify.com/album/21nQCyZzmQoNgmW4fGl51R"
+      },
+      "artists": [
+        {
+          "name": "Syarla",
+          "url": "https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Mengheningkan Cinta",
+      "url": "https://open.spotify.com/track/7tG9MASsrAdOBFfkqcLBBI"
+    },
+    {
+      "album": {
         "name": "Menuju Arah yang Sama",
         "url": "https://open.spotify.com/album/7jbhRD843AzQuEdK430Mnx"
       },
@@ -2992,6 +3122,24 @@
       "duration_ms": 241834,
       "name": "Menuju Arah yang Sama",
       "url": "https://open.spotify.com/track/7ibQkP0QbuROfastP2JquO"
+    },
+    {
+      "album": {
+        "name": "Mundur Perlahan",
+        "url": "https://open.spotify.com/album/46JONawt8M57m28JCS7EtT"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258627,
+      "name": "Mundur Perlahan",
+      "url": "https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV"
     },
     {
       "album": {
@@ -3126,6 +3274,24 @@
       "duration_ms": 280540,
       "name": "Orang Yang Berbeda",
       "url": "https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN"
+    },
+    {
+      "album": {
+        "name": "Pada Akhirnya",
+        "url": "https://open.spotify.com/album/7eE0Br39S9GL6R91ATl83G"
+      },
+      "artists": [
+        {
+          "name": "Monica Christiana",
+          "url": "https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Pada Akhirnya",
+      "url": "https://open.spotify.com/track/5Cjjypy2Pm1LK1mdmohCuT"
     },
     {
       "album": {
@@ -3360,7 +3526,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 263900,
       "name": "Pulang (Robbighfirlii)",
       "url": "https://open.spotify.com/track/40xD1oDjPZVHt5AyIPBX7h"
@@ -3508,7 +3674,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180000,
       "name": "Sabar",
       "url": "https://open.spotify.com/track/4RLFIfvicLshfmI2foSPSG"
@@ -4251,6 +4417,24 @@
     },
     {
       "album": {
+        "name": "Tak Masalah",
+        "url": "https://open.spotify.com/album/49CI1tIBEN1VjxgMjvjFu3"
+      },
+      "artists": [
+        {
+          "name": "Indah Aqila",
+          "url": "https://open.spotify.com/artist/0W9e1Ynzjurb3VAE1atJGD"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225783,
+      "name": "Tak Masalah",
+      "url": "https://open.spotify.com/track/05QYcEboiQno5QQmQbr4rF"
+    },
+    {
+      "album": {
         "name": "Tak Pantas (From \"Ipar Adalah Maut\")",
         "url": "https://open.spotify.com/album/2ftSrVmQW9y5M5GoyiILgb"
       },
@@ -4316,7 +4500,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 218896,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3"
@@ -4454,7 +4638,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 339754,
       "name": "Tawakal",
       "url": "https://open.spotify.com/track/5HRCk3BLMyEif6WiLqA4zh"
@@ -4490,7 +4674,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 199818,
       "name": "Telat Cemburu",
       "url": "https://open.spotify.com/track/1u9pDLLKMz9S2ZdCIEAeTk"
@@ -4732,7 +4916,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 249280,
       "name": "tiba-tiba jumat lagi",
       "url": "https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U"
@@ -4790,7 +4974,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 253244,
       "name": "Tunggulah Sebentar",
       "url": "https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq"

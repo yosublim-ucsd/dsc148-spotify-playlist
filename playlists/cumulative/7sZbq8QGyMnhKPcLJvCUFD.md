@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-538 songs - 1 day 3 hr 31 min
+539 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 | 2023-12-13 | 2024-04-03 |
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2023-08-08 | 2023-12-14 |
 | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs) | 3:17 | 2023-08-08 |  |
+| [Will You Come](https://open.spotify.com/track/6J2k7NHP8LQRd4JB6yAR8d) | [Palm Skies](https://open.spotify.com/artist/4v4x5HxhCrW7CYGukJPtMu), [DEAN](https://open.spotify.com/artist/1mj9UVYo0rH0euesr0j6Q8), [Reuben Cameron](https://open.spotify.com/artist/4bOrrENf55Qmx2Q9VBCUie) | [Will You Come](https://open.spotify.com/album/17Ftb835drkZvfGdWpopzq) | 2:37 | 2024-05-09 |  |
 | [Willow Tree](https://open.spotify.com/track/3CdYdWhfe2yCB6gU3neEk6) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Willow Tree](https://open.spotify.com/album/0j7kbEv6hSm33gskZyokSY) | 3:08 | 2023-08-08 | 2023-12-14 |
 | [Wings](https://open.spotify.com/track/18IhZkRfALANBQeaWfOVuk) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Wings](https://open.spotify.com/album/4rBjac9XBU8UgiZvPMixU2) | 3:56 | 2022-11-09 | 2023-04-28 |
 | [Wish You The Best](https://open.spotify.com/track/4aRIkmQcFWLDYT2J4SdXdr) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Wish You The Best](https://open.spotify.com/album/36VVorl4pqN1wGFxI1qIki) | 3:18 | 2022-12-22 | 2023-04-28 |

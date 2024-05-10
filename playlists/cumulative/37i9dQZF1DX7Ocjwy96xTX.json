@@ -4435,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        },
+        {
+          "name": "xmal",
+          "url": "https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126620,
+      "name": "Streetwise",
+      "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
+    },
+    {
+      "album": {
         "name": "STRESS TEST",
         "url": "https://open.spotify.com/album/08Fm8W3qXewhwX8H0o68o4"
       },

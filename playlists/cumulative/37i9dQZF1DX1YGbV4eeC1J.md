@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Barnaba & Yammi
+> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Diamond Platnumz & Zuchu
 
-190 songs - 10 hr 53 min
+192 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [In Case You Don't Know](https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [The Love Album](https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT) | 3:30 | 2022-05-26 | 2024-03-08 |
 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 | 2023-01-26 |  |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 |  |
+| [Je T Aime](https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Je T Aime](https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj) | 4:16 | 2024-05-09 |  |
 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 | 2022-05-26 |  |
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
 | [Kama](https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Kama](https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui) | 3:08 | 2023-12-08 | 2024-04-26 |
@@ -102,7 +103,7 @@
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-05-26 | 2024-02-02 |
 | [Mi Nawe](https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mi Nawe](https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2) | 2:45 | 2023-10-19 |  |
 | [Mi Nawe \(feat\. Marioo\)](https://open.spotify.com/track/64X9atKN39EjblFYTsHxVh) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mi Nawe \(feat\. Marioo\)](https://open.spotify.com/album/4XaoSNR21UgRTcdR8TVk2Z) | 2:41 | 2024-03-14 | 2024-03-22 |
-| [Miss U Mama](https://open.spotify.com/track/6whQSAHFD8uejAoSKXJC9e) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Miss U Mama](https://open.spotify.com/album/5s6W0xnh5X2RnLC5GQBaIL) | 4:02 | 2024-04-18 |  |
+| [Miss U Mama](https://open.spotify.com/track/6whQSAHFD8uejAoSKXJC9e) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Miss U Mama](https://open.spotify.com/album/5s6W0xnh5X2RnLC5GQBaIL) | 4:02 | 2024-04-18 | 2024-05-10 |
 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 | 2023-06-15 | 2024-03-01 |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-05-26 | 2022-11-18 |
@@ -152,6 +153,7 @@
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 | 2023-06-16 |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 | 2023-12-01 |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 | 2023-10-20 |
+| [Raha \(feat\. Zuchu\)](https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Raha \(feat\. Zuchu\)](https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J) | 3:37 | 2024-05-09 |  |
 | [Respect](https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Respect](https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I) | 2:33 | 2023-10-06 | 2024-01-19 |
 | [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 |  |
@@ -169,7 +171,7 @@
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-07-07 |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Sunina](https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Sunina](https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC) | 3:04 | 2023-06-08 | 2023-09-15 |
-| [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2024-02-22 |  |
+| [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2024-02-22 | 2024-05-10 |
 | [Super Woman](https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Super Woman](https://open.spotify.com/album/2kUOQ8kdl8fA67IoHn784p) | 3:09 | 2022-09-23 | 2023-03-31 |
 | [Sweet](https://open.spotify.com/track/3JwIlZFxkPtRukbvRp9mcC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Sweet](https://open.spotify.com/album/1GosMCPkYYZnd4m4cN54RS) | 3:07 | 2023-05-04 | 2023-08-18 |
 | [Tajiri](https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Tajiri](https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd) | 2:55 | 2024-03-14 | 2024-03-22 |

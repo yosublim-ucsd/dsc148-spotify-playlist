@@ -1,10 +1,10 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from TSHA",
-  "num_followers": 473631,
+  "num_followers": 473725,
   "original_name": "New Music Friday Dance",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZjRhQAAAAAC9KxH3F60jJUsennJesVku",
   "tracks": [
@@ -523,30 +523,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "DECIRTE LO QUE SIENTO",
-        "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        }
-      ],
-      "duration_ms": 181258,
-      "name": "DECIRTE LO QUE SIENTO",
-      "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 168102,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "DECIRTE LO QUE SIENTO",
+        "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "duration_ms": 181258,
+      "name": "DECIRTE LO QUE SIENTO",
+      "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
-      },
-      "artists": [
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Nowhere To Go (feat. Brian Molko)",
         "url": "https://open.spotify.com/album/2u9e2yJTlVb6CAOq2yz64v"
       },
@@ -681,7 +681,7 @@
         }
       ],
       "duration_ms": 222580,
-      "name": "Nowhere To Go (feat. Brian Molko) - Single Edit",
+      "name": "Nowhere To Go (feat. Brian Molko) - Single Version",
       "url": "https://open.spotify.com/track/0GSRV5gMw6ocfFT0kR0Sxj"
     },
     {
@@ -719,6 +719,26 @@
       "duration_ms": 166530,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Hearts Like Dynamite",
+        "url": "https://open.spotify.com/album/4Z3Lq92zQ2iB0fiwvhlR3N"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 140542,
+      "name": "Hearts Like Dynamite",
+      "url": "https://open.spotify.com/track/4G3pTtXvcLbqZj0y9hQvo8"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -767,26 +787,6 @@
       "duration_ms": 221241,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2DBQ8aFDngZ68WCa7by4WG"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Hearts Like Dynamite",
-        "url": "https://open.spotify.com/album/4Z3Lq92zQ2iB0fiwvhlR3N"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 140542,
-      "name": "Hearts Like Dynamite",
-      "url": "https://open.spotify.com/track/4G3pTtXvcLbqZj0y9hQvo8"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -903,6 +903,30 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 123981,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Gorah (Francis Mercier Midnight Mix)",
         "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
@@ -943,26 +967,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
         }
       ],
-      "duration_ms": 123981,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
+      "duration_ms": 200314,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Choose You",
-        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Sweet Shop (Hamdi Remix)",
         "url": "https://open.spotify.com/album/5TjOHQlI8CSEzMJCJyspZl"
       },
@@ -1015,6 +1015,50 @@
       "duration_ms": 274308,
       "name": "Sweet Shop - Hamdi Remix",
       "url": "https://open.spotify.com/track/6CdGDfcTOSSCsNd7jUW8RJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "If You Go",
+        "url": "https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 154046,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Pliva (HoneyLuv Remix)",
+        "url": "https://open.spotify.com/album/0wY9NtHyoVuPGeOIXWjomb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Pliva - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/4Q3lU2oJfu1fWGMx1h5mRP"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1055,30 +1099,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Pliva (HoneyLuv Remix)",
-        "url": "https://open.spotify.com/album/0wY9NtHyoVuPGeOIXWjomb"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Pliva - HoneyLuv Remix",
-      "url": "https://open.spotify.com/track/4Q3lU2oJfu1fWGMx1h5mRP"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/71CnvHZYg7xFHoxDzxNqV6"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 202536,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1kk8X8jLAsLC9Lfar5RBxN"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "If You Go",
-        "url": "https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 154046,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "In The Dark EP",
-        "url": "https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 404618,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx"
       },
@@ -1179,6 +1163,46 @@
       "duration_ms": 136615,
       "name": "Alright",
       "url": "https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "In The Dark EP",
+        "url": "https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "duration_ms": 404618,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2UiE40jBlxj78yq7atA4nw"
+      },
+      "artists": [
+        {
+          "name": "Schak",
+          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
+        },
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 192812,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4xiat1EP72FQvPzB7hcqSf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1223,30 +1247,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2UiE40jBlxj78yq7atA4nw"
-      },
-      "artists": [
-        {
-          "name": "Schak",
-          "url": "https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx"
-        },
-        {
-          "name": "Will Atkinson",
-          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
-        },
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
-        }
-      ],
-      "duration_ms": 192812,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4xiat1EP72FQvPzB7hcqSf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Got Me Like",
         "url": "https://open.spotify.com/album/4Nootd0c1osdH2R1I3rAoK"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
       },
       "artists": [
         {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 219310,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ"
+      "duration_ms": 224640,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
+      "duration_ms": 219310,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/1BdMg9VF7SHE9LfyrHVqzZ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Luxo",
-        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
-      },
-      "artists": [
-        {
-          "name": "Trikk",
-          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Luxo",
-      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "She Ride The Wind (feat. Arlissa)",
         "url": "https://open.spotify.com/album/3CCjUqC7qwEAdmGrp0kRGh"
       },
@@ -1407,6 +1375,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Luxo",
+        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Luxo",
+      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Heard About Me",
         "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
       },
@@ -1419,6 +1403,38 @@
       "duration_ms": 183711,
       "name": "Heard About Me",
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/1cnw1OqjxMWJvONgR6NvfU"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 272903,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/1cnw1OqjxMWJvONgR6NvfU"
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
         }
       ],
-      "duration_ms": 272903,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
+      "duration_ms": 393066,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1539,18 +1555,38 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
-        "url": "https://open.spotify.com/album/6pj5wFblwkZtQZEruM7bOm"
+        "name": "Abusadora",
+        "url": "https://open.spotify.com/album/6ABjpGCQl8Svu0XfYVa00X"
       },
       "artists": [
         {
-          "name": "HCTM",
-          "url": "https://open.spotify.com/artist/6o1cH08k4qmWoRbOK543gQ"
+          "name": "Kamikaze Kid",
+          "url": "https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa"
+        },
+        {
+          "name": "Lucky Guess",
+          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
         }
       ],
-      "duration_ms": 134051,
-      "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
-      "url": "https://open.spotify.com/track/7j4v6YX6IU7niifWp01q8v"
+      "duration_ms": 129375,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/18KHTRWqBsXwr70GkeJ7vA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1591,26 +1627,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Abusadora",
-        "url": "https://open.spotify.com/album/6ABjpGCQl8Svu0XfYVa00X"
-      },
-      "artists": [
-        {
-          "name": "Kamikaze Kid",
-          "url": "https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa"
-        },
-        {
-          "name": "Lucky Guess",
-          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/18KHTRWqBsXwr70GkeJ7vA"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "MY LOVER'S MIND",
         "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+        "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
+        "url": "https://open.spotify.com/album/6pj5wFblwkZtQZEruM7bOm"
       },
       "artists": [
         {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+          "name": "HCTM",
+          "url": "https://open.spotify.com/artist/6o1cH08k4qmWoRbOK543gQ"
         }
       ],
-      "duration_ms": 393066,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
+      "duration_ms": 134051,
+      "name": "G\u00f3tico, Mani\u00e1tico, Hipn\u00f3tico, S\u00e1dico",
+      "url": "https://open.spotify.com/track/7j4v6YX6IU7niifWp01q8v"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1683,6 +1699,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Wildstyle",
+        "url": "https://open.spotify.com/album/6OLPGgXEpPYTq52uzIUxi8"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Wildstyle",
+      "url": "https://open.spotify.com/track/6rQWqRUJnTlUiUXu8AP1la"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Aqua Lull",
         "url": "https://open.spotify.com/album/0xhroZPlO1F2eFiFI0H1fk"
       },
@@ -1699,38 +1731,6 @@
       "duration_ms": 428555,
       "name": "Mio",
       "url": "https://open.spotify.com/track/30mf2jx7lqNfSFoHXMJjn5"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Wildstyle",
-        "url": "https://open.spotify.com/album/6OLPGgXEpPYTq52uzIUxi8"
-      },
-      "artists": [
-        {
-          "name": "Tigerblind",
-          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Wildstyle",
-      "url": "https://open.spotify.com/track/6rQWqRUJnTlUiUXu8AP1la"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1767,26 +1767,6 @@
       "duration_ms": 196190,
       "name": "Little Luv",
       "url": "https://open.spotify.com/track/2pWXBBrVw4tqfCcmt4I3Gs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/46YOGOLOlsRlou6dX8BJsM"
-      },
-      "artists": [
-        {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
-        },
-        {
-          "name": "James K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Wake",
-      "url": "https://open.spotify.com/track/6wOOJQlbCVfG0DBem6CCLz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1831,6 +1811,26 @@
       "duration_ms": 266000,
       "name": "Given Up On You",
       "url": "https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/46YOGOLOlsRlou6dX8BJsM"
+      },
+      "artists": [
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Wake",
+      "url": "https://open.spotify.com/track/6wOOJQlbCVfG0DBem6CCLz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Worm",
-        "url": "https://open.spotify.com/album/502EsAvXeuEJt9yYasx9fg"
-      },
-      "artists": [
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Worm",
-      "url": "https://open.spotify.com/track/4qBe4cwJyOwj83R1GDRqR3"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "I Got Your Man EP",
         "url": "https://open.spotify.com/album/7LRvgFb0eUMuGjUPxTbRQb"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 133388,
       "name": "I Got Your Man",
       "url": "https://open.spotify.com/track/2xiJJyVAkCYWRD43dIQPTh"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Worm",
+        "url": "https://open.spotify.com/album/502EsAvXeuEJt9yYasx9fg"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Worm",
+      "url": "https://open.spotify.com/track/4qBe4cwJyOwj83R1GDRqR3"
     },
     {
       "added_at": "2024-05-03 04:00:00",

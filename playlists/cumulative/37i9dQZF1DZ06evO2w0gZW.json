@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
+  "description": "This Is Mariah Carey. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Mariah Carey",
   "tracks": [
     {
@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "The Gooch",
+        "url": "https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248555,
+      "name": "Obsessed (feat. Mariah Carey)",
+      "url": "https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx"
+    },
+    {
+      "album": {
         "name": "Mariah Carey's Magical Christmas Special (Apple TV+ Original Soundtrack)",
         "url": "https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84"
       },
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
@@ -1336,7 +1358,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 350866,
       "name": "We Are The World - Live",
       "url": "https://open.spotify.com/track/5hqWLWK1WuNsUDJJBNwJv8"
@@ -1464,7 +1486,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"

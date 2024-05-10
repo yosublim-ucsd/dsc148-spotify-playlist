@@ -1,6 +1,6 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 24122,
+  "num_followers": 24155,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,38 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/2oSZhnHDrFrTt4BCreAG9P"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "duration_ms": 208888,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/0V9mw8S22fciKdLiQlQNeZ"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "DANCE DEPRE",
+        "url": "https://open.spotify.com/album/1sSmSR6vjVwO3wTC6qsQLZ"
+      },
+      "artists": [
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "DANCE DEPRE",
+      "url": "https://open.spotify.com/track/74KLr2xkVGoL4qMAmMhP9v"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "La Pel\u00edcula",
         "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
       },
@@ -1123,38 +1155,6 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 160612,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Hay frases que s\u00f3lo escuchamos de noche",
-        "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
-      },
-      "artists": [
-        {
-          "name": "Floridablanca",
-          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
-        }
-      ],
-      "duration_ms": 237909,
-      "name": "nuncatevayasnunca",
-      "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
     }
   ],
   "unique_name": "feels like latin funk",

@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 374706,
       "name": "Confidence - Live",
       "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 307140,
       "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
       "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 350480,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 231073,
       "name": "Here",
       "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 333247,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 453173,
       "name": "No Longer Slaves - Live",
       "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 462320,
       "name": "Rushing In - Live",
       "url": "https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp"
@@ -1422,6 +1422,32 @@
       "duration_ms": 209466,
       "name": "Show Us You (Reprise) [feat. Tasha Cobbs & William Murphy, III] - Live Version",
       "url": "https://open.spotify.com/track/4mXNdom4wIWdrfYqMvl9Y2"
+    },
+    {
+      "album": {
+        "name": "Legacy: Live In New Orleans (Deluxe) [Live Version]",
+        "url": "https://open.spotify.com/album/1IFcEdarRtR86W9iw2WmPh"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        },
+        {
+          "name": "William Murphy III",
+          "url": "https://open.spotify.com/artist/56spyEtOS1lSbTxIm5mDIS"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Show Us You (Reprise) [feat. Tasha Cobbs & William Murphy, III] - Live Version",
+      "url": "https://open.spotify.com/track/5qtNkF08IRkcMRaw9Xje9d"
     },
     {
       "album": {
@@ -1626,7 +1652,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
@@ -1766,7 +1792,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 455480,
       "name": "You Still Love Me - Live",
       "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"

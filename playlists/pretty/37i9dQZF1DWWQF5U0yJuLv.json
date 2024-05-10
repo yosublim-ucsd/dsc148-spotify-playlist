@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12530,
+  "num_followers": 12544,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/41rdl3Oiyz5o5todvKyOWA"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Maracuy\u00e1",
@@ -927,6 +911,22 @@
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Good Places",
@@ -1011,6 +995,22 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
@@ -1339,6 +1323,22 @@
       "duration_ms": 300930,
       "name": "\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281\u274d\u2281",
       "url": "https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Tanz Mit Mir",
+        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 343158,
+      "name": "Tanz Mit Mir",
+      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Sorry I Make You Lush",
@@ -1411,22 +1427,6 @@
       "duration_ms": 370800,
       "name": "Delia Derbyshire",
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Tanz Mit Mir",
-        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 343158,
-      "name": "Tanz Mit Mir",
-      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Calming Signals",
-        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
-      },
-      "artists": [
-        {
-          "name": "Rich Ruth",
-          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
-        }
-      ],
-      "duration_ms": 306013,
-      "name": "Haynes Manor",
-      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Sculpturegardening",
         "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 257862,
       "name": "From The Seams",
       "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Calming Signals",
+        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Haynes Manor",
+      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1901,6 +1901,22 @@
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 283289,
+      "name": "Meridians",
+      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Kpm 1000 Series: Atmospheres",
@@ -1919,34 +1935,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I"
       },
       "artists": [
         {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 283289,
-      "name": "Meridians",
-      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
-    },
-    {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
-      },
-      "artists": [
-        {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
+      "duration_ms": 257789,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Empty Space",
-        "url": "https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 257789,
-      "name": "Empty Space",
-      "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
-    },
-    {
       "added_at": "2023-03-29 03:24:26",
       "album": {
         "name": "Bubbles",
@@ -1999,6 +1983,22 @@
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "William Shatner Has Been",
+        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Bombaclaart",
         "url": "https://open.spotify.com/album/12iJQKMFIe4Tm1vRO4XpTz"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 379266,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 304366,
-      "name": "Sister Species",
-      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
       "added_at": "2023-02-17 01:10:22",

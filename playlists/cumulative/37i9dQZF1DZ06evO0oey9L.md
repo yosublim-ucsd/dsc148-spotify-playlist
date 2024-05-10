@@ -2,7 +2,7 @@
 
 ### [This Is El de La Guitarra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L)
 
-> This Is El de La Guitarra\. Los temas esenciales, todos en una lista.
+> This Is El de La Guitarra\. Les titres incontournables, réunis dans une seule et même playlist.
 
 98 songs - 4 hr 54 min
 

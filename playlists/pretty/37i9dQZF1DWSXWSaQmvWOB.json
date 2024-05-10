@@ -1,13 +1,29 @@
 {
   "description": "New soul-infused music every week! Cover: Joya Mooi",
-  "num_followers": 458491,
+  "num_followers": 458559,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQNHAAAAADA7A/tCeClBRkolTSMJXkV",
+  "snapshot_id": "Zj1HYAAAAAAUnLh/hkLKT/bzOYeWj78h",
   "tracks": [
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
     {
       "added_at": "2024-04-26 14:49:37",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 222545,
       "name": "Don't Answer",
       "url": "https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/31Lq73n7sxinFMFak3zqZT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7a6zCrX08XWisZXGj3sMEf"
     },
     {
       "added_at": "2024-04-26 14:49:37",
@@ -45,20 +77,40 @@
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
     },
     {
-      "added_at": "2024-05-02 22:01:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "VOLUME 1",
+        "url": "https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "duration_ms": 286107,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
     },
     {
       "added_at": "2024-04-26 14:49:37",
@@ -75,6 +127,22 @@
       "duration_ms": 227906,
       "name": "Did You Notice",
       "url": "https://open.spotify.com/track/1SEuqMqwhVRdGVdY1jKlZG"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -447,6 +515,70 @@
       "duration_ms": 195600,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Bicoastal: B-Sides",
+        "url": "https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Missing Me",
+        "url": "https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 181237,
+      "name": "Missing Me",
+      "url": "https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "CASSANDRA (cherith)",
+        "url": "https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 179654,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0VtHeJ4ezIwBpF6LIcRx1S"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Where Is the Peace",
+        "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 216135,
+      "name": "Where Is the Peace",
+      "url": "https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F"
     },
     {
       "added_at": "2024-04-26 14:49:37",
@@ -1067,26 +1199,6 @@
     {
       "added_at": "2024-04-26 14:49:37",
       "album": {
-        "name": "Dumpalltheguns (Feat. Danielle Ponder)",
-        "url": "https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 293586,
-      "name": "Dumpalltheguns - Feat. Danielle Ponder",
-      "url": "https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K"
-    },
-    {
-      "added_at": "2024-04-26 14:49:37",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
       },
@@ -1319,30 +1431,6 @@
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2024-04-26 14:49:37",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS"
-      },
-      "artists": [
-        {
-          "name": "LIKEMINDS",
-          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
-        }
-      ],
-      "duration_ms": 150714,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY"
     },
     {
       "added_at": "2024-04-26 14:49:37",

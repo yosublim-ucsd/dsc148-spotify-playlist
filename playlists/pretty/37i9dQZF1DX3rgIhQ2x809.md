@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,583 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,588 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 72 | [Tasty](https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Tasty](https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n) | 3:25 |
 | 73 | [3 y Pico](https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [3 y Pico](https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp) | 3:10 |
 | 74 | [Invicta](https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Freestyle Mania](https://open.spotify.com/artist/0bK53vxFcHrFiBJuZqZ4xp), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Invicta](https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ) | 4:46 |
-| 75 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
-| 76 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
+| 75 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
+| 76 | [TAYYA](https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [TAYYA](https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv) | 2:40 |
 | 77 | [Billete](https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib) | [Chen](https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu) | [Billete](https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ) | 2:43 |
 | 78 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [XNO](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
 | 79 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 |

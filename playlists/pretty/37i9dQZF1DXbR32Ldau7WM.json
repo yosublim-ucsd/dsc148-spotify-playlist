@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
-  "num_followers": 282628,
+  "num_followers": 282708,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
       "artists": [
         {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
         }
       ],
-      "duration_ms": 251546,
-      "name": "Eye's Sentry",
-      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+      "duration_ms": 186293,
+      "name": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero",
+      "url": "https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
       },
       "artists": [
         {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 186293,
-      "name": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero",
-      "url": "https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P"
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
-        "url": "https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 247532,
-      "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
-      "url": "https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 322986,
       "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
+        "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
+        "url": "https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 247532,
+      "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
+      "url": "https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
         "name": "Relay\uff5e\u675c\u306e\u8a69",
         "url": "https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 239494,
       "name": "Relay\uff5e\u675c\u306e\u8a69",
       "url": "https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
-        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "\u5927\u56e3\u5186",
-        "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
+        "name": "Pepperoni Quattro",
+        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "ZORN",
-          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 325851,
-      "name": "\u5927\u56e3\u5186",
-      "url": "https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL"
+      "duration_ms": 220720,
+      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "Pepperoni Quattro",
-        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+        "name": "\u5927\u56e3\u5186",
+        "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
         }
       ],
-      "duration_ms": 220720,
-      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+      "duration_ms": 325851,
+      "name": "\u5927\u56e3\u5186",
+      "url": "https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "The End of Yesterday",
-        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "\u30a2\u30c0\u30d7\u30c8",
         "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 261360,
       "name": "RIVER",
       "url": "https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "The End of Yesterday",
+        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
     },
     {
       "added_at": "2024-05-07 15:06:14",

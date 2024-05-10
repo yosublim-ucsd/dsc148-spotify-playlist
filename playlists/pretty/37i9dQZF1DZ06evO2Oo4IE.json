@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 178240,
+  "num_followers": 178269,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABnZkX+8Bxslwtbo3UcY0Yp",
+  "snapshot_id": "ZjrAgAAAAAClVSGXk71AFXp0S8DxA3MG",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Janis Joplin's Greatest Hits",
         "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 173230,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Misery'n",
+      "url": "https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Misery'n",
-      "url": "https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin: The Woodstock Experience",
         "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 297066,
       "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
       "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Livin' Is Easy (Live 1969)",
         "url": "https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 83461,
+      "name": "Talk, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 237559,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 83461,
-      "name": "Talk, Pt.1 - Live",
-      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 200205,
       "name": "Nobody Knows You When You're Down and Out",
       "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
     },
     {
       "added_at": null,

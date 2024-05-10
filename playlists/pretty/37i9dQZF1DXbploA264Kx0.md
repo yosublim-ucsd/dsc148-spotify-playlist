@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 孫盛希 \(Shi Shi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,896 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,905 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 57 | [Just Touch Me \- Live Session](https://open.spotify.com/track/67X9AeY2c91iYQChCJi7zh) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf), [DJ SON666](https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2), [Sujong Park](https://open.spotify.com/artist/7lxC2YvOYoePgIkaFMlaBb), [Your Friend Sunny](https://open.spotify.com/artist/7nmpeOQuGNu30b9EyX7xKZ), [OC](https://open.spotify.com/artist/7mzNio1YNo7PAZhEZkDyEI), [賴瓦旦](https://open.spotify.com/artist/6EaKa9EZ66hbW7n6um8C5b) | [粉內宇宙 Fi\-Né Universe\_ Vol.1](https://open.spotify.com/album/1IeDRLl8IFC65wbnCKVPkQ) | 4:44 |
 | 58 | [ICE AND FIRE \- 「冰箱打开时」音乐特别企划](https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [ICE AND FIRE \(「冰箱打开时」音乐特别企划\)](https://open.spotify.com/album/5JFVly1VtCSgvgeceRLjd0) | 2:23 |
 | 59 | [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 |
-| 60 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 |
+| 60 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 |
 
-Snapshot ID: `ZjO4gAAAAABAsprNqGPNYM8vxKzbVQJm`
+Snapshot ID: `Zjz3EwAAAAAezU80rWZMiacWHsx7S62L`

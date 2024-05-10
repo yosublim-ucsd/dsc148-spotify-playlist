@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:سلطان المرشد
 
-333 songs - 22 hr 55 min
+334 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Nsa Nfsah](https://open.spotify.com/track/18JtCEpNrIIOJZlvUaSjk8) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Nsa Nfsah](https://open.spotify.com/album/0wxHcgJP08F11Rz9GsZBRn) | 4:01 | 2023-12-29 |  |
 | [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 | 2022-06-04 | 2023-01-10 |
 | [Qader](https://open.spotify.com/track/6QhdBvdu5zWZMsRuEvvpJi) | [Hmdan Elbloshi](https://open.spotify.com/artist/7bmRXgbkkJvLTNyNZf1viv), [Abdulaziz Alfailakawi](https://open.spotify.com/artist/2ZoToOFm6PdlzsJrQk6zLp) | [Qader](https://open.spotify.com/album/6SMPpT6rFWhjVj36x8xcTC) | 3:30 | 2021-12-23 | 2022-02-05 |
-| [Qalb Nasini](https://open.spotify.com/track/3xG4KZWtfCNgwHhxxL6Qg2) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Ard](https://open.spotify.com/album/0i6qgh6QraX5UsaPmvw9ZZ) | 4:48 | 2024-04-18 |  |
+| [Qalb Nasini](https://open.spotify.com/track/3xG4KZWtfCNgwHhxxL6Qg2) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Ard](https://open.spotify.com/album/0i6qgh6QraX5UsaPmvw9ZZ) | 4:48 | 2024-04-18 | 2024-05-10 |
 | [Qarar Saab](https://open.spotify.com/track/08dzFnwCGE11vXoH9Pw5aa) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Qarar Saab](https://open.spotify.com/album/0qA4LjeVNh0CYgPdCZvi8f) | 3:16 | 2023-12-15 |  |
 | [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 | 2022-07-10 | 2023-01-21 |
 | [Rabea Youm](https://open.spotify.com/track/1JC6xks3zK45wSeRR9AYvX) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Rabea Youm](https://open.spotify.com/album/0ttIhY7IARi9VAsKgEs0Ae) | 4:26 | 2024-03-11 |  |
@@ -227,6 +227,7 @@
 | [Tajahal](https://open.spotify.com/track/2qT3PjWdra1HvrBat5jDFe) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Tajahal](https://open.spotify.com/album/3FbgQDIIkTeCXGE5RxkGIH) | 4:44 | 2022-12-16 | 2023-06-19 |
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-01 | 2023-03-15 |
 | [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 | 2022-11-10 | 2023-05-13 |
+| [Talebk Bellah](https://open.spotify.com/track/2y5ENCjOsCZIqyM7Tuz7p0) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Talebk Bellah](https://open.spotify.com/album/1QFAQJuygvWFhUmnMSoXXa) | 4:58 | 2024-05-09 |  |
 | [Tamnony Aleh](https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT) | [Rola Kadri](https://open.spotify.com/artist/28Jx760F4Z37RhCtjOrLGj) | [Tamnony Aleh](https://open.spotify.com/album/4bRULRxIQFGrAXXl5nu2C6) | 3:02 | 2021-12-23 | 2022-06-04 |
 | [Taraf Thaleth](https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Taraf Thaleth](https://open.spotify.com/album/10nwn4BzwNQAnePtj07bwo) | 3:54 | 2023-01-20 | 2023-06-14 |
 | [Tbarak Galbe](https://open.spotify.com/track/5QGkol4xMYr3DgnOPx6jAz) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Tbarak Galbe](https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT) | 4:35 | 2022-05-01 | 2022-09-15 |

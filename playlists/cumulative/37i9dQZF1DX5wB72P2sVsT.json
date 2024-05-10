@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "MR TOUT LE MONDE au top des bangers dance/electro du moment !",
+  "description": "David Guetta au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -1344,10 +1344,40 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait (Hardwell & Olly James Remix)",
+        "url": "https://open.spotify.com/album/2Y4Tm0KdcUWNnPpphhhGZ4"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
+      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL"
     },
     {
       "album": {

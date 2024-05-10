@@ -4,7 +4,7 @@
 
 > 
 
-868 songs - 2 day 2 hr 53 min
+870 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [False Pretense](https://open.spotify.com/track/4dZzlqzVFeCFclVOdmdx5d) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Markus](https://open.spotify.com/artist/1FCNWJLCzo224rcjsUoZmE), [Jahazeil](https://open.spotify.com/artist/4pYtrheyrHQgZVXKd6PU4Q) | [False Pretense](https://open.spotify.com/album/3csGChFjNoEU44iRg1zP8M) | 3:19 | 2024-01-25 |  |
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2024-01-25 |  |
 | [Family Freestyle](https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Family Freestyle](https://open.spotify.com/album/1QkPatRtkzJahrvBV56gJe) | 3:35 | 2024-01-25 |  |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-09 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/2P0Si3pfikrrkpLLnrXaLR) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:12 | 2024-01-25 |  |
 | [FAMJAM4000](https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:38 | 2024-01-25 |  |
 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 | 2023-11-30 | 2024-02-07 |
@@ -555,6 +556,7 @@
 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 | 2024-01-25 |  |
 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 | 2023-11-30 | 2024-02-07 |
 | [Not Alike \(feat\. Royce Da 5'9\)](https://open.spotify.com/track/28FGV3ORH14MYORd7s5dlU) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:48 | 2024-01-25 |  |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-09 |  |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/6RDX9Jn11ndo1g1uq7BL3B) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Summer Is Over](https://open.spotify.com/album/4SsRKLetH2oJEf8Lu296hg) | 2:35 | 2024-01-25 |  |
 | [Now](https://open.spotify.com/track/5ftkWU3phWxdL8wjujAmH5) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Crazy But It's True](https://open.spotify.com/album/5Am6t47OynK0Ft1qF6UjbX) | 3:25 | 2024-01-25 |  |
 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 | 2023-11-30 | 2024-02-07 |

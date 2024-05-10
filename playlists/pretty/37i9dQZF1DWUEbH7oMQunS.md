@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,792 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,803 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 36 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
 | 37 | [You Are Good](https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [You Are Good](https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX) | 5:58 |
 | 38 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |
-| 39 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
-| 40 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
+| 39 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
+| 40 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
 | 41 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 | 42 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
-| 43 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
-| 44 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
-| 45 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
-| 46 | [What You Paid For](https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [What You Paid For](https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw) | 4:09 |
-| 47 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
+| 43 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
+| 44 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
+| 45 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
+| 46 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
+| 47 | [What You Paid For](https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [What You Paid For](https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw) | 4:09 |
 | 48 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
 | 49 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
 | 50 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |

@@ -11023,6 +11023,24 @@
     },
     {
       "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/7G2hn1s5kC1sxlQcXEXAUy"
+      },
+      "artists": [
+        {
+          "name": "BOBI ANDONOV",
+          "url": "https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188092,
+      "name": "Saint",
+      "url": "https://open.spotify.com/track/3wtGbwOllRwGYUFplSyJzA"
+    },
+    {
+      "album": {
         "name": "Young In Love",
         "url": "https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx"
       },
@@ -12325,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "everything and nothing",
+        "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140638,
+      "name": "take the hit",
+      "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
+    },
+    {
+      "album": {
         "name": "Talk (feat. MAY-A)",
         "url": "https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI"
       },
@@ -12844,6 +12880,24 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "album": {
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
     },
     {
       "album": {
@@ -13868,6 +13922,46 @@
       "duration_ms": 235147,
       "name": "Waves",
       "url": "https://open.spotify.com/track/53xhyrYyJMNylCQFJQgbCY"
+    },
+    {
+      "album": {
+        "name": "12 Notes",
+        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "Ways To Go (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+    },
+    {
+      "album": {
+        "name": "Wayside",
+        "url": "https://open.spotify.com/album/3HUoAP6sgFaWMm1vxRLWYm"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/0Z2f0EHh9wYSZWQzxEuhRy"
     },
     {
       "album": {

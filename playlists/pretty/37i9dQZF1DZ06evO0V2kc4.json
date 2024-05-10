@@ -1,12 +1,12 @@
 {
-  "description": "This Is Joan Baez. Los temas esenciales, todos en una lista.",
-  "num_followers": 64462,
+  "description": "This is Joan Baez\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 64480,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAAOVEv0dB3TYOKcSMkPSFe+",
+  "snapshot_id": "ZjrAgAAAAACeArgqcb9F8zeg/nP3VMS7",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 286106,
       "name": "Diamonds And Rust",
       "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "The Night They Drove Old Dixie Down",
-      "url": "https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM"
     },
     {
       "added_at": null,
@@ -79,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Fountain Of Sorrow",
-      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -107,6 +75,22 @@
       "duration_ms": 198293,
       "name": "Farewell, Angelina",
       "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Fountain Of Sorrow",
+      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
     },
     {
       "added_at": null,
@@ -159,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 140000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
     },
     {
       "added_at": null,
@@ -355,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Last Night I Had The Strangest Dream",
-      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan",
         "url": "https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD"
       },
@@ -383,22 +351,6 @@
       "duration_ms": 130759,
       "name": "If You Were A Carpenter",
       "url": "https://open.spotify.com/track/54r96rfihIM6TXasz0mYxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Forever Young - Live On Tour / 1975",
-      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
     },
     {
       "added_at": null,
@@ -419,22 +371,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
       "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+      "duration_ms": 149000,
+      "name": "Last Night I Had The Strangest Dream",
+      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Forever Young - Live On Tour / 1975",
+      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
     },
     {
       "added_at": null,
@@ -455,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -471,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
       "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 165026,
-      "name": "Never Dreamed You'd Leave In Summer",
-      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -584,13 +568,17 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         },
         {
-          "name": "David Crosby",
-          "url": "https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re"
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        },
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y"
+      "duration_ms": 304920,
+      "name": "The Water Is Wide",
+      "url": "https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS"
     },
     {
       "added_at": null,
@@ -652,17 +640,13 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         },
         {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        },
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+          "name": "David Crosby",
+          "url": "https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re"
         }
       ],
-      "duration_ms": 304920,
-      "name": "The Water Is Wide",
-      "url": "https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS"
+      "duration_ms": 204666,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y"
     },
     {
       "added_at": null,
@@ -731,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 164200,
       "name": "Love Minus Zero / No Limit",
       "url": "https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 277600,
       "name": "The Wild Mountain Thyme",
       "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
     },
     {
       "added_at": null,

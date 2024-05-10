@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Mik L x Nesly",
+  "description": "Les hits zouk du moment. Photo : Stony",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Projecteurs",
+        "url": "https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD"
+      },
+      "artists": [
+        {
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180009,
+      "name": "Projecteurs",
+      "url": "https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE"
+    },
+    {
+      "album": {
         "name": "Reviens-moi",
         "url": "https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 192263,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY"

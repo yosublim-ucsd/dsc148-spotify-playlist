@@ -11711,6 +11711,28 @@
     },
     {
       "album": {
+        "name": "So Lost",
+        "url": "https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "So Lost",
+      "url": "https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik"
+    },
+    {
+      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo"
       },

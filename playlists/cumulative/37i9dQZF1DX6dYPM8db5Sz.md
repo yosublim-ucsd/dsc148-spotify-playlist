@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=kCgl0RVbRP2qbiq7r6lByw">Porcelain Moon</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=HygMrlfuRFKm5a\-fVJpa9w">Internet Girl</a>
 
-721 songs - 1 day 17 hr 8 min
+723 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cigarettes](https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp) | [SyonkoTheMan](https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX), [GOD\-Artist](https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0), [Wandilorn](https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR) | [Cigarettes](https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa) | 3:29 | 2022-08-18 | 2022-12-09 |
 | [Cinémed](https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [Cinémed](https://open.spotify.com/album/70Dl4djomdHEALG6BuLSMJ) | 3:19 | 2024-03-29 |  |
 | [City Lights](https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt) | [Daniel Swan](https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv) | [City Lights](https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm) | 3:34 | 2023-04-21 | 2023-07-29 |
+| [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-09 |  |
 | [Clean](https://open.spotify.com/track/5uaNJ6LhylyBCTYNUy7z0C) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Echoes](https://open.spotify.com/album/4U2ZrbE8qKmOlYcEUuS9Hm) | 2:43 | 2022-08-04 | 2022-11-11 |
 | [Clock Hands](https://open.spotify.com/track/4LAolAI2L8hQ32VPV0P4Tn) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Clock Hands](https://open.spotify.com/album/7HIaCsIoIIuQ4esSKYXCra) | 2:39 | 2023-10-06 | 2023-12-22 |
 | [cold](https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [cold](https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo) | 4:31 | 2022-11-10 | 2024-02-10 |
@@ -505,6 +506,7 @@
 | [Riptide](https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Riptide](https://open.spotify.com/album/0OiuUVfE36MWrMTJHsHgow) | 4:26 | 2023-04-14 | 2023-06-23 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-01-11 | 2024-04-19 |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2024-02-09 |  |
+| [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 | 2024-05-09 |  |
 | [Roll With It](https://open.spotify.com/track/3pHcJJSYKPGSSrzGIU3SP4) | [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [Roll With It](https://open.spotify.com/album/12P0mDZjb0vbWzoTinRCxI) | 3:39 | 2023-04-27 | 2023-07-07 |
 | [Rooms](https://open.spotify.com/track/1ZFljzwln96fkNjsJOBt8y) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Rooms](https://open.spotify.com/album/0s8g8Jsxba84hRGpc8vxoB) | 3:15 | 2024-03-08 | 2024-03-30 |
 | [Rooms](https://open.spotify.com/track/6SkeoOFpFW6HJeyxo4zor1) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Rooms](https://open.spotify.com/album/4QNmmRawWXUDvty7Pyc5ve) | 3:15 | 2024-03-08 | 2024-04-27 |
@@ -701,7 +703,7 @@
 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 | 2023-07-28 | 2023-10-27 |
 | [Winter Depression](https://open.spotify.com/track/6qE4LaHVH7Dgkm7N9Bhp2o) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Winter Depression](https://open.spotify.com/album/0bxEi3qP1bHHtLV8IVDifF) | 3:33 | 2023-10-12 | 2023-12-22 |
 | [Wish I Was](https://open.spotify.com/track/4ZIY0grkEJXEGKNNlGPEn3) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [The Seed](https://open.spotify.com/album/386dEHxWISrlTeyn94DSiT) | 3:33 | 2023-06-15 | 2023-07-29 |
-| [Wishbone](https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone](https://open.spotify.com/album/6diOY2LpUsnQqlqgr7ApEw) | 2:53 | 2024-05-03 |  |
+| [Wishbone](https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Wishbone](https://open.spotify.com/album/6diOY2LpUsnQqlqgr7ApEw) | 2:53 | 2024-05-03 | 2024-05-10 |
 | [Wishes](https://open.spotify.com/track/203two1At4kMewDcqlWMEv) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Wishes](https://open.spotify.com/album/0H827J0CQa5apQsW5xcc0M) | 3:05 | 2023-04-21 | 2023-07-07 |
 | [With You](https://open.spotify.com/track/15FipwvwpsyKDbTWQoEC3O) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [With You](https://open.spotify.com/album/1fN2XKS8areahC7LnEwxML) | 4:24 | 2023-11-17 | 2024-01-12 |
 | [Wolves At War](https://open.spotify.com/track/0U2LVmr7cqEmKfdSC5yo1I) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Legacy Of Love](https://open.spotify.com/album/4nSeHpoIVpaNz5le6nX1Xo) | 4:34 | 2023-11-30 | 2024-01-12 |
@@ -712,7 +714,7 @@
 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 | 2023-03-16 | 2023-06-09 |
 | [Worth More](https://open.spotify.com/track/3CI8lCa26dBqaS2xO8SNOK) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Worth More](https://open.spotify.com/album/5MyFWcrxlpBfN6MW39mmGc) | 2:46 | 2024-01-11 | 2024-02-02 |
 | [Wrenbird](https://open.spotify.com/track/4F1NmFzC3OTampNIU4qLuI) | [Wren Hinds](https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX) | [A Child's Chant for the New Millennium](https://open.spotify.com/album/0kH9dP7WAg9Uvw7kFyZKtX) | 4:29 | 2023-07-28 | 2023-09-02 |
-| [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 | 2024-03-15 |  |
+| [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 | 2024-03-15 | 2024-05-10 |
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [You Belong To Me](https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [You Belong To Me](https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1) | 3:29 | 2022-11-10 | 2022-11-25 |
 | [You too hot for this shit](https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC) | [Ghostly Gav](https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv) | [Pretty Dope](https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y) | 2:22 | 2023-08-11 | 2023-09-02 |

@@ -2,7 +2,7 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. The essential tracks, all in one playlist.
+> This is P\-Lo\. Track\-track unggulan, semuanya dalam satu playlist.
 
 56 songs - 2 hr 35 min
 

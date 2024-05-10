@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,171 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,256 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 9 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 10 | [Made To Be Wanting](https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Made To Be Wanting](https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF) | 3:03 |
 | 11 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
-| 12 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
-| 13 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
+| 12 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
+| 13 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
 | 14 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
 | 15 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
 | 16 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
 | 17 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 18 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
-| 19 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
-| 20 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
+| 19 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
+| 20 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 21 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 22 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
 | 23 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |

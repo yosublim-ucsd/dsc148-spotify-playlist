@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Vv Pete",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Lisi",
   "name": "Local Hype",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 158068,
       "name": "3am in Melbourne",
       "url": "https://open.spotify.com/track/0DvNezWZPknS0Ki7PF5mIV"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 152812,
       "name": "Better Than Most",
       "url": "https://open.spotify.com/track/0CvxXvBvBGPs8A6OZEpVS2"
@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "COOCHIE",
+        "url": "https://open.spotify.com/album/0BGTEPeZgqVSyiP8gL4P8H"
+      },
+      "artists": [
+        {
+          "name": "Nauti",
+          "url": "https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132608,
+      "name": "COOCHIE",
+      "url": "https://open.spotify.com/track/4i0kprJ8Rn4nPNcWxGsUSq"
+    },
+    {
+      "album": {
         "name": "Coop In The Breeze",
         "url": "https://open.spotify.com/album/2RBU3NBSSdME238mT0jDHM"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 218429,
       "name": "Drills",
       "url": "https://open.spotify.com/track/0wFPH5ExVGll8hvpFvaau5"
@@ -5330,7 +5348,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 136615,
       "name": "GOLDEN TAN",
       "url": "https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3"
@@ -5894,6 +5912,24 @@
       "duration_ms": 108251,
       "name": "Highroad",
       "url": "https://open.spotify.com/track/7BBvEBbVfkYZNA5Bg7LgIS"
+    },
+    {
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/5jNddBRn4MnqZ76zLxnDDx"
+      },
+      "artists": [
+        {
+          "name": "MLBRN",
+          "url": "https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223236,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/1fk698ZPPGjJW3qO4VMWSp"
     },
     {
       "album": {
@@ -6513,6 +6549,28 @@
     },
     {
       "album": {
+        "name": "I SEE RED (feat. REI AMI)",
+        "url": "https://open.spotify.com/album/1evaU8UGMvmi3jWw5QAfjD"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154677,
+      "name": "I SEE RED (feat. REI AMI)",
+      "url": "https://open.spotify.com/track/3ZNHOPnbBKJxI3V0K0Uy3Y"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/3mGDOIk5pzFvVCuSXgWCuP"
       },
@@ -7019,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "L2TB",
+        "url": "https://open.spotify.com/album/2iBVaOfhHBw8VgiSIaGl9p"
+      },
+      "artists": [
+        {
+          "name": "21 District",
+          "url": "https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "L2TB",
+      "url": "https://open.spotify.com/track/6mdoryKVzzUtbvUDraxRwX"
+    },
+    {
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/4312yRlG6ZEGL1nLObRVEM"
       },
@@ -7206,7 +7282,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194429,
       "name": "LAST OF US",
       "url": "https://open.spotify.com/track/1HqisCi0HyHqpHbH9qBpIk"
@@ -7738,6 +7814,28 @@
       "duration_ms": 123508,
       "name": "Locked In Freestyle (S1:E3)",
       "url": "https://open.spotify.com/track/2OV6tNYDF3sNOrEKwz5FXc"
+    },
+    {
+      "album": {
+        "name": "London To A Brick Show (feat. Shadow)",
+        "url": "https://open.spotify.com/album/34gI1CcP4vlRagM0Y2vSMl"
+      },
+      "artists": [
+        {
+          "name": "Maundz",
+          "url": "https://open.spotify.com/artist/3qZvYUgcZ3yef4LWyXhUx2"
+        },
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198654,
+      "name": "London To A Brick Show (feat. Shadow)",
+      "url": "https://open.spotify.com/track/7oWGZp2XgKFCLnUCvu3CTs"
     },
     {
       "album": {
@@ -12302,7 +12400,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 129250,
       "name": "SOUTHSIDE DILLA",
       "url": "https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP"
@@ -14377,6 +14475,28 @@
     },
     {
       "album": {
+        "name": "Watchlist",
+        "url": "https://open.spotify.com/album/7se9A0fhv7eHBYY6o31DWe"
+      },
+      "artists": [
+        {
+          "name": "Dmonzz",
+          "url": "https://open.spotify.com/artist/3HKTA5uswZWJScJqB4hiCn"
+        },
+        {
+          "name": "KTM Henny",
+          "url": "https://open.spotify.com/artist/5LboJFD1tqB5OaTE1QB5YQ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "Watchlist",
+      "url": "https://open.spotify.com/track/6v5N7ZccfaCpLFLtao8uuS"
+    },
+    {
+      "album": {
         "name": "Water to Wine",
         "url": "https://open.spotify.com/album/0udiMrzMhmWMDQNnrwIuhX"
       },
@@ -14930,6 +15050,36 @@
       "duration_ms": 130612,
       "name": "WORST BEHAVIOUR",
       "url": "https://open.spotify.com/track/03GTtYFHCbaIDKySbAOYpP"
+    },
+    {
+      "album": {
+        "name": "WTF (Remix)",
+        "url": "https://open.spotify.com/album/6RI1q4hMH3UQNTWMwZzzIp"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        },
+        {
+          "name": "Dom McLennon",
+          "url": "https://open.spotify.com/artist/2gvHN6YzZW0bPpmyjeD6V9"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        },
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "WTF - Remix",
+      "url": "https://open.spotify.com/track/6F9obVSOtG6Ncpt958idIj"
     },
     {
       "album": {

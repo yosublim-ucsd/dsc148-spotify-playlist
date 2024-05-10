@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-02",
-  "description": "This Is Bob Marley & The Wailers. Los temas esenciales, todos en una lista.",
+  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
   "name": "This Is Bob Marley & The Wailers",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202432,
       "name": "Iron Lion Zion - 7\" Mix",
       "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232200,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
@@ -460,6 +460,24 @@
       "duration_ms": 338699,
       "name": "Mr. Chatterbox - Extended Mix",
       "url": "https://open.spotify.com/track/33VGV7jjHbOHGsGHrhMhF7"
+    },
+    {
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Natty Dread",
+      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
     },
     {
       "album": {
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 255533,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2dFx6mVWGJTu4xa1elAQ7n"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 217800,
       "name": "Stir It Up - Jamaican Version",
       "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"

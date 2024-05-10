@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-164 songs - 14 hr 58 min
+165 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 | 2021-09-03 |  |
 | [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 | 2022-12-09 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-01-27 |  |
+| [So Far, So Nice](https://open.spotify.com/track/0EY86f6kF4Mr2nUMGTPp95) | [Aksarven](https://open.spotify.com/artist/2IVEyII41ohYahX5VMyKkr) | [So Far, So Nice](https://open.spotify.com/album/5x4asQIuA8XjORUMW6uray) | 6:21 | 2024-05-09 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2021-09-03 |  |
 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-01-27 | 2023-04-29 |
 | [Sons of Creation](https://open.spotify.com/track/5496y8zaZCBQULCo2lbDxh) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Sons of Creation](https://open.spotify.com/album/1oPoiGcCidtKk1OgRXWCdo) | 4:21 | 2021-01-27 | 2022-07-29 |

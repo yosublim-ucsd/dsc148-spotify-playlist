@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123928,
+  "num_followers": 123926,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Pink Razor",
-        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
-      },
-      "artists": [
-        {
-          "name": "Corey Harper",
-          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
-        }
-      ],
-      "duration_ms": 189254,
-      "name": "Pink Razor",
-      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 222650,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Pink Razor",
+        "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "duration_ms": 189254,
+      "name": "Pink Razor",
+      "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Pull",
         "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 196615,
       "name": "Pull",
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Life Is Confusing",
-      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 200933,
       "name": "Dear August",
       "url": "https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Life Is Confusing",
+      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1253,10 +1253,10 @@
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
     },
     {
-      "added_at": "2024-02-23 16:54:41",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Celebrity Lookalikes",
-        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
+        "name": "Wienerschnitzel",
+        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 212458,
-      "name": "Celebrity Lookalikes",
-      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
+      "duration_ms": 176398,
+      "name": "Wienerschnitzel",
+      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1381,10 +1381,10 @@
       "url": "https://open.spotify.com/track/1jfH3q06PG0Jo0Lb0jD4lB"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Wienerschnitzel",
-        "url": "https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi"
+        "name": "Celebrity Lookalikes",
+        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 176398,
-      "name": "Wienerschnitzel",
-      "url": "https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC"
+      "duration_ms": 212458,
+      "name": "Celebrity Lookalikes",
+      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "fast forward",
-        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
-      },
-      "artists": [
-        {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
-        }
-      ],
-      "duration_ms": 127878,
-      "name": "fast forward",
-      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "little light (acoustic version)",
         "url": "https://open.spotify.com/album/5Ge3ITd23jArA863UlzHP9"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 250040,
       "name": "The Friary",
       "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "fast forward",
+        "url": "https://open.spotify.com/album/0p5weycPUThEvVxrdyMNrs"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "duration_ms": 127878,
+      "name": "fast forward",
+      "url": "https://open.spotify.com/track/046316TMJn8PQ3QD3WSBEf"
     },
     {
       "added_at": "2024-02-23 16:54:41",

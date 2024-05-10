@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 300903,
+  "num_followers": 301122,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -1331,38 +1347,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Cheat On Me (feat. Dave)",
         "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "All for U (Ameyatchi)",
         "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 165563,
       "name": "All for U (Ameyatchi)",
       "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1683,22 +1683,6 @@
       "duration_ms": 194558,
       "name": "Low",
       "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "understand",
         "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1795,6 +1779,22 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -2535,22 +2519,6 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Drunk in Love (Henny)",
-        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 104357,
-      "name": "Drunk in Love (Henny)",
-      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2571,6 +2539,38 @@
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Drunk in Love (Henny)",
+        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 104357,
+      "name": "Drunk in Love (Henny)",
+      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2627,6 +2627,34 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
+        "name": "Love Is Alive (Original)",
+        "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Steve Biko.K",
+          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        },
+        {
+          "name": "Dani\u00ebl von Piekartz",
+          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
+        }
+      ],
+      "duration_ms": 331636,
+      "name": "Love is Alive - Original",
+      "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
         "name": "Big Thug Boys (Dj Yo! Remix)",
         "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
       },
@@ -2663,34 +2691,6 @@
       "duration_ms": 203001,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
-        "name": "Love Is Alive (Original)",
-        "url": "https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh"
-      },
-      "artists": [
-        {
-          "name": "Shamis",
-          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
-        },
-        {
-          "name": "Steve Biko.K",
-          "url": "https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        },
-        {
-          "name": "Dani\u00ebl von Piekartz",
-          "url": "https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn"
-        }
-      ],
-      "duration_ms": 331636,
-      "name": "Love is Alive - Original",
-      "url": "https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR"
     },
     {
       "added_at": "2024-04-11 12:18:53",

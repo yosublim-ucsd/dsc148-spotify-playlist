@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,407 likes - 100 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,405 likes - 100 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 45 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
 | 46 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
 | 47 | [At The Cross](https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:59 |
-| 48 | [He Got Up \(feat\. Dorinda Clark Cole with Sean Tillery & Changed\)](https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK), [Sean Tillery](https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3), [Changed](https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm) | [Cross Music](https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57) | 5:38 |
-| 49 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
+| 48 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
+| 49 | [He Got Up \(feat\. Dorinda Clark Cole with Sean Tillery & Changed\)](https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK), [Sean Tillery](https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3), [Changed](https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm) | [Cross Music](https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57) | 5:38 |
 | 50 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
 | 51 | [Blood Medley \(Part 3\) \- I Know It Was The Blood](https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:41 |
 | 52 | [He Paid It All](https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 4:00 |

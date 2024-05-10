@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,328 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,360 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 46 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
 | 47 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
 | 48 | [Kick the Doors Down](https://open.spotify.com/track/5L7ZyUfxdEzf8zjqgEmPe3) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Tiki Taane](https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO) | [Kick The Doors Down](https://open.spotify.com/album/5toBhvOt4yWxf4GSruCeLh) | 3:54 |
-| 49 | [Are You Ready](https://open.spotify.com/track/3lsohFPyLkdGHhXhl0rPMR) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Are You Ready](https://open.spotify.com/album/0wEVV704o69cgtCpz9fP9l) | 3:26 |
-| 50 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
+| 49 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
+| 50 | [Are You Ready](https://open.spotify.com/track/3lsohFPyLkdGHhXhl0rPMR) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Are You Ready](https://open.spotify.com/album/0wEVV704o69cgtCpz9fP9l) | 3:26 |
 | 51 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 | 52 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
 | 53 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |

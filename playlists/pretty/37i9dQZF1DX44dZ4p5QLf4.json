@@ -1,12 +1,12 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: FKJ",
-  "num_followers": 480404,
+  "num_followers": 480435,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQNHAAAAABTmPm6v41EANuIzxt57nK4",
+  "snapshot_id": "Zj1HYAAAAACXevFUMZZeWVNr+r1TT38h",
   "tracks": [
     {
       "added_at": "2024-05-02 22:01:00",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
     },
     {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Blink Twice If You\u2019re Okay",
+        "url": "https://open.spotify.com/album/02vMw0MNNUbBxS6WeB1PR4"
+      },
+      "artists": [
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 181777,
+      "name": "Make It To Summer",
+      "url": "https://open.spotify.com/track/7FsyUisTus0MEQqGVPAukP"
+    },
+    {
       "added_at": "2024-05-02 22:01:00",
       "album": {
         "name": "Space",
@@ -55,6 +87,22 @@
       "duration_ms": 207097,
       "name": "Space",
       "url": "https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -135,6 +183,30 @@
       "duration_ms": 253768,
       "name": "Flowers In Mourning",
       "url": "https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/77KWopOZQjrJ1aAYovUQhS"
+      },
+      "artists": [
+        {
+          "name": "Makzo",
+          "url": "https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96"
+        },
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        }
+      ],
+      "duration_ms": 190851,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4NVrNTSPyRBGKkqHNDBbxi"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1451,26 +1523,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "DIAMONDS & FREAKS",
-        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "LARA'",
-          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
-        }
-      ],
-      "duration_ms": 201017,
-      "name": "PINK MARMALADE",
-      "url": "https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Means The World",
         "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
       },
@@ -1531,22 +1583,6 @@
       "duration_ms": 183800,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/6yqgNXoUQLYmBNh4OVbtct"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "Love Island",
-      "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
     }
   ],
   "unique_name": "Next Wave Soul",

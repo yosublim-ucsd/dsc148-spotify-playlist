@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,161 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,130 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 63 | [Home \(feat\. Bonn\)](https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Home \(feat\. Bonn\)](https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9) | 3:59 |
 | 64 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
 | 65 | [Brother Louie](https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV) | 2:52 |
-| 66 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
-| 67 | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ) | 2:44 |
+| 66 | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ) | 2:44 |
+| 67 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
 | 68 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 69 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
 | 70 | [Glamour Girl](https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC) | [Louie Austen](https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X) | [Iguana](https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O) | 5:01 |

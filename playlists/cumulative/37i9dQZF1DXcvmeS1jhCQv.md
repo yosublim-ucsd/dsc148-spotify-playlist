@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: CARSTEN2X, Joe Butler
+> New tunes from Ireland for your discovery\. Cover: Curtisy
 
-142 songs - 7 hr 57 min
+148 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2024-02-02 | 2024-03-02 |
 | [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 | 2024-04-26 |
 | [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 | 2024-03-15 |
+| [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-05-09 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 |  |
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 |  |
 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
@@ -45,6 +46,7 @@
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 |  |
 | [Dopamine](https://open.spotify.com/track/2rwfGkp8CNAJekjGhjyTQJ) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Lemoncello](https://open.spotify.com/album/0WcN0V416f51MY5pr7P6VK) | 3:08 | 2024-05-02 |  |
 | [Double Cherry](https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Double Cherry](https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW) | 2:57 | 2024-03-29 | 2024-05-03 |
+| [Drive](https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Drive](https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn) | 4:38 | 2024-05-09 |  |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 | 2024-05-03 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 | 2024-04-26 |
@@ -56,6 +58,7 @@
 | [Heat](https://open.spotify.com/track/6vAznmmD372DjfKqP1kKEf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Heat](https://open.spotify.com/album/28KACgx2D6lUoDXBWr55CE) | 3:13 | 2024-02-02 | 2024-02-16 |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-02-02 | 2024-04-19 |
 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-04-18 |  |
+| [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-09 |  |
 | [HOW?](https://open.spotify.com/track/2RcfOEcNwkfwNzcnE9dYDf) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0) | [HOW?](https://open.spotify.com/album/4Ah5nt1P0ClcZRbTTrrqAC) | 3:36 | 2024-03-22 |  |
 | [i shouldn’t be here](https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i shouldn’t be here](https://open.spotify.com/album/2LywM7oEuEHwX5wofh6Gg7) | 3:06 | 2024-02-02 | 2024-03-29 |
 | [If The Shoe Fits](https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [If The Shoe Fits](https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS) | 3:31 | 2024-02-23 |  |
@@ -65,6 +68,7 @@
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 |  |
 | [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 | 2024-04-05 |
 | [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-02 |  |
+| [Let's Do It](https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Let's Do It](https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a) | 3:33 | 2024-05-09 |  |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 |  |
 | [Like I Know You](https://open.spotify.com/track/5Ivojtwe4uoTnMOqJAW6KH) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Like I Know You](https://open.spotify.com/album/5GlI2oHXf8ptPpi6ZWrrP9) | 3:25 | 2024-03-15 |  |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 |  |
@@ -76,6 +80,7 @@
 | [Love & Crisis](https://open.spotify.com/track/4pfQbrzANC8DuqbmRiVEJ3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Love & Crisis](https://open.spotify.com/album/4hBD2h0Ky9M6xr8EJwtmLt) | 3:01 | 2024-02-02 |  |
 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 | 2024-02-02 | 2024-02-16 |
 | [Madonna](https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Madonna](https://open.spotify.com/album/2qOO0fQwkuPCBVY1Owvdsj) | 3:52 | 2024-02-16 |  |
+| [Magpie](https://open.spotify.com/track/2FnXW99ww6e0LREz0WN2hv) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Shiny Things](https://open.spotify.com/album/6hhRN0unI6NqCwAcFK8A7H) | 4:38 | 2024-05-09 |  |
 | [Make Me Smile](https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Make Me Smile](https://open.spotify.com/album/0ZGLCy4MswnlYMzUYAEToR) | 3:18 | 2024-02-02 | 2024-02-16 |
 | [Make Ya Go](https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO), [Ben Bix](https://open.spotify.com/artist/3rGwqjv5MH8zmWIaVaENOP), [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ), [Plantain Papi](https://open.spotify.com/artist/4n2PDqvYZGbA6jEUl9Oim4) | [ISSA NEW ERA!](https://open.spotify.com/album/2SilrGAaibjxRpebuPoDdO) | 3:08 | 2024-03-15 |  |
 | [meanie](https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl](https://open.spotify.com/album/2PFDKgHpiUWafkfpUdKYz9) | 4:01 | 2024-02-02 | 2024-03-29 |
@@ -96,13 +101,14 @@
 | [Our Time](https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [Our Time](https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB) | 2:30 | 2024-02-23 |  |
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-04-25 |  |
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 |  |
-| [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 |  |
+| [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 | 2024-05-10 |
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-03-22 |  |
 | [Put The Blame On Me](https://open.spotify.com/track/6uOMsRNuCaoLRQXFrmgrBc) | [J.F.O](https://open.spotify.com/artist/7tildDuwYhitQgNrXSLDGh) | [Put The Blame On Me](https://open.spotify.com/album/0TdvL5XWxschpsWOdkTRb1) | 2:36 | 2024-03-08 |  |
 | [Quick Fix](https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Quick Fix](https://open.spotify.com/album/4Zki0CQv6Bx2J1o4bJkDRn) | 4:18 | 2024-03-08 |  |
+| [QUIET](https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [QUIET](https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS) | 3:20 | 2024-05-09 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-02-16 |  |
 | [Reject Loser Daydream](https://open.spotify.com/track/7oo31yFxiG3IEu90guW8Aq) | [whoisdays](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Reject Loser Daydream](https://open.spotify.com/album/5Zrj7PUYLLZozST3datBG0) | 2:58 | 2024-02-02 | 2024-02-23 |
 | [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 | 2024-03-08 |

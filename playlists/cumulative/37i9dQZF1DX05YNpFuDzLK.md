@@ -4,7 +4,7 @@
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
-120 songs - 7 hr 23 min
+121 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Rigorous](https://open.spotify.com/track/1RMEsdDz9cRdMN2CIcdBk3) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:32 | 2022-11-17 | 2023-07-07 |
 | [rolo](https://open.spotify.com/track/5XywPo4bxccWkrDISiepdY) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:04 | 2023-07-06 | 2024-04-19 |
 | [rolo](https://open.spotify.com/track/6MGLNRrCWs8wenshQnwVms) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC) | [CODE GE4SS](https://open.spotify.com/album/5Lf9djU5FvvXfFtjdRsz2z) | 2:04 | 2023-07-06 |  |
+| [Rozé \(Prod.TeddyLoid\)](https://open.spotify.com/track/0FKxYnUnph5WftH4l6SJ90) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [Rozé \(Prod.TeddyLoid\)](https://open.spotify.com/album/2LFqjLeIDPtuiS4Bnfwko6) | 3:41 | 2024-05-09 |  |
 | [Running In My Head](https://open.spotify.com/track/3xpd1Ha58kJlIlUwN0D6dg) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Running In My Head](https://open.spotify.com/album/1YtIkvh6EZlFyQcssxaSjd) | 4:00 | 2024-05-07 |  |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-08-04 |  |
 | [Salvation](https://open.spotify.com/track/3irK9WOSOIUxPVobKUpkxj) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:42 | 2022-11-17 |  |

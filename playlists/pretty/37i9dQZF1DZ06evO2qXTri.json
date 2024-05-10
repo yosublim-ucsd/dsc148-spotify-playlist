@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 28016,
+  "num_followers": 28027,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACoRUMIR6WusY3Qm/8X4Cew",
+  "snapshot_id": "ZjrAgAAAAACXpKb1j23ZdvAXVJqtVemo",
   "tracks": [
     {
       "added_at": null,
@@ -63,30 +63,6 @@
       "duration_ms": 307973,
       "name": "I Smile",
       "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Bleed The Same",
-      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
       "added_at": null,
@@ -363,42 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        },
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        },
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        },
-        {
-          "name": "Kanyi Mavi",
-          "url": "https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         },
         {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Box Of Stars Pt. 1 (feat. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi)",
-      "url": "https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ"
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
     },
     {
       "added_at": null,
@@ -435,26 +395,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        },
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        },
+        {
+          "name": "Kanyi Mavi",
+          "url": "https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
         }
       ],
-      "duration_ms": 421165,
-      "name": "My Life Is In Your Hands",
-      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
+      "duration_ms": 316360,
+      "name": "Box Of Stars Pt. 1 (feat. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi)",
+      "url": "https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ"
     },
     {
       "added_at": null,
@@ -515,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -587,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
       },
@@ -607,22 +579,6 @@
       "duration_ms": 407266,
       "name": "Could've Been (with J Moss & Tye Tribbett)",
       "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,
@@ -655,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 236339,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SORRY, I CHANGED",
         "url": "https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv"
       },
@@ -687,6 +627,58 @@
       "duration_ms": 194304,
       "name": "SBTN (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 276629,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
     },
     {
       "added_at": null,
@@ -719,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -747,26 +723,6 @@
       "duration_ms": 275582,
       "name": "Just for Me",
       "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 276629,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
     },
     {
       "added_at": null,
@@ -799,6 +755,26 @@
       "duration_ms": 346866,
       "name": "The Storm Is Over Now",
       "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -839,26 +815,6 @@
       "duration_ms": 225444,
       "name": "Why We Sing (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1gB4zVWkHjoimGdyNhOmXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -915,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
         "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
       },
@@ -935,22 +907,6 @@
       "duration_ms": 210373,
       "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
       "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
     },
     {
       "added_at": null,
@@ -1031,6 +987,58 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

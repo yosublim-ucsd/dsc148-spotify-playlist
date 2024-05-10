@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147520,
+      "name": "Animales",
+      "url": "https://open.spotify.com/track/2vF1KE6iIpQuebkFLU2tHv"
+    },
+    {
+      "album": {
         "name": "FLESH",
         "url": "https://open.spotify.com/album/4abCTdzDoNBHpAcVlAxceV"
       },
@@ -16660,7 +16678,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 191818,
       "name": "sola",
       "url": "https://open.spotify.com/track/2h45BjVC3a5o0zdPO1DIFI"

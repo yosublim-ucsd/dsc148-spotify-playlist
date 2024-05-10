@@ -1,12 +1,12 @@
 {
-  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 16863,
+  "description": "This Is Taio Cruz. Los temas esenciales, todos en una lista.",
+  "num_followers": 16869,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAClSRaoReO4oMKMcAuUhH8D",
+  "snapshot_id": "ZjrAgAAAAADkr4uYDWRtIC3xwYmF6U88",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 192275,
       "name": "Little Bad Girl (feat. Taio Cruz & Ludacris)",
       "url": "https://open.spotify.com/track/55VzNhbcf0Gxf6qRCUAV01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There She Goes",
-        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 208611,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
     },
     {
       "added_at": null,
@@ -295,26 +263,6 @@
       "duration_ms": 240937,
       "name": "Booty Bounce - Extended Mix",
       "url": "https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Dirty Picture",
-      "url": "https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD"
     },
     {
       "added_at": null,
@@ -763,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Annual Compilation 2012 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "David May",
-          "url": "https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK"
-        }
-      ],
-      "duration_ms": 280312,
-      "name": "Dynamite - David May Rmx Edit",
-      "url": "https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cryin' Over You",
         "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
       },
@@ -799,6 +727,26 @@
       "duration_ms": 206250,
       "name": "Cryin Over You - Cahill Radio Edit",
       "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Annual Compilation 2012 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "David May",
+          "url": "https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK"
+        }
+      ],
+      "duration_ms": 280312,
+      "name": "Dynamite - David May Rmx Edit",
+      "url": "https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe"
     },
     {
       "added_at": null,

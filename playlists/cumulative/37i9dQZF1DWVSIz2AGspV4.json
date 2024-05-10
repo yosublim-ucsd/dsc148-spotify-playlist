@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 269258,
       "name": "Aldniya Ensan - \u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u0646\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu"
@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Hob Ahtikar",
+        "url": "https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu"
+      },
+      "artists": [
+        {
+          "name": "Mohanad Al Marsoomi",
+          "url": "https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206822,
+      "name": "Hob Ahtikar",
+      "url": "https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj"
+    },
+    {
+      "album": {
         "name": "Hobbak Dar",
         "url": "https://open.spotify.com/album/22d8IxsrkUVBSmBCtbapCQ"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 177333,
       "name": "Mo Haram",
       "url": "https://open.spotify.com/track/5YXgPh7kJbqqmB7q9hWnwJ"
@@ -5246,6 +5264,24 @@
       "duration_ms": 246812,
       "name": "\u0643\u0644\u0634\u064a \u062a\u0642\u062f\u0631",
       "url": "https://open.spotify.com/track/1b4Luec2loblh0H2iwcqCh"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0642\u0647\u0648\u0631\u064a\u0646 \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8"
+      },
+      "artists": [
+        {
+          "name": "Sara Al Zakariya",
+          "url": "https://open.spotify.com/artist/1YGnSFYXfvmBNfCvbXEMSu"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "\u0645\u0642\u0647\u0648\u0631\u064a\u0646 \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-76 songs - 5 hr 1 min
+77 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Mi Fe](https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Mi Fe](https://open.spotify.com/album/2U7t67tqrgQHexFBMPiu62) | 3:55 | 2020-09-18 | 2022-10-19 |
 | [Mi Fe](https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A) | 3:55 | 2020-09-18 | 2022-11-19 |
 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 | 2020-09-18 | 2024-04-19 |
+| [Mi Iglesia](https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:53 | 2020-09-18 |  |
 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 | 2020-09-18 |  |
 | [Motivo de mi cancion](https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:31 | 2020-09-18 |  |
 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 | 2020-09-18 |  |
@@ -67,7 +68,7 @@
 | [Poniendo el Estilo](https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5) | [Spiritual Bless](https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv) | [Poniendo el Estilo](https://open.spotify.com/album/3SjkzgltzANAGQHgXaTiMI) | 4:18 | 2020-09-18 |  |
 | [Por un Minuto Tu Precensia](https://open.spotify.com/track/7GirW2LozXf84Mhg9Yv7uF) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG), [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [En Bachata](https://open.spotify.com/album/0dkfS9yeP95kcYJ9tEUDlF) | 3:46 | 2020-09-18 | 2022-10-08 |
 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 | 2020-09-18 | 2024-04-19 |
-| [Que Tire La Piedra](https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:24 | 2020-09-18 |  |
+| [Que Tire La Piedra](https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:24 | 2020-09-18 | 2024-05-10 |
 | [Rumbarengue](https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [De Todo Un Poco](https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb) | 3:30 | 2020-09-18 | 2024-04-19 |
 | [Salsa del Cielo](https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero](https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS) | 4:15 | 2020-09-18 | 2024-04-19 |
 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 | 2020-09-18 |  |

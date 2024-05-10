@@ -1,10 +1,10 @@
 {
   "description": "Las favoritas de los patrones. Luis R Conriquez, Net\u00f3n Vega en portada.",
-  "num_followers": 218209,
+  "num_followers": 218421,
   "original_name": "Corridos Chakalosos",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZitC4AAAAADdq3prMzfOh/5/plOwd2QC",
   "tracks": [
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Que Empiece El Juego",
-        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 149697,
-      "name": "Que Empiece El Juego",
-      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Fresas de la Capital (Remix)",
         "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
@@ -347,6 +327,26 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Que Empiece El Juego",
+        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 149697,
+      "name": "Que Empiece El Juego",
+      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -387,22 +403,6 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "El Blue",
-        "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 169812,
-      "name": "El Blue",
-      "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "La Capi",
         "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189075,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "El Blue",
+        "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 169812,
+      "name": "El Blue",
+      "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Desde Topo Hasta La Sierra",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
-        }
-      ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "El Mago Merl\u00edn",
-        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "El Mago Merl\u00edn",
-      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "De Hecho",
         "url": "https://open.spotify.com/album/014yJonHJQZg1Q4NC8qQiz"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 216437,
       "name": "De Hecho",
       "url": "https://open.spotify.com/track/4y77SuMNWdhonXsrqz10FR"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "El Mago Merl\u00edn",
+        "url": "https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "El Mago Merl\u00edn",
+      "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Estilo Especial (En Vivo)",
-        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 247065,
-      "name": "Estilo Especial - En Vivo",
-      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Jefe Fresa",
         "url": "https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 203504,
       "name": "Somos Gente Del Sombrero - En Vivo",
       "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Estilo Especial (En Vivo)",
+        "url": "https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 247065,
+      "name": "Estilo Especial - En Vivo",
+      "url": "https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm"
     },
     {
       "added_at": "2024-04-26 06:00:00",

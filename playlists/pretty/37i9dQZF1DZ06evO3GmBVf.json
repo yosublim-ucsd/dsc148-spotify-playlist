@@ -1,12 +1,12 @@
 {
-  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 167321,
+  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
+  "num_followers": 167445,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACscAvv/JhcSjXSxIYOkXPI",
+  "snapshot_id": "ZjrAgAAAAACoqVavoD72Fdap7zxABfqJ",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ando Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "Ando Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sientelo",
         "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 188264,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ando Al Mill\u00f3n",
-        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "Ando Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dice Que Me Quiere",
+        "url": "https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Dice Que Me Quiere",
+      "url": "https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/69TuNGeXi7iah9B755lakY"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 227200,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dice Que Me Quiere",
-        "url": "https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Dice Que Me Quiere",
-      "url": "https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flaco Pesado",
-        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 157074,
-      "name": "Flaco Pesado",
-      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 186625,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flaco Pesado",
+        "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 157074,
+      "name": "Flaco Pesado",
+      "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno Pa Lo Malo",
         "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-529 songs - 21 hr 48 min
+530 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
 | [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 | 2023-11-23 | 2024-04-19 |
 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 |  |
-| [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 | 2022-10-20 | 2024-04-22 |
+| [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 | 2022-10-20 |  |
 | [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 | 2023-03-13 |
 | [bitter soil](https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/6rzVxkkcRVKGjAZO2KkEUB) | 2:06 | 2022-07-28 | 2022-08-01 |
 | [bitter soil](https://open.spotify.com/track/77QG4aqova0Ld9lxJ6qzwe) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/4H5sX2oI4Ld0VeKEtEvCMH) | 2:06 | 2022-02-10 | 2022-07-29 |
@@ -200,7 +200,7 @@
 | [Green Crack](https://open.spotify.com/track/3IQ0iB7Mw1AZpQePAlpLmF) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Green Crack](https://open.spotify.com/album/1sg4aCx1ySwXFPYN2bqhG3) | 3:09 | 2020-11-06 | 2022-07-28 |
 | [Green Hour](https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00) | 2:31 | 2023-02-10 | 2023-02-11 |
 | [Green Hour](https://open.spotify.com/track/5sEq6CloKNgOClDlJZemZ4) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/6sYcWXkK18aoNRdKOtiAF6) | 2:31 | 2023-02-11 | 2023-05-02 |
-| [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-03-24 |  |
+| [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-03-24 | 2024-05-10 |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 | 2023-10-26 |
 | [Hello](https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Hello](https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b) | 2:04 | 2020-06-29 | 2022-07-27 |
@@ -263,6 +263,7 @@
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-29 |
 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 | 2022-07-28 | 2024-03-12 |
 | [Lemon Wedge in the Sky](https://open.spotify.com/track/2HL746RqBIfvVZZK0FLuXM) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Home By 11 PM](https://open.spotify.com/album/2gkM9voMHscMGUcEnGrDCw) | 2:11 | 2019-07-26 | 2021-12-20 |
+| [Les Nuits \- Hip Hop Reprise](https://open.spotify.com/track/71obeObleZP0o9SQVEPDkp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/1k7deKZEekSD0gadYi7rAt) | 3:46 | 2024-05-09 |  |
 | [Let Me Be...](https://open.spotify.com/track/26C8Jwl8oVfgvrfgMcEShx) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Let Me Be...](https://open.spotify.com/album/2BrMWNVooyQR4ohBcAfbUB) | 2:30 | 2019-05-26\* | 2022-04-21 |
 | [Let Me Sink](https://open.spotify.com/track/60IGRj0Vyl4cFqyJELQHjc) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [Let Me Sink](https://open.spotify.com/album/44m2eIAT0LrkkDDy3EA2Vz) | 2:00 | 2019-05-26\* | 2019-06-15 |
 | [let up](https://open.spotify.com/track/1enG0rKaILfMLkpECtzq7e) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [let up](https://open.spotify.com/album/1Mf3I8VH2jkHzhQda5r7tF) | 3:04 | 2021-11-26 | 2022-07-29 |
@@ -523,7 +524,7 @@
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2022-04-06 |
 | [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 | 2023-04-02 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
-| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 |  |
+| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2024-05-10 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 | 2024-04-08 |
 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 | 2019-07-26 | 2022-04-19 |
 | [Within 2 Days](https://open.spotify.com/track/11VYxuIGF0gVds8bByCiX9) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Within 2 Days](https://open.spotify.com/album/6dcm2itiMpOLAtYNoxskuj) | 2:02 | 2024-02-22 | 2024-04-13 |

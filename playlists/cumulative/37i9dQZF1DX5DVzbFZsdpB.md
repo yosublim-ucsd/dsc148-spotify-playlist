@@ -4,7 +4,7 @@
 
 > Podcasts you need to have on your RADAR: <a href="spotify:show:73sgbEhXdXbFqKZoc1zgqk"> Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
-41 songs - 1 day 11 hr 59 min
+42 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Kate Middleton Diagnosis, Quiet on Set & HECS](https://open.spotify.com/episode/7wrfU215ND17R9sF3s5qZ1) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 54:09 | 2024-04-30 |  |
 | [Lehrmann Loses, Bondi Killings & OJ Simpson Dies](https://open.spotify.com/episode/3MLlwjL9gqbjeX2OEev3rw) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 1:02:22 | 2024-04-30 |  |
 | [Let's Talk About Sex, \(After\) Baby](https://open.spotify.com/episode/5FPVRwJwY5h7MS3d7VRLLI) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 1:02:52 | 2023-10-04 | 2024-05-01 |
+| [Met Gala, DV Policy & Rafah](https://open.spotify.com/episode/5pHauv3wough3jRTkYJE2d) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 55:34 | 2024-05-09 |  |
 | [Never Tell Your Mum Your Baby Name](https://open.spotify.com/episode/18Kq37y2Kn66ewrGblLyJG) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 1:02:19 | 2023-10-04 | 2024-05-01 |
 | [Olivia Rodrigo, Andrew Tate & US Tik Tok Ban](https://open.spotify.com/episode/7Gc851IQbbDvVX4bxCgSbw) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 41:53 | 2024-04-30 |  |
 | [pov you get the ick…](https://open.spotify.com/episode/4GdU3VkPGnYgI5PVbCvp63) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | [Out Of Character with Millie](https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ) | 44:12 | 2022-06-27 | 2023-01-20 |

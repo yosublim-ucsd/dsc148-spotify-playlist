@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31227,
+  "num_followers": 31237,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -243,34 +243,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
       "artists": [
         {
-          "name": "KiaBHN",
-          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
-        },
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "DJ BigO",
-          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
-        },
-        {
-          "name": "Vivid The Producer",
-          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
-        },
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 192949,
-      "name": "Jersey Anniversary",
-      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -299,18 +283,34 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "KiaBHN",
+          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
+        },
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "DJ BigO",
+          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
+        },
+        {
+          "name": "Vivid The Producer",
+          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         }
       ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+      "duration_ms": 192949,
+      "name": "Jersey Anniversary",
+      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -351,6 +351,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "BaDinga (Reloaded)",
+        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "TWRK",
+          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "BaDinga - Reloaded",
+      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BaDinga (Reloaded)",
-        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "TWRK",
-          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BaDinga - Reloaded",
-      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Unavailable",
-        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "Unavailable",
-      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 126077,
       "name": "Deliver",
       "url": "https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Unavailable",
+        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Unavailable",
+      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Zfrek",
-          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Shake My Ass",
-      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I Miss The Club",
         "url": "https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 176640,
       "name": "I Miss The Club",
       "url": "https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wicked (feat. Eliza Legzdina)",
-        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "Wicked (feat. Eliza Legzdina)",
-      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Nah Follow Dem",
         "url": "https://open.spotify.com/album/1XXV1sE3cJ2eshrGhwu2zg"
       },
@@ -1139,22 +1119,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+        "name": "Wicked (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
       },
       "artists": [
         {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
         },
         {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
         }
       ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+      "duration_ms": 157674,
+      "name": "Wicked (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1175,6 +1155,26 @@
       "duration_ms": 131391,
       "name": "Bitch We from Baltimore",
       "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Lonely in Tokyo (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
+      },
+      "artists": [
+        {
+          "name": "MIREI",
+          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
+      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
         "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 188000,
       "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
       "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lonely in Tokyo (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/5ypIwKiSA3pUmMeT3QttoM"
-      },
-      "artists": [
-        {
-          "name": "MIREI",
-          "url": "https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw"
-        },
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
-      "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4hiwTcr6euYZh55T4gzM4U"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 240960,
       "name": "BALTIMORE",
       "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
+        }
+      ],
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Ride It (SBF17)",
         "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Holding It Together",
         "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
       },
@@ -1971,6 +1951,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
+      },
+      "artists": [
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "I Like The Gangstas",
         "url": "https://open.spotify.com/album/2B4uGRwT5w8s73dsq2nj3e"
       },
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I Said",
-        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
-      },
-      "artists": [
-        {
-          "name": "Kade Young",
-          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Said",
-      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I Am In Love",
         "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 173142,
       "name": "I Am In Love",
       "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I Said",
+        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
+      },
+      "artists": [
+        {
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Said",
+      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
     },
     {
       "added_at": "2024-01-26 05:00:00",

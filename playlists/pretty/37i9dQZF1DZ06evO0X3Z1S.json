@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 85080,
+  "num_followers": 85086,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACI9xThe0guxeWAw5Bntg7i",
+  "snapshot_id": "ZjrAgAAAAAAThtwGWgFBhzD90t/b/Dgj",
   "tracks": [
     {
       "added_at": null,
@@ -39,26 +39,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -68,13 +48,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
     },
     {
       "added_at": null,
@@ -95,26 +75,6 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
     },
     {
       "added_at": null,
@@ -143,26 +103,6 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
     },
     {
       "added_at": null,
@@ -215,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -244,13 +164,17 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
     },
     {
       "added_at": null,
@@ -275,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -311,26 +215,6 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
     },
     {
       "added_at": null,
@@ -379,66 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Be There",
-        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Always Be There",
-      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -483,50 +307,6 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": null,
@@ -695,6 +475,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
       },
@@ -711,26 +519,6 @@
       "duration_ms": 200694,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 186490,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC"
     },
     {
       "added_at": null,
@@ -771,6 +559,26 @@
       "duration_ms": 212903,
       "name": "yes, and? - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "We Could Go Back",
+      "url": "https://open.spotify.com/track/6tgSxgv4moPC3XvX11SKhs"
     },
     {
       "added_at": null,
@@ -843,6 +651,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/4H0iUwnJaY9Ev07IP6DW5j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
       },
@@ -895,6 +727,26 @@
       "duration_ms": 185453,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Era Istrefi",
+          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey"
     },
     {
       "added_at": null,
@@ -1007,6 +859,82 @@
       "duration_ms": 217080,
       "name": "Siento",
       "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Life Is Music (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "The Visionary",
+          "url": "https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "My Life Is Music - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bum Bum Tam Tam (feat. Future) [Jonas Blue Remix]",
+        "url": "https://open.spotify.com/album/0MZO7gD4hAtniirDVl1v0A"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 186149,
+      "name": "Bum Bum Tam Tam - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7vh69SQxqTfa5tsG4zeZOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beach House & EDM Lounge",
+        "url": "https://open.spotify.com/album/2G8XUGYuXiRz6DFeoVPzBD"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 224744,
+      "name": "I See Love - Extended Mix",
+      "url": "https://open.spotify.com/track/0bXZ7EDW04kNR8jaxZ4xLc"
     }
   ],
   "unique_name": "This Is Jonas Blue",

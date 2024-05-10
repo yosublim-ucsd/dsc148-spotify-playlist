@@ -4,7 +4,7 @@
 
 > Women at full volume\. Cover: Esther Graf
 
-1,452 songs - 3 day 2 hr 52 min
+1,453 songs - 3 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1418,6 +1418,7 @@
 | [Wish You Well](https://open.spotify.com/track/6FyFZL0wZ5rExjwdtWPVx2) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Wish You Well](https://open.spotify.com/album/1gLP9nYI48QohmYSbFK8qo) | 3:14 | 2022-04-05 | 2022-05-04 |
 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 | 2023-05-02 | 2023-06-07 |
 | [WITCH](https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WITCH](https://open.spotify.com/album/12kAESgAld7orprsv64J0k) | 2:31 | 2023-11-07 | 2023-11-30 |
+| [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 | 2024-05-01 |  |
 | [Wolke8](https://open.spotify.com/track/3OX1ktUQG61rViExSL75Rn) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Wolke8](https://open.spotify.com/album/6iBPDFrKhxEQ6YRCyOlUae) | 2:30 | 2023-10-03 | 2023-11-08 |
 | [Work of Art](https://open.spotify.com/track/65mvMMYQgJetzR6D3VwMR6) | [Lisa Pac](https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE) | [Work of Art](https://open.spotify.com/album/6u2ggPA0Bt1WMaPoEVsraV) | 2:34 | 2022-05-03 | 2022-06-01 |
 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 | 2024-02-06 | 2024-03-06 |

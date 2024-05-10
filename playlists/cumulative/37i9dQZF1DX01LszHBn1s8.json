@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "everybody at the bar getting tipsy \ud83e\udd20\ud83c\udf7b\ud83c\udf78\ud83e\udd43\n",
+  "description": "well i heard you might have found someone new \ud83e\udd20\n",
   "name": "pov (2)",
   "tracks": [
     {
@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
+    },
+    {
+      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -9827,6 +9845,24 @@
     },
     {
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206218,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "album": {
         "name": "Hey, Mickey!",
         "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
       },
@@ -10654,6 +10690,28 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "album": {
@@ -20082,7 +20140,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -25998,6 +26056,10 @@
         {
           "name": "MC Meno K",
           "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Ricky Ribeiro",
+          "url": "https://open.spotify.com/artist/0OJan6sabxPrcFtfpu9Xt3"
         }
       ],
       "date_added": "2022-05-19",

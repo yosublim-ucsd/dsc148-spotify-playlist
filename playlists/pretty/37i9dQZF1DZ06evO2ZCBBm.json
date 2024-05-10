@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 43074,
+  "num_followers": 43090,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADvRUMSl6m1sjdCnw5oXAZN",
+  "snapshot_id": "ZjrAgAAAAAC9oKpFTRq3v8hKRbAE8rYb",
   "tracks": [
     {
       "added_at": null,
@@ -51,34 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
-        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
-        }
-      ],
-      "duration_ms": 170074,
-      "name": "body bag (feat. YUNGBLUD & Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -111,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -139,6 +95,22 @@
       "duration_ms": 210133,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": null,
@@ -175,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Blue and Yellow",
-      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dearly Departed (feat. Bert McCracken)",
         "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
       },
@@ -215,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Blue and Yellow",
+      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
@@ -231,6 +203,26 @@
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": null,
@@ -263,26 +255,6 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "toxic energy (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
     },
     {
       "added_at": null,
@@ -447,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "People Are Vomit",
+        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
       },
       "artists": [
         {
@@ -456,9 +428,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+      "duration_ms": 172146,
+      "name": "People Are Vomit",
+      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
     },
     {
       "added_at": null,
@@ -479,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Are Vomit",
-        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
       "artists": [
         {
@@ -488,9 +460,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 172146,
-      "name": "People Are Vomit",
-      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
+      "duration_ms": 176786,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
     },
     {
       "added_at": null,
@@ -527,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Liar Liar (Burn in Hell)",
-      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -555,6 +511,22 @@
       "duration_ms": 203520,
       "name": "Empty With You",
       "url": "https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Liar Liar (Burn in Hell)",
+      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
     },
     {
       "added_at": null,
@@ -591,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -619,6 +575,22 @@
       "duration_ms": 184105,
       "name": "Bloody Nose",
       "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
     },
     {
       "added_at": null,
@@ -655,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -687,6 +643,22 @@
       "duration_ms": 200765,
       "name": "Blow Me",
       "url": "https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,
@@ -723,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Kissing You Goodbye",
-      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -755,6 +711,22 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
     },
     {
       "added_at": null,
@@ -791,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Cathedral Bell",
+      "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
         "url": "https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s"
       },
@@ -811,22 +799,6 @@
       "duration_ms": 144000,
       "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Cathedral Bell",
-      "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
     }
   ],
   "unique_name": "This Is The Used",

@@ -514,10 +514,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 259186,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm"
+    },
+    {
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "If I Could Fall In Love",
+      "url": "https://open.spotify.com/track/4dODXMAiOlCbLYyF4QvlVt"
     },
     {
       "album": {
@@ -550,7 +568,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 378040,
       "name": "Johnny Cash",
       "url": "https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "More Than Anything In This World",
       "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 259026,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"

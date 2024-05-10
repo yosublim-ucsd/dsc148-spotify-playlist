@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,779 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,801 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 32 | [Tanto](https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tanto](https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj) | 4:13 |
 | 33 | [siempre lo hago y te extraño](https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:04 |
 | 34 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
-| 35 | [La Chica\-cá](https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [La Chica\-cá](https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT) | 2:54 |
-| 36 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
+| 35 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
+| 36 | [La Chica\-cá](https://open.spotify.com/track/4wWTiDyPTF63sfMM1n2vpS) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [La Chica\-cá](https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT) | 2:54 |
 | 37 | [BAD BEHAVIORS](https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [BAD BEHAVIORS](https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV) | 3:10 |
 | 38 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
 | 39 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 |

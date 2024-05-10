@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=2Vi_2TSQT5-u7_kKg-IyKg\">Omagoqa</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP?si=bjd2Swa8RyiqorHV5oPoIw\">Maline Aura</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -3473,6 +3473,32 @@
     },
     {
       "album": {
+        "name": "Breathe (Remixes)",
+        "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tait",
+          "url": "https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT"
+        },
+        {
+          "name": "Sam Alaina",
+          "url": "https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB"
+        },
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402056,
+      "name": "Breathe - Ed-ward Remix",
+      "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
+    },
+    {
+      "album": {
         "name": "Breathe (Themba Remix)",
         "url": "https://open.spotify.com/album/6h0zxF7EhzgkqpWOvnQgJr"
       },
@@ -4933,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "Digane",
+        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162701,
+      "name": "Digane",
+      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
+    },
+    {
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh"
       },
@@ -5136,7 +5184,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 149760,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/3FMuC2yPEbstGcBNeyFBvb"
@@ -5320,7 +5368,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 320946,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3OFzqxvN51f4S4p8ugC6Mz"
@@ -7014,7 +7062,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
@@ -8080,6 +8128,24 @@
       "duration_ms": 440859,
       "name": "Huwelelani",
       "url": "https://open.spotify.com/track/75iHaCOySvOBi3I70z3URP"
+    },
+    {
+      "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
     },
     {
       "album": {
@@ -9456,7 +9522,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
@@ -12268,7 +12334,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 257704,
       "name": "Mathandana (feat. Azana, Skillz & Tshego AMG)",
       "url": "https://open.spotify.com/track/7prrm9RDeY3cRtpz9yVwbD"
@@ -14374,6 +14440,28 @@
       "duration_ms": 226229,
       "name": "Oh Lua",
       "url": "https://open.spotify.com/track/1vwv0Jz9aM3v4mP0IL1NEr"
+    },
+    {
+      "album": {
+        "name": "Oke Oke",
+        "url": "https://open.spotify.com/album/3kavaUgCeyHTADu1kufulb"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187204,
+      "name": "Oke Oke",
+      "url": "https://open.spotify.com/track/5giz0fcrNPPfLHPAHlAN76"
     },
     {
       "album": {
@@ -18670,7 +18758,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 191266,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/6CEUSjzo32KAYV1n8Sckkq"

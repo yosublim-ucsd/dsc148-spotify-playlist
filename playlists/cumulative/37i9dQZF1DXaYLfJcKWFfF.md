@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Zoe Modinga
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Thandiswa
 
-203 songs - 12 hr 4 min
+206 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Crescent](https://open.spotify.com/track/419o5hR6s53S0ic5iP984q) | [Talicia](https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP) | [Crescent](https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf) | 1:48 | 2023-09-14 |  |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-16 | 2022-10-22 |
 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 | 2020-01-15 | 2023-09-15 |
+| [Debut](https://open.spotify.com/track/7taRvoC0XII55WwrU7Nuo2) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Sarang / 사랑](https://open.spotify.com/album/4NVaNkPf051HYgA6SiWyDy) | 3:49 | 2024-05-10 |  |
 | [Dia](https://open.spotify.com/track/0ifPsNJwearRtX0v1wR75a) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Kikento](https://open.spotify.com/album/4m5qOzQLSLJnGSKPGQrDzM) | 3:49 | 2023-03-03 | 2023-04-21 |
 | [DIIISAPPEAR](https://open.spotify.com/track/5m6xEduQ35dXndkEnHcneo) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [DIIISAPPEAR](https://open.spotify.com/album/4Ykqzp0X4dgI8iGpMUeQAl) | 3:16 | 2024-01-19 |  |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 | 2023-02-04 |
@@ -46,12 +47,13 @@
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-17 | 2023-04-15 |
 | [Dumb Luck](https://open.spotify.com/track/6SJzX7MUAK21qS8T3DbEbA) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Dumb Luck](https://open.spotify.com/album/5HiGR5M1pRcgp5N10mEPNN) | 4:04 | 2023-10-27 |  |
 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 | 2023-04-27 | 2024-04-26 |
+| [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 | 2024-05-10 |  |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 | 2024-03-01 |
 | [Eyes Don't See](https://open.spotify.com/track/4avUDzXj79BrSOSRg3V0KA) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Eyes Don't See](https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ) | 5:47 | 2022-05-26 | 2023-05-12 |
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 | 2023-01-28 |
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 | 2023-04-27 | 2024-01-19 |
-| [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 |  |
+| [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-05-10 |
 | [Foya](https://open.spotify.com/track/2zAaSEZzHHEVqvD18wgoXN) | [Yaans](https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k), [Wisdom](https://open.spotify.com/artist/7pyynkEL0G0TzqIvVWEEWE) | [Foya](https://open.spotify.com/album/2dzONdn4K6iqxZy8rVfyjS) | 4:08 | 2024-02-23 |  |
 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 | 2024-04-26 |  |
 | [Give Thanks & Praises](https://open.spotify.com/track/6ufkeDENtPwmyGQlZoboTM) | [Philippe Cohen Solal](https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV), [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Give Thanks & Praises](https://open.spotify.com/album/61vhDxm4zijV1ESUdSd9hK) | 3:23 | 2023-02-03 | 2023-04-21 |
@@ -108,7 +110,7 @@
 | [Mimi na wewe](https://open.spotify.com/track/4Os4kaUmrqDpLP0iefW2m3) | [Swahili Ally](https://open.spotify.com/artist/505upYNGyPZJdVAC95Iacr) | [NADUNDA](https://open.spotify.com/album/6jIbGRwcdfU18mvKB7r4aU) | 4:01 | 2020-05-26 | 2023-06-09 |
 | [Mmuan Daan](https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [Mmuan Daan](https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL) | 3:37 | 2023-03-17 | 2023-08-04 |
 | [Money](https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk) | [Senkulive](https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac) | [Money](https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG) | 4:54 | 2022-12-02 | 2023-06-09 |
-| [Moses](https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Moses](https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq) | 2:41 | 2023-10-13 |  |
+| [Moses](https://open.spotify.com/track/0NC9BEfvWG3hCsog3VihV8) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Moses](https://open.spotify.com/album/0bfbqUxGnVezR36AUwTbfq) | 2:41 | 2023-10-13 | 2024-05-10 |
 | [Mpenzi Wangu](https://open.spotify.com/track/46OHcOnDAzUxcfmSggZAhA) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Mpenzi Wangu](https://open.spotify.com/album/0XBbgMNrZQXyNSZTSd0llv) | 2:52 | 2023-11-17 |  |
 | [MR TRAVELLER](https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If) | [Kwan Pa](https://open.spotify.com/artist/7ax6UkV3qlE7afeJcgVnjV) | [PALM WINE MUSIC](https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu) | 3:55 | 2022-09-09 | 2023-01-13 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
@@ -117,6 +119,7 @@
 | [Ndavuka](https://open.spotify.com/track/5eIvMbO3C9f86NeQCJ1Lbc) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Moving Away](https://open.spotify.com/album/0n3DZvKeyztyrzVHE7Dem9) | 3:16 | 2023-09-09 | 2023-09-15 |
 | [NDIWE](https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Trina South](https://open.spotify.com/artist/5vCuU06trZlFxE0JK0C1Am) | [NDIWE](https://open.spotify.com/album/4pcyFiJmHvc7cU18toF49w) | 4:35 | 2023-08-17 | 2023-10-20 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 | 2023-09-29 |
+| [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-10 |  |
 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 | 2024-04-26 |  |
 | [Ningojee](https://open.spotify.com/track/1vW97je9Ph2qs3DrcwBHqG) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Ningojee](https://open.spotify.com/album/01JrImEAig5NQyExNrCQig) | 5:14 | 2023-09-29 | 2023-10-20 |
 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 | 2024-03-22 |  |
@@ -191,7 +194,7 @@
 | [Umcebo](https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi](https://open.spotify.com/album/0Kq9gEpM9GBQzjxNjEhLvy) | 3:52 | 2020-12-17 | 2023-03-18 |
 | [Very Simple](https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:33 | 2022-09-30 | 2023-05-12 |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2023-05-12 |
-| [wave \(that's me\)](https://open.spotify.com/track/26BJHjtPjFBGGvFRpr3ipa) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 3:15 | 2023-09-29 |  |
+| [wave \(that's me\)](https://open.spotify.com/track/26BJHjtPjFBGGvFRpr3ipa) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [GARDEN](https://open.spotify.com/album/1LkCpeHNsZ4ztzk8hsA0pe) | 3:15 | 2023-09-29 | 2024-05-10 |
 | [Waxtu](https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/0gp7HDhEZinV3HSFIXyV08) | 3:27 | 2022-10-13 | 2023-02-27 |
 | [Waxtu](https://open.spotify.com/track/7ntV80tB9wbRpDJz2Lf5ZT) | [Kya Loum](https://open.spotify.com/artist/2UJgfqn7JRdgfIRu3cNJFm) | [Niit](https://open.spotify.com/album/6yxgpB7XI5e72889GB0G9i) | 3:27 | 2023-01-27 | 2023-07-29 |
 | [WDYWFM \(feat\. L0la\)](https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [L0la](https://open.spotify.com/artist/0Ba1FVGkH6ur9DLz6o9P62) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:01 | 2022-11-25 | 2022-12-02 |

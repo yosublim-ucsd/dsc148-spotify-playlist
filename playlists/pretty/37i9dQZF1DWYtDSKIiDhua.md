@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Cupnoodle
+> The R&B and good vibe tracks for your current mood\. Cover: yedira
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,379 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,392 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EX](https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [EX](https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig) | 3:28 |
-| 2 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 |
-| 3 | [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 |
-| 4 | [delusional love](https://open.spotify.com/track/7iN4YBqCJidMv7Wz8lCadp) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [BRINX](https://open.spotify.com/artist/5CFCafUWBxZKHHlHCMEaIk) | [delusional love](https://open.spotify.com/album/3PKngp08hrS83muNQrjSw8) | 2:29 |
-| 5 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
-| 6 | [Moment](https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [heaven sent](https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6) | 3:28 |
-| 7 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |
-| 8 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 9 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 10 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
-| 11 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
-| 12 | [Walk Like This \- Strut Speed](https://open.spotify.com/track/1C9aCxhpJtJBOqcmmoLbn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This \(Strut Speed\)](https://open.spotify.com/album/1peo6Z7Rum9F9mlYkKDhzG) | 3:00 |
-| 13 | [Part Time Lover](https://open.spotify.com/track/2tK0o3mmOXo7OBE4qftoZE) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Part Time Lover](https://open.spotify.com/album/4WLGVZ7qaUY1fZx4CXw5pJ) | 3:35 |
-| 14 | [STAY WITH ME](https://open.spotify.com/track/2UXtntl8l1yFpR3O24gRxx) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT), [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [STAY WITH ME](https://open.spotify.com/album/3W5MYx2ZQ9aTG0bURFYOfs) | 3:38 |
+| 1 | [delusional love](https://open.spotify.com/track/7iN4YBqCJidMv7Wz8lCadp) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [BRINX](https://open.spotify.com/artist/5CFCafUWBxZKHHlHCMEaIk) | [delusional love](https://open.spotify.com/album/3PKngp08hrS83muNQrjSw8) | 2:29 |
+| 2 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
+| 3 | [TELL ME WHY](https://open.spotify.com/track/7f8xEWiRoJUyq4aBdCMVMS) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [TELL ME WHY](https://open.spotify.com/album/48KE0SmdrcNYgW4h8rp9Bw) | 2:49 |
+| 4 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 |
+| 5 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 |
+| 6 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
+| 7 | [Enchanté](https://open.spotify.com/track/4bOR3z1RoskmyhuZDDQRWc) | [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI), [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060) | [Enchanté](https://open.spotify.com/album/5kLT5TLlHjysbOgAeG91aS) | 2:28 |
+| 8 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 |
+| 9 | [not a crush](https://open.spotify.com/track/6v20KcbzBYY9faHghXk2O1) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf), [cloud nyla](https://open.spotify.com/artist/629WSHXuR88ZyYf7DV9l9G) | [not a crush](https://open.spotify.com/album/1dYOFqhWzFU7Zdtr001FHB) | 2:58 |
+| 10 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
+| 11 | [Got Supplies](https://open.spotify.com/track/6ftLZGmVzydIlM9NNcBEEe) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Got Supplies](https://open.spotify.com/album/5h9erL2PIwzE1GdBU6Dio5) | 3:58 |
+| 12 | [Moment](https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [heaven sent](https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6) | 3:28 |
+| 13 | [Walk Like This \- Strut Speed](https://open.spotify.com/track/1C9aCxhpJtJBOqcmmoLbn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This \(Strut Speed\)](https://open.spotify.com/album/1peo6Z7Rum9F9mlYkKDhzG) | 3:00 |
+| 14 | [Part Time Lover](https://open.spotify.com/track/2tK0o3mmOXo7OBE4qftoZE) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Part Time Lover](https://open.spotify.com/album/4WLGVZ7qaUY1fZx4CXw5pJ) | 3:35 |
 | 15 | [Wanna Know](https://open.spotify.com/track/4RvBYqspJ4qC0lEWuIET9L) | [Tropic](https://open.spotify.com/artist/5Ix5mo2NuCnVO5mhWpcvOJ) | [Wanna Know](https://open.spotify.com/album/4hfSnQEzIIJGlpC4MzzHZY) | 3:01 |
 | 16 | [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 |
 | 17 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Human Nature](https://open.spotify.com/track/3t52A63M852sUyVOYWPheG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:57 |
 | 85 | [COMPANY](https://open.spotify.com/track/1gEGaXAQLRklf5N7iXKLYl) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [COMPANY](https://open.spotify.com/album/7B71AsG7c4FEcJpiL1trv1) | 2:58 |
 
-Snapshot ID: `ZjO9/QAAAADENMYOJlS5XYuWDo5g+5t1`
+Snapshot ID: `Zj021gAAAABGiIUbmpCYOnH2c7h098By`

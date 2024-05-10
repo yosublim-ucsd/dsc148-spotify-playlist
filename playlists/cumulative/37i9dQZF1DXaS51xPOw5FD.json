@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "album": {
         "name": "Life (Deluxe)",
         "url": "https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 175517,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1VqlpAwvOW192Th24eXenX"
@@ -1282,6 +1300,32 @@
       "duration_ms": 222739,
       "name": "Ghost Assassin - VIP",
       "url": "https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9"
+    },
+    {
+      "album": {
+        "name": "Gideon\u2019s Charge (feat. KINGH)",
+        "url": "https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Gideon\u2019s Charge (feat. KINGH) - Edit",
+      "url": "https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x"
     },
     {
       "album": {
@@ -1776,7 +1820,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 243492,
       "name": "Jazz Tone",
       "url": "https://open.spotify.com/track/0mCTA8JPToKZ4fXn75kIiD"
@@ -1882,7 +1926,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 289755,
       "name": "Let It Breathe",
       "url": "https://open.spotify.com/track/6U0JZJpmm2oVcExBoincx4"
@@ -2619,6 +2663,28 @@
     },
     {
       "album": {
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z"
       },
@@ -2879,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
+    },
+    {
+      "album": {
         "name": "Waiting All Night",
         "url": "https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl"
       },
@@ -3029,6 +3113,62 @@
     },
     {
       "album": {
+        "name": "So Fly",
+        "url": "https://open.spotify.com/album/0bAR4Eq0isrSRqbiBTayf3"
+      },
+      "artists": [
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        },
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Satl",
+          "url": "https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR"
+        },
+        {
+          "name": "Verbz",
+          "url": "https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222689,
+      "name": "So Fly",
+      "url": "https://open.spotify.com/track/4zt7iHmZ9CuRLJ7uWhv7SD"
+    },
+    {
+      "album": {
+        "name": "Spray Tan",
+        "url": "https://open.spotify.com/album/3XnoM2emoZPBKK9rFkmqTI"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155056,
+      "name": "Spray Tan",
+      "url": "https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9"
       },
@@ -3062,7 +3202,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4"
@@ -3490,7 +3630,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 292586,
       "name": "Waiting All Night (feat. Ella Eyre)",
       "url": "https://open.spotify.com/track/1uWTlK72KKpzsCHhu62OV5"
@@ -3632,7 +3772,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187401,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh"

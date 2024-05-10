@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 109 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 98 | [Bones and Blood](https://open.spotify.com/track/4qGIpT6nFagsxOqjGCgY1M) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [John The Blind](https://open.spotify.com/album/09cDd1zwcdM8q0rKmgRzi7) | 2:50 |
 | 99 | [They Mad](https://open.spotify.com/track/6UEcPVCX9NpbsKaARZ2jtB) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:27 |
 | 100 | [Belong](https://open.spotify.com/track/4v7NK5ekkhfsVrhnechJud) | [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [Premonitions](https://open.spotify.com/album/7f5EBzskrYbensDvpazq5j) | 2:46 |
+| 101 | [Urgent](https://open.spotify.com/track/3LL0hDWRc54FIpbnvIAZR4) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:42 |
+| 102 | [Watch My Back](https://open.spotify.com/track/11etZay2pHcZv4SBodJJAE) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
+| 103 | [Ted Talk](https://open.spotify.com/track/0a4GWgv00qYm63fSWTau0N) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:50 |
+| 104 | [Don't Say Much](https://open.spotify.com/track/6p9LXvQRz1KYAX45qA8oxT) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:28 |
+| 105 | [Money Changed Everything](https://open.spotify.com/track/358z3unoqcwgy6oPAX5wx5) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:33 |
+| 106 | [Never Love Again](https://open.spotify.com/track/5IPE706f5GnhM06ZNrTYnh) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:14 |
+| 107 | [Paranoid](https://open.spotify.com/track/0dhh7PwPsKce4PenDZrUox) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:04 |
+| 108 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
+| 109 | [Outro](https://open.spotify.com/track/0cM6hV1yTWwaG7KaELa4wg) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 0:57 |
 
-Snapshot ID: `AbQ0AgAAAABJNzFazU2Sedf5BFFLk16C`
+Snapshot ID: `AbQ53gAAAAAK/KjKn4pdRKWVnv1tKsdo`

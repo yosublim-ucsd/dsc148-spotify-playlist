@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,993 likes - 80 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,132 likes - 80 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 59 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
 | 60 | [Sweet Dreams \(Are Made of This\) \- Hot Remix / Remastered Version](https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Boxed](https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH) | 5:19 |
 | 61 | [Loverboy \- Extended Mix](https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 8:08 |
-| 62 | [She Drives Me Crazy \- David Z 12" Remix](https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [David Z.](https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj) | [The Raw & The Cooked \(Remastered & Expanded\)](https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT) | 7:06 |
-| 63 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
+| 62 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
+| 63 | [She Drives Me Crazy \- David Z 12" Remix](https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [David Z.](https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj) | [The Raw & The Cooked \(Remastered & Expanded\)](https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT) | 7:06 |
 | 64 | [Beat Dis \- 12" Version](https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [Beat Dis: The Very Best Of](https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN) | 5:57 |
 | 65 | [The Promise You Made \- Extended Version](https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 6:38 |
 | 66 | [Too Shy \- Extended Version](https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [The Very Best Of Kajagoogoo](https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m) | 5:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 75 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
 | 76 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
 | 77 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
-| 78 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
-| 79 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
+| 78 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
+| 79 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 | 80 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
 
 Snapshot ID: `ZcJUFgAAAAAhs3za3IFP/sHcGIxId/Fn`

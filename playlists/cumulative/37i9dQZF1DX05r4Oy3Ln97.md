@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-318 songs - 16 hr 37 min
+319 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/3m6vIFTjiOc6pZgTgdQpuH) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/5mVMcDiv3to6jduunb9OTM) | 2:40 | 2021-10-29 | 2022-07-29 |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 | 2022-07-08 | 2023-01-25 |
 | [Here Comes the Sun](https://open.spotify.com/track/5BAgpDvIFoatAbV9Zcxaw3) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Here Comes the Sun](https://open.spotify.com/album/0cvdkumCKsNU3TCk4qxswm) | 2:51 | 2021-10-29 | 2022-11-14 |
-| [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-08 |  |
+| [hey now](https://open.spotify.com/track/4hvBK1k3eE2ACRUQKjkork) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v), [MELINA](https://open.spotify.com/artist/6B0qkeU4m0NgmVbHdRZpSt) | [hey now](https://open.spotify.com/album/16cK2WXAYWUvEmpvyDUKgI) | 2:11 | 2023-09-08 | 2024-05-10 |
 | [Hey There Delilah](https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Hey There Delilah](https://open.spotify.com/album/4vlml2SlfKGKGzg6b8LOu0) | 3:02 | 2021-10-29 | 2022-04-20 |
 | [High](https://open.spotify.com/track/3bQ16DLr1K3mZS1j49Czql) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High](https://open.spotify.com/album/2rIZbO1DFyfLtEVkoYPN2x) | 3:02 | 2021-10-29 | 2022-04-21 |
 | [High in a Paradise](https://open.spotify.com/track/4qLtFVZCwFxLJOv63O4FgA) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [High in a Paradise](https://open.spotify.com/album/2sQuXWAR6craEdwLw17LO5) | 2:24 | 2021-10-29 | 2022-03-12 |
@@ -157,6 +157,7 @@
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-10-29 | 2022-03-26 |
 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2023-03-31 | 2023-04-06 |
 | [Kids of NYC](https://open.spotify.com/track/38QPK6YAciyWdfJNEY9siA) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA), [Strobe](https://open.spotify.com/artist/02kU78WfHXLRT2GvnmzNaA) | [Kids of NYC](https://open.spotify.com/album/5kS8n7HngorYxQKlpOXr0d) | 2:22 | 2021-10-29 | 2022-07-29 |
+| [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-03 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-27 |  |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2021-10-29 | 2022-07-28 |
 | [La Musique Forte](https://open.spotify.com/track/00drCeGE6dauNLdLcL4OEQ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [La Musique Forte](https://open.spotify.com/album/6ZWBq3aU151TdCRBJcjugj) | 3:04 | 2023-09-08 | 2023-09-16 |

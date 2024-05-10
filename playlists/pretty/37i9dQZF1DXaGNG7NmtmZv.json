@@ -1,10 +1,10 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 215364,
+  "num_followers": 215431,
   "original_name": "Classic Hardcore",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZcOw8AAAAACjkZdfXAQ4C5EioZb9Pa4b",
   "tracks": [
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "As Real As It Gets",
-        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
-      },
-      "artists": [
-        {
-          "name": "Sworn Enemy",
-          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Sworn Enemy",
-      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "As Real As It Gets",
+        "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
+      },
+      "artists": [
+        {
+          "name": "Sworn Enemy",
+          "url": "https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Sworn Enemy",
+      "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "River Runs Red [Top Shelf Edition]",
+        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 114680,
+      "name": "River Runs Red",
+      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Unorthodox",
         "url": "https://open.spotify.com/album/43x6i9LnpamFuzgOguORon"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 146813,
       "name": "Gravity Wins Again",
       "url": "https://open.spotify.com/track/6BtPf07BVx4QNWvopvOyW6"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "River Runs Red [Top Shelf Edition]",
-        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 114680,
-      "name": "River Runs Red",
-      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -763,8 +763,8 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "1991-2001 (Forever True)",
-        "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV"
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
     },
     {
       "added_at": "2024-02-07 16:33:52",

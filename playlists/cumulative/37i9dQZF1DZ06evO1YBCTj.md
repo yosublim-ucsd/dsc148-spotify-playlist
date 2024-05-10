@@ -4,14 +4,15 @@
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 16 min
+48 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 soon](https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [2 soon](https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb) | 3:26 | 2024-01-29 |  |
 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 | 2024-01-29 |  |
 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 | 2024-01-29 |  |
-| [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2024-01-29 |  |
+| [ANGEL](https://open.spotify.com/track/0srUf03MHZ4cbOO4o2ydDu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 4:07 | 2024-05-10 |  |
+| [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2024-01-29 | 2024-05-10 |
 | [as long as it takes you](https://open.spotify.com/track/2XpmzywSGH1OILU0mxSHBy) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [as long as it takes you](https://open.spotify.com/album/1nzIbvvf8iYCk3WPdAhSfG) | 3:05 | 2024-01-29 |  |
 | [atlas](https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:51 | 2024-01-29 |  |
 | [B.Y.S.](https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:45 | 2024-01-29 |  |
@@ -28,7 +29,7 @@
 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 | 2024-01-29 |  |
 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 | 2024-01-29 |  |
 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 | 2024-01-29 |  |
-| [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2024-03-11 |  |
+| [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:53 | 2024-03-11 | 2024-05-10 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2024-01-29 | 2024-03-12 |
 | [just friends](https://open.spotify.com/track/2KEnu7ABoDpekTUae5rrU0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [just friends](https://open.spotify.com/album/5Uaaq4KQPwGTG9cyooFD1I) | 2:03 | 2024-01-29 |  |
 | [less of you](https://open.spotify.com/track/3IqcBL5yjJK3ri0TGaL3MC) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:26 | 2024-01-29 |  |
@@ -39,7 +40,7 @@
 | [onoffonoff](https://open.spotify.com/track/66Cvj3KAYjeJcDEVQRJSYn) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [onoffonoff](https://open.spotify.com/album/0GJmg6PCM2HKNv8CfdkNgX) | 3:10 | 2024-01-29 |  |
 | [over u](https://open.spotify.com/track/6dMnsLoJPFfXIxcsDqjGiZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [over u](https://open.spotify.com/album/0ldYR1JTxCkRm1V6F8w8mS) | 2:59 | 2024-01-29 |  |
 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 | 2024-01-29 |  |
-| [right here \- Snakehips Remix](https://open.spotify.com/track/3sdlYdbl8AHkhhRsyDpVV1) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:00 | 2024-02-07 | 2024-04-29 |
+| [right here \- Snakehips Remix](https://open.spotify.com/track/3sdlYdbl8AHkhhRsyDpVV1) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:00 | 2024-02-07 |  |
 | [Saturnine](https://open.spotify.com/track/3BdxidJwgCBlmjCz5LvQ6t) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Celestial Angel](https://open.spotify.com/album/3rfmrinQxC9YQg14nfsqe6) | 2:50 | 2024-01-29 |  |
 | [say something](https://open.spotify.com/track/3KJ9yTHwvalMuXApcjxCNH) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 2:12 | 2024-01-29 |  |
 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 | 2024-01-29 |  |

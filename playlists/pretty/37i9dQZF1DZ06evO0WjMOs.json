@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 28392,
+  "num_followers": 28406,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAB1aNZJ42xaBXnEWPhB6oHA",
+  "snapshot_id": "ZjrAgAAAAABjgIPBNBxRPL8BM+D6TkK0",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 92040,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
+      "duration_ms": 100266,
+      "name": "The Elevator",
+      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 151653,
-      "name": "Staying",
-      "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 100266,
-      "name": "The Elevator",
-      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
+      "duration_ms": 151653,
+      "name": "Staying",
+      "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Come Down Soon",
-      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 224960,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa"
       },
       "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+      "duration_ms": 159548,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa"
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
       },
       "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 159548,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J"
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
     },
     {
       "added_at": null,

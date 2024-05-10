@@ -1,6 +1,6 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Icy Subzero",
-  "num_followers": 97709,
+  "num_followers": 97736,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
@@ -911,46 +931,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Re Mida (Aurum)",
         "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 164301,
       "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
       "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Valentino Rossi",
-        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 119495,
-      "name": "Valentino Rossi",
-      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Valentino Rossi",
+        "url": "https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 119495,
+      "name": "Valentino Rossi",
+      "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "DIOSA (Remix)",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "DIOSA (Remix)",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "duration_ms": 143641,
+      "name": "DIOSA - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2024-04-12 11:02:43",

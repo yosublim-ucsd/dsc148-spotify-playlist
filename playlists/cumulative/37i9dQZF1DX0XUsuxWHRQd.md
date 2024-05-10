@@ -4,7 +4,7 @@
 
 > New music from Kendrick Lamar, Drake and Gunna.
 
-2,020 songs - 4 day 8 hr 50 min
+2,021 songs - 4 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1313,6 +1313,7 @@
 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 | 2019-10-04 | 2019-10-11 |
 | [Please Tell Me](https://open.spotify.com/track/4ANFPo7dzs2DdPuONXC9bp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SAVE ME](https://open.spotify.com/album/65hRa80KDworqyE8242rLN) | 3:24 | 2019-06-07 | 2019-06-21 |
 | [Pluto to Mars](https://open.spotify.com/track/0WCJSIy75ZVxqY51ce0enc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:06 | 2023-06-30 | 2023-07-08 |
+| [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 | 2024-05-09 |  |
 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/57QFfY6fYEwksK7FNMkSm8) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:13 | 2024-03-08 | 2024-03-16 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-10-07 |
 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 | 2024-04-05 | 2024-04-27 |

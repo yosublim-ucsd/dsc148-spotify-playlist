@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,321 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,382 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 32 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 |
 | 33 | [Red Tape](https://open.spotify.com/track/67BaVoKxvG8ZlZOoFenMVZ) | [Brother Elsey](https://open.spotify.com/artist/42GGScyKt6gtODJxypA53g) | [Red Tape](https://open.spotify.com/album/2uQbdOy6UMZ54R3C1RYPCd) | 4:05 |
 | 34 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 |
-| 35 | [Halo](https://open.spotify.com/track/3F1GhdiVJ0Lg7Gaxm8lpVh) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story \(Deluxe\)](https://open.spotify.com/album/1K7BYTjLmrjXX3krLA2jHO) | 4:25 |
+| 35 | [Halo](https://open.spotify.com/track/3F1GhdiVJ0Lg7Gaxm8lpVh) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story \(Deluxe\)](https://open.spotify.com/album/1K7BYTjLmrjXX3krLA2jHO) | 3:31 |
 | 36 | [Spiral](https://open.spotify.com/track/2VALkdK0mDjQEvzDLq290S) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Violent Oblivion](https://open.spotify.com/album/0EfqqHcXdlsmLMs2wlSaUO) | 3:04 |
 | 37 | [Fading Lights](https://open.spotify.com/track/40Xp97VjY8QtOSju5r3Mum) | [Riders Of The Canyon](https://open.spotify.com/artist/3w6y93ox7OF0FU3fojohuP), [Joana Serrat](https://open.spotify.com/artist/1qWhRJpf4PFL9T0RXvIPWi), [Matthew McDaid](https://open.spotify.com/artist/1VmrPV5tkRuXIwSGiGkElY), [Victor Partido](https://open.spotify.com/artist/2gKEgAkg9Qci1l9HKkQqF1), [Roger Usart](https://open.spotify.com/artist/6lr6VabWNvywihgBj4Q4hX) | [Fading Lights](https://open.spotify.com/album/1LXTUN3fTDvevSxNfHAqv4) | 2:55 |
 | 38 | [With Love](https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [With Love,](https://open.spotify.com/album/3fqm4PDI57qVWEJBOGxyrN) | 3:21 |

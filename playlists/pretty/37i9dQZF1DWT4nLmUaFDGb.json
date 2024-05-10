@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 492319,
+  "num_followers": 492550,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -971,26 +971,6 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1063,6 +1043,42 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Reawakened",
         "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 287426,
       "name": "Here's to Life",
       "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 257680,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1283,6 +1283,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1355,22 +1371,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Always Seem to Get Things Wrong",
-        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "I'll Tell You Something",
-      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "It's Oh So Quiet",
-        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        },
-        {
-          "name": "WDR Funkhausorchester",
-          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "It's Oh So Quiet",
-      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Autumn Breeze",
         "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "It's Oh So Quiet",
+        "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        },
+        {
+          "name": "WDR Funkhausorchester",
+          "url": "https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "It's Oh So Quiet",
+      "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "The Lemonade Song",
-        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 154871,
-      "name": "The Lemonade Song",
-      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "I Can\u2019t Make You Love Me",
         "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "The Lemonade Song",
+        "url": "https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 154871,
+      "name": "The Lemonade Song",
+      "url": "https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x"
     },
     {
       "added_at": "2024-04-12 13:06:45",

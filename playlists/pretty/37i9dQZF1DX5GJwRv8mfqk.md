@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,770 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,850 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 35 | [Contigo Safo](https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1) | [La Estructura](https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF) | [Un Hombre Nuevo](https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z) | 2:20 |
 | 36 | [Como Quiera Sigo Vivo](https://open.spotify.com/track/5tT8TLBdLCdez0matmJWAz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 2:59 |
 | 37 | [Voy A Quererte Tanto](https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Voy A Quererte Tanto](https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd) | 2:52 |
-| 38 | [Después De Ti](https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Con Toda La Fuerza](https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ) | 3:36 |
-| 39 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
+| 38 | [Si Te Estoy Rogando](https://open.spotify.com/track/5VcqezOXswsrukgQWbGCyF) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Si Te Estoy Rogando](https://open.spotify.com/album/1OMaLDuQXha2jclqIjaXpc) | 4:07 |
+| 39 | [Después De Ti](https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Con Toda La Fuerza](https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ) | 3:36 |
 | 40 | [El Desayuno](https://open.spotify.com/track/0UN5AItjmIjEMBqsKjdOTh) | [Banda La Misma Tierra](https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA) | [La Moneda Sigue En El Aire](https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G) | 2:59 |
 | 41 | [Esta Vez Soy Yo](https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 4:13 |
 | 42 | [De tanto Que Te Di](https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [La Vida A Mi Modo](https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY) | 3:14 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 49 | [No Te Rías](https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:12 |
 | 50 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 51 | [Con Ganas](https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Con Ganas](https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep) | 2:35 |
-| 52 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
-| 53 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
+| 52 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
+| 53 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
 | 54 | [El Amor De Antes](https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 4:00 |
 | 55 | [Mentiras Piadosas](https://open.spotify.com/track/6ax70PvaSA1s2jxDH2iXoh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Con Eso o Más](https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3) | 3:27 |
 | 56 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |

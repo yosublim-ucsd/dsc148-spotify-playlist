@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro?si=xWTXVjWlSPKsBYAXte1A3Q\">Soa Mattrix</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc?si=c0xGHotyQCSuDFFTvaX9gQ\">Khanyisa</a>, <a href=\"https://open.spotify.com/artist/6B7gicAnGtCxLjMCYUodWy?si=GurL9e5fSAyyV9PXZMKjTQ\">Lady Steezy</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -17493,6 +17493,48 @@
     },
     {
       "album": {
+        "name": "Mexican Bounce (feat. LeeMcKrazy, Tshepo Keyz, Marcus MC, malume.hypeman, RIVALZ)",
+        "url": "https://open.spotify.com/album/4dMPVvjFyHtJ4xbfQOqj7s"
+      },
+      "artists": [
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Lady Steezy",
+          "url": "https://open.spotify.com/artist/6B7gicAnGtCxLjMCYUodWy"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Marcus MC",
+          "url": "https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf"
+        },
+        {
+          "name": "RIVALZ",
+          "url": "https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y"
+        },
+        {
+          "name": "Tshepo Keyz",
+          "url": "https://open.spotify.com/artist/7Ie7V6GpND9z2TvEb0jm7T"
+        },
+        {
+          "name": "malume.hypeman",
+          "url": "https://open.spotify.com/artist/17IwC4QqUvRjti226YPDwm"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312234,
+      "name": "Mexican Bounce (feat. LeeMcKrazy, Tshepo Keyz, Marcus MC, malume.hypeman, RIVALZ)",
+      "url": "https://open.spotify.com/track/2ykOXIQH8jls5HMRiXNueW"
+    },
+    {
+      "album": {
         "name": "Mexico way",
         "url": "https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK"
       },
@@ -19300,7 +19342,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 420048,
       "name": "Need For Speed",
       "url": "https://open.spotify.com/track/1sitt7v4R1zCRKpjJce3PD"

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-406 songs - 1 day 2 hr 49 min
+407 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [剛好的孤單著](https://open.spotify.com/track/093ZGcsUogX3eju1IERqOj) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC) | [偷心總動員](https://open.spotify.com/album/1LMAlj23koO7SFSnaUfgko) | 2:54 | 2023-08-24 | 2023-09-08 |
 | [剩溫柔 \- 不插電女聲版](https://open.spotify.com/track/6WSqephSR18iUFmCURLP2j) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0) | [剩溫柔 \(不插電女聲版\)](https://open.spotify.com/album/2wAQgB430huvGALyVvyy9J) | 4:32 | 2022-12-15 | 2022-12-24 |
 | [十五樓](https://open.spotify.com/track/40JfpFsic8BhYjJ0ZuHGdr) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [十五樓](https://open.spotify.com/album/1LrHJbx1ppmbd4ug8vz6rZ) | 4:28 | 2022-06-30 | 2022-07-08 |
+| [十歲](https://open.spotify.com/track/08J5OVk3OFg8NK2KEoqF7u) | [Hsiao Hung\-Jen](https://open.spotify.com/artist/4nJSlwFDAtGvoNW8cmvacD) | [十歲](https://open.spotify.com/album/1vXpNDoFk4p0Kv02k2sB2z) | 2:54 | 2024-05-09 |  |
 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 | 2022-06-10 |  |
 | [半個地球](https://open.spotify.com/track/199culh6Z83tQuFi4WkaiS) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [半個地球](https://open.spotify.com/album/22jKnMCjgTKGGBfFZS1YYL) | 3:52 | 2023-01-02 | 2023-01-13 |
 | [半個地球 \- 純淨鋼琴版](https://open.spotify.com/track/6aRywPycG6zymsa4CbExXL) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [半個地球 \(純淨鋼琴版\)](https://open.spotify.com/album/2aAPgd1mAOpVkAyu0GLj4s) | 3:54 | 2023-07-13 | 2023-07-28 |
@@ -173,7 +174,7 @@
 | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/track/2YL8coVYOOF3qdO68P4z5T) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/album/3DcCKjb5UcM4HNNFxVgP2r) | 4:54 | 2022-06-02 | 2022-07-12 |
 | [如果現在就是一輩子Demo \- Bonus track](https://open.spotify.com/track/6dyyuyyxt9CyyWUrueKWA7) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [潘嘉麗Kelly同名專輯](https://open.spotify.com/album/0QW25Iew4wU60kn06up4Bm) | 3:08 | 2023-01-05 | 2023-01-20 |
 | [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 | 2022-10-31 | 2022-12-13 |
-| [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生,起起落落落落落?](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 | 2024-05-02 |  |
+| [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生,起起落落落落落?](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 | 2024-05-02 | 2024-05-10 |
 | [安靜的小時候](https://open.spotify.com/track/39k3htEr4otpjsLcGnBVhV) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [安靜的小時候](https://open.spotify.com/album/778AJZLI67muSDyPDbkw7P) | 5:22 | 2024-04-18 | 2024-04-29 |
 | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-06-02 | 2022-07-29 |
 | [害怕相信 \- Bonus Track](https://open.spotify.com/track/21Y26mLIZ1wrBJBwf5axjW) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [天枰座](https://open.spotify.com/album/0hMfgQHSInhJ4Eq6oqRksg) | 2:19 | 2023-07-10 | 2023-07-21 |

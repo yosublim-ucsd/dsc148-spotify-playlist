@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Majin",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069Ben",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 164000,
       "name": "CLV",
       "url": "https://open.spotify.com/track/7gh3QqAkJeGSbWTKDopwAd"
@@ -1624,6 +1624,28 @@
       "duration_ms": 215275,
       "name": "I Love U So",
       "url": "https://open.spotify.com/track/6vdEahxBwLid3eXOQXYGow"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/2S8MJgR4qyqqnEyN1Bd36L"
+      },
+      "artists": [
+        {
+          "name": "Showma\u00een",
+          "url": "https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ"
+        },
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0eVBnUk6ds8A1ZkQHHxMZp"
     },
     {
       "album": {
@@ -3294,7 +3316,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 100027,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7BsxnZQIlqEUL7h2haDK9z"
@@ -5080,7 +5102,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 217124,
       "name": "\u53cd\u793e\u4ea4",
       "url": "https://open.spotify.com/track/1NN7kusqeGJq4n8MDGmDM8"
@@ -5308,7 +5330,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 142500,
       "name": "\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2"
@@ -5569,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "\u628a\u6c34\u958b\u8457",
+        "url": "https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252129,
+      "name": "\u591c\u884c",
+      "url": "https://open.spotify.com/track/6RwcqhDcAUPbz1CRu9Vmhf"
+    },
+    {
+      "album": {
         "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
         "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
       },
@@ -5732,7 +5772,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 170924,
       "name": "\u5982\u679c\u6211\u5011\u9084\u53ef\u4ee5",
       "url": "https://open.spotify.com/track/0SNqhm9oV5PWjJmK3lj1gV"
@@ -7099,6 +7139,24 @@
     },
     {
       "album": {
+        "name": "\u7d19\u98db\u6a5f",
+        "url": "https://open.spotify.com/album/6ihVhJds67m09BksN2MGKW"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169563,
+      "name": "\u6349\u6478\u4e0d\u5b9a (prod.Allen Flex)",
+      "url": "https://open.spotify.com/track/2RakDenD3BItPvykz6qh51"
+    },
+    {
+      "album": {
         "name": "\u6392\u968a",
         "url": "https://open.spotify.com/album/4XeMBwFZbyaTpsoUdn4qFX"
       },
@@ -7562,7 +7620,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 228631,
       "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
       "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
@@ -7746,6 +7804,24 @@
       "duration_ms": 208444,
       "name": "\u6b61\u8fce\u4f86\u5230\u6211\u8eab\u908a - \u300a\u9ed1\u55b5\u77e5\u60c5\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5z1TGdyVjf2hQNV8iX09uL"
+    },
+    {
+      "album": {
+        "name": "\u5927\u563b\u54c8\u6642\u4ee32: JUDGE \u8a55\u5be9\u4e3b\u984c\u8cfd_\u8857\u5340\u6545\u4e8b / \u611b\u8207\u6068 / \u9322\u8207\u540d\u5229",
+        "url": "https://open.spotify.com/album/79KHcCyORAKRIci65KfFyw"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185808,
+      "name": "\u6b78\u5c6c",
+      "url": "https://open.spotify.com/track/66BeOoQSwVV1DExeN8XTfZ"
     },
     {
       "album": {
@@ -8744,7 +8820,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 149927,
       "name": "\u7b49\u6211\u56de\u5bb6",
       "url": "https://open.spotify.com/track/1Wl9sF3iwrjFSibLvkGjQg"
@@ -9434,7 +9510,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 135460,
       "name": "\u8d81\u96e8\u4e0b",
       "url": "https://open.spotify.com/track/0MMQdQYZ1njx8ZnciVobaI"

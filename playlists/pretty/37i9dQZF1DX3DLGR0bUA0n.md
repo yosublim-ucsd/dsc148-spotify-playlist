@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,834 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,881 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,12 +106,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 96 | [De Mil Amores](https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [De Mil Amores](https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r) | 2:28 |
 | 97 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
 | 98 | [Aléjate](https://open.spotify.com/track/2EnsWGWtOUonOxo1DKdO9a) | [Freddy Cárdenas y su Grupo Brebaje](https://open.spotify.com/artist/0MZxSUM0Xqv7xipDHmvUlm) | [Aléjate](https://open.spotify.com/album/0j5CtCEF5m3SI6rzkHVRvZ) | 3:45 |
-| 99 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
-| 100 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
+| 99 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
+| 100 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
 | 101 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
 | 102 | [Alta y Delgadita](https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune) | [HNOS\. SANTAMARIA DE TIERRA CALIENTE](https://open.spotify.com/artist/0sn5awme5aIW1SefU6ziCW) | [Nadie Sabe Lo Que Tiene](https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y) | 3:23 |
-| 103 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |
-| 104 | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 |
+| 103 | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 |
+| 104 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |
 | 105 | [El Pisto es Primero](https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9) | [Corazón Gitano](https://open.spotify.com/artist/2EXhLsjbYOxGiMh0pfRYhp) | [El Pisto es Primero](https://open.spotify.com/album/1qOHzqT4mFim7vPG6239yT) | 2:44 |
 | 106 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
 | 107 | [No Era Cuaresma](https://open.spotify.com/track/5zT3b9WcavOTppxN2UBzbC) | [ESTRELLAS DE TIERRA CALIENTE](https://open.spotify.com/artist/1oiNITYIcatnzXfwztBOPq) | [No Era Cuaresma](https://open.spotify.com/album/3jUaL3252GZ37WUqrxct2S) | 2:42 |

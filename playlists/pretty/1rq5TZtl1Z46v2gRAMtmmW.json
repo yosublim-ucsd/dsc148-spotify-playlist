@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29606,
+  "num_followers": 29612,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOkq64WpLgG6yAq0LJCPGdjoM6osB2",
+  "snapshot_id": "AAAOlXilG4loKo0QegcR+pvrQHnBD+fk",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,30 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-05-09 16:14:32",
+      "album": {
+        "name": "WEARY",
+        "url": "https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138567,
+      "name": "WEARY",
+      "url": "https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp"
     },
     {
       "added_at": "2024-05-03 15:31:19",
@@ -755,22 +779,6 @@
       "duration_ms": 311824,
       "name": "DJ Friendly - Chlo\u00e9 Robinson + DJ ADHD Remix",
       "url": "https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY"
-    },
-    {
-      "added_at": "2023-12-19 18:56:32",
-      "album": {
-        "name": "Heavy Heavy",
-        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "Rice",
-      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

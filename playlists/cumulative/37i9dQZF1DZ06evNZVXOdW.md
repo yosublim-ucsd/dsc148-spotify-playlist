@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-46 songs - 5 hr 24 min
+47 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,5 +54,6 @@
 | [To Remain/To Return](https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 9:16 | 2023-05-02 |  |
 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Vulture Prince \(Deluxe Edition\)](https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S) | 5:03 | 2024-03-12 |  |
 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 | 2023-05-02 | 2024-03-13 |
+| [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 | 2024-05-10 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

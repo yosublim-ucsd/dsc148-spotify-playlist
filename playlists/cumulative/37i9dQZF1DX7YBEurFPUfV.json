@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213905,
       "name": "Fa9ou Biya",
       "url": "https://open.spotify.com/track/0bseLMJXgYr6M9MyVJQ35v"
@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Lambo",
+        "url": "https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213344,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX"
+    },
+    {
+      "album": {
         "name": "Layam",
         "url": "https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 292027,
       "name": "Layam",
       "url": "https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz"
@@ -986,6 +1004,24 @@
       "duration_ms": 197783,
       "name": "SNE NMES SME",
       "url": "https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop"
+    },
+    {
+      "album": {
+        "name": "Souk",
+        "url": "https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Souk",
+      "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"
     },
     {
       "album": {

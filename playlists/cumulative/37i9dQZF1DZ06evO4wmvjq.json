@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 222133,
       "name": "2 Poemes, Op. 32 : 2 Poemes, Op. 32: No. 1 in F sharp major",
       "url": "https://open.spotify.com/track/3p2Bs1MKlmN52yrJPlZpCY"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 696007,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/5G6iNArq3GslJKMnrdp9eH"
@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340066,
+      "name": "Garden of Earthly Delights",
+      "url": "https://open.spotify.com/track/1ikh8xH14iF7NgvNz48btv"
+    },
+    {
+      "album": {
         "name": "Atlantis Nath",
         "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
       "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
@@ -2996,7 +3018,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM"
@@ -3406,7 +3428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 180869,
       "name": "Zucchini",
       "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"

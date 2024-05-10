@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-473 songs - 1 day 6 hr 54 min
+474 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 | 2024-01-30 |  |
 | [Green Light](https://open.spotify.com/track/1XascuwGPIGqoof2ThElCC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:29 | 2024-01-29 | 2024-02-11 |
 | [Green Light](https://open.spotify.com/track/4GKLdlzhzFwdYLeFBwJZ3S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:29 | 2024-02-10 |  |
-| [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2024-01-31 |  |
+| [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2024-01-31 | 2024-05-10 |
 | [Green Light](https://open.spotify.com/track/7y0eOwRz94Eb5Land91uks) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Green Light](https://open.spotify.com/album/5vvgl4KzNIXHAffUm4DhT7) | 4:02 | 2024-01-29 | 2024-02-01 |
 | [Grindin'](https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:24 | 2024-01-29 |  |
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2024-01-29 |  |
@@ -388,6 +388,7 @@
 | [Sorry Enough](https://open.spotify.com/track/2KmCMQ2EuJs4d2QK9f5yRL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:25 | 2024-01-29 |  |
 | [Southern Hospitality \(Featuring Pharrell\)](https://open.spotify.com/track/4cNhx6OO1XpvwT6xZnb83B) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 5:00 | 2024-01-31 |  |
 | [Southern Hospitality \- Uncensored Version, Directors Cut](https://open.spotify.com/track/3kjVsbQ7uo6FPywh1swcgI) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Pharrell](https://open.spotify.com/artist/04lYHhZffeTajUZfUF5mCx) | [Southern Hospitality \(Uncensored Version, Directors Cut\)](https://open.spotify.com/album/7iZ1Luudp6FiTG30kkgN4J) | 4:47 | 2024-01-29 | 2024-02-01 |
+| [Spanish Lesson](https://open.spotify.com/track/4cAuZ9PwjxBwmwuCr6s5wl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 3:37 | 2024-05-09 |  |
 | [Spaz](https://open.spotify.com/track/51DOzyPzT5cDii6iGSXRN2) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 3:49 | 2024-01-29 |  |
 | [Special](https://open.spotify.com/track/74z465KvfBQrAqovUVLkpo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Malice 'N Wonderland](https://open.spotify.com/album/3N7agGkKrdlEHBrzSDTNmG) | 5:26 | 2024-02-01 | 2024-03-12 |
 | [Squeeze Me \- Music from The Spongebob Movie Sponge Out Of Water](https://open.spotify.com/track/7J0mZi4vIRqBR9pjAt90nX) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Squeeze Me \(Music from The Spongebob Movie Sponge Out Of Water\)](https://open.spotify.com/album/5PfGowkEACnsIGuFau0nrR) | 2:34 | 2024-01-29 |  |

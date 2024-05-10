@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Al Safir",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Elio Toffana",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Alma Muerta",
+        "url": "https://open.spotify.com/album/6B1HLqPf90ovvIA2SdLoZi"
+      },
+      "artists": [
+        {
+          "name": "Piter-G",
+          "url": "https://open.spotify.com/artist/5OG2g2M1W8LoS47pvptMQP"
+        },
+        {
+          "name": "Cyclo",
+          "url": "https://open.spotify.com/artist/39OjchtLfV4XKEq9JlDGSV"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Alma Muerta",
+      "url": "https://open.spotify.com/track/452QElqVUh1oe6jScenMME"
+    },
+    {
+      "album": {
         "name": "Alto Cargo Pt. 2",
         "url": "https://open.spotify.com/album/0Jl8Zu8KtquCb3TQJFIw2k"
       },
@@ -752,6 +774,28 @@
       "duration_ms": 156000,
       "name": "Aunque Duela",
       "url": "https://open.spotify.com/track/0GLj1kgFrwiqH9uMklTNW9"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4LQIEZtDHcDo9pAqD7XFfk"
+      },
+      "artists": [
+        {
+          "name": "Delarue",
+          "url": "https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198539,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2Jz63wz739N2diSsmDpxdR"
     },
     {
       "album": {
@@ -1352,7 +1396,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 146562,
       "name": "Chevy Red",
       "url": "https://open.spotify.com/track/22eMpUtuwtFzUVSOuyqPAQ"
@@ -1532,7 +1576,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 126133,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/78a5qkSvP2xrcaxtfMKmAx"
@@ -2910,7 +2954,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 164175,
       "name": "Impecable",
       "url": "https://open.spotify.com/track/2giCZX2gviqFIA12dbmqdi"
@@ -3201,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/2WcB1Gd6mRria4YwRytJ4o"
+      },
+      "artists": [
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "L.O.B. (Loyalty Over B!tches)",
+      "url": "https://open.spotify.com/track/3V9MnbPH2zshSASKta2cK7"
+    },
+    {
+      "album": {
         "name": "La Chatarra",
         "url": "https://open.spotify.com/album/3rOKO9wAsFlgVMsVgITlCM"
       },
@@ -3290,6 +3352,28 @@
       "duration_ms": 236009,
       "name": "La Florinata",
       "url": "https://open.spotify.com/track/4mMru0gIj4JubTsnNqN3h8"
+    },
+    {
+      "album": {
+        "name": "La Ganga",
+        "url": "https://open.spotify.com/album/6oDajNWca2I8NTx309jI6C"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/7rAjVJgwZhvmMIt5vfyNGn"
+        },
+        {
+          "name": "FishBall",
+          "url": "https://open.spotify.com/artist/35ZICppPOk0G32f8kjtI3y"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138113,
+      "name": "La Ganga",
+      "url": "https://open.spotify.com/track/6msq9sMfzO9zICjsjn3eQP"
     },
     {
       "album": {
@@ -5234,7 +5318,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 220964,
       "name": "Pa que lo gocen",
       "url": "https://open.spotify.com/track/7BMdZsDXxPH6Db3Ug6A2q2"
@@ -5344,7 +5428,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 281712,
       "name": "Pap\u00e1",
       "url": "https://open.spotify.com/track/7How37pGKp8eoEwpZr8n99"
@@ -5476,6 +5560,32 @@
       "duration_ms": 170000,
       "name": "P\u00e1jaro Enjaulado",
       "url": "https://open.spotify.com/track/5FR3NLNFQ3Ko5894IOjbuq"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro P\u00e1jaro",
+        "url": "https://open.spotify.com/album/7aK7dCzgxt6zaSR0GlV0W2"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        },
+        {
+          "name": "J.Rold\u00e1n",
+          "url": "https://open.spotify.com/artist/7qVjBlqCm9Fsp7bPEReSxN"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227234,
+      "name": "P\u00e1jaro P\u00e1jaro",
+      "url": "https://open.spotify.com/track/5a7f9thwL3quMqrcWBZptY"
     },
     {
       "album": {
@@ -5860,6 +5970,24 @@
       "duration_ms": 228247,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/6hlXbDnEr1kXMsdP8dzc9d"
+    },
+    {
+      "album": {
+        "name": "Selma y Patty",
+        "url": "https://open.spotify.com/album/7tqN6nZShPa2OzsLEJnoAC"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164765,
+      "name": "Selma y Patty",
+      "url": "https://open.spotify.com/track/7t9kQbsiFPWdHILBnTcuCL"
     },
     {
       "album": {
@@ -6462,7 +6590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 158863,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/1tP1RLd5jdBAIaeWpiJm1P"

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 59758,
+  "num_followers": 59901,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -671,30 +671,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
-      },
-      "artists": [
-        {
-          "name": "Sha Sha",
-          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 444474,
-      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 295285,
       "name": "Nakufa",
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 444474,
+      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
     },
     {
       "added_at": "2024-02-13 07:43:01",

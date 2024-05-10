@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,396 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,794 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 |
 | 2 | [Não Vou Namorar](https://open.spotify.com/track/027ielmg4mNR1p1Ds3Mvgh) | [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1), [MC TH DA SERRA](https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Não Vou Namorar](https://open.spotify.com/album/6cxPIxP5f3LBtDcTzz9YhV) | 2:42 |
 | 3 | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/track/2l6YkP5Rj1w3GsrhE7cDqx) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/album/3ks2icfvnL1iRYzEB24w51) | 2:29 |
-| 4 | [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |
+| 4 | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |
 | 5 | [Liga Pros Tralha](https://open.spotify.com/track/7aWxNKi3sycttLY7wR6Smp) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Liga Pros Tralha](https://open.spotify.com/album/0YRtTfeCv5x6wfCtyRNi11) | 2:56 |
 | 6 | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/track/0c0QqyqhoiUVco4LdZjTdX) | [Davi Lemos DJ](https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL), [MALHA FUNK](https://open.spotify.com/artist/7Aoq22DL55gHycti1JPL4z), [Os Caçadores](https://open.spotify.com/artist/0kD0mHs63ci8Zw1vvPDjYx), [Pansa Beats](https://open.spotify.com/artist/4oxPArmOSLN23wu2qy72xZ) | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/album/547whR3WlZWzCFXSckVqHG) | 2:11 |
 | 7 | [Machuquei](https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa) | [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Dj Luizinho MPC](https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW) | [Machuquei](https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K) | 3:07 |

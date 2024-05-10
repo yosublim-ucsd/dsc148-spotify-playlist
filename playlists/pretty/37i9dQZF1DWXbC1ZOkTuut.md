@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Los Primos Del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,101 likes - 112 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,123 likes - 112 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

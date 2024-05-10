@@ -8504,6 +8504,24 @@
     {
       "album": {
         "name": "The Inner Child",
+        "url": "https://open.spotify.com/album/1uVQjJXQxusnLxun611M9d"
+      },
+      "artists": [
+        {
+          "name": "Paul Michiels",
+          "url": "https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Unspoken Love",
+      "url": "https://open.spotify.com/track/30uNcSqhzHitYVrxsPLJKE"
+    },
+    {
+      "album": {
+        "name": "The Inner Child",
         "url": "https://open.spotify.com/album/0GOqu4nOTog5yVjCga8vhc"
       },
       "artists": [
@@ -8514,7 +8532,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 200626,
       "name": "Unspoken Love",
       "url": "https://open.spotify.com/track/3PkgOEgZJb7WxTeaPAOu37"

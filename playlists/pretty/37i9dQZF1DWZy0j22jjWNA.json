@@ -1,6 +1,6 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 93195,
+  "num_followers": 93218,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
-      },
-      "artists": [
-        {
-          "name": "Molly Kate Kestner",
-          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Unshackled",
         "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 244089,
       "name": "Unshackled",
       "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
+      },
+      "artists": [
+        {
+          "name": "Molly Kate Kestner",
+          "url": "https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Songs from the Valley",
-        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 197445,
-      "name": "Reciprocate",
-      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 188092,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 197445,
+      "name": "Reciprocate",
+      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Power Over Me",
-        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 172088,
-      "name": "Power Over Me",
-      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Radiant (Shine Like Diamonds)",
         "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 241031,
       "name": "Radiant (Shine Like Diamonds)",
       "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 172088,
+      "name": "Power Over Me",
+      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Free Like a Broken Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Free Like a Broken Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "The Road, The Rocks, and The Weeds",
         "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 215014,
       "name": "The Road, The Rocks, and The Weeds",
       "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Free Like a Broken Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Free Like a Broken Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1966033,
+  "num_followers": 1966149,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,26 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/7yCXgxWLZZEAiVsISKN3BF"
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
       "artists": [
         {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 201946,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -479,26 +483,22 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
-        "name": "For Life (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/7yCXgxWLZZEAiVsISKN3BF"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 175803,
-      "name": "For Life (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+      "duration_ms": 201946,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
+        "name": "We Will Rave",
+        "url": "https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl"
+      },
+      "artists": [
+        {
+          "name": "Kaleen",
+          "url": "https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "We Will Rave",
+      "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
-        "name": "We Will Rave",
-        "url": "https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl"
-      },
-      "artists": [
-        {
-          "name": "Kaleen",
-          "url": "https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "We Will Rave",
-      "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
-        "name": "Wildberry Lillet",
-        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wildberry Lillet",
-      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -1611,22 +1595,6 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
@@ -1647,6 +1615,38 @@
     {
       "added_at": "2024-05-01 10:01:08",
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
+        "name": "Wildberry Lillet",
+        "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wildberry Lillet",
+      "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
       },
@@ -1659,26 +1659,6 @@
       "duration_ms": 148116,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
-    },
-    {
-      "added_at": "2024-05-01 10:01:08",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     },
     {
       "added_at": "2024-05-01 10:01:08",
@@ -1699,6 +1679,26 @@
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
+    },
+    {
+      "added_at": "2024-05-01 10:01:08",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     }
   ],
   "unique_name": "Stimmungsmacher",

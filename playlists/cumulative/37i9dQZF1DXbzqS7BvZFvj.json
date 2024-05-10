@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Doja Cat",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Ice Spice",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -3577,6 +3577,32 @@
     },
     {
       "album": {
+        "name": "W.F.N.D RADIO",
+        "url": "https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM"
+      },
+      "artists": [
+        {
+          "name": "Frank N Dank",
+          "url": "https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl"
+        },
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "DJ Rhettmatic",
+          "url": "https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml"
+    },
+    {
+      "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
@@ -4379,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
+    },
+    {
+      "album": {
         "name": "Gin & Juice (feat. BigXthaPlug)",
         "url": "https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2"
       },
@@ -5018,6 +5062,28 @@
       "duration_ms": 202886,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/5aQzebaYWkiKZSSnIFHSl0"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139206,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4eVCRnflGxYJ43MeRMSooB"
     },
     {
       "album": {
@@ -6793,6 +6859,28 @@
     },
     {
       "album": {
+        "name": "LLOGCLAY",
+        "url": "https://open.spotify.com/album/1dTxuFBMFbBYeVmVUTVl6v"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223258,
+      "name": "LLOGCLAY",
+      "url": "https://open.spotify.com/track/4CGUa53VCVIM7wQBTMPWoa"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0"
       },
@@ -7164,6 +7252,32 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "album": {
+        "name": "Madness & Badness",
+        "url": "https://open.spotify.com/album/3Sq66VBlsJ4t3UMcXY0svK"
+      },
+      "artists": [
+        {
+          "name": "Marlo",
+          "url": "https://open.spotify.com/artist/6ioU7VVUMpOhlsD1b9A4xP"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126131,
+      "name": "Madness & Badness",
+      "url": "https://open.spotify.com/track/0JK2n9ZfIqI4Wb1sctG7po"
     },
     {
       "album": {
@@ -7636,6 +7750,28 @@
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+    },
+    {
+      "album": {
+        "name": "Most Definitely",
+        "url": "https://open.spotify.com/album/79BMhiSb5NwMmRhH7etk6y"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206131,
+      "name": "Most Definitely",
+      "url": "https://open.spotify.com/track/098rsNELupiqnutsfFUeKt"
     },
     {
       "album": {
@@ -12071,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB"
+      },
+      "artists": [
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241992,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc"
+    },
+    {
+      "album": {
         "name": "This Is What I Mean",
         "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
       },
@@ -13680,6 +13834,32 @@
       "duration_ms": 214038,
       "name": "Your Friends (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
+    },
+    {
+      "album": {
+        "name": "YW",
+        "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
+      },
+      "artists": [
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148418,
+      "name": "YW",
+      "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 90 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 90 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 89 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 90 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbQuYgAAAACbIV3ttbGCjArgKI2pNiOG`
+Snapshot ID: `AbQ5ogAAAABtzFkKWUhCwYHzXCfgYKMS`

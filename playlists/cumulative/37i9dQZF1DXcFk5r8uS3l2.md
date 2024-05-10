@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-371 songs - 23 hr 16 min
+372 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-05-27 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-05-27 | 2023-02-25 |
-| [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 | 2021-12-17 |  |
+| [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 | 2021-12-17 | 2024-05-10 |
 | [Roll With Me](https://open.spotify.com/track/0GQS7JTrnUCstlUQNPJYzl) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Black Gospel, Vol\. 1](https://open.spotify.com/album/1uRbfjXXq4IPqMbvITn66V) | 4:20 | 2021-12-17 | 2022-06-12 |
 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 | 2022-01-28 | 2024-03-30 |
 | [Room for Us All](https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Room for Us All](https://open.spotify.com/album/14bLaJ0fePGoHcwwwoxZ9g) | 3:27 | 2022-06-10 | 2022-06-18 |
@@ -327,6 +327,7 @@
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2023-03-11 |
 | [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 | 2023-11-17 |  |
 | [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
+| [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7) | [Justin Golden](https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl) | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9) | 2:23 | 2024-05-09 |  |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2023-03-11 |

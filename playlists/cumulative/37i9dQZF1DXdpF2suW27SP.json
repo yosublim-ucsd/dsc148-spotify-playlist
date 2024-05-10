@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 196363,
       "name": "3 Lugares",
       "url": "https://open.spotify.com/track/79N11TW32uY1w93uygGkIe"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 174735,
       "name": "Facilita",
       "url": "https://open.spotify.com/track/29j0meHh2Q3obkjUgGH147"
@@ -5015,6 +5015,28 @@
     },
     {
       "album": {
+        "name": "Hubris",
+        "url": "https://open.spotify.com/album/4pr4vezbi9qKK6qPYTtMQY"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        },
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "In\u00e9rcia",
+      "url": "https://open.spotify.com/track/3mXJ9Nkm6IrCXQcZbniVsA"
+    },
+    {
+      "album": {
         "name": "MDID",
         "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
@@ -5686,7 +5708,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 197333,
       "name": "Lugar Favorito",
       "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
@@ -7759,6 +7781,32 @@
     },
     {
       "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/78919XqfT2YtPVZt6CloJs"
+      },
+      "artists": [
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Dji Tafinha",
+          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264727,
+      "name": "Pai Nosso",
+      "url": "https://open.spotify.com/track/2Wt9Xg5ANi2brf6MMFZCVG"
+    },
+    {
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/54J13b5GudIcDSsewgQB5Q"
       },
@@ -9324,6 +9372,36 @@
       "duration_ms": 158468,
       "name": "SEXTOU",
       "url": "https://open.spotify.com/track/4U7ucVkz1f1XrNMw2bXe1e"
+    },
+    {
+      "album": {
+        "name": "SEXTOU E EU TOU EM CASA",
+        "url": "https://open.spotify.com/album/6tyRTtg730zNXFhXMsL2NV"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        },
+        {
+          "name": "NOCAP",
+          "url": "https://open.spotify.com/artist/3Btn1ywwqv6SaBQnkWesMb"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "SEXTOU E EU TOU EM CASA",
+      "url": "https://open.spotify.com/track/6uvVkGVCk2wL3dQSHISbEm"
     },
     {
       "album": {

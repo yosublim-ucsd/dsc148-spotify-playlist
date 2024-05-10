@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Cristal
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,359 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,370 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
 | 40 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 41 | [Dá Pra Imaginar](https://open.spotify.com/track/7jHeDrBE6rp3Uv2myhgURV) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Dá Pra Imaginar / Plebe](https://open.spotify.com/album/5K1NxYHrNZoTIjzhyGCUKO) | 3:10 |
-| 42 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
-| 43 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
+| 42 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
+| 43 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 44 | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/track/1rJnvi0KVPvv0iXis2AW6n) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/album/7t6FZEKYsfluVdo8hHUXtk) | 5:26 |
 | 45 | [Eles Dizem Me Amar](https://open.spotify.com/track/3WmBu62aEEMj2yMYOhpWNn) | [BaB](https://open.spotify.com/artist/4IntnMtAydhIlsMwJv7nyx), [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh) | [Eles Dizem Me Amar](https://open.spotify.com/album/3xUqdp7SGuTDVopkIpGbhu) | 2:14 |
 | 46 | [Vish](https://open.spotify.com/track/6hQ5cvIg7XRqG1zMRqx9o2) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Vinni OG Beats](https://open.spotify.com/artist/68mX2E0DwXVeyVSE9SHht2) | [Vish](https://open.spotify.com/album/67JUKKWnQ4AjhafRqeICT9) | 2:44 |

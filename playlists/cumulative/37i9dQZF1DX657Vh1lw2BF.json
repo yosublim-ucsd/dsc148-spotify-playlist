@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 250906,
       "name": "Mitghaer W Halyan",
       "url": "https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn"
@@ -2280,6 +2280,24 @@
       "duration_ms": 193882,
       "name": "Yamak Mazaji",
       "url": "https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg"
+    },
+    {
+      "album": {
+        "name": "Yeraqbni",
+        "url": "https://open.spotify.com/album/0FuGAtuv9IjVv1cYEGyDfq"
+      },
+      "artists": [
+        {
+          "name": "Ali Saber",
+          "url": "https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "Yeraqebni",
+      "url": "https://open.spotify.com/track/0g6frByAc4v9DatpduW59v"
     },
     {
       "album": {

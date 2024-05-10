@@ -1,15 +1,51 @@
 {
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: KeBlack x Franglish",
-  "num_followers": 898512,
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Dadju x Tayc",
+  "num_followers": 898593,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQM4AAAAACMsFoag6V7CBQP00zyDtku",
+  "snapshot_id": "Zj1HYAAAAACrgn/rwuPSCsUkZn9yQXJS",
   "tracks": [
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "La vie d'un... / Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3IedXlFglIwo754rxOID4x"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Boucan (feat. Franglish)",
         "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
@@ -29,7 +65,7 @@
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
@@ -57,75 +93,7 @@
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "H\u00c9RITAGE",
-        "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "La vie d'un... / Ma pr\u00e9f\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/3IedXlFglIwo754rxOID4x"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "On y va",
         "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
@@ -145,7 +113,7 @@
       "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Wahala (feat. Olamide)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
@@ -165,7 +133,39 @@
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
@@ -185,23 +185,27 @@
       "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
@@ -217,27 +221,23 @@
       "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Coup du marteau",
         "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
@@ -273,27 +273,27 @@
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
@@ -313,39 +313,7 @@
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Kulule",
-        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 157281,
-      "name": "Kulule",
-      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
@@ -361,27 +329,23 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Longue Vie",
-        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+        "name": "Wayeh",
+        "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 121333,
-      "name": "Longue Vie",
-      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
+      "duration_ms": 150733,
+      "name": "Wayeh",
+      "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
@@ -401,7 +365,91 @@
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+        "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+      "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Fimbu",
         "url": "https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R"
@@ -433,51 +481,7 @@
       "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
@@ -493,7 +497,7 @@
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
@@ -513,7 +517,43 @@
       "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "J'en ai pas",
+        "url": "https://open.spotify.com/album/3hgDbNflYYzd3O3urFxMlQ"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "duration_ms": 146292,
+      "name": "J'en ai pas",
+      "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "TZA",
         "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
@@ -529,27 +569,23 @@
       "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "I love you",
-        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+        "name": "Toko dombi",
+        "url": "https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 237866,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+      "duration_ms": 160336,
+      "name": "Toko dombi",
+      "url": "https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
@@ -569,7 +605,7 @@
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "T\u2019\u00e9tais o\u00f9 ?",
         "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
@@ -597,7 +633,43 @@
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/2jnWt8ZFbEw0IKXvMzJuDG"
@@ -617,39 +689,7 @@
       "url": "https://open.spotify.com/track/09TzHCTLSIx4UvQloqw5lS"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Touch\u00e9 Coul\u00e9",
-        "url": "https://open.spotify.com/album/35LNflk9anJdGkplPebCAy"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Touch\u00e9 Coul\u00e9",
-      "url": "https://open.spotify.com/track/639xnq0EJXw4wSpvB1LJS9"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Aucune attache",
         "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Lonely At The Top (Remix)",
         "url": "https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y"
@@ -685,23 +725,27 @@
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Ghetto",
-        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 137437,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+      "duration_ms": 237866,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
@@ -717,7 +761,39 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Touch\u00e9 Coul\u00e9",
+        "url": "https://open.spotify.com/album/35LNflk9anJdGkplPebCAy"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Touch\u00e9 Coul\u00e9",
+      "url": "https://open.spotify.com/track/639xnq0EJXw4wSpvB1LJS9"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Jojo",
         "url": "https://open.spotify.com/album/6123IzpYQQ0FNuwYJ7Cx5a"
@@ -733,27 +809,59 @@
       "url": "https://open.spotify.com/track/2AGO7KCyvZgIgmwG00BU3Y"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 145571,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
@@ -785,43 +893,7 @@
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/5L2DAuV8yVME0RfgVsUveZ"
-      },
-      "artists": [
-        {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        },
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/34BTDwDIAxbdKfynLeH0ce"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
@@ -845,43 +917,43 @@
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Toko dombi",
-        "url": "https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i"
+        "name": "Posa na bina",
+        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
       },
       "artists": [
         {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
         }
       ],
-      "duration_ms": 160336,
-      "name": "Toko dombi",
-      "url": "https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ"
+      "duration_ms": 156500,
+      "name": "Posa na bina",
+      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
       "artists": [
         {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Biso Mibale (feat. Jungeli)",
         "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
@@ -901,63 +973,7 @@
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Pretty Girls",
-        "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 145571,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Posa na bina",
-        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
-      },
-      "artists": [
-        {
-          "name": "Hulk Van JMF",
-          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Posa na bina",
-      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 207454,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/5JvQ1VFavvn8Qj0NWnFveB"
@@ -971,22 +987,6 @@
       "duration_ms": 155523,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/2OujnEePhdoXKYSnsza4Rp"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     }
   ],
   "unique_name": "Afro Hits",

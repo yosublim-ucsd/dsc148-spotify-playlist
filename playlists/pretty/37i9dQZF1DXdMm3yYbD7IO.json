@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 342023,
+  "num_followers": 342350,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Escapade",
+      "url": "https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Escapade",
-      "url": "https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "The Greatest Hits: Why Try Harder",
-        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Praise You - Radio Edit",
-      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 198573,
       "name": "Crush (Dance Mix)",
       "url": "https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "The Greatest Hits: Why Try Harder",
+        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Praise You - Radio Edit",
+      "url": "https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ"
     },
     {
       "added_at": "2024-03-22 15:16:56",

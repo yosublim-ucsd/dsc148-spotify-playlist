@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 18104,
+  "num_followers": 18106,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "No te sueltes",
-        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ubilla",
-          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
-        },
-        {
-          "name": "Felicia Morales",
-          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
-        }
-      ],
-      "duration_ms": 225002,
-      "name": "No te sueltes",
-      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 218500,
       "name": "Provoqu\u00e9",
       "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "No te sueltes",
+        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ubilla",
+          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+        },
+        {
+          "name": "Felicia Morales",
+          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+        }
+      ],
+      "duration_ms": 225002,
+      "name": "No te sueltes",
+      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Tan besh",
-        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Tan besh",
-      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Ojos De Fuego (Sinego Remix)",
         "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 371857,
       "name": "Ojos De Fuego - Sinego Remix",
       "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Tan besh",
+        "url": "https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Tan besh",
+      "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 296909,
+      "name": "Revista de Gimnasia - Alejandro Paz Remix",
+      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Remaches (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
@@ -1147,22 +1167,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+        "name": "KRAUT!",
+        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
       },
       "artists": [
         {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 296909,
-      "name": "Revista de Gimnasia - Alejandro Paz Remix",
-      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
+      "duration_ms": 208747,
+      "name": "KRAUT!",
+      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 179612,
       "name": "Arde",
       "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "KRAUT!",
-        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "KRAUT!",
-      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Caracoles (Remix)",
         "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 197810,
       "name": "Caracoles - Remix",
       "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "coraz\u00f3n dinamita",
-        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "coraz\u00f3n dinamita",
-      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Fuerte",
         "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 229454,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "coraz\u00f3n dinamita",
+        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 181532,
+      "name": "coraz\u00f3n dinamita",
+      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        }
-      ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Blue Planet",
         "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 153193,
       "name": "Blue Planet",
       "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        }
+      ],
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1619,6 +1619,46 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Salto al Alba",
+        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
+      },
+      "artists": [
+        {
+          "name": "Florencia Lira",
+          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
+        },
+        {
+          "name": "PORO",
+          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "Tiene Sentido",
+      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Lineas del Cielo",
+        "url": "https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        },
+        {
+          "name": "MaisonMusic",
+          "url": "https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Lineas del Cielo",
+      "url": "https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Suave Vendaval (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3"
       },
@@ -1639,42 +1679,6 @@
       "duration_ms": 263013,
       "name": "Suave Vendaval - DJ TOI Remix",
       "url": "https://open.spotify.com/track/6TlD64R2Ltt54ZELepGpSZ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "RINGO",
-        "url": "https://open.spotify.com/album/0VeTiYO5g15QjPvJksVBJi"
-      },
-      "artists": [
-        {
-          "name": "Ringo Galperin",
-          "url": "https://open.spotify.com/artist/7zaSn96HaddSuMkSIun9Q3"
-        }
-      ],
-      "duration_ms": 158615,
-      "name": "Puedo Buscar",
-      "url": "https://open.spotify.com/track/7lM2IOzav0PLGiCnfvN4hQ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Salto al Alba",
-        "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
-      },
-      "artists": [
-        {
-          "name": "Florencia Lira",
-          "url": "https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo"
-        },
-        {
-          "name": "PORO",
-          "url": "https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "Tiene Sentido",
-      "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
     }
   ],
   "unique_name": "NE\u00d3N",

@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "JSL Singh",
+          "url": "https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161232,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
       },

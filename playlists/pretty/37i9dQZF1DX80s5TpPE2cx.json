@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 9837,
+  "num_followers": 9848,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -595,42 +595,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 231183,
       "name": "After Six",
       "url": "https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -723,30 +723,6 @@
     {
       "added_at": "2024-04-26 00:01:00",
       "album": {
-        "name": "ULTRALIGHT",
-        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "MEDITATE",
-      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 229653,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
     },
     {
       "added_at": "2024-04-26 00:01:00",

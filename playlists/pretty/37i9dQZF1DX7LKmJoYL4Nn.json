@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d\u300c\u3042\u3093\u30b9\u30bf\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2014-2019 Happy Elements K.K",
-  "num_followers": 54118,
+  "num_followers": 54152,
   "original_name": "ENSEMBLE STARS!! \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-04-26 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
-        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
-      },
-      "artists": [
-        {
-          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
-          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "Trap For You",
-      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
-    },
-    {
-      "added_at": "2024-04-26 15:00:00",
-      "album": {
         "name": "Eden\u300cEXCEED\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 230680,
       "name": "EXCEED",
       "url": "https://open.spotify.com/track/38GxLG5AHziQ9ho4Qel0Vg"
+    },
+    {
+      "added_at": "2024-04-26 15:00:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
+        "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
+      },
+      "artists": [
+        {
+          "name": "Eve/\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u6f23 \u30b8\u30e5\u30f3(CV:\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Trap For You",
+      "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
     },
     {
       "added_at": "2024-04-26 15:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-04-26 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f ALKALOID",
-        "url": "https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.01)",
+        "url": "https://open.spotify.com/album/6xL3VYapyGi6eUJUSUA166"
       },
       "artists": [
         {
-          "name": "\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)",
-          "url": "https://open.spotify.com/artist/3P7sJqFrsnkbBMr01qnJM2"
+          "name": "XXVeil/\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd \u7965\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u4ec1\u514e \u306a\u305a\u306a(CV.\u7c73\u5185 \u4f51\u5e0c)\u3001\u795e\u5d0e \u98af\u99ac(CV.\u795e\u6c38 \u572d\u4f51)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)",
+          "url": "https://open.spotify.com/artist/5uWdY6brkSVcOXVzm9fZMv"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Raise the Velvet",
-      "url": "https://open.spotify.com/track/5zuujNiRCB7OERKDDzVjEC"
+      "duration_ms": 228120,
+      "name": "Midnight Butlers",
+      "url": "https://open.spotify.com/track/6QKfYGoyFJdG2NEiNtp9rS"
     },
     {
       "added_at": "2024-04-26 15:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-04-26 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.01)",
-        "url": "https://open.spotify.com/album/6xL3VYapyGi6eUJUSUA166"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f ALKALOID",
+        "url": "https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh"
       },
       "artists": [
         {
-          "name": "XXVeil/\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd \u7965\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u4ec1\u514e \u306a\u305a\u306a(CV.\u7c73\u5185 \u4f51\u5e0c)\u3001\u795e\u5d0e \u98af\u99ac(CV.\u795e\u6c38 \u572d\u4f51)\u3001HiMERU(CV.\u7b20\u9593 \u6df3)",
-          "url": "https://open.spotify.com/artist/5uWdY6brkSVcOXVzm9fZMv"
+          "name": "\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)",
+          "url": "https://open.spotify.com/artist/3P7sJqFrsnkbBMr01qnJM2"
         }
       ],
-      "duration_ms": 228120,
-      "name": "Midnight Butlers",
-      "url": "https://open.spotify.com/track/6QKfYGoyFJdG2NEiNtp9rS"
+      "duration_ms": 209266,
+      "name": "Raise the Velvet",
+      "url": "https://open.spotify.com/track/5zuujNiRCB7OERKDDzVjEC"
     },
     {
       "added_at": "2024-04-26 15:00:00",

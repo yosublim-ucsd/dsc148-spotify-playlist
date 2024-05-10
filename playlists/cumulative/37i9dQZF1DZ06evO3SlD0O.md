@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 21 min
+91 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Destapé Otra Botella](https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 3:05 | 2022-06-01 |  |
 | [El Amor De Los Dos](https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:44 | 2022-09-02 |  |
 | [El Beso De Judas](https://open.spotify.com/track/41u6boHB1VeoyQltaHgu7D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:55 | 2022-09-15 |  |
+| [El Caimán](https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:59 | 2024-05-10 |  |
 | [El Caimán \- En Vivo](https://open.spotify.com/track/4TrKU1y51lR2kjjZtQhqga) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Ricky López](https://open.spotify.com/artist/0tbis939faPuJg5RXYNRpo) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:43 | 2022-06-01 | 2022-10-21 |
 | [El Conejito](https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:05 | 2022-06-01 |  |
 | [El Corrido De Amado Carrillo](https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos De Mi Tierra](https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V) | 3:37 | 2022-06-01 |  |
@@ -75,7 +76,7 @@
 | [Por Motivos de Salud](https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [El Adiós](https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ) | 3:30 | 2022-06-02 | 2022-10-05 |
 | [Que Sepan Todos](https://open.spotify.com/track/3SCSuJUWcMkUOuxnvhzVP6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:14 | 2022-06-01 | 2022-10-13 |
 | [Quiero Besarte A La Noche](https://open.spotify.com/track/5OmsB03J9ZRlKdL9EReRuz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 | 2022-09-01 | 2023-12-14 |
-| [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2022-06-01 |  |
+| [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2022-06-01 | 2024-05-10 |
 | [Rosas Blancas](https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:44 | 2022-06-01 |  |
 | [Se Burlaron Mis Amigos](https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Ni Tu Amigo Ni Tu Amante](https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ) | 2:46 | 2022-08-07 |  |
 | [Si Tu Te Vas](https://open.spotify.com/track/0qLNTZOUv7qdXxrtDWPejH) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:46 | 2022-06-05 | 2022-09-29 |

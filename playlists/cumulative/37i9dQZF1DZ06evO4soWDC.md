@@ -4,11 +4,12 @@
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 17 min
+63 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 | 2023-09-21 | 2024-04-25 |
+| ['Til Forever](https://open.spotify.com/track/4zCblRG5itwawU6T697fKa) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 2:48 | 2024-05-10 |  |
 | [41 Degrees](https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 2:23 | 2022-09-16 | 2024-02-02 |
 | [Aeroplane](https://open.spotify.com/track/2RLGb8mvqpSY6v3h1muLok) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:22 | 2022-09-16 |  |
 | [Anything Near Conviction](https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:47 | 2022-09-16 |  |
@@ -47,7 +48,7 @@
 | [Quicksand](https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 3:00 | 2022-09-16 | 2023-11-11 |
 | [Reeling](https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 2:48 | 2023-12-13 |  |
 | [Remiss of Me](https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 3:07 | 2023-03-17 |  |
-| [Rinse and Repeat](https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:24 | 2023-11-10 |  |
+| [Rinse and Repeat](https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 3:24 | 2023-11-10 | 2024-05-10 |
 | [Say It Back](https://open.spotify.com/track/1TJ8r9Y5EE1rVPLWKOwjmo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:43 | 2022-09-16 | 2023-11-11 |
 | [Sea Sick](https://open.spotify.com/track/0xg9zudXOKmQyMOfSI9ifp) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu), [Kat Edwards](https://open.spotify.com/artist/7FOpFtNApLbUrcz56UnkM4) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:53 | 2022-09-16 | 2022-10-13 |
 | [Some Cutting Sick](https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:41 | 2022-09-16 | 2022-10-13 |

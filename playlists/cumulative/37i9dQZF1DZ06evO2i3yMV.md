@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 44 min
+120 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aching Nodes](https://open.spotify.com/track/0MJajPeMcWgAUo87zKHjRZ) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU) | 2:59 | 2023-05-02 | 2024-02-11 |
 | [Bready Soul](https://open.spotify.com/track/42hbE9hxMxRDizdr9UkzTj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 4:49 | 2023-11-10 | 2023-12-14 |
 | [Breath Strokes](https://open.spotify.com/track/2AK7aIPe5b1LtIZ7YMyUJP) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [You're Invited](https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1) | 2:40 | 2023-05-02 | 2023-05-06 |
+| [Breath Strokes](https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 2:40 | 2024-05-10 |  |
 | [Bright Shadows](https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:50 | 2023-05-02 |  |
 | [Caught In The Rain](https://open.spotify.com/track/5KKms9cK7uFGAWssPdR9CM) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Clubbers Bible 2017](https://open.spotify.com/album/4StE7yNyqSEL8RblWNoaKm) | 3:24 | 2023-05-02 | 2023-11-11 |
 | [Collection Plate](https://open.spotify.com/track/7iz3dRXquhdT4aFkUthste) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:35 | 2023-12-21 | 2023-12-31 |
@@ -52,7 +53,7 @@
 | [Golden Years \- TOKiMONSTA Remix](https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Golden Years \(TOKiMONSTA Remix\)](https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp) | 3:01 | 2023-05-06 | 2023-06-04 |
 | [Green](https://open.spotify.com/track/3Q5FLOPn3IhY3g3BHoHak2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:58 | 2024-03-11 | 2024-03-16 |
 | [Green](https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Half Shadows](https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK) | 3:58 | 2023-05-29 | 2024-01-11 |
-| [Heart on the Ground](https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:31 | 2024-03-04 |  |
+| [Heart on the Ground](https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:31 | 2024-03-04 | 2024-05-10 |
 | [Heart on the Ground](https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kiya Lacey](https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:31 | 2023-05-02 | 2023-12-14 |
 | [House of Dal](https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 4:26 | 2024-03-28 | 2024-05-04 |
 | [House of Dal](https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:26 | 2023-05-02 | 2023-12-14 |

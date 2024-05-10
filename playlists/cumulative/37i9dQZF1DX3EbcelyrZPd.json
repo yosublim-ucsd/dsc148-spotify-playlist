@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 262758,
       "name": "Achii (feat. Koffi Olomide)",
       "url": "https://open.spotify.com/track/2SSmMYLJ7ODOSxULNUemVa"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 200357,
       "name": "Beer Nyama (feat. Billnass)",
       "url": "https://open.spotify.com/track/3QXDwoz3SzUkv9DNibHjqj"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 162818,
       "name": "Down",
       "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 167209,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/56y1MbtIRUbWUsR7pBE5ub"
@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Je T Aime",
+        "url": "https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256644,
+      "name": "Je T Aime",
+      "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
+    },
+    {
+      "album": {
         "name": "Jeje",
         "url": "https://open.spotify.com/album/7tm5kVryJsTzodluu5FY9o"
       },
@@ -2668,6 +2686,32 @@
       "duration_ms": 275487,
       "name": "Katerina",
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
+    },
+    {
+      "album": {
+        "name": "Kautaka",
+        "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "JFS Music",
+          "url": "https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Kautaka",
+      "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
     },
     {
       "album": {
@@ -5747,6 +5791,28 @@
     },
     {
       "album": {
+        "name": "Raha (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Raha (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL"
+    },
+    {
+      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK"
       },
@@ -5988,6 +6054,28 @@
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
+    },
+    {
+      "album": {
+        "name": "Shake Shake (feat. Dreamdoll)",
+        "url": "https://open.spotify.com/album/0IRau8537fbmOYDvbUlgep"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137472,
+      "name": "Shake Shake (feat. Dreamdoll)",
+      "url": "https://open.spotify.com/track/4PdMZg2fMnOqjidtB5X9u5"
     },
     {
       "album": {

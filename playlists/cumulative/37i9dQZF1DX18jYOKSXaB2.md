@@ -4,7 +4,7 @@
 
 > Songs fit for an African wedding
 
-114 songs - 5 hr 56 min
+115 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-03 |  |
 | [Plans](https://open.spotify.com/track/0WoT1vggiErQBlgzft2X77) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Plans](https://open.spotify.com/album/6rCRtmadXMUoZgJYZ3RtsN) | 2:52 | 2023-03-24 | 2024-03-01 |
 | [Rara](https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Waje 2.0](https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH) | 2:04 | 2022-07-22 | 2023-08-01 |
+| [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 |  |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2024-04-19 |  |
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 | 2024-04-19 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 |  |
@@ -118,7 +119,7 @@
 | [Whenever](https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [A Piece Of Me](https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj) | 2:36 | 2022-11-24 | 2023-01-13 |
 | [Winner](https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 3:08 | 2022-08-26 |  |
 | [woman](https://open.spotify.com/track/1IU8Sx9ZEKa3tuowb8R3ut) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:48 | 2022-05-19 | 2022-11-13 |
-| [woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2024-04-19 |  |
+| [woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2024-04-19 | 2024-05-10 |
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 | 2024-04-19 |
 | [World In My Hands](https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ) | [LAVI$H](https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou) | [World In My Hands](https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB) | 3:18 | 2022-08-18 | 2022-09-02 |
 | [Ụwa](https://open.spotify.com/track/1kUzzhUpK7SbcJSaby03OD) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Voice of the East](https://open.spotify.com/album/6vf8dgYzchJ7Fk3ZIhWavR) | 2:53 | 2024-03-29 |  |

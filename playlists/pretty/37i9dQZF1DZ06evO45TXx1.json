@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 8165,
+  "num_followers": 8195,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACUEprSlkMg65d7s2BFUrQj",
+  "snapshot_id": "ZjrAgAAAAACPiEvidpGnqbGbyI8p69mR",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": null,
@@ -1107,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 128242,
-      "name": "Linha Torta",
-      "url": "https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretinha Treinada",
         "url": "https://open.spotify.com/album/3PvHopu3x889KYKNoIp51p"
       },
@@ -1143,6 +1123,34 @@
       "duration_ms": 138490,
       "name": "Pretinha Treinada",
       "url": "https://open.spotify.com/track/6JF2dUqE5ssSbkXewy69kB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poder Aquisitivo",
+        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+      },
+      "artists": [
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Poder Aquisitivo",
+      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
     },
     {
       "added_at": null,
@@ -1183,30 +1191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poder Aquisitivo",
-        "url": "https://open.spotify.com/album/2ESgnOBqnvfeceu4IWWxk2"
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
       "artists": [
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AnjO 005",
-          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
-        },
-        {
-          "name": "JIRAYA",
-          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
         }
       ],
-      "duration_ms": 210048,
-      "name": "Poder Aquisitivo",
-      "url": "https://open.spotify.com/track/3HQO3UMEUBCFquwkkfW2FB"
+      "duration_ms": 128242,
+      "name": "Linha Torta",
+      "url": "https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA"
     },
     {
       "added_at": null,

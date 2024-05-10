@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,264 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,265 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,22 +51,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 41 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 |
 | 42 | [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 |
 | 43 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
-| 44 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
-| 45 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
+| 44 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
+| 45 | [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 |
 | 46 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
 | 47 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
 | 48 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 |
 | 49 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 50 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
 | 51 | [Furniture](https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:14 |
-| 52 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
-| 53 | [in these bones](https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1) | 3:46 |
+| 52 | [in these bones](https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1) | 3:46 |
+| 53 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 54 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 55 | [Midnight Moon](https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:43 |
 | 56 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
 | 57 | [Go, Try, Fall](https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Dawn Sounds](https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2) | 3:19 |
 | 58 | [Love Is So Easy](https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0) | [Joel Leggett](https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt) | [Love Is So Easy](https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC) | 2:56 |
-| 59 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
-| 60 | [The Winner Takes It All](https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [The Winner Takes It All](https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU) | 5:19 |
+| 59 | [Where the Light Is](https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Where the Light Is](https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej) | 3:35 |
+| 60 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 
 Snapshot ID: `ZWiHUAAAAACjU08mGM++n0P/CWs0Zs8q`

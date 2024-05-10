@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=qckMkXE4Rnml01O2dS1E8w\">Gerhard Steyn</a> & <a href=\"https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=Z6-ff9tIShiv7deQTozkSg\">Liezel Pieters</a>  ",
-  "num_followers": 100910,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=HCVYTrC6SRi08zH0Co-EpA\">Appel</a> ",
+  "num_followers": 100957,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjQM4AAAAAB2xUheDTV26h5AOB+oaiur",
+  "snapshot_id": "Zj1HYAAAAAAvW4sCJeCO/mbDXXWN5ISg",
   "tracks": [
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
     {
       "added_at": "2024-04-26 10:50:07",
       "album": {
@@ -173,20 +189,20 @@
       "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Komeet",
-        "url": "https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5"
+        "name": "Elke Liewe Ding",
+        "url": "https://open.spotify.com/album/7qU2Oc3eVrLclwU0rAgye4"
       },
       "artists": [
         {
-          "name": "Dirk Van Der Westhuizen",
-          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Komeet",
-      "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
+      "duration_ms": 223264,
+      "name": "Elke Liewe Ding",
+      "url": "https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -465,6 +481,22 @@
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
     },
     {
+      "added_at": "2024-04-26 10:50:07",
+      "album": {
+        "name": "Komeet",
+        "url": "https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5"
+      },
+      "artists": [
+        {
+          "name": "Dirk Van Der Westhuizen",
+          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Komeet",
+      "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
+    },
+    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Diepseeduiker 17",
@@ -585,22 +617,6 @@
       "url": "https://open.spotify.com/track/6iMPMrSlrIi272VQgvqCCF"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
-      "album": {
-        "name": "Deur die re\u00ebn",
-        "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
-      },
-      "artists": [
-        {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Deur die Re\u00ebn",
-      "url": "https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Haar Naam Was Somer",
@@ -665,20 +681,20 @@
       "url": "https://open.spotify.com/track/7GDFwUneFNfDaiG1odAn9x"
     },
     {
-      "added_at": "2024-04-11 22:00:00",
+      "added_at": "2024-04-26 10:50:07",
       "album": {
-        "name": "Hy Jy Jy",
-        "url": "https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj"
+        "name": "Deur die re\u00ebn",
+        "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
       },
       "artists": [
         {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
         }
       ],
-      "duration_ms": 197937,
-      "name": "Hy Jy Jy",
-      "url": "https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg"
+      "duration_ms": 211680,
+      "name": "Deur die Re\u00ebn",
+      "url": "https://open.spotify.com/track/3vhX5qgaDsAcSJ90wddxYS"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -697,20 +713,20 @@
       "url": "https://open.spotify.com/track/1u69vEZpvkC9eV9bv6kxm5"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Vlam In Die Wind",
-        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
+        "name": "Hy Jy Jy",
+        "url": "https://open.spotify.com/album/036REkipFi8J0yHsuMQ8Aj"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 205237,
-      "name": "Vlam In Die Wind",
-      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+      "duration_ms": 197937,
+      "name": "Hy Jy Jy",
+      "url": "https://open.spotify.com/track/6XFuQdgV9LU2ss1jcF6Ogg"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -729,20 +745,20 @@
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
-      "added_at": "2024-04-26 10:50:07",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Teiken",
-        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+        "name": "Vlam In Die Wind",
+        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
       },
       "artists": [
         {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 185276,
-      "name": "Teiken",
-      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
+      "duration_ms": 205237,
+      "name": "Vlam In Die Wind",
+      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -777,22 +793,6 @@
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
-      "added_at": "2024-03-21 22:00:00",
-      "album": {
-        "name": "Hanrie Visagie",
-        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
-      },
-      "artists": [
-        {
-          "name": "Werner Van Der Hoven",
-          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
-        }
-      ],
-      "duration_ms": 158115,
-      "name": "Hanrie Visagie",
-      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Foto's",
@@ -807,6 +807,22 @@
       "duration_ms": 194890,
       "name": "Foto's",
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
+    },
+    {
+      "added_at": "2024-04-26 10:50:07",
+      "album": {
+        "name": "Teiken",
+        "url": "https://open.spotify.com/album/5iMH0jDldXRETC2gJJYHag"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "Teiken",
+      "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -843,6 +859,38 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 210232,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
+    },
+    {
+      "added_at": "2024-03-21 22:00:00",
+      "album": {
+        "name": "Hanrie Visagie",
+        "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
+      },
+      "artists": [
+        {
+          "name": "Werner Van Der Hoven",
+          "url": "https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Hanrie Visagie",
+      "url": "https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "SySoen",
         "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
       },
@@ -871,22 +919,6 @@
       "duration_ms": 207736,
       "name": "Stout Vir ...",
       "url": "https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 210232,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -955,22 +987,6 @@
       "duration_ms": 183729,
       "name": "Rowwe Bliksem",
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Frikkie vir 'n Rukkie",
-        "url": "https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 175434,
-      "name": "Frikkie vir 'n Rukkie",
-      "url": "https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 238668,
       "name": "Hand Aan Hand",
       "url": "https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Hey Sonneblom",
-        "url": "https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "Hey Sonneblom",
-      "url": "https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG"
     },
     {
       "added_at": "2024-02-15 22:00:00",

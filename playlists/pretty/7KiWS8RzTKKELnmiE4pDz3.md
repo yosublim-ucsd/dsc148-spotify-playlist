@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 105 songs - 5 hr 49 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 106 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 103 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 |
 | 104 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 |
 | 105 | [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 |
+| 106 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 |
 
-Snapshot ID: `AAAcmfLE5bqeKRI6PGgg+7EHDo5muCDs`
+Snapshot ID: `AAAcmqJf2dqKdrB2wEd1JOhIyy2lTwIr`

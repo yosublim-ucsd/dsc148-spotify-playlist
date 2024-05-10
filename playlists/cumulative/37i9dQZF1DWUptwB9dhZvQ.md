@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-175 songs - 5 hr 17 min
+176 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Army of Slaves](https://open.spotify.com/track/5Jqob9lWkBm4W0xFek8bMv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kochadaiiyaan \(Original Score\)](https://open.spotify.com/album/7eBKHNP3IAPfqvZP7CE1t4) | 3:50 | 2023-02-21 | 2023-04-21 |
 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 | 2021-11-01 |  |
 | [Bad Eyes Villain Theme \- Instrumental](https://open.spotify.com/track/3Yuu5SdEIzjBAZNlWLYD03) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 1:29 | 2021-11-01 | 2024-04-19 |
-| [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 | 2021-11-01 |  |
+| [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 | 2021-11-01 | 2024-05-10 |
 | [Bakasuran Theme \- From"Bakasuran"](https://open.spotify.com/track/6jejr1of1u1xn32zyMZeKA) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Bakasuran Theme \(From"Bakasuran"\)](https://open.spotify.com/album/74eOosqkMEzAu9SbLIuRqf) | 1:53 | 2023-02-06 | 2023-04-21 |
 | [Barotta Master \- Background Score](https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 2:30 | 2021-11-01 | 2023-04-21 |
 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 | 2022-02-24 |  |
@@ -32,6 +32,7 @@
 | [Bhavani Theme \- Background Score](https://open.spotify.com/track/4SwrKUWClv1t4HqK5SeMCo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 | 2021-11-01 |  |
 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 | 2021-11-01 |  |
 | [Billa 2 Theme](https://open.spotify.com/track/2DsuS52SpgSbTwncBFwbr8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 1:55 | 2021-11-01 |  |
+| [Bloody Beggar Announcement Theme \- From "Bloody Beggar"](https://open.spotify.com/track/1BwnyNVjkE7FCY6AACRoPu) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [RK Ravi Prasad Ramani](https://open.spotify.com/artist/5VEEdqbTv7bhBoDFf83dwV), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt), [Prarthana Sriram](https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm) | [Bloody Beggar Announcement Theme \(From "Bloody Beggar"\)](https://open.spotify.com/album/4DbAc4Kku5UI8T2LoCUDyg) | 1:05 | 2024-05-09 |  |
 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-02-03 |  |
 | [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 | 2023-07-15 |
 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 |  |

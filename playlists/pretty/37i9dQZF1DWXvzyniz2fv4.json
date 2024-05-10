@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157640,
+  "num_followers": 157644,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,30 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Algum Lugar Pra Gente Viajar",
         "url": "https://open.spotify.com/album/6aAjEIdDknOBlN32T2SbuI"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Noites & Noites",
-        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
-      },
-      "artists": [
-        {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Noites & Noites",
-      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Perto do Sol",
         "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
@@ -1323,22 +1307,18 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Santa Catarina",
-        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+        "name": "Noites & Noites",
+        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
       },
       "artists": [
         {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Ti\u00e9l",
-          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
         }
       ],
-      "duration_ms": 95483,
-      "name": "Santa Catarina",
-      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
+      "duration_ms": 180618,
+      "name": "Noites & Noites",
+      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1355,6 +1335,26 @@
       "duration_ms": 128000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Santa Catarina",
+        "url": "https://open.spotify.com/album/4DFsz1To8t0Bwu29ExBBJX"
+      },
+      "artists": [
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Ti\u00e9l",
+          "url": "https://open.spotify.com/artist/6KyHLY2nxKSNDugeKpldQ4"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Santa Catarina",
+      "url": "https://open.spotify.com/track/0AQWxcKYGsjuarEkpeiYwR"
     },
     {
       "added_at": "2024-04-26 03:01:00",

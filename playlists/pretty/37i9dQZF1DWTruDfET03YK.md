@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,117 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 18 | [El Baile de los Animales](https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:54 |
 | 19 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
 | 20 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |
-| 21 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
-| 22 | [Escuela de Perritos](https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:30 |
+| 21 | [Escuela de Perritos](https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:30 |
+| 22 | [El Cocodrilo](https://open.spotify.com/track/45ArinQcJRgEgyrtkGZbFN) | [Atención Atención](https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ) | [¿Donde Está el Sr\. Sapo?](https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG) | 2:06 |
 | 23 | [El Circo](https://open.spotify.com/track/3qs4mRe6EjrjnnMiomwBqC) | [Xuxa](https://open.spotify.com/artist/4DOlsUBpxw706SXx05Xoi2) | [Xuxa Em Espanhol](https://open.spotify.com/album/46FmUNWIlYCuXXTIoFGSNi) | 3:20 |
 | 24 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
 | 25 | [El baile del sapito \- Remasterizado 2016](https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 3:04 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 37 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
 | 38 | [Animal Song](https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 6:19 |
 | 39 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
-| 40 | [Five Cool Cats](https://open.spotify.com/track/3OSqJ1Ut599zQdarfWez4j) | [Brian Waite Band](https://open.spotify.com/artist/0IssdwELpOUhnpISuAXXXB) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 5:06 |
-| 41 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
+| 40 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
+| 41 | [Five Cool Cats](https://open.spotify.com/track/3OSqJ1Ut599zQdarfWez4j) | [Brian Waite Band](https://open.spotify.com/artist/0IssdwELpOUhnpISuAXXXB) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 5:06 |
 | 42 | [El Gato Carpintero](https://open.spotify.com/track/7rOpbNnq64dn34lLKrNEHI) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:17 |
 | 43 | [Mi Chacra](https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer World Adventure](https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG) | 3:11 |
 | 44 | [Soy el sapo Sopa \- De Morko y Mali](https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:30 |
 | 45 | [Crocodile Rock](https://open.spotify.com/track/4D0y7AbTatziBTlScK4RZm) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:30 |
 | 46 | [Foxy Fakeout](https://open.spotify.com/track/1WM4SmNvIdUrQmmeKazKu7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 2:08 |
-| 47 | [El Baile del Gorila \- Versión 2019](https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:42 |
-| 48 | [La Pequena Arana\-Bonus](https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:12 |
+| 47 | [La Pequena Arana\-Bonus](https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:12 |
+| 48 | [El Baile del Gorila \- Versión 2019](https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:42 |
 | 49 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
 | 50 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/6FbER5h2bkMjPQ38It5jJ8) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/2KTIE0zh1TQiBh3jtHniTX) | 2:26 |
 

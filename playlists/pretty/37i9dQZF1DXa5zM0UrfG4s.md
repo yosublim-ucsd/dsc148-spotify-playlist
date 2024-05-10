@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[](https://open.spotify.com/user/null) - 108,985 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,043 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 60 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 |
 | 61 | [Rullær](https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Rullær](https://open.spotify.com/album/54JEprViU1skzpmEgO32A1) | 2:27 |
 | 62 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 |
-| 63 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
-| 64 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
+| 63 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
+| 64 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
 | 65 | [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 |
 | 66 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 |
 | 67 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
 | 70 | [Jeg fortjener en øl](https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Jeg fortjener en øl](https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG) | 2:32 |
 
-Snapshot ID: `ZjQNHAAAAABR8Fa7eCHlz4tvzcSkBA2/`
+Snapshot ID: `Zj1HYAAAAABxUIYp+Dcs9M69MhgT0h8I`

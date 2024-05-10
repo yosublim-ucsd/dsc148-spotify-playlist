@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Co\-curada por Chita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,259 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,276 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 17 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 |
 | 18 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 |
 | 19 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
-| 20 | [sola](https://open.spotify.com/track/2h45BjVC3a5o0zdPO1DIFI) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 3:11 |
-| 21 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
-| 22 | [Obsesión](https://open.spotify.com/track/3pEYBHKwvRakrUys0Nwx8j) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 3:11 |
-| 23 | [CRASH](https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Zyntax](https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO) | [CRASH](https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1) | 2:41 |
+| 20 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
+| 21 | [Obsesión](https://open.spotify.com/track/3pEYBHKwvRakrUys0Nwx8j) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 3:11 |
+| 22 | [CRASH](https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [Zyntax](https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO) | [CRASH](https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1) | 2:41 |
+| 23 | [Animales](https://open.spotify.com/track/2vF1KE6iIpQuebkFLU2tHv) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Altar](https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF) | 2:27 |
 | 24 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 |
 | 25 | [FINA Y ELEGANTA](https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FINA Y ELEGANTA](https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU) | 2:32 |
 | 26 | [911](https://open.spotify.com/track/5cNpZrbSpOK53qELLGeKpx) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 |
 | 50 | [Llamado de Emergencia](https://open.spotify.com/track/1OgBlXax4T3ymiI3ZKWn72) | [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [El Terror Solo Es Amor](https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe) | 2:13 |
 
-Snapshot ID: `ZjqGNwAAAABBcjHiLEfzyFXWERflQxIu`
+Snapshot ID: `ZjzHxAAAAACfQIjEaH2M4mG1RdkXeY0P`

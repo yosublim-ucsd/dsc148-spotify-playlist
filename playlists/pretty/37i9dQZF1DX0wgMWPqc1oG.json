@@ -1,6 +1,6 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 29106,
+  "num_followers": 29118,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Maiden Voyage",
-        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "The Best Of Art Blakey",
-        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 669306,
-      "name": "Free For All",
-      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
         "name": "Point Of Departure (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 318400,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "The Best Of Art Blakey",
+        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 669306,
+      "name": "Free For All",
+      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
+        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 538226,
+      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 742960,
       "name": "Blessing In Disguise",
       "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 538226,
-      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
         "name": "Una Mas (Remastered 2014)",
         "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 437546,
       "name": "Sao Paulo - Remastered 2014",
       "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1079,34 +1079,18 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "Forest Flower: Charles Lloyd At Monterey",
-        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 644400,
-      "name": "East of the Sun - Live@Monterey",
-      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1123,6 +1107,22 @@
       "duration_ms": 569453,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "Forest Flower: Charles Lloyd At Monterey",
+        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 644400,
+      "name": "East of the Sun - Live@Monterey",
+      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
+        "name": "Destination...Out!",
+        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 624335,
+      "name": "Kahlil The Prophet",
+      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 416120,
       "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "Destination...Out!",
-        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 624335,
-      "name": "Kahlil The Prophet",
-      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "On Impulse",
-        "url": "https://open.spotify.com/album/1vSouZMWa7qDY3RrYvk9WP"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 417000,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/24mk0Fd23EsJU9u4MvXC2h"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
         "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 510973,
       "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
       "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "On Impulse",
+        "url": "https://open.spotify.com/album/1vSouZMWa7qDY3RrYvk9WP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 417000,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/24mk0Fd23EsJU9u4MvXC2h"
     },
     {
       "added_at": "2024-03-20 14:57:59",

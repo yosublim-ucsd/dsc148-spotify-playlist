@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 719678,
+  "num_followers": 719717,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "\u00c9 Divino - Ao Vivo Em Campo Grande",
-        "url": "https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM"
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
       },
       "artists": [
         {
-          "name": "Jads & Jadson",
-          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 174066,
-      "name": "Toca um Jo\u00e3o Mineiro e Marciano - Ao Vivo",
-      "url": "https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD"
+      "duration_ms": 174178,
+      "name": "Para, Pensa e Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+        "name": "\u00c9 Divino - Ao Vivo Em Campo Grande",
+        "url": "https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Jads & Jadson",
+          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Para, Pensa e Volta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+      "duration_ms": 174066,
+      "name": "Toca um Jo\u00e3o Mineiro e Marciano - Ao Vivo",
+      "url": "https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Desejando Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 179722,
       "name": "quando a bad bater - ao vivo",
       "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-11-17 03:01:00",

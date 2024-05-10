@@ -2,7 +2,7 @@
 
 ### [This Is The Doors](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19UBIk)
 
-> This is The Doors\. Todos os maiores hits em uma só playlist.
+> This is The Doors\. The essential tracks, all in one playlist.
 
 77 songs - 4 hr 57 min
 
@@ -28,7 +28,7 @@
 | [Horse Latitudes](https://open.spotify.com/track/6vcqR6rCL2k4EDhqH8gzeO) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:35 | 2022-05-01 | 2022-10-13 |
 | [Hour for Magic](https://open.spotify.com/track/4MUwsIjjmv4q5gy70v7lma) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:17 | 2023-01-14 |  |
 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 | 2023-03-30 |  |
-| [I Am Troubled \- 2019 Remaster](https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE) | 0:39 | 2023-12-25 |  |
+| [I Am Troubled \- 2019 Remaster](https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE) | 0:39 | 2023-12-25 | 2024-05-10 |
 | [I Can't See Your Face in My Mind](https://open.spotify.com/track/6wov6IWJkisFG6rUZIESsB) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:23 | 2022-01-25 | 2022-10-03 |
 | [I'm Horny, I'm Stoned](https://open.spotify.com/track/7fku2DCfY0oUUDUYXB6Q7m) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Other Voices](https://open.spotify.com/album/6uhwVoXKDMzdXXjhTCH6Nk) | 3:57 | 2022-01-15 | 2022-01-31 |
 | [I'm Horny, I'm Stoned \- Live 1972](https://open.spotify.com/track/5RUXlzEc2NuaQ3QryvY1rY) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 5:28 | 2022-06-11 | 2022-09-03 |
@@ -50,7 +50,7 @@
 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 | 2022-01-11 |  |
 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 | 2022-11-20 |  |
 | [Peace Frog](https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:50 | 2022-01-11 |  |
-| [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2022-01-11 |  |
+| [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2022-01-11 | 2024-05-10 |
 | [Petition the Lord with Prayer \- Live in Vancouver, 1970](https://open.spotify.com/track/7FPHpesUZ791sGiYKQpQG4) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:39 | 2023-08-09 | 2023-12-30 |
 | [Queen of the Highway](https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:47 | 2022-10-28 |  |
 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 | 2022-01-11 |  |
@@ -74,7 +74,7 @@
 | [The WASP \(Texas Radio and the Big Beat\)](https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:13 | 2022-01-11 | 2023-03-31 |
 | [Touch Me](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:10 | 2022-01-11 |  |
 | [Twentieth Century Fox](https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:31 | 2023-06-18 | 2024-05-09 |
-| [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 | 2024-04-27 |
+| [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 |  |
 | [Universal Mind \- Live](https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Absolutely Live](https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul) | 4:54 | 2022-10-01 | 2022-10-03 |
 | [Verdillac \- Live 1972](https://open.spotify.com/track/0Bsm78b7ixlm4XP07MBImt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 7:10 | 2022-06-12 | 2022-06-16 |
 | [Waiting for the Sun](https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 3:58 | 2022-01-11 |  |

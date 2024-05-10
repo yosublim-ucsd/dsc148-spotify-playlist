@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: De Fam
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Fahimi
 
 430 songs - 1 day 3 hr 8 min
 

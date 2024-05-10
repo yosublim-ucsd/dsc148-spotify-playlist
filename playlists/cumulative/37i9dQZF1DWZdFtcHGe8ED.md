@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-414 songs - 1 day 5 hr 24 min
+415 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Hammerhead](https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Doomsday for the Deceiver](https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf) | 6:15 | 2022-07-13 |  |
 | [Hang 'Em High](https://open.spotify.com/track/5g2cylVMI57PM06exAtNnz) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Conformicide](https://open.spotify.com/album/6GI3M1qTLgDNNcZCTzgWEQ) | 4:49 | 2022-07-13 |  |
 | [Headshot](https://open.spotify.com/track/5yXq9gU6kktS8SnKcLFpDW) | [Thrashist Regime](https://open.spotify.com/artist/184kpg77s2jCK4Co3LgWmo) | [Carnival of Monsters](https://open.spotify.com/album/2Af67t5dOtntnzV6DBzEdN) | 3:26 | 2021-12-17 | 2022-07-23 |
-| [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 | 2022-07-13 |  |
+| [Heart Attack](https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ) | [Toxik](https://open.spotify.com/artist/5v4Rmw4m3h9jJUeXd4hD2m) | [World Circus](https://open.spotify.com/album/0vpkJpw2GlqWu2oENfdXYx) | 3:48 | 2022-07-13 | 2024-05-10 |
 | [Heavy Metal Maniac](https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW) | [Exciter](https://open.spotify.com/artist/1jH2JkQvdH6R63yORA8GTd) | [Heavy Metal Maniac](https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il) | 3:47 | 2022-07-13 |  |
 | [heavy negative wizard metal in\-fucking\-excelsis](https://open.spotify.com/track/1mR4HtzupjzkES0jMITFO2) | [Rebel Wizard](https://open.spotify.com/artist/3pQxKUXay8JVWWB4ri4Onv) | [Magickal Mystical Indifference](https://open.spotify.com/album/1r3ODZIBzedRb3MCHvKZdw) | 2:07 | 2021-12-17 | 2022-03-05 |
 | [Hell Unleashed](https://open.spotify.com/track/2CIGNH4B4yly6tMEC4tyFn) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Hell Unleashed](https://open.spotify.com/album/5fqyRnIp1kibjeyt6EU4Oy) | 3:57 | 2021-12-17 | 2022-07-29 |
@@ -257,6 +257,7 @@
 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 | 2022-04-01 | 2022-07-03 |
 | [Nuke The Cross](https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg) | [Toxic Holocaust](https://open.spotify.com/artist/0WVXlaglIOtQueNbucPjZ0) | [An Overdose of Death...](https://open.spotify.com/album/5UfQpdGMJJ4dfhk7BnHiEU) | 2:47 | 2021-12-17 |  |
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |
+| [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2024-03-08 |  |
 | [Out of Time](https://open.spotify.com/track/0ecCcO3gk2USR2o18UCBCf) | [The Curse Within](https://open.spotify.com/artist/1ILgHQXlqAxKPwQZCJsSKH) | [Seeking Vengeance](https://open.spotify.com/album/3aa6ckgxUKPXOyf1u4WlJM) | 4:06 | 2021-12-17 | 2024-05-02 |
 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Outsider God Creation](https://open.spotify.com/album/5nOqZJVn2duMUUnKG1VLGQ) | 3:43 | 2021-12-17 | 2022-12-16 |
 | [Over the Wall](https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW) | 4:06 | 2023-06-27 | 2024-04-19 |

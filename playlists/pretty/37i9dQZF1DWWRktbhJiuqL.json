@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1996298,
+  "num_followers": 1996394,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -867,18 +883,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 197520,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -895,22 +911,6 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 243200,
       "name": "Cold Hard Bitch",
       "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+      "duration_ms": 258626,
+      "name": "F*ck My Life Up Again",
+      "url": "https://open.spotify.com/track/0Jw0GvrJl8QIvY28wjAkdY"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 258626,
-      "name": "F*ck My Life Up Again",
-      "url": "https://open.spotify.com/track/0Jw0GvrJl8QIvY28wjAkdY"
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -1911,18 +1895,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
       "artists": [
         {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1939,6 +1923,22 @@
       "duration_ms": 247010,
       "name": "Living In A Ghost Town",
       "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Mars To Liverpool",
-        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        },
-        {
-          "name": "John Squire",
-          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
-        }
-      ],
-      "duration_ms": 220940,
-      "name": "Mars To Liverpool",
-      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 186847,
       "name": "Honeybrains",
       "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Mars To Liverpool",
+        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "duration_ms": 220940,
+      "name": "Mars To Liverpool",
+      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "Man in the Box",
+      "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "Man in the Box",
-      "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
     },
     {
       "added_at": "2024-05-08 05:53:39",

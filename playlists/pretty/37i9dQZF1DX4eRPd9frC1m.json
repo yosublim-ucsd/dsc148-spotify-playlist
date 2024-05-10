@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2582472,
+  "num_followers": 2582552,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Thrilla",
-        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "ShaSimone",
-          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
-        }
-      ],
-      "duration_ms": 134222,
-      "name": "Thrilla",
-      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Thrilla",
+        "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "ShaSimone",
+          "url": "https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw"
+        }
+      ],
+      "duration_ms": 134222,
+      "name": "Thrilla",
+      "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
     },
     {
       "added_at": "2024-04-12 04:00:00",

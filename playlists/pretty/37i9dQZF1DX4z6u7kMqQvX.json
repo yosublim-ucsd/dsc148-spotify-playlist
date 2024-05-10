@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106059,
+  "num_followers": 106067,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "REGIO",
         "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 238000,
       "name": "PISCINA OL\u00cdMPICA",
       "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Sin m\u00ed :(",
-        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
-      },
-      "artists": [
-        {
-          "name": "PADAWVN",
-          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
-        },
-        {
-          "name": "Ussi",
-          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Sin m\u00ed :(",
-      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Sin m\u00ed :(",
+        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
+      },
+      "artists": [
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        },
+        {
+          "name": "Ussi",
+          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Sin m\u00ed :(",
+      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
     },
     {
       "added_at": "2024-04-26 03:00:00",

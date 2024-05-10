@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Alexandre Tharaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,355 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,401 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

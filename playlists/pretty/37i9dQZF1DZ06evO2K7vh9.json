@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 75874,
+  "num_followers": 75929,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAD6TOfZmdfUHvfMmYa/xXJ7",
+  "snapshot_id": "ZjrAgAAAAAAY/MAetDf/0S80yl2K33wj",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 137904,
       "name": "Number 2",
       "url": "https://open.spotify.com/track/4Ff5nIy2mlsnJa3mVlwSXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 137547,
+      "name": "Yves",
+      "url": "https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Love You Tecca 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
       },
@@ -575,42 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 132363,
-      "name": "SEASIDE (feat. iann dior)",
-      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treesha",
-        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105693,
-      "name": "Treesha",
-      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "prada (Remix)",
         "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
       },
@@ -627,6 +591,26 @@
       "duration_ms": 112413,
       "name": "prada (Remix) (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 132363,
+      "name": "SEASIDE (feat. iann dior)",
+      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
     },
     {
       "added_at": null,
@@ -667,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105882,
-      "name": "NO DISCUSSION",
-      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prada (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 151585,
       "name": "Prada (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 105882,
+      "name": "NO DISCUSSION",
+      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
     },
     {
       "added_at": null,
@@ -739,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "MONEY ON ME",
-      "url": "https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap Tumbado",
         "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 158740,
       "name": "Dime Pa Que",
       "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "MONEY ON ME",
+      "url": "https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 121877,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 121877,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIRTHDAY MIX 6",
         "url": "https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX"
       },
@@ -863,26 +847,6 @@
       "duration_ms": 134735,
       "name": "Virgo World (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We All We Got",
-        "url": "https://open.spotify.com/album/31hrkRJ8ynJJOeZ0ao8FdJ"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 135572,
-      "name": "Falsetto",
-      "url": "https://open.spotify.com/track/6OFeW7smNQqrIMfYlMSUdD"
     },
     {
       "added_at": null,

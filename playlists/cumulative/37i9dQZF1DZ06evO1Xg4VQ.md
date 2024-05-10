@@ -2,9 +2,9 @@
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This is Lila Downs\. The essential tracks, all in one playlist.
+> This Is Lila Downs\. Los temas esenciales, todos en una lista.
 
-59 songs - 3 hr 38 min
+60 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 | 2023-12-18 |  |
 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 | 2023-12-18 |  |
 | [Cuando Me Tocas Tú](https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:35 | 2023-12-18 |  |
-| [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 | 2024-03-10 |  |
+| [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 | 2024-03-10 | 2024-05-10 |
 | [Dios Nunca Muere](https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:55 | 2023-12-18 |  |
 | [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 | 2023-12-18 |  |
 | [El Listón de Tu Pelo](https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:34 | 2023-12-18 |  |
@@ -30,6 +30,7 @@
 | [La Campanera](https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:28 | 2023-12-18 |  |
 | [La Cigarra](https://open.spotify.com/track/6AvVOWpkcjSQQ11jB6BFQH) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:52 | 2023-12-18 |  |
 | [La Cumbia Del Mole](https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 4:10 | 2023-12-18 |  |
+| [La Iguana](https://open.spotify.com/track/34MA1n8MbEgeN1oj4VoIgk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Tree Of Life](https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU) | 3:05 | 2024-05-10 |  |
 | [La Llorona](https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Mariachi Juvenil de Tecalitlán](https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 2:20 | 2023-12-18 |  |
 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 | 2023-12-18 |  |
 | [La Raíz de Mi Tierra](https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 4:12 | 2023-12-18 |  |

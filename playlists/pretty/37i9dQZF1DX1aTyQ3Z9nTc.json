@@ -1,6 +1,6 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 134407,
+  "num_followers": 134426,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Whip It Up",
-        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 130959,
-      "name": "Whip It Up",
-      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Got Time For Me (with Channel Tres)",
         "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 179034,
       "name": "Got Time For Me (with Channel Tres)",
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Whip It Up",
+        "url": "https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 130959,
+      "name": "Whip It Up",
+      "url": "https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl"
     },
     {
       "added_at": "2024-03-01 08:07:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 229844,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 183773,
       "name": "$payforhaiti (feat. Mach-Hommy)",
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
-    },
-    {
       "added_at": "2024-03-01 08:07:41",
       "album": {
         "name": "Still",
@@ -975,6 +959,30 @@
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/19zJLd1gyUUKafQOsA47tR"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        }
+      ],
+      "duration_ms": 180104,
+      "name": "Gimme Dat",
+      "url": "https://open.spotify.com/track/63oMUXqcc9qUGlsgusAbe4"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1033,28 +1041,20 @@
       "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Gimme Dat",
-        "url": "https://open.spotify.com/album/19zJLd1gyUUKafQOsA47tR"
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
       },
       "artists": [
         {
-          "name": "RM47",
-          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
-        },
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        },
-        {
-          "name": "Raleigh",
-          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 180104,
-      "name": "Gimme Dat",
-      "url": "https://open.spotify.com/track/63oMUXqcc9qUGlsgusAbe4"
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Lover/Friend",
-        "url": "https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Lover/Friend",
-      "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -1263,18 +1243,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 129220,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1295,18 +1279,38 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa"
       },
       "artists": [
         {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
+      "duration_ms": 129220,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/5Y8LjJ9Riiw8i5d6D06fYS"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "There Is A Light",
+        "url": "https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Zak Leever",
+          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "There Is A Light",
+      "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "There Is A Light",
-        "url": "https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81"
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Zak Leever",
-          "url": "https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU"
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
         }
       ],
-      "duration_ms": 181875,
-      "name": "There Is A Light",
-      "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "crave you",
-        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
-      },
-      "artists": [
-        {
-          "name": "sagun",
-          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
-        },
-        {
-          "name": "KALLITECHNIS",
-          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
-        }
-      ],
-      "duration_ms": 160863,
-      "name": "crave you",
-      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Strawberry Perfume",
         "url": "https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 162724,
       "name": "Strawberry Perfume (feat. Essosa)",
       "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "crave you",
+        "url": "https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq"
+      },
+      "artists": [
+        {
+          "name": "sagun",
+          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+        },
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 160863,
+      "name": "crave you",
+      "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "90s (Remix)",
         "url": "https://open.spotify.com/album/0241uDx21SHRh0BJK0auir"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-12-08 05:00:00",

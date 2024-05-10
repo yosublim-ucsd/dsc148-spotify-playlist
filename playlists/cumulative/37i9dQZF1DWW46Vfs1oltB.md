@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: JJJ, BLASÉ, Bonbero\)
 
-1,204 songs - 2 day 17 hr 30 min
+1,205 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 | 2022-10-04 | 2023-03-28 |
 | [Shhh \(Feat.Leellamarz\) \(Prod.GRAY\)](https://open.spotify.com/track/0x3WxddWUurD9VTkgcFt9a) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MUSE](https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y) | 3:29 | 2022-08-12 | 2022-12-10 |
 | [Shocking Asia \(feat\. Don Malik, EK, Keem Hyo\-Eun, Chillin homie, BLACK NINE, maddoaeji\)](https://open.spotify.com/track/6JiuTCaIiH1D6BTelsPthU) | [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG), [IGNITO](https://open.spotify.com/artist/3NShmrwsQDkrBtFPM8tan6), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [BLACK NINE](https://open.spotify.com/artist/1ADmxFIIuFl44lr14SZLoI), [Maddoaeji](https://open.spotify.com/artist/2VcvM8f9t69u1QoS4TdwMv) | [Shocking Asia](https://open.spotify.com/album/36I3dhPOdV8C9ZX5Sf51bl) | 3:59 | 2022-05-28 | 2022-06-14 |
+| [SHOOT](https://open.spotify.com/track/5TWjs4p7y3mhtkL7Ptbj2S) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Chaos](https://open.spotify.com/album/6kS7S0XmBTBnMgrf9sXXD2) | 3:50 | 2024-05-09 |  |
 | [SHOW YOU CAN \(Prod\. Czaer, JAKOPS\)](https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi) | [MAYA](https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR), [COCONA](https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf), [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:14 | 2023-08-29 | 2023-11-04 |
 | [SHOWDOWN \(Feat\. lIlBOI\)](https://open.spotify.com/track/3lH41KJxd4mFvTNzndIrNU) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Spray](https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [SHOWDOWN](https://open.spotify.com/album/6iL3BXzjlcZwWnFwbgAABj) | 2:40 | 2022-04-08 | 2022-07-08 |
 | [Shower Song](https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 3:19 | 2024-01-23 | 2024-05-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boy Spyce",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: JayO",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
@@ -1044,6 +1044,28 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "album": {
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 129576,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
@@ -4168,7 +4190,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
@@ -5518,7 +5540,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208080,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/2UN6otFw9o9vHvzc4YrYZC"
@@ -6316,6 +6338,28 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "album": {
@@ -7348,7 +7392,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 141000,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/4VqmxWZGBRnWk810ttwDtT"
@@ -8640,6 +8684,32 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "album": {
+        "name": "Reset (feat. Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163271,
+      "name": "Reset (feat. Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
     },
     {
       "album": {

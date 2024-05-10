@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Cupnoodle",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: yedira",
   "name": "mood.",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
@@ -3053,6 +3053,28 @@
     },
     {
       "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/5kLT5TLlHjysbOgAeG91aS"
+      },
+      "artists": [
+        {
+          "name": "eda",
+          "url": "https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI"
+        },
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Enchant\u00e9",
+      "url": "https://open.spotify.com/track/4bOR3z1RoskmyhuZDDQRWc"
+    },
+    {
+      "album": {
         "name": "End of the Night",
         "url": "https://open.spotify.com/album/7lylPOUHBlKJaNHJdxe7To"
       },
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 208687,
       "name": "EX",
       "url": "https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u"
@@ -3266,7 +3288,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
@@ -4443,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Got Supplies",
+        "url": "https://open.spotify.com/album/5h9erL2PIwzE1GdBU6Dio5"
+      },
+      "artists": [
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238335,
+      "name": "Got Supplies",
+      "url": "https://open.spotify.com/track/6ftLZGmVzydIlM9NNcBEEe"
+    },
+    {
+      "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
@@ -5298,6 +5338,24 @@
       "duration_ms": 170819,
       "name": "i hate u owe me $$",
       "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH"
     },
     {
       "album": {
@@ -8127,6 +8185,28 @@
     },
     {
       "album": {
+        "name": "not a crush",
+        "url": "https://open.spotify.com/album/1dYOFqhWzFU7Zdtr001FHB"
+      },
+      "artists": [
+        {
+          "name": "gels",
+          "url": "https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf"
+        },
+        {
+          "name": "cloud nyla",
+          "url": "https://open.spotify.com/artist/629WSHXuR88ZyYf7DV9l9G"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "not a crush",
+      "url": "https://open.spotify.com/track/6v20KcbzBYY9faHghXk2O1"
+    },
+    {
+      "album": {
         "name": "Not an Ordinary Fairytale (feat. MUREI)",
         "url": "https://open.spotify.com/album/4KzdsnXW3hIeOsLQypcd1o"
       },
@@ -10430,7 +10510,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 199385,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN"
@@ -10786,7 +10866,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 218000,
       "name": "STAY WITH ME",
       "url": "https://open.spotify.com/track/2UXtntl8l1yFpR3O24gRxx"
@@ -11390,6 +11470,32 @@
       "duration_ms": 244650,
       "name": "Tell It To My Face",
       "url": "https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4"
+    },
+    {
+      "album": {
+        "name": "TELL ME WHY",
+        "url": "https://open.spotify.com/album/48KE0SmdrcNYgW4h8rp9Bw"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169726,
+      "name": "TELL ME WHY",
+      "url": "https://open.spotify.com/track/7f8xEWiRoJUyq4aBdCMVMS"
     },
     {
       "album": {

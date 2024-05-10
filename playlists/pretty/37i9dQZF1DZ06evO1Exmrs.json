@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 239292,
+  "num_followers": 239618,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABTTA3DhhXEV/ioHVrzjqGj",
+  "snapshot_id": "ZjrAgAAAAAAmlnwQdTc04Ex6EVHOkdDA",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 232618,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
+      "duration_ms": 223400,
+      "name": "False Confidence",
+      "url": "https://open.spotify.com/track/7nDFTHHwfe32a8qdp9XqPy"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -226,27 +242,15 @@
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "False Confidence",
-      "url": "https://open.spotify.com/track/7nDFTHHwfe32a8qdp9XqPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
+        },
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 196201,
-      "name": "Glue Myself Shut",
-      "url": "https://open.spotify.com/track/67q8yivDoOPXCYodi1zTix"
+      "duration_ms": 167106,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"
     },
     {
       "added_at": null,
@@ -283,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
       },
       "artists": [
         {
@@ -292,19 +296,19 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         },
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 167106,
-      "name": "Hurt Somebody",
-      "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"
+      "duration_ms": 217873,
+      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
@@ -312,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
+      "duration_ms": 208533,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5"
     },
     {
       "added_at": null,
@@ -351,24 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP"
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
       "artists": [
         {
@@ -376,13 +364,29 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         },
         {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 217873,
-      "name": "If We Were Vampires (feat. Wesley Schultz) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6"
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "A Troubled Mind",
+      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
     },
     {
       "added_at": null,
@@ -428,45 +432,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cape Elizabeth",
-        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "A Troubled Mind",
-      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": null,
@@ -483,22 +451,6 @@
       "duration_ms": 200613,
       "name": "Young Blood - Acoustic",
       "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": null,
@@ -551,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
@@ -560,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn"
+      "duration_ms": 208493,
+      "name": "Cynic",
+      "url": "https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83"
     },
     {
       "added_at": null,
@@ -599,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Cynic",
-      "url": "https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazier Things",
         "url": "https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7"
       },
@@ -635,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 187172,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0TpXkiohXTxYoeRIrkJLD1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -651,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
@@ -660,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 187172,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0TpXkiohXTxYoeRIrkJLD1"
+      "duration_ms": 214426,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/2DPI5lHpb0wmjaL222fPdF"
     },
     {
       "added_at": null,
@@ -687,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
       "artists": [
         {
@@ -696,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Catastrophize",
-      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
+      "duration_ms": 235690,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/1wPedbbr9AS2hs6MG9JN0z"
     },
     {
       "added_at": null,
@@ -719,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
       },
       "artists": [
         {
@@ -728,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 235690,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/1wPedbbr9AS2hs6MG9JN0z"
+      "duration_ms": 198293,
+      "name": "Catastrophize",
+      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
     },
     {
       "added_at": null,
@@ -747,38 +699,6 @@
       "duration_ms": 196800,
       "name": "Hold It Down",
       "url": "https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S"
     },
     {
       "added_at": null,
@@ -815,6 +735,38 @@
       "duration_ms": 179013,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 766585,
+  "num_followers": 766723,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-08 03:00:00",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 166337,
-      "name": "Pique Djavan - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
-    },
-    {
-      "added_at": "2024-05-08 03:00:00",
-      "album": {
         "name": "V\u00e1rias Queixas",
         "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 178718,
       "name": "Coisa Linda",
       "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
+    },
+    {
+      "added_at": "2024-05-08 03:00:00",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "added_at": "2024-05-08 03:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-05-08 03:00:00",
       "album": {
-        "name": "ME PERCO",
-        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
-      },
-      "artists": [
-        {
-          "name": "uma P\u00f3voas",
-          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
-        },
-        {
-          "name": "Filipe Freire",
-          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "ME PERCO",
-      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
-    },
-    {
-      "added_at": "2024-05-08 03:00:00",
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 240117,
       "name": "Alma G\u00eamea",
       "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+    },
+    {
+      "added_at": "2024-05-08 03:00:00",
+      "album": {
+        "name": "ME PERCO",
+        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
+      },
+      "artists": [
+        {
+          "name": "uma P\u00f3voas",
+          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
+        },
+        {
+          "name": "Filipe Freire",
+          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
+        }
+      ],
+      "duration_ms": 200318,
+      "name": "ME PERCO",
+      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
     },
     {
       "added_at": "2024-05-08 03:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-05-08 03:00:00",
       "album": {
-        "name": "Alian\u00e7a",
-        "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
-    },
-    {
-      "added_at": "2024-05-08 03:00:00",
-      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 195000,
       "name": "Proibida Pra Mim",
       "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
+    },
+    {
+      "added_at": "2024-05-08 03:00:00",
+      "album": {
+        "name": "Alian\u00e7a",
+        "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
     },
     {
       "added_at": "2024-05-08 03:00:00",

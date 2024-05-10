@@ -2,9 +2,9 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe está acá\. Foto: Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea.
+> Si la rompe está acá\. Foto: Feid.
 
-396 songs - 20 hr 46 min
+397 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-23 | 2023-06-23 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-06 | 2022-07-08 |
 | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/track/79d6fVzRM6DRYxR302AJFY) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/album/0WRR7nTtUtQXKe8kpQHGvn) | 2:21 | 2022-12-15 | 2023-01-27 |
-| [Muñecas](https://open.spotify.com/track/6LH7FdWPmuPphhCQfPkiwq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 2:14 | 2024-05-02 |  |
+| [Muñecas](https://open.spotify.com/track/6LH7FdWPmuPphhCQfPkiwq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 2:14 | 2024-05-02 | 2024-05-10 |
 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 | 2023-01-12 | 2023-07-07 |
 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2022-06-30 | 2022-11-11 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-05-03 |
@@ -392,6 +392,7 @@
 | [X ESO BB](https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [X ESO BB](https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu) | 3:13 | 2023-08-17 | 2023-10-05 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-31 | 2022-06-17 |
 | [Y TE VAS](https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:28 | 2024-02-02 | 2024-03-23 |
+| [YA NI YO ME ENTIENDO](https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [RADIO CLUB HITS](https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq) | 2:10 | 2024-05-09 |  |
 | [Ya No Llora](https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Ya No Llora](https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS) | 2:00 | 2021-12-31 | 2022-03-11 |
 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 | 2022-11-10 | 2023-03-18 |
 | [Ya No Vuelvas](https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS) | 2:24 | 2022-08-18 | 2022-10-21 |

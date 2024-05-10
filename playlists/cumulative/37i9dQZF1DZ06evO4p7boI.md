@@ -2,7 +2,7 @@
 
 ### [This Is NAV](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4p7boI)
 
-> This is NAV\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is NAV\. The essential tracks, all in one playlist.
 
 53 songs - 2 hr 45 min
 

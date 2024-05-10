@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Shaka Ponk au top des meilleurs morceaux rock du moment.",
+  "description": "The Smashing Pumpkins au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "...Baby One More Time (from Kung Fu Panda 4)",
+        "url": "https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP"
+    },
     {
       "album": {
         "name": "999",
@@ -74,6 +92,24 @@
       "duration_ms": 164534,
       "name": "Allo docteur",
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6Amqo835TnuSYSnSEqHdx1"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256137,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7v80vLTX2QWEdfdafFTj4u"
     },
     {
       "album": {
@@ -1430,7 +1466,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
@@ -3202,7 +3238,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
@@ -3246,6 +3282,24 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/7JZphv3s2oDlaW6bl7PCdo"
+      },
+      "artists": [
+        {
+          "name": "KO KO MO",
+          "url": "https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149411,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA"

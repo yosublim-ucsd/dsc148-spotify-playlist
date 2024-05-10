@@ -4,13 +4,15 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-72 songs - 9 hr 37 min
+74 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Things Are Possible \(Live\)](https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [All Things Are Possible \(Live\)](https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S) | 4:30 | 2024-04-12 |  |
+| [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 | 2024-05-10 |  |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 |  |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2024-02-23 |  |
+| [Bambelela \(Live\)](https://open.spotify.com/track/3eyBfIEYWgMk1iEShi8BW2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Legendary In His Presence 2 \(Live\)](https://open.spotify.com/album/3KZbqrfhkl3ljwelGQRRKS) | 7:19 | 2024-05-10 |  |
 | [Basuka/Ulungile \- Live](https://open.spotify.com/track/7Mz3ME939WZdk6I9ujBZuK) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [According to Grace](https://open.spotify.com/album/3WnBX1G2KGXiIkb970IyYm) | 4:54 | 2024-02-23 |  |
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2024-02-23 |  |
 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 | 2024-02-23 |  |

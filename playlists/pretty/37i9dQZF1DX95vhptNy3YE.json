@@ -1,10 +1,10 @@
 {
   "description": "Tz da Coronel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 339845,
+  "num_followers": 339961,
   "original_name": "AMPLIFIKA",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZjoxLQAAAABYq1+7zI7fKddscaKWNZet",
   "tracks": [
@@ -755,30 +755,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "LISBOA",
-          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
-        }
-      ],
-      "duration_ms": 209141,
-      "name": "da lua",
-      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
         "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 385357,
       "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
       "url": "https://open.spotify.com/track/3Q36LH3rlABCEt4JMLbD8p"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "LISBOA",
+          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
+        }
+      ],
+      "duration_ms": 209141,
+      "name": "da lua",
+      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150851,
-      "name": "Baile Charme - Ao Vivo",
-      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 451284,
       "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
     },
     {
       "added_at": "2024-05-03 03:01:00",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     }
   ],
   "unique_name": "AMPLIFIKA",

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 337724,
+  "num_followers": 337864,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
         }
       ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -775,6 +771,26 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Walked In The Room",
         "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -843,22 +843,6 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "i can't go outside",
-        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 248764,
-      "name": "fuego (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "i can't go outside",
+        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 248764,
+      "name": "fuego (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-04-04 15:22:42",

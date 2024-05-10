@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Lovin U",
+        "url": "https://open.spotify.com/album/6ZRxZKTjqrBd4GXeyzPeKj"
+      },
+      "artists": [
+        {
+          "name": "NOISES",
+          "url": "https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243886,
+      "name": "Lovin U",
+      "url": "https://open.spotify.com/track/2N6uw9GNlh19AzqKo35R0q"
+    },
+    {
+      "album": {
         "name": "LSDP",
         "url": "https://open.spotify.com/album/5hyAsGuY5huSDHjA5rLqqJ"
       },

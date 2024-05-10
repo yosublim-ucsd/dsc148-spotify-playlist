@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
-  "num_followers": 1591803,
+  "num_followers": 1591835,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,26 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
+        "name": "Slant Face Killah",
+        "url": "https://open.spotify.com/album/2If4aVsZl3y3bzPT4lcvPh"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 416504,
+      "name": "The Red Moon In Osaka (feat. Raekwon)",
+      "url": "https://open.spotify.com/track/0q2wkUkaCy9tM9QzPVt97f"
+    },
+    {
+      "added_at": "2024-05-05 15:49:29",
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -139,6 +159,26 @@
       "duration_ms": 216046,
       "name": "Imported Couches",
       "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
+    },
+    {
+      "added_at": "2024-05-05 15:49:29",
+      "album": {
+        "name": "Slant Face Killah",
+        "url": "https://open.spotify.com/album/2If4aVsZl3y3bzPT4lcvPh"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 328430,
+      "name": "Mutty (feat. Stove God Cooks)",
+      "url": "https://open.spotify.com/track/1kMr1X2SBTV6KTmlIf4psb"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -619,18 +659,22 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
       },
       "artists": [
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+      "duration_ms": 190067,
+      "name": "Never Die (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -651,22 +695,18 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 190067,
-      "name": "Never Die (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -723,6 +763,30 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
+        "name": "REEKYOD",
+        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "REEKYOD",
+      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
+    },
+    {
+      "added_at": "2024-05-05 15:49:29",
+      "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
       },
@@ -739,30 +803,6 @@
       "duration_ms": 155169,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
-    },
-    {
-      "added_at": "2024-05-05 15:49:29",
-      "album": {
-        "name": "Giants Of The Fall",
-        "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
-      },
-      "artists": [
-        {
-          "name": "Guilty Simpson",
-          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Kong The Artisan",
-          "url": "https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Giants Of The Fall",
-      "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -799,26 +839,26 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
-        "name": "REEKYOD",
-        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+        "name": "Giants Of The Fall",
+        "url": "https://open.spotify.com/album/0Je2clWtq4qMFi00s0bGpH"
       },
       "artists": [
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Guilty Simpson",
+          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "Kong The Artisan",
+          "url": "https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE"
         }
       ],
-      "duration_ms": 156035,
-      "name": "REEKYOD",
-      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
+      "duration_ms": 181196,
+      "name": "Giants Of The Fall",
+      "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -863,6 +903,22 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2024-05-05 15:49:29",
+      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
       },
@@ -879,18 +935,22 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2024-05-05 15:49:29",
@@ -919,42 +979,18 @@
     {
       "added_at": "2024-05-05 15:49:29",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
         }
       ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-05-05 15:49:29",
-      "album": {
-        "name": "Blowfly (with Ab-Soul)",
-        "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
-      },
-      "artists": [
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 166238,
-      "name": "Blowfly (with Ab-Soul)",
-      "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
     }
   ],
   "unique_name": "Spilled Ink",

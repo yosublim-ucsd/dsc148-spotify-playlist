@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
-  "num_followers": 28320,
+  "num_followers": 28325,
   "original_name": "Top Latin Classical",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Ginastera: Complete Piano and Organ Music",
+        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Fernando Viani",
+          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
+      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Tango Argentino",
         "url": "https://open.spotify.com/album/7k3Be60SfV2ChEsOiznbgt"
       },
@@ -91,22 +111,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Ginastera: Complete Piano and Organ Music",
-        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
+        "name": "Morel: Guitar Music",
+        "url": "https://open.spotify.com/album/7srTjOmI697KQBqT9NOwiP"
       },
       "artists": [
         {
-          "name": "Alberto Ginastera",
-          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+          "name": "Jorge Morel",
+          "url": "https://open.spotify.com/artist/3PCmED1ckvLHpYTJ8VuX7N"
         },
         {
-          "name": "Fernando Viani",
-          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
+          "name": "Celil Refik Kaya",
+          "url": "https://open.spotify.com/artist/6LMRNEtnVqJYsGaT4xJ6zr"
         }
       ],
-      "duration_ms": 116760,
-      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
-      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
+      "duration_ms": 159186,
+      "name": "Danza Brasilera",
+      "url": "https://open.spotify.com/track/35yuAaaJb2EMgSSD5Q8ou6"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -131,26 +151,6 @@
       "duration_ms": 266386,
       "name": "Bachianas brasileiras No. 2, \"O trenzinho do Caipira\": IV. Toccata: O trenzinho do Caipira (The Peasant\u2019s Little Train)",
       "url": "https://open.spotify.com/track/5Swnw3xi06SkYEz7bF559s"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Morel: Guitar Music",
-        "url": "https://open.spotify.com/album/7srTjOmI697KQBqT9NOwiP"
-      },
-      "artists": [
-        {
-          "name": "Jorge Morel",
-          "url": "https://open.spotify.com/artist/3PCmED1ckvLHpYTJ8VuX7N"
-        },
-        {
-          "name": "Celil Refik Kaya",
-          "url": "https://open.spotify.com/artist/6LMRNEtnVqJYsGaT4xJ6zr"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "Danza Brasilera",
-      "url": "https://open.spotify.com/track/35yuAaaJb2EMgSSD5Q8ou6"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Brasileira: Piano Music by Brazilian Women",
-        "url": "https://open.spotify.com/album/3TIRZQoyWBzft19az195vq"
-      },
-      "artists": [
-        {
-          "name": "Chiquinha Gonzaga",
-          "url": "https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX"
-        },
-        {
-          "name": "Luciana Soares",
-          "url": "https://open.spotify.com/artist/3AropKCRrGYNAarxwUMQNv"
-        }
-      ],
-      "duration_ms": 132586,
-      "name": "Corta-Jaca",
-      "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Guitar Music Of Argentina, Vol. 1",
         "url": "https://open.spotify.com/album/31R0ygvpxn3FezwK0eaaS2"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 146800,
       "name": "3 Piezas: Chacarera Ututa",
       "url": "https://open.spotify.com/track/7dYaj0LEC7ok3OZ48rvKSw"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Brasileira: Piano Music by Brazilian Women",
+        "url": "https://open.spotify.com/album/3TIRZQoyWBzft19az195vq"
+      },
+      "artists": [
+        {
+          "name": "Chiquinha Gonzaga",
+          "url": "https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX"
+        },
+        {
+          "name": "Luciana Soares",
+          "url": "https://open.spotify.com/artist/3AropKCRrGYNAarxwUMQNv"
+        }
+      ],
+      "duration_ms": 132586,
+      "name": "Corta-Jaca",
+      "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -719,6 +719,30 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Live from the Lugano Festival 2005",
+        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Mauricio Vallina",
+          "url": "https://open.spotify.com/artist/3Og0FarfCWouaKbcEbZaiv"
+        }
+      ],
+      "duration_ms": 316480,
+      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
+      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Carlos Gardel: 15 Tangos, Garello",
         "url": "https://open.spotify.com/album/60C2tlWKI4oo9sDn2yPsUN"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 228600,
       "name": "Gardel: Por una cabeza",
       "url": "https://open.spotify.com/track/1Q0tSZgzOurosLtZ1r6PrU"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Live from the Lugano Festival 2005",
-        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guastavino",
-          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Mauricio Vallina",
-          "url": "https://open.spotify.com/artist/3Og0FarfCWouaKbcEbZaiv"
-        }
-      ],
-      "duration_ms": 316480,
-      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
-      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "M\u00e9xico Entre 2 Siglos",
-        "url": "https://open.spotify.com/album/45qN2aXLpGlopIQc0pLMfS"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Castro",
-          "url": "https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq"
-        },
-        {
-          "name": "Edison Quintana",
-          "url": "https://open.spotify.com/artist/61A6vG5zAQYC4QdLjAiwnK"
-        }
-      ],
-      "duration_ms": 420786,
-      "name": "Vals Capricho, Op. 1",
-      "url": "https://open.spotify.com/track/37YQGJU1QX0wuCpmWaZB2J"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 438767,
       "name": "Barroso: Brazil",
       "url": "https://open.spotify.com/track/1tNjOJh2aWr3yW8IIWJqox"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "M\u00e9xico Entre 2 Siglos",
+        "url": "https://open.spotify.com/album/45qN2aXLpGlopIQc0pLMfS"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Castro",
+          "url": "https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq"
+        },
+        {
+          "name": "Edison Quintana",
+          "url": "https://open.spotify.com/artist/61A6vG5zAQYC4QdLjAiwnK"
+        }
+      ],
+      "duration_ms": 420786,
+      "name": "Vals Capricho, Op. 1",
+      "url": "https://open.spotify.com/track/37YQGJU1QX0wuCpmWaZB2J"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Argentina Piano",
+        "url": "https://open.spotify.com/album/54xg2Y3TMqkwsFqJ1Csm3b"
+      },
+      "artists": [
+        {
+          "name": "Alberto Williams",
+          "url": "https://open.spotify.com/artist/11kKasV6eRUQnuIouit02q"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 271752,
+      "name": "El rancho abandonado, Op. 32, No. 4",
+      "url": "https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Argentina Piano",
-        "url": "https://open.spotify.com/album/54xg2Y3TMqkwsFqJ1Csm3b"
-      },
-      "artists": [
-        {
-          "name": "Alberto Williams",
-          "url": "https://open.spotify.com/artist/11kKasV6eRUQnuIouit02q"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 271752,
-      "name": "El rancho abandonado, Op. 32, No. 4",
-      "url": "https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Sentimiento Ranchero",
         "url": "https://open.spotify.com/album/55q4wxjAlDOfIBppwGlflW"
       },
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Guitar Recital: Jason Vieaux",
-        "url": "https://open.spotify.com/album/4WwQItjmCffbIOUqns8bks"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Orb\u00f3n",
-          "url": "https://open.spotify.com/artist/0Ry6CUEMeK7lj5Lg7BR7fi"
-        },
-        {
-          "name": "Jason Vieaux",
-          "url": "https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Prelude y danza: Preludio",
-      "url": "https://open.spotify.com/track/2OvSYg8amvrwYVNteLWpej"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 975706,
       "name": "Santa Cruz de Pacairigua (Suite Sinf\u00f3nica) - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/3dI5CEoPnGbiInVQaQrKVu"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Guitar Recital: Jason Vieaux",
+        "url": "https://open.spotify.com/album/4WwQItjmCffbIOUqns8bks"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Orb\u00f3n",
+          "url": "https://open.spotify.com/artist/0Ry6CUEMeK7lj5Lg7BR7fi"
+        },
+        {
+          "name": "Jason Vieaux",
+          "url": "https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Prelude y danza: Preludio",
+      "url": "https://open.spotify.com/track/2OvSYg8amvrwYVNteLWpej"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Grandes Maestros Mexicanos: Candelario Huizar",
+        "url": "https://open.spotify.com/album/3AD77RljuYXN29ZPTRRSDH"
+      },
+      "artists": [
+        {
+          "name": "Candelario Hu\u00edzar",
+          "url": "https://open.spotify.com/artist/00O1XDcgr6bCAhl5JcubDY"
+        },
+        {
+          "name": "Sergio Cardenas",
+          "url": "https://open.spotify.com/artist/26Pr3iRXLvaoOiGY6NCI5J"
+        }
+      ],
+      "duration_ms": 962146,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/5GDGwSQ7f0rYxAvAI0PjN7"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 481000,
       "name": "Mediodia en el Llano - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/5YiZCSzpxQNJ3yeQIu1EHf"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Grandes Maestros Mexicanos: Candelario Huizar",
-        "url": "https://open.spotify.com/album/3AD77RljuYXN29ZPTRRSDH"
-      },
-      "artists": [
-        {
-          "name": "Candelario Hu\u00edzar",
-          "url": "https://open.spotify.com/artist/00O1XDcgr6bCAhl5JcubDY"
-        },
-        {
-          "name": "Sergio Cardenas",
-          "url": "https://open.spotify.com/artist/26Pr3iRXLvaoOiGY6NCI5J"
-        }
-      ],
-      "duration_ms": 962146,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/5GDGwSQ7f0rYxAvAI0PjN7"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2243,22 +2243,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Blasco De Nebra, M.: Keyboard Sonatas (Complete), Vol. 2",
-        "url": "https://open.spotify.com/album/4xuOiq1MBWRiG5C3K1FWvu"
+        "name": "Halffter: The Piano Music",
+        "url": "https://open.spotify.com/album/3oW4OZtZ6IAoL7iAPDRJKl"
       },
       "artists": [
         {
-          "name": "Manuel Blasco De Nebra",
-          "url": "https://open.spotify.com/artist/495buBftye46UuGTkkqu4X"
+          "name": "Ernesto Halffter",
+          "url": "https://open.spotify.com/artist/2haoq62QRffBi42wBW8hWn"
         },
         {
-          "name": "Pedro Casals",
-          "url": "https://open.spotify.com/artist/3D5bIQct6gfmEmg9Eb0yxh"
+          "name": "Martin Jones",
+          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
         }
       ],
-      "duration_ms": 341360,
-      "name": "Keyboard Sonata No. 10 in C Major (Montserrat Abbey Archive manuscript): I. Adagio",
-      "url": "https://open.spotify.com/track/5LcOU6JfDLvordhGUMt5rS"
+      "duration_ms": 279480,
+      "name": "Espagnolade",
+      "url": "https://open.spotify.com/track/0wtiWEIBnb7yj0JelYDLL9"
     }
   ],
   "unique_name": "Top Latin Classical",

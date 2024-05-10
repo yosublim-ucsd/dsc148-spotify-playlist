@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,730 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,881 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 2 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 3 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 |
 | 4 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 |
-| 5 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
+| 5 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
 | 6 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 |
-| 7 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 |
+| 7 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 8 | [Oogum Boogum Song](https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 3:06 |
 | 9 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 10 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 37 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
 | 38 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 39 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
-| 40 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 41 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
+| 40 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
+| 41 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 42 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
 | 43 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 44 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 54 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
 | 55 | [Do You Love](https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Do You Love](https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7) | 4:30 |
 | 56 | [One Summer Night](https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4) | [The Danleers](https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv) | [Presenting The Danleers](https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R) | 2:13 |
-| 57 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
-| 58 | [I Do Love You](https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:57 |
+| 57 | [I Do Love You](https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:57 |
+| 58 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
 | 59 | [On A Sunday Afternoon](https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2) | [Frost Presents...Raza Radio](https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj) | 3:32 |
 | 60 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:39 |
 | 61 | [Eighteen With A Bullet](https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz) | [Pete Wingfield](https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb) | [Breakfast Special](https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb) | 3:31 |

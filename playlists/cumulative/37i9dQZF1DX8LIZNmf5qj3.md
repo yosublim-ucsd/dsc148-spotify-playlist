@@ -2,9 +2,9 @@
 
 ### [Douces Vibes](https://open.spotify.com/playlist/37i9dQZF1DX8LIZNmf5qj3)
 
-> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Normani
+> Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Coco Jones
 
-365 songs - 19 hr 57 min
+367 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,12 +53,13 @@
 | [CALYPSO](https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [CALYPSO](https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO) | 3:08 | 2024-04-04 |  |
 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 | 2023-11-17 | 2024-01-19 |
 | [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-04-04 | 2024-05-03 |
+| [career day](https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:19 | 2024-05-09 |  |
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-19 | 2023-07-21 |
 | [Celebrate](https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1) | 3:13 | 2023-01-12 | 2023-03-03 |
 | [Certainty Of Life](https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Certainty Of Life](https://open.spotify.com/album/0B1fNP1D29XkjFIyr5c1xB) | 2:39 | 2024-03-07 | 2024-05-03 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-11 |  |
 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 | 2023-05-11 | 2023-06-16 |
-| [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-11 |  |
+| [Chasing](https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Chasing](https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07) | 2:29 | 2024-04-11 | 2024-05-10 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-01 | 2024-04-05 |
 | [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 | 2023-09-15 | 2024-03-01 |
 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 | 2023-02-09 | 2023-05-20 |
@@ -165,6 +166,7 @@
 | [Last Day of Summer](https://open.spotify.com/track/1ba6Ft2EsrsR7JamTjVzNt) | [Deville](https://open.spotify.com/artist/1zqU2C8LQDF0HpZTJoCHaY), [LaBlue](https://open.spotify.com/artist/5nXiyzDKCjXgGXvkqRvdIt) | [Last Day of Summer](https://open.spotify.com/album/5FiILIrYvbJaqdaYt6ktLp) | 2:45 | 2023-09-21 | 2023-11-18 |
 | [Lately](https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:07 | 2023-09-28 | 2024-05-03 |
 | [Lava Lamp](https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crying in the Carwash](https://open.spotify.com/album/3NLGtBlKz64dChSLbLQqzV) | 3:00 | 2023-12-08 | 2024-02-09 |
+| [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2024-05-09 |  |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-04-07 |
 | [Let Me Go](https://open.spotify.com/track/7mcolOCCHAGVXB7rfyzIui) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Let Me Go](https://open.spotify.com/album/7d3Fk2tsXqf7EnvItNU0uB) | 3:11 | 2022-12-22 | 2023-02-17 |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-18 |  |
@@ -320,7 +322,7 @@
 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 | 2023-06-15 | 2023-09-16 |
 | [These Four Walls \- A COLORS SHOW](https://open.spotify.com/track/1rllCR1VL8FLZN5Q5yvW36) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [These Four Walls \(A COLORS SHOW\)](https://open.spotify.com/album/7Mi30XcnZKWzUCz4ikchvp) | 3:07 | 2023-06-08 | 2023-06-16 |
 | [Thinkin Bout You](https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Thinkin Bout You](https://open.spotify.com/album/3xKlRIOyVoZ7Adod9934TY) | 3:02 | 2023-07-06 | 2023-11-10 |
-| [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-15 |  |
+| [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-15 | 2024-05-10 |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-02-03 | 2023-04-14 |
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/0lpo9c5J9uOZqMsXEei1gV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [When I Hear Your Name](https://open.spotify.com/album/6owNWjSOZiMUKgGfRShwxN) | 4:18 | 2023-11-30 |  |
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-05-19 | 2023-07-28 |

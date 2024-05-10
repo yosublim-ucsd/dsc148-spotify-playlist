@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Green Montana
+> Le meilleur du rap français version cloud\. Photo : J9ueve
 
-378 songs - 18 hr 37 min
+379 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 | 2023-11-30 | 2023-12-30 |
 | [Drapeau Blanc](https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC) | [Kahra](https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi) | [Drapeau Blanc](https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X) | 2:58 | 2023-11-09 | 2023-12-15 |
-| [DREAM](https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ), [Friends & Family](https://open.spotify.com/artist/0wgFiE1UJa29Mo4TZHpHA1) | [DREAM](https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc) | 1:36 | 2024-02-08 |  |
+| [DREAM](https://open.spotify.com/track/4WbTmfPKimbUHgLsCeEFdH) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ), [Friends & Family](https://open.spotify.com/artist/0wgFiE1UJa29Mo4TZHpHA1) | [DREAM](https://open.spotify.com/album/33pQuNvu4WTZ5a4uYDiTYc) | 1:36 | 2024-02-08 | 2024-05-10 |
 | [Décoller](https://open.spotify.com/track/4FNp7K8k1WXNIfMZL4sV6r) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Désolé, d'être moi.](https://open.spotify.com/album/1nsFtCQo2jmjJBoRqYYlS6) | 2:47 | 2024-02-22 |  |
 | [EAU DE ROSE](https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [EAU DE ROSE](https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY) | 2:22 | 2023-01-19 | 2023-04-07 |
 | [ELEMENT](https://open.spotify.com/track/6e82ytBlz3s2RRnPzXgg9D) | [zaky](https://open.spotify.com/artist/1OGnylVl0ivlAICNOVaJQp) | [ELEMENT](https://open.spotify.com/album/53izZ5ctHfOq87JPDKglhj) | 2:20 | 2024-01-18 | 2024-02-23 |
@@ -229,6 +229,7 @@
 | [Makeup](https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Makeup](https://open.spotify.com/album/11ibFDueN32scqYIGwAX51) | 3:10 | 2023-12-08 | 2024-01-12 |
 | [MAL](https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [MAL](https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G) | 3:54 | 2023-10-26 | 2023-12-15 |
 | [Mal Aimé](https://open.spotify.com/track/7JKWCyRBCL6NhHI8QjzDS5) | [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Instinct / Mal Aimé](https://open.spotify.com/album/3i8Ck2pUhDAJhin9vfvzoK) | 3:15 | 2023-01-26 | 2023-04-07 |
+| [mamacita](https://open.spotify.com/track/1g5VHXH7aqUw9GunMpv3yY) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [Mamacita veut fly](https://open.spotify.com/album/0yC8aR0waLpz2UJBTptKbx) | 2:16 | 2024-05-09 |  |
 | [Mami \(feat\. Chily\)](https://open.spotify.com/track/6WEz8nj3m2CfFUidjIKamm) | [H\-LO](https://open.spotify.com/artist/0Jb7Eilus8BTQdmRVupCeV), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [PAS ENCORE UNE STAR](https://open.spotify.com/album/1xV4ofPWx0eeligHNeBGHc) | 3:14 | 2022-07-14 | 2022-08-26 |
 | [MANIFIC](https://open.spotify.com/track/7f6XGcLhUUKyqOdYTAojWf) | [Lapostroz](https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj) | [NOCTURNE Pt\. 1](https://open.spotify.com/album/43vvMCkTc3trOqOv5irP9b) | 2:16 | 2024-03-07 |  |
 | [MARK LANDERS](https://open.spotify.com/track/0Ob5R4MJD5L4AfCke7cJVE) | [Lazer MMZ](https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD) | [MARK LANDERS](https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z) | 3:03 | 2023-01-12 | 2023-04-07 |

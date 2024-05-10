@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Rizky Febian, Mahalini ",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Yovie Widianto, Andmesh",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 193036,
       "name": "Asing",
       "url": "https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J"
+    },
+    {
+      "album": {
+        "name": "Bagaimana Kabarmu?",
+        "url": "https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265361,
+      "name": "Bagaimana Kabarmu?",
+      "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
     },
     {
       "album": {
@@ -288,6 +306,28 @@
       "duration_ms": 196299,
       "name": "Buang - Buang Waktu",
       "url": "https://open.spotify.com/track/3KosRTfZJFnErNBMF1ugua"
+    },
+    {
+      "album": {
+        "name": "Bukan Sebuah Rindu",
+        "url": "https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231978,
+      "name": "Bukan Sebuah Rindu",
+      "url": "https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp"
     },
     {
       "album": {
@@ -973,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Kehilanganmu",
+        "url": "https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233087,
+      "name": "Kehilanganmu",
+      "url": "https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x"
+    },
+    {
+      "album": {
         "name": "Keluarga (From\" Glenn Fredly The Movie\")",
         "url": "https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns"
       },
@@ -1010,6 +1068,24 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
+    },
+    {
+      "album": {
+        "name": "Kini Mereka Tahu",
+        "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284136,
+      "name": "Kini Mereka Tahu",
+      "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
     },
     {
       "album": {
@@ -1516,6 +1592,24 @@
       "duration_ms": 264939,
       "name": "Muak",
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
+    },
+    {
+      "album": {
+        "name": "Mundur Perlahan",
+        "url": "https://open.spotify.com/album/46JONawt8M57m28JCS7EtT"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258627,
+      "name": "Mundur Perlahan",
+      "url": "https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV"
     },
     {
       "album": {

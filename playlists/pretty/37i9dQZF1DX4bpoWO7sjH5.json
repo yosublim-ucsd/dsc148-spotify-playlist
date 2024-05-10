@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 35145,
+  "num_followers": 35144,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
+        "name": "A Mar\u00eda",
+        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
       },
       "artists": [
         {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 167025,
-      "name": "V I D A - (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ"
+      "duration_ms": 218493,
+      "name": "A Mar\u00eda",
+      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "A Mar\u00eda",
-        "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
         }
       ],
-      "duration_ms": 218493,
-      "name": "A Mar\u00eda",
-      "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
+      "duration_ms": 167025,
+      "name": "V I D A - (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
+        "name": "Pesebre",
+        "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
       },
       "artists": [
         {
-          "name": "Susy Gonzalez",
-          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
-      "duration_ms": 286454,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
+      "duration_ms": 337325,
+      "name": "Pesebre",
+      "url": "https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1063,42 +1059,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Pesebre",
-        "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
       },
       "artists": [
         {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 337325,
-      "name": "Pesebre",
-      "url": "https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Rey de Gloria",
-        "url": "https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB"
-      },
-      "artists": [
-        {
-          "name": "Dauny",
-          "url": "https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7"
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
         },
         {
-          "name": "Cindy Barrera",
-          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
-        },
-        {
-          "name": "Conexzion Directa",
-          "url": "https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN"
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 202674,
-      "name": "Rey de Gloria",
-      "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
+      "duration_ms": 286454,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1127,6 +1103,30 @@
       "duration_ms": 228150,
       "name": "Es Navidad (O Holy Night)",
       "url": "https://open.spotify.com/track/1RVCH1Vml52aqeZUuZPIr6"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Rey de Gloria",
+        "url": "https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB"
+      },
+      "artists": [
+        {
+          "name": "Dauny",
+          "url": "https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7"
+        },
+        {
+          "name": "Cindy Barrera",
+          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
+        },
+        {
+          "name": "Conexzion Directa",
+          "url": "https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN"
+        }
+      ],
+      "duration_ms": 202674,
+      "name": "Rey de Gloria",
+      "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad: El Proyecto de Paz",
-        "url": "https://open.spotify.com/album/1cKq1KpQfMR5T9dn3SNhkG"
+        "name": "Pa'que Mi Pueblo Cante",
+        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
         }
       ],
-      "duration_ms": 304986,
-      "name": "Se Oye Un Canto En Alta Esfera",
-      "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
+      "duration_ms": 209600,
+      "name": "V\u00edstete",
+      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Pa'que Mi Pueblo Cante",
-        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
+        "name": "Navidad: El Proyecto de Paz",
+        "url": "https://open.spotify.com/album/1cKq1KpQfMR5T9dn3SNhkG"
       },
       "artists": [
         {
-          "name": "Ren\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 209600,
-      "name": "V\u00edstete",
-      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
+      "duration_ms": 304986,
+      "name": "Se Oye Un Canto En Alta Esfera",
+      "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
+        "name": "El Ni\u00f1o Dios Travieso",
+        "url": "https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo"
       },
       "artists": [
         {
-          "name": "Riosquad",
-          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+      "duration_ms": 180010,
+      "name": "El Ni\u00f1o Dios Travieso",
+      "url": "https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "El Ni\u00f1o Dios Travieso",
-        "url": "https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo"
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
       },
       "artists": [
         {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+          "name": "Riosquad",
+          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
         }
       ],
-      "duration_ms": 180010,
-      "name": "El Ni\u00f1o Dios Travieso",
-      "url": "https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb"
+      "duration_ms": 228253,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
     },
     {
       "added_at": "2023-12-15 17:10:08",

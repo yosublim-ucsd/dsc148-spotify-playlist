@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "STREET ANTHEM / 7 DAYS",
+        "url": "https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "7 DAYS",
+      "url": "https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA"
+    },
+    {
+      "album": {
         "name": "7 in the Morning",
         "url": "https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 171000,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 186067,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
@@ -2172,6 +2190,40 @@
       "duration_ms": 162063,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/0lbVaIuvvZvK499elqT7uX"
+    },
+    {
+      "album": {
+        "name": "Butta My Bread (Remix)",
+        "url": "https://open.spotify.com/album/4qjPuetqk9jcCRbfPwjjQW"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242123,
+      "name": "Butta My Bread - Remix",
+      "url": "https://open.spotify.com/track/0iIdlQ3Ba3xvJKsQCVnD9c"
     },
     {
       "album": {
@@ -4518,7 +4570,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -4806,7 +4858,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 166158,
       "name": "Gbera",
       "url": "https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU"
@@ -5312,7 +5364,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 134547,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
@@ -6012,7 +6064,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
@@ -6489,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "Kila Siku",
+        "url": "https://open.spotify.com/album/2MZj8WpAJ8ZLYw98T9oqcL"
+      },
+      "artists": [
+        {
+          "name": "Theecember",
+          "url": "https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158277,
+      "name": "Kila Siku",
+      "url": "https://open.spotify.com/track/4a7yYyadSLU27qUsAWyqyl"
+    },
+    {
+      "album": {
         "name": "The More The Better",
         "url": "https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I"
       },
@@ -6846,6 +6916,24 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
     },
     {
       "album": {
@@ -7208,6 +7296,28 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "album": {
@@ -8140,7 +8250,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 154455,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
@@ -8718,6 +8828,40 @@
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "album": {
+        "name": "Off My Mind (feat. Bien and Moliy)",
+        "url": "https://open.spotify.com/album/4xPh4wkRpIrYY76XUwb4EU"
+      },
+      "artists": [
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255072,
+      "name": "Off My Mind (feat. Bien and Moliy)",
+      "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
     },
     {
       "album": {
@@ -10461,6 +10605,32 @@
     },
     {
       "album": {
+        "name": "Reset (feat. Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163271,
+      "name": "Reset (feat. Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU"
       },
@@ -11806,7 +11976,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 185739,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
@@ -13374,7 +13544,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 216000,
       "name": "You (Rum & Schnapp)",
       "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"

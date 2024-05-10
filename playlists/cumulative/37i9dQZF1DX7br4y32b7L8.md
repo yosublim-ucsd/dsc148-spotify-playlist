@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-454 songs - 23 hr 8 min
+455 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 | 2023-02-23 | 2023-05-02 |
 | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/track/2PPViwxoP2YtX3S2BUxTdj) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Banaan Meloen Kiwi & Citroen](https://open.spotify.com/album/5pNo8aSlYbMJf9Nb3VZ2os) | 2:55 | 2023-02-23 | 2023-11-10 |
 | [Banana](https://open.spotify.com/track/6IbHxN543uDJ31Y8wpiHgZ) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Banana](https://open.spotify.com/album/76cChFmTxUn0kQVX7Asimp) | 2:21 | 2023-07-10 | 2024-01-09 |
-| [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-03-06 | 2024-03-14 |
+| [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-03-06 |  |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2023-06-26 | 2023-07-11 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-10 | 2023-11-01 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-01 | 2023-07-14 |
@@ -347,6 +347,7 @@
 | [Rare flex](https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ) | [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R) | [Rare flex](https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj) | 1:48 | 2023-12-27 | 2024-04-09 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2023-06-12 | 2023-09-07 |
 | [Ride Or Die, Pt\. 2 \(with Villano Antillano & Tokischa\)](https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Ride Or Die, Pt\. 2](https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0) | 2:38 | 2024-04-25 |  |
+| [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-09 |  |
 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-05-18 | 2023-09-07 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-04-18 | 2023-06-27 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-02-23 | 2023-04-19 |

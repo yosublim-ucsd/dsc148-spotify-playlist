@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Satine Zaneta
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Ashira Zamita
 
-217 songs - 13 hr 57 min
+218 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Miniatur \- Korean Version](https://open.spotify.com/track/467o1Qh9ND8VeORTC0gNwW) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Miniatur \(Korean Version\)](https://open.spotify.com/album/4MJ0pbU4bbUkdBpN5D9zO0) | 3:10 | 2021-11-25 | 2022-03-25 |
 | [Miniatur \- Minimalist Version](https://open.spotify.com/track/2Cnmn4jARAPRocw9meEMQq) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Suara Kita, Cerita Kamu](https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0) | 3:09 | 2021-11-25 | 2022-03-25 |
 | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Kinder Bloomen](https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K) | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn) | 2:49 | 2023-04-13 | 2024-03-29 |
+| [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-05-10 |  |
 | [Nemu \- Live Ska Reggae](https://open.spotify.com/track/3yL8Qo6680rAmIeGmYDJsw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Nemu \(Live Ska Reggae\)](https://open.spotify.com/album/0TxeX8ZExdhiqzcy2VGKvN) | 5:33 | 2023-08-17 | 2024-03-29 |
 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 | 2023-06-01 | 2024-03-29 |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 | 2022-03-25 |

@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-201 songs - 12 hr 14 min
+202 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Be Wrong](https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:02 | 2024-01-04 |  |
 | [Big Colors](https://open.spotify.com/track/01E0hLWxNOd3EC87piQP3j) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4) | 3:07 | 2022-12-31 | 2024-01-02 |
 | [Big Colors](https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:07 | 2022-01-11 | 2022-12-08 |
+| [Black Sheets of Rain \- Live from Minneapolis, MN\. 2022.](https://open.spotify.com/track/3lYkwSZgN4hTk3wzx6FmNI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Achin' to Be \(Live from Minneapolis, MN\. 2022\)](https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j) | 4:44 | 2024-05-10 |  |
 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 | 2022-01-11 |  |
 | [Blizzard in the Room](https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 3:25 | 2024-01-04 |  |
 | [Blown Away](https://open.spotify.com/track/6QdnBJU53sUlhFX4SjaD7I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:59 | 2024-01-03 | 2024-01-28 |
@@ -175,7 +176,7 @@
 | [Take It Back](https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:07 | 2022-04-05 | 2023-01-13 |
 | [Talk Tonight](https://open.spotify.com/track/5swP7iGRHPoCPXwtZCHk71) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 3:37 | 2023-04-17 | 2023-07-16 |
 | [Tangled up in Blue](https://open.spotify.com/track/2JOqCLqtyB8M9yY32isEBD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 5:09 | 2023-02-11 | 2023-05-21 |
-| [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 |  |
+| [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 | 2022-05-16 | 2024-05-10 |
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 | 2023-12-26 |
 | [Theo Is Dreaming](https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 1:21 | 2023-01-17 | 2023-08-20 |

@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 83267,
+  "num_followers": 83282,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dos Gardenias",
-        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181024,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dos Gardenias",
+        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181024,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Se Va?",
         "url": "https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 187161,
       "name": "\u00bfQui\u00e9n Se Va?",
       "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
     },
     {
       "added_at": "2024-04-19 04:00:00",

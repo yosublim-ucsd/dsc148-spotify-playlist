@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Liv del Estal",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -312,6 +312,24 @@
       "duration_ms": 210080,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N"
+    },
+    {
+      "album": {
+        "name": "BITCH YOU COULD NEVER",
+        "url": "https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148206,
+      "name": "BITCH YOU COULD NEVER",
+      "url": "https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3"
     },
     {
       "album": {
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 212293,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY"

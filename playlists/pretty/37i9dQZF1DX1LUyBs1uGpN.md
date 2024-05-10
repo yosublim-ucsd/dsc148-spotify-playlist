@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LUyBs1uGpN.md) - [plain]
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,419 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,884 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

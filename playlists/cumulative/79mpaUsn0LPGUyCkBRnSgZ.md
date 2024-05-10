@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-653 songs - 1 day 18 hr 50 min
+654 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 | 2023-09-12 |  |
 | [Legend](https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 4:01 | 2024-03-11 |  |
 | [Let England Shake](https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:09 | 2023-05-20 |  |
+| [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2024-05-10 |  |
 | [Let It Go](https://open.spotify.com/track/0jYgfSncMwfefAUpUMcM5X) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:42 | 2022-07-14 |  |
 | [Let Me Drown](https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv) | 3:53 | 2023-01-14 |  |
 | [Let You Down](https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Honour and Glory](https://open.spotify.com/album/015KLRVrZoCEnW8jGGH0E3) | 3:28 | 2024-01-27 | 2024-03-28 |
@@ -455,7 +456,7 @@
 | [Rain Dance](https://open.spotify.com/track/7vAuvUggnyjtuAu77pfapf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 3:23 | 2024-01-15 |  |
 | [Ramona Park Legend Pt\. 1](https://open.spotify.com/track/1wjyGxvNK5POKbIfNroB3E) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 0:36 | 2022-04-15 | 2024-03-19 |
 | [Ramona Reborn](https://open.spotify.com/track/4dMRURWuPZmjpAMeNqvUkt) | [Delicate Steve](https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5) | [Positive Force](https://open.spotify.com/album/2aZxhSUDHeE3tXSlWvao1w) | 3:09 | 2024-01-03 |  |
-| [Rang Tang Ring Toon](https://open.spotify.com/track/2HZRjBrPeo3HwyZVUZxK62) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 3:29 | 2024-05-09 |  |
+| [Rang Tang Ring Toon](https://open.spotify.com/track/2HZRjBrPeo3HwyZVUZxK62) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 3:29 | 2024-05-09 | 2024-05-10 |
 | [Re\-Make/Re\-Model](https://open.spotify.com/track/6pUfi8uawZnCK2T0hatNwR) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4KjUgJn22cmBRQC0AHcjI3) | 5:14 | 2024-03-04 |  |
 | [Reach Out](https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:43 | 2023-05-06 | 2023-05-11 |
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 | 2024-01-10 |

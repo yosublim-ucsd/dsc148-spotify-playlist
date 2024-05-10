@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
-  "num_followers": 91406,
+  "num_followers": 91448,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-03-22 02:15:13",
       "album": {
+        "name": "dreAMEE",
+        "url": "https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "ex's hate me, Pt. 2",
+      "url": "https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b"
+    },
+    {
+      "added_at": "2024-03-22 02:15:13",
+      "album": {
         "name": "TOKYO Cypher",
         "url": "https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 178823,
       "name": "TOKYO Cypher",
       "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
-    },
-    {
-      "added_at": "2024-03-22 02:15:13",
-      "album": {
-        "name": "dreAMEE",
-        "url": "https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "ex's hate me, Pt. 2",
-      "url": "https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b"
     },
     {
       "added_at": "2024-03-22 02:15:13",

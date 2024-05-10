@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1289063,
+  "num_followers": 1289115,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Locksmith",
         "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "ver2igo vol. 2",
-        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 196456,
-      "name": "Pillow In My Arms",
-      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "HERicane",
-        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+        "name": "ver2igo vol. 2",
+        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+      "duration_ms": 196456,
+      "name": "Pillow In My Arms",
+      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Strawberry eyes",
         "url": "https://open.spotify.com/album/7icn8Fv9Wy1yHHwoA7Yvxa"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 168742,
       "name": "Don't Let Me Down (feat. JVKE)",
       "url": "https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-05-01 10:04:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-01 10:04:18",
       "album": {
-        "name": "Zu sp\u00e4t um umzudrehen - EP",
-        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Zimmer",
-      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
-    },
-    {
-      "added_at": "2024-05-01 10:04:18",
-      "album": {
         "name": "Me Da Igual",
         "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-05-01 10:04:18",
+      "album": {
+        "name": "Zu sp\u00e4t um umzudrehen - EP",
+        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2024-05-01 10:04:18",

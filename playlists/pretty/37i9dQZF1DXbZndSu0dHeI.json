@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 219075,
+  "num_followers": 219112,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
       "added_at": "2023-03-08 12:04:06",
       "album": {
         "name": "Petals on the Moon",
@@ -487,6 +471,22 @@
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -535,6 +535,22 @@
       "duration_ms": 254885,
       "name": "honey",
       "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
+    },
+    {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 223231,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -603,22 +619,6 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
-    },
-    {
-      "added_at": "2024-03-22 14:38:07",
-      "album": {
-        "name": "Is This What Love Is?",
-        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 223231,
-      "name": "Is This What Love Is?",
-      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Coming of Age",
@@ -767,6 +751,22 @@
       "duration_ms": 239093,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
     },
     {
-      "added_at": "2023-01-20 16:59:50",
-      "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1057,24 +1041,20 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
-      "added_at": "2024-03-22 14:38:07",
+      "added_at": "2023-01-20 16:59:50",
       "album": {
-        "name": "Fantasneeze (feat. Matilda Mann)",
-        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fantasneeze (feat. Matilda Mann)",
-      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1109,6 +1089,26 @@
       "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
     },
     {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Fantasneeze (feat. Matilda Mann)",
+        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Fantasneeze (feat. Matilda Mann)",
+      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Morning Phase",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2024-02-21 11:44:23",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Bloom",
@@ -1171,6 +1155,22 @@
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1289,36 +1289,20 @@
       "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+        "name": "Are You OK?",
+        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 263733,
+      "name": "Are You OK?",
+      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Are You OK?",
-        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
       "artists": [
         {
-          "name": "Wasuremono",
-          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 263733,
-      "name": "Are You OK?",
-      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1369,36 +1353,52 @@
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-02-18 00:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
-      "added_at": "2024-02-21 11:44:23",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Truth\u2606Truth",
-        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+        "name": "You Do Not Have To Be Good",
+        "url": "https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN"
       },
       "artists": [
         {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
         }
       ],
-      "duration_ms": 224385,
-      "name": "Truth\u2606Truth",
-      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+      "duration_ms": 171481,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "supposed to",
+        "url": "https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "supposed to",
+      "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
     },
     {
       "added_at": "2024-03-28 22:30:08",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "You Do Not Have To Be Good",
-        "url": "https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 171481,
-      "name": "Cadillac",
-      "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2024-02-21 11:44:23",
@@ -1449,20 +1449,20 @@
       "url": "https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-02-21 11:44:23",
       "album": {
-        "name": "supposed to",
-        "url": "https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU"
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
         }
       ],
-      "duration_ms": 174500,
-      "name": "supposed to",
-      "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Release Myself",
-        "url": "https://open.spotify.com/album/0KFPqibU9CKkZCwRNfyRxT"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
       "artists": [
         {
-          "name": "Bess Atwell",
-          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
         }
       ],
-      "duration_ms": 218312,
-      "name": "Release Myself",
-      "url": "https://open.spotify.com/track/2ghHspqlmRofnMVcCBJ4Bu"
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

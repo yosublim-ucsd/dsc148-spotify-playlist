@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,059 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,067 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 66 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
 | 67 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
 | 68 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 |
-| 69 | [PISCINA OLÍMPICA](https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:58 |
-| 70 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 69 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
+| 70 | [PISCINA OLÍMPICA](https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:58 |
 | 71 | [Luna en piscis](https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:26 |
 | 72 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 |
 | 73 | [El Chiste](https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Chiste](https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv) | 3:35 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 76 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 77 | [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 |
 | 78 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
-| 79 | [Sin mí :\(](https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf) | [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Ussi](https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF) | [Sin mí :\(](https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4) | 3:47 |
-| 80 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
+| 79 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
+| 80 | [Sin mí :\(](https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf) | [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Ussi](https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF) | [Sin mí :\(](https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4) | 3:47 |
 | 81 | [Por los Dos](https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe) | [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Por los Dos](https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns) | 3:01 |
 | 82 | [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 |
 | 83 | [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 |

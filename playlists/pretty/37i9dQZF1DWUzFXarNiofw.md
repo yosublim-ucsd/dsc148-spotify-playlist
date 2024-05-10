@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Coco Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,706 likes - 175 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,808 likes - 175 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 45 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 |
 | 46 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |
 | 47 | [Unknown \- Radio Edit](https://open.spotify.com/track/72kuY1iDVY3TAguRuBl9ha) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unknown \(Radio Edit\)](https://open.spotify.com/album/4NufFCMZdy4pxaISp2JWU1) | 3:17 |
-| 48 | [U A Star](https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:35 |
+| 48 | [U A Star \(feat\. Mereba\)](https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:35 |
 | 49 | [Fallin 4 Ya Luv](https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Café Noir](https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI) | 2:20 |
 | 50 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 |
 | 51 | [Devastating \(Interlude\)](https://open.spotify.com/track/4kIogQmlJbShn8HNvPDXJy) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Devastating \(Interlude\)](https://open.spotify.com/album/25mZ0R60FiLYVj068c2pda) | 1:52 |

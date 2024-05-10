@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Da\-iCE
 
-1,308 songs - 3 day 9 hr 26 min
+1,309 songs - 3 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2023-12-31 |  |
 | [GOD LOVES YOU feat\. AKLO & JP THE WAVY](https://open.spotify.com/track/2BVG9eKQ3KFwoXcPCQH1TC) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GOD LOVES YOU](https://open.spotify.com/album/2DItDlRYry0oAS6WApKWwA) | 3:31 | 2022-11-20 | 2022-12-05 |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-04-16 | 2023-06-12 |
+| [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 | 2024-05-09 |  |
 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-30 | 2023-10-06 |
 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-19 | 2023-07-10 |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-09-11 | 2022-09-19 |
@@ -320,7 +321,7 @@
 | [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 | 2022-12-18 | 2023-01-06 |
 | [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-27 | 2022-12-20 |
 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 | 2022-10-30 | 2022-11-14 |
-| [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-03-01 |  |
+| [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-03-01 | 2024-05-10 |
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-25 | 2022-08-01 |
 | [kajitsukyoso](https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [kajitsukyoso](https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5) | 4:17 | 2023-06-04 | 2023-06-19 |
 | [Kakurembo](https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:04 | 2023-12-26 | 2024-01-15 |

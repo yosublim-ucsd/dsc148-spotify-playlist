@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,401 songs - 3 day 5 hr 11 min
+1,402 songs - 3 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2022-03-24 | 2022-12-15 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-08-04 | 2022-08-27 |
 | [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 |  |
-| [Cloudy Love](https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [Horizon](https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK) | 3:00 | 2024-04-19 |  |
+| [Cloudy Love](https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [Horizon](https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK) | 3:00 | 2024-04-19 | 2024-05-10 |
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 | 2022-03-24 | 2022-08-02 |
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-24 | 2022-04-20 |
@@ -330,7 +330,7 @@
 | [Ego](https://open.spotify.com/track/2hXd0dhfmTpatwxOXMq0ID) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Ego](https://open.spotify.com/album/04rFqp0OAdU120I1J3S4Rn) | 2:15 | 2022-08-26 | 2022-09-16 |
 | [EGO!](https://open.spotify.com/track/0laq7DfW9YtPdvQsePTveK) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [EGO!](https://open.spotify.com/album/7ISSf6pMnWSMrpF1AjZqpM) | 2:28 | 2024-04-26 |  |
 | [El Barrio](https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/7e6QkedF9KH6dsW8McP29w) | 2:35 | 2022-03-24 | 2022-04-11 |
-| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-09 |  |
+| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-09 | 2024-05-10 |
 | [El Disfraz](https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [El Disfraz](https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP) | 2:44 | 2024-03-17 | 2024-04-01 |
 | [El Disfraz](https://open.spotify.com/track/5dVDa4Ruk93IdiuiDz6D8w) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 2:44 | 2024-03-17 | 2024-04-19 |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-03-24 | 2022-09-16 |
@@ -648,6 +648,7 @@
 | [Law Sarakhna](https://open.spotify.com/track/6gLkcjfA3DXyyXROJcvAEO) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Law Sarakhna](https://open.spotify.com/album/4n8mdqj3DZQpr7ea4nLKhL) | 4:33 | 2022-03-24 | 2022-04-07 |
 | [LDN GRLS \- Gboyega's Theme](https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Is What It Is](https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR) | 3:07 | 2024-02-09 | 2024-05-09 |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2022-04-07 | 2022-04-20 |
+| [leftover feelings](https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [leftover feelings](https://open.spotify.com/album/30nGunlYKukm79Nq7XbNnC) | 5:23 | 2024-05-03 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-03-31 | 2022-04-20 |
 | [Lemonade](https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Lemonade](https://open.spotify.com/album/65zVZXGlHRn46RPsh7Bnbz) | 2:34 | 2023-05-30 | 2023-07-05 |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2022-03-24 | 2023-01-21 |
@@ -1141,7 +1142,7 @@
 | [Two Cents](https://open.spotify.com/track/6hqJupJkVQmwHzOYeeO7fE) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Two Cents](https://open.spotify.com/album/1aXviDV63VHVx0bYgySnvf) | 3:55 | 2024-03-08 |  |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-05-30 | 2023-07-08 |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-05-30 | 2023-11-18 |
-| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 | 2024-05-09 |
+| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 |  |
 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 | 2022-03-24 | 2023-04-18 |
 | [U](https://open.spotify.com/track/0AqiXztTD2a0aeHkQsS1Lm) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/0cXPw9gEzyMguXppD8E0Ii) | 2:57 | 2022-02-03 | 2023-01-21 |
 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 | 2022-02-03 | 2022-12-15 |

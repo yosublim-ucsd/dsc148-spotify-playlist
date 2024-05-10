@@ -8113,6 +8113,32 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        },
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        },
+        {
+          "name": "Jim White",
+          "url": "https://open.spotify.com/artist/2e5Czu1HGML44EmIuNsA4o"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268061,
+      "name": "Lully Lullay",
+      "url": "https://open.spotify.com/track/73gk7tdQ6hq1LqDpV69ytB"
+    },
+    {
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA"
       },

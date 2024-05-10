@@ -2,16 +2,17 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Moha K
+> Les hits marocains du moment\. Cover: Lbenj
 
-358 songs - 19 hr 13 min
+360 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-15 | 2023-10-19 |
 | [1000 Fois](https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:38 | 2022-02-07 | 2022-02-15 |
+| [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 | 2024-05-09 |  |
 | [3adi](https://open.spotify.com/track/7jy0frWv77uVBwLPdoEGl5) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:19 | 2023-01-01 | 2023-01-05 |
-| [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-13 |  |
+| [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-13 | 2024-05-10 |
 | [3amarli Kasi](https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [3amarli Kasi](https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3) | 2:57 | 2022-01-11 | 2022-04-08 |
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-03-08 | 2022-05-14 |
 | [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 | 2022-06-21 |
@@ -23,6 +24,7 @@
 | [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 | 2022-08-20 | 2023-02-13 |
 | [Aayane](https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Aayane](https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6) | 3:07 | 2022-05-19 | 2022-08-21 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-04-17 |  |
+| [Abala Ya Bali \- Remix](https://open.spotify.com/track/0YQn9vYwK184bhCyEAtbyu) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Abala Ya Bali \(Remix\)](https://open.spotify.com/album/504SHDQ5T3JW9eJTfXREK2) | 3:32 | 2024-05-09 |  |
 | [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 | 2023-02-02 | 2023-05-07 |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-02-17 | 2022-06-10 |
 | [Afrokech](https://open.spotify.com/track/3pPvIIHgfuAPgn9nJ5xW23) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Afrokech](https://open.spotify.com/album/4lXI38vVvwwbmiFB2vEB5o) | 2:18 | 2022-03-24 | 2022-05-27 |
@@ -153,7 +155,7 @@
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-06-11 | 2023-05-10 |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-04 | 2023-05-30 |
 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 | 2021-12-25 | 2022-02-23 |
-| [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-14 |  |
+| [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-14 | 2024-05-10 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-11 | 2022-07-17 |
 | [KATA](https://open.spotify.com/track/5NKlXALZpt7pLjRZimclan) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KATA](https://open.spotify.com/album/1ESrW2WAb59BBFxFbjpg6W) | 3:48 | 2022-11-09 | 2023-06-16 |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2021-12-25 | 2022-06-10 |

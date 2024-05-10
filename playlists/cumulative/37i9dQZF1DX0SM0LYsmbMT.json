@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 164000,
       "name": "Anthracite",
       "url": "https://open.spotify.com/track/60E0ch0HXD1EEyGunEh1Rm"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 140571,
       "name": "At some point",
       "url": "https://open.spotify.com/track/4coQNnfbjms75lMwlyPM3r"
@@ -4924,7 +4924,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 130563,
       "name": "Autumn Ride",
       "url": "https://open.spotify.com/track/1TOHw1SZwZWX08ktFUei9T"
@@ -8782,7 +8782,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 96190,
       "name": "Botanical Garden",
       "url": "https://open.spotify.com/track/5OzofsDlQAh3MvV0JyzeAj"
@@ -10918,7 +10918,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 96602,
       "name": "Camping With Claude",
       "url": "https://open.spotify.com/track/4lXRsUAcf5wPthpzKVYDxi"
@@ -14357,6 +14357,24 @@
     },
     {
       "album": {
+        "name": "Come On Feet",
+        "url": "https://open.spotify.com/album/3SJeaZf2Nl0qnGWz4pZGVR"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69695,
+      "name": "Come On Feet",
+      "url": "https://open.spotify.com/track/26taiZkHApa2uZxyhdkzvB"
+    },
+    {
+      "album": {
         "name": "Come Winter",
         "url": "https://open.spotify.com/album/0KalYKHccDgndrJG3fMm2g"
       },
@@ -17457,6 +17475,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0EbTQVRwfYxKDsuCANadzU"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88488,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1okldfwpJARuGRbjxp8uZC"
+    },
+    {
+      "album": {
         "name": "Did It Yesterday",
         "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
       },
@@ -17690,7 +17726,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 130472,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1IMMtM5oAW5elaQA9o5ZnT"
@@ -23517,6 +23553,32 @@
     },
     {
       "album": {
+        "name": "Floatin'",
+        "url": "https://open.spotify.com/album/3SG3HSiocUWYr4InRQUCEx"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142134,
+      "name": "Floatin'",
+      "url": "https://open.spotify.com/track/0SwMW7AfosFNOwCIkzi4Rn"
+    },
+    {
+      "album": {
         "name": "Sichtexotica V",
         "url": "https://open.spotify.com/album/0YidNDMeyKaXJRNhSEDB1m"
       },
@@ -27525,6 +27587,32 @@
     },
     {
       "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/1SlkqN6sU6oj3hxrr8Z9X6"
+      },
+      "artists": [
+        {
+          "name": "L'Ind\u00e9cis",
+          "url": "https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu"
+        },
+        {
+          "name": "Flandrs",
+          "url": "https://open.spotify.com/artist/3l2xsQ69ajm8r7KZERjp6x"
+        },
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106478,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/3GVOvBeFbuCPxMzUC0un7i"
+    },
+    {
+      "album": {
         "name": "gorilla glue",
         "url": "https://open.spotify.com/album/15WESVrhkXInUHLX9gEhrd"
       },
@@ -29973,6 +30061,28 @@
     },
     {
       "album": {
+        "name": "High Towers",
+        "url": "https://open.spotify.com/album/78TBxs86z7tcgKCilqwip2"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157931,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/6vVNA5CqNbvJHP8xNlqGGW"
+    },
+    {
+      "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse"
       },
@@ -31416,7 +31526,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 102857,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/3bFQS0uqG7zJ830fYLkKly"
@@ -35524,6 +35634,24 @@
       "duration_ms": 128026,
       "name": "Juego de Olas",
       "url": "https://open.spotify.com/track/03vsJIe8ryh9Yv9YOp3J3Y"
+    },
+    {
+      "album": {
+        "name": "Jugallo",
+        "url": "https://open.spotify.com/album/5YEA3xmOgqs8QpEkBhOTJY"
+      },
+      "artists": [
+        {
+          "name": "Am Froggo",
+          "url": "https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89610,
+      "name": "Jugallo",
+      "url": "https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD"
     },
     {
       "album": {
@@ -46158,7 +46286,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 109493,
       "name": "Morning Calm",
       "url": "https://open.spotify.com/track/0yT60I59akO1nV9qnOeVEW"
@@ -47036,7 +47164,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 155076,
       "name": "My Ambience",
       "url": "https://open.spotify.com/track/12UTyr0aX6Wk5u4LHSbACd"
@@ -48290,6 +48418,28 @@
       "duration_ms": 107290,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/0VXrbTzfEn8mKFuT66gyYA"
+    },
+    {
+      "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/2VhXejxVyseutSSTy6fzzt"
+      },
+      "artists": [
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132268,
+      "name": "New Chapter",
+      "url": "https://open.spotify.com/track/4WN8mNRvUmaFl3nPDj5U5V"
     },
     {
       "album": {
@@ -50154,7 +50304,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 121481,
       "name": "notable",
       "url": "https://open.spotify.com/track/2esHjrQWY6d9tDRuFlwsVE"
@@ -54170,6 +54320,32 @@
       "duration_ms": 133846,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/5XfGPtiNkoPkeK00QTEHCb"
+    },
+    {
+      "album": {
+        "name": "Peninsula",
+        "url": "https://open.spotify.com/album/0Tgov7je4sbWGY5hfXHnNc"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "MZERA",
+          "url": "https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK"
+        },
+        {
+          "name": "Daoti",
+          "url": "https://open.spotify.com/artist/0XLvC5dprQ3rL0W0xIIaBn"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "Peninsula",
+      "url": "https://open.spotify.com/track/5Lpz9sOJdEkH4EUt7iECvd"
     },
     {
       "album": {
@@ -60809,6 +60985,28 @@
     },
     {
       "album": {
+        "name": "Seahorse",
+        "url": "https://open.spotify.com/album/3Xr0LTSQTZFSDCNA0DysUr"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Seahorse",
+      "url": "https://open.spotify.com/track/56Krhoeefn5U3clSem4Sbb"
+    },
+    {
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/0IW1qroLrI8kacNVLpfxtU"
       },
@@ -64248,7 +64446,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 96000,
       "name": "Soft Waves",
       "url": "https://open.spotify.com/track/7A5oMg8CJvwiSitodeMhEc"
@@ -66398,6 +66596,24 @@
       "duration_ms": 140250,
       "name": "ST13",
       "url": "https://open.spotify.com/track/43got7b21DC6igGK9P2oHu"
+    },
+    {
+      "album": {
+        "name": "Staircase",
+        "url": "https://open.spotify.com/album/2mm9evj43JirCNExUu4Wtb"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "Staircase",
+      "url": "https://open.spotify.com/track/0Z9y2UM8aL5oknIhD8mJRx"
     },
     {
       "album": {
@@ -78952,7 +79168,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 117857,
       "name": "Wataridori",
       "url": "https://open.spotify.com/track/7eUbVPRjLznyvOOXyOSrCD"

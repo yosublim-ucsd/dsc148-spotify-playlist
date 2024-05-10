@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Dean Brody",
-  "num_followers": 455548,
+  "num_followers": 455545,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "The Whiskey's Gone",
-        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "The Whiskey's Gone",
-      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 157777,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Product Of (Feat. Lee Brice)",
         "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
     },
     {
       "added_at": "2024-05-03 04:01:00",

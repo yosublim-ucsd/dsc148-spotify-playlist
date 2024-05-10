@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: ILLIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,808 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,690 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

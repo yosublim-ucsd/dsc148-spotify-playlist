@@ -2,7 +2,7 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: Gyakie
+> The hottest tracks in Ghana\. Cover: Lasmid
 
 262 songs - 13 hr 22 min
 

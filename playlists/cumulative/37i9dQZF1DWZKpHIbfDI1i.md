@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Jesse & Joy en portada.
 
-976 songs - 2 day 4 hr 33 min
+977 songs - 2 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-04-05 |  |
 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-17 | 2022-08-05 |
 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 | 2024-02-23 | 2024-04-27 |
-| [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 |  |
+| [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 | 2024-05-10 |
 | [Bandolera](https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Bandolera](https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN) | 3:14 | 2023-05-19 | 2023-05-27 |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2023-07-01 |
 | [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2023-08-19 |
@@ -449,6 +449,7 @@
 | [La Ley Del Chinito](https://open.spotify.com/track/1LMZS8DmTcwQTm5ai7H40G) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Ley Del Chinito](https://open.spotify.com/album/0TB5MpDerNgoZayZw4i4YR) | 2:20 | 2022-04-23 | 2022-05-25 |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2022-10-28 | 2022-11-12 |
 | [La Misma Bandera](https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Misma Bandera](https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e) | 3:41 | 2023-11-03 | 2023-11-11 |
+| [La Más Guapa](https://open.spotify.com/track/6BoTME0qMxPFnVJMQqyZji) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [La Más Guapa](https://open.spotify.com/album/1hB9uAmLvJccFMQWP71njp) | 2:41 | 2024-05-03 |  |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2023-03-03 | 2023-05-20 |
 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 | 2022-12-30 | 2023-05-25 |
 | [La Otra](https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Otra](https://open.spotify.com/album/0EE1hUdFVx4zGs1eJd9651) | 3:09 | 2023-08-11 | 2023-10-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 156688,
+  "num_followers": 156710,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAB1qBmvmfU0L5+EGxEuAgHP",
+  "snapshot_id": "ZjrAgAAAAABGc+KgcsQ2tAyqgJyfJc2M",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 401025,
       "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
-        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 529585,
-      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
-      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
     },
     {
       "added_at": null,
@@ -111,30 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "DA BRABA",
-      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
       },
@@ -187,6 +143,30 @@
       "duration_ms": 849230,
       "name": "Poesia Ac\u00fastica 14",
       "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "DA BRABA",
+      "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
       "added_at": null,
@@ -627,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente do C\u00e9u",
-        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 253932,
-      "name": "Presente do C\u00e9u",
-      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "085 RMX",
         "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
       },
@@ -663,6 +623,26 @@
       "duration_ms": 163102,
       "name": "085 RMX",
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente do C\u00e9u",
+        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 253932,
+      "name": "Presente do C\u00e9u",
+      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 192012,
       "name": "Catuaba",
       "url": "https://open.spotify.com/track/7DN5QOaEBUQcBRwGkzEwVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9 da Pista",
+        "url": "https://open.spotify.com/album/28YyV8yp2I9KWrsgDR5HpN"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/2ZADgxHqVDEw98QQA4qCVa"
     }
   ],
   "unique_name": "This Is Gloria Groove",

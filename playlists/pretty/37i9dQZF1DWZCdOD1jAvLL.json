@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Dimension & Alison Wonderland",
-  "num_followers": 239768,
+  "num_followers": 239805,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
         }
       ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Saturday Love",
-        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Dino DZ",
-          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 141120,
-      "name": "Saturday Love",
-      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Whole Lotta Drugs / Over The Edge",
         "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "808",
+      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -1863,26 +1883,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "808",
-      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1955,22 +1955,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1995,18 +1991,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
       },
       "artists": [
         {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Danger (REAPER Remix)",
         "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 187586,
       "name": "Danger - REAPER Remix",
       "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Diamond Therapy",
         "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
@@ -2199,22 +2219,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2259,26 +2279,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2443,6 +2443,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Stop Time",
         "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
       },
@@ -2463,26 +2483,6 @@
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
       "added_at": "2024-04-26 04:00:00",

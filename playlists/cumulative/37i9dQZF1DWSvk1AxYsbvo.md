@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-176 songs - 10 hr 24 min
+177 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-03 | 2023-07-08 |
 | [Gargen](https://open.spotify.com/track/24JTr3fAXP5aas1NX6Wla8) | [Kim Jiwoo](https://open.spotify.com/artist/5VCISWkGAsjEvjQpIXAfgD) | [Memories of Summer](https://open.spotify.com/album/2wIpyWKUKna6nnLTV3AXST) | 3:04 | 2022-07-08 | 2022-07-28 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 | 2022-12-03 |
+| [Give me a title](https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Give me a title](https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp) | 2:43 | 2024-05-09 |  |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2022-07-04 |  |
 | [Good Night](https://open.spotify.com/track/1CVcNHLd6oSMpI5zt8y15e) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:45 | 2022-05-03 | 2022-06-18 |
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2023-11-04 | 2024-04-19 |
@@ -82,7 +83,7 @@
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2023-10-13 |
 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 | 2022-05-03 | 2023-07-08 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 |  |
-| [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 | 2022-08-09 |  |
+| [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 | 2022-08-09 | 2024-05-10 |
 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 | 2022-05-03 |  |
 | [Love Is You](https://open.spotify.com/track/1QfqYSsC1sQaGtBu1AWZu7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 4:06 | 2022-05-03 | 2022-07-29 |
 | [Meaning Of The Flower](https://open.spotify.com/track/28w2JkO4baObQWZzThI6wp) | [Sujin](https://open.spotify.com/artist/7lz8pYIwLCOWJmJtJFVat0) | [My Mind](https://open.spotify.com/album/4QJdP5TBpj6zyeIwHvetm8) | 3:56 | 2022-05-03 | 2022-06-28 |

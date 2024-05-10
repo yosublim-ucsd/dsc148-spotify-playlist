@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MY FIRST STORY
 
-304 songs - 17 hr 32 min
+305 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR) | 4:07 | 2024-03-19 | 2024-04-19 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-21 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2024-04-19 |
+| [Liars](https://open.spotify.com/track/78eFSx5yei7SjvzvlwonQk) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Liars](https://open.spotify.com/album/447Xqn36vAAAD5SulZpolM) | 3:54 | 2024-05-07 |  |
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-07-20 | 2023-11-22 |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-07-20 | 2023-08-02 |
 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 | 2023-07-20 |  |
@@ -290,7 +291,7 @@
 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 |  |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-04-19 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 |  |
-| [山嵐](https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [極上音楽集](https://open.spotify.com/album/34oqkY5B32dJBw54GVnfwU) | 3:17 | 2024-05-07 |  |
+| [山嵐](https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [極上音楽集](https://open.spotify.com/album/34oqkY5B32dJBw54GVnfwU) | 3:17 | 2024-05-07 | 2024-05-10 |
 | [幸福な子供たち](https://open.spotify.com/track/6rr3ygGHMu7dV3vlCM1s9S) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [ザ・ベルセデス・メンツの幸福な子供たち](https://open.spotify.com/album/3PK43p0A0QZoch1Z5Fa50O) | 3:42 | 2023-11-21 | 2023-11-23 |
 | [彗星](https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [シネマ](https://open.spotify.com/album/4ZDYzzPwxrwf015qEeIPMO) | 3:39 | 2023-12-05 | 2023-12-07 |
 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 | 2023-07-20 | 2024-03-20 |

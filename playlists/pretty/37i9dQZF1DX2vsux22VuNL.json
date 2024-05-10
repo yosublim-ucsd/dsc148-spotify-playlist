@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289348,
+  "num_followers": 289352,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -471,30 +471,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2024-04-26 03:00:00",

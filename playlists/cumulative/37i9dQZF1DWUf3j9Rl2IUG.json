@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover:Kcee",
+  "description": "Afrobeats' hottest singles. Cover: Ayra Starr",
   "name": "Gbedu",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 124210,
       "name": "2am For Lekki",
       "url": "https://open.spotify.com/track/4JEUXVuNeR22Qwew8tFx9B"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "album": {
         "name": "Baddest Boy (Remix)",
         "url": "https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 186067,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 158105,
       "name": "Concussion - Remix",
       "url": "https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0"
@@ -2629,6 +2651,28 @@
     },
     {
       "album": {
+        "name": "Water & Garri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151868,
+      "name": "Gara (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
+    },
+    {
+      "album": {
         "name": "Gbadun",
         "url": "https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO"
       },
@@ -3186,7 +3230,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
@@ -3968,7 +4012,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 213710,
       "name": "Lowkey!",
       "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
@@ -5926,7 +5970,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
@@ -5974,6 +6018,28 @@
       "duration_ms": 175792,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
+    },
+    {
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
       "album": {

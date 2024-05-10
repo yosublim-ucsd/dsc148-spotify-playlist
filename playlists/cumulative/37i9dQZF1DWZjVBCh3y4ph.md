@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Mik L x Nesly
+> Les hits zouk du moment\. Photo : Stony
 
-112 songs - 6 hr 1 min
+113 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 | 2023-11-23 | 2024-01-26 |
 | [POU OU ENTANN'](https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [POU OU ENTANN'](https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt) | 3:06 | 2024-02-29 |  |
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 |  |
+| [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 |  |
 | [Reviens\-moi](https://open.spotify.com/track/4fRONCP1im6oryMMLXgVfl) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Reviens\-moi](https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4) | 2:44 | 2023-09-28 | 2023-10-06 |
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-25 |  |
@@ -94,7 +95,7 @@
 | [Si Seulement \- Radio Edit](https://open.spotify.com/track/5LDhw86tEleNLulijDdLRh) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Si Seulement \(Radio Edit\)](https://open.spotify.com/album/6Vpyyc4Q21LLX8ZVJ9ANYa) | 2:14 | 2024-03-28 |  |
 | [Sonje Mwen](https://open.spotify.com/track/4moodqGELYeoH8KJuJAMJy) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd), [Tayoo](https://open.spotify.com/artist/5cuJlJjmnzoiLcqYJ9Z0gn), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Sonje Mwen](https://open.spotify.com/album/5oKlINDbr58NjRWqtVONzC) | 3:34 | 2023-09-28 | 2023-10-20 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-09-28 | 2024-04-05 |
-| [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 | 2024-02-08 |  |
+| [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 | 2024-02-08 | 2024-05-10 |
 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 | 2023-10-05 | 2023-11-24 |
 | [STOP CA](https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0) | [Naya Subtil](https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC) | [STOP CA](https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96) | 4:33 | 2023-12-21 | 2024-01-12 |
 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 | 2024-04-11 |  |

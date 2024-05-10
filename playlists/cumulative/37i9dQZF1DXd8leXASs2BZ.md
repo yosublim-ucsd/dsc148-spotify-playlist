@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
-426 songs - 19 hr 47 min
+427 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Plug](https://open.spotify.com/track/3r8hMArXgsepqUOWXFgfmX) | [AON](https://open.spotify.com/artist/1WiAw4ZvV8crQEVAy8AQhO) | [Plug](https://open.spotify.com/album/3KbayrDfdrly4MQt1PsmrE) | 2:54 | 2023-12-07 | 2023-12-14 |
 | [Pop it](https://open.spotify.com/track/5ut4vYok16PKYqnlE0wFpH) | [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW), [gerardparman](https://open.spotify.com/artist/4B5nMelhpP2gTR4YwY4FSi), [DNE](https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [PASSIVE INCOME](https://open.spotify.com/album/5YLv9j3TYKhtAajFqOOMmB) | 3:24 | 2024-02-22 | 2024-03-22 |
 | [Pray For Love Hood](https://open.spotify.com/track/2A0ZTQ1mWESJcAKd3hjdRM) | [S9UALL](https://open.spotify.com/artist/2UB8s2QYaEKmju2NRNqPMC), [KaworuMF](https://open.spotify.com/artist/70k4ZTwNeIh2fhtQQUGOAS) | [Pray For Love Hood](https://open.spotify.com/album/7jHbnEiRCkNqTJynquIUzt) | 3:08 | 2024-02-22 | 2024-03-22 |
+| [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 | 2024-05-09 |  |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-07 | 2024-01-19 |
 | [promise](https://open.spotify.com/track/4j2Z8fqjloC980PgxUTT0b) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/7lqYTFsnQZyr0QARHeAPAj) | 1:50 | 2024-04-16 |  |
 | [promise](https://open.spotify.com/track/76kUiu6Y1BBPs0OWapOhTS) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/3Ra83t8m1eoTpvh4tb7R9c) | 1:50 | 2024-01-11 | 2024-04-19 |

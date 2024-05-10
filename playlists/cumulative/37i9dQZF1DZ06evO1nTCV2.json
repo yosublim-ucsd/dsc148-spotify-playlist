@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284625,
+      "name": "Black Sheets of Rain - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3lYkwSZgN4hTk3wzx6FmNI"
+    },
+    {
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"

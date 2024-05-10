@@ -1,6 +1,6 @@
 {
   "description": "Classic and new soul music for the perfect dinner vibe.",
-  "num_followers": 140519,
+  "num_followers": 140532,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -703,22 +703,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Black Radio",
-        "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
         }
       ],
-      "duration_ms": 307626,
-      "name": "Afro Blue",
-      "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+        "name": "Black Radio",
+        "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
       "artists": [
         {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+      "duration_ms": 307626,
+      "name": "Afro Blue",
+      "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "The Complete Calla, Port and Roulette Recordings",
+        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "The Complete Calla, Port and Roulette Recordings",
-        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
         "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 125040,
       "name": "I'll Come Running Back (Mr Scruff Edit)",
       "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "A Nickel And A Nail And Ace Of Spades",
         "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 261200,
       "name": "Sleep on It",
       "url": "https://open.spotify.com/track/2GZMuah5B0211TmKFUZAmT"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-04-16 09:12:16",

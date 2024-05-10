@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,007 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,009 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 71 | [Vontade De Morder](https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Vontade De Morder](https://open.spotify.com/album/7Iah8z9NOyOa6WUe0J22I1) | 2:34 |
 | 72 | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv) | 2:24 |
 | 73 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 |
-| 74 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 |
-| 75 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 |
+| 74 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 |
+| 75 | [ACORDA PEDRINHO](https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:53 |
 | 76 | [Alma Nua](https://open.spotify.com/track/6qqCZliorzZbHI6HWM02g1) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Alma Nua](https://open.spotify.com/album/4c3RFBaJWDJqwTJ5gLUz8p) | 3:23 |
-| 77 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1UtFywx23D3gScleyACbgD) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1) | 2:24 |
-| 78 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
+| 77 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
+| 78 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1UtFywx23D3gScleyACbgD) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1) | 2:24 |
 | 79 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 80 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 81 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 |

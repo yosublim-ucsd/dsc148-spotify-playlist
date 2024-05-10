@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,539 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,570 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 47 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 48 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 49 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 |
-| 50 | [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 |
-| 51 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
-| 52 | [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 |
-| 53 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
+| 50 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 |
+| 51 | [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 |
+| 52 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
+| 53 | [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 |
 | 54 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
-| 55 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
-| 56 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 55 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 56 | [Van Gogh](https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Postcards](https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH) | 2:54 |
 | 57 | [Bloodshed](https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Bloodshed](https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3) | 3:35 |
 | 58 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 |
 | 59 | [I´m Not Your Girl](https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th) | [Emma Nilsdotter](https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [I´m Not Your Girl](https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6) | 3:40 |

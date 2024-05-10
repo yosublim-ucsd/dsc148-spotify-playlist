@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Hozier
 
-811 songs - 2 day 1 hr 16 min
+812 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-05-13 | 2022-09-17 |
 | [Love Wouldn't Take Me Back](https://open.spotify.com/track/5a4XN7YQHhgFN2Dbcu28od) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I](https://open.spotify.com/album/4c4wjCUhgmyR2nOGmd9gGl) | 3:59 | 2022-09-16 | 2022-12-17 |
 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 | 2024-01-26 |  |
+| [Lully Lullay](https://open.spotify.com/track/73gk7tdQ6hq1LqDpV69ytB) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU), [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Jim White](https://open.spotify.com/artist/2e5Czu1HGML44EmIuNsA4o) | [Mayday](https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE) | 4:28 | 2024-05-03 |  |
 | [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-06-03 |
 | [Maia](https://open.spotify.com/track/7GRw86pBE9E2kiH40ee9Nm) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Maia](https://open.spotify.com/album/1CiFjVxJe7LbAX8i9w6VRN) | 3:30 | 2024-03-15 | 2024-04-19 |
 | [Make No Mistakes](https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Make No Mistakes](https://open.spotify.com/album/3WMpLhAIpkQrimjZlk4XRJ) | 3:11 | 2023-03-31 | 2023-05-20 |

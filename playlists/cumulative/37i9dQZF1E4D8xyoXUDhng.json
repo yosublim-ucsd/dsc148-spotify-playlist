@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "My Heart Depends On You",
+        "url": "https://open.spotify.com/album/1Fb075gh4kSfTHecaWtaPz"
+      },
+      "artists": [
+        {
+          "name": "Shea Norman",
+          "url": "https://open.spotify.com/artist/5IG2Nxn3SFmpyGf8ATCfSF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "'Tis So Sweet",
+      "url": "https://open.spotify.com/track/5IFPBEuZtelfy2P8pmC6Ry"
+    },
+    {
+      "album": {
         "name": "Pulling Me Through",
         "url": "https://open.spotify.com/album/6t8E4sjjgOPOcBIjbcvTcM"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/57iQXTRzaKvQnaIJXiDFlO"
@@ -258,7 +276,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 288800,
       "name": "A Move of God Is on the Way",
       "url": "https://open.spotify.com/track/0IEGDguaRRqXWzckqo8yUv"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 306293,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/641RXBhAmRVgJwACuy2SuK"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 546053,
       "name": "Blessing in the House",
       "url": "https://open.spotify.com/track/3KCjICuMd265LIb29ORXBo"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 209573,
       "name": "Blessing In The Storm",
       "url": "https://open.spotify.com/track/6pnl2K7y2aA8eMJjwMBigb"
@@ -3801,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Open Your Mouth and Say Something",
+        "url": "https://open.spotify.com/album/39a1DQ2VWnFYeED3M64UyO"
+      },
+      "artists": [
+        {
+          "name": "Brent Jones",
+          "url": "https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375720,
+      "name": "Don't Wait Till Midnight",
+      "url": "https://open.spotify.com/track/1JzcMh1Y6HmlTzwljsxFqz"
+    },
+    {
+      "album": {
         "name": "Dont Say Goodbye",
         "url": "https://open.spotify.com/album/0ennwyS35Ptcbq33RTJOHf"
       },
@@ -3942,7 +3978,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 287066,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/5hJztFVEllZgNO1y1iD7vC"
@@ -6268,7 +6304,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202106,
       "name": "God's Got It All In Control",
       "url": "https://open.spotify.com/track/3b3hXOn2s0QDZcm90mZwxx"
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 241093,
       "name": "Grace Of God",
       "url": "https://open.spotify.com/track/1HUqceGhRTXNuvuyMT7teG"
@@ -6898,7 +6934,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -7036,7 +7072,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 290040,
       "name": "He Brought Me",
       "url": "https://open.spotify.com/track/48j4xPahhbmBynZFTLEYRq"
@@ -7130,7 +7166,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 343133,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3N7VZ3bFgZ2JMwxTvw1n19"
@@ -7224,7 +7260,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190106,
       "name": "He Wants It All - Acoustic Version",
       "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
@@ -7314,7 +7350,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 240304,
       "name": "He'll Make It Alright",
       "url": "https://open.spotify.com/track/6YY9ZNNsFQX53WozAKUJja"
@@ -8150,7 +8186,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 351240,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0V9X25GyJcv39iz8UDsgIU"
@@ -8330,7 +8366,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 228240,
       "name": "Holy Spirit v1.1",
       "url": "https://open.spotify.com/track/2TLZ1vVlNHMjEBa0h0It4F"
@@ -10354,7 +10390,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 408426,
       "name": "I Win",
       "url": "https://open.spotify.com/track/1ImiaS6f0cZBgtAPr3gUot"
@@ -11034,7 +11070,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 351533,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz"
@@ -11888,7 +11924,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 274360,
       "name": "It's In God's Hands Now",
       "url": "https://open.spotify.com/track/6V4vKa0PCLvpvSn03ig55q"
@@ -13510,7 +13546,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 262920,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/299sErxtD0A5Ga7Egda855"
@@ -13856,10 +13892,28 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 467509,
       "name": "Lift Up Your Voices",
       "url": "https://open.spotify.com/track/60YO6vmmFsIPIhxvLTmwhL"
+    },
+    {
+      "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269579,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
     },
     {
       "album": {
@@ -13874,7 +13928,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213600,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/70d4A4oWiayLMk4mGsDyNi"
@@ -14928,7 +14982,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 371106,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/0myqyN0uGi1fNaSYBtdAbe"
@@ -15744,7 +15798,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 257160,
       "name": "My Desire",
       "url": "https://open.spotify.com/track/5HRFUx53D8AdDsFSJGh1Sp"
@@ -15762,7 +15816,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 405203,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3sqqOLBZogXER6fjpkamO0"
@@ -16988,7 +17042,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 278453,
       "name": "Oh Lord How Excellent Is Thy Name",
       "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
@@ -17136,7 +17190,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 209213,
       "name": "Oh, Lord, I Want You To Help Me",
       "url": "https://open.spotify.com/track/4YYAq7R4J1BOj48nKA0icC"
@@ -17626,7 +17680,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 230891,
       "name": "Over and Over (feat. Commissioned)",
       "url": "https://open.spotify.com/track/7wHGiGfccVKd7xJPvbuMJm"
@@ -17662,7 +17716,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 252619,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
@@ -19030,7 +19084,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 326493,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/5Gz1Esq9PTE4ZToRlJgPtY"
@@ -19366,7 +19420,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 202592,
       "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
       "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
@@ -20628,7 +20682,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -21184,7 +21238,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 253625,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
@@ -24704,7 +24758,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Whatcha Lookin' 4",
       "url": "https://open.spotify.com/track/5bdzt1K72IXdYEWjKl2XlO"

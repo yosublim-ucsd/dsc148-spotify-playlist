@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 854285,
+  "num_followers": 1602492,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeqbUAAAAAB/rLI8zaYS5ju2hKFDsOjE",
+  "snapshot_id": "Zj1MWQAAAAArxSz2OT8uQRRiAaX2IsQO",
   "tracks": [
     {
       "added_at": "2024-03-08 05:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 250574,
+      "name": "Strawberry Woman",
+      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 250574,
-      "name": "Strawberry Woman",
-      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Bluebeard",
         "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 188468,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH"
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
       "artists": [
         {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
         }
       ],
-      "duration_ms": 232649,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH"
       },
       "artists": [
         {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
         }
       ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+      "duration_ms": 232649,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Big Heart Manners",
+        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
+      },
+      "artists": [
+        {
+          "name": "Atta Boy",
+          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
+        }
+      ],
+      "duration_ms": 221289,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "What If I EP",
         "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 269015,
       "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
       "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Big Heart Manners",
-        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
-      },
-      "artists": [
-        {
-          "name": "Atta Boy",
-          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
-        }
-      ],
-      "duration_ms": 221289,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
     }
   ],
   "unique_name": "Chill Folk",

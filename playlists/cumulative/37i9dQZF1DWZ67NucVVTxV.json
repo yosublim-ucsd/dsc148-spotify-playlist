@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "album": {
         "name": "Badagry",
         "url": "https://open.spotify.com/album/6LJkRvpFfHIUwKSpuEMpDU"
       },
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187921,
       "name": "Billion Dollar",
       "url": "https://open.spotify.com/track/2Se3sIu5cf3iVbZ7XFgmgZ"
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202896,
       "name": "Can't Stop (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym"
@@ -3468,6 +3490,28 @@
       "duration_ms": 162687,
       "name": "Game Changer (Dike)",
       "url": "https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS"
+    },
+    {
+      "album": {
+        "name": "Water & Garri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151868,
+      "name": "Gara (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
     },
     {
       "album": {
@@ -5822,7 +5866,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 154279,
       "name": "Mandela",
       "url": "https://open.spotify.com/track/2IOL41W0MbfSMcCjsB3Lwo"
@@ -8277,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "Sabi Boy",
+        "url": "https://open.spotify.com/album/7o557nIfzSZ8SkFQ8AS5n9"
+      },
+      "artists": [
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/2puySLEjl3BYcfWeHUWM9Q"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134582,
+      "name": "Sabi Boy",
+      "url": "https://open.spotify.com/track/4VeeFeu0B2ZkxsG2dRnNrf"
+    },
+    {
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
       },
@@ -8810,7 +8872,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 171305,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/5b6FLRw2gZCibFy6cwuV8h"
@@ -8832,6 +8894,28 @@
       "duration_ms": 157168,
       "name": "Stop Nonsense",
       "url": "https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf"
+    },
+    {
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
       "album": {

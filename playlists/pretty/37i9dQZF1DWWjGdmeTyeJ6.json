@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Chanpan, Artwork: Isu Kim.",
-  "num_followers": 1192563,
+  "num_followers": 1192735,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjuUtwAAAADxvyruHuOxxLGc4HtWUHK2",
+  "snapshot_id": "ZjzNAAAAAAAzf2wh2zVgxFs77kk9ptaZ",
   "tracks": [
     {
       "added_at": "2024-05-08 15:05:27",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-05-08 15:05:27",
       "album": {
-        "name": "MADE4ME",
-        "url": "https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT"
-      },
-      "artists": [
-        {
-          "name": "R2R MOE",
-          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
-        }
-      ],
-      "duration_ms": 97227,
-      "name": "MADE4ME",
-      "url": "https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS"
-    },
-    {
-      "added_at": "2024-05-08 15:05:27",
-      "album": {
         "name": "Why Is It Light Out?",
         "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
       },
@@ -321,6 +305,22 @@
       "url": "https://open.spotify.com/track/24infhEthjRFtRysglZ1vj"
     },
     {
+      "added_at": "2024-05-01 14:59:21",
+      "album": {
+        "name": "Vicious Circle",
+        "url": "https://open.spotify.com/album/1fNpUJdes5gOXbCqM3DMrc"
+      },
+      "artists": [
+        {
+          "name": "Calalloo",
+          "url": "https://open.spotify.com/artist/5EwrOOA9r8NX48L2wLOj9P"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Vicious Circle",
+      "url": "https://open.spotify.com/track/7LAYoUTdYbpuTTe0Gbd9Sw"
+    },
+    {
       "added_at": "2024-05-08 15:05:27",
       "album": {
         "name": "Ego Ride",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/75y2zIjimdvfiDCVvACXlf"
     },
     {
-      "added_at": "2024-05-01 14:59:21",
-      "album": {
-        "name": "Vicious Circle",
-        "url": "https://open.spotify.com/album/1fNpUJdes5gOXbCqM3DMrc"
-      },
-      "artists": [
-        {
-          "name": "Calalloo",
-          "url": "https://open.spotify.com/artist/5EwrOOA9r8NX48L2wLOj9P"
-        }
-      ],
-      "duration_ms": 219386,
-      "name": "Vicious Circle",
-      "url": "https://open.spotify.com/track/7LAYoUTdYbpuTTe0Gbd9Sw"
-    },
-    {
       "added_at": "2024-05-08 15:05:27",
       "album": {
         "name": "Sunwarmed",
@@ -399,6 +383,22 @@
       "duration_ms": 178417,
       "name": "Sunwarmed",
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+    },
+    {
+      "added_at": "2024-05-08 15:05:27",
+      "album": {
+        "name": "MADE4ME",
+        "url": "https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "duration_ms": 97227,
+      "name": "MADE4ME",
+      "url": "https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS"
     },
     {
       "added_at": "2024-05-08 15:05:27",

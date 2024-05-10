@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-182 songs - 9 hr 42 min
+183 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 | 2024-03-15 |  |
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 | 2024-03-06 |
 | [Makoma](https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [R2Bees, Vol\. 2](https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf) | 4:12 | 2022-02-11 | 2022-07-08 |
+| [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-10 |  |
 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 | 2022-07-22 |  |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-11-24 |
 | [MIA](https://open.spotify.com/track/1IebTlyuQbihNgzyBHl4ps) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij) | [Boundaries](https://open.spotify.com/album/2fwP0nclEMCLZaYBI6rfYs) | 2:30 | 2023-07-28 | 2023-08-18 |
@@ -167,7 +168,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 | 2022-02-11 | 2022-07-29 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-02-11 | 2022-11-25 |
 | [Thunder Fire You](https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 2:59 | 2022-02-11 | 2023-11-08 |
-| [Thunder Fire You](https://open.spotify.com/track/6b5ZyyJhmPQXBg6gARsL19) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Thunder Fire You](https://open.spotify.com/album/3AY6ZYhDszzVCgg8rGE8fz) | 2:59 | 2023-11-03 |  |
+| [Thunder Fire You](https://open.spotify.com/track/6b5ZyyJhmPQXBg6gARsL19) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Thunder Fire You](https://open.spotify.com/album/3AY6ZYhDszzVCgg8rGE8fz) | 2:59 | 2023-11-03 | 2024-05-10 |
 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 | 2023-11-03 | 2024-03-06 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-08 |  |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-09-12 |

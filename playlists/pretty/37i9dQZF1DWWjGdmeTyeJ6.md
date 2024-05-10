@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Chanpan, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,563 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,735 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 11 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
 | 12 | [Blonde](https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\)](https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl) | 4:43 |
 | 13 | [a gentle gigg...](https://open.spotify.com/track/1goQhPlu2xq4GT8ZM2eiu7) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Jake Chapman](https://open.spotify.com/artist/61vqterkbDdQxQ1IO0Oybx) | [a gentle gigg...](https://open.spotify.com/album/2dKS8Oj7T9u7U3UzAtVbJk) | 1:54 |
-| 14 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 |
-| 15 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
-| 16 | [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 |
-| 17 | [Can't Be Still](https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0) | 2:58 |
-| 18 | [Olé](https://open.spotify.com/track/2kgS4ODScoyO1bJXxz2ANb) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [What U Didn't Know](https://open.spotify.com/album/1MrE81g70Hgebwf10nYZAJ) | 3:18 |
-| 19 | [I Don't Miss You](https://open.spotify.com/track/24infhEthjRFtRysglZ1vj) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Don't Miss You](https://open.spotify.com/album/3kpMwx0xTK3gpjoqW8MGWS) | 2:37 |
+| 14 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
+| 15 | [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 |
+| 16 | [Can't Be Still](https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0) | 2:58 |
+| 17 | [Olé](https://open.spotify.com/track/2kgS4ODScoyO1bJXxz2ANb) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [What U Didn't Know](https://open.spotify.com/album/1MrE81g70Hgebwf10nYZAJ) | 3:18 |
+| 18 | [I Don't Miss You](https://open.spotify.com/track/24infhEthjRFtRysglZ1vj) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Don't Miss You](https://open.spotify.com/album/3kpMwx0xTK3gpjoqW8MGWS) | 2:37 |
+| 19 | [Vicious Circle](https://open.spotify.com/track/7LAYoUTdYbpuTTe0Gbd9Sw) | [Calalloo](https://open.spotify.com/artist/5EwrOOA9r8NX48L2wLOj9P) | [Vicious Circle](https://open.spotify.com/album/1fNpUJdes5gOXbCqM3DMrc) | 3:39 |
 | 20 | [Brand New Bitch](https://open.spotify.com/track/4gjgZpzLzHcQV8d8NJCNq6) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Ego Ride](https://open.spotify.com/album/5R1XLI7L9KZDccGtIBhPb7) | 3:29 |
 | 21 | [Ways To Go](https://open.spotify.com/track/6qkzdkHdaPOy6vuD7kc9YT) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [Ways To Go](https://open.spotify.com/album/21Ra9DitrcC5HavnT8pMKm) | 3:18 |
 | 22 | [Always \- Single Edit](https://open.spotify.com/track/75y2zIjimdvfiDCVvACXlf) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [Always / Receiving Certain Answers](https://open.spotify.com/album/4eQvUClEYH9GbRr5q8L3c0) | 5:18 |
-| 23 | [Vicious Circle](https://open.spotify.com/track/7LAYoUTdYbpuTTe0Gbd9Sw) | [Calalloo](https://open.spotify.com/artist/5EwrOOA9r8NX48L2wLOj9P) | [Vicious Circle](https://open.spotify.com/album/1fNpUJdes5gOXbCqM3DMrc) | 3:39 |
-| 24 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
+| 23 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
+| 24 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 |
 | 25 | [I SEE U](https://open.spotify.com/track/01t1knKwlmGgNQbV9qhBKB) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [I SEE U](https://open.spotify.com/album/2B7fhEyxHqxx3d98Jau60i) | 2:32 |
 | 26 | [CALMA](https://open.spotify.com/track/6GHN1yz4xoCLnlPuG80lFh) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [CALMA](https://open.spotify.com/album/2Qo5wqgAGGIRMRxPMHTxD3) | 4:04 |
 | 27 | [chasing highs](https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [chasing highs](https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [The Ransom](https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [The Ransom](https://open.spotify.com/album/5n9Z7vxsXEnk0s7O2H6B35) | 4:10 |
 | 100 | [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 |
 
-Snapshot ID: `ZjuUtwAAAADxvyruHuOxxLGc4HtWUHK2`
+Snapshot ID: `ZjzNAAAAAAAzf2wh2zVgxFs77kk9ptaZ`

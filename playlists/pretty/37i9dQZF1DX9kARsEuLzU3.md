@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[](https://open.spotify.com/user/null) - 44,243 likes - 142 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,247 likes - 142 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

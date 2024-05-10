@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-73 songs - 6 hr 48 min
+74 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Galactic Highways](https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY) | 5:57 | 2023-06-16 | 2024-04-19 |
 | [Gasolina](https://open.spotify.com/track/7rCNFbBjRhFedDMagiH32L) | [Teto Preto](https://open.spotify.com/artist/71SeHRvF7QAnG8kSC9qbW5) | [Gasolina](https://open.spotify.com/album/6SDAXKA5lyCHjIjvDgKArc) | 7:46 | 2023-06-16 |  |
 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 | 2023-06-16 |  |
-| [Guarapan](https://open.spotify.com/track/5GL0TndOjy07iDPx4YY25v) | [Bruno Afterall](https://open.spotify.com/artist/7JdigJ1leJusGEZ4ZzrpM6) | [CurraL 001](https://open.spotify.com/album/0sEEFnpLE5L0X3y5ZHqd1C) | 6:16 | 2023-11-10 |  |
+| [Guarapan](https://open.spotify.com/track/5GL0TndOjy07iDPx4YY25v) | [Bruno Afterall](https://open.spotify.com/artist/7JdigJ1leJusGEZ4ZzrpM6) | [CurraL 001](https://open.spotify.com/album/0sEEFnpLE5L0X3y5ZHqd1C) | 6:16 | 2023-11-10 | 2024-05-10 |
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 | 2023-06-16 | 2024-01-14 |
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt) | 5:23 | 2023-11-10 | 2024-04-19 |
 | [If I Never See U Again](https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [Our Spacial Place](https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3) | 7:20 | 2023-11-10 |  |
@@ -69,6 +69,7 @@
 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 | 2023-06-16 |  |
 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 | 2023-06-16 |  |
 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 | 2023-06-16 |  |
+| [Rolling on](https://open.spotify.com/track/5aR1EKVo3HSZQ6fqzfbhEN) | [Agrabah](https://open.spotify.com/artist/0W42n8KUAWY7ZmlOqu3MIc) | [Golddome, Vol\. 2](https://open.spotify.com/album/0Ry56ZfTf3js0B8NxHKsKP) | 5:46 | 2023-11-10 |  |
 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 | 2023-06-16 |  |
 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 | 2023-06-16 |  |
 | [Senhor Carangeju](https://open.spotify.com/track/2WU1pLmxOS4zPiCXBE45rJ) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Na Lagoa](https://open.spotify.com/album/0acKE1PTMxBOEhijXOyOHM) | 6:49 | 2023-06-16 |  |

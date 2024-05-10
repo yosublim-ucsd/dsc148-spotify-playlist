@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: RIIZE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-573 songs - 1 day 7 hr 55 min
+574 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Baila Conmigo](https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [La Dolce Vita](https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5) | 3:08 | 2023-09-27 | 2023-11-03 |
 | [Be Mine](https://open.spotify.com/track/6xE5nzfGQvUCNIjkjQwzL4) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:35 | 2022-01-27 | 2022-05-27 |
 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 | 2022-03-02 | 2022-05-07 |
+| [BE SOMEBODY](https://open.spotify.com/track/4UibiUi3DvzFYI8EZO1NqC) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [EXHIBITION : Look Closely](https://open.spotify.com/album/5eXvNWA29n8vSvflqfDxOB) | 3:02 | 2024-05-09 |  |
 | [Be There For Me](https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Be There For Me \- Winter Special Single](https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd) | 3:37 | 2024-01-04 | 2024-02-06 |
 | [Be Your Star](https://open.spotify.com/track/5EqxbTYuoxO0Vogf29lLCW) | [WE IN THE ZONE](https://open.spotify.com/artist/2aCSYXdXqJNaXk99vjYnkQ) | [Be Your Star](https://open.spotify.com/album/7F8dZ0pPGvWHWYZf8a5k2D) | 4:08 | 2022-03-31 | 2022-04-07 |
 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 | 2022-05-30 | 2024-04-26 |
@@ -130,7 +131,7 @@
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-03-22 | 2022-04-16 |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-12-06 |  |
 | [Crazy Love](https://open.spotify.com/track/2BRFMJ1F7nSvpGedFic5jV) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [5cean : V](https://open.spotify.com/album/1NgdPUNmHXBpDaRN3jrQLS) | 3:14 | 2022-03-22 | 2022-04-19 |
-| [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 |  |
+| [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 | 2024-05-10 |
 | [CROWN](https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg) | 3:50 | 2021-12-08 | 2022-07-20 |
 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-10 | 2024-01-21 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-05-10 |
@@ -358,7 +359,7 @@
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-03 | 2022-11-25 |
 | [MMM](https://open.spotify.com/track/256pafuFi3cF39hfB7cyY0) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w) | 3:28 | 2022-01-13 | 2022-07-27 |
 | [Monochrome \(Color\)](https://open.spotify.com/track/2M1kWKx9G2MlVPtwKQjpHp) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 開花](https://open.spotify.com/album/36qrWqcSCVzubWlQzUyPtx) | 3:47 | 2022-07-27 | 2022-08-09 |
-| [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 | 2023-12-22 |
+| [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 | 2022-04-04 |  |
 | [MOON RIDER](https://open.spotify.com/track/5BHgAxwRsUMUYRMGtE0uEo) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [THE INTERSECTION: DISCOVERY](https://open.spotify.com/album/4LVXR1CjOeddSabwoa2C3j) | 3:11 | 2022-03-31 | 2022-04-21 |
 | [MOON WALKER](https://open.spotify.com/track/3DkILE5HlGOviYKUuX4Snl) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [MOON WALKER](https://open.spotify.com/album/0oicQ0zJ5HRwJKXDd8e4uu) | 3:13 | 2022-04-04 | 2022-06-26 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-01-27 | 2022-06-26 |
@@ -429,7 +430,7 @@
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2021-12-08 | 2022-07-07 |
 | [ROAR](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 3:40 | 2023-02-20 | 2023-04-20 |
 | [Rock Paper Scissors](https://open.spotify.com/track/2CBxNlZM8H88AKLDQPX07q) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [AWESOME UP!](https://open.spotify.com/album/0I9uhsE8bSIEU3Jf2PeDDP) | 3:10 | 2022-03-22 | 2022-04-14 |
-| [ROCK THANG](https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Kick\-START](https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy) | 3:02 | 2024-04-24 |  |
+| [ROCK THANG](https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Kick\-START](https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy) | 3:02 | 2024-04-24 | 2024-05-10 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 |  |

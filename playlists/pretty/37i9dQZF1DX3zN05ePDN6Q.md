@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Grafiteh
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,055 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,093 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 41 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 |
 | 42 | [Absolutamente](https://open.spotify.com/track/3sGthEY0DH3PsT1THjBh48) | [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [Blackalquimista](https://open.spotify.com/artist/6OHbCc4twVny2qLuodzhPv) | [Absolutamente](https://open.spotify.com/album/0q1IWKFxwbYuVQH8TPD6pt) | 4:00 |
 | 43 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 |
-| 44 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
+| 44 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
 | 45 | [Primeira Tentativa](https://open.spotify.com/track/1ZzictMbJwxOr2SJbq1Rl4) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Primeira Tentativa](https://open.spotify.com/album/4wN6Hek8jchNWCpMivno7B) | 3:08 |
 | 46 | [Zona Sul](https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 2:01 |
 | 47 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |

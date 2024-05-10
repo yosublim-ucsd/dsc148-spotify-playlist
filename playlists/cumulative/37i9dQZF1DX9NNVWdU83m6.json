@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "So Far, So Nice",
+        "url": "https://open.spotify.com/album/5x4asQIuA8XjORUMW6uray"
+      },
+      "artists": [
+        {
+          "name": "Aksarven",
+          "url": "https://open.spotify.com/artist/2IVEyII41ohYahX5VMyKkr"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381939,
+      "name": "So Far, So Nice",
+      "url": "https://open.spotify.com/track/0EY86f6kF4Mr2nUMGTPp95"
+    },
+    {
+      "album": {
         "name": "Social Abstract",
         "url": "https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF"
       },

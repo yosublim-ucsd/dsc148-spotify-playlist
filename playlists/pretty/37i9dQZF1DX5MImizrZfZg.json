@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 64130,
+  "num_followers": 64182,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Player's Club",
         "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 266106,
       "name": "On The Wes Side",
       "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
-      },
-      "artists": [
-        {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Night On The Town",
         "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 289240,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 327973,
-      "name": "Bumpin' on the Wes Side",
-      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 327973,
+      "name": "Bumpin' on the Wes Side",
+      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
     },
     {
       "added_at": "2020-08-19 19:15:51",

@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Damas Gratis.",
-  "num_followers": 564405,
+  "num_followers": 564443,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/7F6i3fwkcbP0y853HwGFgU"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "El Retutu",
-        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
-      },
-      "artists": [
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Hoy Volvi a Verte",
-      "url": "https://open.spotify.com/track/5DHaIx5bz44MidmwCs19mQ"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
         "name": "YO SOY TU MAESTRO (Remix)",
         "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "El Retutu",
+        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+      },
+      "artists": [
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Hoy Volvi a Verte",
+      "url": "https://open.spotify.com/track/5DHaIx5bz44MidmwCs19mQ"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1483,6 +1483,22 @@
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
         "name": "A Todo Remix",
         "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
       },
@@ -1695,46 +1695,6 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
-        "name": "La Jarra",
-        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 137150,
-      "name": "La Jarra",
-      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
         "name": "Cumbia del Recuerdo",
         "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
       },
@@ -1755,6 +1715,42 @@
       "duration_ms": 177340,
       "name": "Cumbia del Recuerdo",
       "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1799,18 +1795,22 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+        "name": "La Jarra",
+        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+      "duration_ms": 137150,
+      "name": "La Jarra",
+      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
     },
     {
       "added_at": "2024-04-27 14:25:39",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-04-27 14:25:39",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Me Volvi a Enamorar",
+      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
+    },
+    {
+      "added_at": "2024-04-27 14:25:39",
+      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
-    },
-    {
-      "added_at": "2024-04-27 14:25:39",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Me Volvi a Enamorar",
-      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
     },
     {
       "added_at": "2024-04-27 14:25:39",

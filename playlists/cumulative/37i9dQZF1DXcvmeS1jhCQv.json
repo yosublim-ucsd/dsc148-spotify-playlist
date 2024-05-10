@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: CARSTEN2X, Joe Butler",
+  "description": "New tunes from Ireland for your discovery. Cover: Curtisy",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Compliment Strike",
+        "url": "https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Crean",
+          "url": "https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204381,
+      "name": "Compliment Strike",
+      "url": "https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV"
+    },
+    {
+      "album": {
         "name": "daisy chains",
         "url": "https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh"
       },
@@ -688,6 +706,24 @@
       "duration_ms": 177040,
       "name": "Double Cherry",
       "url": "https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn"
+      },
+      "artists": [
+        {
+          "name": "Lilla Vargen",
+          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278302,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J"
     },
     {
       "album": {
@@ -889,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138906,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
+    },
+    {
+      "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/4Ah5nt1P0ClcZRbTTrrqAC"
       },
@@ -1048,6 +1106,24 @@
       "duration_ms": 196603,
       "name": "Landmine!",
       "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
+    },
+    {
+      "album": {
+        "name": "Let's Do It",
+        "url": "https://open.spotify.com/album/2UWXMQJvCyQzLv7huGCL1a"
+      },
+      "artists": [
+        {
+          "name": "\u00c6 MAK",
+          "url": "https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213917,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm"
     },
     {
       "album": {
@@ -1246,6 +1322,24 @@
       "duration_ms": 232936,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy"
+    },
+    {
+      "album": {
+        "name": "Shiny Things",
+        "url": "https://open.spotify.com/album/6hhRN0unI6NqCwAcFK8A7H"
+      },
+      "artists": [
+        {
+          "name": "Evie",
+          "url": "https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278053,
+      "name": "Magpie",
+      "url": "https://open.spotify.com/track/2FnXW99ww6e0LREz0WN2hv"
     },
     {
       "album": {
@@ -1640,7 +1734,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 226796,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw"
@@ -1752,6 +1846,24 @@
       "duration_ms": 258829,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq"
+    },
+    {
+      "album": {
+        "name": "QUIET",
+        "url": "https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS"
+      },
+      "artists": [
+        {
+          "name": "Chubby Cat",
+          "url": "https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200403,
+      "name": "QUIET",
+      "url": "https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ"
     },
     {
       "album": {

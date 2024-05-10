@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-884 songs - 2 day 12 hr 25 min
+885 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Keep It Secret](https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Keep It Secret](https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM) | 2:48 | 2023-05-31 | 2023-07-13 |
 | [Keeping Secrets Will Destroy You](https://open.spotify.com/track/7n28tz5VRBlNpS4N7wTQwf) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/5KhQ3aMiWJ3l6Te4oYw5E4) | 6:00 | 2023-11-20 | 2024-01-25 |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 | 2022-10-21 |
+| [Kids On Holiday \- Live](https://open.spotify.com/track/2NaQ5oJ6SzF2YTVPBbvdky) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Kids On Holiday \(Live\)](https://open.spotify.com/album/6r6V1etUvbGViUVFVt0y8c) | 6:36 | 2024-05-09 |  |
 | [Kind Ghosts](https://open.spotify.com/track/5dstiVRqqlNFifoIIhz4ET) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Bird Machine](https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy) | 2:52 | 2023-09-13 | 2023-11-02 |
 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 | 2023-08-21 | 2023-10-26 |
 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 | 2023-05-24 | 2023-07-06 |

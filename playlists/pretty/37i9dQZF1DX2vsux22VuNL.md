@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,348 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,352 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 18 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
 | 19 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 |
 | 20 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 |
-| 21 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
-| 22 | [Medida Certa](https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Medida Certa](https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu) | 4:04 |
+| 21 | [Medida Certa](https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Medida Certa](https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu) | 4:04 |
+| 22 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
 | 23 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 24 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
 | 25 | [Destino](https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Destino](https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp) | 2:39 |

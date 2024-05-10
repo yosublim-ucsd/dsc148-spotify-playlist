@@ -72,7 +72,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 298359,
       "name": "52 North - Soul Supreme Remix",
       "url": "https://open.spotify.com/track/2JkDkKKQGe7JLmjRSsEKyo"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 230239,
       "name": "Be Thankful For What You\u2019ve Got",
       "url": "https://open.spotify.com/track/3UfyMJ6JzeBNqjLUgGHKR2"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 175670,
       "name": "bedroom floor - Moods Remix",
       "url": "https://open.spotify.com/track/5i5LHbxQdOylqIx3Nxb17x"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 163392,
       "name": "Breeze - Remix",
       "url": "https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198320,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 249721,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5bfuYOSY3lC5KRjKaPs7hx"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187642,
       "name": "Come to Me - Late Night Version",
       "url": "https://open.spotify.com/track/4dsuDBdmva1gGqx35pd8Zy"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 227781,
       "name": "Drowning in Your Love - Gold Edit",
       "url": "https://open.spotify.com/track/2wi5SH9O2HrLIZpivx4xzE"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 209493,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 183986,
       "name": "Hard to Get",
       "url": "https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 177798,
       "name": "Hey Amy!",
       "url": "https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN"
@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202570,
       "name": "How Dare You",
       "url": "https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 190188,
       "name": "Keep on Fighting",
       "url": "https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS"
@@ -3520,6 +3520,32 @@
       "duration_ms": 182455,
       "name": "Losing My Perfection",
       "url": "https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/77KWopOZQjrJ1aAYovUQhS"
+      },
+      "artists": [
+        {
+          "name": "Makzo",
+          "url": "https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96"
+        },
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190851,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4NVrNTSPyRBGKkqHNDBbxi"
     },
     {
       "album": {
@@ -3812,7 +3838,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 252973,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/4s5mgc5yk3zwlPUaamoZYZ"
@@ -3942,7 +3968,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213781,
       "name": "Motions",
       "url": "https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j"
@@ -4500,7 +4526,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
@@ -4561,6 +4587,32 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY"
+    },
+    {
+      "album": {
         "name": "Paradise (Remix)",
         "url": "https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu"
       },
@@ -4606,7 +4658,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf"
@@ -4734,7 +4786,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 178133,
       "name": "Pills - Single Version",
       "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
@@ -5440,7 +5492,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 235219,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs"

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32488,
+  "num_followers": 32494,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAABz3prfclUQ5UXuimq3lqTH",
+  "snapshot_id": "ZjrAgAAAAABxkZx69aHSGhL0Exjq6qI9",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -111,30 +135,6 @@
       "duration_ms": 279573,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty Season - Spring Deluxe",
-        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "No More Heroes",
-          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
-      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -643,6 +627,42 @@
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,
@@ -671,90 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
-      },
-      "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 162217,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4GOD II",
-        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 139541,
-      "name": "Skeme (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -779,6 +715,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 162217,
+      "name": "Real One",
+      "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 139541,
+      "name": "Skeme (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -795,6 +771,22 @@
       "duration_ms": 200490,
       "name": "Never Scared (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
     },
     {
       "added_at": null,
@@ -835,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 244329,
-      "name": "2 Chains",
-      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -887,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Letter to My Love",
-      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) [Drill Remix]",
         "url": "https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY"
       },
@@ -935,6 +895,22 @@
       "duration_ms": 218880,
       "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
       "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164992,
+      "name": "Letter to My Love",
+      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     },
     {
       "added_at": null,
@@ -1055,6 +1031,30 @@
       "duration_ms": 228251,
       "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
       "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 220380,
+      "name": "Perfect Match (feat. 42 Dugg & G Herbo)",
+      "url": "https://open.spotify.com/track/42L59PO4HHI9OMxjtIoX2q"
     }
   ],
   "unique_name": "This Is G Herbo",

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: De Fam
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Fahimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,012 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,046 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
-| 2 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
-| 3 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 |
+| 1 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 |
+| 2 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
+| 3 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
 | 4 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 5 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 |
 | 6 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Bahagiamu Tujuanku](https://open.spotify.com/track/0KFiqNPnETw3mH4rprMYE6) | [Luqman Faiz](https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH) | [Bahagiamu Tujuanku](https://open.spotify.com/album/6zYEsYOVwJgOWwiyPUuywE) | 3:45 |
 | 50 | [Diam](https://open.spotify.com/track/3Kjftr1Zz1iVNvTB1SyodI) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Antonim Pt\. I](https://open.spotify.com/album/02SRZ4OSSxnHvyLQX83fwl) | 3:21 |
 
-Snapshot ID: `ZjseDwAAAACaRJbvEkPWKzeLVoyJLCDI`
+Snapshot ID: `ZjzzAAAAAAB8uQTwhVeXTNEw1XcwbqGs`

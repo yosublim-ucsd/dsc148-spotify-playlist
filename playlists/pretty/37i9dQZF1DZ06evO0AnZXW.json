@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2912874,
+  "num_followers": 2913257,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADJtnmpMfskXKfWQJ1ep1Em",
+  "snapshot_id": "ZjrAgAAAAAC9lh/YsVoTkFJzksF4ETvT",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 186267,
-      "name": "NUMB",
-      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
+      "duration_ms": 99658,
+      "name": "before I close my eyes",
+      "url": "https://open.spotify.com/track/16x9bQHw8TBNaGDyULvwad"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 213132,
       "name": "Roll in Peace (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "let's pretend we're numb",
-        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 80105,
-      "name": "let's pretend we're numb",
-      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "vice city",
+        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "vice city",
+      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "vice city",
-        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "vice city",
-      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
     },
     {
       "added_at": null,
@@ -871,18 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOOK AT ME: THE ALBUM",
-        "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
       "artists": [
         {
           "name": "XXXTENTACION",
           "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
+        },
+        {
+          "name": "Killstation",
+          "url": "https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8"
         }
       ],
-      "duration_ms": 173320,
-      "name": "#ImSippinTeaInYoHood",
-      "url": "https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w"
+      "duration_ms": 209107,
+      "name": "Slipknot",
+      "url": "https://open.spotify.com/track/2NaIkDKuKrAcHoj8moeIQV"
     }
   ],
   "unique_name": "This Is XXXTENTACION",

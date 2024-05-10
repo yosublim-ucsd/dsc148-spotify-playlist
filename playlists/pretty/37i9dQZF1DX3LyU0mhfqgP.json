@@ -1,12 +1,12 @@
 {
   "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Mustii",
-  "num_followers": 1079829,
+  "num_followers": 1079834,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zjlg8AAAAADM1SZ/ZB0F4oBm4kqAxCvf",
+  "snapshot_id": "ZjyVjQAAAAD5g3kGSlDkrP3vQdjkdEIP",
   "tracks": [
     {
       "added_at": "2024-05-06 23:00:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
     },
     {
+      "added_at": "2024-05-09 09:21:17",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+    },
+    {
       "added_at": "2024-05-06 23:00:00",
       "album": {
         "name": "Spite",
@@ -707,22 +723,6 @@
       "duration_ms": 170322,
       "name": "Ave Mar\u00eda Put\u00edsima",
       "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
-    },
-    {
-      "added_at": "2024-05-06 23:00:00",
-      "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/1OgA0KrmfCLFhvd4MYdcks"
-      },
-      "artists": [
-        {
-          "name": "Cupid Girl",
-          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
-        }
-      ],
-      "duration_ms": 185129,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1qM63pyuwLKxHaASfEKK2I"
     },
     {
       "added_at": "2024-05-06 23:00:00",

@@ -2,13 +2,14 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits Pop du Maghreb sont ici\. Cover: Kawtar
+> Les meilleurs hits Pop du Maghreb sont ici\. Cover: RYM
 
-114 songs - 6 hr 13 min
+115 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2023-07-07 | 2024-01-05 |
+| [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 | 2024-05-09 |  |
 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 | 2023-07-07 | 2024-04-08 |
 | [9AD BIA](https://open.spotify.com/track/5qV1jHWF80Pe3jQHHFzIol) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [9AD BIA](https://open.spotify.com/album/5OW9hrQBgVAB4oDBuDEJp1) | 2:46 | 2023-11-07 |  |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 | 2024-04-24 |
@@ -48,7 +49,7 @@
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-08 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2023-07-07 | 2023-08-19 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2023-07-07 | 2023-08-09 |
-| [Golli](https://open.spotify.com/track/2iPUpptsp5uRNMWFoAOdbH) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Golli](https://open.spotify.com/album/6LmfEw8AXNfCKGWhh24BZd) | 3:33 | 2024-02-07 |  |
+| [Golli](https://open.spotify.com/track/2iPUpptsp5uRNMWFoAOdbH) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Golli](https://open.spotify.com/album/6LmfEw8AXNfCKGWhh24BZd) | 3:33 | 2024-02-07 | 2024-05-10 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2023-07-07 | 2024-01-04 |
 | [Hada Hali Min Baadak](https://open.spotify.com/track/2lvG3rlN2hXJzien2hGU6t) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Hada Hali Min Baadak](https://open.spotify.com/album/2P5KHLfSqOKehqmB2Y8p3u) | 3:10 | 2024-04-17 |  |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-07-07 | 2024-05-03 |

@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-61 songs - 3 hr 19 min
+62 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-11-09 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 |  |
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
+| [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 |  |
 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,406 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,448 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 24 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 25 | [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 |
 | 26 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
-| 27 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
-| 28 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 |
+| 27 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 |
+| 28 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
 | 29 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 |
 | 30 | [Ổ Quỷ](https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [summerdayy](https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt), [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch) | [Ổ Quỷ](https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2) | 4:11 |
 | 31 | [pho real](https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [pho real](https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD) | 2:46 |

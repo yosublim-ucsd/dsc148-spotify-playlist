@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: BABYMONSTER\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-398 songs - 21 hr 59 min
+399 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 | 2023-11-29 | 2024-01-03 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-21 |  |
 | [Fever](https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:34 | 2022-03-22 | 2022-07-28 |
+| [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 | 2024-05-09 |  |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-01 | 2023-01-20 |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-31 |  |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2022-11-26 |
@@ -146,7 +147,7 @@
 | [Hangang](https://open.spotify.com/track/4WEbWA7Fz8CgMWeeRZ0Ixy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [THE FAN TOP2](https://open.spotify.com/album/5MNfWlcijGtBHTf7z0VfyM) | 3:43 | 2022-01-19 | 2022-06-03 |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2021-11-21 | 2022-05-22 |
 | [Happy Now!](https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Happy Now!](https://open.spotify.com/album/4VfKsyu4Z5p09r42dKlAzn) | 3:00 | 2021-11-21 | 2022-07-09 |
-| [HATE ME \(feat\. youra\) \(prod\. WOOGIE\)](https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [유라\(youra\)](https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3](https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA) | 3:09 | 2021-11-21 |  |
+| [HATE ME \(feat\. youra\) \(prod\. WOOGIE\)](https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [유라\(youra\)](https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3](https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA) | 3:09 | 2021-11-21 | 2024-05-10 |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2023-07-04 | 2023-10-15 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2024-03-21 | 2024-03-26 |
 | [Hide And Seek](https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hide And Seek \(Full Version\)](https://open.spotify.com/album/0Twooiwlv1TjdY9Fe8VfsP) | 2:57 | 2021-11-21 | 2022-07-03 |

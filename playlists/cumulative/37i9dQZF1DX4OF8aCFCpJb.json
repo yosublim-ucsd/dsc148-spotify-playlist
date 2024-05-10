@@ -292,10 +292,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 140487,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo"
+      },
+      "artists": [
+        {
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Andra Sidan",
+      "url": "https://open.spotify.com/track/4mgjdD83RABXAM64vB3AQu"
     },
     {
       "album": {
@@ -568,7 +586,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 236982,
       "name": "Brandman",
       "url": "https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme"
@@ -1141,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Fri",
+        "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
+      },
+      "artists": [
+        {
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
+        },
+        {
+          "name": "Robert Athill",
+          "url": "https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Fri (feat. Robert Athill)",
+      "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
+    },
+    {
+      "album": {
         "name": "Fri Nu",
         "url": "https://open.spotify.com/album/7ghf4wxgcdA5tfuaRIlk89"
       },
@@ -1178,7 +1218,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 260000,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
@@ -2192,6 +2232,24 @@
       "duration_ms": 211884,
       "name": "Lidande",
       "url": "https://open.spotify.com/track/3cmx2Iuy5idbybedfwdhyS"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6dbPOlI0wAWA80pJRpmxyo"
+      },
+      "artists": [
+        {
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Likadant",
+      "url": "https://open.spotify.com/track/7ghbl9klH7MAjvofXyuGkb"
     },
     {
       "album": {

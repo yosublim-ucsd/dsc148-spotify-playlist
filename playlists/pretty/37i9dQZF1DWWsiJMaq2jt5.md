@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4I27OgvXt7ILLX2AtbQHO2">Daria ze Śląska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,170 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,220 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Szum](https://open.spotify.com/track/4B627phrJTjROeaErneLIX) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Szum](https://open.spotify.com/album/3iu939TfOMxWMqdh8kvPPN) | 3:54 |
 | 60 | [NADCHODZĘ](https://open.spotify.com/track/13ZnaBMUlMWrVmYnFzj5uO) | [MEG](https://open.spotify.com/artist/49ZogfJCdbZeaGIfLNbgqX) | [NADCHODZĘ](https://open.spotify.com/album/3wA712yigyRYMTKT3HJWD8) | 2:13 |
 
-Snapshot ID: `ZjK7nAAAAADOuLOgbNKQX/2lwCxW3SzG`
+Snapshot ID: `ZjyIAQAAAAC2UuOTLN0rTcYP5H9XnhnQ`

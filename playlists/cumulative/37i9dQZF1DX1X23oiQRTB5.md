@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola au top de la première playlist de rap français !
+> Kerchak au top de la première playlist de rap français !
 
 249 songs - 12 hr 47 min
 

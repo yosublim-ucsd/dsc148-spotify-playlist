@@ -4,12 +4,13 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-75 songs - 4 hr 29 min
+77 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action Talk](https://open.spotify.com/track/6VBCB9pZvaSGv9nCvCmph6) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Action Talk](https://open.spotify.com/album/7A5eEvwFO7chIh9EHxHvOi) | 3:37 | 2022-04-13 | 2022-10-29 |
 | [Adoration](https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc) | [Dafari](https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x) | [Preacher Bwoy](https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu) | 3:57 | 2022-04-13 |  |
+| [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 | 2024-05-10 |  |
 | [Anaweza](https://open.spotify.com/track/0kjoe34OL34ON1BiilcX2e) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Mwinda](https://open.spotify.com/artist/385E4qebI5ISB89FLVuP1w), [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [Shani](https://open.spotify.com/artist/6KYXhgWVbPSFpndvKW0jVe) | [Anaweza](https://open.spotify.com/album/6ihadbtYKqtsTJMWWBY3n3) | 3:20 | 2022-04-13 | 2023-10-13 |
 | [Anza Na Mimi](https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anza Na Mimi](https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL) | 3:42 | 2022-04-13 |  |
 | [Backslide](https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c) | [Ringtone](https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB), [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Backslide](https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q) | 3:53 | 2022-04-13 | 2024-01-21 |
@@ -73,6 +74,7 @@
 | [Secret Agenda](https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Secret Agenda](https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j) | 3:39 | 2023-02-06 |  |
 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 | 2022-04-13 |  |
 | [Tembea](https://open.spotify.com/track/6UrjlQls3bB7lXtfsMLnb7) | [HopeKid](https://open.spotify.com/artist/3MZDn7MH1suAOBBp9VioKG), [Phyllis Mbuthia](https://open.spotify.com/artist/2Gmusr1VjYGXRYJ7uib6Ii) | [Tembea](https://open.spotify.com/album/2ydl5E3CtrBhi0dAInUiCt) | 3:07 | 2022-04-13 |  |
+| [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 |  |
 | [Trust Him](https://open.spotify.com/track/5iT7KTkPuHJI6P3PfS5L0G) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1) | [Trust Him](https://open.spotify.com/album/4TF0VK6inwxETbYP3g9nMP) | 3:20 | 2022-10-28 |  |
 | [Ukiokoka](https://open.spotify.com/track/1QtFu0IWKC9XM93ZeiYFyP) | [Eko Dydda](https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs) | [Ukiokoka](https://open.spotify.com/album/2q1iT6EVxA3V9Af9GUHgIX) | 3:01 | 2022-04-13 |  |
 | [Ulimi wangu](https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5) | [Timam Evans](https://open.spotify.com/artist/3Pl2sjphziaizyq0JUBzVO) | [Ulimi wangu](https://open.spotify.com/album/4ehQVrrB1CKU7lE0ZIFG5A) | 3:39 | 2022-04-13 | 2023-02-07 |

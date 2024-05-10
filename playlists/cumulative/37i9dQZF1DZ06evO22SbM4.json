@@ -32,12 +32,48 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198904,
+      "name": "Chase Her",
+      "url": "https://open.spotify.com/track/3a8NTuwOT8NcIS3FpsLhY1"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Forget About You",
+      "url": "https://open.spotify.com/track/1METmonk8nOuH6rEl10P4Q"
     },
     {
       "album": {
@@ -70,7 +106,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 182465,
       "name": "Get to Gettin\u2019 Gone",
       "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
@@ -106,7 +142,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 220800,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/4U8SkKuNOZrgTR1NC9WYaC"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
@@ -254,7 +290,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 217600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"

@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASVhmFkW1mJngOb5L/IxLaVNhqoY5y",
+  "snapshot_id": "AAASV/cCmX+ER83m9mqbV9ABmBwzLGCk",
   "tracks": [
+    {
+      "added_at": "2024-05-09 15:20:34",
+      "album": {
+        "name": "So Lost",
+        "url": "https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "So Lost",
+      "url": "https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik"
+    },
     {
       "added_at": "2024-05-08 17:44:41",
       "album": {

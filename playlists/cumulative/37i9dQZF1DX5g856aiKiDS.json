@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 153080,
       "name": "Foggy",
       "url": "https://open.spotify.com/track/3IEl9Hb4Wx1gtVF6op4LUc"
@@ -1996,6 +1996,24 @@
       "duration_ms": 173300,
       "name": "honest (feat. 16)",
       "url": "https://open.spotify.com/track/4Z6goHBB4GVpVkDwSQypMI"
+    },
+    {
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     },
     {
       "album": {
@@ -3320,6 +3338,24 @@
       "duration_ms": 202853,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
+    },
+    {
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140506,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
     },
     {
       "album": {
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 187922,
       "name": "Wanna be my",
       "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
@@ -5778,7 +5814,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 173946,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"

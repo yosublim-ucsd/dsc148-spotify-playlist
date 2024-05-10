@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Careful What You Wish For (the doctor said to)",
+        "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Careful What You Wish For (the doctor said to)",
+      "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -1325,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/26NytPWfwTRLNf5sc2pLZW"
+    },
+    {
+      "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
         "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
       },
@@ -1336,7 +1372,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 157658,
       "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
@@ -1894,6 +1930,28 @@
     {
       "album": {
         "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/0032QlMqm65ohC25r4wP7Y"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334760,
+      "name": "Friendly Pressure - Into The Sunshine Mix",
+      "url": "https://open.spotify.com/track/2iGJBdveYzCfZ8Pkagwu73"
+    },
+    {
+      "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
         "url": "https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl"
       },
       "artists": [
@@ -1908,7 +1966,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 334760,
       "name": "Friendly Pressure - Into The Sunshine Mix",
       "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
@@ -5550,7 +5608,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 180715,
       "name": "SPINE",
       "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"

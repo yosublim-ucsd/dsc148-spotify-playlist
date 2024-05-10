@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "\u5341\u6b72",
+        "url": "https://open.spotify.com/album/1vXpNDoFk4p0Kv02k2sB2z"
+      },
+      "artists": [
+        {
+          "name": "Hsiao Hung-Jen",
+          "url": "https://open.spotify.com/artist/4nJSlwFDAtGvoNW8cmvacD"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "\u5341\u6b72",
+      "url": "https://open.spotify.com/track/08J5OVk3OFg8NK2KEoqF7u"
+    },
+    {
+      "album": {
         "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
         "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 176673,
       "name": "\u5b89",
       "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"

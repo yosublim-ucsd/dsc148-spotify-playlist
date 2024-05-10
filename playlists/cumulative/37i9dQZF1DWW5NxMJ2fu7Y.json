@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Ayala",
+        "url": "https://open.spotify.com/album/71mpnHnlye8O62xMgL4vpn"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Ayala",
+      "url": "https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC"
+    },
+    {
+      "album": {
         "name": "Baghi Ntoub",
         "url": "https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN"

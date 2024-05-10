@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,442 likes - 80 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,865 likes - 80 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 57 | [Heart and Soul](https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 5:50 |
 | 58 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
 | 59 | [Mephisto Waltz](https://open.spotify.com/track/6tK79x1EWm9JjRRfRM2FJz) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [Thalia](https://open.spotify.com/album/7nvZE7znYOXL1DT1NtQ5wJ) | 4:52 |
-| 60 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
-| 61 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 |
+| 60 | [Deep Ocean Vast Sea](https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 4:09 |
+| 61 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 62 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 63 | [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 |
 | 64 | [Valentine's Day](https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Za Bakdaz: The Unfinished Opera](https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5) | 2:49 |
 | 65 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 |
 | 66 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
 | 67 | [Pale Empress](https://open.spotify.com/track/0MpED5lINAluPXp1zoS0Zq) | [The Merry Thoughts](https://open.spotify.com/artist/0nGkRbjHNrPwbjseJ2pckm) | [New Alternatives II](https://open.spotify.com/album/7LaYAOE7PbtbE8gTRyZgHL) | 3:37 |
-| 68 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 |
-| 69 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 |
+| 68 | [Gothic Girl](https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Gothic Essential Tracks](https://open.spotify.com/album/540DrBi3W4doXmlMpmohj5) | 4:28 |
+| 69 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 |
 | 70 | [North, South, East and West](https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:49 |
 | 71 | [Rumours](https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS) | [The Beauty of Gemina](https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU) | [At the End of the Sea](https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S) | 3:55 |
 | 72 | [Wild World](https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL) | [Love Is Colder Than Death](https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7) | [Teignmouth](https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc) | 4:21 |

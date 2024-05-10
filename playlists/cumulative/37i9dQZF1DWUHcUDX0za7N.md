@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Ajebo Hustlers
+> Hip hop and rap music from Nigeria\. Cover: Jeriq
 
-399 songs - 19 hr 2 min
+401 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Barawo](https://open.spotify.com/track/2udaOpi8QzEKkiuwZoTcIa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ) | 3:49 | 2023-10-06 | 2023-12-02 |
 | [Basic](https://open.spotify.com/track/2VDTxpDlQnSfZgLbJnufV6) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Rasaqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx) | 4:38 | 2022-06-09 | 2022-11-25 |
 | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY) | 2:43 | 2022-10-28 | 2023-04-22 |
-| [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 |  |
+| [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 | 2024-05-10 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-11-11 |
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-11-10 | 2024-04-19 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
@@ -171,6 +171,7 @@
 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 | 2022-06-09 | 2023-02-24 |
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-29 |
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-04-23 |
+| [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-05-10 |  |
 | [Ikebe](https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0) | [DJ Madengo](https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ikebe](https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek) | 3:09 | 2022-11-24 | 2023-01-20 |
 | [In Battle](https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [In Battle](https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW) | 3:16 | 2023-11-03 | 2024-02-03 |
 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 | 2023-07-28 | 2024-05-07 |
@@ -216,6 +217,7 @@
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2023-10-06 | 2023-10-14 |
 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 | 2022-06-09 | 2023-06-17 |
 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 | 2023-11-17 | 2023-11-21 |
+| [MMD \(Money Must Drop\)](https://open.spotify.com/track/2Hetnf0XsYPtFyDaB3JI99) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [MMD \(Money Must Drop\)](https://open.spotify.com/album/15WfgiAp3HNIlUaqLE3mLr) | 3:37 | 2024-05-10 |  |
 | [Monaco](https://open.spotify.com/track/4hjINFiJeF8lBFiWphn3Kf) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Monaco](https://open.spotify.com/album/7unx4vrnytVLwxZ3G1DXK4) | 2:33 | 2022-06-30 | 2022-11-25 |
 | [Money](https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Money](https://open.spotify.com/album/5IIpueCw1R42hUMXesOxXS) | 2:45 | 2024-03-15 | 2024-04-12 |
 | [Money Takes Away the Pain.](https://open.spotify.com/track/1lxuTgdKuS8bqDEKRUfDUJ) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Beat$byladi](https://open.spotify.com/artist/41o2VVzfcd8o5TzYZLPEos) | [Money Takes Away the Pain.](https://open.spotify.com/album/3lM6CqTPsvohn0BQ4ebPaP) | 2:14 | 2023-05-19 | 2023-05-27 |
@@ -279,7 +281,7 @@
 | [Pepper Dem](https://open.spotify.com/track/5OOJeJuR8cy18QeohY5qhT) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Introduction](https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym) | 2:24 | 2023-12-08 | 2024-02-03 |
 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 | 2022-09-01 | 2023-02-24 |
 | [Personally](https://open.spotify.com/track/4AnvyLTX8ZAe3LVGrE7h8h) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/0uiaL4veJ9NbbUbVjZJtIO) | 2:09 | 2024-04-05 | 2024-04-19 |
-| [Personally](https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej) | 2:09 | 2024-03-01 |  |
+| [Personally](https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Personally](https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej) | 2:09 | 2024-03-01 | 2024-05-10 |
 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 | 2023-03-17 | 2024-04-22 |
 | [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 | 2023-12-22 | 2024-04-26 |
 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-11-24 | 2023-10-16 |

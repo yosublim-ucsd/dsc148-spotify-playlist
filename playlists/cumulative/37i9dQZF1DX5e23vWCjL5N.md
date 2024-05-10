@@ -4,12 +4,13 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Kid Yugi
 
-169 songs - 8 hr 58 min
+170 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 | 2023-11-17 |  |
 | [4AM \(feat\. Nayt\)](https://open.spotify.com/track/28e2tSmvlacRKq69nkhDQ2) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [FLOW](https://open.spotify.com/album/1rXh4Ui9xfA0qK4k9GZYza) | 2:28 | 2023-02-02 | 2023-12-01 |
+| [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 | 2024-05-09 |  |
 | [64 BARRE DI PAURA](https://open.spotify.com/track/3xhovobvcDab7lEV2MGKMh) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Marz](https://open.spotify.com/artist/2PmfTGENqjIKHRucbD5aJO) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:11 | 2022-04-15 |  |
 | [64 BARRE DI PAURA](https://open.spotify.com/track/6JPEGmxZ9pTBNDCyf4PMbf) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Marz](https://open.spotify.com/artist/2PmfTGENqjIKHRucbD5aJO) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:11 | 2022-07-15 | 2024-04-19 |
 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/11j3iextfkiRGYrl1UsMwt) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:36 | 2022-04-15 | 2022-07-29 |
@@ -93,7 +94,7 @@
 | [La Merce Più Buona \(feat\. Emis Killa & Guè\)](https://open.spotify.com/track/1QuMDggqlPRHM4BRXVkPV9) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 4:02 | 2023-12-14 |  |
 | [La Pace È La Risposta](https://open.spotify.com/track/7nadpBZq56D2Kl4QRn1WMn) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [La Pace È La Risposta](https://open.spotify.com/album/7K8vME5lUhdNi5rfuaHDjc) | 3:25 | 2024-02-15 | 2024-03-01 |
 | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0) | 2:51 | 2022-12-15 | 2023-01-13 |
-| [LAPROVINCE \#3](https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:58 | 2024-03-29 |  |
+| [LAPROVINCE \#3](https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:58 | 2024-03-29 | 2024-05-10 |
 | [LAVA FREESTYLE](https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [LAVA FREESTYLE](https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx) | 1:59 | 2022-06-09 | 2023-09-15 |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/24rUo2kPLa3HfMCHypXmnH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 4:59 | 2022-07-15 | 2022-08-05 |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 | 2022-04-15 |  |

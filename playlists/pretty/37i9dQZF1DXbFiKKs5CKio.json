@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 56638,
+  "num_followers": 56660,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -79,26 +79,6 @@
     {
       "added_at": "2024-04-05 03:01:00",
       "album": {
-        "name": "Mil\u00e3o",
-        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        }
-      ],
-      "duration_ms": 199972,
-      "name": "Mil\u00e3o",
-      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
-    },
-    {
-      "added_at": "2024-04-05 03:01:00",
-      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 212300,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
+    },
+    {
+      "added_at": "2024-04-05 03:01:00",
+      "album": {
+        "name": "Mil\u00e3o",
+        "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        }
+      ],
+      "duration_ms": 199972,
+      "name": "Mil\u00e3o",
+      "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
     },
     {
       "added_at": "2024-04-05 03:01:00",

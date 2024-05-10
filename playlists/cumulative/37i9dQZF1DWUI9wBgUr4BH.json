@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Sia",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Dua Lipa",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 188960,
       "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/5peFNKKLZUaOYE0c3qZNE1"
@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Facile \u00e0 danser",
+        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Facile \u00e0 danser",
+      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
+    },
+    {
+      "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
@@ -2758,6 +2776,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
       "album": {
@@ -3995,6 +4031,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q"
       },
@@ -4480,7 +4538,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 225733,
       "name": "Panama",
       "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
@@ -4620,7 +4678,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 144922,
       "name": "Piano Piano",
       "url": "https://open.spotify.com/track/1SUiLWeJFzuDYo7VzendQV"
@@ -5527,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Sommet",
+        "url": "https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "Sommet",
+      "url": "https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk"
+    },
+    {
+      "album": {
         "name": "Speed Drive (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
@@ -5942,7 +6018,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 160336,
       "name": "Toko dombi",
       "url": "https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ"

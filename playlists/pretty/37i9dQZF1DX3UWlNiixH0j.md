@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Tempalay
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,809 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,814 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 59 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 |
 | 60 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 61 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
-| 62 | [NEHAN](https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [NEHAN](https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8) | 5:29 |
-| 63 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 |
+| 62 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 |
+| 63 | [NEHAN](https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [NEHAN](https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8) | 5:29 |
 | 64 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 |
 | 65 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
 | 66 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 72 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
 | 73 | [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 |
 | 74 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 75 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 |
-| 76 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
+| 75 | [透明](https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:45 |
+| 76 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 |
 | 77 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
-| 78 | [透明](https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:45 |
+| 78 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
 | 79 | [Playground feat\. \(sic\)boy, HIYADAM](https://open.spotify.com/track/2sdFvhkpMzHCj2CyvhvGOh) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [TSUBAME](https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF) | [Playground feat\. \(sic\)boy, HIYADAM](https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx) | 3:44 |
 | 80 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 81 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 94 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
 | 95 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 |
 | 96 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
-| 97 | [Sketch For Spring](https://open.spotify.com/track/3bPpsUHWXWYcD0vEvzNGqw) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sketch For Spring](https://open.spotify.com/album/48JdiXIP9FExTBwmmrxdKj) | 3:01 |
-| 98 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 |
+| 97 | [まいららばい](https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(下\)](https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM) | 1:39 |
+| 98 | [Sketch For Spring](https://open.spotify.com/track/3bPpsUHWXWYcD0vEvzNGqw) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sketch For Spring](https://open.spotify.com/album/48JdiXIP9FExTBwmmrxdKj) | 3:01 |
 | 99 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 |
 | 100 | [君はきっとずっと知らない](https://open.spotify.com/track/6e2hujM6wRXaFbiP4ymEBZ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [君はきっとずっと知らない](https://open.spotify.com/album/0D4JE4zZolmrUF19ALtgFo) | 3:40 |
 

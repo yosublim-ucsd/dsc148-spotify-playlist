@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,988 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,970 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 55 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 56 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
 | 57 | [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 |
-| 58 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
+| 58 | [What a Cowboy Was](https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [What a Cowboy Was](https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8) | 4:28 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 60 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 61 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 |
-| 62 | [What a Cowboy Was](https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [What a Cowboy Was](https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8) | 4:28 |
+| 62 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
 | 63 | [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 |
 | 64 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 88 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 | 89 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
 | 90 | [Kick A Little](https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Rodney Carrington](https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO), [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Kick A Little](https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb) | 3:47 |
-| 91 | [Saddest Town in Texas](https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz) | [Rusty Gear](https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh) | [Saddest Town in Texas](https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC) | 3:32 |
+| 91 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 92 | [Hope It Don’t Take Forever](https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Hope It Don’t Take Forever](https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP) | 3:44 |
-| 93 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
+| 93 | [Saddest Town in Texas](https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz) | [Rusty Gear](https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh) | [Saddest Town in Texas](https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC) | 3:32 |
 | 94 | [Rainin On Me](https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Rainin On Me](https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt) | 4:12 |
 | 95 | [Elvis in Memphis](https://open.spotify.com/track/7mmgTs73kElMvcbHpEwnVW) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Elvis in Memphis](https://open.spotify.com/album/5q6UqjPhGik8QxHEacJkSR) | 4:24 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |

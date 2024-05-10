@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "DANCE DEPRE",
+        "url": "https://open.spotify.com/album/1sSmSR6vjVwO3wTC6qsQLZ"
+      },
+      "artists": [
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "DANCE DEPRE",
+      "url": "https://open.spotify.com/track/74KLr2xkVGoL4qMAmMhP9v"
+    },
+    {
+      "album": {
         "name": "Daruma",
         "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
       },
@@ -1576,10 +1594,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 237909,
       "name": "nuncatevayasnunca",
       "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
+    },
+    {
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/2oSZhnHDrFrTt4BCreAG9P"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/0V9mw8S22fciKdLiQlQNeZ"
     },
     {
       "album": {
@@ -1630,7 +1666,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 160612,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f"

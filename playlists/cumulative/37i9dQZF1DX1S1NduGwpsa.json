@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Kimberose",
+  "description": "The best jazz new releases. Cover: RAYE",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "De temps en temps",
+        "url": "https://open.spotify.com/album/7MEMqkL0bjoKHOnFUM2B0u"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "De temps en temps",
+      "url": "https://open.spotify.com/track/5fjOO1AhmQtVm0DFztc1aZ"
+    },
+    {
+      "album": {
         "name": "Dead Inside Shuffle",
         "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
       },
@@ -2416,6 +2434,24 @@
       "duration_ms": 336440,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/4kv4y1ksmfSfdMcJkZvLtd"
+    },
+    {
+      "album": {
+        "name": "Below Dawn",
+        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
+      },
+      "artists": [
+        {
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250941,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
     },
     {
       "album": {
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 455959,
       "name": "Eagle's Point",
       "url": "https://open.spotify.com/track/4kFkOrYHCljDpsjhhwh40U"
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 292325,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0r8TX1atVqi2VW4VVz1j1c"
@@ -3058,7 +3094,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
@@ -8553,6 +8589,24 @@
     },
     {
       "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "album": {
         "name": "Linger Awhile (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
       },
@@ -9487,6 +9541,28 @@
     },
     {
       "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388160,
+      "name": "The Otter Creek Incident",
+      "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
+    },
+    {
+      "album": {
         "name": "The Power of the Spirit",
         "url": "https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN"
       },
@@ -10236,7 +10312,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 264413,
       "name": "V.E. Swing",
       "url": "https://open.spotify.com/track/54xfUT8y18L2fGNbnJdxU9"
@@ -10254,7 +10330,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 352160,
       "name": "Venezuela",
       "url": "https://open.spotify.com/track/5MiroiiGhMht59cRjD3Ldj"
@@ -11176,6 +11252,24 @@
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Everything",
+        "url": "https://open.spotify.com/album/1xmaHopZWgN98S8Hp5Eq5y"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158177,
+      "name": "You\u2019re Everything",
+      "url": "https://open.spotify.com/track/7yLCRcvLBrQkRUAngyuBft"
     },
     {
       "album": {

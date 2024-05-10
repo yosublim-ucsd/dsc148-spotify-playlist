@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Thullio Milion\u00e1rio e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Z\u00e9 Neto & Cristiano e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2182,6 +2182,24 @@
       "duration_ms": 115384,
       "name": "De 10 Mulher 11 \u00c9 Maluca",
       "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
+    },
+    {
+      "album": {
+        "name": "Fortaleza, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167391,
+      "name": "Dedo do Meio - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
     },
     {
       "album": {
@@ -6444,7 +6462,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 162194,
       "name": "Silverado (AgroPlay Ver\u00e3o)",
       "url": "https://open.spotify.com/track/26l5FAEVr9cfaILS0szvvt"
@@ -7962,6 +7980,40 @@
       "duration_ms": 173375,
       "name": "Tes\u00e3o Da Madrugada - Ao Vivo",
       "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU"
+    },
+    {
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 2",
+        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "THE BOX MEDLEY FUNK 2",
+      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
       "album": {
@@ -8502,6 +8554,36 @@
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "album": {

@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "falling or flying (Reimagined)",
+        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Backwards - Reimagined",
+      "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
+    },
+    {
+      "album": {
         "name": "Bad Behavior",
         "url": "https://open.spotify.com/album/0suZ5xK1o6VuclzdnLL7jK"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 202222,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/5QvLKIo27yVB5Rns0VXGrI"
@@ -1375,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
+    },
+    {
+      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -1634,7 +1670,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 261927,
       "name": "Cure (Acoustic)",
       "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
@@ -1740,7 +1776,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
@@ -2562,7 +2598,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 250971,
       "name": "Friend or Foe",
       "url": "https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF"
@@ -3460,7 +3496,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 198587,
       "name": "I'm free",
       "url": "https://open.spotify.com/track/4avPMUU15YTgFVEVnKdKQY"
@@ -3677,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -3814,7 +3868,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 261881,
       "name": "It Run's Through Me",
       "url": "https://open.spotify.com/track/51Q2IPSmoFuDAkMmaYwjjF"
@@ -5650,7 +5704,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 169590,
       "name": "Only",
       "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
@@ -6138,10 +6192,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 243161,
       "name": "Ramble In The Rainbow",
       "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
+    },
+    {
+      "album": {
+        "name": "React",
+        "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161034,
+      "name": "React",
+      "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
     },
     {
       "album": {
@@ -6618,7 +6690,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 282000,
       "name": "Since I Have A Lover",
       "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
@@ -8451,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
@@ -9302,7 +9392,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
@@ -9898,7 +9988,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 172355,
       "name": "\u8d85Fresh",
       "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 68859,
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
+  "num_followers": 68862,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAC7A6d7Y8sFjbCF0qm3WM7e",
+  "snapshot_id": "ZjrAgAAAAADNUbV5X77C8Bn/+y3takV8",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Dos Corazones",
-      "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Sandunga",
         "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
@@ -627,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00fascate Un Hombre Que Te Quiera",
-        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
       "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 181542,
-      "name": "B\u00fascate Un Hombre Que Te Quiera",
-      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
+      "duration_ms": 214333,
+      "name": "Dos Corazones",
+      "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00fascate Un Hombre Que Te Quiera",
+        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 181542,
+      "name": "B\u00fascate Un Hombre Que Te Quiera",
+      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 164294,
-      "name": "Toda la Noche",
-      "url": "https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/1jDYMiHXJ9GRXKbamkq5uE"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 164294,
+      "name": "Toda la Noche",
+      "url": "https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1091,8 +1091,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Dignificada",
-      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+      "duration_ms": 185800,
+      "name": "La Iguana",
+      "url": "https://open.spotify.com/track/34MA1n8MbEgeN1oj4VoIgk"
     }
   ],
   "unique_name": "This Is Lila Downs",

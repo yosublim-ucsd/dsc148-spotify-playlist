@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn?si=vPMKVF4FSi6lM3uLNi3zvw\">Savage</a>,  <a href=https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=FjEmTtW9RoGz1Phk4uyAxg>Zlatan</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Yumbs, Joeboy, Focalistic, Moliy, Bien",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 186315,
       "name": "51 SIMPSON sT.",
       "url": "https://open.spotify.com/track/5nCRwEupvHiUcWdTDJ3UKF"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 378124,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 244391,
       "name": "Body Work - AQ Amapiano Remix [Edit]",
       "url": "https://open.spotify.com/track/39ng3n2wKeTg2X268QlWiU"
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Don't Stress Me",
+        "url": "https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Don't Stress Me",
+      "url": "https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr"
+    },
+    {
+      "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 213818,
       "name": "Feel Your Body",
       "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 273982,
       "name": "It Don't Matter",
       "url": "https://open.spotify.com/track/196kNxDYh3sx5t9lthMOI4"
@@ -2300,6 +2318,32 @@
       "duration_ms": 300302,
       "name": "Ka Valungu",
       "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "album": {
+        "name": "Kautaka",
+        "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "JFS Music",
+          "url": "https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Kautaka",
+      "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
     },
     {
       "album": {
@@ -2848,7 +2892,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
@@ -2893,6 +2937,28 @@
     },
     {
       "album": {
+        "name": "Mpulela",
+        "url": "https://open.spotify.com/album/7xQH7BDQdw6jfwuQvmLqd4"
+      },
+      "artists": [
+        {
+          "name": "Liata Monatisa",
+          "url": "https://open.spotify.com/artist/4du4H3XNysY678I8cXY31I"
+        },
+        {
+          "name": "MOONLIGHT AFRIQA",
+          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140176,
+      "name": "Mpulela",
+      "url": "https://open.spotify.com/track/534mUczKxht6MdcmWTvlGY"
+    },
+    {
+      "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
       },
@@ -2908,7 +2974,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 274868,
       "name": "Muziko (Remix)",
       "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
@@ -3000,7 +3066,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 480000,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M"
@@ -3270,6 +3336,40 @@
       "duration_ms": 195225,
       "name": "ODG - Remix",
       "url": "https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR"
+    },
+    {
+      "album": {
+        "name": "Off My Mind (feat. Bien and Moliy)",
+        "url": "https://open.spotify.com/album/4xPh4wkRpIrYY76XUwb4EU"
+      },
+      "artists": [
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255072,
+      "name": "Off My Mind (feat. Bien and Moliy)",
+      "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
     },
     {
       "album": {
@@ -3688,7 +3788,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 291428,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/7bFWys0I1Dl2qsgOki3SMq"
@@ -3744,7 +3844,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 418445,
       "name": "SAdesFakSHen",
       "url": "https://open.spotify.com/track/4KVx0ec8CzTHFKYYgmrQbo"
@@ -4075,6 +4175,36 @@
     },
     {
       "album": {
+        "name": "Superstar (feat. BL Zero & Moodee)",
+        "url": "https://open.spotify.com/album/4a2Q1b4h3O259hVTvjXjQ5"
+      },
+      "artists": [
+        {
+          "name": "King Kanja",
+          "url": "https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5"
+        },
+        {
+          "name": "Tiffany Taylor",
+          "url": "https://open.spotify.com/artist/126r4JEOj4anOCOQTaExvZ"
+        },
+        {
+          "name": "BL Zero",
+          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
+        },
+        {
+          "name": "MooDee",
+          "url": "https://open.spotify.com/artist/4IIl9PT3zqCiIuTBqJ8vvk"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373764,
+      "name": "Superstar (feat. BL Zero & Moodee)",
+      "url": "https://open.spotify.com/track/0IZTs4E6AxiUWMvUvy4tm5"
+    },
+    {
+      "album": {
         "name": "Take Ova (Remix)",
         "url": "https://open.spotify.com/album/4t8jMBM6olQPkf1y8SonMR"
       },
@@ -4290,7 +4420,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 282857,
       "name": "The Out of Africa Hypothesis",
       "url": "https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60"
@@ -4378,7 +4508,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 232004,
       "name": "UNAVAILABLE (feat. Musa Keys) - Major Lazer Remix",
       "url": "https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g"

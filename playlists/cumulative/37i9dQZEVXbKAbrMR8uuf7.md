@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,356 songs - 3 day 1 hr 3 min
+1,358 songs - 3 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Alta Gama \- Remix](https://open.spotify.com/track/6TwsIdQN849P72oTt0XbjJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Alta Gama \(Remix\)](https://open.spotify.com/album/2tHgaFBDtWi0r8Mz3WOnKk) | 3:10 | 2021-09-24 | 2021-09-25 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2021-04-22 | 2021-07-08 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2022-05-03 |
-| [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 | 2023-05-06 |  |
+| [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 | 2023-05-06 | 2024-05-10 |
 | [Amaneciendo](https://open.spotify.com/track/3mxl5Y9skPEFKdnQWYcmOF) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 4:14 | 2021-12-26 | 2021-12-27 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-20 |  |
 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 | 2022-08-20 | 2022-08-22 |
@@ -505,7 +505,8 @@
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2021-04-21 | 2021-04-26 |
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2021-03-27\* | 2021-05-23 |
 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 | 2024-04-07 | 2024-04-30 |
-| [Hay Lupita](https://open.spotify.com/track/7gRtmiCn86Vr1ifw5FDuIL) | [LOMIIEL](https://open.spotify.com/artist/4AyvUpNnpfEs1kGoB0DZH8) | [Hay Lupita](https://open.spotify.com/album/1nqVSn4sTJVmUe29CIDNND) | 1:48 | 2024-04-29 |  |
+| [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-05-09 |  |
+| [Hay Lupita](https://open.spotify.com/track/7gRtmiCn86Vr1ifw5FDuIL) | [LOMIIEL](https://open.spotify.com/artist/4AyvUpNnpfEs1kGoB0DZH8) | [Hay Lupita](https://open.spotify.com/album/1nqVSn4sTJVmUe29CIDNND) | 1:48 | 2024-04-29 | 2024-05-10 |
 | [Hay Santo](https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM) | [Hay Santo](https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2) | 3:27 | 2022-12-23 | 2023-05-10 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-23 |
 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 | 2024-05-03 | 2024-05-09 |
@@ -1336,6 +1337,7 @@
 | [Work](https://open.spotify.com/track/5HnyFhrOuU5ykgXkowDkBK) | [Nawi](https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF) | [Work](https://open.spotify.com/album/44XEbTZ3mTCqVxvoW1s2Zc) | 2:35 | 2022-09-01 | 2022-10-02 |
 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 | 2022-02-24 | 2022-03-21 |
 | [Wow!](https://open.spotify.com/track/6TdiYotRbAE7wATuSkuxJT) | [Anyeiry Criss](https://open.spotify.com/artist/0aW1su5wrg64rw4kfXOApj) | [Wow!](https://open.spotify.com/album/6crN3teUh6o2U2SmHIcp8j) | 2:52 | 2023-06-22 | 2023-06-24 |
+| [WYA](https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA](https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O) | 3:16 | 2024-05-09 |  |
 | [X SI VOLVEMOS](https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:20 | 2023-02-25 | 2024-04-17 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-04 | 2023-02-26 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 | 2022-11-16 |

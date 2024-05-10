@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-138 songs - 11 hr 10 min
+139 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Next Fuji Thing \(Bonus Track\)](https://open.spotify.com/track/3AKztbzt8WzVRnVjwGhtk5) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Good 2 Go](https://open.spotify.com/album/5fsqEs8zrGfxmnmvKsgTrg) | 6:57 | 2023-04-14 | 2023-07-07 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2023-04-06 | 2023-07-02 |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-07-22 |
-| [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 |  |
+| [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 | 2024-05-10 |
 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 | 2023-04-06 | 2024-04-26 |
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-06 | 2023-08-24 |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-04-14 | 2024-04-19 |
@@ -126,6 +126,7 @@
 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 | 2023-04-06 | 2023-10-31 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-06 |  |
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2023-04-06 | 2024-04-19 |
+| [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 |  |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2024-01-15 |
 | [W.O.W \(Walking On Water\) \- Reprise](https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [W.O.W \(Walking On Water\) \[Reprise\]](https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8) | 8:04 | 2023-09-29 | 2023-10-09 |
 | [We Praise You](https://open.spotify.com/track/1NQOym9Oy8Ttndi2btEBlv) | [Monica Mas](https://open.spotify.com/artist/1gp4u2DxauWF7Spt1Z1XLc) | [We Praise You](https://open.spotify.com/album/0SFmRRDm2kOqrapY9ASbd5) | 3:26 | 2024-04-12 | 2024-04-19 |

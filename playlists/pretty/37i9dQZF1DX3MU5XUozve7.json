@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 924917,
+  "num_followers": 925226,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Check Yes Juliet",
-      "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -671,18 +655,34 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
       },
       "artists": [
         {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
         }
       ],
-      "duration_ms": 269026,
-      "name": "What It Is To Burn - New Version",
-      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+      "duration_ms": 220133,
+      "name": "Check Yes Juliet",
+      "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Nervous Breakdown",
+        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Nervous Breakdown",
+      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Nervous Breakdown",
-        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
       "artists": [
         {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 129173,
-      "name": "Nervous Breakdown",
-      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
+      "duration_ms": 269026,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "On A Turntable",
-      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "White Light White Heat White Trash",
         "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 237573,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
-      },
-      "artists": [
-        {
-          "name": "X",
-          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Take a Break",
         "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181440,
       "name": "I Believe I Can Fly",
       "url": "https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
+      },
+      "artists": [
+        {
+          "name": "X",
+          "url": "https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Some Freaks Of Atavism",
-        "url": "https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ"
-      },
-      "artists": [
-        {
-          "name": "Screeching Weasel",
-          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "Back of Your Head",
-      "url": "https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Face to Face (Remastered)",
         "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 215413,
       "name": "Walk the Walk",
       "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Some Freaks Of Atavism",
+        "url": "https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ"
+      },
+      "artists": [
+        {
+          "name": "Screeching Weasel",
+          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
+        }
+      ],
+      "duration_ms": 119600,
+      "name": "Back of Your Head",
+      "url": "https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Have a Ball",
+        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "A Place Called Home",
         "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 103548,
       "name": "AC/DC CD",
       "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Have a Ball",
-        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 49146,
+      "name": "Generational Divide",
+      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "SURVIVORS GUILT: THE MIXTAPE//",
         "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 182866,
       "name": "smoke break//",
       "url": "https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 49146,
-      "name": "Generational Divide",
-      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
     },
     {
       "added_at": "2022-07-26 16:46:12",

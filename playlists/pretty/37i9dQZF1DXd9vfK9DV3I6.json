@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 315980,
+  "num_followers": 316126,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "Mektup",
         "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 212615,
       "name": "Askim",
       "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Anatolieni",
-        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "Anatolieni",
-      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Anatolieni",
+        "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "Anatolieni",
+      "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Viraha",
+        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 171534,
+      "name": "Viraha",
+      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "Mawjou3 Galbi",
         "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
@@ -1659,18 +1635,26 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
       },
       "artists": [
         {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
         }
       ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
-    },
-    {
-      "added_at": "2024-04-26 21:00:00",
-      "album": {
         "name": "Mazrub",
         "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 186184,
       "name": "Mazrub",
       "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
+    },
+    {
+      "added_at": "2024-04-26 21:00:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2024-04-26 21:00:00",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-04-26 21:00:00",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     }
   ],
   "unique_name": "mosaic",

@@ -6435,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/4uhDzuifb6l5eKXepy2g9x"
+      },
+      "artists": [
+        {
+          "name": "Selma Eriksen",
+          "url": "https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205869,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/0EExYRMDX3l1NDktZyQ4xL"
+    },
+    {
+      "album": {
         "name": "cabin fever",
         "url": "https://open.spotify.com/album/5vBNS1doHgvNiV0XbncVZ6"
       },

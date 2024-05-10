@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 211680,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 187800,
       "name": "Sing Me to Sleep",
       "url": "https://open.spotify.com/track/1tfVpMI8G6EakZU4rEja4w"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 189287,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
@@ -1726,6 +1726,28 @@
       "duration_ms": 161828,
       "name": "World We Used To Know",
       "url": "https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka"
+    },
+    {
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161097,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     },
     {
       "album": {

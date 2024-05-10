@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27011,
+  "num_followers": 27013,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAADkF9vE5mze752/T0vrhLfi",
+  "snapshot_id": "ZjrAgAAAAAB/d2acGIooQnIZil8BHid6",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 162030,
       "name": "New World",
       "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 207040,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21"
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 361875,
       "name": "Rise & Fall",
       "url": "https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/3rHFo3c176QQnZ3Ucdbp21"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "One Minute",
-      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somewhere to Run",
         "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191420,
       "name": "TH2C",
       "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
     },
     {
       "added_at": null,
@@ -787,46 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't That Why (Skytech Remix)",
-        "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Ain't That Why - Skytech Remix",
-      "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -843,6 +803,22 @@
       "duration_ms": 195744,
       "name": "Never Been Hurt",
       "url": "https://open.spotify.com/track/7hXIYmnroOk6YikdncYlI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
     },
     {
       "added_at": null,
@@ -867,6 +843,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't That Why (Skytech Remix)",
+        "url": "https://open.spotify.com/album/5SBbYFv2EbBbZh9GqX7CJi"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Ain't That Why - Skytech Remix",
+      "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 219813,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,
@@ -919,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
       "artists": [
         {
@@ -928,9 +912,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 263746,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,
@@ -951,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
       "artists": [
         {
@@ -960,9 +944,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
+      "duration_ms": 263746,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
     },
     {
       "added_at": null,
@@ -979,6 +963,22 @@
       "duration_ms": 277500,
       "name": "War Forever",
       "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": null,

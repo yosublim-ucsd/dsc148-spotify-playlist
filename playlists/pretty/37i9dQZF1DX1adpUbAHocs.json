@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 662973,
+  "num_followers": 662975,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 171746,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Taking Things For Granted",
-        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
         "name": "The Saint Of Lost Causes",
         "url": "https://open.spotify.com/album/2u56gjSmnJzoZOcUO84Lrw"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "8th Wonder",
-        "url": "https://open.spotify.com/album/5GA9VdRshqKOSOdAEPYG0b"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 226116,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/3wCgdTY19EGEvBVdz2yZ9s"
+      "duration_ms": 201893,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1491,6 +1475,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "8th Wonder",
+        "url": "https://open.spotify.com/album/5GA9VdRshqKOSOdAEPYG0b"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 226116,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/3wCgdTY19EGEvBVdz2yZ9s"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
     }
   ],
   "unique_name": "Scenic Route",

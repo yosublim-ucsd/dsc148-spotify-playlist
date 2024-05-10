@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 32479,
+  "num_followers": 32490,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAACv+yerWcKTFwzHi6n8wBc2",
+  "snapshot_id": "ZjrAgAAAAAA/Rj4Yjf5U+8NIfgCBbkT1",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Disney Reggae Club",
+        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 190586,
       "name": "Love",
       "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Disney Reggae Club",
-        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
     },
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "#7DJ (7 D\u00edas En Jamaica)",
+        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Tonika (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 238626,
       "name": "Coming In From the Cold - Live",
       "url": "https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#7DJ (7 D\u00edas En Jamaica)",
-        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Tonika (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH"
     },
     {
       "added_at": null,
@@ -639,42 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Sedjedo",
-      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornerstone",
         "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
       },
@@ -711,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Personal Revolution (Live)",
-        "url": "https://open.spotify.com/album/4uzWNogETDR04paJciOp1E"
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
       "artists": [
         {
@@ -720,9 +684,29 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 327657,
-      "name": "Personal Revolution - Live",
-      "url": "https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB"
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Personal Revolution (Live)",
+        "url": "https://open.spotify.com/album/4uzWNogETDR04paJciOp1E"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 327657,
+      "name": "Personal Revolution - Live",
+      "url": "https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -755,6 +755,26 @@
       "duration_ms": 304533,
       "name": "Shalom Salaam",
       "url": "https://open.spotify.com/track/3nnE2tL23dx1mTiUH1T2R3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Toots Hibbert",
+          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
+      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
     },
     {
       "added_at": null,
@@ -787,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Toots Hibbert",
-          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
-      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
@@ -819,6 +819,46 @@
       "duration_ms": 161693,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Story Short: Willie Nelson 90 (Live At Hollywood Bowl)",
+        "url": "https://open.spotify.com/album/1d6bEE3fpUfav6T1IdUBth"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Still Is Still Moving To Me - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
+      "url": "https://open.spotify.com/track/1Achm7qxXbkawlhQgRPoJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        },
+        {
+          "name": "Cedella Marley",
+          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
+      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
     },
     {
       "added_at": null,
@@ -859,46 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        },
-        {
-          "name": "Cedella Marley",
-          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
-      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Long Story Short: Willie Nelson 90 (Live At The Hollywood Bowl)",
-        "url": "https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Still Is Still Moving To Me - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
-      "url": "https://open.spotify.com/track/2g8VO3EAsee0UQBukJFuVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ziggy Marley",
         "url": "https://open.spotify.com/album/3Uzv16OeH1x0vbor9FwbHM"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 201800,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/176n64b4I4o5VJY2eGJneI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -947,6 +931,22 @@
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

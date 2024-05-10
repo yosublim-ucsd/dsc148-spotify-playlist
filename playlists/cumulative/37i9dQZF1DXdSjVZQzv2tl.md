@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
+> O melhor do sertanejo em uma só playlist! Foto: Felipe & Rodrigo
 
-215 songs - 10 hr 11 min
+216 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ) | 2:45 | 2022-04-08 | 2023-01-21 |
 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 | 2021-12-31 | 2022-04-09 |
 | [Fim da Noite \- Ao Vivo](https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Jb&V 21 In Concert, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx) | 3:29 | 2023-12-08 |  |
+| [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 | 2024-05-09 |  |
 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 | 2021-12-31 | 2022-01-22 |
 | [Fronteira \- Ao Vivo](https://open.spotify.com/track/12G0KiYRpmpDOrube9GCa5) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Boiadeira Internacional: Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5hLKGp4sfW7wmW9cjXphLb) | 2:46 | 2023-12-08 |  |
 | [Fulano \- Ao Vivo](https://open.spotify.com/track/5TnsVrA7pQn3HgL3XBcX7J) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Ao Vivo em Rio Preto \(Vol\. 2\)](https://open.spotify.com/album/6kev2WgBPYG1h5riJGQ7cH) | 2:49 | 2023-04-07 | 2023-09-26 |
@@ -177,7 +178,7 @@
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
 | [Problemão \- Ao Vivo](https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7) | [Hugo & Vitor](https://open.spotify.com/artist/3rbG069NuFKBCXYPoGjB9g), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Respeita Minha Dupla \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/0U4phq4JCvqNLVYwiHgzG6) | 2:17 | 2022-10-28 | 2023-06-03 |
-| [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 | 2023-05-05 |  |
+| [Pátio do Posto \- Ao Vivo](https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:58 | 2023-05-05 | 2024-05-10 |
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 | 2023-01-27 | 2024-02-24 |
 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP1\)](https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N) | 2:58 | 2023-09-22 |  |
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2022-01-07 | 2022-08-06 |

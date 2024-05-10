@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Where Sitar meets Guitar. Cover - Shakti",
+  "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
   "name": "Fusion Finds",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 205943,
       "name": "Aaj Rang Hai",
       "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 225353,
       "name": "Krishna Murari",
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 400957,
       "name": "Rangi Saari Gulabi Chunariya",
       "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
@@ -1978,6 +1978,32 @@
       "duration_ms": 134117,
       "name": "Sitar Flex",
       "url": "https://open.spotify.com/track/2uQPkioasNry7ehHaEnsyV"
+    },
+    {
+      "album": {
+        "name": "Sonchadi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Kamla Devi",
+          "url": "https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Sonchadi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
     },
     {
       "album": {

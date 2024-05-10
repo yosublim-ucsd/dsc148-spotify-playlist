@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-651 songs - 1 day 3 hr 38 min
+652 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2022-06-07 | 2022-09-15 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2022-06-07 | 2022-09-15 |
 | [Dusza](https://open.spotify.com/track/0c5al5YwutY1nPIB8qJw7P) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Dusza](https://open.spotify.com/album/2MdOIpTgcauq7koGaCAyIF) | 2:30 | 2022-06-07 | 2022-09-24 |
+| [Délise](https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK) | [Raffaello Sorrento](https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl) | [Délise](https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ) | 2:05 | 2024-05-07 |  |
 | [Déroutant](https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Déroutant](https://open.spotify.com/album/4YsTa45DGzHfCodlJGE3X2) | 2:34 | 2022-06-07 | 2024-04-23 |
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-06-07 |  |
@@ -483,7 +484,7 @@
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2022-06-07 | 2024-05-08 |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-06-07 |  |
 | [Simple Beauty](https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Simple Beauty](https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3) | 2:48 | 2023-09-05 |  |
-| [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2022-06-07 |  |
+| [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2022-06-07 | 2024-05-10 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2022-06-07 | 2024-05-08 |
 | [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-09 |  |
 | [Skog](https://open.spotify.com/track/6SO2Oh12IbukgnkeSBOxW9) | [Frode](https://open.spotify.com/artist/6Mnuy8VToSC75uUGCSBqDD) | [Skog](https://open.spotify.com/album/1vDqp9KQA5MfjXeBo7sR4X) | 2:44 | 2022-06-07 | 2023-02-01 |

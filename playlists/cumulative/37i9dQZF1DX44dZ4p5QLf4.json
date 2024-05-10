@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
       },
@@ -4291,6 +4309,32 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/77KWopOZQjrJ1aAYovUQhS"
+      },
+      "artists": [
+        {
+          "name": "Makzo",
+          "url": "https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96"
+        },
+        {
+          "name": "falcxne",
+          "url": "https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190851,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4NVrNTSPyRBGKkqHNDBbxi"
+    },
+    {
+      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -4360,7 +4404,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 143960,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
@@ -4480,6 +4524,24 @@
       "duration_ms": 199011,
       "name": "Make A Place",
       "url": "https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9"
+    },
+    {
+      "album": {
+        "name": "Blink Twice If You\u2019re Okay",
+        "url": "https://open.spotify.com/album/02vMw0MNNUbBxS6WeB1PR4"
+      },
+      "artists": [
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181777,
+      "name": "Make It To Summer",
+      "url": "https://open.spotify.com/track/7FsyUisTus0MEQqGVPAukP"
     },
     {
       "album": {
@@ -5484,7 +5546,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-10",
       "duration_ms": 201017,
       "name": "PINK MARMALADE",
       "url": "https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv"
@@ -5510,6 +5572,24 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 835,
+  "num_followers": 836,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjlvAAAAAAB9wgtgPaKbyy1/8/hZ9jy5",
+  "snapshot_id": "ZjrAgAAAAAAKkbBkZj4eaD6p2o4MWksJ",
   "tracks": [
     {
       "added_at": null,
@@ -363,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jackies Are On The March",
-        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 135630,
-      "name": "Jackies Are On The March",
-      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Rinse and Repeat",
-      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -411,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
       "artists": [
         {
@@ -420,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4zCblRG5itwawU6T697fKa"
     },
     {
       "added_at": null,
@@ -443,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
       },
       "artists": [
         {
@@ -452,9 +420,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
     },
     {
       "added_at": null,
@@ -471,22 +455,6 @@
       "duration_ms": 246347,
       "name": "Never the Right Time",
       "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Isaac Bowen",
-      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
     },
     {
       "added_at": null,
@@ -516,9 +484,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
     },
     {
       "added_at": null,
@@ -535,6 +519,38 @@
       "duration_ms": 81016,
       "name": "The Shimmie Shake",
       "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yossarian",
+        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Yossarian",
+      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 184518,
       "name": "Western Junction",
       "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yossarian",
-        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Yossarian",
-      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
     },
     {
       "added_at": null,
