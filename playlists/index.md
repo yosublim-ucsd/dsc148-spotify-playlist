@@ -1,4 +1,4 @@
-## Playlists \(7759\)
+## Playlists \(7760\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2393,6 +2393,7 @@
 - [Good People Good Music](/playlists/pretty/37i9dQZF1DWZy0j22jjWNA.md)
 - [Good Times](/playlists/pretty/37i9dQZF1DWT9NTMXOEmdE.md)
 - [Good Times, Great Oldies](/playlists/pretty/37i9dQZF1DXa19sXUAHiO1.md)
+- [Good Trouble Official Playlist](/playlists/pretty/1TJLNVWLtxRWrJYLhaW2hE.md)
 - [Good Vibes](/playlists/pretty/37i9dQZF1DWYBO1MoTDhZI.md)
 - [Goodnight Guitar](/playlists/pretty/37i9dQZF1DX4OU9IZ3kjS3.md)
 - [Gorillaz presents Cracker Island](/playlists/pretty/37i9dQZF1DWZxbK3gq0Dxw.md)
