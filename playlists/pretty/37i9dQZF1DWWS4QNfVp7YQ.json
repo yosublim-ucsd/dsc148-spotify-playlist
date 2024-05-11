@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 74867,
+  "num_followers": 74917,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-05-09 00:54:46",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
-      },
-      "artists": [
-        {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
-        }
-      ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
-    },
-    {
-      "added_at": "2024-05-09 00:54:46",
-      "album": {
         "name": "La Ni\u00f1a (Remixes)",
         "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 264005,
       "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
       "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
+    },
+    {
+      "added_at": "2024-05-09 00:54:46",
+      "album": {
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+      },
+      "artists": [
+        {
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+        }
+      ],
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
     },
     {
       "added_at": "2024-05-09 00:54:46",

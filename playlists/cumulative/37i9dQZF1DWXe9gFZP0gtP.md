@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-403 songs - 19 hr 51 min
+405 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2021-12-17 |  |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2021-12-17 |  |
 | [Airflow](https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Airflow](https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i) | 3:12 | 2023-08-04 |  |
+| [Aiuola](https://open.spotify.com/track/1aSTafokOmCN0Y80eZps0l) | [Il Sognatore](https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM) | [Aiuola](https://open.spotify.com/album/5P9EsvRN6GlIuG1wQuKhEt) | 2:25 | 2024-05-10 |  |
 | [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 | 2021-12-17 | 2022-07-29 |
 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 | 2022-07-22 | 2022-09-03 |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-17 | 2022-04-22 |
@@ -73,6 +74,7 @@
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Come Sei](https://open.spotify.com/track/1AX8VYV5Csn91n0a9R7tV0) | [Giulia De Luca](https://open.spotify.com/artist/7cEydhNzXHxSFYYZEB6Fmk) | [Come Sei](https://open.spotify.com/album/3hiy6R3RBznXqIGEr2Ghs2) | 2:56 | 2023-05-19 |  |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-07-08 |  |
+| [Connect](https://open.spotify.com/track/5yQvSxKkjPgQX9NB5BTP7w) | [Calm Woods](https://open.spotify.com/artist/0E9QyNsYvu0lscOe1iSbJG) | [Connect](https://open.spotify.com/album/6SKVEaIxNdEDC6Vw7HimKN) | 2:43 | 2024-05-10 |  |
 | [Constellation](https://open.spotify.com/track/0HXhHWPuWIPELWMv5eXFaJ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Constellation](https://open.spotify.com/album/4YiORfD4wrMrqLnPqdAU32) | 3:01 | 2023-12-01 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2021-12-17 | 2023-05-27 |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 | 2024-03-27 |

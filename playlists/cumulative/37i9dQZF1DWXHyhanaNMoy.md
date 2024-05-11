@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Priceless
 
-961 songs - 1 day 19 hr 17 min
+962 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Bay Bin Bay](https://open.spotify.com/track/7ucmoxflHZKJOmw9RKsAPP) | [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb) | [Bay Bin Bay](https://open.spotify.com/album/5j9oYJzz1jl9TVZElO2HFD) | 2:04 | 2023-02-09 | 2023-02-23 |
 | [Bebeğim](https://open.spotify.com/track/3LHEkrzQf5Von16auXW10H) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Bebeğim](https://open.spotify.com/album/6RUSOUecDOBsdjSL1Q6mw5) | 2:41 | 2022-07-28 | 2022-09-16 |
 | [Beetje Fout \(feat\. Yssi SB\)](https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Beetje Fout \(feat\. Yssi SB\)](https://open.spotify.com/album/7JDX9KJ4Z28MDVK8FXUSmT) | 2:12 | 2024-03-21 |  |
+| [Beetje Fout \(Remix\) \(feat\. D\-Double & Latifah\)](https://open.spotify.com/track/7s626ea0E22HNxmFaYKQ7k) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Beetje Fout \(Remix\) \(feat\. D\-Double & Latifah\)](https://open.spotify.com/album/72pJdLSeB1DtgdQ3dSv3CI) | 2:35 | 2024-05-10 |  |
 | [Beetje Tijd](https://open.spotify.com/track/5y2gzxaKDbv2gyM2LwfGSj) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Beetje Tijd](https://open.spotify.com/album/0tXY1vihehAkyoe1YrfCVv) | 3:26 | 2023-02-09 | 2023-03-25 |
 | [Beetje Verliefd](https://open.spotify.com/track/1LOimwvdlTnvOqkFJOaD0g) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj) | [Beetje Verliefd](https://open.spotify.com/album/0OQRHgSyI54chxRlwZHyW1) | 2:16 | 2024-03-28 |  |
 | [Bela](https://open.spotify.com/track/0pIa1YAqWLOP7gFpDKzqlo) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Bela](https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A) | 3:02 | 2022-09-29 | 2023-02-03 |
@@ -501,7 +502,7 @@
 | [Lord](https://open.spotify.com/track/2fe4FHOIv3lTuYiZkKLCjz) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Pum Pum Power](https://open.spotify.com/album/3qSa5rF02TVsGzSqql9tyt) | 1:50 | 2023-10-05 | 2023-10-13 |
 | [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 | 2023-03-23 | 2023-06-16 |
 | [LOS VAN](https://open.spotify.com/track/2XJevn22zKX4GVXkVK7mrX) | [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti), [Figo Gang](https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7) | [LOS VAN](https://open.spotify.com/album/4c5n50pYkLcLW7RvwoMB2v) | 3:01 | 2022-07-14 | 2022-08-05 |
-| [Lose My Cool](https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Lose My Cool](https://open.spotify.com/album/2H0GEfmhQV7Tj2ZCBaGrq9) | 2:55 | 2024-04-11 |  |
+| [Lose My Cool](https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Lose My Cool](https://open.spotify.com/album/2H0GEfmhQV7Tj2ZCBaGrq9) | 2:55 | 2024-04-11 | 2024-05-11 |
 | [Lost & Found](https://open.spotify.com/track/62CnxWBWZuAku9mNg6Plof) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/5cW90rGxu6denjf08pebZw) | 3:15 | 2024-02-01 | 2024-02-04 |
 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 | 2024-02-15 |  |
 | [Lot A Lot A](https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN) | [Lot A Lot A](https://open.spotify.com/album/604I4i2wI2iQDuGM2qAJMg) | 2:22 | 2023-02-16 | 2023-04-28 |

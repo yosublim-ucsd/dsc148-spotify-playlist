@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: JayO",
-  "num_followers": 227857,
+  "num_followers": 227920,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Dey Your Dey",
-        "url": "https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "Dey Your Dey",
-      "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 185660,
       "name": "Salt",
       "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Dey Your Dey",
+        "url": "https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "Dey Your Dey",
+      "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "OVAMI",
-        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "OVAMI",
-      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
       },
@@ -1251,18 +1231,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
       "artists": [
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 175187,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1279,6 +1263,38 @@
       "duration_ms": 172687,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "You (Rum & Schnapp)",
+        "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "You (Rum & Schnapp)",
+      "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "You (Rum & Schnapp)",
-        "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "You (Rum & Schnapp)",
-      "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "YUSFUL MUSIC (RELOADED)",
-        "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "high and sober (go on soun)",
-      "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "All Over You / Mon B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 140246,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "YUSFUL MUSIC (RELOADED)",
+        "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "high and sober (go on soun)",
+      "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
     }
   ],
   "unique_name": "Ginger Me",

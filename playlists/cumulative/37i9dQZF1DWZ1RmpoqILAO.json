@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation featuring music from Faye Webster \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+  "description": "indie tunes with country experimentation featuring music from Dreamer Boy \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 238959,
       "name": "Topanga Two Step",
       "url": "https://open.spotify.com/track/5T2pXRLBwfJtUT2qBwz8ej"
@@ -4172,6 +4172,28 @@
       "duration_ms": 232000,
       "name": "TV Dinners",
       "url": "https://open.spotify.com/track/4LxwqKEPKxx4IavfyY2Eqy"
+    },
+    {
+      "album": {
+        "name": "LONESTAR",
+        "url": "https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        },
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Twin Flame (feat. Goldie Boutillier)",
+      "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
     },
     {
       "album": {

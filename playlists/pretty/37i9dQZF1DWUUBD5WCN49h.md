@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: F3line
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,908 likes - 81 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,914 likes - 81 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 33 | [slo\-mo](https://open.spotify.com/track/6lA2TkKvMZyfEn105eSB0V) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [slo\-mo](https://open.spotify.com/album/6nWO6MsoxH8F1UfMs4zutk) | 2:48 |
 | 34 | [Like Dat](https://open.spotify.com/track/7vkALwrG5ZdnPxxCmdYDPP) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Like Dat](https://open.spotify.com/album/14JaHwEOJz8mXqG6FV6koM) | 2:04 |
 | 35 | [Onome](https://open.spotify.com/track/4Bxp0seKHypxOOAq4Bl44I) | [BlackBoy Rex](https://open.spotify.com/artist/62ZMoVfY6KmEz6oNT7DYKe) | [Onome](https://open.spotify.com/album/0UMGLeyRa9PfDU7B0GrYoJ) | 2:46 |
-| 36 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 |
+| 36 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:21 |
 | 37 | [Pursuit](https://open.spotify.com/track/4UD9Biajx14iDad5MMJZgX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Dre Foryoursoul](https://open.spotify.com/artist/3WUSqwXcNB1E8JbAdFXUAT) | [Pursuit](https://open.spotify.com/album/4oAzLQC5wyJ8Srw3BYZBuj) | 2:26 |
 | 38 | [AVANTE](https://open.spotify.com/track/29RwIvbQYfo2K0wJKfTtlE) | [QUIN2](https://open.spotify.com/artist/38bv049huVFKpzBb0Qk4gW) | [AVANTE](https://open.spotify.com/album/1lHQhdNkqZzgoaIsNhQX8a) | 2:23 |
 | 39 | [Kizo \- Remix](https://open.spotify.com/track/6RvVX40fEAmSGpw64kyZ3c) | [JaaySounds](https://open.spotify.com/artist/6X9A3OYpGFeySLxg6UtWTp), [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg) | [Kizo \(Remix\)](https://open.spotify.com/album/4qTmz3tmh3AT08hnzz9cBT) | 2:37 |

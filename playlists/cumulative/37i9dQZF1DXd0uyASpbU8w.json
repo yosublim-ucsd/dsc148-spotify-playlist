@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=UrcGlaRcSSedz6TTOecUcw\">Dua Lipa</a>",
+  "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=MKej49eRRMGON9QLIVRneA\">Thandiswa</a>",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 133563,
       "name": "30 DEEP",
       "url": "https://open.spotify.com/track/651wIrhAAhZZTx6fxQMalH"
+    },
+    {
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "album": {
@@ -7761,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "BOA",
+        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
+    },
+    {
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
       },
@@ -8632,10 +8668,6 @@
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         }
       ],
       "date_added": "2024-05-09",
@@ -9320,6 +9352,24 @@
       "duration_ms": 176913,
       "name": "Cards On The Table",
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
     },
     {
       "album": {
@@ -16331,6 +16381,24 @@
     },
     {
       "album": {
+        "name": "Family Matters",
+        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456933,
+      "name": "Family Matters",
+      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
         "name": "FAN",
         "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
       },
@@ -16346,6 +16414,24 @@
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "album": {
+        "name": "from RUVA to El Roi",
+        "url": "https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7"
+      },
+      "artists": [
+        {
+          "name": "RUVA",
+          "url": "https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233133,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU"
     },
     {
       "album": {
@@ -18446,6 +18532,24 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
+    },
+    {
+      "album": {
+        "name": "Everything's Blurred But You",
+        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
     },
     {
       "album": {
@@ -32830,7 +32934,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159766,
-      "name": "Look at My Body Pt. II (Feat. Shygirl)",
+      "name": "Look At My Body Pt. II (Feat. Shygirl)",
       "url": "https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5"
     },
     {
@@ -32876,6 +32980,28 @@
       "duration_ms": 178000,
       "name": "Lose Control (feat. Blxckie)",
       "url": "https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB"
+    },
+    {
+      "album": {
+        "name": "Lose My Breath",
+        "url": "https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB"
     },
     {
       "album": {
@@ -35514,6 +35640,24 @@
       "duration_ms": 115000,
       "name": "Maybe It's You",
       "url": "https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE"
+    },
+    {
+      "album": {
+        "name": "CASSANDRA (cherith)",
+        "url": "https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179654,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0VtHeJ4ezIwBpF6LIcRx1S"
     },
     {
       "album": {
@@ -41623,6 +41767,24 @@
     },
     {
       "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
         "name": "Not My Fault",
         "url": "https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs"
       },
@@ -43184,6 +43346,24 @@
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "album": {
@@ -52940,6 +53120,24 @@
       "duration_ms": 314681,
       "name": "Tailor Made (feat. Ziyon) - Yoruba Soul Mix",
       "url": "https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj"
+    },
+    {
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "album": {
@@ -62984,6 +63182,36 @@
       "duration_ms": 167614,
       "name": "WoW",
       "url": "https://open.spotify.com/track/5iBEZx0K58jQ2ckhJbp68r"
+    },
+    {
+      "album": {
+        "name": "Woza",
+        "url": "https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9"
+      },
+      "artists": [
+        {
+          "name": "Korie Minors",
+          "url": "https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        },
+        {
+          "name": "Emoji SA",
+          "url": "https://open.spotify.com/artist/3FHJ8CwvKiag7XlOkOMjxJ"
+        },
+        {
+          "name": "Dokotela",
+          "url": "https://open.spotify.com/artist/19KAj2rSHbBnChwlInjznI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256991,
+      "name": "Woza",
+      "url": "https://open.spotify.com/track/5G4PbKjjrntkjl1nvJqVWW"
     },
     {
       "album": {

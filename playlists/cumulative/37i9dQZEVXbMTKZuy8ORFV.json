@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/0HbcAexboG1Hj9o2VSPe9E"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Gigena",
+          "url": "https://open.spotify.com/artist/7foMqwYgA5NBa1y46oK1cq"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/2aDVjQchKZRTjlwkuKwR3l"
+    },
+    {
+      "album": {
         "name": "30 Grados",
         "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
       },
@@ -326,7 +348,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 144368,
       "name": "Ai Cowboy - BeM Interior, Ao Vivo",
       "url": "https://open.spotify.com/track/1kjRfTPXU0rkHXhYR7usye"
@@ -2202,7 +2224,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 270066,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -2336,7 +2358,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 215400,
       "name": "Gata Only (Mashup)",
       "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
@@ -2694,7 +2716,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 165714,
       "name": "Hoy Me Levante",
       "url": "https://open.spotify.com/track/47XJCOFQ2XDuceQya7xDU1"
@@ -3358,6 +3380,24 @@
       "duration_ms": 199139,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
+    },
+    {
+      "album": {
+        "name": "lo que no sabes",
+        "url": "https://open.spotify.com/album/6qY0N7tEXIfUpwkfnOop9Z"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152721,
+      "name": "lo que no sabes",
+      "url": "https://open.spotify.com/track/0G8bu5RzbQv3krzlWIBQah"
     },
     {
       "album": {
@@ -4102,7 +4142,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 331489,
       "name": "Mil A\u00f1os",
       "url": "https://open.spotify.com/track/6nP1fLwXbH32l2d1h7TSY9"
@@ -4862,7 +4902,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 217250,
       "name": "PARTIDO EN DOS",
       "url": "https://open.spotify.com/track/7sPqCI54XxKNaOoGooaeCp"
@@ -5474,7 +5514,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 96461,
       "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
       "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"

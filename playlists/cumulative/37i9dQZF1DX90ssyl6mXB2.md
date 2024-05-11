@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-97 songs - 4 hr 31 min
+99 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [DEPENDS](https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 4:00 | 2024-02-02 |  |
 | [Distant](https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Distant](https://open.spotify.com/album/5BvR9YLTPvdEfAB6RuJMFc) | 3:52 | 2024-02-20 |  |
+| [DIVA](https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [DIVA](https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ) | 2:36 | 2024-05-10 |  |
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
 | [DnL](https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [DnL](https://open.spotify.com/album/3j5LN7ajbXLwYIFWKcH4lM) | 4:00 | 2024-04-05 |  |
 | [Drake Shit](https://open.spotify.com/track/16ro5cM2twX9wSRwVMQmBC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [EROS](https://open.spotify.com/album/2gSZZtjbuBEJ4G9qavkfUG) | 3:05 | 2024-04-05 |  |
@@ -56,6 +57,7 @@
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2024-02-02 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 |  |
+| [neck & earz](https://open.spotify.com/track/2HyaJcJaVju393PK4LvFD8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Tell It Like It Is](https://open.spotify.com/album/1u1VNFkQpO5UsTdes7cIv4) | 3:04 | 2024-05-10 |  |
 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 | 2024-02-02 |  |
 | [NEGLIGENT](https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NEGLIGENT](https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU) | 3:24 | 2024-03-08 |  |
 | [Never Had This \(feat\. Vory\)](https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:53 | 2024-02-02 |  |

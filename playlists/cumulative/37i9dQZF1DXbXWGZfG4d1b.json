@@ -16,10 +16,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
+    },
+    {
+      "album": {
+        "name": "Bueno Todo El D\u00eda",
+        "url": "https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS"
+      },
+      "artists": [
+        {
+          "name": "Ok Pir\u00e1mides",
+          "url": "https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312270,
+      "name": "31 de Diciembre",
+      "url": "https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 227778,
       "name": "Aeronostalgia (feat. J)",
       "url": "https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 270007,
       "name": "Arariyo",
       "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
@@ -768,7 +786,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 211625,
       "name": "A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
@@ -1232,6 +1250,28 @@
       "duration_ms": 181270,
       "name": "Caer",
       "url": "https://open.spotify.com/track/6nZyCxho4vUZ8NYMqarGxb"
+    },
+    {
+      "album": {
+        "name": "Vandalismo Comparado",
+        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "Ni\u00f1o Elefante",
+          "url": "https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135189,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
     },
     {
       "album": {
@@ -1824,7 +1864,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 147053,
       "name": "Congelado",
       "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
@@ -2042,7 +2082,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
@@ -3116,7 +3156,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 174871,
       "name": "El Secreto",
       "url": "https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt"
@@ -4034,7 +4074,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178913,
       "name": "Fumar de d\u00eda",
       "url": "https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT"
@@ -4172,7 +4212,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 189231,
       "name": "Habladur\u00edas",
       "url": "https://open.spotify.com/track/2NrbopmQukNS8fOp5n8QkO"
@@ -4323,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "Hienas",
+        "url": "https://open.spotify.com/album/4RsFfIRqpNykovYJe5yKxF"
+      },
+      "artists": [
+        {
+          "name": "mam\u00e1 glitch",
+          "url": "https://open.spotify.com/artist/2wxT6SRtxESURlsXrfEeFn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266625,
+      "name": "Hienas",
+      "url": "https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c"
+    },
+    {
+      "album": {
         "name": "Hilary D.",
         "url": "https://open.spotify.com/album/38Re6Gvisocy40gAON78H3"
       },
@@ -4428,7 +4486,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 191583,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
@@ -4742,7 +4800,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 145530,
       "name": "Junto Boludeces",
       "url": "https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec"
@@ -4778,7 +4836,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
@@ -5384,6 +5442,24 @@
       "duration_ms": 165989,
       "name": "Las panteritas",
       "url": "https://open.spotify.com/track/2AOSgtCDzQqObVxl4QYkze"
+    },
+    {
+      "album": {
+        "name": "Las Ventajas",
+        "url": "https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu"
+      },
+      "artists": [
+        {
+          "name": "La Primera Especie",
+          "url": "https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243611,
+      "name": "Las Ventajas",
+      "url": "https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg"
     },
     {
       "album": {
@@ -6254,7 +6330,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 324155,
       "name": "Mi Conexi\u00f3n",
       "url": "https://open.spotify.com/track/5u1fbnjaJc0rCQPnQ1xUqJ"
@@ -6276,7 +6352,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 274140,
       "name": "Mi Generaci\u00f3n",
       "url": "https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK"
@@ -6910,7 +6986,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
@@ -7004,7 +7080,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
@@ -7044,6 +7120,24 @@
       "duration_ms": 225009,
       "name": "No Le Des Mas Vuelta",
       "url": "https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq"
+    },
+    {
+      "album": {
+        "name": "No Los Pueden Separar",
+        "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142147,
+      "name": "No Los Pueden Separar",
+      "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
     },
     {
       "album": {
@@ -7634,7 +7728,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171294,
       "name": "Pagando de M\u00e1s",
       "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
@@ -7664,7 +7758,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222435,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo"
@@ -7950,7 +8044,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 206875,
       "name": "Perla",
       "url": "https://open.spotify.com/track/73A39Bh59zZbSuYxsKduVk"
@@ -8376,7 +8470,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 248808,
       "name": "Psicodelia arbolera",
       "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
@@ -8438,7 +8532,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 234792,
       "name": "Puedo Con Esto - Fuera de Foco",
       "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
@@ -9482,7 +9576,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 169387,
       "name": "SUELO",
       "url": "https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb"
@@ -10438,7 +10532,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 221560,
       "name": "Vamos a destruir",
       "url": "https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd"
@@ -10680,7 +10774,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"

@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 26 min
+63 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Gênesis](https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Gênesis](https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB) | 4:00 | 2024-03-28 |  |
 | [Homem do Mundo \(feat\. Criolo\)](https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:17 | 2023-09-18 |  |
 | [Idas e Vindas](https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Idas e Vindas](https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ) | 3:36 | 2024-03-17 |  |
-| [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 | 2023-09-18 |  |
+| [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 | 2023-09-18 | 2024-05-11 |
 | [Jogo Sério](https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marissol Mwaba](https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2023-09-18 |  |
 | [Laranja Mecânica \(feat\. Xênia França\)](https://open.spotify.com/track/5vE1nlg6T3641s1yGpWIXv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:05 | 2023-09-18 | 2024-02-05 |
 | [Linha De Frente](https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:03 | 2023-09-18 |  |
@@ -61,6 +61,7 @@
 | [Segura Seu BO](https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 3:33 | 2023-09-18 |  |
 | [Sem Sorte](https://open.spotify.com/track/4tK7JhBzDRoTyplGGb0LLp) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 4:47 | 2024-01-26 | 2024-04-10 |
 | [Sobrou Silêncio \(feat\. DUDA BEAT\)](https://open.spotify.com/track/3PkUvpDnKBjOR11CTAD607) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:12 | 2023-09-18 |  |
+| [Superpoder](https://open.spotify.com/track/5TlK8KkKi36wHn6UjUoiXQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:17 | 2024-05-11 |  |
 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 | 2023-09-18 | 2023-12-14 |
 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 | 2023-09-18 |  |
 | [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 |  |

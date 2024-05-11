@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=lGTvRUIGS7OQ4s0SUjJ5og\">Lelowhatsgood</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=NGWTyGHRSlik5iXPsgF0QQ\">Lelowhatsgood</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1739,6 +1739,32 @@
     },
     {
       "album": {
+        "name": "Izinyoni (feat. Volka) [Remix]",
+        "url": "https://open.spotify.com/album/1HZu3JjmobsdZ6PUtran4T"
+      },
+      "artists": [
+        {
+          "name": "The Billionaires",
+          "url": "https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        },
+        {
+          "name": "Volka",
+          "url": "https://open.spotify.com/artist/4ILXkrTlweHEFALfLdBHFB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337560,
+      "name": "Izinyoni (feat. Volka) - Remix",
+      "url": "https://open.spotify.com/track/52jzhJz6T5807upSLFbUCr"
+    },
+    {
+      "album": {
         "name": "Flight Mode",
         "url": "https://open.spotify.com/album/0HZIQpGpPRdbEqy2mRU75Q"
       },
@@ -2818,6 +2844,24 @@
       "duration_ms": 140094,
       "name": "Saggies",
       "url": "https://open.spotify.com/track/4qwBmPUVUbyXjwlttBAp8J"
+    },
+    {
+      "album": {
+        "name": "The Culture of Gqom",
+        "url": "https://open.spotify.com/album/7CvO0janVLpZttGSJYXSfT"
+      },
+      "artists": [
+        {
+          "name": "Newlandz Finest",
+          "url": "https://open.spotify.com/artist/5e6xrUaBikxvU4K3K5CObX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275491,
+      "name": "Salute to Lazz",
+      "url": "https://open.spotify.com/track/7L41TnCY7JGtIt57xvyfo1"
     },
     {
       "album": {

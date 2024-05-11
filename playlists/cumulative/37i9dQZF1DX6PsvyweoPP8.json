@@ -1621,6 +1621,32 @@
     },
     {
       "album": {
+        "name": "Desce na Onda pra Mim",
+        "url": "https://open.spotify.com/album/2zZ9sdTTGzyNTFiYwy2KNW"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179057,
+      "name": "Desce na Onda pra Mim",
+      "url": "https://open.spotify.com/track/72RQSTPOid12RS0zHdy91E"
+    },
+    {
+      "album": {
         "name": "Detalhes",
         "url": "https://open.spotify.com/album/2VBRJj31iJqjnL1E9cJmCl"
       },

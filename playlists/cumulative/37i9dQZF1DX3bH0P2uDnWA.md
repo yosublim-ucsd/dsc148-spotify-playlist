@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-369 songs - 21 hr 0 min
+370 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Crazy Cat](https://open.spotify.com/track/1WeIE004KxqkSqL9llndbV) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Crazy Cat](https://open.spotify.com/album/74GNHd060Ba5P13cwmFHHV) | 2:37 | 2021-03-26 | 2024-03-09 |
 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 | 2021-11-19 | 2023-04-22 |
 | [Cream Soda](https://open.spotify.com/track/1HVrQh0RCA0H2cFb82Kje9) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Cream Soda](https://open.spotify.com/album/1UGvlg6mOmKlpTq3EruTSL) | 3:04 | 2021-08-27 | 2022-07-29 |
-| [Dance \(To Save Your Soul\) \- Electro Swing Radio Mix](https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [Dance \(To Save Your Soul\) \[Electro Swing Radio Mix\]](https://open.spotify.com/album/1bhoYgDywsI5Nq8i7SCE3v) | 2:28 | 2024-03-08 |  |
+| [Dance \(To Save Your Soul\) \- Electro Swing Radio Mix](https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [Dance \(To Save Your Soul\) \[Electro Swing Radio Mix\]](https://open.spotify.com/album/1bhoYgDywsI5Nq8i7SCE3v) | 2:28 | 2024-03-08 | 2024-05-11 |
 | [Dance With Me](https://open.spotify.com/track/3VerYSeA9fDRLDCpb9JzSW) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Dance With Me](https://open.spotify.com/album/7lDfxkmVcUMefYHtk0hD9T) | 3:34 | 2020-10-30 | 2022-07-26 |
 | [Dancing with the Devil](https://open.spotify.com/track/5v6M7RkUUoqoqhSg47WDzN) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [Dancing with the Devil](https://open.spotify.com/album/23015bEcBD0AGhSVINfp1e) | 3:46 | 2023-10-13 | 2023-11-07 |
 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 | 2020-10-30 | 2024-03-02 |
@@ -162,6 +162,7 @@
 | [Kisse Misse](https://open.spotify.com/track/0aH8X88VkmMpDK6tGcwRd1) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Kisse Misse](https://open.spotify.com/album/4SJhQGeBNDF9Pugij6yhr2) | 2:57 | 2020-10-30 | 2022-05-15 |
 | [Lady Bedford](https://open.spotify.com/track/78rRM78zyNFDMVsPDYfKdi) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [Lady Bedford](https://open.spotify.com/album/3Y3Q2asNftRaeDVmbVCen6) | 2:28 | 2020-10-30 | 2022-05-14 |
 | [Lady Bedford](https://open.spotify.com/track/2nyGU7gxs5j9Om3xtjM0Ev) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [Grand Casino Hotel](https://open.spotify.com/album/3eV0Bt3EdjxWYeemqOIObB) | 2:30 | 2022-11-07 | 2023-06-03 |
+| [Lady Ella \- Electro Swing Radio Mix](https://open.spotify.com/track/17vcy6PBCwXui5qZ66ATHJ) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [Lady Ella \(Electro Swing Radio Mix\)](https://open.spotify.com/album/6Sfc7jx2x13T9lYPPkQx6L) | 3:24 | 2024-05-10 |  |
 | [Laisse\-Toi Tomber](https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B) | [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Vero Nouk](https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE) | [Laisse\-Toi Tomber](https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1) | 2:58 | 2022-11-25 | 2023-04-01 |
 | [Let there be a swing](https://open.spotify.com/track/2vKvHPjvKeL4SrmnBA3kIk) | [$ashc.A.](https://open.spotify.com/artist/0XVq18PWsZQ9dpf550PAP1) | [Let there be a swing](https://open.spotify.com/album/6GO07EwUpAfQF2zpnEbeae) | 3:36 | 2020-12-12 | 2022-05-15 |
 | [Let Yourself Go](https://open.spotify.com/track/7unnkEMBqth617Q8DyhsFd) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Long Legs](https://open.spotify.com/album/24LwsnJl1E5hxRxUWTcTRn) | 3:42 | 2020-10-30 | 2024-01-20 |

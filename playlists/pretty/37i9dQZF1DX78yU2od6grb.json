@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 555670,
+  "num_followers": 555652,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1499,26 +1499,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "How Beautiful (she is)",
-        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
+        "name": "Be Okay (with HRVY)",
+        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
         }
       ],
-      "duration_ms": 207586,
-      "name": "How Beautiful (she is)",
-      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
+      "duration_ms": 141600,
+      "name": "Be Okay (with HRVY)",
+      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1551,6 +1547,30 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "How Beautiful (she is)",
+        "url": "https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        },
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "How Beautiful (she is)",
+      "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 214906,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Be Okay (with HRVY)",
-        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Be Okay (with HRVY)",
-      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
     },
     {
       "added_at": "2022-11-25 03:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 9562,
-  "original_name": "This Is Megan Moroney",
+  "description": "This is Megan Moroney. Lagu-lagu utama, semuanya dalam satu playlist.",
+  "num_followers": 9636,
+  "original_name": "This is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAABLxYjVwFoz9gcXgZYv6/zb",
+  "snapshot_id": "ZjwSAAAAAADoCOhxG8yCSNPjWySLrCkx",
   "tracks": [
     {
       "added_at": null,
@@ -215,38 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Reasons to Stay",
-      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 165099,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
@@ -272,9 +240,25 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 161042,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
+      "duration_ms": 165099,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Reasons to Stay",
+      "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
     },
     {
       "added_at": null,
@@ -304,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 153296,
-      "name": "Traitor Joe",
-      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+      "duration_ms": 161042,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 153296,
+      "name": "Traitor Joe",
+      "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
@@ -341,6 +341,6 @@
       "url": "https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR"
     }
   ],
-  "unique_name": "This Is Megan Moroney",
+  "unique_name": "This is Megan Moroney",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr"
 }

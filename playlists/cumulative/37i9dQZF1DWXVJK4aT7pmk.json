@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks with Shubh for his track \"Bandana\"",
+  "description": "Catch the hottest Punjabi tracks with Shubh for his track \"MVP\"",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 140789,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6YMF2h9YZVkQs6V6nVLdW3"
@@ -1250,6 +1250,24 @@
       "duration_ms": 182762,
       "name": "Murder",
       "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196897,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
     },
     {
       "album": {

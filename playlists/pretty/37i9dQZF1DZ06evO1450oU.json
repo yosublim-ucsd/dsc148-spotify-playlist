@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAADXlH49AQhTcPDfW3KooMx3",
+  "snapshot_id": "ZjwSAAAAAAAsRONYdDd2MVHHYxNgYFZv",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/3aGJ5ADvwX6exbJhQx5NZq"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/49J2SQ55U0KM24UrVh78Ia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Were There",
         "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 172548,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     },
     {
       "added_at": null,
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218705,
-      "name": "The Vine",
-      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
+      "duration_ms": 172548,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/26ZZWBfaEeI3mQXrwK7bAx"
     }
   ],
   "unique_name": "This Is Salt Creek",

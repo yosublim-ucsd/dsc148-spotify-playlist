@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Hozier",
+  "description": "A laid-back trip in the folk scene. Cover: Mikayla Geier",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 189073,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/6mR8WKU0eHUrhn8SvJAsqa"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 227146,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/6tYQjjzDBYhTpugD9A8NEq"
@@ -3282,6 +3282,24 @@
       "duration_ms": 185613,
       "name": "Down in the Willow Garden (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF"
+    },
+    {
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199682,
+      "name": "Down To The Sea",
+      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
     },
     {
       "album": {
@@ -4556,6 +4574,32 @@
       "duration_ms": 180000,
       "name": "Flower Heart",
       "url": "https://open.spotify.com/track/4HeLzsRQB3lhDMfWXl1QxB"
+    },
+    {
+      "album": {
+        "name": "Flowers In My Hair",
+        "url": "https://open.spotify.com/album/5AbppIu4oDE0Ql7WDYrCwS"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        },
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        },
+        {
+          "name": "Minuscule",
+          "url": "https://open.spotify.com/artist/1KjWtJC2fhG6CgWFXgrXkY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Flowers In My Hair",
+      "url": "https://open.spotify.com/track/0WKsH3LlO1H3wNzCRpy403"
     },
     {
       "album": {
@@ -6153,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "i don't feel safe in my body",
+        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "i don't feel safe in my body",
+      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
+    },
+    {
+      "album": {
         "name": "I Don't Kill",
         "url": "https://open.spotify.com/album/7B8d3W0dFMHfmYag0apOxs"
       },
@@ -6410,6 +6472,24 @@
       "duration_ms": 234130,
       "name": "I Wanna Die in LA",
       "url": "https://open.spotify.com/track/2IfxaJmBbfK013XRQ5pjx1"
+    },
+    {
+      "album": {
+        "name": "I Want What I Don't Need",
+        "url": "https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj"
     },
     {
       "album": {
@@ -7897,6 +7977,24 @@
     },
     {
       "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252430,
+      "name": "Look Down That Lonesome Road",
+      "url": "https://open.spotify.com/track/5mkNlofyHIruXQJEBCYM1O"
+    },
+    {
+      "album": {
         "name": "Looking For",
         "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
       },
@@ -8132,7 +8230,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 268061,
       "name": "Lully Lullay",
       "url": "https://open.spotify.com/track/73gk7tdQ6hq1LqDpV69ytB"
@@ -9008,7 +9106,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 312464,
       "name": "No Boat No Aeroplane",
       "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
@@ -15072,7 +15170,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 294851,
       "name": "You Lucky One",
       "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"

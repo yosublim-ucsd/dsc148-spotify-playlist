@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,314 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,363 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hob Ahtikar](https://open.spotify.com/track/5RBTO0rCpltFobnou4cwJj) | [Mohanad Al Marsoomi](https://open.spotify.com/artist/1slDivlRCooYvl3me2fg2H) | [Hob Ahtikar](https://open.spotify.com/album/3FnWWKR5ulIqaGBXM1LTUu) | 3:26 |
-| 2 | [مقهورين مني](https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd) | [Sara Al Zakariya](https://open.spotify.com/artist/1YGnSFYXfvmBNfCvbXEMSu) | [مقهورين مني](https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8) | 2:55 |
+| 2 | [مقهورين مني](https://open.spotify.com/track/22aBA60qudBOPSqkPZ5gJd) | [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [مقهورين مني](https://open.spotify.com/album/3dgvVkYKn0HaAnJ4x6hQR8) | 2:55 |
 | 3 | [Ghaltan Ghaltan](https://open.spotify.com/track/7FL9mXY6W6SPsFvWwhSLVd) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ghaltan Ghaltan](https://open.spotify.com/album/5R6fPHaacsEuy9FCId2MTF) | 3:52 |
 | 4 | [Helem Geffey](https://open.spotify.com/track/2F48MRUip6OrIEs2vJ0QVA) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Helem Geffey](https://open.spotify.com/album/1V23wqZu0pJmJ3TANpCycg) | 3:14 |
 | 5 | [Kawkab Thani](https://open.spotify.com/track/1qHkH13KWiLu9mIyhZUir1) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Kawkab Thani](https://open.spotify.com/album/7lKuYDGriTwJmzeTggFZMj) | 2:16 |

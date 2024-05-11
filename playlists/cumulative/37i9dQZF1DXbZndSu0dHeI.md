@@ -4,7 +4,7 @@
 
 > Have the loveliest little day.
 
-441 songs - 1 day 2 hr 42 min
+442 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [The Greatest](https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/2ErZHHnKWGdpUWCwYLjHxU) | 3:22 | 2022-03-19 | 2022-04-16 |
 | [The Hours](https://open.spotify.com/track/2sIJX0m9AzvOP4WG6hfPZW) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [The Hours](https://open.spotify.com/album/1g3IT737Uid5YB2vLTF7hp) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
+| [The Light Nights](https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Look to the East, Look to the West](https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1) | 4:33 | 2024-05-10 |  |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-25 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-11-12 | 2022-07-17 |
 | [the sum of the in\-between](https://open.spotify.com/track/3Slg6cDLMENij8JZ50F9SL) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 4:16 | 2022-08-05 | 2022-11-13 |
@@ -396,7 +397,7 @@
 | [Time Difference](https://open.spotify.com/track/0oOwMQ1jlNkCrHyeuXfVGm) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Time Difference](https://open.spotify.com/album/25VGxuaZ7xGEI2nL5wonBc) | 3:33 | 2021-11-12 | 2022-07-20 |
 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 | 2024-03-22 |  |
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-04-12 |  |
-| [Today](https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Today](https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH) | 2:46 | 2022-03-19 |  |
+| [Today](https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Today](https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH) | 2:46 | 2022-03-19 | 2024-05-11 |
 | [Today \(can't help but cry\)](https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Today \(can't help but cry\)](https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb) | 4:12 | 2023-01-26 | 2023-01-27 |
 | [Traffic](https://open.spotify.com/track/35SRuMV83zAr0tVX356ALA) | [Andy Cortes](https://open.spotify.com/artist/6OVCGwVPjvhsGhg3VQ7LV2) | [Traffic](https://open.spotify.com/album/7fetj5Pjx1Crl6pDfK2IIj) | 4:07 | 2022-03-19 | 2022-07-19 |
 | [Triptych](https://open.spotify.com/track/2jcvATUcmQH1PMzNbRF6n8) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Triptych](https://open.spotify.com/album/4sAyoSyGUWwKsFEFAva54E) | 3:06 | 2021-11-12 | 2022-07-29 |

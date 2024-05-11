@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  Bohemia
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,215 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,217 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shehzaada](https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [Shehzaada](https://open.spotify.com/album/0jClMwcSRCzW2CpZMl0uUs) | 2:55 |
-| 2 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 |
-| 3 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 |
+| 1 | [DND](https://open.spotify.com/track/0o89fyEtsX7ghSCOX03ETH) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [GUR3](https://open.spotify.com/artist/5koyyrDLmi6gC2M1XQrB1p), [Jashan Khaira](https://open.spotify.com/artist/1jNthEGefMxysUrn5ZJLgA), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [DND](https://open.spotify.com/album/3ySYqXXj6Ycfy1NdPCT6y1) | 2:33 |
+| 2 | [Shehzaada](https://open.spotify.com/track/67FzTBM17XHL8cDHMxxnom) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo) | [Shehzaada](https://open.spotify.com/album/0jClMwcSRCzW2CpZMl0uUs) | 2:55 |
+| 3 | [Billo \(feat\. Natania\)](https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [DESI TRILL Presents...Brown is Everywhere](https://open.spotify.com/album/5A0U2TgDKVUifuVckuQuFN) | 2:26 |
 | 4 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 |
 | 5 | [Infamous](https://open.spotify.com/track/4OUI0zhbSb2nGsHARHpXHF) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Infamous](https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0) | 2:20 |
 | 6 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 49 | [Racks and Rounds \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:45 |
 | 50 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 |
 
-Snapshot ID: `ZjTMDwAAAADjWIVdp5fqDTeSvyuj+1AG`
+Snapshot ID: `Zj4g+QAAAAAkCgbYjdNx0KxL/MNmusNw`

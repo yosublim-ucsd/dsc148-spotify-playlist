@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 20496,
+  "num_followers": 20507,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Deep in the Water",
-        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Deep in the Water",
-      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 211869,
       "name": "Yimmy Yimmy",
       "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Deep in the Water",
+        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Deep in the Water",
+      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Bodija / Folake",
         "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 155454,
       "name": "Folake",
       "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Realize (feat. taves)",
+      "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Realize (feat. taves)",
-      "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "Tolo (Faut m'oublier)",
+        "url": "https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 169254,
+      "name": "Tolo (Faut m'oublier)",
+      "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "Tolo (Faut m'oublier)",
-        "url": "https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 169254,
-      "name": "Tolo (Faut m'oublier)",
-      "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "Henny Talk",
+        "url": "https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 176922,
+      "name": "Henny Talk",
+      "url": "https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "Henny Talk",
-        "url": "https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 176922,
-      "name": "Henny Talk",
-      "url": "https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "It Was Real",
+        "url": "https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid"
+      },
+      "artists": [
+        {
+          "name": "D G",
+          "url": "https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2"
+        }
+      ],
+      "duration_ms": 121052,
+      "name": "It Was Real",
+      "url": "https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "L.I.T (Lost In Translation)",
         "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "It Was Real",
-        "url": "https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid"
-      },
-      "artists": [
-        {
-          "name": "D G",
-          "url": "https://open.spotify.com/artist/4kM3LGXvoA2XsvjxBmVyR2"
-        }
-      ],
-      "duration_ms": 121052,
-      "name": "It Was Real",
-      "url": "https://open.spotify.com/track/6OGC3FiJ6pIALSVTYtYF6W"
     },
     {
       "added_at": "2024-05-10 00:01:00",

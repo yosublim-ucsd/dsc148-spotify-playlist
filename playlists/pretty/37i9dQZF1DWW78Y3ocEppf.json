@@ -1,6 +1,6 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43141,
+  "num_followers": 43140,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
@@ -821,24 +821,20 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Full Circle: Sonic Book Two",
-        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
+        "name": "Don't Mind Me",
+        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
       },
       "artists": [
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 229838,
-      "name": "Taking Off",
-      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
+      "duration_ms": 189929,
+      "name": "Don\u2019t Mind Me",
+      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -857,20 +853,24 @@
       "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Don't Mind Me",
-        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
+        "name": "Full Circle: Sonic Book Two",
+        "url": "https://open.spotify.com/album/0zfR2DLWZWMWYjg9B8DKEx"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
         }
       ],
-      "duration_ms": 189929,
-      "name": "Don\u2019t Mind Me",
-      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
+      "duration_ms": 229838,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6UpQnWMqluVLTdCyk3qFJ4"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
-      },
-      "artists": [
-        {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 215249,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lost In Melody (Deluxe)",
@@ -931,6 +911,26 @@
       "duration_ms": 144869,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 215249,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "WHAT U ON",
@@ -1053,20 +1069,20 @@
       "url": "https://open.spotify.com/track/6HlPPcbjlyq7liRqu8q6mK"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+      "duration_ms": 163720,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 147000,
       "name": "Gang Slide",
       "url": "https://open.spotify.com/track/2N2kx4jJG4683NoO3NMvpw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Tripolar 3",
-        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Strip for You (feat. Vedo)",
-      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "The Hurtbook (Homegirl Pack)",
         "url": "https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tripolar 3",
+        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Strip for You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1267,6 +1251,22 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
     },
     {
+      "added_at": "2023-07-14 17:29:23",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Touchin' (feat. Kaliii)",
@@ -1323,22 +1339,6 @@
       "duration_ms": 214712,
       "name": "Touchin' (feat. Kaliii)",
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
-    },
-    {
-      "added_at": "2023-07-14 17:29:23",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Weak For Me",
-        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
-      },
-      "artists": [
-        {
-          "name": "Baby B",
-          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Weak For Me",
-      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
-    },
-    {
       "added_at": "2023-09-01 04:55:52",
       "album": {
         "name": "five more",
@@ -1403,6 +1387,22 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Weak For Me",
+        "url": "https://open.spotify.com/album/06OJ08xYd8UwL3B5ih8O5l"
+      },
+      "artists": [
+        {
+          "name": "Baby B",
+          "url": "https://open.spotify.com/artist/7nznupCgJONUdFSwrrqnDi"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Weak For Me",
+      "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/5VmIuUZW8eDUEXGCenMsnL"
+      },
+      "artists": [
+        {
+          "name": "Essii",
+          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
+        }
+      ],
+      "duration_ms": 133416,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7h1xmTzdeH6pBVfV6kSoVI"
+    },
+    {
       "added_at": "2022-11-04 06:34:53",
       "album": {
         "name": "Satisfied",
@@ -1579,22 +1595,6 @@
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/5VmIuUZW8eDUEXGCenMsnL"
-      },
-      "artists": [
-        {
-          "name": "Essii",
-          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
-        }
-      ],
-      "duration_ms": 133416,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/7h1xmTzdeH6pBVfV6kSoVI"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1725,26 +1725,6 @@
       "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Pusha Baby",
-        "url": "https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg"
-      },
-      "artists": [
-        {
-          "name": "Teon Gibbs",
-          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 141375,
-      "name": "Pusha Baby",
-      "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Presence",
@@ -1765,20 +1745,40 @@
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Needs & Wants",
-        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+        "name": "Pusha Baby",
+        "url": "https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
         }
       ],
-      "duration_ms": 185719,
-      "name": "Needs & Wants",
-      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+      "duration_ms": 141375,
+      "name": "Pusha Baby",
+      "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Pretty Ass Bish",
+        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "Pretty Ass Bish",
+      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
     }
   ],
   "unique_name": "Some Kinda Way",

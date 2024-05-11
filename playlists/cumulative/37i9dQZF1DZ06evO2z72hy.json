@@ -546,10 +546,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188000,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
     },
     {
       "album": {

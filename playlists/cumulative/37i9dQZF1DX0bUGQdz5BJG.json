@@ -615,6 +615,42 @@
     },
     {
       "album": {
+        "name": "A Small Town Near You",
+        "url": "https://open.spotify.com/album/7EveHfp892PEl2KN9E0rLd"
+      },
+      "artists": [
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126987,
+      "name": "A Small Town Near You",
+      "url": "https://open.spotify.com/track/1x4AxvJmuPs6WfoSYj1zgf"
+    },
+    {
+      "album": {
+        "name": "Tennessee Truth",
+        "url": "https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/2QUuvRYxQd0X0AHZKUmkzO"
+    },
+    {
+      "album": {
         "name": "Actin' Up",
         "url": "https://open.spotify.com/album/04yCexTvMFC47BOGeV1qyt"
       },
@@ -2538,7 +2574,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 185343,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/5XAnb8uMIFDLNy8R4hr6m4"
@@ -3878,7 +3914,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164453,
       "name": "Blood",
       "url": "https://open.spotify.com/track/613kRFZRUuzk1oNFJhLVyh"
@@ -4048,6 +4084,24 @@
       "duration_ms": 245511,
       "name": "Blue Over You",
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
+    },
+    {
+      "album": {
+        "name": "Bluegrass Green",
+        "url": "https://open.spotify.com/album/5rC1zfMlRFxlkFbCP6C9Io"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Hutcherson",
+          "url": "https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195332,
+      "name": "Bluegrass Green",
+      "url": "https://open.spotify.com/track/3Ts9EvHUcJ7KyjW6EQfh60"
     },
     {
       "album": {
@@ -4512,7 +4566,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176967,
       "name": "Bright Side Of Blue",
       "url": "https://open.spotify.com/track/2364toHdid4HEDBf19wh2A"
@@ -7142,7 +7196,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 208560,
       "name": "Damn Right I Do",
       "url": "https://open.spotify.com/track/0WQFsJfZRH4jQAknuMPD9e"
@@ -7294,6 +7348,24 @@
       "duration_ms": 205801,
       "name": "Days That End in Why",
       "url": "https://open.spotify.com/track/3oPLYoTec7ZKdteHR8GfZa"
+    },
+    {
+      "album": {
+        "name": "Daytona To Me",
+        "url": "https://open.spotify.com/album/1RqZHw9ETfhtUxqwVeh8PK"
+      },
+      "artists": [
+        {
+          "name": "Ray Fulcher",
+          "url": "https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195732,
+      "name": "Daytona To Me",
+      "url": "https://open.spotify.com/track/4yIuqPiFbWPWrPve2ZyIKV"
     },
     {
       "album": {
@@ -7836,7 +7908,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 180480,
       "name": "Dirt Road Date Night",
       "url": "https://open.spotify.com/track/1rpVUZWQY0kFJB19uyramv"
@@ -8705,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "Dreamers Drifters and Hiders",
+        "url": "https://open.spotify.com/album/7fubxD2OenQt0pCuCkDcDy"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209119,
+      "name": "Dreamers Drifters and Hiders",
+      "url": "https://open.spotify.com/track/3qfehZHgEcZTSIPkhYYUzB"
+    },
+    {
+      "album": {
         "name": "Dreamin's Free",
         "url": "https://open.spotify.com/album/2FjepQmwZU2S6NWykgszPD"
       },
@@ -8720,6 +8810,24 @@
       "duration_ms": 218568,
       "name": "Dreamin's Free",
       "url": "https://open.spotify.com/track/6sg8Y3ZwBdVWF03V7jzHgS"
+    },
+    {
+      "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/6GU4UGLI5kgrSFgymhht2y"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/670HODvaYsQHA8LlKy6H7I"
     },
     {
       "album": {
@@ -8882,6 +8990,24 @@
       "duration_ms": 200726,
       "name": "Drinking Buddy",
       "url": "https://open.spotify.com/track/7cUbKuuwovfRivtx1pmLnF"
+    },
+    {
+      "album": {
+        "name": "Drinking Out Loud",
+        "url": "https://open.spotify.com/album/5zJmJZaABEaQwZPub14Brv"
+      },
+      "artists": [
+        {
+          "name": "Richie Allen",
+          "url": "https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Drinking Out Loud",
+      "url": "https://open.spotify.com/track/4OpmfykqMpCGdgQWHoMnMn"
     },
     {
       "album": {
@@ -9845,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "fault line",
+        "url": "https://open.spotify.com/album/1ZYo7uB8K9cvd8BotBNU2u"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199329,
+      "name": "fault line",
+      "url": "https://open.spotify.com/track/5UXEe9lASLQzbGapTZM7ID"
+    },
+    {
+      "album": {
         "name": "Favorite Dress",
         "url": "https://open.spotify.com/album/5zF1FrN4VYwsSx5LQEhSoZ"
       },
@@ -10564,7 +10708,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 160576,
       "name": "Forgive Me (feat. Willie Jones)",
       "url": "https://open.spotify.com/track/5AGoV0U8cevL5rhQF2tmwj"
@@ -10874,6 +11018,24 @@
       "duration_ms": 173238,
       "name": "Get Away With It",
       "url": "https://open.spotify.com/track/1nEsrpCsudRtG9zN8lrqzS"
+    },
+    {
+      "album": {
+        "name": "Get Out Of This Town",
+        "url": "https://open.spotify.com/album/5obLGbk80QFlAvJ7rYEOaN"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205976,
+      "name": "Get Out Of This Town",
+      "url": "https://open.spotify.com/track/6yym7jsr03QfG9HBtzKcRO"
     },
     {
       "album": {
@@ -11448,6 +11610,24 @@
       "duration_ms": 197560,
       "name": "Goin' Crazy",
       "url": "https://open.spotify.com/track/3DJ3Nnpd6j5TKW8SWu1zFw"
+    },
+    {
+      "album": {
+        "name": "Going On Forever",
+        "url": "https://open.spotify.com/album/3FViKrwE6JoX2Dzq4GMDS4"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174149,
+      "name": "Going On Forever",
+      "url": "https://open.spotify.com/track/2CgQorbrX2gDHmPgVNgJaL"
     },
     {
       "album": {
@@ -12383,6 +12563,24 @@
     },
     {
       "album": {
+        "name": "Had To Be There",
+        "url": "https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183556,
+      "name": "Had To Be There",
+      "url": "https://open.spotify.com/track/3AibB8ZzNrqLeXuLYj6oql"
+    },
+    {
+      "album": {
         "name": "Hope It's Hot Out...Again - EP",
         "url": "https://open.spotify.com/album/0jVq7ilx3qQ4ci4nHIrAVz"
       },
@@ -12542,6 +12740,24 @@
       "duration_ms": 196346,
       "name": "Hang of Hangin\u2019 On",
       "url": "https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT"
+    },
+    {
+      "album": {
+        "name": "Hang Your Hat",
+        "url": "https://open.spotify.com/album/0oQVtszRcMaKcg5c1u9G3a"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Hang Your Hat",
+      "url": "https://open.spotify.com/track/3DRWZjP73OggaqbfHK5oZm"
     },
     {
       "album": {
@@ -13062,6 +13278,24 @@
       "duration_ms": 162179,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/5GXjaRUcCzc5H58ig1reCV"
+    },
+    {
+      "album": {
+        "name": "Heart Broke",
+        "url": "https://open.spotify.com/album/2kI1unVxe8gSkd6RtIatW6"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "Heart Broke",
+      "url": "https://open.spotify.com/track/4ufkCHWXPq9x8MJJkztcbR"
     },
     {
       "album": {
@@ -14360,6 +14594,24 @@
       "duration_ms": 193973,
       "name": "Holler Back Home",
       "url": "https://open.spotify.com/track/0toSLmyjIaP28ZbHXcwQp9"
+    },
+    {
+      "album": {
+        "name": "Holy Ground",
+        "url": "https://open.spotify.com/album/2SPGc1itWblXqk3WDa7hJU"
+      },
+      "artists": [
+        {
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196668,
+      "name": "Holy Ground",
+      "url": "https://open.spotify.com/track/6eVnBlQiQXms6bxnt0V8g4"
     },
     {
       "album": {
@@ -16941,6 +17193,24 @@
     },
     {
       "album": {
+        "name": "If You Killed Somebody",
+        "url": "https://open.spotify.com/album/5Py4P6LyK966KPN6wi99V9"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "If You Killed Somebody",
+      "url": "https://open.spotify.com/track/6ZXxjwKpmNWhHy8WiMbzE8"
+    },
+    {
+      "album": {
         "name": "If You Never Broke My Heart",
         "url": "https://open.spotify.com/album/6GpGV4UyrECTpu9MGFLblF"
       },
@@ -17626,7 +17896,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184318,
       "name": "Just 21",
       "url": "https://open.spotify.com/track/68PL4PLUa1nksoJfiQxMRJ"
@@ -18936,6 +19206,24 @@
       "duration_ms": 174000,
       "name": "Let It Slide",
       "url": "https://open.spotify.com/track/070COw4EEG0Tp2jSv4NLc2"
+    },
+    {
+      "album": {
+        "name": "Let Your Horses Run",
+        "url": "https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179986,
+      "name": "Let Your Horses Run",
+      "url": "https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz"
     },
     {
       "album": {
@@ -20390,7 +20678,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175472,
       "name": "Love You On My Mind",
       "url": "https://open.spotify.com/track/4ioDT0NAIiEFC2f6ICbk9F"
@@ -21546,7 +21834,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 207726,
       "name": "Melt",
       "url": "https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck"
@@ -22698,7 +22986,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 218046,
       "name": "my place",
       "url": "https://open.spotify.com/track/4QHuywfD1V1eBMRY8Hbqnl"
@@ -25060,7 +25348,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 146678,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/3pEDk2nATFphw0wMil2w5v"
@@ -25248,7 +25536,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 189838,
       "name": "Over You By Now",
       "url": "https://open.spotify.com/track/0CgxDsdIwgMDuSmmLnKqpT"
@@ -27755,6 +28043,24 @@
     },
     {
       "album": {
+        "name": "Scratching the Surface (Mama's Song)",
+        "url": "https://open.spotify.com/album/3596716RtNbQ5ya9Qjihzl"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Scratching the Surface (Mama's Song)",
+      "url": "https://open.spotify.com/track/5L0HpGJ4sZ1z8s5dHhumTf"
+    },
+    {
+      "album": {
         "name": "Screened In",
         "url": "https://open.spotify.com/album/2XXzv59mGe4ZzJNoqVsGc9"
       },
@@ -27842,7 +28148,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 187357,
       "name": "See In Tennessee",
       "url": "https://open.spotify.com/track/22sppQl6jKNSnIwCE1tRiR"
@@ -29955,6 +30261,24 @@
     },
     {
       "album": {
+        "name": "Sore",
+        "url": "https://open.spotify.com/album/5bEdDEF85oE6f2YX7SSW3Y"
+      },
+      "artists": [
+        {
+          "name": "Aidan Canfield",
+          "url": "https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195603,
+      "name": "Sore",
+      "url": "https://open.spotify.com/track/5DJZlVH22AKeJ25XvvpK2P"
+    },
+    {
+      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/4I3sygkd6tjZ5iPlqCWIHt"
       },
@@ -30914,7 +31238,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 240691,
       "name": "Summer",
       "url": "https://open.spotify.com/track/1ff1m9YfDPeAhOPEjpQkEd"
@@ -32114,7 +32438,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186866,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67"
@@ -32824,7 +33148,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184500,
       "name": "The Pieces",
       "url": "https://open.spotify.com/track/3zD10yOK16ZBrhzoJZ5MjG"
@@ -35703,6 +36027,24 @@
     },
     {
       "album": {
+        "name": "What I Shoulda Done",
+        "url": "https://open.spotify.com/album/79fLN6PeDkJJrZJWyGsX8p"
+      },
+      "artists": [
+        {
+          "name": "Mae Estes",
+          "url": "https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150933,
+      "name": "What I Shoulda Done",
+      "url": "https://open.spotify.com/track/2HfPjyCH93eNvVlrYgf4pQ"
+    },
+    {
+      "album": {
         "name": "What if I",
         "url": "https://open.spotify.com/album/4xRmMm2gxJ5JIdEElLkoZE"
       },
@@ -35896,6 +36238,24 @@
       "duration_ms": 177365,
       "name": "What's It Gonna Take",
       "url": "https://open.spotify.com/track/4lfWuvMmfoONgwFH3jpN73"
+    },
+    {
+      "album": {
+        "name": "What's One More",
+        "url": "https://open.spotify.com/album/7afzM7kqt79krvhODOybIk"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144091,
+      "name": "What's One More",
+      "url": "https://open.spotify.com/track/53e83h80sNWeyHMmktUSeb"
     },
     {
       "album": {

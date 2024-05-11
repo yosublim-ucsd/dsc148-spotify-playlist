@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-253 songs - 13 hr 57 min
+254 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Nobody's You](https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Nobody's You](https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1) | 2:36 | 2023-06-30 |  |
 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 | 2022-03-18 |  |
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-10-13 | 2024-01-20 |
-| [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-12 |  |
+| [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-12 | 2024-05-11 |
 | [One Night \- Stripped Version](https://open.spotify.com/track/46PZbNbQ37DDhMbuVkL8V0) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night \(Stripped Version\)](https://open.spotify.com/album/0IOkSCsKp7rixM8Q1Vzmxn) | 2:34 | 2022-01-28 |  |
 | [Paradise \- Acoustic](https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/23yHB7E61DTKC1cWORnuhS) | 3:05 | 2022-01-28 | 2022-07-29 |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6GlMK7hhbyC0mlC3x5r3IY) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(The Acoustics\)](https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK) | 3:05 | 2022-10-14 | 2022-11-13 |
@@ -246,6 +246,7 @@
 | [Unfinished Business \(Acoustic\)](https://open.spotify.com/track/2VbO6uAFOFVaAuWGbntoQL) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Unfinished Business \(Acoustic\)](https://open.spotify.com/album/5ps2KtT1GWOD9PtJ34bpDV) | 3:28 | 2024-02-16 |  |
 | [vices](https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [roots](https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi) | 2:46 | 2023-12-08 |  |
 | [Victoria's Secret \- Piano Stripped](https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret \(Piano Stripped\)](https://open.spotify.com/album/7cKckU7FmpUFnt94PUibaU) | 2:55 | 2022-10-08 | 2023-04-15 |
+| [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 | 2024-05-10 |  |
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 | 2022-01-28 | 2022-10-13 |
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 | 2022-10-08 | 2023-04-29 |
 | [When You're Gone \- Acoustic](https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone \(Acoustic\)](https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj) | 3:08 | 2022-05-13 |  |

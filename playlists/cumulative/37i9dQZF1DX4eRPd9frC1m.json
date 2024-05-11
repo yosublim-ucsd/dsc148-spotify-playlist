@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+    },
+    {
+      "album": {
         "name": "AETHER (Hex Cougar Remix)",
         "url": "https://open.spotify.com/album/6lEL2qnKiGsbpvDEtcc9lN"
       },
@@ -200,6 +222,32 @@
       "duration_ms": 135600,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
+    },
+    {
+      "album": {
+        "name": "Ape Shit",
+        "url": "https://open.spotify.com/album/7boLegIAI26idUG4cLcYWd"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        },
+        {
+          "name": "Pure Powers",
+          "url": "https://open.spotify.com/artist/1FTPyh2jjCHfhzqYQGFeyL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Ape Shit",
+      "url": "https://open.spotify.com/track/18iIaFPwTlRhDWTcCWpwel"
     },
     {
       "album": {
@@ -342,7 +390,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195200,
       "name": "Astro Funk",
       "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
@@ -452,6 +500,28 @@
       "duration_ms": 211764,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/66BYzmukrC71y7X13zYtfU"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Cameron Warren",
+          "url": "https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195258,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/0qFNPzeb1tDKQ67ynIzU5S"
     },
     {
       "album": {
@@ -1153,6 +1223,28 @@
     },
     {
       "album": {
+        "name": "Can't Talk",
+        "url": "https://open.spotify.com/album/5XAEvDrse2d2865LjgSik3"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150110,
+      "name": "Can't Talk",
+      "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
+    },
+    {
+      "album": {
         "name": "Carbonara",
         "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },
@@ -1634,7 +1726,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 139034,
       "name": "DISRESPECT",
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
@@ -2888,7 +2980,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 170807,
       "name": "Hitta (feat. Juicy J)",
       "url": "https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P"
@@ -6515,6 +6607,24 @@
     },
     {
       "album": {
+        "name": "symphony no.5 in bass minor",
+        "url": "https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "symphony no.5 in bass minor",
+      "url": "https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv"
+    },
+    {
+      "album": {
         "name": "Takin' Over",
         "url": "https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY"
       },
@@ -7274,7 +7384,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 168960,
       "name": "Wall Of Death",
       "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
@@ -7546,7 +7656,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 165000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"

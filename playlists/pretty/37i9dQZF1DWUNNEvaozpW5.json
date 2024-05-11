@@ -1,13 +1,33 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Bunbury con Arde Bogot\u00e1.",
-  "num_followers": 571638,
+  "num_followers": 571730,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1HYAAAAACjygTHMeEejIJHJjFS6c42",
+  "snapshot_id": "Zj3zgAAAAAA+9wvL/mHj9xMuIGZtEys6",
   "tracks": [
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "De vuelta a casa",
+        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 266175,
+      "name": "De vuelta a casa",
+      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
+    },
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -63,22 +67,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "De vuelta a casa",
-        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 266175,
-      "name": "De vuelta a casa",
-      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Ester Exp\u00f3sito",
-        "url": "https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co"
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
       "artists": [
         {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 213205,
-      "name": "Ester Exp\u00f3sito",
-      "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Ester Exp\u00f3sito",
+        "url": "https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 213205,
+      "name": "Ester Exp\u00f3sito",
+      "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "Agila",
         "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 281666,
       "name": "So payaso",
       "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
       "artists": [
         {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "El doble de tu mitad",
-        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
-      },
-      "artists": [
-        {
-          "name": "Rulo y la contrabanda",
-          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Mediterr\u00e1naeo",
         "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 233026,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "El doble de tu mitad",
+        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
     },
     {
       "added_at": "2024-05-09 22:00:00",

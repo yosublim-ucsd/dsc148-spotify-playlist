@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 178269,
+  "num_followers": 178304,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAClVSGXk71AFXp0S8DxA3MG",
+  "snapshot_id": "ZjwSAAAAAAD7eKtyN4oUj/QxGCg9V8L5",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell Song",
-        "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 184266,
-      "name": "One Night Stand",
-      "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
+      "duration_ms": 157200,
+      "name": "Bye, Bye Baby",
+      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
     },
     {
       "added_at": null,
@@ -243,22 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+        "name": "Farewell Song",
+        "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 157200,
-      "name": "Bye, Bye Baby",
-      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
+      "duration_ms": 184266,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Television Broadcast Sessions 1968 -1970",
         "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 196507,
       "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
       "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,

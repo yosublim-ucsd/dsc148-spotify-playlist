@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,931 songs - 3 day 1 hr 31 min
+1,932 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [Grateful](https://open.spotify.com/track/2vETyRzz3gDtUX9eCIfty8) | [goldenfleece](https://open.spotify.com/artist/5p9gjkZcT07UNRL5nW6TE9), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Grateful](https://open.spotify.com/album/1h4qcP5yz5xBKVgWTO2Z6A) | 2:25 | 2022-11-18 | 2023-09-16 |
 | [Green](https://open.spotify.com/track/5GN4NROaYPF3B9nctQiqlq) | [Mun$](https://open.spotify.com/artist/3q5IPAzYcyOyLEZecYKILg) | [Green](https://open.spotify.com/album/242fjU9JtLbq3xG7F9jONX) | 1:51 | 2022-04-15 | 2022-05-13 |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
+| [Green Gardens](https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Green Gardens](https://open.spotify.com/album/6wfQnVXDLROkI4OWpNfipD) | 2:34 | 2024-04-26 |  |
 | [green tulips](https://open.spotify.com/track/1OmcgHUcXjXZrjYB7SxIHc) | [when in NY](https://open.spotify.com/artist/1tuOpNoNDZhAJH2nQkm6bh) | [green tulips](https://open.spotify.com/album/4dMvHcCbz0pKYuLzrDaRQC) | 2:07 | 2022-04-15 | 2022-10-01 |
 | [greenery](https://open.spotify.com/track/7mv3ZNeyUFk7xuRehUrPZl) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [greenery](https://open.spotify.com/album/4fXZgmm9p3wOM1myYysXt6) | 1:52 | 2022-04-15 | 2022-07-08 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 |  |
@@ -1367,7 +1368,7 @@
 | [Rainy Sunday](https://open.spotify.com/track/2EWoBSfXnl6WZzTLB4IpAw) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Rainy Sunday](https://open.spotify.com/album/4Lj5eCfYqCjY10YxPAnSQE) | 2:20 | 2022-07-29 | 2022-08-12 |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2022-11-11 |  |
 | [Ramen Shop](https://open.spotify.com/track/09WM6BLZBVEpa2WAbByp5k) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Ramen Shop](https://open.spotify.com/album/4BCLVDXH4AWj9vpVcjZz2W) | 2:16 | 2024-03-22 |  |
-| [Ranked](https://open.spotify.com/track/0pEbF5HpP8liDKivnoVUKZ) | [trav klc](https://open.spotify.com/artist/7nHveOm8qMgqiougrFhwWc) | [Ranked](https://open.spotify.com/album/0WLpOnNTm6mdClAsUNKJ88) | 1:45 | 2024-03-22 |  |
+| [Ranked](https://open.spotify.com/track/0pEbF5HpP8liDKivnoVUKZ) | [trav klc](https://open.spotify.com/artist/7nHveOm8qMgqiougrFhwWc) | [Ranked](https://open.spotify.com/album/0WLpOnNTm6mdClAsUNKJ88) | 1:45 | 2024-03-22 | 2024-05-11 |
 | [Raspberries, Yes](https://open.spotify.com/track/1Iz4d9GZYFKdLvhcUQ668x) | [Wenight](https://open.spotify.com/artist/7wqCmmvVIKxwPR8afJHqpM) | [Raspberries, Yes](https://open.spotify.com/album/74nz5pihiyumcbC7oLr83i) | 2:21 | 2022-04-15 | 2022-10-01 |
 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 |  |
 | [reading](https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL) | 2:41 | 2024-03-08 | 2024-03-24 |

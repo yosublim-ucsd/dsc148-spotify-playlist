@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-160 songs - 16 hr 31 min
+161 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adventures Aboard the Golden Mean \(The Wayne Shorter Quartet Live In London\)](https://open.spotify.com/track/6Xo4TipvcDzaAXcL39zZ9Q) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [EMANON](https://open.spotify.com/album/4Uguo06n5X81MwqGM9H2Ok) | 4:30 | 2021-12-02 | 2022-10-07 |
 | [Afro Blue](https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Black Radio](https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X) | 5:07 | 2021-12-02 |  |
 | [Alligator Bogaloo](https://open.spotify.com/track/2Wq889rsIlEG0l2ea9pE9J) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Alligator Bogaloo](https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX) | 6:57 | 2021-12-02 |  |
-| [Amathongo](https://open.spotify.com/track/7dII4RBxD5LxbkbQHlWfWJ) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 6:26 | 2022-10-06 |  |
+| [Amathongo](https://open.spotify.com/track/7dII4RBxD5LxbkbQHlWfWJ) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 6:26 | 2022-10-06 | 2024-05-11 |
 | [April In Paris \- 2007 Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [The Magnificent Thad Jones \(Remastered\)](https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju) | 6:43 | 2021-12-02 |  |
 | [Ashby Man](https://open.spotify.com/track/4zqTK5mSGu841TJ70S5g3p) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Ready...Set...Shango!](https://open.spotify.com/album/2LL4KWra7DEuzIfwLplYNq) | 5:27 | 2022-10-06 | 2024-01-05 |
 | [Autumn In New York](https://open.spotify.com/track/2G6rigRT2zK9yV2Xkbopnn) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 5:55 | 2022-10-06 |  |
@@ -162,6 +162,7 @@
 | [Unsophisticated](https://open.spotify.com/track/3FmL7hAgo3C3iPnDdSiRn9) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:27 | 2021-12-02 | 2022-10-07 |
 | [Violets For Your Furs](https://open.spotify.com/track/6u4eFc9qtTqJ7iArcJOlVz) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:10 | 2021-12-02 |  |
 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 | 2022-10-06 |  |
+| [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-10 |  |
 | [Watermelon Man \- Remastered 2007](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 | 2021-12-02 |  |
 | [Weaver Of Dreams \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:35 | 2021-12-02 |  |
 | [What The World Needs Now Is Love](https://open.spotify.com/track/1oSvM0nCcZSaUFjKIu1sAf) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 5:55 | 2021-12-02 | 2022-10-07 |

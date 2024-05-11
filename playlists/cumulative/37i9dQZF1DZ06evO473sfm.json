@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "NO HAY VATO PERFECTO",
+        "url": "https://open.spotify.com/album/44rDXElV3sJNq0zaFBpnvg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200361,
+      "name": "NO HAY VATO PERFECTO",
+      "url": "https://open.spotify.com/track/662XIU1PFVPp3XNm9V3q6q"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },

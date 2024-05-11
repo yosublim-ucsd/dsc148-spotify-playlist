@@ -4952,7 +4952,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -9225,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
         "name": "RMCM",
         "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
@@ -9744,7 +9762,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
@@ -17802,7 +17820,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 105000,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/1XARw6FvznquPlDUkgD9Bg"
@@ -27979,6 +27997,24 @@
     },
     {
       "album": {
+        "name": "SIX SHOTS (2023)",
+        "url": "https://open.spotify.com/album/0JFQNa2ArKkRrrUgSI0EZe"
+      },
+      "artists": [
+        {
+          "name": "DMGD",
+          "url": "https://open.spotify.com/artist/4lKiCZyxJFpxlJpIYus1J1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140576,
+      "name": "SIX SHOTS - 2023",
+      "url": "https://open.spotify.com/track/5qCJ6cdLOSJR3CjNxgsJcj"
+    },
+    {
+      "album": {
         "name": "Sj\u00e1\u00f0u Mig N\u00fa",
         "url": "https://open.spotify.com/album/0xYt9mxA35dLfxEvHxJYat"
       },
@@ -28508,7 +28544,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 147878,
       "name": "SM Girls",
       "url": "https://open.spotify.com/track/4rdLz2d0qVNA51tt61reBM"
@@ -31420,7 +31456,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
@@ -33218,6 +33254,24 @@
       "duration_ms": 165051,
       "name": "Undir Vatni",
       "url": "https://open.spotify.com/track/6mrrmkod5csgyybYzjcy7j"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j"
     },
     {
       "album": {

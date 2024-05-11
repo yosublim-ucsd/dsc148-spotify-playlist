@@ -2,9 +2,9 @@
 
 ### [Malle Party 2024](https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8)
 
-> ist nur einmal im Jahr...
+> ist nur einmal im Jahr!
 
-141 songs - 7 hr 11 min
+142 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,13 +62,14 @@
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 | 2024-04-19 |
+| [Handwerker](https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Handwerker](https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4) | 3:25 | 2024-05-10 |  |
 | [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 | 2023-09-02 |
 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 | 2023-07-14 |  |
 | [Herz an Herz](https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Herzfrequenz](https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz) | 3:47 | 2023-07-14 |  |
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
-| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 |  |
+| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2024-05-11 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |
 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 | 2023-07-14 |  |

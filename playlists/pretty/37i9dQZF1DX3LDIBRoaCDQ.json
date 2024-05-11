@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1563447,
+  "num_followers": 1563594,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
       "artists": [
         {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
         }
       ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+      "duration_ms": 186760,
+      "name": "Natural's Not in It",
+      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "The Day the Country Died",
         "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 164200,
       "name": "Mickey Mouse Is Dead",
       "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Natural's Not in It",
-      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2022-11-28 15:26:19",

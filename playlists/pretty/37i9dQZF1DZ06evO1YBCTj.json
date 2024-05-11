@@ -1,12 +1,12 @@
 {
   "description": "This is keshi. The essential tracks, all in one playlist.",
-  "num_followers": 214443,
+  "num_followers": 214490,
   "original_name": "This Is keshi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAC4R1Psi6W1TXE5/pQ+MNb4",
+  "snapshot_id": "ZjwSAAAAAACzLd4KTvFRZDFdOzm284Be",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE IN STEREO",
+        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
     },
     {
       "added_at": null,
@@ -180,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 184110,
-      "name": "WESTSIDE",
-      "url": "https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY"
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": null,
@@ -248,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+      "duration_ms": 184110,
+      "name": "WESTSIDE",
+      "url": "https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY"
     },
     {
       "added_at": null,
@@ -312,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 160042,
-      "name": "HELL/HEAVEN",
-      "url": "https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY"
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
     },
     {
       "added_at": null,
@@ -331,22 +351,6 @@
       "duration_ms": 168280,
       "name": "alright",
       "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 248010,
-      "name": "us",
-      "url": "https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK"
     },
     {
       "added_at": null,
@@ -383,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 160042,
+      "name": "HELL/HEAVEN",
+      "url": "https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -395,22 +415,6 @@
       "duration_ms": 193373,
       "name": "War With Heaven",
       "url": "https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/0srUf03MHZ4cbOO4o2ydDu"
     },
     {
       "added_at": null,

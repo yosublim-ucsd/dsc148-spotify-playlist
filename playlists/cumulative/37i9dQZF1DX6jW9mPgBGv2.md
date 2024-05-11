@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Jhayco, Bryant Myers y Luar La L plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Juliito y Pressure 9X19 plantando cara.
 
-133 songs - 8 hr 32 min
+134 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [9x19/300BLK \(with Pressure 9X19\)](https://open.spotify.com/track/3XbOduHVOK9fjsaPKmgzSV) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [9x19/300BLK \(with Pressure 9X19\)](https://open.spotify.com/album/427d3CxZHdeioa6SYe8iP7) | 4:04 | 2024-05-03 |  |
 | [A2P](https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 6:47 | 2024-01-31 |  |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-16 |  |
-| [Al Costo](https://open.spotify.com/track/0GEsx6S00XYMLpoZERJsEo) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Al Costo](https://open.spotify.com/album/5wYOBxAQAbTqi6xbbRsuIE) | 2:44 | 2023-12-22 |  |
+| [Al Costo](https://open.spotify.com/track/0GEsx6S00XYMLpoZERJsEo) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Al Costo](https://open.spotify.com/album/5wYOBxAQAbTqi6xbbRsuIE) | 2:44 | 2023-12-22 | 2024-05-11 |
+| [Al Pacino](https://open.spotify.com/track/1Tvd0xGlrpeKsiORhwIz21) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [Al Pacino](https://open.spotify.com/album/2zsBtNv5a9IsPA0eFGdhV6) | 3:25 | 2024-05-10 |  |
 | [Aleluya \(Pt.2\)](https://open.spotify.com/track/2zBgCRY5xJfbjPuG9MTSA2) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Para Llegar Arriba](https://open.spotify.com/album/6GXucyDVunCpe3OCoVo1xA) | 2:35 | 2021-12-01 |  |
 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 | 2021-12-01 |  |
 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 | 2022-04-25 |  |
@@ -34,7 +35,7 @@
 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 | 2021-12-01 |  |
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-01 |  |
 | [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 | 2022-07-29 |
-| [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 |  |
+| [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 | 2024-05-11 |
 | [Cloniao](https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Cloniao](https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6) | 3:13 | 2023-10-27 |  |
 | [Diamonds](https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1) | [TRAMPA BILLONE](https://open.spotify.com/artist/6UCXzCbIzKfGAk8613o8qt), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Diamonds](https://open.spotify.com/album/6YfNG5iJi01emiqWlcFY0P) | 3:07 | 2024-05-03 |  |
 | [DRIPPEO KBRON](https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DRIPPEO KBRON](https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj) | 3:18 | 2024-04-05 |  |

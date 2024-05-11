@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Mitchell Mullins",
+        "url": "https://open.spotify.com/album/7sdmtJhjRagaW6mQAtYcSr"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Mitchell Mullins",
+      "url": "https://open.spotify.com/track/1PQGFvDU2ND9U7mGhJzQrI"
+    },
+    {
+      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },

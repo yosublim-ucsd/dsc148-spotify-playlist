@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-203 songs - 5 hr 11 min
+204 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alice's Wonderland Bakery Main Title Theme \- From "Disney Junior Music: Alice's Wonderland Bakery"](https://open.spotify.com/track/0Na1yYpng3jNaEDHb0i6ui) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Alice's Wonderland Bakery Main Title Theme \(From "Disney Junior Music: Alice's Wonderland Bakery"\)](https://open.spotify.com/album/5OCpzC2rahXbuf3ecEZ8J6) | 0:59 | 2022-03-18 |  |
 | [Always in My Heart](https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 1:06 | 2023-08-18 |  |
 | [Anything](https://open.spotify.com/track/4gc9W0J7k7QUX5mJ2m2Sfc) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 2:44 | 2022-03-18 |  |
+| [Ariel \(Theme Song\) \- From "Disney Junior Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Junior Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 | 2024-05-10 |  |
 | [Baa, Baa, Black Sheep](https://open.spotify.com/track/0FQWQYmTACpK6y7LdFDzzJ) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:24 | 2022-03-18 | 2023-11-23 |
 | [Baboons!](https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:05 | 2022-03-18 |  |
 | [Baby Bath Time](https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:52 | 2022-03-18 |  |

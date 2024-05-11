@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Al lado tuyo",
+        "url": "https://open.spotify.com/album/08cAzHBSRUQuwZKQaNP6bn"
+      },
+      "artists": [
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Al lado tuyo",
+      "url": "https://open.spotify.com/track/3iP9IvNBnqumfJ5hxhsPvV"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
       },
@@ -1174,6 +1196,24 @@
       "duration_ms": 156957,
       "name": "Bajo Tu Estrella",
       "url": "https://open.spotify.com/track/3Au3vb1MPfobU0dYVGyC15"
+    },
+    {
+      "album": {
+        "name": "balada para el fin del mundo",
+        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "balada para el fin del mundo",
+      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "album": {
@@ -2413,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
+    },
+    {
+      "album": {
         "name": "Destiempo (Blackforest Sessions)",
         "url": "https://open.spotify.com/album/089ZWI3RgUkHh3rC91EjMD"
       },
@@ -2508,6 +2566,28 @@
       "duration_ms": 229253,
       "name": "Domingo Escarlata",
       "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
+    },
+    {
+      "album": {
+        "name": "Donde Vas?",
+        "url": "https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182496,
+      "name": "Donde Vas?",
+      "url": "https://open.spotify.com/track/3RJ4OyJpNuNCRAUnCJWWuH"
     },
     {
       "album": {
@@ -4144,7 +4224,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 172000,
       "name": "John & Yoko",
       "url": "https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a"
@@ -5208,7 +5288,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192464,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
@@ -7124,7 +7204,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183434,
       "name": "Reina",
       "url": "https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW"
@@ -8916,7 +8996,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 235968,
       "name": "Una Noche Mas",
       "url": "https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye"

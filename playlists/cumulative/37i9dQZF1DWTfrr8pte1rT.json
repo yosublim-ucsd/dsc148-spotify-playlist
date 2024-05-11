@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Blocked Up",
+        "url": "https://open.spotify.com/album/3MnwJe5dFSJ1aGKthkUgsv"
+      },
+      "artists": [
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Blocked Up",
+      "url": "https://open.spotify.com/track/0NEvAF25ReDYyBfh2NwZ7V"
+    },
+    {
+      "album": {
         "name": "a modern tragedy vol. 1",
         "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 139636,
       "name": "gloom",
       "url": "https://open.spotify.com/track/2yMVKW30ubK4bcx2QU8mZI"
@@ -3912,6 +3930,28 @@
       "duration_ms": 196285,
       "name": "I Wish I Could Forget You",
       "url": "https://open.spotify.com/track/37ezXYMDox6zjvU5HNhdF6"
+    },
+    {
+      "album": {
+        "name": "i'm FINE",
+        "url": "https://open.spotify.com/album/6KayznQ5nE5s454TAffoMX"
+      },
+      "artists": [
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "i'm FINE",
+      "url": "https://open.spotify.com/track/3RYE5stoVTlYmqjVrKFoJ8"
     },
     {
       "album": {
@@ -5552,7 +5592,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -5794,7 +5834,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 238378,
       "name": "Paranoid - NERVE Remix",
       "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
@@ -7970,7 +8010,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192519,
       "name": "TORN EXISTENCE",
       "url": "https://open.spotify.com/track/01PPuwQEVdmada0GbgaPcK"
@@ -8333,6 +8373,28 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/0SyjxcYwOkdeXpddfyH7iP"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/1wGGScOuEp7OgE1NGDbVzB"
+    },
+    {
+      "album": {
         "name": "The Year The World Stood Still",
         "url": "https://open.spotify.com/album/4F3hXEsI6xyNz6C7auqAq2"
       },
@@ -8622,7 +8684,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217700,
       "name": "WHERE I'VE BEEN",
       "url": "https://open.spotify.com/track/0iRByqXEoJa48mSAeCfLhr"

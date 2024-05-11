@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 76 | [You Can Cry](https://open.spotify.com/track/0fHdkxqOPO0N7GRPhSpWoQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:05 |
 | 77 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
 | 78 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 |
-| 79 | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/track/2AICmyqafrUWmY6oSrPffO) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/album/3Zq6nGhlOOTMYuOo8WDZux) | 3:09 |
-| 80 | [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 |
-| 81 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
+| 79 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
+| 80 | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/track/2AICmyqafrUWmY6oSrPffO) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/album/3Zq6nGhlOOTMYuOo8WDZux) | 3:09 |
+| 81 | [What I Wanted](https://open.spotify.com/track/4MyCzjfdQhGkPVHKnrIxht) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [What I Wanted](https://open.spotify.com/album/2F4IY8wlSKM6a7Ri9vqw92) | 2:32 |
 | 82 | [Lonely Nights](https://open.spotify.com/track/198mIqbxkeeGcWJvmLOMbt) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 2:56 |
 | 83 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 |
 | 84 | [Talking in Emotions](https://open.spotify.com/track/6i6fRjYpT1UQzhTDmY4Hwh) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:13 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 100 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 101 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbQ51AAAAACHRWwH3EMD8v+yer15uJ5j`
+Snapshot ID: `AbQ/dAAAAABIP+k1rXt9b4TGDWfbdHL3`

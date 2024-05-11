@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,086 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,112 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 46 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
 | 47 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
 | 48 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
-| 49 | [Mine](https://open.spotify.com/track/1V43BO81I2LLHjy25en933) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Manhattan: Original Motion Picture Soundtrack](https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA) | 2:55 |
-| 50 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |
+| 49 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |
+| 50 | [Mine](https://open.spotify.com/track/1V43BO81I2LLHjy25en933) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Manhattan: Original Motion Picture Soundtrack](https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA) | 2:55 |
 | 51 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
 | 52 | [Nuit sur les Champs\-Élysées \- Take 4 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:00 |
 | 53 | [Love Theme \(From "Chinatown"\)](https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Kenny Kirkland](https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Jazz in Film](https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs) | 8:23 |

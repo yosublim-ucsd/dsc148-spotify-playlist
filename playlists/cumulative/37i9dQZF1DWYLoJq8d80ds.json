@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Sele Vera ",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Los Nocheros y Eugenia Quevedo.",
   "name": "Lunas de Folklore",
   "tracks": [
     {
@@ -476,6 +476,28 @@
       "duration_ms": 146200,
       "name": "Coraz\u00f3n de Lechiguana",
       "url": "https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm"
+    },
+    {
+      "album": {
+        "name": "Cosa Peligrosa",
+        "url": "https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201701,
+      "name": "Cosa Peligrosa",
+      "url": "https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT"
     },
     {
       "album": {
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 234894,
       "name": "Las Ideas",
       "url": "https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb"

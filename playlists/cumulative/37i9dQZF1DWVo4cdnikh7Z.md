@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Raayan
 
-1,295 songs - 3 day 7 hr 13 min
+1,296 songs - 3 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,6 +1085,7 @@
 | [Theekari](https://open.spotify.com/track/5CjhkgeWu4rYmHrfWg9y6V) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr) | 3:43 | 2023-05-02 | 2023-05-18 |
 | [Theekari \(From "Dasara"\)](https://open.spotify.com/track/2lFyjxhw63wuKlFldeT6Jq) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Theekari \(From "Dasara"\) \- Single](https://open.spotify.com/album/3X1YtIXOQayUxLgDKDyMuI) | 3:43 | 2023-02-14 | 2023-03-11 |
 | [Theekuchi](https://open.spotify.com/track/11ktAtbN1lp3aTvvbhDWi3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:53 | 2023-11-06 | 2024-02-15 |
+| [Theera \(From "Election"\)](https://open.spotify.com/track/0Vk0OwKSObHeNZV56ci0ZA) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Theera \(From "Election"\)](https://open.spotify.com/album/5UCL41fwD2e9ArJXPcTC5L) | 3:02 | 2024-05-10 |  |
 | [Theera Kadhal \(From "Striker"\)](https://open.spotify.com/track/1qrxgjBX4Y2AQzvC4KDkGs) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [Vijay Siddharth](https://open.spotify.com/artist/5SemzuwUSnKSn7eXSwBeXR), [Harisankar Ravindran](https://open.spotify.com/artist/4qfj2XGmSzOX0ahiha33N4) | [Theera Kadhal \(From "Striker"\)](https://open.spotify.com/album/0Y4AMUwBOXoJHm6Gp9lJ6r) | 5:41 | 2023-08-28 | 2023-09-05 |
 | [Theera Kadhal \(From "Striker"\)](https://open.spotify.com/track/6lJFcoT9luZNKBUlzsBwPC) | [Vijay Siddharth](https://open.spotify.com/artist/5SemzuwUSnKSn7eXSwBeXR), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8) | [Theera Kadhal \(From "Striker"\)](https://open.spotify.com/album/7gREy74Yh78Is2vTDvK3Sa) | 5:41 | 2023-08-28 | 2023-08-31 |
 | [Theera Swasame](https://open.spotify.com/track/6DrSHG5r4bRXsnW0hd420H) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Chithha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO) | 3:46 | 2023-09-28 | 2023-10-10 |

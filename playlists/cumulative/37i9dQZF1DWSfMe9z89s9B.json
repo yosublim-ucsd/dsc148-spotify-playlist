@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Ravyn Lenae",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Yaya Bey",
   "name": "Vanguard",
   "tracks": [
     {
@@ -3427,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
+    },
+    {
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -4392,6 +4410,24 @@
       "duration_ms": 134060,
       "name": "Concentrate (feat. Dua Saleh)",
       "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
+    },
+    {
+      "album": {
+        "name": "Bicoastal: B-Sides",
+        "url": "https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh"
     },
     {
       "album": {
@@ -6412,7 +6448,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 172040,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA"
@@ -9918,7 +9954,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP"
@@ -14976,7 +15012,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 125258,
       "name": "Pissed Off (Interlude)",
       "url": "https://open.spotify.com/track/7pPaaQ7PGpKG3HJfUO0wam"
@@ -15092,6 +15128,24 @@
       "duration_ms": 160695,
       "name": "Pleasures",
       "url": "https://open.spotify.com/track/1m55Dw8Yu6bWC99f8VgfJJ"
+    },
+    {
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
       "album": {
@@ -19217,6 +19271,28 @@
     },
     {
       "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231691,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
+    },
+    {
+      "album": {
         "name": "HARMINE",
         "url": "https://open.spotify.com/album/3m8xrGYg4snYy54VS2IHsh"
       },
@@ -19822,7 +19898,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 111063,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW"

@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 592070,
+  "num_followers": 592506,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\uff37\u25cf\uff32\uff2b",
-        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
-      },
-      "artists": [
-        {
-          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
-          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 201073,
-      "name": "\uff37\u25cf\uff32\uff2b",
-      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u30bd\u30f3\u30b0\u30aa\u30d6\u30b6\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 291346,
       "name": "RPG",
       "url": "https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\uff37\u25cf\uff32\uff2b",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "\uff37\u25cf\uff32\uff2b",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
-        "url": "https://open.spotify.com/album/4kcc8GqdEyElkwYN39dRz9"
-      },
-      "artists": [
-        {
-          "name": "Shiritsu Ebisu Chugaku",
-          "url": "https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
-      "url": "https://open.spotify.com/track/6TigsoyoeqHi9YxymTfj0x"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u82b1\u306b\u4ea1\u970a",
         "url": "https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 240120,
       "name": "\u82b1\u306b\u4ea1\u970a",
       "url": "https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
+        "url": "https://open.spotify.com/album/4kcc8GqdEyElkwYN39dRz9"
+      },
+      "artists": [
+        {
+          "name": "Shiritsu Ebisu Chugaku",
+          "url": "https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
+      "url": "https://open.spotify.com/track/6TigsoyoeqHi9YxymTfj0x"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30a2\u30ab\u30b7\u30a2",
-        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 262106,
-      "name": "\u30a2\u30ab\u30b7\u30a2",
-      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "give it back",
         "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212476,
       "name": "give it back",
       "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u30a2\u30ab\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 262106,
+      "name": "\u30a2\u30ab\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1635,22 +1635,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
+        "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
+        "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
       "artists": [
         {
-          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
-          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         },
         {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 187266,
-      "name": "U",
-      "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
+      "duration_ms": 215866,
+      "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
+      "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
+        "name": "\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f",
+        "url": "https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "Momokurotei Ichimon",
+          "url": "https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46"
         },
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
         }
       ],
-      "duration_ms": 215866,
-      "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-      "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
+      "duration_ms": 234573,
+      "name": "\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f",
+      "url": "https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS"
     }
   ],
   "unique_name": "Anime On Replay",

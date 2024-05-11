@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-339 songs - 20 hr 13 min
+340 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Love Is Gone](https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone](https://open.spotify.com/album/1YB42DQZ7h7VX95BRiu1Hi) | 4:16 | 2021-12-03 |  |
 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 | 2022-05-06 |  |
 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 | 2022-03-11 |  |
+| [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 | 2024-05-10 |  |
 | [Lovers Say Goodbye](https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Lovers Say Goodbye](https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz) | 2:17 | 2021-12-03 |  |
 | [Make You Cry \(Tritonia 346\)](https://open.spotify.com/track/4dscKp0qk0UMORQvLrtdCV) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Tritonia 346](https://open.spotify.com/album/2JDE3zpJ7INUqoMCuKSa7z) | 4:06 | 2021-12-03 | 2022-02-12 |
 | [Mean It](https://open.spotify.com/track/5hlxswETS4FB4oCg6g7JHk) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nick Lopez](https://open.spotify.com/artist/15NoI73ol1fVF11li1RKMB), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Mean It](https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF) | 3:38 | 2021-12-03 | 2023-06-10 |

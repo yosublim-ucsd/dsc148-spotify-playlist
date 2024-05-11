@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Cagaos",
+        "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
+      },
+      "artists": [
+        {
+          "name": "Colapso",
+          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157411,
+      "name": "Cagaos",
+      "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
+    },
+    {
+      "album": {
         "name": "Camela or Die 2.0",
         "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
       },
@@ -1185,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181707,
+      "name": "Infiltrados",
+      "url": "https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s"
+    },
+    {
+      "album": {
         "name": "Influencers",
         "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
       },
@@ -1636,7 +1672,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 91600,
       "name": "Mucha Polic\u00eda, Poca Diversi\u00f3n",
       "url": "https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Justice celebrate the release of their new album 'Hyperdrama' with a takeover of metropolis!",
+  "description": "The best indie dance tracks of the moment. Cover: Killen.",
   "name": "metropolis",
   "tracks": [
     {
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 245560,
       "name": "Afterimage",
       "url": "https://open.spotify.com/track/4IsbtqsROVspyi7kzh3Vkx"
@@ -1232,10 +1232,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "album": {
+        "name": "Type of Girl",
+        "url": "https://open.spotify.com/album/2kkAQwFkY1W32kgtP87y08"
+      },
+      "artists": [
+        {
+          "name": "Teilz",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Angel in the Darkness",
+      "url": "https://open.spotify.com/track/5jM21mkpoPIhlU4o8yr0VI"
     },
     {
       "album": {
@@ -3402,7 +3420,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 254000,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
@@ -4655,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Corporate Shakespeare",
+        "url": "https://open.spotify.com/album/45g4yPfR9J2AsaAe3WhP1p"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158837,
+      "name": "Corporate Shakespeare",
+      "url": "https://open.spotify.com/track/3axFIm02EBDRF2ktqRg9aR"
+    },
+    {
+      "album": {
         "name": "Corsica '80",
         "url": "https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u"
       },
@@ -4754,7 +4790,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 216699,
       "name": "Creative Source",
       "url": "https://open.spotify.com/track/7wGXppX9LtyMJF8B12z75z"
@@ -5552,7 +5588,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202192,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
@@ -6964,7 +7000,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 247741,
       "name": "EYES",
       "url": "https://open.spotify.com/track/5VcDR60KUX1RQhBhNvGsvT"
@@ -7882,7 +7918,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 357463,
       "name": "Flexorcist",
       "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192389,
       "name": "Forza",
       "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
@@ -8344,7 +8380,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 135120,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/782CIMTujSmNFrRuAVhsqd"
@@ -8508,6 +8544,28 @@
       "duration_ms": 459903,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/4VlHhqkB6TCdL9AuOm9r1B"
+    },
+    {
+      "album": {
+        "name": "GET RIGHT",
+        "url": "https://open.spotify.com/album/1hd4EOuxrB93zMvfu5NSm7"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160332,
+      "name": "GET RIGHT",
+      "url": "https://open.spotify.com/track/1SIUAeA91vefUtqyUfXu4W"
     },
     {
       "album": {
@@ -9024,7 +9082,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 220203,
       "name": "Gravity (feat. ALLKNIGHT)",
       "url": "https://open.spotify.com/track/3iMkKRoe7RET14nRHia1A4"
@@ -9307,6 +9365,28 @@
     },
     {
       "album": {
+        "name": "Head Lost",
+        "url": "https://open.spotify.com/album/3ZBvZhSYd0jxzjhsJh1bMS"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "SXCHA",
+          "url": "https://open.spotify.com/artist/2KNvEKI8I6hD4LxvfkV3QK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Head Lost",
+      "url": "https://open.spotify.com/track/4QmhO8SrFK5UoPZp0nA6pi"
+    },
+    {
+      "album": {
         "name": "Head On EP",
         "url": "https://open.spotify.com/album/1kmN7lxLayS5azCGXn7e0n"
       },
@@ -9460,7 +9540,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 155837,
       "name": "heart of mine",
       "url": "https://open.spotify.com/track/2w8g5oJqFh1zFDghxZlOWG"
@@ -9522,7 +9602,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 258280,
       "name": "Hearts Are Opening Up - Passion Pit Remix",
       "url": "https://open.spotify.com/track/3wFZYXt9ZUpyuCpkzY7eTW"
@@ -10092,10 +10172,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 181786,
       "name": "Hode",
       "url": "https://open.spotify.com/track/76xj15f8LzACqP5f1bs9SG"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138906,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
     },
     {
       "album": {
@@ -10562,7 +10664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 115052,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/0jBWDj9eEl0lOAXlhFlX7w"
@@ -10872,7 +10974,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 172444,
       "name": "i have zero care",
       "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
@@ -13367,6 +13469,28 @@
     },
     {
       "album": {
+        "name": "Limosina",
+        "url": "https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123901,
+      "name": "Limosina",
+      "url": "https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD"
+    },
+    {
+      "album": {
         "name": "Little Bit (feat. Autoerotique) [Remix]",
         "url": "https://open.spotify.com/album/4r3b3h6Aes9LtPaR3WVH4P"
       },
@@ -13944,7 +14068,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195235,
       "name": "Love Is a Punk",
       "url": "https://open.spotify.com/track/1VkMKjByGps8oVOGsobfTz"
@@ -14046,6 +14170,28 @@
       "duration_ms": 277561,
       "name": "Love Will Save Me",
       "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
+    },
+    {
+      "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185524,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
     },
     {
       "album": {
@@ -14754,6 +14900,32 @@
       "duration_ms": 214306,
       "name": "Melt!",
       "url": "https://open.spotify.com/track/1f4cKwcKfNiLbQr8x2tZ3C"
+    },
+    {
+      "album": {
+        "name": "Melter",
+        "url": "https://open.spotify.com/album/0HueEubCVTggbxE0j6nXnN"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Melter",
+      "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
     },
     {
       "album": {
@@ -15742,7 +15914,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
@@ -16467,6 +16639,24 @@
     },
     {
       "album": {
+        "name": "Object Permanence (Radio Edit)",
+        "url": "https://open.spotify.com/album/2l5brdHHvFREy1k9WvV6U4"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226271,
+      "name": "Object Permanence (Radio Edit)",
+      "url": "https://open.spotify.com/track/0SrZGZTyWePrFlpQ2ttWPw"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8"
       },
@@ -16682,7 +16872,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178569,
       "name": "OMG",
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
@@ -16718,7 +16908,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 157461,
       "name": "on my mind",
       "url": "https://open.spotify.com/track/4tTgwybKE9Ybwj1CD0w7rD"
@@ -16824,7 +17014,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -18136,7 +18326,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200706,
       "name": "Prove It To You",
       "url": "https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW"
@@ -18500,7 +18690,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205200,
       "name": "Relaxed Lizard",
       "url": "https://open.spotify.com/track/7w5OIjIAaXlLmOSbBhD0bw"
@@ -19128,7 +19318,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
@@ -19168,7 +19358,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 146865,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
@@ -19332,7 +19522,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194056,
       "name": "Same Thing Every Day",
       "url": "https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5"
@@ -19936,7 +20126,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 214554,
       "name": "Show You The Way",
       "url": "https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL"
@@ -20559,6 +20749,28 @@
     },
     {
       "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
       },
@@ -20608,6 +20820,24 @@
       "duration_ms": 199680,
       "name": "Something Beautiful - Montmartre Remix",
       "url": "https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H"
+    },
+    {
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
       "album": {
@@ -21474,7 +21704,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222182,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/35lxsi9U65JKT03Voj2Dl5"
@@ -21832,7 +22062,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 272946,
       "name": "Talk Tonight",
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
@@ -21944,7 +22174,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192282,
       "name": "Teenage Crime",
       "url": "https://open.spotify.com/track/54iQ7ZTkfp8kAJJYRexhm6"
@@ -22648,7 +22878,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 144697,
       "name": "The Urge",
       "url": "https://open.spotify.com/track/7jWVvZHy0xxHiWfcGwecVC"
@@ -22974,7 +23204,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213023,
       "name": "This Little Love",
       "url": "https://open.spotify.com/track/7otEUWdo5ljrOBYcCMqFys"
@@ -23590,6 +23820,24 @@
       "duration_ms": 206250,
       "name": "Touch",
       "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+    },
+    {
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114302,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH"
     },
     {
       "album": {
@@ -24736,7 +24984,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 270406,
       "name": "We Won't Smoke Any California",
       "url": "https://open.spotify.com/track/3lrKJZhd3Xw2ujNaRL0Bc0"
@@ -24824,7 +25072,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 232293,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/6wtuKL53sywtKEbEiBArqE"
@@ -24900,7 +25148,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 252866,
       "name": "What U",
       "url": "https://open.spotify.com/track/39P8tov8L01Rp7LD8oczr2"
@@ -25290,7 +25538,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
@@ -25924,7 +26172,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 240053,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2fJzvVoZkY4iuwK1EUwbvr"

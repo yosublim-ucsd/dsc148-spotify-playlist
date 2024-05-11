@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 51967,
+  "num_followers": 51990,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjzOkQAAAADRNtTlwZ8hU5nhZNnZ6LX2",
+  "snapshot_id": "Zj2b/AAAAADzkpUTv+hoP2fGm+U7mKBu",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Yang",
+        "url": "https://open.spotify.com/album/0xSUOcJZHulje5JQzNHTCY"
+      },
+      "artists": [
+        {
+          "name": "Richard Henshall",
+          "url": "https://open.spotify.com/artist/66iP8O2dQRaGjVTr42vW0V"
+        }
+      ],
+      "duration_ms": 285906,
+      "name": "Yang",
+      "url": "https://open.spotify.com/track/4Mjz3Aym3Xf2IL6vFpneI0"
+    },
     {
       "added_at": "2024-05-09 13:24:33",
       "album": {

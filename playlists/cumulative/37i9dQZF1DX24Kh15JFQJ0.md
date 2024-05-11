@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Trisha Yearwood
 
-280 songs - 16 hr 25 min
+281 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [How You Make A Man](https://open.spotify.com/track/7tZbuUWq2DQ9PkcXDpZepv) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [God, Family, Country \(Deluxe Edition\)](https://open.spotify.com/album/5rE2C8x89VQpLnSyxHdRWv) | 3:51 | 2023-11-03 | 2024-04-19 |
 | [I Ain't Drunk \(feat\. Terri Clark\)](https://open.spotify.com/track/5hGeFMy9ilkY029FJz9QFv) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Diamonds in a Whiskey Glass \(Deluxe Diamond Edition\)](https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO) | 3:24 | 2022-04-22 |  |
 | [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2021-10-15 | 2022-03-02 |
+| [I Can't](https://open.spotify.com/track/5E9ykjhgRvTZ1H3ulu9XTJ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [I Can't](https://open.spotify.com/album/2ZP8X1egXm0xVGMPZQOpk9) | 3:59 | 2024-05-10 |  |
 | [I Dare You to Love](https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl \(Deluxe Edition\)](https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO) | 3:19 | 2021-10-15 |  |
 | [I Don't Go To Funerals](https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 2:27 | 2022-04-29 |  |
 | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ) | 3:30 | 2021-10-15 | 2022-09-21 |

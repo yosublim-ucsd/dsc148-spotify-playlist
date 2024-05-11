@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Nilüfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,967 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,889 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [Llévame](https://open.spotify.com/track/5fDaVlO4UbfxPro5AlYtfM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 2:59 |
 | 26 | [Mainstream](https://open.spotify.com/track/4NlDnuMvtVNnFLqZWxsOwq) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mainstream](https://open.spotify.com/album/5VRlcJS4bpvoNdLBB6V7ew) | 3:10 |
 | 27 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
-| 28 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |
-| 29 | [Ancora, Ancora, Ancora \- 2001 Remaster](https://open.spotify.com/track/4WNgrWP3GAFdrL4agNMryF) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2) | 4:18 |
+| 28 | [Ancora, Ancora, Ancora \- 2001 Remaster](https://open.spotify.com/track/4WNgrWP3GAFdrL4agNMryF) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [The Collection 3.0](https://open.spotify.com/album/17yvHx4XPeVw2y9OGwy3w2) | 4:18 |
+| 29 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |
 | 30 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 31 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 32 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7lTWTesY1sXVIYjJaCoyIy) | [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk), [Huyền Baby](https://open.spotify.com/artist/5bMwwJZX9bBFAMTbqIHig7), [Trang Pháp](https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6), [Ninh Dương Lan Ngọc](https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq), [Diệu Nhi](https://open.spotify.com/artist/2mpSmbp35mvG7ig3cg1jEj) | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/album/7pAK1iJrMvvPfZmjGRjddp) | 4:45 |
 | 40 | [Now Or Never](https://open.spotify.com/track/38bpdoavxRTydgisUpZFL1) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Now Or Never](https://open.spotify.com/album/51Zme9D9kAFrCGYNWvxQsW) | 2:58 |
 | 41 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
-| 42 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
-| 43 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
+| 42 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
+| 43 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 44 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
 | 45 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
-| 46 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |
-| 47 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
+| 46 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
+| 47 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |
 | 48 | [Koyal](https://open.spotify.com/track/1U4GL7t6R83118Ltn6xcYJ) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Koyal](https://open.spotify.com/album/0M7I8bjIG1cROoEK7Hq1Rv) | 3:34 |
 | 49 | [stupidlittlegirl](https://open.spotify.com/track/48dGspOoVv7a9HtHSgPQuh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 2:59 |
 | 50 | [Minoraki](https://open.spotify.com/track/6hW42BTqdjKtloHYOHTxlD) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY) | [Odos Nefelis '88](https://open.spotify.com/album/5Tux3u2ROAo1ab2IFzeml4) | 4:26 |

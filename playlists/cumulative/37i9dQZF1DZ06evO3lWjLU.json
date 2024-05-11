@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
+  "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
   "name": "This Is Danny Ocean",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 181845,
       "name": "Detente",
       "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205851,
       "name": "Lazy Day (feat. Danny Ocean)",
       "url": "https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 246947,
       "name": "Midsummer Madness 20 (feat. Joji, Rich Brian, Higher Brothers & AUGUST 08)",
       "url": "https://open.spotify.com/track/0VmMIGnMGIwOEiqueyS9vw"
@@ -994,6 +994,28 @@
       "duration_ms": 187000,
       "name": "No Eres Tu Soy Yo (feat. Danny Ocean)",
       "url": "https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "NO ES AMOR",
+      "url": "https://open.spotify.com/track/0YarQTTvWdA8qnalK79fdD"
     },
     {
       "album": {
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"

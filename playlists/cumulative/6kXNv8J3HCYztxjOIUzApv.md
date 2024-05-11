@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-263 songs - 16 hr 35 min
+264 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Living Dangerous \(feat\. Dorothy\)](https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk), [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:58 | 2022-09-21 | 2023-01-04 |
 | [Mad World](https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Sounds From Beyond The Abyss \(Vol\. 1\)](https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v) | 3:35 | 2023-10-13 |  |
 | [Misery](https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:12 | 2023-07-25 |  |
+| [Money, Sex, or God](https://open.spotify.com/track/694R5GadE4oSFvn8uk0pEE) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Money, Sex, or God](https://open.spotify.com/album/3rEfQMNIq9ZXeJZg61dFA6) | 3:39 | 2024-05-10 |  |
 | [Monster In Me](https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:34 | 2023-07-28 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-01-24 |  |
 | [Needles](https://open.spotify.com/track/6V8oQXzymTzpEZOsiBiyJT) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:13 | 2023-05-17 |  |

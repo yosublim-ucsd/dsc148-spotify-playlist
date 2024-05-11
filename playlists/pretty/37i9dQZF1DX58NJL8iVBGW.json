@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 762155,
+  "num_followers": 762259,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/4PWmQ9k3FPJKHuOQB2PJ6A"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
       },
@@ -1399,6 +1415,22 @@
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+    },
+    {
+      "added_at": "2024-02-16 19:57:55",
+      "album": {
+        "name": "Real Midnight",
+        "url": "https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ"
+      },
+      "artists": [
+        {
+          "name": "Birds of Chicago",
+          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
     },
     {
       "added_at": "2024-02-16 19:57:55",
@@ -1571,22 +1603,6 @@
     {
       "added_at": "2024-02-16 19:57:55",
       "album": {
-        "name": "Real Midnight",
-        "url": "https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ"
-      },
-      "artists": [
-        {
-          "name": "Birds of Chicago",
-          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Barley",
-      "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
         "name": "Hymns For a Dark Horse",
         "url": "https://open.spotify.com/album/0GLyf7lp17uPSiTPOqU5vf"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 279733,
       "name": "Too Dry to Cry",
       "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
-    },
-    {
-      "added_at": "2024-02-16 19:57:55",
-      "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/1o8MaDqJF3J2DRWuyNiDFl"
     }
   ],
   "unique_name": "Southern Gothic",

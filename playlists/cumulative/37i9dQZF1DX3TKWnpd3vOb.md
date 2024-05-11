@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Pedropiedra
 
-287 songs - 18 hr 12 min
+289 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Como es que no gozas](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Como es que no gozas](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-08-11 |  |
 | [Como te amo \- Radio Edit](https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Como te amo \(Radio Edit\)](https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV) | 2:56 | 2022-04-08 |  |
 | [Conspiradores](https://open.spotify.com/track/6r3Q5foiIWeKmX0yh1ikum) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Sofrito](https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh) | 2:18 | 2022-07-01 | 2023-03-03 |
+| [Corazón Negro](https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Corazón Negro](https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI) | 4:02 | 2024-05-10 |  |
 | [Crecer 2.0](https://open.spotify.com/track/7rARyUfrGzlfb98xhPacDO) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Crecer 2.0](https://open.spotify.com/album/4R9wQjKx5cyUjhvBIgi7wa) | 3:59 | 2022-04-08 | 2022-07-25 |
 | [Cuando huyes de mi soledad](https://open.spotify.com/track/0oVT5mhkLu55P4H3KwG2ki) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Cuando huyes de mi soledad](https://open.spotify.com/album/4KQoBN4WIKNMmaUcIgoUUY) | 3:03 | 2022-04-08 | 2023-03-03 |
 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/5EhButiJbrrRbO3qguSKkg) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Peces](https://open.spotify.com/album/4pvzTHkfxiiP6cCpePwSPm) | 3:28 | 2022-04-08 | 2022-07-29 |
@@ -82,7 +83,7 @@
 | [El Detenido](https://open.spotify.com/track/5Me7VPFRjI9qs5pRbcW6ux) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [El Detenido](https://open.spotify.com/album/1yuzU28kJviQyvk7iwdNKF) | 5:11 | 2022-04-08 | 2022-07-29 |
 | [El Hijo](https://open.spotify.com/track/1h5eCRXAcho6ixIGdOFjFl) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [El Hijo](https://open.spotify.com/album/1yKNYNg08SNuCotBuKhNhp) | 1:51 | 2023-11-10 |  |
 | [El Mundo Se Termina](https://open.spotify.com/track/0rl38vmySOskf1DVSw0wMm) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:12 | 2023-06-23 | 2024-04-19 |
-| [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 | 2022-07-08 |  |
+| [El Mundo Se Termina](https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF) | 4:12 | 2022-07-08 | 2024-05-11 |
 | [El Mundo Se Termina](https://open.spotify.com/track/6Vbs72gwE5sZuVHK4qZ2PW) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/1VmWohc27f4BKsUIZCAfCl) | 4:12 | 2023-03-03 | 2023-06-26 |
 | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 3:56 | 2023-06-23 |  |
 | [El Olvido](https://open.spotify.com/track/40ln7ClXzh5wYpNeSQ4fWK) | [Terranave](https://open.spotify.com/artist/6Iih7qmPaBVuzw3lsWj22H) | [El Hombre Es Humano](https://open.spotify.com/album/2oYnjA8cDyOe1WlfaxmrCU) | 3:31 | 2022-04-08 | 2022-07-18 |
@@ -107,7 +108,7 @@
 | [Fiesta En El Barrio](https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ), [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [PORTAL](https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H) | 4:53 | 2023-09-08 |  |
 | [Flores de cartón \- Radio Edit](https://open.spotify.com/track/5SpqY1Aqv6hFt7QbiiHqm2) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Flores de cartón \(Radio Edit\)](https://open.spotify.com/album/5VIQuT9iAnVQQs5CYOBzJq) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [Fuego y Mar](https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Cuestiónalo Todo](https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT) | 3:44 | 2023-11-10 | 2024-04-19 |
-| [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 |  |
+| [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 | 2024-05-11 |
 | [Fuegos de Artificio 2.0](https://open.spotify.com/track/5CX7s2RUcpCwZg9XWTR5qM) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Fuegos de Artificio 2.0](https://open.spotify.com/album/4apeFsL6k0TlfFVJi90zQz) | 2:44 | 2022-04-08 | 2022-07-19 |
 | [Fuerzas Que Retroceden](https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua), [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Fuerzas Que Retroceden](https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE) | 3:51 | 2022-09-05 | 2023-03-03 |
 | [Goces](https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y) | [Parálisis del Sueño](https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo) | [Goces](https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf) | 2:01 | 2023-01-06 | 2023-03-03 |
@@ -262,6 +263,7 @@
 | [Tu mundo al revés](https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI) | 3:44 | 2022-04-08 | 2023-04-30 |
 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 | 2023-08-18 | 2024-02-20 |
 | [Tus Llamas \- En Vivo](https://open.spotify.com/track/6TDhK99NNoN9lUpx1Oibor) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro \(Sesiones\)](https://open.spotify.com/album/1wSPLIHDUR85GJVMPM5JdI) | 3:08 | 2022-04-08 | 2022-07-29 |
+| [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 | 2024-05-10 |  |
 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 | 2023-06-16 |  |
 | [Tú No Propones Na](https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 1:26 | 2022-04-08 | 2023-03-03 |
 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 | 2022-04-08 |  |

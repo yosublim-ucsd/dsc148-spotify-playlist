@@ -1,13 +1,129 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Megan Moroney, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: Megan Moroney",
+  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Miley Cyrus, and more! Cover: The Chainsmokers",
   "num_followers": 8020,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "AAAbJbujgMdKvCP845hS+L0bInhfuJEQ",
+  "snapshot_id": "AAAbMie/zMGcVhCRWzSBsSEejUw0Kzs3",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:12:45",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 213833,
+      "name": "No Shade at Pitti",
+      "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
+    },
+    {
+      "added_at": "2024-05-10 04:12:54",
+      "album": {
+        "name": "Built by Broken Hearts",
+        "url": "https://open.spotify.com/album/7JOwEL7RKpB6vdYXH3snG8"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Built by Broken Hearts",
+      "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
+    },
+    {
+      "added_at": "2024-05-10 04:13:05",
+      "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3"
+    },
+    {
+      "added_at": "2024-05-10 04:13:16",
+      "album": {
+        "name": "Family Feud",
+        "url": "https://open.spotify.com/album/3GwGPvsD2XJN0M9zAR8dJx"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "duration_ms": 216918,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/0KLJ25bNfbIVGLrdOYizSJ"
+    },
+    {
+      "added_at": "2024-05-10 04:13:27",
+      "album": {
+        "name": "Nights On Hill",
+        "url": "https://open.spotify.com/album/2vT7ZWBzFpR61FqyB7fxck"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Nights On Hill",
+      "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
+    },
+    {
+      "added_at": "2024-05-10 04:13:38",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/4FhOPhSVzZK5dzuoKw2vZF"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/6kZ6DKZADaBsYBcEZcBwwx"
+    },
+    {
+      "added_at": "2024-05-10 04:13:49",
+      "album": {
+        "name": "Bloom ft. Strings From Paris",
+        "url": "https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        },
+        {
+          "name": "Strings From Paris",
+          "url": "https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4"
+        }
+      ],
+      "duration_ms": 199643,
+      "name": "Bloom ft. Strings From Paris",
+      "url": "https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV"
+    },
     {
       "added_at": "2024-05-03 04:01:42",
       "album": {
@@ -77,22 +193,6 @@
       "url": "https://open.spotify.com/track/1p9V6jkWIBTc4ZQXssxyhc"
     },
     {
-      "added_at": "2024-05-03 04:02:35",
-      "album": {
-        "name": "Queen of the Night",
-        "url": "https://open.spotify.com/album/0pBlyqs6SclbNhsqn42CEh"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 210394,
-      "name": "Queen of the Night",
-      "url": "https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx"
-    },
-    {
       "added_at": "2024-05-03 04:02:50",
       "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
@@ -127,38 +227,6 @@
       "duration_ms": 212757,
       "name": "Tu Orgullo",
       "url": "https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK"
-    },
-    {
-      "added_at": "2024-05-03 04:03:34",
-      "album": {
-        "name": "Luv No Slutz",
-        "url": "https://open.spotify.com/album/4SQlSxWoi8hnK6YKpiAQm3"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        }
-      ],
-      "duration_ms": 159524,
-      "name": "Luv No Slutz",
-      "url": "https://open.spotify.com/track/2c0AAba3JQmFCrh2fvpNqK"
-    },
-    {
-      "added_at": "2024-05-03 04:04:03",
-      "album": {
-        "name": "Not Myself",
-        "url": "https://open.spotify.com/album/269mxCeekCc4V2og796x6h"
-      },
-      "artists": [
-        {
-          "name": "Zai",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        }
-      ],
-      "duration_ms": 152433,
-      "name": "Not Myself",
-      "url": "https://open.spotify.com/track/6pHbXMhMezNDZ5GeOKmInE"
     },
     {
       "added_at": "2024-04-26 04:26:22",

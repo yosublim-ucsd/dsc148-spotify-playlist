@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-309 songs - 19 hr 35 min
+310 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 |  |
 | [Funny Job](https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p) | [Alista](https://open.spotify.com/artist/61hCos6hISn5le08kOOkIc) | [Home Alone](https://open.spotify.com/album/487GnXko7mltMClLrOXiI5) | 3:46 | 2021-12-15 | 2023-12-14 |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-12-14 | 2024-01-15 |
-| [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 | 2021-12-15 |  |
+| [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 | 2021-12-15 | 2024-05-11 |
 | [Get Out](https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl) | [PALES](https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX) | [Get Out](https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN) | 3:45 | 2022-02-01 | 2024-05-01 |
 | [Getaway](https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO) | [MEULE](https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H) | [Meule](https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo) | 3:48 | 2022-03-24 |  |
 | [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2022-04-17 | 2023-06-30 |
@@ -221,7 +221,7 @@
 | [Power Lines](https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Power Lines](https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS) | 3:40 | 2021-12-15 |  |
 | [Preliminary](https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Preliminary](https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6) | 4:11 | 2023-02-28 | 2023-06-11 |
 | [Pretty Vicious Summer](https://open.spotify.com/track/2o7UfjK4hX42hJ5rhC27xS) | [Murder At The Pony Club](https://open.spotify.com/artist/7C3EICXmCNNxgAs2CPneWO) | [Pretty Vicious Summer](https://open.spotify.com/album/03wwVkw1W92XMrW45nKzN9) | 4:20 | 2021-12-15 | 2022-07-28 |
-| [Provocative](https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK) | [WOOD WOUNDS](https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm) | [Provocative](https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G) | 1:59 | 2024-02-28 |  |
+| [Provocative](https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK) | [WOOD WOUNDS](https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm) | [Provocative](https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G) | 1:59 | 2024-02-28 | 2024-05-11 |
 | [Quatre\-Vingt\-Quatorze](https://open.spotify.com/track/1lNG9VfZ9OiNYFKCPoOftD) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Geranium](https://open.spotify.com/album/6tGqiQoZvdtVOLrOj7HPDE) | 5:19 | 2022-06-30 | 2022-07-29 |
 | [Quicklime](https://open.spotify.com/track/3BpT0RYpDTBvMLoIXa3udo) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Obstacle](https://open.spotify.com/album/7e94WnlPTcX85liEG8FcYM) | 4:51 | 2021-12-15 | 2022-07-28 |
 | [R.I.P\. In Peace](https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau) | 4:38 | 2022-06-30 | 2024-04-19 |
@@ -267,7 +267,7 @@
 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 | 2021-12-15 | 2023-02-03 |
 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 | 2021-12-15 |  |
 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 | 2022-06-30 | 2022-11-29 |
-| [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-11-16 | 2024-05-03 |
+| [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-11-16 |  |
 | [Strike a Match](https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future Is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 3:05 | 2023-06-29 | 2024-01-05 |
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2024-01-19 |  |
 | [Sunrise](https://open.spotify.com/track/5zDnFCQy804gmYYe02VZ9F) | [Decasia](https://open.spotify.com/artist/7HuU0xtOHlU4CPZs4sGoUW) | [Sunrise](https://open.spotify.com/album/0uZPHLJrKG5hv8bS6BCPe8) | 6:05 | 2022-04-04 | 2022-07-14 |
@@ -290,6 +290,7 @@
 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 | 2022-04-27 | 2023-04-25 |
 | [Till the end](https://open.spotify.com/track/65P1Nt30UcP5dXuhqlCe5C) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Human disorder](https://open.spotify.com/album/7pqfT0igQtjHaDnYChZjCl) | 2:32 | 2023-08-24 | 2023-10-13 |
 | [Till The End](https://open.spotify.com/track/7yJD6DZzAtvpyuakPy4dTi) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Human Disorder](https://open.spotify.com/album/63nTilDCK2iUjocsalzPgP) | 2:32 | 2024-02-28 |  |
+| [Too Late](https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Too Late](https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy) | 3:36 | 2024-05-02 |  |
 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-07-05 | 2023-12-09 |
 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 |  |
 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 | 2021-12-15 | 2022-07-28 |

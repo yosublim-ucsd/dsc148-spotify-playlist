@@ -6,8 +6,240 @@
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAZQqRuCUI66RgS1TJpnVNZyA1meO5T",
+  "snapshot_id": "AAAZcmv3ohAPb4bAr3UAjf/AjmWrchyr",
   "tracks": [
+    {
+      "added_at": "2024-05-10 21:05:41",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "Chained Up",
+      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
+    },
+    {
+      "added_at": "2024-05-10 21:11:22",
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
+    },
+    {
+      "added_at": "2024-05-10 21:06:39",
+      "album": {
+        "name": "Melter",
+        "url": "https://open.spotify.com/album/0HueEubCVTggbxE0j6nXnN"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Melter",
+      "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
+    },
+    {
+      "added_at": "2024-05-10 21:08:05",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 275892,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
+    },
+    {
+      "added_at": "2024-05-10 21:10:43",
+      "album": {
+        "name": "EVILSLIME",
+        "url": "https://open.spotify.com/album/1QjQzHuJb4DnzmvqiQ2QkA"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        },
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        }
+      ],
+      "duration_ms": 115211,
+      "name": "RIGHT OR WRONG",
+      "url": "https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U"
+    },
+    {
+      "added_at": "2024-05-10 21:22:10",
+      "album": {
+        "name": "Shoot the Seagull",
+        "url": "https://open.spotify.com/album/6YpI5hpElXui5hfg7YWUkm"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Shoot the Seagull",
+      "url": "https://open.spotify.com/track/6bnp9RVQ744EDZAsDWWRYs"
+    },
+    {
+      "added_at": "2024-05-10 21:14:09",
+      "album": {
+        "name": "liverounds",
+        "url": "https://open.spotify.com/album/4XVm6hHwM1fjUZywejQ3Wz"
+      },
+      "artists": [
+        {
+          "name": "damon r.",
+          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
+        }
+      ],
+      "duration_ms": 122571,
+      "name": "liverounds",
+      "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
+    },
+    {
+      "added_at": "2024-05-10 21:23:19",
+      "album": {
+        "name": "Silence Is Loud",
+        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Out Of Options",
+      "url": "https://open.spotify.com/track/1ygHZpILmwL7EaByT1SVAO"
+    },
+    {
+      "added_at": "2024-05-10 21:17:55",
+      "album": {
+        "name": "Raining",
+        "url": "https://open.spotify.com/album/6HDlFGp75KrkGzx4AKaBP7"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        },
+        {
+          "name": "foundation.fm",
+          "url": "https://open.spotify.com/artist/45CQFfoOjvHpb40G1HX8eZ"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Raining",
+      "url": "https://open.spotify.com/track/6ngOwk7jSESY5bAihIzNs6"
+    },
+    {
+      "added_at": "2024-05-10 21:05:53",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 174035,
+      "name": "Favorite Lifeline",
+      "url": "https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp"
+    },
+    {
+      "added_at": "2024-05-10 21:12:33",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-05-10 21:20:06",
+      "album": {
+        "name": "Starchitect",
+        "url": "https://open.spotify.com/album/2thczCCrMjW9lNSHJURsbq"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 166059,
+      "name": "Starchitect",
+      "url": "https://open.spotify.com/track/0SS6bzzAh8e2wkEkvqAPVS"
+    },
+    {
+      "added_at": "2024-05-10 21:05:08",
+      "album": {
+        "name": "Simple Times",
+        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 254314,
+      "name": "Simple Times",
+      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
+    },
     {
       "added_at": "2024-04-26 18:14:38",
       "album": {
@@ -1431,26 +1663,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "International Confusion",
-        "url": "https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi"
-      },
-      "artists": [
-        {
-          "name": "Airrica",
-          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
-        },
-        {
-          "name": "Ashee",
-          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Elsa's Scream",
-      "url": "https://open.spotify.com/track/5hW6jSqtuAFKVrgsG9u1qQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/0MUkKGxxopDodLE32qnpjr"
       },
@@ -1655,206 +1867,6 @@
       "duration_ms": 170543,
       "name": "No Beyonce",
       "url": "https://open.spotify.com/track/7eRc9Lv14DJeIsedPwhxOX"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Subtle Body Dawn",
-        "url": "https://open.spotify.com/album/40yTWgIauuUIJ5ccGSphDs"
-      },
-      "artists": [
-        {
-          "name": "Anna Wise",
-          "url": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
-        }
-      ],
-      "duration_ms": 325608,
-      "name": "Mother of Mothers",
-      "url": "https://open.spotify.com/track/0xPjQkHsQtgdUsPmTSnPaL"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "My Own Private Virginia",
-        "url": "https://open.spotify.com/album/70DCFfOBraXadB4zDJWaEp"
-      },
-      "artists": [
-        {
-          "name": "gum.mp3",
-          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Gin & Tonic",
-      "url": "https://open.spotify.com/track/3EGYUymPSRg00guMtXLD2P"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Restless Soul (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/6JVQpCKKLcZIeeErTI0TIt"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 193700,
-      "name": "Restless Soul - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/03UPxMrz7Iyh9yxLDwV7OJ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "TEXAS",
-        "url": "https://open.spotify.com/album/1q3quwGW4DQXedPA56Ksad"
-      },
-      "artists": [
-        {
-          "name": "Ghandrx",
-          "url": "https://open.spotify.com/artist/6CAtjppoijhn3XALtawWMW"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "TEXAS",
-      "url": "https://open.spotify.com/track/4xYUwY4U43dO1TuEeiYly6"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "CLUBLIFE",
-        "url": "https://open.spotify.com/album/4dcDbqwmefq0jaRnhxYlmQ"
-      },
-      "artists": [
-        {
-          "name": "gloworm",
-          "url": "https://open.spotify.com/artist/1Lb15MiE9O7C44Utw8Z58k"
-        },
-        {
-          "name": "3300grim",
-          "url": "https://open.spotify.com/artist/4Hs55MldcNLkomOgI9A2sp"
-        },
-        {
-          "name": "DJ beats",
-          "url": "https://open.spotify.com/artist/3TbZZnwa4BdRqKIDJ8p0Yp"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "__sawuinth3club - DJ beats Remix",
-      "url": "https://open.spotify.com/track/1atGpXYTshb8dXcDceqfbc"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "CLUBLIFE",
-        "url": "https://open.spotify.com/album/4dcDbqwmefq0jaRnhxYlmQ"
-      },
-      "artists": [
-        {
-          "name": "gloworm",
-          "url": "https://open.spotify.com/artist/1Lb15MiE9O7C44Utw8Z58k"
-        },
-        {
-          "name": "sundiata",
-          "url": "https://open.spotify.com/artist/7rRyYXjLeqqjtG8dZgR2hc"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "________robocoupe",
-      "url": "https://open.spotify.com/track/09PbYTsi4OnDNnbDjuMtrU"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "#HEAVENSGATE VOL. 1",
-        "url": "https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        }
-      ],
-      "duration_ms": 111692,
-      "name": "INFORMANTS",
-      "url": "https://open.spotify.com/track/2xeepACHl0MnQfYkI1MVfg"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Sd-1",
-        "url": "https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Starzzz",
-      "url": "https://open.spotify.com/track/7GUQgcc7VnAS9Y57CKocq4"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "the rothschild party",
-        "url": "https://open.spotify.com/album/7qrb3IexTpCYPsid6E79DG"
-      },
-      "artists": [
-        {
-          "name": "Vladimir Dubyshkin",
-          "url": "https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL"
-        }
-      ],
-      "duration_ms": 332857,
-      "name": "the rothschild party",
-      "url": "https://open.spotify.com/track/1V8X59zPaadLB4fsmmUfQJ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Intercession Before Charlotte",
-        "url": "https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Rockin My World",
-      "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Set Me Free, I'm an Animal",
-        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Set Me Free, I\u2019m an Animal",
-      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
     }
   ],
   "unique_name": "Mad Decent Weekly",

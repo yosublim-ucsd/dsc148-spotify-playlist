@@ -1,12 +1,12 @@
 {
-  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "description": "This is Aidan Bissett. Lagu-lagu utama, semuanya dalam satu playlist.",
   "num_followers": 725,
-  "original_name": "This Is Aidan Bissett",
+  "original_name": "This is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAD3fnUKCB5N4K+lr8gPvql1",
+  "snapshot_id": "ZjwSAAAAAAARD3lohYNCu2y7TzBfOcjm",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
@@ -297,6 +313,6 @@
       "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     }
   ],
-  "unique_name": "This Is Aidan Bissett",
+  "unique_name": "This is Aidan Bissett",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02"
 }

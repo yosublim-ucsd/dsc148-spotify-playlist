@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-162 songs - 14 hr 47 min
+163 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chandi Jaisa Rang \- Live In India/1984](https://open.spotify.com/track/17PEMtVwg0DaC5sBjUBdAl) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 6:40 | 2023-02-16 | 2024-04-19 |
 | [Chandni Ke Bagh Mein](https://open.spotify.com/track/2T4vQ6JHDNhRtitTOrcc85) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 6:29 | 2024-04-18 |  |
 | [Chandni Ke Bagh Mein](https://open.spotify.com/track/6T4AUanQF0Nhs7WHoMXujI) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 6:29 | 2023-02-27 | 2024-04-19 |
+| [Chaudhavi Shab](https://open.spotify.com/track/7p87RATknowYjH1siFCC3P) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 4:03 | 2024-05-10 |  |
 | [CHAUDHVI KI RAAT](https://open.spotify.com/track/3RfMPBxBTFpI1aLUdBVShO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [CHAUDHVI KI RAAT](https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV) | 4:10 | 2023-03-23 |  |
 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 | 2021-12-01 | 2023-05-16 |
 | [Chitthi Aai Hai](https://open.spotify.com/track/09xLwwXCwGcNK9nU20cwQM) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Naam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DZpyKpCBKxRL8xRn0gKdz) | 7:14 | 2021-12-01 | 2023-05-16 |

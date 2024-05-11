@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea S3BZS & Spreen.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Nicki Nicole.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "APD",
+        "url": "https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169024,
+      "name": "APD",
+      "url": "https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI"
+    },
+    {
+      "album": {
         "name": "aPoLLo13",
         "url": "https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE"
       },
@@ -750,6 +768,24 @@
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
+    },
+    {
+      "album": {
+        "name": "Atelier",
+        "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "atelier",
+      "url": "https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd"
     },
     {
       "album": {
@@ -910,7 +946,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 153832,
       "name": "BABY GANGSTA",
       "url": "https://open.spotify.com/track/3ZFok6nDttzt0aXk0VRaCX"
@@ -1614,7 +1650,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 189278,
       "name": "Cangrinaje",
       "url": "https://open.spotify.com/track/5sJXSkZDAJjWrwtJHXLFTI"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 158570,
       "name": "COMO TE LLAMAS",
       "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
@@ -2334,6 +2370,28 @@
       "duration_ms": 181782,
       "name": "DESCARTABLE",
       "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+    },
+    {
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202551,
+      "name": "DESQUITE",
+      "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
     },
     {
       "album": {
@@ -3145,6 +3203,46 @@
     },
     {
       "album": {
+        "name": "Es ahora",
+        "url": "https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Es ahora",
+      "url": "https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/0gvlSJezcGQrbR2bmRiqsr"
       },
@@ -3615,6 +3713,28 @@
     },
     {
       "album": {
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "Gitana (feat. Bryartz)",
+      "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
+    },
+    {
+      "album": {
         "name": "GTA.mp3",
         "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
       },
@@ -3790,7 +3910,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 110075,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6H4LDyUCXw8uiWXaDCNM1Z"
@@ -4364,7 +4484,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
@@ -5086,6 +5206,28 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
+    },
+    {
+      "album": {
+        "name": "MADISON",
+        "url": "https://open.spotify.com/album/0B37qHA5Q9O94AtUqD2HWS"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Lil Pani",
+          "url": "https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250303,
+      "name": "MADISON",
+      "url": "https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w"
     },
     {
       "album": {
@@ -6258,7 +6400,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202173,
       "name": "NO HAY QUE PREGUNTAR",
       "url": "https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI"
@@ -8515,6 +8657,32 @@
     },
     {
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Coco Palmer",
+          "url": "https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136064,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv"
+    },
+    {
+      "album": {
         "name": "TE AMO RMX (feat. Salastkbron)",
         "url": "https://open.spotify.com/album/5JVoimtJeq4plcNKU3rSMF"
       },
@@ -8814,6 +8982,24 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "tinta 90",
+      "url": "https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa"
     },
     {
       "album": {
@@ -9594,7 +9780,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -9898,7 +10084,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -10238,7 +10424,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"

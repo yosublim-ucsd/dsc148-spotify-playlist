@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 138749,
       "name": "Echando Los Perros",
       "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Presumidas S.A.",
+      "url": "https://open.spotify.com/track/7y0f81LdUZemzSMQwSKURo"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178314,
       "name": "Presumidas, S.a.",
       "url": "https://open.spotify.com/track/3awoHuOrcCKZTKQj0ICkLf"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188923,
       "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
       "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"

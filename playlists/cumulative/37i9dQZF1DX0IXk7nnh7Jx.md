@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-524 songs - 1 day 7 hr 6 min
+525 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Give Me Strength](https://open.spotify.com/track/5TbZjlHGBMKlMGrsO5B3Oj) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Give Me Strength](https://open.spotify.com/album/0GBym7dLcOeW7GKmS2fMDZ) | 2:59 | 2023-12-01 | 2023-12-08 |
 | [Give Me You](https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Give Me You](https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb) | 4:41 | 2023-11-03 | 2024-01-27 |
 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 | 2023-11-03 |  |
-| [God's Chosen](https://open.spotify.com/track/5nFpreEo4jY59tkTvfOV8L) | [Nachaash](https://open.spotify.com/artist/3SEoxo9gwUVcF3KZr6GRPd), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Louie Tha Profit](https://open.spotify.com/artist/5eUQnfTE8fExL2zpmPZ4uA) | [God's Chosen](https://open.spotify.com/album/0e52Ku1wajjrMXozW3f847) | 3:07 | 2024-01-26 |  |
+| [God's Chosen](https://open.spotify.com/track/5nFpreEo4jY59tkTvfOV8L) | [Nachaash](https://open.spotify.com/artist/3SEoxo9gwUVcF3KZr6GRPd), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Louie Tha Profit](https://open.spotify.com/artist/5eUQnfTE8fExL2zpmPZ4uA) | [God's Chosen](https://open.spotify.com/album/0e52Ku1wajjrMXozW3f847) | 3:07 | 2024-01-26 | 2024-05-11 |
 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 | 2020-12-18 | 2022-09-19 |
 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 | 2020-12-18 | 2023-02-19 |
 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-01-26 | 2024-04-19 |
@@ -354,6 +354,7 @@
 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 | 2023-02-19 | 2023-12-02 |
 | [Poison](https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Poison](https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk) | 2:51 | 2023-02-19 | 2023-11-04 |
 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 | 2024-01-26 |  |
+| [Pray](https://open.spotify.com/track/0AcGzTpohxYqE0y2vn8vwy) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Pray](https://open.spotify.com/album/7vUvBevQvFFcFJhLN2VNnM) | 3:04 | 2024-05-10 |  |
 | [Pray For Me](https://open.spotify.com/track/6CinFilifLHPP711UIiMfH) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Pray For Me](https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ) | 3:44 | 2023-11-03 |  |
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
 | [Prove My Love](https://open.spotify.com/track/6eV7yJ3eD4U3LJUAyOEBuF) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Prove My Love](https://open.spotify.com/album/2wAY9M3jmw7ftEiExGTzQv) | 3:58 | 2023-02-24 | 2023-04-09 |

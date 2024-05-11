@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 115071,
       "name": "Fuku",
       "url": "https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ"
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 96545,
       "name": "hex - krushfunk version",
       "url": "https://open.spotify.com/track/4JgRo2cQU4jl4mxGk8gjyg"
@@ -6646,6 +6646,24 @@
       "duration_ms": 146086,
       "name": "Komarovo (DVRST Phonk Remix)",
       "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
+    },
+    {
+      "album": {
+        "name": "KRUSH BANDICOOT",
+        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97090,
+      "name": "KRUSH BANDICOOT",
+      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
     },
     {
       "album": {
@@ -8650,7 +8668,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 113442,
       "name": "Mtg - Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F"
@@ -12221,6 +12239,24 @@
     },
     {
       "album": {
+        "name": "Song 404",
+        "url": "https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9"
+      },
+      "artists": [
+        {
+          "name": "7hvrdx",
+          "url": "https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165331,
+      "name": "Song 404",
+      "url": "https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5"
+    },
+    {
+      "album": {
         "name": "SOUL STEALER",
         "url": "https://open.spotify.com/album/0KPh8lbNaMY7seQYDQ5kSM"
       },
@@ -12964,6 +13000,28 @@
       "duration_ms": 132203,
       "name": "THERMAL IMAGER",
       "url": "https://open.spotify.com/track/7nkz4AApDoQGA8jDmonQWX"
+    },
+    {
+      "album": {
+        "name": "THOMAS",
+        "url": "https://open.spotify.com/album/6s28IiIJ7ElbJfTPn03D6Y"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90603,
+      "name": "THOMAS",
+      "url": "https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1"
     },
     {
       "album": {

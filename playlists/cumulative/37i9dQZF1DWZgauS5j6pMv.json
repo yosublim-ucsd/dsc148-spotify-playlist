@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192011,
       "name": "Electric",
       "url": "https://open.spotify.com/track/5tpCdn073tTUqDNk2gUL2Q"
@@ -4933,6 +4933,28 @@
     },
     {
       "album": {
+        "name": "Love The Mystery (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177196,
+      "name": "Love The Mystery - Jafunk Remix",
+      "url": "https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W"
       },
@@ -7787,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX"
       },
@@ -7926,7 +7966,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186034,
       "name": "U R Freak - Jafunk Remix",
       "url": "https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB"

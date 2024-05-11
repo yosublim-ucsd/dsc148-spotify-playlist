@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: Tasha Cobbs Leonard",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq"
+    },
+    {
+      "album": {
         "name": "God Made It Beautiful",
         "url": "https://open.spotify.com/album/75vGEkrjKlWnDC8q8v5GmY"
       },
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 276427,
       "name": "Help My Unbelief",
       "url": "https://open.spotify.com/track/49QfFQkp1ulRJmCaVBX2Ca"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 347166,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3MXe7rfZlSxth92oEhzP9c"
@@ -5507,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219514,
+      "name": "Look At God",
+      "url": "https://open.spotify.com/track/396hOjvgaPh7XUfQDPsWTI"
+    },
+    {
+      "album": {
         "name": "The Journey (Live)",
         "url": "https://open.spotify.com/album/0UlY4iqR0diqdIoGBVKNFP"
       },
@@ -6606,7 +6642,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 257954,
       "name": "Not Hopeless",
       "url": "https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz"
@@ -7314,7 +7350,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 453689,
       "name": "Revival Medley",
       "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
@@ -7332,7 +7368,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 453689,
       "name": "Revival Medley",
       "url": "https://open.spotify.com/track/4ZAdZMMuBlCNNjWGWV6viA"
@@ -7798,6 +7834,28 @@
       "duration_ms": 240433,
       "name": "So Good to Me",
       "url": "https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN"
+    },
+    {
+      "album": {
+        "name": "So Good To Me (HALLELUJAH!)",
+        "url": "https://open.spotify.com/album/6oQF7xLQ9DN3ybgaGIljaf"
+      },
+      "artists": [
+        {
+          "name": "We Are Leo",
+          "url": "https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu"
+        },
+        {
+          "name": "Lawrence Kirby",
+          "url": "https://open.spotify.com/artist/0E6wTE4ezhhV2wPMRhUVBF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "So Good To Me (HALLELUJAH!)",
+      "url": "https://open.spotify.com/track/2nbNrq7DcQad5jb1otsM3s"
     },
     {
       "album": {
@@ -8854,7 +8912,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 311306,
       "name": "This Joy - Live",
       "url": "https://open.spotify.com/track/09kMxmxcVpZwM75dYqr0Pk"
@@ -9331,6 +9389,24 @@
     },
     {
       "album": {
+        "name": "Wait'll You See My Brand New Home",
+        "url": "https://open.spotify.com/album/1cBtwanh0H2fjcGI8AJCUJ"
+      },
+      "artists": [
+        {
+          "name": "Chris Blue",
+          "url": "https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Wait'll You See My Brand New Home",
+      "url": "https://open.spotify.com/track/0SgICqjR2x3bDkUVrFsiqI"
+    },
+    {
+      "album": {
         "name": "Waiting (Reimagined)",
         "url": "https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur"
       },
@@ -9490,7 +9566,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 499448,
       "name": "We Adore You - Live",
       "url": "https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE"

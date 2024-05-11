@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
-  "num_followers": 68862,
+  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
+  "num_followers": 68868,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAADNUbV5X77C8Bn/+y3takV8",
+  "snapshot_id": "ZjwSAAAAAABr3FpCzsXLXrp6G3nNNzsa",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana (feat. Lila Downs)",
-        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Mexicana (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta Contin\u00faa",
         "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
       },
@@ -479,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 271386,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -495,22 +491,6 @@
       "duration_ms": 275026,
       "name": "L\u00e1grimas Negras (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
     },
     {
       "added_at": null,
@@ -695,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00fascate Un Hombre Que Te Quiera",
-        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 181542,
-      "name": "B\u00fascate Un Hombre Que Te Quiera",
-      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -771,6 +731,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "B\u00fascate Un Hombre Que Te Quiera",
+        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 181542,
+      "name": "B\u00fascate Un Hombre Que Te Quiera",
+      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Arenita Azul",
+      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cantina",
         "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
       },
@@ -791,22 +787,6 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree Of Life",
-        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Arenita Azul",
-      "url": "https://open.spotify.com/track/05aKE3IxwemvHCgvwKoScw"
     },
     {
       "added_at": null,
@@ -1087,6 +1067,34 @@
       "duration_ms": 190586,
       "name": "La San Marque\u00f1a",
       "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4KXLpSbuSYCfs1CqBGCenj"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Una Noche en N\u00e1poles (feat. Lila Downs, Ni\u00f1a Pastori & Soledad)",
+      "url": "https://open.spotify.com/track/5dGWwnkTaiQGqZBtcBnmCc"
     },
     {
       "added_at": null,

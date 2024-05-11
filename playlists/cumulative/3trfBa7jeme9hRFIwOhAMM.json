@@ -93,6 +93,32 @@
     },
     {
       "album": {
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
+      "album": {
         "name": "Ain't No Mountain",
         "url": "https://open.spotify.com/album/71ODnsWScGKqVcMLaVpskY"
       },
@@ -130,7 +156,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 149642,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4DvXwUnhmI4MuSPAEonPiL"
@@ -564,7 +590,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
@@ -1063,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/1KzUhr5XqwBkTt6kmcPFDa"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Annaca",
+          "url": "https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211696,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q"
+    },
+    {
+      "album": {
         "name": "Find My Way / Within A Groove EP",
         "url": "https://open.spotify.com/album/69bxaEll6NPgrzE73SCPWC"
       },
@@ -1184,6 +1232,24 @@
       "duration_ms": 196875,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
+    },
+    {
+      "album": {
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/416p0vtVpWBcst6ZA5Twf1"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Funk",
+      "url": "https://open.spotify.com/track/0ZzYbGzGE5VjplmEOn81gn"
     },
     {
       "album": {
@@ -1930,7 +1996,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 218437,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
@@ -3412,7 +3478,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 142857,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4rQx0fftZ7fXbL1tU35gNI"
@@ -3514,6 +3580,32 @@
       "duration_ms": 145161,
       "name": "The Choir",
       "url": "https://open.spotify.com/track/5g1nJ7IHA8dvwHWJ0V2wEU"
+    },
+    {
+      "album": {
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166237,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
       "album": {
@@ -3656,7 +3748,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 124724,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/0jOwACbG0qQ7RsTf6LMic4"
@@ -3869,6 +3961,28 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1zgPZvEe6kQ8iVQhujsaD9"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        },
+        {
+          "name": "Mattfire",
+          "url": "https://open.spotify.com/artist/2X2uNmHbcMW1C6LUTdhfhe"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/5MZfrYG6pZVlJk6Et2Pyk4"
+    },
+    {
+      "album": {
         "name": "Valentino",
         "url": "https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW"
       },
@@ -4015,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Voice Machine",
+        "url": "https://open.spotify.com/album/74sGDyM908xhzHMkfnyr7S"
+      },
+      "artists": [
+        {
+          "name": "HeyDoc!",
+          "url": "https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Voice Machine",
+      "url": "https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb"
+    },
+    {
+      "album": {
         "name": "Waiting For Tonight",
         "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
       },
@@ -4030,7 +4162,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198019,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"

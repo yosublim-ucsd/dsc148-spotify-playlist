@@ -5781,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "The Morning Star",
+        "url": "https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf"
+      },
+      "artists": [
+        {
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "The Morning Star",
+      "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
+    },
+    {
+      "album": {
         "name": "The Quiet Hours",
         "url": "https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN"
       },
@@ -6480,6 +6498,24 @@
       "duration_ms": 182674,
       "name": "Where The Street End",
       "url": "https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8"
+    },
+    {
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/0SokGbjLLCRjFcgrNEMpzX"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/2MqEiCYKKp7LiyDufLJ1WT"
     },
     {
       "album": {

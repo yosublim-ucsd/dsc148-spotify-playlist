@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,108 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 21 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
 | 22 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
 | 23 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
-| 24 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
-| 25 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
+| 24 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 |
+| 25 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
 | 26 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 27 | [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 |
 | 28 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 55 | [Self Control \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0ybk3fS0DTcHb7qXsuNW5D) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Spotify Singles](https://open.spotify.com/album/38DMNbYurZ29qUd6KgqwnN) | 4:03 |
 | 56 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 |
 | 57 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 |
-| 58 | [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 |
-| 59 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
+| 58 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
+| 59 | [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 |
 | 60 | [One Life \- Acoustic](https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap \(Deluxe Edition\)](https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN) | 3:19 |
 | 61 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
 | 62 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 86 | [i've got a crazy idea](https://open.spotify.com/track/6lFNHNVCRrQxbkE4V3I6xh) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [i've got a crazy idea](https://open.spotify.com/album/6xUQI83LRIORArNV3GXJ00) | 3:06 |
 | 87 | [Bones \- Acoustic](https://open.spotify.com/track/2Z9LGFJvS856wfl1RW28up) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Bones \(Acoustic\)](https://open.spotify.com/album/1UVGUP1HTAMxa79o2n4QMz) | 3:21 |
 | 88 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 |
-| 89 | [Nervous \- Acoustic](https://open.spotify.com/track/21z2lehJWympNxaiUniWGf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous \(Acoustic\)](https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE) | 4:10 |
-| 90 | [Blackbirds and Foxtails](https://open.spotify.com/track/1xbO3TwRkmY3bKlx0wGqlY) | [Lost Mary](https://open.spotify.com/artist/16WgLtGDVL7lWQBo9esyKO) | [Blackbirds and Foxtails](https://open.spotify.com/album/6Xcbx0D39CgHzi7UrLuhW7) | 3:56 |
+| 89 | [Blackbirds and Foxtails](https://open.spotify.com/track/1xbO3TwRkmY3bKlx0wGqlY) | [Lost Mary](https://open.spotify.com/artist/16WgLtGDVL7lWQBo9esyKO) | [Blackbirds and Foxtails](https://open.spotify.com/album/6Xcbx0D39CgHzi7UrLuhW7) | 3:56 |
+| 90 | [Nervous \- Acoustic](https://open.spotify.com/track/21z2lehJWympNxaiUniWGf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous \(Acoustic\)](https://open.spotify.com/album/3xX56NcykV7DkotB9MH6kE) | 4:10 |
 | 91 | [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 |
-| 92 | [Cherry](https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI) | [Chance Perez](https://open.spotify.com/artist/1SCknIfL7xAcll2QxeIQZO) | [Cherry](https://open.spotify.com/album/2yM3HIDl38zoKlKFPUyLFS) | 2:36 |
-| 93 | [Us \- Acoustic](https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You \(Acoustic\)](https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8) | 3:12 |
+| 92 | [Us \- Acoustic](https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Sorry For Writing All The Songs About You \(Acoustic\)](https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8) | 3:12 |
+| 93 | [Cherry](https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI) | [Chance Perez](https://open.spotify.com/artist/1SCknIfL7xAcll2QxeIQZO) | [Cherry](https://open.spotify.com/album/2yM3HIDl38zoKlKFPUyLFS) | 2:36 |
 | 94 | [find me wrong](https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg) | [Coral](https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i) | [find me wrong](https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F) | 3:16 |
 | 95 | [No Brainer](https://open.spotify.com/track/4uCS7MlpMD2P8FUzpJvhwi) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [No Brainer](https://open.spotify.com/album/1r6aUmY1GViYgYBhbsEWPt) | 3:34 |
 | 96 | [Little Victories](https://open.spotify.com/track/5SbYDzbgqFwoskAcM73WLl) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [Little Victories](https://open.spotify.com/album/69JkJ1P45sQIbeDLuv9oXe) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Doo Doo Doo \- Unplugged](https://open.spotify.com/track/5Iegog3nLU1UH52WG59TkP) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Doo Doo Doo \(Unplugged\)](https://open.spotify.com/album/5yvPMVZczyuf1XnzeliTXw) | 3:44 |
 | 100 | [Her Not Me](https://open.spotify.com/track/7yKxDPOa62U5DyNxbtzJio) | [Laura Gomes](https://open.spotify.com/artist/4otLEIeqdTrM0mgj9oPobm) | [Her Not Me](https://open.spotify.com/album/4xN4yYX10Nk0JBXAlI6D2K) | 3:15 |
 
-Snapshot ID: `ZZfSowAAAAAB74IKSHVsKswJIX9iRRwj`
+Snapshot ID: `Zj4QRwAAAAD82mRToka38vG60mo0Yqf3`

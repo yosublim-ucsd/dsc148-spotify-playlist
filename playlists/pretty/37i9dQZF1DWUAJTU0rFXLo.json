@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 30865,
+  "num_followers": 6191,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZdgKbAAAAACH07Acbs7kF9vTNBDUe09A",
+  "snapshot_id": "Zj5tnwAAAABP60OxfVKONgIPcjmT691D",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/2LPm1l02jbRkixf0brUFfP"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Olha Eu Aqui Oh! Oh! Oh!...",
+      "url": "https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/2LPm1l02jbRkixf0brUFfP"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Olha Eu Aqui Oh! Oh! Oh!...",
-      "url": "https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Funk Classics The 80's",
-        "url": "https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
-      "url": "https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "The Best Of The TK Years 1975 - 1985",
         "url": "https://open.spotify.com/album/2vV0nIqENfiHm0j0uc29CW"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 422826,
       "name": "You Get Me Hot",
       "url": "https://open.spotify.com/track/4H4Bd6Bk9EshGq4j48EA2w"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Funk Classics The 80's",
+        "url": "https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "url": "https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi"
     },
     {
       "added_at": "2024-02-23 03:01:00",

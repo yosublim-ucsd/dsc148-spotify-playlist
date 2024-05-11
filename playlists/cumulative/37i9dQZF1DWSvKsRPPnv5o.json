@@ -3225,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "MAKE THE WEST GREAT AGAIN",
+        "url": "https://open.spotify.com/album/7pAW452N8gTTdZFeuEjiTr"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155783,
+      "name": "COOL DOWN (feat. YG)",
+      "url": "https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok"
+    },
+    {
+      "album": {
         "name": "Corner House",
         "url": "https://open.spotify.com/album/3L08I0qiASk86BkiNAQh4b"
       },
@@ -4486,7 +4508,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 144000,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5qimCvnwFeBXuis20DdLD6"
@@ -4812,6 +4834,28 @@
       "duration_ms": 183829,
       "name": "Face No Book (feat. Blueface)",
       "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
+    },
+    {
+      "album": {
+        "name": "Faces & Names",
+        "url": "https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Faces & Names",
+      "url": "https://open.spotify.com/track/1gkKD1l0vQ6ZFqUBro5e9Q"
     },
     {
       "album": {
@@ -5994,7 +6038,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 134452,
       "name": "Ghetto Barbie",
       "url": "https://open.spotify.com/track/5q4AyMRaXeAZ61ns0moZg6"
@@ -6750,6 +6794,32 @@
       "duration_ms": 177204,
       "name": "Heart Ain't Empty",
       "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
+    },
+    {
+      "album": {
+        "name": "HEAT STICK",
+        "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "HEAT STICK",
+      "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
     },
     {
       "album": {
@@ -7634,7 +7704,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161921,
       "name": "IF I DIE RIGHT NOW",
       "url": "https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX"
@@ -9026,7 +9096,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 103529,
       "name": "LMK Something",
       "url": "https://open.spotify.com/track/5QPONzQY14PDgdnZ1zCz6t"
@@ -9516,6 +9586,24 @@
       "duration_ms": 146285,
       "name": "Meat This",
       "url": "https://open.spotify.com/track/52jBY28ULSi4ayJ57QFbLP"
+    },
+    {
+      "album": {
+        "name": "Meet Me In Napa",
+        "url": "https://open.spotify.com/album/6UoEkQJdwkOLYQw3MI0g7b"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160628,
+      "name": "Meet Me In Napa",
+      "url": "https://open.spotify.com/track/6dICrSO1wQgnNGRY9O1YWT"
     },
     {
       "album": {
@@ -11720,7 +11808,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166592,
       "name": "Paid & Put Up",
       "url": "https://open.spotify.com/track/4beRWX5kyOfV6hYuHSzAF2"
@@ -12631,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Real Money",
+        "url": "https://open.spotify.com/album/5MLUGCFI5oUhwWT0c96n7i"
+      },
+      "artists": [
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Real Money",
+      "url": "https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd"
+    },
+    {
+      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
@@ -12772,7 +12878,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176401,
       "name": "Richtivities",
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
@@ -13086,7 +13192,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200652,
       "name": "Rush (feat. Leikeli47)",
       "url": "https://open.spotify.com/track/3Jd71mGKe7hDjWicwHH4Vq"
@@ -13670,6 +13776,28 @@
       "duration_ms": 220779,
       "name": "Silent Hill",
       "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
+    },
+    {
+      "album": {
+        "name": "MAKE THE WEST GREAT AGAIN",
+        "url": "https://open.spotify.com/album/7pAW452N8gTTdZFeuEjiTr"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "SILHOUETTE (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0Ny8RWD2XIKJbGLRjtUr4v"
     },
     {
       "album": {

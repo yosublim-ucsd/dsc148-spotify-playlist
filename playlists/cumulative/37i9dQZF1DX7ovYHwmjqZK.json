@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205640,
+      "name": "BOSSA (feat. P\u00e9ricles)",
+      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
+    },
+    {
+      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1233,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Liberdade, vai",
+        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Liberdade, vai",
+      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
+    },
+    {
+      "album": {
         "name": "Liberta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6menATFqidzRjusVl0INqK"
       },
@@ -1302,6 +1342,24 @@
       "duration_ms": 151875,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "album": {
+        "name": "Estado Febril",
+        "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
+      },
+      "artists": [
+        {
+          "name": "Bruna Alimonda",
+          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182765,
+      "name": "Me Beija Na Rua",
+      "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
     },
     {
       "album": {
@@ -1742,7 +1800,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 306906,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl"
@@ -1814,7 +1872,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171600,
       "name": "Por A\u00ed",
       "url": "https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww"
@@ -2278,7 +2336,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152933,
       "name": "S\u00f3 Agora",
       "url": "https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk"

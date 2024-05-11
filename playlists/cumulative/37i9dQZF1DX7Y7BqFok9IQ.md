@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Slash
 
-293 songs - 18 hr 34 min
+294 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Go Away Satan](https://open.spotify.com/track/1mdLQR5E86HLziKr6gHV96) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mind Control](https://open.spotify.com/album/61RXKxgnQEomHQlbgVXYdt) | 6:15 | 2021-11-05 | 2023-04-01 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 |  |
 | [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 | 2024-01-13 |
+| [Gone Without Warning](https://open.spotify.com/track/7in4wjewVD5ZzLqO2LKHJ2) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Gone Without Warning](https://open.spotify.com/album/7nHhG3ptTUxcIZuQFEjGCy) | 4:02 | 2024-05-10 |  |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
 | [Got No Right](https://open.spotify.com/track/5RKSda8mBCmCeoGugTFfVZ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 2:48 | 2023-03-10 | 2023-07-08 |
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
@@ -257,7 +258,7 @@
 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 | 2022-06-10 | 2024-04-19 |
 | [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 | 2020-10-16 | 2023-05-27 |
 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 | 2023-04-30 |
-| [The Way I Am](https://open.spotify.com/track/5JuqvuL2doRB6g4ikjWJsj) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [The Way I Am](https://open.spotify.com/album/0ZhLY8EATUuhuHiieavwOQ) | 3:34 | 2024-01-26 |  |
+| [The Way I Am](https://open.spotify.com/track/5JuqvuL2doRB6g4ikjWJsj) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [The Way I Am](https://open.spotify.com/album/0ZhLY8EATUuhuHiieavwOQ) | 3:34 | 2024-01-26 | 2024-05-11 |
 | [The Way I Wanna Go](https://open.spotify.com/track/6rJnCbylhS9uUujttwYX4l) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [The Way I Wanna Go](https://open.spotify.com/album/0HgJ551rBgPx9sCY6UAOfK) | 5:48 | 2023-05-05 |  |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2020-10-16 | 2024-04-19 |
 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 |  |

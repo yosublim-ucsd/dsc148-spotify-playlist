@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Saint Levant",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Hay Babies",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 307133,
       "name": "Besoin de bras",
       "url": "https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA"
@@ -10551,6 +10551,28 @@
     },
     {
       "album": {
+        "name": "DANSER",
+        "url": "https://open.spotify.com/album/2yEAM9u41F34EVxOaycqJi"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        },
+        {
+          "name": "Princek",
+          "url": "https://open.spotify.com/artist/2epyQQhjCfNZQUox9eedwi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "DANSER",
+      "url": "https://open.spotify.com/track/5bC01FxiWaNz4A5N57t7PD"
+    },
+    {
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S"
       },
@@ -12343,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9fonc\u00e9",
+        "url": "https://open.spotify.com/album/1SdUi59kaACdIkxujjSSlE"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209950,
+      "name": "D\u00e9fonc\u00e9",
+      "url": "https://open.spotify.com/track/7vsoUQJUK2d3y8C3N3F9f2"
+    },
+    {
+      "album": {
         "name": "D\u00e9gaine (feat. Damso)",
         "url": "https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn"
       },
@@ -13686,6 +13726,24 @@
       "duration_ms": 200253,
       "name": "Entre ici et les jours heureux",
       "url": "https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt"
+    },
+    {
+      "album": {
+        "name": "Entre le chien et le loup",
+        "url": "https://open.spotify.com/album/4xxvQQqhU0gDX2aEvzjrG8"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179403,
+      "name": "Entre le chien et le loup",
+      "url": "https://open.spotify.com/track/5EfUzRJcWcUvOweQMn3JlW"
     },
     {
       "album": {
@@ -18649,6 +18707,24 @@
     },
     {
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "album": {
         "name": "Immonde",
         "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
       },
@@ -21118,6 +21194,24 @@
       "duration_ms": 156130,
       "name": "Jouer ensemble",
       "url": "https://open.spotify.com/track/5PxpH7XK9yR8X3yVsqIsOs"
+    },
+    {
+      "album": {
+        "name": "Jouer pour jouer",
+        "url": "https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq"
+      },
+      "artists": [
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191065,
+      "name": "Jouer pour jouer",
+      "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
     },
     {
       "album": {
@@ -23976,7 +24070,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194626,
       "name": "Laisse-moi",
       "url": "https://open.spotify.com/track/5hjSxdoZRFcW6amolaINKn"
@@ -25812,7 +25906,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 173970,
       "name": "Les flics (sont des sacs \u00e0 merde)",
       "url": "https://open.spotify.com/track/2y36PoFQpSXvqVcVtp82xJ"
@@ -26086,7 +26180,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 254501,
       "name": "Les mots qui nous manquent",
       "url": "https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY"
@@ -26876,7 +26970,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156773,
       "name": "Loin d'ici",
       "url": "https://open.spotify.com/track/73FJm79p90bRb5WZpnTt6k"
@@ -28647,6 +28741,24 @@
     },
     {
       "album": {
+        "name": "Marina",
+        "url": "https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174989,
+      "name": "Marina",
+      "url": "https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD"
+    },
+    {
+      "album": {
         "name": "Mari\u00e9s",
         "url": "https://open.spotify.com/album/3I2dUuOU82ljWfpnev1r5L"
       },
@@ -29357,6 +29469,24 @@
     },
     {
       "album": {
+        "name": "Messie",
+        "url": "https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245093,
+      "name": "Messie",
+      "url": "https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY"
+    },
+    {
+      "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
       },
@@ -29560,6 +29690,24 @@
       "duration_ms": 174108,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sessions",
+        "url": "https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL"
     },
     {
       "album": {
@@ -32382,7 +32530,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201001,
       "name": "On s'aime jusqu'\u00e0 quand ?",
       "url": "https://open.spotify.com/track/4ueRX7t3Sa860JWwrbIJyJ"
@@ -32890,7 +33038,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 141613,
       "name": "Oumamie",
       "url": "https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw"
@@ -33490,6 +33638,28 @@
       "duration_ms": 214020,
       "name": "Pareil mais diff\u00e9rent",
       "url": "https://open.spotify.com/track/5jMUzrpbfbGFBSbWYHceGb"
+    },
+    {
+      "album": {
+        "name": "Parenth\u00e8se",
+        "url": "https://open.spotify.com/album/16q64GMnjdQjxor71KiKwG"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        },
+        {
+          "name": "Lysandre Nadeau",
+          "url": "https://open.spotify.com/artist/0U8oQvL6MoMtLqi6cZgOC2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Parenth\u00e8se",
+      "url": "https://open.spotify.com/track/6CWz6oc9t9BWHV04JUUgqX"
     },
     {
       "album": {
@@ -34430,7 +34600,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164735,
       "name": "Petit canari",
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
@@ -38750,7 +38920,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 210000,
       "name": "R\u00e9pondre aux oiseaux",
       "url": "https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt"
@@ -39730,7 +39900,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198750,
       "name": "Se laisser aller",
       "url": "https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM"
@@ -40212,6 +40382,24 @@
       "duration_ms": 156485,
       "name": "Shirley Temple",
       "url": "https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K"
+    },
+    {
+      "album": {
+        "name": "Shloshlo",
+        "url": "https://open.spotify.com/album/3fn2ktuUz09Mk0dBUMRBBW"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186625,
+      "name": "Shloshlo",
+      "url": "https://open.spotify.com/track/5MaOfkPL7Fa4pUxmkH4q3K"
     },
     {
       "album": {
@@ -41328,7 +41516,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 182960,
       "name": "Souffle sur moi",
       "url": "https://open.spotify.com/track/3qG6eII4C8mvJmgs7F0SBw"
@@ -46919,6 +47107,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9suve",
+        "url": "https://open.spotify.com/album/5jZXNkPD1Y4p6oeai8LNBM"
+      },
+      "artists": [
+        {
+          "name": "Hey Major",
+          "url": "https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265920,
+      "name": "V\u00e9suve",
+      "url": "https://open.spotify.com/track/01lAjzyIDUiIUDX0mBJtMC"
+    },
+    {
+      "album": {
         "name": "Wait a minute",
         "url": "https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw"
       },
@@ -47138,7 +47344,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 190434,
       "name": "we need to leave LA",
       "url": "https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI"
@@ -47352,6 +47558,24 @@
       "duration_ms": 150624,
       "name": "Woah, Stop",
       "url": "https://open.spotify.com/track/3LC0jmxXmTV1uQW0aJmFhd"
+    },
+    {
+      "album": {
+        "name": "Woah, Stop",
+        "url": "https://open.spotify.com/album/4yX44e5o05vuqsxL705rTL"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Woah, Stop",
+      "url": "https://open.spotify.com/track/4LXn6KKfHhw26Z0ZUfSSPW"
     },
     {
       "album": {

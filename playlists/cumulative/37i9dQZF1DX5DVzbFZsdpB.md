@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
-> Podcasts you need to have on your RADAR: <a href="spotify:show:73sgbEhXdXbFqKZoc1zgqk"> Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
+> Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
 42 songs - 1 day 12 hr 55 min
 

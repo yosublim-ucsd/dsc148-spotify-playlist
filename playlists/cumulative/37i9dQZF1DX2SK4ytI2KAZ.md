@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-577 songs - 1 day 7 hr 44 min
+578 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Head Right](https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:17 | 2022-06-27 | 2022-11-09 |
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-07 | 2023-08-22 |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-28 |  |
-| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 |  |
+| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 | 2024-05-11 |
 | [High](https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [High](https://open.spotify.com/album/0FYyTg1VD43MPJygKRURKw) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [High](https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young Rising Sons](https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50) | 2:45 | 2022-06-27 | 2023-05-26 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-06-27 | 2022-11-13 |
@@ -327,6 +327,7 @@
 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 | 2022-03-11 | 2022-04-21 |
 | [Misery](https://open.spotify.com/track/3YJMGrb0llOyTqnyXupSkd) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Where Do We Go From Here](https://open.spotify.com/album/0vgdTFqVOzRDO2r9JXACsZ) | 3:00 | 2021-03-10 | 2022-07-29 |
 | [Miss You Like Hell](https://open.spotify.com/track/4NIyXRHoYAZ0yHAzVRZlw4) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Miss You Like Hell](https://open.spotify.com/album/7BDaq7K6wpgDe1rDjYd4AA) | 3:09 | 2021-03-10 | 2022-06-24 |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-10 |  |
 | [Mixtape 2003](https://open.spotify.com/track/5UDLKwnWf824mozRavgsgg) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/0HsshKJ9aGPK4i7xtHdEyb) | 3:24 | 2021-03-10 | 2022-07-29 |
 | [Mixtape 2003](https://open.spotify.com/track/4TICpB1Y6C8b6EK2Ga275x) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Mixtape 2003](https://open.spotify.com/album/2QcJ99k8skz7nxF2l4D4IH) | 3:24 | 2022-07-29 | 2022-12-03 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-10-13 |  |

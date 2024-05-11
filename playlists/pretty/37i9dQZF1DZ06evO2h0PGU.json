@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 44367,
+  "num_followers": 44382,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAACReLo91olZo0t6/YLxlTSD",
+  "snapshot_id": "ZjwSAAAAAACWXN96w5Q9YQh6zawjm0D9",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 313386,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 135906,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 302160,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4vMyguvxYgpVfn6m9obaEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 135906,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 184126,
-      "name": "Poor Song",
-      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
         "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 210066,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 184126,
+      "name": "Poor Song",
+      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Rockers To Swallow",
+      "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 177693,
       "name": "Mystery Girl",
       "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Rockers To Swallow",
-      "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
     },
     {
       "added_at": null,

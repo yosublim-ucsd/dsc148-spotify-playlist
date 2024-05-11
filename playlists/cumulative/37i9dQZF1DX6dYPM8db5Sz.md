@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=HygMrlfuRFKm5a\-fVJpa9w">Internet Girl</a>
 
-723 songs - 1 day 17 hr 12 min
+724 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Sweet Like Candy](https://open.spotify.com/track/11XbBDRzrP200Vj17JOoVw) | [Melamode](https://open.spotify.com/artist/2p6RjVQV8VPibJabFDXhOi), [Ashleigh Ramsoomar](https://open.spotify.com/artist/5Nohu1KNPOhTvmmQJuK4r7) | [Sweet Like Candy](https://open.spotify.com/album/5JI713XtphDV4TDgbZN2n4) | 2:46 | 2022-09-02 | 2022-10-21 |
 | [Swim Back](https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Swim Back](https://open.spotify.com/album/4oAb0GaGkYtX3N9h89FpKt) | 4:34 | 2023-03-02 | 2023-04-15 |
 | [Sydney's Eyes](https://open.spotify.com/track/1IrcJEIzztLjlnY8QKWUGM) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V) | [Hard to Bleed a Winter](https://open.spotify.com/album/1LEffN4WIGVnFiFgvLkdCv) | 2:47 | 2024-02-29 | 2024-04-07 |
+| [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-09 |  |
 | [Take A Moment](https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Take A Moment](https://open.spotify.com/album/094V806M9aCaRlIRMAtBvD) | 3:26 | 2023-05-18 | 2023-07-07 |
 | [Take Me Home](https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E), [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s), [Paul Timitch](https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS) | [Take Me Home](https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T) | 2:20 | 2024-01-26 |  |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2022-11-24 | 2023-01-13 |
@@ -693,7 +694,7 @@
 | [Where Are You?](https://open.spotify.com/track/4gSpaf6cVMZgPVqwl3BUrT) | [Katy Hallauer](https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm) | [Not So Bad Down Here](https://open.spotify.com/album/7fCXNPx7cQlXwJZ1G6dd1G) | 3:43 | 2023-10-06 | 2023-12-22 |
 | [Wherever You Go](https://open.spotify.com/track/1BhmdVGe9VdfcoB3MWZQfU) | [Miles Sievwright](https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08) | [Wherever You Go](https://open.spotify.com/album/6Daj5SCEbrRk4VZAjE673z) | 4:09 | 2023-10-06 | 2023-12-22 |
 | [White Collar Kings](https://open.spotify.com/track/7GH9I49Uz6fU3kqoB1jK2v) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Querencia](https://open.spotify.com/album/5WujsrVJKPjAL7UA9xvN8I) | 5:45 | 2024-01-11 | 2024-01-27 |
-| [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 | 2022-11-17 |  |
+| [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 | 2022-11-17 | 2024-05-11 |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2024-01-11 | 2024-02-02 |
 | [Who am I to follow](https://open.spotify.com/track/3N1ymSDgFeaApDPTZ8f4lW) | [Double Comfort Safari](https://open.spotify.com/artist/1hIiJTji8IMwDhlYLZSv3O) | [Who am I to follow](https://open.spotify.com/album/54PzuZVWLC8pw4wVzKIptT) | 2:46 | 2022-09-02 | 2022-12-09 |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2023-01-12 | 2023-01-21 |

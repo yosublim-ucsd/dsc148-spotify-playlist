@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164347,
       "name": "El Farsante",
       "url": "https://open.spotify.com/track/2NU9AmoSeamXEqIiH8DkOl"
@@ -2216,11 +2216,15 @@
         {
           "name": "Simon Aguirre",
           "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
@@ -3136,10 +3140,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "album": {
+        "name": "50 A\u00f1os En Vivo - Parte 1",
+        "url": "https://open.spotify.com/album/3iu4XIrQyMusS2ZmL7RlFh"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207547,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7JSfpnY4shEyEPSKttQ4Mr"
     },
     {
       "album": {
@@ -4200,7 +4222,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 165802,
       "name": "Media o Miedo",
       "url": "https://open.spotify.com/track/4wGBDsmzXpjJleMCfYjffU"
@@ -6075,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Que Espere",
+        "url": "https://open.spotify.com/album/2legYxPZPFBVKqIvX4tfV4"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159467,
+      "name": "Que Espere",
+      "url": "https://open.spotify.com/track/3XikkOcC4JS28G9Mflmv71"
+    },
+    {
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -6366,6 +6406,24 @@
       "duration_ms": 199666,
       "name": "Recreo",
       "url": "https://open.spotify.com/track/6eZqovhe0LPyiphM1fU0uk"
+    },
+    {
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/1hQBXJutHCdaGDGZ2rz7xw"
+      },
+      "artists": [
+        {
+          "name": "Dani Guardia",
+          "url": "https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183775,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/5Aor1ESdLs6CGeq2n4mq5i"
     },
     {
       "album": {
@@ -7232,7 +7290,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"

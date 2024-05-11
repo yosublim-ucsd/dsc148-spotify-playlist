@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Delfina Campos.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Hipn\u00f3tica.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "daigo parry",
+        "url": "https://open.spotify.com/album/1GnT4PsqOahmGczmhGXOPO"
+      },
+      "artists": [
+        {
+          "name": "Guacho Bleu",
+          "url": "https://open.spotify.com/artist/6aCzr3JU58kboMXNqu8QGo"
+        },
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190783,
+      "name": "daigo parry",
+      "url": "https://open.spotify.com/track/6TFMHx4XtnPMxsdy9CZCna"
+    },
+    {
+      "album": {
         "name": "Dame",
         "url": "https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J"
       },
@@ -852,6 +874,24 @@
       "duration_ms": 274048,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD"
+    },
+    {
+      "album": {
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
     },
     {
       "album": {
@@ -1864,7 +1904,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 208278,
       "name": "Luminosidad - Remix",
       "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
@@ -2118,7 +2158,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156198,
       "name": "NEFERTITI",
       "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
@@ -3008,7 +3048,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 199532,
       "name": "Sue\u00f1o con Encontrarte",
       "url": "https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR"
@@ -3204,6 +3244,24 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
+    },
+    {
+      "album": {
+        "name": "ZZZ",
+        "url": "https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia"
+      },
+      "artists": [
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132111,
+      "name": "trance ZZZ",
+      "url": "https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8"
     },
     {
       "album": {

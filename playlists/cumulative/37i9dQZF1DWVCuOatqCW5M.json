@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Lisa Mishra",
+  "description": "New music from popular Hindi artists. Cover- Neeti Mohan",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -3315,6 +3315,32 @@
     },
     {
       "album": {
+        "name": "Chaand Naya",
+        "url": "https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/7uJVIR1cnmatK6hNLwM4dH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149734,
+      "name": "Chaand Naya",
+      "url": "https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU"
+    },
+    {
+      "album": {
         "name": "Chaand Raaton Mein",
         "url": "https://open.spotify.com/album/6C3gdqqSmSh0iXqKXgVq9A"
       },
@@ -4990,7 +5016,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 141071,
       "name": "Dil Phisal Gaya (From \"Ruslaan\")",
       "url": "https://open.spotify.com/track/2gByGuAJrX0CEiffArfcSU"
@@ -5778,7 +5804,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 272756,
       "name": "Ek Samay",
       "url": "https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP"
@@ -8832,7 +8858,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 165600,
       "name": "Janeya",
       "url": "https://open.spotify.com/track/4YKzCbFKx3x5eNeSmq17fs"
@@ -10304,7 +10330,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 256157,
       "name": "Khaali Botal",
       "url": "https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG"
@@ -14788,7 +14814,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200731,
       "name": "O Mere Humnava",
       "url": "https://open.spotify.com/track/3Vyl76HekUQqZ88sLGs3eh"
@@ -15086,6 +15112,32 @@
       "duration_ms": 202971,
       "name": "Pankhida",
       "url": "https://open.spotify.com/track/68IpjVvn6tpWlYZhAxG1zX"
+    },
+    {
+      "album": {
+        "name": "Paon Ki Jutti",
+        "url": "https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208965,
+      "name": "Paon Ki Jutti",
+      "url": "https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9"
     },
     {
       "album": {
@@ -15390,7 +15442,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 168038,
       "name": "Pehla Ishq (From \"Ruslaan\")",
       "url": "https://open.spotify.com/track/7diHfiJLqldJxgyCBg6KbC"
@@ -15650,6 +15702,28 @@
       "duration_ms": 194596,
       "name": "Piya Ki Najariya",
       "url": "https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl"
+    },
+    {
+      "album": {
+        "name": "Piya Mere",
+        "url": "https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH"
+      },
+      "artists": [
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193144,
+      "name": "Piya Mere",
+      "url": "https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh"
     },
     {
       "album": {
@@ -17435,6 +17509,54 @@
     },
     {
       "album": {
+        "name": "sau dafa",
+        "url": "https://open.spotify.com/album/62UjvbblUsIpURi3JHSAkt"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114870,
+      "name": "sau dafa",
+      "url": "https://open.spotify.com/track/1zj70llHSvmKn72FU4iAQI"
+    },
+    {
+      "album": {
+        "name": "Sau Sau Sorriyan",
+        "url": "https://open.spotify.com/album/6E65RfqAjnY4YbWeZaxiIT"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Sushant Shankar",
+          "url": "https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx"
+        },
+        {
+          "name": "Samar Monsoon",
+          "url": "https://open.spotify.com/artist/6dJmxdcLdIIvrzlGynyzBw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191622,
+      "name": "Sau Sau Sorriyan",
+      "url": "https://open.spotify.com/track/3fXfEO6MCoZthE2KXDBtPZ"
+    },
+    {
+      "album": {
         "name": "Sau Vaari",
         "url": "https://open.spotify.com/album/5eSjylIgozUYpgCbxzN0Kx"
       },
@@ -17904,6 +18026,32 @@
       "duration_ms": 257708,
       "name": "Sohnneyaa",
       "url": "https://open.spotify.com/track/4hOAIY6vOH5GUxJHe1FilI"
+    },
+    {
+      "album": {
+        "name": "Sonchadi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Kamla Devi",
+          "url": "https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Sonchadi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
     },
     {
       "album": {
@@ -19241,6 +19389,28 @@
     },
     {
       "album": {
+        "name": "Teri Galiyon Mein",
+        "url": "https://open.spotify.com/album/10jdDbZu9hYWLANsFYMTfS"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/6rN6kmxhP2vvWehNDNXE3i"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321219,
+      "name": "Teri Galiyon Mein",
+      "url": "https://open.spotify.com/track/4e1qJZRo1q8ZSRFLtl5ENT"
+    },
+    {
+      "album": {
         "name": "Teri Haan Na",
         "url": "https://open.spotify.com/album/6A90hWdp94Xtz0eSZ1WnrY"
       },
@@ -20344,7 +20514,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 235800,
       "name": "Tu Meri Hai",
       "url": "https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl"
@@ -20462,7 +20632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 237041,
       "name": "Tu Naazneen",
       "url": "https://open.spotify.com/track/0RqaaN7XoGAR6pJEqO07pW"
@@ -21974,6 +22144,28 @@
       "duration_ms": 177272,
       "name": "Zahir",
       "url": "https://open.spotify.com/track/1J86cSSBnwaYRnkfg8TmeS"
+    },
+    {
+      "album": {
+        "name": "Zakhm Purana",
+        "url": "https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Zakhm Purana",
+      "url": "https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc"
     },
     {
       "album": {

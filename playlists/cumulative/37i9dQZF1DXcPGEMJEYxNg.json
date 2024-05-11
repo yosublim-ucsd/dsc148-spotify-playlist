@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183052,
       "name": "HATELOVE - Spotify Single",
       "url": "https://open.spotify.com/track/0aqsHz5aoW0370n2fxXJc4"
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/0nFAXkI410uaQ5TOESio7a"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175221,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/0GHFgozyO1h5aa6D3Q6qxC"
+    },
+    {
+      "album": {
         "name": "I Am The Best",
         "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 229600,
       "name": "in my head - Spotify Singles",
       "url": "https://open.spotify.com/track/6tjO12ONcOp5qB129t7DTV"
@@ -2251,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "Lose My Breath (Feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Lose My Breath (Feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca"
+    },
+    {
+      "album": {
         "name": "The Cleaning Lady: Season 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u"
       },
@@ -2532,9 +2572,9 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 307675,
-      "name": "MIC Drop (Steve Aoki Remix) - Full Length Edition",
+      "name": "MIC Drop (Steve Aoki Remix) (Full Length Edition)",
       "url": "https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH"
     },
     {
@@ -2872,7 +2912,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 159112,
       "name": "Outside (RHEAMIX) - Spotify Singles",
       "url": "https://open.spotify.com/track/5yhyupaHwYR8hPDqlu2yB3"
@@ -3433,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -3904,7 +3962,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217040,
       "name": "This Isn't Me",
       "url": "https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2"
@@ -4268,6 +4326,28 @@
       "duration_ms": 214893,
       "name": "Wildfire - Reimagined",
       "url": "https://open.spotify.com/track/6ENsTPfqZ0Y9QdGpqN30zg"
+    },
+    {
+      "album": {
+        "name": "House on a Hill (Deluxe)",
+        "url": "https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Wish I Didn't Care (feat. Lyn Lapid)",
+      "url": "https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW"
     },
     {
       "album": {

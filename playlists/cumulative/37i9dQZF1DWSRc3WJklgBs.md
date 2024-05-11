@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,282 songs - 3 day 2 hr 28 min
+1,284 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fever](https://open.spotify.com/track/60LqGQ9H0edzxwy2xhH5Sr) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Fever](https://open.spotify.com/album/0YodQ3wlAqMCSVWXs9aYFO) | 2:44 | 2022-04-29 | 2024-04-10 |
 | [Fighting For You](https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Come True](https://open.spotify.com/album/3d8NRzwbtsrbyfYE3JRSZQ) | 2:53 | 2023-11-10 |  |
+| [Find A Way](https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Find A Way](https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8) | 3:32 | 2024-05-10 |  |
 | [Find a Way \(feat\. Rudy\)](https://open.spotify.com/track/4xRxj8myDxZb85dMeCQGWV) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Rudy](https://open.spotify.com/artist/3zfUeJ7cYJuM0jbKoU64Ip) | [Find a Way \(feat\. Rudy\)](https://open.spotify.com/album/1Z0KvxdQdB4yF68aG4vVqv) | 3:31 | 2019-08-09\* | 2019-08-27 |
 | [Find A Way \(Radio Edit\)](https://open.spotify.com/track/65cjjzex50irvm6To3CNbq) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd), [Shayon TheHitman](https://open.spotify.com/artist/30HKXAVQ0CaQCwuKv45V0s) | [Find A Way \(feat\. Gary Pine & Shayon TheHitman\)](https://open.spotify.com/album/06SvTmsWNKzmgbBUkdbaSf) | 3:51 | 2019-08-09\* | 2019-08-27 |
 | [Find Our Way \- Feenixpawl Remix](https://open.spotify.com/track/4XzdxE1HXwogDM3MJMR3xr) | [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [Find Our Way \(Remixes\)](https://open.spotify.com/album/1bS00A1F8wIRrIQKnXaAto) | 4:28 | 2019-08-09\* | 2020-03-29 |
@@ -443,6 +444,7 @@
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-11 | 2022-12-03 |
 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 | 2023-06-30 |  |
 | [Heartbeat](https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [Heartbeat](https://open.spotify.com/album/0MVgMaCm6Mw31VnAoliGiY) | 2:50 | 2021-04-24 | 2022-05-14 |
+| [Heartbreak](https://open.spotify.com/track/269hT1ugct4fdJ2dmB20SJ) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Heartbreak](https://open.spotify.com/album/4AwEMmqkq5iLXpjHlXF6GR) | 3:56 | 2024-05-10 |  |
 | [hearts <3](https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH) | [Dariush](https://open.spotify.com/artist/3C4HKKPCdlK3Sn9ik1WDkP), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [bb break fast](https://open.spotify.com/album/5xQytuElt7kUQ3Pus9fdmr) | 4:57 | 2023-05-01 | 2024-04-19 |
 | [Heartstrings](https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Heartstrings](https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90) | 3:31 | 2022-09-09 | 2024-04-10 |
 | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/album/3gzzOdF1CxP1Sa9wihhdrE) | 3:21 | 2022-02-04 | 2023-06-17 |

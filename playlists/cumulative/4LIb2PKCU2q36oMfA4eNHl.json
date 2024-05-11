@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Three +",
+        "url": "https://open.spotify.com/album/4pnU9CGKI2YneVwkqK6EIN"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430769,
+      "name": "I'll Miss the System Here",
+      "url": "https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU"
+    },
+    {
+      "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 219000,
       "name": "Lilo",
       "url": "https://open.spotify.com/track/0ZTzCztdWzB6vlXrebWJzI"

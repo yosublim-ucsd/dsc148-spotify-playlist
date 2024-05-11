@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Crank it up\. Cover: Brantley Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,885 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 58 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 |
 | 59 | [Yeah](https://open.spotify.com/track/2VhHhttQgFrD64SR4XHG2z) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Yeah](https://open.spotify.com/album/0tGtrk0sEqiICRVTYhyc54) | 3:17 |
 | 60 | [Remember My Name](https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [Remember My Name](https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H) | 3:04 |
-| 61 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 |
-| 62 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 |
+| 61 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 |
+| 62 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 |
 | 63 | [Get Her Done \(feat\. Bottleneck\)](https://open.spotify.com/track/1bePzEP477kCICdIjzxHZ6) | [Danny Duke](https://open.spotify.com/artist/2CUDp2LDXSmGOC8JIfj2h3), [Bottleneck](https://open.spotify.com/artist/3bDyA9fZI4l6M7ho44Y4MN) | [Mud Bait & Tailgates](https://open.spotify.com/album/3lHtXuN1ezwEAw5Qkci1zW) | 3:08 |
 | 64 | [The Plane](https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM) | [Good Ol' Boyz](https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Green Handle](https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0) | 5:50 |
 | 65 | [Wanna Party](https://open.spotify.com/track/21Au6zdyh2iI5vvjh0asgU) | [6B.Low](https://open.spotify.com/artist/2WvijJThqSXOtdKY2Bd6JP), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Wanna Party](https://open.spotify.com/album/62wD8IRZLscTmndGFyxfOw) | 3:19 |

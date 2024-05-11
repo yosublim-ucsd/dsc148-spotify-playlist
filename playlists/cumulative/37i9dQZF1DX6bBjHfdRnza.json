@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Matisa. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Tsu Nami. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -6142,7 +6142,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 216393,
       "name": "cheap sunset",
       "url": "https://open.spotify.com/track/5eDYhm8wmwu36e7BBvjLnr"
@@ -8172,7 +8172,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171228,
       "name": "Dance With U",
       "url": "https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH"
@@ -8946,7 +8946,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 245035,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
@@ -13622,7 +13622,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
@@ -14498,6 +14498,24 @@
       "duration_ms": 180379,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/1aFVpLDlc604H4YxXuI3d5"
+    },
+    {
+      "album": {
+        "name": "Get U All The Way",
+        "url": "https://open.spotify.com/album/6w50vSF6vixfZkzINb354E"
+      },
+      "artists": [
+        {
+          "name": "Triple M",
+          "url": "https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Get U All The Way",
+      "url": "https://open.spotify.com/track/6dAvSMeDqy7PVAWGE7axm0"
     },
     {
       "album": {
@@ -20433,6 +20451,28 @@
     },
     {
       "album": {
+        "name": "LET THE MUSIC PLAY",
+        "url": "https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "LET THE MUSIC PLAY",
+      "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
+    },
+    {
+      "album": {
         "name": "Let UwU Go",
         "url": "https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg"
       },
@@ -20668,7 +20708,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217846,
       "name": "Light",
       "url": "https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G"
@@ -22093,6 +22133,24 @@
     },
     {
       "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/2ep0Vyr7OQTvDwgxzAJRbd"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "Maestro",
+      "url": "https://open.spotify.com/track/1I5vlHztbXa5Tx7nFeEVJS"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/6qc6UpI52MHNnisCAZkArm"
       },
@@ -22112,6 +22170,24 @@
       "duration_ms": 202943,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4oJF0tKuwU26s6MZkQ2ahU"
+    },
+    {
+      "album": {
+        "name": "Magic Garden EP",
+        "url": "https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf"
+      },
+      "artists": [
+        {
+          "name": "II Faces",
+          "url": "https://open.spotify.com/artist/4hZL4r9HYfZy8kg5orn3e1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173507,
+      "name": "Magic Garden",
+      "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
     },
     {
       "album": {
@@ -26164,7 +26240,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205714,
       "name": "One More Chance",
       "url": "https://open.spotify.com/track/5RWaoorATy51bTcKH4iEuF"
@@ -28332,7 +28408,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167533,
       "name": "push",
       "url": "https://open.spotify.com/track/70rHOpWK2D0T4unIzANPL0"
@@ -31136,6 +31212,24 @@
       "duration_ms": 219545,
       "name": "Sizzla - Edit",
       "url": "https://open.spotify.com/track/55p8uGUOw2KFL2fuC4PUr1"
+    },
+    {
+      "album": {
+        "name": "Skin Like Rose",
+        "url": "https://open.spotify.com/album/5XoSV636RoJDTxMhaeuEYH"
+      },
+      "artists": [
+        {
+          "name": "Kimswim",
+          "url": "https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Skin Like Rose - SINGLE / SPLIT EP",
+      "url": "https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt"
     },
     {
       "album": {
@@ -37113,6 +37207,24 @@
     },
     {
       "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
+    },
+    {
+      "album": {
         "name": "Slicc",
         "url": "https://open.spotify.com/album/07xPh1MT8Y2pJlxbH0FGkp"
       },
@@ -37590,6 +37702,28 @@
       "duration_ms": 204029,
       "name": "ur holding me back",
       "url": "https://open.spotify.com/track/6lLqigWFdVRAtPSp9CkTHe"
+    },
+    {
+      "album": {
+        "name": "UR SO GOOD (Everything I Need)",
+        "url": "https://open.spotify.com/album/5M3O0SWZTxgivMtraluEze"
+      },
+      "artists": [
+        {
+          "name": "De Facto!!",
+          "url": "https://open.spotify.com/artist/4iK9LUQulxNjKxUQLAkIRs"
+        },
+        {
+          "name": "DJ Fruit Salad",
+          "url": "https://open.spotify.com/artist/68i7ezU149Uwm2KtqdPR74"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185744,
+      "name": "UR SO GOOD (Everything I Need)",
+      "url": "https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG"
     },
     {
       "album": {

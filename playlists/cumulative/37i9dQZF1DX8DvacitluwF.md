@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=jTSkWGyPQEyp5bSnVk6kDQ>Sio</a>
 
-241 songs - 12 hr 44 min
+242 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 |  |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-10-12 | 2024-01-26 |
+| [Far Away](https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:53 | 2024-05-09 |  |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-16 | 2024-03-15 |
 | [Fear](https://open.spotify.com/track/5lntfXi9Feo5T1xR6mTnvR) | [Lastee](https://open.spotify.com/artist/02fHk4FBRa87bllGfMAf15) | [Fear](https://open.spotify.com/album/4wLHbwdD3Kc5nt73qOFixR) | 2:24 | 2023-10-12 | 2023-10-27 |
 | [feeling lonely](https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Blicbee](https://open.spotify.com/artist/4js9YFDtEQAB96RAktFmv5) | [feeling lonely](https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX) | 2:10 | 2023-12-08 | 2024-03-22 |

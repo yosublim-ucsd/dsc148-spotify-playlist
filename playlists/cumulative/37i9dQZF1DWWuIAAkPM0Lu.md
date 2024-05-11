@@ -2,9 +2,9 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> <a href="spotify:artist:4ysmSq2N7badobfVT6YZ82">Gobs</a> giver dig fuld pop på New Music Friday <a href="spotify:track:3rGYQLxtPkFSgrEPkgUX5t"></a>☀️
+> <a href="spotify:artist:4ysmSq2N7badobfVT6YZ82">Gobs</a> giver dig fuld pop på New Music Friday☀️
 
-311 songs - 15 hr 44 min
+313 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Black and Blue](https://open.spotify.com/track/6vnxOJlA5qohpdTw9mLYTW) | [Ameli Dot](https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh) | [The Truth](https://open.spotify.com/album/5CGHew4ZZX1K4l8jRxqEYa) | 2:53 | 2024-05-09 |  |
 | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3) | 2:57 | 2024-05-02 | 2024-05-10 |
 | [Blå blink](https://open.spotify.com/track/3uCqbDC5Q3Vs123TCdnlL6) | [Lasse Dein](https://open.spotify.com/artist/11MpPrD95OIIynm9diO6LW) | [Blå blink](https://open.spotify.com/album/73LblRNq2piOzxgw7yz5AG) | 2:45 | 2024-05-09 |  |
+| [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 |  |
 | [Bodily Synesthesia](https://open.spotify.com/track/29o3RoZ4RqD47HoPlaZ3Fy) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Sensory Blending](https://open.spotify.com/album/3xDxrKGPgQnqGGt3gePoG9) | 5:32 | 2024-04-26 | 2024-05-03 |
 | [Bollet En Nordmand \(feat\. Mario Riera\)](https://open.spotify.com/track/4ie8pperNOMrPHDi3Jko7p) | [Tes Boys](https://open.spotify.com/artist/0h0hqxByAxH4bi45rjwHj9), [Mario Riera](https://open.spotify.com/artist/2zLFjmNLNfgabGLbJsGxgk) | [Bollet En Nordmand \(feat\. Mario Riera\)](https://open.spotify.com/album/3z3FwHjuEhTzLF79r6pQok) | 3:03 | 2024-04-26 | 2024-05-03 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
@@ -174,7 +175,8 @@
 | [Leave Tonight](https://open.spotify.com/track/00CxTPBETcBko91D5mkIDh) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Leave Tonight](https://open.spotify.com/album/1IYBvgDWiy04zCbJXvUyoJ) | 2:33 | 2024-04-26 | 2024-05-03 |
 | [Let Go / I'm Fresh](https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Let Go / I'm Fresh](https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5) | 3:09 | 2024-05-09 |  |
 | [ligemeget](https://open.spotify.com/track/31y0qbGZCo16V3bLBvq1ze) | [YAKUZA](https://open.spotify.com/artist/0kaFVAigKQNC5TaXTo7Cm7) | [ligemeget](https://open.spotify.com/album/6JklVxuR7V4vbE9m6tzcqP) | 2:17 | 2024-05-02 | 2024-05-10 |
-| [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 |  |
 | [Losing Control](https://open.spotify.com/track/0w0fxhE6scOvfZfH87f99m) | [Alan Olewnik](https://open.spotify.com/artist/5n7sifOhlAeZ7LjClGXJ6B) | [Losing Control](https://open.spotify.com/album/67dN27NUTodOqPpdymdgFe) | 2:22 | 2024-04-26 | 2024-05-03 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-05-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-13",
-  "description": "A happy place, featuring Purple Disco Machine",
+  "description": "A happy place \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
   "name": "DISCOLAND",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
+    },
+    {
+      "album": {
+        "name": "A&S",
+        "url": "https://open.spotify.com/album/6axKcYTdVeXG0eRyZOHn2p"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Roisto",
+          "url": "https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200475,
+      "name": "A&S",
+      "url": "https://open.spotify.com/track/627wB1SaZ0HHinIiubj3UE"
     },
     {
       "album": {
@@ -214,6 +236,24 @@
       "duration_ms": 181308,
       "name": "All I've Got",
       "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
+    },
+    {
+      "album": {
+        "name": "all that i need <3",
+        "url": "https://open.spotify.com/album/4Yz17Mm0cDRlPmwVjSicZc"
+      },
+      "artists": [
+        {
+          "name": "Ferreck",
+          "url": "https://open.spotify.com/artist/5FXo34s8nIRwldo6Vrh6Pf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126048,
+      "name": "all that i need <3",
+      "url": "https://open.spotify.com/track/1bOMu54t2s2r8bWUNZpKHf"
     },
     {
       "album": {
@@ -1116,7 +1156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 381172,
       "name": "Dancing Down The Path",
       "url": "https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ"
@@ -3787,6 +3827,32 @@
     },
     {
       "album": {
+        "name": "Loneliness (feat. Alison Crockett) [DJ Meme Remix]",
+        "url": "https://open.spotify.com/album/6tHOBtRGJfWndhxU9xQ9FD"
+      },
+      "artists": [
+        {
+          "name": "Ch\u2019i",
+          "url": "https://open.spotify.com/artist/4SfaQ9G6Z0fuqCvf2nmy8g"
+        },
+        {
+          "name": "Alison Crockett",
+          "url": "https://open.spotify.com/artist/6yPQ9WW3DAo34qMOBegR4d"
+        },
+        {
+          "name": "DJ Meme",
+          "url": "https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230409,
+      "name": "Loneliness (feat. Alison Crockett) - DJ Meme Remix",
+      "url": "https://open.spotify.com/track/5828QTN983uyoKKdLMWuwo"
+    },
+    {
+      "album": {
         "name": "Losers (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/1oSiIn6xeyDl5Ode3dHrU4"
       },
@@ -4114,7 +4180,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 206600,
       "name": "Loving You So Bad",
       "url": "https://open.spotify.com/track/0dOgI06dl4clN7SNUJgvqF"
@@ -5092,7 +5158,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 243934,
       "name": "Nobody - The Reflex Revision",
       "url": "https://open.spotify.com/track/7MPiDa4hxtSRWSRs4ZATyz"
@@ -5216,7 +5282,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213387,
       "name": "One More - Mark Knight Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/5fboV4lAqb0MC0YPdit8o1"
@@ -5544,6 +5610,28 @@
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/5j8xtKpXFKalXAn7GtbHlw"
+      },
+      "artists": [
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/1igxWL3hFmQTISSoq2KvYq"
     },
     {
       "album": {
@@ -7170,7 +7258,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 395288,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR"
@@ -7270,6 +7358,28 @@
       "duration_ms": 213578,
       "name": "U Want More",
       "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
+    },
+    {
+      "album": {
+        "name": "UR SO GOOD (Everything I Need)",
+        "url": "https://open.spotify.com/album/5M3O0SWZTxgivMtraluEze"
+      },
+      "artists": [
+        {
+          "name": "De Facto!!",
+          "url": "https://open.spotify.com/artist/4iK9LUQulxNjKxUQLAkIRs"
+        },
+        {
+          "name": "DJ Fruit Salad",
+          "url": "https://open.spotify.com/artist/68i7ezU149Uwm2KtqdPR74"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185744,
+      "name": "UR SO GOOD (Everything I Need)",
+      "url": "https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG"
     },
     {
       "album": {

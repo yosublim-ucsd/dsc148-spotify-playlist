@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-561 songs - 23 hr 39 min
+562 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Makeba \(Tiktok Remix\)](https://open.spotify.com/track/2xE5tQ9wMkN0KcsoNSEax7) | [Pier Tunes](https://open.spotify.com/artist/3dq7EAXgVfLhuBHQZ5sI9t) | [Makeba \(Tiktok Remix\)](https://open.spotify.com/album/76Fh7bWPrR2FvbfHoQ5Jyd) | 2:22 | 2023-06-25 | 2023-07-03 |
 | [Maniac](https://open.spotify.com/track/1vY1s5SzWlksdLEa5erp18) | [LAVANT](https://open.spotify.com/artist/3tLBrZPWCDnCMRVSvE6wFv) | [Maniac](https://open.spotify.com/album/5qSlUGhGA07AmizswfaCdw) | 2:23 | 2023-07-24 | 2023-09-26 |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2023-06-12 |  |
+| [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-05-10 |  |
 | [Mata Leão](https://open.spotify.com/track/3rgCPszxlbZswRL0QtEYoK) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [Mata Leão](https://open.spotify.com/album/61eIrD5bI0hCKKKqbij8m0) | 2:38 | 2023-09-08 | 2023-12-14 |
 | [Mean Girls](https://open.spotify.com/track/6PwNI9GCU40m6MQaSzwqKk) | [1of1](https://open.spotify.com/artist/16xUu0jxpkJahfbALyUyEV), [dentist](https://open.spotify.com/artist/2JN4zH19furaqCqlOkVrPz) | [Mean Girls](https://open.spotify.com/album/7c2CNMqtnonrCPrVU1dw5F) | 1:23 | 2023-06-12 | 2023-09-26 |
 | [Megapolis](https://open.spotify.com/track/1Xiw1Bydga3JQIUF8ptMO9) | [CNDI](https://open.spotify.com/artist/5NvTcOd0kGHI0IVi7kOqtM) | [Megapolis](https://open.spotify.com/album/2BYrsDJDnUPRtHF3zzfsUo) | 1:44 | 2023-09-17 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Blnko en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Odisseo en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 235840,
       "name": "Buena Cara",
       "url": "https://open.spotify.com/track/5Xp3EUWiKRdjfhXuiV7uU4"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 218806,
       "name": "Club de Fans de John Boy",
       "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 241297,
       "name": "El rock and roll pas\u00f3 de moda",
       "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 208000,
       "name": "MEDIA NOCHE",
       "url": "https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn"
@@ -5369,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "No M\u00e1s",
+        "url": "https://open.spotify.com/album/7G2tOKE4u6owz2xPe4TDNX"
+      },
+      "artists": [
+        {
+          "name": "Viniloversus",
+          "url": "https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147104,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3QLxl0ItyFeqbPauaW1XWv"
+    },
+    {
+      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -5698,6 +5716,24 @@
       "duration_ms": 72263,
       "name": "Odio la Prepa",
       "url": "https://open.spotify.com/track/23MIUBh3IYTeWk76uL2XEh"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5wj95nBNFeK1y2CsT2cCr5"
+      },
+      "artists": [
+        {
+          "name": "The Crab Apples",
+          "url": "https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2NuWsgQzctA8yBIgAgRVjD"
     },
     {
       "album": {
@@ -6564,6 +6600,24 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "album": {
+        "name": "Serenata de una ruta larga",
+        "url": "https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284919,
+      "name": "Serenata de una ruta larga",
+      "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"
     },
     {
       "album": {
@@ -7544,6 +7598,24 @@
       "duration_ms": 206582,
       "name": "Tus Pasos",
       "url": "https://open.spotify.com/track/3akV8nvN6BNxdwT6yacH08"
+    },
+    {
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "T\u00f3tem",
+      "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
     },
     {
       "album": {

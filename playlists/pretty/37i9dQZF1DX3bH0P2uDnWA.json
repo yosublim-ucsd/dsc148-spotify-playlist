@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379523,
+  "num_followers": 379548,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhfAAAAABGeRX9lTcSGnz5TbqMJjMi",
+  "snapshot_id": "Zj2b/AAAAAB1GRAyzCEcHDyxxZi8wWCH",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Lady Ella (Electro Swing Radio Mix)",
+        "url": "https://open.spotify.com/album/6Sfc7jx2x13T9lYPPkQx6L"
+      },
+      "artists": [
+        {
+          "name": "Swing Sonix",
+          "url": "https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "Lady Ella - Electro Swing Radio Mix",
+      "url": "https://open.spotify.com/track/17vcy6PBCwXui5qZ66ATHJ"
+    },
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
@@ -195,22 +211,6 @@
       "duration_ms": 159843,
       "name": "Barbie Girl - Electro Swing Remix",
       "url": "https://open.spotify.com/track/6aXMkpLI4aYeYCK2j3knI4"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dance (To Save Your Soul) [Electro Swing Radio Mix]",
-        "url": "https://open.spotify.com/album/1bhoYgDywsI5Nq8i7SCE3v"
-      },
-      "artists": [
-        {
-          "name": "Swing Sonix",
-          "url": "https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk"
-        }
-      ],
-      "duration_ms": 148278,
-      "name": "Dance (To Save Your Soul) - Electro Swing Radio Mix",
-      "url": "https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP"
     },
     {
       "added_at": "2023-11-06 13:47:16",

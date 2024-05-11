@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/1iSRp7cU9eDJqQXhU00vg3"
+      },
+      "artists": [
+        {
+          "name": "Candy Man",
+          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390295,
+      "name": "Chambers",
+      "url": "https://open.spotify.com/track/1fvE8vUJmBQQyuIOKYvgiz"
+    },
+    {
+      "album": {
         "name": "Chest (feat. PLXYGRND, Afrolektra)",
         "url": "https://open.spotify.com/album/2t69ZCzLoLxryeJpgIVYfU"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 241250,
       "name": "Chest (feat. PLXYGRND, Afrolektra)",
       "url": "https://open.spotify.com/track/5d9bdcMu72v7NvT4i5x7CL"
@@ -624,6 +642,24 @@
       "duration_ms": 360255,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4HeWkyuI8CoNMbRibOIj7c"
+    },
+    {
+      "album": {
+        "name": "Essensie",
+        "url": "https://open.spotify.com/album/6owsRMBu1McGPi3LP3ZMFX"
+      },
+      "artists": [
+        {
+          "name": "ReMMusic",
+          "url": "https://open.spotify.com/artist/6Q0XwlckSXlijQgDF9qe44"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348427,
+      "name": "Essensie",
+      "url": "https://open.spotify.com/track/3HaBzrILKCnvjmabxB7LnT"
     },
     {
       "album": {
@@ -1239,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "L'Amour",
+        "url": "https://open.spotify.com/album/2q0hnc4Pbhd1qAwrnHP7RP"
+      },
+      "artists": [
+        {
+          "name": "WUULA",
+          "url": "https://open.spotify.com/artist/2ZghFG1CP3hPuizO24iEbY"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279344,
+      "name": "L'Amour",
+      "url": "https://open.spotify.com/track/4CoDFjUTm985ta8hylhdmT"
+    },
+    {
+      "album": {
         "name": "Letha",
         "url": "https://open.spotify.com/album/37pYGgSdq1sWxw9UC6BJx8"
       },
@@ -1420,7 +1478,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 400500,
       "name": "Maasai People",
       "url": "https://open.spotify.com/track/0L4oSGeTlpiZTzxIqhS4uT"
@@ -1891,6 +1949,32 @@
     },
     {
       "album": {
+        "name": "Nomathemba (Enoo Napa Remix)",
+        "url": "https://open.spotify.com/album/2targcgqVDvfFbJoEae0Xk"
+      },
+      "artists": [
+        {
+          "name": "FiNE",
+          "url": "https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438847,
+      "name": "Nomathemba - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/7nY5my1s2KTOv42Kyp5TyF"
+    },
+    {
+      "album": {
         "name": "Ntinga Ntaka",
         "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
       },
@@ -2344,7 +2428,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 358421,
       "name": "Shweleza",
       "url": "https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t"
@@ -3060,7 +3144,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 524575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush"

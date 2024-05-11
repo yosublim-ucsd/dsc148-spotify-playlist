@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD\-0PtcBRSKfmvNyKerzaA">Zoë Modiga</a>
 
-216 songs - 23 hr 8 min
+218 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 | 2023-09-29 |  |
 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 | 2024-02-08 |  |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 | 2023-05-09 |
+| [Change](https://open.spotify.com/track/7cahHOmO7sCFEPDHUoxxyU) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Change](https://open.spotify.com/album/0JeO1Z8FsQom8wOrdCO1h5) | 5:01 | 2024-05-10 |  |
 | [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 |  |
 | [Chosi](https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Chosi](https://open.spotify.com/album/4GWzyQiFsfojuInUn28tFn) | 5:06 | 2022-04-28 | 2023-03-18 |
 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 | 2024-03-21 |  |
@@ -220,6 +221,7 @@
 | [Wynter Time](https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Turbulence and Pulse](https://open.spotify.com/album/09P4xEQuIgveCiY4vGQHrZ) | 9:27 | 2023-04-21 | 2024-04-19 |
 | [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 | 2023-04-21 | 2023-05-08 |
 | [Wynter Time](https://open.spotify.com/track/5KEYBBic34INiT0Ph4MYb1) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/6f9KaTsfK0qjw1o9eQT5Az) | 9:27 | 2024-04-11 |  |
+| [xandibona wena feat\. Thandi Ntuli](https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:03 | 2024-05-10 |  |
 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 | 2023-11-01 | 2023-11-17 |
 | [Yaka Yaka](https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Yaka Yaka](https://open.spotify.com/album/2bBnV2FWnWJx76qvvlAMcn) | 6:54 | 2023-03-17 | 2024-01-26 |
 | [You Told Your Mama Not To Worry](https://open.spotify.com/track/7axO9Gy3l3GZjdP5hgiaIP) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Boy's Doin' It](https://open.spotify.com/album/0Vmf9lPRAj6kMoyQKDg39c) | 7:20 | 2023-11-01 | 2023-11-17 |

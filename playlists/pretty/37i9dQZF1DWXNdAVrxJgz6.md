@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,314 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,442 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 36 | [Discúlpeme Amigo](https://open.spotify.com/track/6EUVkX1k1dpxb0uHqFA4NB) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:35 |
 | 37 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
 | 38 | [La Mejor Opción](https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [La Mejor Opción](https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU) | 3:36 |
-| 39 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
-| 40 | [Como Burro Sin Mecate](https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 2:51 |
+| 39 | [Como Burro Sin Mecate](https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 2:51 |
+| 40 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
 | 41 | [Tiene Razón La Lógica](https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:26 |
 | 42 | [Miénteme](https://open.spotify.com/track/45Hq0mHyzGBrZAItH7QU7j) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [18 Grandes Éxitos](https://open.spotify.com/album/3g1t9kHLgXKJQ9elwgjAkX) | 3:34 |
 | 43 | [Invisible](https://open.spotify.com/track/5fnb3Ubh7OdktXzUugk5WO) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Las Nuevas Inmortales](https://open.spotify.com/album/0WHkuG3EexyWKl6pB56R9N) | 2:56 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 86 | [Vanidosa](https://open.spotify.com/track/767Lvz98OdXrwJmR37w8ge) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Vanidosa](https://open.spotify.com/album/6C4fwzvUKYzmm9jRzd0KpH) | 3:07 |
 | 87 | [Capilla y Catedral \- En Vivo](https://open.spotify.com/track/1HUUmOYX87HzNNvteTnTeM) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Capilla y Catedral \(En Vivo\)](https://open.spotify.com/album/6IvwBKe0ZkMBAg52KWN8Mt) | 4:25 |
 | 88 | [Colores Alegres](https://open.spotify.com/track/4bHsVBo4y4pdYNZg7OO6Sw) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:52 |
-| 89 | [Casao Amargao](https://open.spotify.com/track/4jSjq8eCQkgj4b6hnv8Djz) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 3:43 |
-| 90 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/3J4LQVHwlOrppENUjFb0B7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/album/0A7y77cQkjOnLL9s2vnyfc) | 3:54 |
+| 89 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/3J4LQVHwlOrppENUjFb0B7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/album/0A7y77cQkjOnLL9s2vnyfc) | 3:54 |
+| 90 | [Casao Amargao](https://open.spotify.com/track/4jSjq8eCQkgj4b6hnv8Djz) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 3:43 |
 | 91 | [En la Calle y en la Ruina \- En Vivo](https://open.spotify.com/track/6bX5nRPeX7OOQKE2MetG4n) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [En la Calle y en la Ruina \(En Vivo\)](https://open.spotify.com/album/02QmperuBBn4etVtvZtZ2x) | 3:08 |
 | 92 | [Te Busco](https://open.spotify.com/track/4LRGjptIr1QmRNt79HXgvy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/3iywrfxYzfwlGChMImY6L6) | 3:02 |
 | 93 | [Mazatlán Carnaval](https://open.spotify.com/track/4w6HQOBMup9MoZStrN43pb) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 4:04 |

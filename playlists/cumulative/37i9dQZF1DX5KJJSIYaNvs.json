@@ -673,6 +673,32 @@
     },
     {
       "album": {
+        "name": "DESI TRILL Presents...Brown is Everywhere",
+        "url": "https://open.spotify.com/album/5A0U2TgDKVUifuVckuQuFN"
+      },
+      "artists": [
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        },
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146424,
+      "name": "Billo (feat. Natania)",
+      "url": "https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC"
+    },
+    {
+      "album": {
         "name": "Bol Kaffara Kya Hoga - Dj Chetas",
         "url": "https://open.spotify.com/album/7Ag7XBy1AML6KGE3tHxjJJ"
       },
@@ -910,6 +936,32 @@
       "duration_ms": 280837,
       "name": "Challa",
       "url": "https://open.spotify.com/track/4ugGqXCu47dobEUGhAb6Yc"
+    },
+    {
+      "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "A M Turaz",
+          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243792,
+      "name": "Chaudhavi Shab",
+      "url": "https://open.spotify.com/track/7p87RATknowYjH1siFCC3P"
     },
     {
       "album": {
@@ -2864,7 +2916,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 235947,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow"
@@ -6708,7 +6760,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 237209,
       "name": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/42tPERg9qp3EiwMId8Komc"

@@ -2047,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
+    },
+    {
+      "album": {
         "name": "Blow Your Whistle '21",
         "url": "https://open.spotify.com/album/5YpXJbZp7kyxUamyeBIGWd"
       },
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 276495,
       "name": "Cash For Love",
       "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
@@ -8637,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "album": {
         "name": "Knock Me Out",
         "url": "https://open.spotify.com/album/7iF1q8FsQ0cX0wzucxwmGC"
       },
@@ -13994,7 +14034,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 281904,
       "name": "Shook Pt. 3 - Radio Edit",
       "url": "https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW"

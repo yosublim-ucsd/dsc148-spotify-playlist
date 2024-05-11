@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早く。 cover: Sia
 
-3,653 songs - 8 day 20 hr 40 min
+3,654 songs - 8 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [COLORS](https://open.spotify.com/track/6R4fObJ9nCUnVj1e3BDLyg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [IN WONDER \- EP](https://open.spotify.com/album/3qInZr8LBwGHnz851luc80) | 3:57 | 2023-10-01 | 2023-10-23 |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-28 | 2024-02-19 |
 | [come again \- prod\. Sam is Ohm](https://open.spotify.com/track/6UlbTCudWIsQdIZkYHxTGA) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [come again \(prod\. Sam is Ohm\)](https://open.spotify.com/album/3zBf9ZyWrQS2A1GR27TiGs) | 3:41 | 2023-07-30 | 2023-08-28 |
+| [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-09 |  |
 | [COMFORTABLE](https://open.spotify.com/track/6iRAr0Wpief0CziTh11vuX) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/5CBrCNVSRAUS1uYa3yYidP) | 2:45 | 2023-10-01 | 2023-10-09 |
 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 | 2024-04-18 | 2024-04-26 |
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-20 | 2023-09-11 |

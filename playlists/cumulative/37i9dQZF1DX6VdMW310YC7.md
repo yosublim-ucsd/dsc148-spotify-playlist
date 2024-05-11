@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,618 songs - 4 day 15 hr 16 min
+1,619 songs - 4 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Give It Back](https://open.spotify.com/track/0CBa8Q66dSMUkxk2Ctd8jY) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-01-12 |
 | [Give It Up](https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Give It Up](https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u) | 5:16 | 2024-01-19 | 2024-04-06 |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-07-18 | 2020-10-09 |
+| [Glad I Found You \(feat\. George FitzGerald\) \- Club Mix](https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You \(feat\. George FitzGerald\) \[Club Mix\]](https://open.spotify.com/album/1HxflBDbLpn0KNKGehQZ6Y) | 5:24 | 2024-05-10 |  |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 |  |
 | [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 | 2024-04-19 |  |
 | [Gliding](https://open.spotify.com/track/6pQlrYdRh9ok8RH2KjERCR) | [Man with Roses](https://open.spotify.com/artist/0BBbzYKSv3a8JcZKmQ1sEK) | [Shadows](https://open.spotify.com/album/1HnPer7GKwHxaGYendApBx) | 3:37 | 2020-11-13 | 2021-03-06 |
@@ -1454,7 +1455,7 @@
 | [Thunda \(feat\. John Mendelsohn\) \- HNNY Remix](https://open.spotify.com/track/7FcN74qp11KkNO0Xd7WMxU) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Tim K](https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE), [John Mendelsohn](https://open.spotify.com/artist/7ex7EZNGzENqaqUoPO6HQi) | [Thunda \(feat\. John Mendelsohn\)](https://open.spotify.com/album/2qvSsqazvZPxxBF3aiunlM) | 7:02 | 2020-05-18 | 2020-07-03 |
 | [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2022-05-27 | 2022-12-29 |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-04-22 | 2022-12-29 |
-| [Tied To You \- Yotto Remix](https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Tied To You \(Yotto Remix\)](https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB) | 6:02 | 2024-04-19 |  |
+| [Tied To You \- Yotto Remix](https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Tied To You \(Yotto Remix\)](https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB) | 6:02 | 2024-04-19 | 2024-05-11 |
 | [Till The Sky Falls Down \- Monokini Beach Mix](https://open.spotify.com/track/2bYjOZefrwx8CiUFT8j7E6) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Loungelicious Vol.1](https://open.spotify.com/album/0McbWHbCfTaCe3t8LYza3R) | 3:07 | 2020-06-12 | 2020-07-03 |
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 |  |

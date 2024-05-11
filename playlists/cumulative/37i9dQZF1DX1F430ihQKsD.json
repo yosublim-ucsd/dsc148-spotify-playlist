@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Alicia Creti",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Geoffroy",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -4217,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Feu de garde",
+        "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201597,
+      "name": "La terre",
+      "url": "https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL"
+    },
+    {
+      "album": {
         "name": "Somnif\u00e8re",
         "url": "https://open.spotify.com/album/4OgOjuzYRDMh2t9fWCISHy"
       },
@@ -4962,6 +4980,24 @@
       "duration_ms": 174108,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW"
+    },
+    {
+      "album": {
+        "name": "Bedroom Sessions",
+        "url": "https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL"
     },
     {
       "album": {
@@ -5828,7 +5864,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 182993,
       "name": "Parc de Beauvoir",
       "url": "https://open.spotify.com/track/23vteRN3xyF8fZkSLDns2O"
@@ -7716,7 +7752,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192977,
       "name": "Tache d'encre",
       "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"

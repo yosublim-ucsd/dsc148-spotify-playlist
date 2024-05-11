@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "All Glory To God",
+        "url": "https://open.spotify.com/album/1vhkpRb5vJFhy9L1a04Lib"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177048,
+      "name": "All Glory To God",
+      "url": "https://open.spotify.com/track/7yQ8FJoFyHPPQo8hBkh5Ga"
+    },
+    {
+      "album": {
         "name": "All I Can",
         "url": "https://open.spotify.com/album/3XS8nJrWmR9Hs9SFa5T55I"
       },
@@ -19080,7 +19102,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 135302,
       "name": "UH HUH",
       "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"

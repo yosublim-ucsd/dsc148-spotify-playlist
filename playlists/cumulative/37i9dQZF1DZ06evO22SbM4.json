@@ -68,9 +68,27 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "date_added": "2024-05-10",
+      "date_added": "2024-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232894,
+      "name": "Fix'n To Break",
+      "url": "https://open.spotify.com/track/26YvZWW29FXHaSRQzajRYv"
+    },
+    {
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-05-11",
       "duration_ms": 175384,
       "name": "Forget About You",
       "url": "https://open.spotify.com/track/1METmonk8nOuH6rEl10P4Q"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 182465,
       "name": "Get to Gettin\u2019 Gone",
       "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 162352,
       "name": "Small Town Crazy",
       "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/37wfiB5kDHZbY5SeYlk7KE"
@@ -308,7 +326,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 179294,
       "name": "Where It Ends",
       "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"

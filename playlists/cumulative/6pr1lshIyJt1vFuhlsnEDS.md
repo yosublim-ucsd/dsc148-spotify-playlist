@@ -4,7 +4,7 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-197 songs - 15 hr 46 min
+198 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Binary Fusion](https://open.spotify.com/track/58JQX9mgorweze1ZDm4SGL) | [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Binary Fusion](https://open.spotify.com/album/5FgP0FVyAhVkU643BjjPWo) | 3:28 | 2023-05-26 | 2023-07-29 |
 | [Bionic Jungle](https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf) | [Marcal](https://open.spotify.com/artist/6XVtxL4WRwoEqB1BpLel6y) | [Cyber Dystopia](https://open.spotify.com/album/2vsc8k41jsAyDZj4iCkXVD) | 4:58 | 2023-02-11 | 2023-04-23 |
 | [Black Hole](https://open.spotify.com/track/1WA080AK1F8IMH9XXu4XUJ) | [Lautaro Ibañez](https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR), [Mart.in](https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg) | [Black Hole](https://open.spotify.com/album/7us8EpEFnMsbKqKMX1Y2PS) | 5:07 | 2023-01-09 | 2023-04-05 |
-| [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP) | 5:44 | 2023-06-22 |  |
+| [Black Triangles \- Metodi Hristov Remix](https://open.spotify.com/track/649rERDKx5gDY1wiWu3mlx) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Black Triangles \(Metodi Hristov Remix\)](https://open.spotify.com/album/1nxRk5EwgQi6HsonJUL2gP) | 5:44 | 2023-06-22 |  |
 | [Bloom](https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:38 | 2023-09-28 | 2024-02-11 |
 | [Bonafide \- LEVT Remix](https://open.spotify.com/track/5FgpZHbdw8Aou4HwATvzmf) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Bonafide \(LEVT Remix\)](https://open.spotify.com/album/1Wm3aDHPiII9CXyQxSi9mZ) | 4:09 | 2024-02-20 |  |
 | [Bonafide \- Metodi Hristov Remix](https://open.spotify.com/track/6dTiQl2Amw6FOyMswCeiZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Bonafide \(Metodi Hristov Remix\)](https://open.spotify.com/album/1jv047M2GaNKAI73hl1Zqg) | 3:42 | 2024-03-08 |  |
@@ -75,6 +75,7 @@
 | [Hullabaloo](https://open.spotify.com/track/1eLxTUcp8n1OwBWKZZkqjY) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq) | [On The Verge](https://open.spotify.com/album/5RgQ3I5zEI62SN2LfhEtjM) | 5:58 | 2023-04-22 | 2023-12-14 |
 | [Human Robot](https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Human Robot](https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a) | 6:56 | 2023-09-28 | 2024-02-11 |
 | [Hydra](https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Hydra](https://open.spotify.com/album/1MvcVnDrefnFTV3swzFAvs) | 4:30 | 2023-12-02 | 2024-02-11 |
+| [I Am Free \- Metodi Hristov Remix 2024](https://open.spotify.com/track/1d4qyBvLEsB0VJ16dMaamW) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [I Am Free \(Metodi Hristov Remix 2024\)](https://open.spotify.com/album/1OqN1XGq7AGaNki981N9hu) | 4:12 | 2024-05-10 |  |
 | [I wanna see u move](https://open.spotify.com/track/3hfFbnhW13OFOoFn1fZxQP) | [Mac Declos](https://open.spotify.com/artist/0e9hDO31D6ykXq2hDyjZgO) | [Hard work always pays off](https://open.spotify.com/album/0kmYFHmlws7IgZyb2X9HSW) | 5:18 | 2024-02-10 |  |
 | [Ibu 3000 \- Metodi Hristov Remix](https://open.spotify.com/track/6CcSPBapdwm6nw6kntZX9z) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Ibu 3000 \(Metodi Hristov Remix\)](https://open.spotify.com/album/27VNnOoz1oPkQjJcjS94vx) | 5:38 | 2024-01-19 |  |
 | [In My Dreams](https://open.spotify.com/track/0wxSwJfhXiph0NPFGEzqIy) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [In My Dreams](https://open.spotify.com/album/7mPn8nZRodInZ399Dd7ee4) | 3:35 | 2024-04-29 |  |

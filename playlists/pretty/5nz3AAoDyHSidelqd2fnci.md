@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 40 min 46 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 38 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Studio Chat 2](https://open.spotify.com/track/0SUJ4mYRbIP7f7KMhKRO7A) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 0:27 |
-| 2 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
-| 3 | [Nerve](https://open.spotify.com/track/5ha26QNB14OfAVXRltktnu) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Stabbing the drama](https://open.spotify.com/album/5paSnseHzLVGT2a0qucycX) | 3:38 |
-| 4 | [Corazones Rojos](https://open.spotify.com/track/5NYxfT0iPnkNW1TRWGLxHx) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Antología: Su Historia y Sus Éxitos](https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4) | 3:33 |
-| 5 | [Destroyer of the Universe](https://open.spotify.com/track/5Yq6o938MU67LT4XeqjiTT) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:41 |
-| 6 | [Nightrain](https://open.spotify.com/track/2vNw57KPaYDzkyPxXYUORX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:26 |
-| 7 | [Seventeen Ain't So Sweet](https://open.spotify.com/track/5IDX0MHaL3YTD53qWDphYZ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:22 |
-| 8 | [Cutting Ties](https://open.spotify.com/track/7HQHTxc7F8k0fnlQMiaMna) | [Talking Points](https://open.spotify.com/artist/0HOOEubA7zC2e5UXtKHNyG) | [Cutting Ties](https://open.spotify.com/album/4lTbFn2sXX0s94c15wQGQ1) | 4:17 |
-| 9 | [Fool The World](https://open.spotify.com/track/6gUkuqo8PXOjpiPx3qkL0y) | [Hazen Street](https://open.spotify.com/artist/37F9JhFnJdNFJvI0QXMgWc) | [Hazen Street](https://open.spotify.com/album/6S56sjh3ISiVzocqqIVfrg) | 3:21 |
-| 10 | [Thank You, Pain](https://open.spotify.com/track/0DNqmTzg21AVqL4WFDZ9OT) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Lullabies For The Dormant Mind](https://open.spotify.com/album/4wkPLVKMtyHnzaZGRK1JiE) | 3:44 |
-| 11 | [El Arrepentido \- Unplugged Version](https://open.spotify.com/track/5vehS1Mn1elSbjNryzByoy) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 2:33 |
-| 12 | [Falling Away from Me](https://open.spotify.com/track/459eFLJCZurCcULoRQF2b0) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 4:30 |
+| 1 | [Ignition](https://open.spotify.com/track/50tVIVCKbRHn0wUvvWHkh5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade \(Special Edition\)](https://open.spotify.com/album/0xfsWTrOdJ5SeROGwx981O) | 3:54 |
+| 2 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
+| 3 | [Molinos De Viento](https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La Leyenda De La Mancha](https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7) | 4:11 |
+| 4 | [STRANGER](https://open.spotify.com/track/3kCldWYIhSy8kEvAWo1VJm) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [STRANGER](https://open.spotify.com/album/6gSBxqPuN6AXr7fex6doay) | 2:27 |
+| 5 | [All I Need](https://open.spotify.com/track/24YMfPZROqG0FGrxXSUcpR) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:05 |
+| 6 | [Cello](https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 1:33 |
+| 7 | [Bohemian Rhapsody \- Live Aid](https://open.spotify.com/track/7xHATAMD7ezTZGYsNAMr5R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 2:27 |
+| 8 | [Black Box Messiah](https://open.spotify.com/track/3jMLV1tx7XJmpruB2u0tDB) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Pandoras Pinata](https://open.spotify.com/album/35QqILuoqqywpmYbx3DfF1) | 2:57 |
+| 9 | [So You Win Again](https://open.spotify.com/track/1tMi57U5Nkk6qRZSNwbzQr) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:31 |
+| 10 | [Aces High](https://open.spotify.com/track/0M9DMRvqGZWKxg3DQtYEic) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder \(International Edition\)](https://open.spotify.com/album/55H8LerEv2RiQ219d9oPeA) | 4:27 |
+| 11 | [Sound the Alarm V\. 2.0](https://open.spotify.com/track/1Xqb2zJasoxaw93yAOe3g4) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Old Record](https://open.spotify.com/album/4ErCkgLzJv49m980DrsC19) | 1:48 |
+| 12 | [Como Caramelo De Limón](https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 2:09 |
 
-Snapshot ID: `AAAAbgAaB/euUaTdbgG+HvvMythGf3fT`
+Snapshot ID: `AAAAbwIwi+fIjyIqqch8N9KRUNskUF8k`

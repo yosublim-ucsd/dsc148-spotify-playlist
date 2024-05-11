@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Mikael Gabriel ja jambo.
 
-331 songs - 17 hr 18 min
+333 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-04-26 | 2024-05-03 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-02 | 2024-05-10 |
 | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Blame Brett \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/5WM5bjR2J83u3dryKTZTn3) | 2:57 | 2024-05-02 | 2024-05-10 |
+| [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 |  |
 | [Bodily Synesthesia](https://open.spotify.com/track/29o3RoZ4RqD47HoPlaZ3Fy) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Sensory Blending](https://open.spotify.com/album/3xDxrKGPgQnqGGt3gePoG9) | 5:32 | 2024-04-26 | 2024-05-03 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Bumerangi](https://open.spotify.com/track/5OmEynQM0uAZN0RoxcxZdN) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Bumerangi](https://open.spotify.com/album/5WGKUg8xCORjijuzcI10pP) | 2:45 | 2024-04-26 | 2024-05-03 |
@@ -180,8 +181,9 @@
 | [Let Go / I'm Fresh](https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Let Go / I'm Fresh](https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5) | 3:09 | 2024-05-09 |  |
 | [LIIKENTEES](https://open.spotify.com/track/4VO3VnnDTU6vuPgEpESyr1) | [Kevin Tandu](https://open.spotify.com/artist/7b2nbNSjOwzjgraV3LvNEu) | [LIIKENTEES](https://open.spotify.com/album/0m0fpHSXzymwI655TW6Zdp) | 3:32 | 2024-05-09 |  |
 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-04-26 | 2024-05-03 |
-| [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
 | [Loppuelämä](https://open.spotify.com/track/2Mtze80Bdsy13FbZgs6J9U) | [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN), [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Loppuelämä](https://open.spotify.com/album/5uVCRl5HXyN6uxTtdCajNm) | 4:03 | 2024-05-09 |  |
+| [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 |  |
 | [LOVE](https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [LOVE](https://open.spotify.com/album/02TBIc5O1840Y6VSa92gU5) | 2:26 | 2024-05-09 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-05-03 |
 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 | 2024-05-09 |  |

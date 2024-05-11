@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Tems \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Victony \ud83c\uddf3\ud83c\uddec",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 173333,
       "name": "420",
       "url": "https://open.spotify.com/track/19KLlE2v5E4AMvushL8EHf"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194489,
       "name": "Another Episode",
       "url": "https://open.spotify.com/track/5v4E0SHkjHhKTfWdW28IEe"
@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "album": {
         "name": "Badgirl Workout",
         "url": "https://open.spotify.com/album/0WIAy1P8XKgHnp8cXnUqrK"
       },
@@ -1622,6 +1644,32 @@
       "duration_ms": 283127,
       "name": "Banzutu",
       "url": "https://open.spotify.com/track/4ZOWoIGZML7llXnJKaew7N"
+    },
+    {
+      "album": {
+        "name": "Bare Gyal Want We",
+        "url": "https://open.spotify.com/album/1w51q5zzWomLb9YJ8xT9gQ"
+      },
+      "artists": [
+        {
+          "name": "Delomar",
+          "url": "https://open.spotify.com/artist/1z3bHX8di6TlSaLbUvIsri"
+        },
+        {
+          "name": "RDX",
+          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
+        },
+        {
+          "name": "Harry Toddler",
+          "url": "https://open.spotify.com/artist/4ytwWK7bEj7noRfvIVDsgj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Bare Gyal Want We",
+      "url": "https://open.spotify.com/track/0kKZ4nL9tpDqAKPbSsjCnl"
     },
     {
       "album": {
@@ -2689,6 +2737,28 @@
     },
     {
       "album": {
+        "name": "Bubble & Brace",
+        "url": "https://open.spotify.com/album/7rdiyG4tw0R11N02i6Ds6f"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186182,
+      "name": "BUBBLE & BRACE",
+      "url": "https://open.spotify.com/track/1NBaMI77OyUIxSTlhkndd0"
+    },
+    {
+      "album": {
         "name": "Bubble It",
         "url": "https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC"
       },
@@ -3535,6 +3605,28 @@
     },
     {
       "album": {
+        "name": "Convincing",
+        "url": "https://open.spotify.com/album/3vJltEMXsVxV6hIu8ZMwfY"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Birchill",
+          "url": "https://open.spotify.com/artist/4MuPg5R8uv5DbxKUrlNHwM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155643,
+      "name": "Convincing",
+      "url": "https://open.spotify.com/track/15LEOErQzDf42oHl9VbPQt"
+    },
+    {
+      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/4SxZisNo2k6rZ6JZvQOJPB"
       },
@@ -3798,6 +3890,28 @@
       "duration_ms": 136906,
       "name": "Danger",
       "url": "https://open.spotify.com/track/2G02Na0nsJukXKEx8f13dB"
+    },
+    {
+      "album": {
+        "name": "Dat Mi Seh",
+        "url": "https://open.spotify.com/album/02UWbJzyOZfcIt0alj3mZj"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157096,
+      "name": "Dat Mi Seh",
+      "url": "https://open.spotify.com/track/5DjOhPOyTkrZfcvB8OUtCY"
     },
     {
       "album": {
@@ -5732,6 +5846,28 @@
       "duration_ms": 257272,
       "name": "Fuh Spite",
       "url": "https://open.spotify.com/track/6LwbLdUGrzO2BLjJu4nz7v"
+    },
+    {
+      "album": {
+        "name": "Water & Garri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151868,
+      "name": "Gara (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
     },
     {
       "album": {
@@ -9755,6 +9891,28 @@
     },
     {
       "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
+    },
+    {
+      "album": {
         "name": "Love In The Way",
         "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
       },
@@ -9883,6 +10041,28 @@
     },
     {
       "album": {
+        "name": "Lumbah",
+        "url": "https://open.spotify.com/album/4xRrWR4cNl3ND3n0qLeiIt"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141061,
+      "name": "Lumbah",
+      "url": "https://open.spotify.com/track/6t3LB3hxZBe8tDbjyO9C4B"
+    },
+    {
+      "album": {
         "name": "LumSum",
         "url": "https://open.spotify.com/album/7iANuyu5V1UXLG7pRyvWdM"
       },
@@ -9898,6 +10078,36 @@
       "duration_ms": 146235,
       "name": "LumSum",
       "url": "https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx"
+    },
+    {
+      "album": {
+        "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+        "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+      "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"
     },
     {
       "album": {
@@ -10290,7 +10500,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186666,
       "name": "Men Are Crazy",
       "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
@@ -10686,7 +10896,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183829,
       "name": "Money - Raw",
       "url": "https://open.spotify.com/track/1Mtu0THbZVFOoaS6vzd1WF"
@@ -10844,7 +11054,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 143621,
       "name": "Mumbai",
       "url": "https://open.spotify.com/track/20TvUFRg4JMh44a6Qgcmq4"
@@ -11238,7 +11448,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 151179,
       "name": "New Boy in Town",
       "url": "https://open.spotify.com/track/7cxFy7OiNo6TvpJ5suytkL"
@@ -13494,7 +13704,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161791,
       "name": "Pull Over",
       "url": "https://open.spotify.com/track/2bap1ORLRxoN4gAYUHC3Ja"
@@ -14352,7 +14562,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
@@ -15602,7 +15812,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 137849,
       "name": "SO COMAN",
       "url": "https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U"
@@ -16155,6 +16365,28 @@
     },
     {
       "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "album": {
         "name": "Stutter",
         "url": "https://open.spotify.com/album/6VjGsKlcGuJEgL9quD4fke"
       },
@@ -16192,7 +16424,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176160,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/6K153olo2ITl06Hm485wvn"
@@ -17000,7 +17232,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167624,
       "name": "That Boy Is Mine",
       "url": "https://open.spotify.com/track/28IryWQ8fri3ga1jgHAZwC"
@@ -19438,6 +19670,36 @@
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+    },
+    {
+      "album": {
+        "name": "Woza",
+        "url": "https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9"
+      },
+      "artists": [
+        {
+          "name": "Korie Minors",
+          "url": "https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        },
+        {
+          "name": "Emoji SA",
+          "url": "https://open.spotify.com/artist/3FHJ8CwvKiag7XlOkOMjxJ"
+        },
+        {
+          "name": "Dokotela",
+          "url": "https://open.spotify.com/artist/19KAj2rSHbBnChwlInjznI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256991,
+      "name": "Woza",
+      "url": "https://open.spotify.com/track/5G4PbKjjrntkjl1nvJqVWW"
     },
     {
       "album": {

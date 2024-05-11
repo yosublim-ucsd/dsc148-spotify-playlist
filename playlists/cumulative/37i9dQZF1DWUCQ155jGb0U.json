@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
@@ -3862,6 +3862,24 @@
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/1SEV27nriwhX4LiK3BoEfe"
+      },
+      "artists": [
+        {
+          "name": "SIAMES",
+          "url": "https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233505,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/2q2Faxm7CvQSS6DBCW2AKm"
     },
     {
       "album": {

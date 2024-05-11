@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > David Guetta au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,802 likes - 50 songs - 2 hr 14 min
+[](https://open.spotify.com/user/null) - 409,860 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -10075,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "Reconcile",
+        "url": "https://open.spotify.com/album/5msoz4eQiiV0jKKmHw5QW0"
+      },
+      "artists": [
+        {
+          "name": "Jan Garlow",
+          "url": "https://open.spotify.com/artist/7ayyfLsqbafl12N6rdELCe"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Reconcile",
+      "url": "https://open.spotify.com/track/3ICePNxRuTz1ufDJC7cq08"
+    },
+    {
+      "album": {
         "name": "Reconcilio",
         "url": "https://open.spotify.com/album/3ATJtjlA2DiMvyF4qikW32"
       },
@@ -13010,6 +13028,24 @@
       "duration_ms": 177038,
       "name": "Tonals",
       "url": "https://open.spotify.com/track/2H9IPI2Hu7ctIzPcoaACRC"
+    },
+    {
+      "album": {
+        "name": "Torpor Voices",
+        "url": "https://open.spotify.com/album/3yE7cvKEenwYf1NrQvSjJX"
+      },
+      "artists": [
+        {
+          "name": "Ayla Nenura",
+          "url": "https://open.spotify.com/artist/0xHbH4Lf2B7lHMjMMT1gRs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191571,
+      "name": "Torpor Voices",
+      "url": "https://open.spotify.com/track/4wWeuf4lp3yFxPwIvOqy42"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating women at the centre of innovation in electronic music. Cover: Aluna",
-  "num_followers": 78508,
+  "num_followers": 78518,
   "original_name": "Women of Electronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhQAAAAAAFI/D+RfoykDDR9vnZTMfx",
+  "snapshot_id": "Zj2bwAAAAAA7cjxquGYzot/zlwgp2EEp",
   "tracks": [
     {
       "added_at": "2024-05-03 04:00:00",
@@ -25,6 +25,78 @@
       "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Sweet Devotion - Edit",
+      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "duration_ms": 211748,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/6xmMBY754l7guTzNokbzos"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "BIG UP",
@@ -41,20 +113,68 @@
       "url": "https://open.spotify.com/track/78QfJ1zk7Tae5gTOHFI6I2"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "BET",
-        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
+        "name": "Up2U",
+        "url": "https://open.spotify.com/album/21mV7OfXhLECU1XPkBFuRE"
       },
       "artists": [
         {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+          "name": "Anna Prior",
+          "url": "https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP"
         }
       ],
-      "duration_ms": 198671,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
+      "duration_ms": 270000,
+      "name": "Up2U",
+      "url": "https://open.spotify.com/track/3qWOOjBP5l8Ape2h0MQH5Z"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "I Am Free",
+        "url": "https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "I Am Free",
+      "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2XnwNUlKYhXHFuXMqIbNEX"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/7gpt3rgFCoHymogDv24uUJ"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -105,40 +225,52 @@
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Sweet Devotion",
-        "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
+        "name": "Wasting Time (til the end of the world)",
+        "url": "https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
         }
       ],
-      "duration_ms": 207895,
-      "name": "Sweet Devotion - Edit",
-      "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
+      "duration_ms": 180484,
+      "name": "Wasting Time (til the end of the world)",
+      "url": "https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "I Am Free",
-        "url": "https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3"
+        "name": "BET",
+        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
       },
       "artists": [
         {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
         }
       ],
-      "duration_ms": 222400,
-      "name": "I Am Free",
-      "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
+      "duration_ms": 198671,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -177,20 +309,24 @@
       "url": "https://open.spotify.com/track/1MfJtq7aSFeEGGYbOPEcDu"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/2XnwNUlKYhXHFuXMqIbNEX"
+        "name": "about you",
+        "url": "https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Showjoe",
+          "url": "https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/7gpt3rgFCoHymogDv24uUJ"
+      "duration_ms": 163076,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -209,20 +345,56 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/37J5A2UvvwnQMOb6Q6wJa4"
       },
       "artists": [
         {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
         }
       ],
-      "duration_ms": 211748,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/6xmMBY754l7guTzNokbzos"
+      "duration_ms": 169226,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/7ilI1BbEZgxPRrUiaTTOjI"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "wilt",
+        "url": "https://open.spotify.com/album/03ruD7fHaO95xkFiYzVfwk"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Mirin Doja",
+          "url": "https://open.spotify.com/artist/3YxgbUZjteirlEeKzLJxtg"
+        }
+      ],
+      "duration_ms": 236692,
+      "name": "turn u into stone",
+      "url": "https://open.spotify.com/track/4JgStfb87m3kgwi3jrFXSD"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "KarateCat",
+        "url": "https://open.spotify.com/album/5lpFoLKyzSM8gsLjlZy00y"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 202558,
+      "name": "KarateCat",
+      "url": "https://open.spotify.com/track/4ZudaK7D1PiHoBndGMXkmS"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -343,7 +515,7 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Free",
+        "name": "free",
         "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
       },
       "artists": [
@@ -353,7 +525,7 @@
         }
       ],
       "duration_ms": 192000,
-      "name": "Free",
+      "name": "free",
       "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
     },
     {
@@ -879,26 +1051,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "CAN YOU SEE ME?",
-        "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Digital Ethos",
-          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
-        }
-      ],
-      "duration_ms": 222219,
-      "name": "CUT ME OUT",
-      "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Intergalactic Sitdown",
         "url": "https://open.spotify.com/album/3LoFgU9NAEJTOmtfMGLRxh"
       },
@@ -911,22 +1063,6 @@
       "duration_ms": 396326,
       "name": "Intergalactic Sitdown",
       "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 226664,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1179,22 +1315,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lost My Way",
-        "url": "https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Lost My Way",
-      "url": "https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Serie A",
         "url": "https://open.spotify.com/album/2Fz1NS2puE3dbzCM8fbFrR"
       },
@@ -1359,42 +1479,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Taking It Back",
-        "url": "https://open.spotify.com/album/1ZkE9x9JXVTHZo8b7YVYft"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Taking It Back",
-      "url": "https://open.spotify.com/track/4KMGgiCvRLHaT5l1L0ACvj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 194055,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Kairosclerosis",
         "url": "https://open.spotify.com/album/3MU1jBa04ioVt0ivHkAEEy"
       },
@@ -1503,30 +1587,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Ice Beats Slide",
-          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
-        },
-        {
-          "name": "Sbuda Maleather",
-          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
-        }
-      ],
-      "duration_ms": 326048,
-      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
-      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Foreign Love",
         "url": "https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy"
       },
@@ -1611,22 +1671,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Act A Fool",
-        "url": "https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID"
-      },
-      "artists": [
-        {
-          "name": "Melissa Pools",
-          "url": "https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW"
-        }
-      ],
-      "duration_ms": 167809,
-      "name": "Act A Fool",
-      "url": "https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Follow My Arms",
         "url": "https://open.spotify.com/album/0Tuc2mb3KTd5CJfjObRgTW"
       },
@@ -1655,58 +1699,6 @@
       "duration_ms": 232000,
       "name": "Single Kiss",
       "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR"
-      },
-      "artists": [
-        {
-          "name": "AMPRS&ND",
-          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
-        }
-      ],
-      "duration_ms": 185987,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Velvet Tears",
-        "url": "https://open.spotify.com/album/6LUpgV45NTeepbvO6XnyKo"
-      },
-      "artists": [
-        {
-          "name": "Juliet Fox",
-          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
-        },
-        {
-          "name": "ANDATA",
-          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Velvet Tears",
-      "url": "https://open.spotify.com/track/3nRFfFIZomzTJpDSYXF4zj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/5Qa679CkfZaEEsLGUBfXFp"
     }
   ],
   "unique_name": "Women of Electronic",

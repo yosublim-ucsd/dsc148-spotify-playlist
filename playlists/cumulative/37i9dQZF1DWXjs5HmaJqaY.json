@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "A.I.",
+        "url": "https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy"
+      },
+      "artists": [
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383661,
+      "name": "A.I.",
+      "url": "https://open.spotify.com/track/3Eo8smdiC7vGoglZwHOMt4"
+    },
+    {
+      "album": {
         "name": "Adventures of Dama 2022",
         "url": "https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 481920,
       "name": "Dimension",
       "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
@@ -1034,6 +1052,24 @@
       "duration_ms": 304218,
       "name": "Electro Chemical Mind",
       "url": "https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i"
+    },
+    {
+      "album": {
+        "name": "A.I.",
+        "url": "https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy"
+      },
+      "artists": [
+        {
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425379,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/0CRJG06feSIhls8hfPZgCd"
     },
     {
       "album": {
@@ -2490,7 +2526,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201600,
       "name": "Miracle - Edit",
       "url": "https://open.spotify.com/track/5ZsK8da1RudtW0zp1YUxTm"

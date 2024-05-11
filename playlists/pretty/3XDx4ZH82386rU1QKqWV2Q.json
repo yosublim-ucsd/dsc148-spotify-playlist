@@ -6,7 +6,7 @@
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "AAALdKIyZS+sA+4JT1rjEWZdIbRvMLfM",
+  "snapshot_id": "AAALdW990CWPW4di/Wzv6o5UQkAqnvTI",
   "tracks": [
     {
       "added_at": "2024-04-01 10:16:20",
@@ -379,6 +379,26 @@
       "duration_ms": 86142,
       "name": "NX PULSE",
       "url": "https://open.spotify.com/track/6uKDuFi2mCdyze3m25h8xi"
+    },
+    {
+      "added_at": "2024-05-10 09:31:45",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2024-04-29 10:33:10",

@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Josh Hart
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Donovan Mitchell
 
-597 songs - 1 day 6 hr 21 min
+598 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [GTA \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wAFfH245FJP77ZugGVISe) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 2:30 | 2021-09-02 | 2023-02-18 |
 | [Gunninhimdown](https://open.spotify.com/track/6u4MzxtPp6XbIx90sWlVJi) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 1:48 | 2023-02-17 | 2023-02-22 |
 | [h4rt&soul](https://open.spotify.com/track/5pMeCtPRcV9ORs7CeUDEE7) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh), [Fubu Banks](https://open.spotify.com/artist/6XruQ4mSyrdUm6ABc7hWZA) | [From Now On](https://open.spotify.com/album/5ndDCskK44Y2nHg39zYnUG) | 3:36 | 2023-02-17 | 2023-02-22 |
+| [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 | 2024-05-10 |  |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2021-09-02 | 2023-03-14 |
 | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/track/0RV9wVTrrX9OadfiEqKGdF) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/album/1Im2OU9CCCVNkvBk9CRcws) | 3:22 | 2022-06-24 | 2022-12-31 |
 | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/track/32lECHmQimK363xwXhRUJq) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/album/7g1YZSjv5vqaxSIhpNfUlG) | 3:22 | 2021-09-02 | 2022-07-29 |
@@ -592,7 +593,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-15 |  |
 | [Whatever You Wit](https://open.spotify.com/track/2GITb8jfE4RBwOlu7fsri4) | [CoKilla](https://open.spotify.com/artist/6Hc90DgpI39m4ZP3ETIKOS), [Deeski](https://open.spotify.com/artist/5U1WcaOcN0zs7zkaOqihmu), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 3:15 | 2023-11-17 | 2024-02-10 |
 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2021-09-02 |  |
-| [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-03 |  |
+| [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-03 | 2024-05-11 |
 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2021-09-02 | 2022-06-25 |
 | [Wickstyle](https://open.spotify.com/track/0J1iJxPmVJRFtaYyWFU1YC) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Wickstyle](https://open.spotify.com/album/11inU7lZwHsEQ1JtuQY2oc) | 2:55 | 2024-03-15 |  |
 | [Window Shopper](https://open.spotify.com/track/58IeuSOYA1gXyB8rDpYzc3) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Best Of 50 Cent](https://open.spotify.com/album/3Sbt1eefEMSN33HqdhOM3g) | 3:10 | 2021-09-02 | 2022-06-25 |

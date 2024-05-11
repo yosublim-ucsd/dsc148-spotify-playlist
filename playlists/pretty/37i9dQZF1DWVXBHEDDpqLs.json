@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31237,
+  "num_followers": 31238,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -607,30 +607,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Squad Up",
-        "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
-      },
-      "artists": [
-        {
-          "name": "Thys",
-          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
-        },
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Squad Up",
-      "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
         "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 176346,
       "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
       "url": "https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Squad Up",
+        "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
+      },
+      "artists": [
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Squad Up",
+      "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "WORK",
+        "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
+      },
+      "artists": [
+        {
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
+        },
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
         "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 188000,
       "name": "Bubble Pon Di Bed - UNIIQU3, Thai Chi Rose\u0300, Charly Gynn Remix",
       "url": "https://open.spotify.com/track/4RZDeecyMvZhHNPaWjFrCP"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "WORK",
-        "url": "https://open.spotify.com/album/6jhqBMKKpjSUNGaUv3Ar6Y"
-      },
-      "artists": [
-        {
-          "name": "INVT",
-          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
-        },
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "WORK",
-      "url": "https://open.spotify.com/track/3f6cQPVTkf8KuEni7b8bS6"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "INTO THE COCOON",
         "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Ride It (SBF17)",
-        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
-      },
-      "artists": [
-        {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Feadz",
-          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Ride It - SBF17",
-      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/6XReRYAylbP5hECgFIAC8A"
       },
@@ -1855,6 +1831,30 @@
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ride It (SBF17)",
+        "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
+      },
+      "artists": [
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Feadz",
+          "url": "https://open.spotify.com/artist/7JZVTmKriBVQOShSmN4d8I"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Ride It - SBF17",
+      "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
+      },
+      "artists": [
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Holding It Together",
         "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
     },
     {
       "added_at": "2024-01-26 05:00:00",

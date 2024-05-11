@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 188502,
+  "num_followers": 188739,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Below the House",
-      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Slow Bloom",
-        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 285312,
-      "name": "Slow Bloom",
-      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Together Is The New Alone (2021 Remaster)",
         "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 285312,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
     },
     {
       "added_at": "2023-09-22 12:14:33",

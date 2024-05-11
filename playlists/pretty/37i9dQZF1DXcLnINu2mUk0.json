@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bia Caboz, Piruka",
-  "num_followers": 45414,
+  "num_followers": 45426,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 179380,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 264496,
       "name": "Orgulho",
       "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Accelerate",
-        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 179380,
-      "name": "Accelerate",
-      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
-      },
-      "artists": [
-        {
-          "name": "Neko\u2019Rs",
-          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "osciLAR",
         "url": "https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 245083,
       "name": "osciLAR",
       "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
+      },
+      "artists": [
+        {
+          "name": "Neko\u2019Rs",
+          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "Filme",
         "url": "https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 198857,
       "name": "Filme",
       "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
-      },
-      "artists": [
-        {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
     },
     {
       "added_at": "2024-05-09 23:00:00",

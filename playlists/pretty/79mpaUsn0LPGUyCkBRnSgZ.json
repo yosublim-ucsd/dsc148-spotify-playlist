@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAF4nPH4v2AFaj19qvv1IZ1izoBRjl2",
+  "snapshot_id": "AAAF4/9cxNZ5dF50tbC2Ebp8dOIUhIqG",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8135,6 +8135,22 @@
       "duration_ms": 253893,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+    },
+    {
+      "added_at": "2024-05-10 21:48:37",
+      "album": {
+        "name": "Static & Silence",
+        "url": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
+      },
+      "artists": [
+        {
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        }
+      ],
+      "duration_ms": 257506,
+      "name": "When I'm Thinking About You",
+      "url": "https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO"
     }
   ],
   "unique_name": "Zacklog",

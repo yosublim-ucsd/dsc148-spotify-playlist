@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Kacy Hill
+> New and approved indie pop\. Cover: ROLE MODEL
 
-1,849 songs - 4 day 1 hr 25 min
+1,852 songs - 4 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [decide to be happy](https://open.spotify.com/track/4npip0lZeQAbj1epad3oCu) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [decide to be happy](https://open.spotify.com/album/1PO9x34QK39yLrs0zZtOk4) | 3:27 | 2020-10-20 | 2021-06-03 |
 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 | 2023-07-01 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-10-13 |
+| [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-10 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 | 2022-12-10 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
 | [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 | 2023-09-27 |
@@ -529,6 +530,7 @@
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-09-24 | 2022-04-16 |
 | [Everything and Nothing](https://open.spotify.com/track/2q3x2IKA8QWK40XjXqhD5j) | [Mob Rich](https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5) | [Everything and Nothing](https://open.spotify.com/album/3MI7LEhvkWMUJKa4Z5W91C) | 3:07 | 2021-05-03 | 2021-05-19 |
+| [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-10 |  |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-11-28 |
 | [Everything is Fine](https://open.spotify.com/track/43qXpGfZOjHQakpPKfNz3u) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Everything is Fine](https://open.spotify.com/album/45eVM5D9PJULYNVXQ2HyXi) | 2:36 | 2022-01-21 | 2022-04-14 |
 | [Everything Matters](https://open.spotify.com/track/06VyY12p1DHswetQudIbiT) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:33 | 2022-01-07 | 2022-04-20 |
@@ -688,7 +690,7 @@
 | [Harmless Fun](https://open.spotify.com/track/5K09SsCBHoecbMq3fUN7BW) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/7utbZQTQuG0qyPxHloha0L) | 2:12 | 2022-03-04 | 2022-07-28 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-09-17 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-04-21 |
-| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2024-05-11 |
 | [Haunted](https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Haunted](https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy) | 2:53 | 2021-06-02 | 2022-04-15 |
 | [have a great day](https://open.spotify.com/track/2TmW432ldVYhIwAdJSlJEG) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [have a great day](https://open.spotify.com/album/0FOFp8kZa4HtV16w2TTqTS) | 3:22 | 2021-06-03 | 2021-10-14 |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-05-05 | 2022-04-03 |
@@ -1075,7 +1077,7 @@
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2021-05-08 | 2023-06-24 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-29 | 2022-08-06 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-07-19 | 2022-04-14 |
-| [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 | 2023-11-06 |  |
+| [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 | 2023-11-06 | 2024-05-11 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-13 | 2022-10-18 |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-02 | 2022-04-12 |
@@ -1525,7 +1527,7 @@
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-12-08 | 2024-01-13 |
 | [Start a Band](https://open.spotify.com/track/0bJpzwBUgTaqIpD0CNI9DA) | [Pinkish Blu](https://open.spotify.com/artist/3zyLtDE21BNWJagUl4HWzu) | [Start a Band](https://open.spotify.com/album/6st35QCkJ8H7lbdYPedWMp) | 3:03 | 2021-05-03 | 2021-05-04 |
 | [Start Again](https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Start Again](https://open.spotify.com/album/36YtEo95psh4gVMQYaEmgA) | 2:57 | 2021-05-06 | 2021-10-14 |
-| [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 | 2024-02-27 |  |
+| [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 | 2024-02-27 | 2024-05-11 |
 | [State Lines](https://open.spotify.com/track/73K2aZChjCz52oAkjTTCUX) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [State Lines](https://open.spotify.com/album/3pzEcxyjSh1iOF8XvUf9N9) | 2:32 | 2022-05-20 | 2022-07-07 |
 | [Static](https://open.spotify.com/track/59pc8X6CM8HnzX55xV8xzd) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/3P6u0YQUVULgVFGFH07tgt) | 4:04 | 2020-11-03 | 2021-01-15 |
 | [Stay](https://open.spotify.com/track/67py7gDTwqKs5geMfyFsMc) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Stay](https://open.spotify.com/album/4Cj8plZvZdsiKpOfntOpVD) | 3:32 | 2020-10-13\* | 2021-05-25 |
@@ -1705,6 +1707,7 @@
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 |  |
 | [Too Sensitive](https://open.spotify.com/track/29W6ddO7Tlm1BiSsIAFj01) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [Too Sensitive](https://open.spotify.com/album/28CssaUwpNtHlcmKtF67fM) | 2:41 | 2020-10-16 | 2022-04-15 |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2023-09-23 |
+| [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 |  |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 |  |
 | [trash tv](https://open.spotify.com/track/5Ht7XiNME36YH0716Svm1j) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 3:18 | 2021-02-13 | 2021-03-23 |
 | [Treat You Right](https://open.spotify.com/track/5Dv6S0ds5gRUlmUV0kONEL) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Treat You Right](https://open.spotify.com/album/4A5ujUcjBtJpi59ul0NZyH) | 3:41 | 2021-05-04 | 2021-10-14 |

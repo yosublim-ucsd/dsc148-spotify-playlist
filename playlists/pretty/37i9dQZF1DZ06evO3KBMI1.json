@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 69926,
+  "num_followers": 69952,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAADD32U1Pa9BcqTRdyUsUX6b",
+  "snapshot_id": "ZjwSAAAAAACmem9DqADFMU7Mrz5bBbHd",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 341093,
-      "name": "0 choir",
-      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
+      "duration_ms": 252960,
+      "name": "\u5728\u308b\u3079\u304d\u5f62",
+      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 252960,
-      "name": "\u5728\u308b\u3079\u304d\u5f62",
-      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
+      "duration_ms": 341093,
+      "name": "0 choir",
+      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
     },
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/7eQ7opjUTYoo92d4Ix5jtZ"
+        "name": "\u7121\u53ccCollaborations -The undefeated-",
+        "url": "https://open.spotify.com/album/43YpGTcUo1dDHgGyGftoBC"
       },
       "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 246773,
-      "name": "High Light!",
-      "url": "https://open.spotify.com/track/5ciNbUcDEWLV0kZPREwmyG"
+      "duration_ms": 220040,
+      "name": "ONE LIFE",
+      "url": "https://open.spotify.com/track/0jZuZviZ9DjdgoOgGxDxKd"
     }
   ],
   "unique_name": "This Is UVERworld",

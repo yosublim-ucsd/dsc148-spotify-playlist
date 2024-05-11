@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The most flammable playlist ever. Kendrick Lamar spitting fire \ud83d\udd25",
+  "description": "The most flammable playlist ever. Drake spitting fire \ud83d\udd25",
   "name": "DOPE.",
   "tracks": [
     {
@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 131883,
       "name": "Charmander",
       "url": "https://open.spotify.com/track/4Aocy7YAyOYf5YHj18Vfj3"
@@ -1998,6 +1998,24 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
     },
     {
       "album": {
@@ -3841,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "album": {
         "name": "King Zoo",
         "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
       },
@@ -4452,7 +4488,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 185266,
       "name": "Rock Co.Kane Flow (feat. MF Doom)",
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
@@ -5470,6 +5506,24 @@
       "duration_ms": 181312,
       "name": "Trance",
       "url": "https://open.spotify.com/track/4NIEMwXYQjyqFJ5rBohc1P"
+    },
+    {
+      "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268516,
+      "name": "Treat Myself",
+      "url": "https://open.spotify.com/track/4mSwG5sSZCWgsEvaHhqCen"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: CHVRCHES\n",
-  "num_followers": 30780,
+  "num_followers": 6171,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeXyEwAAAABUoi7IqBDlFlHKDmxLm5XQ",
+  "snapshot_id": "Zj4u1AAAAADqPpzNuPKFprMVVgskPQAP",
   "tracks": [
     {
       "added_at": "2024-03-04 16:08:51",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2024-03-04 16:08:51",
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/4VVcfdD0w5pUHN96udQQsi"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 200266,
       "name": "Siren",
       "url": "https://open.spotify.com/track/4xb8JHIN56xixSl6vkSPjm"
-    },
-    {
-      "added_at": "2024-03-04 16:08:51",
-      "album": {
-        "name": "Kicker",
-        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "East of Eden",
-      "url": "https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3"
     },
     {
       "added_at": "2024-03-04 16:08:51",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-03-04 16:08:51",
       "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+        "name": "Kicker",
+        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
         }
       ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+      "duration_ms": 186213,
+      "name": "East of Eden",
+      "url": "https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3"
     },
     {
       "added_at": "2024-03-04 16:08:51",

@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-370 songs - 17 hr 38 min
+372 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [The Hermod](https://open.spotify.com/track/7drTYp9dKioyAQYDTLtzbR) | [Levandau](https://open.spotify.com/artist/4i8dFLIE5uXyj0y8mX8Ngo) | [The Hermod](https://open.spotify.com/album/0qwe4xq1aqAt75YR1lPiRi) | 2:44 | 2020-10-20\* | 2022-08-13 |
 | [The Leaves](https://open.spotify.com/track/12aqk9J5v3zqoMolpAB3ZQ) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [The Leaves](https://open.spotify.com/album/7H0KuKgpChynqWsA7kmnnU) | 2:40 | 2021-11-17 |  |
 | [The Light of Day](https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [The Light of Day](https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71) | 2:47 | 2020-10-20\* | 2022-07-16 |
+| [The Morning Star](https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [The Morning Star](https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf) | 2:34 | 2024-05-10 |  |
 | [The Quiet Hours](https://open.spotify.com/track/40M4T2bzYllLK4DzSPCGPy) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [The Quiet Hours](https://open.spotify.com/album/05MirPFXPGeqG59lLaHGyN) | 2:10 | 2021-09-08 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2022-02-04 |
 | [The Slo Flo](https://open.spotify.com/track/1RtBurgE4dwfGEetqY7Kl9) | [Ambientics](https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a) | [The Slo Flo](https://open.spotify.com/album/49uMgOuiw3fmurGdsrfqaw) | 3:10 | 2024-04-04 |  |
@@ -367,6 +368,7 @@
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-01-07 |  |
 | [Where I Sleep](https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Where I Sleep](https://open.spotify.com/album/0q0sEiRhgNW7iYlnPIcx3B) | 3:05 | 2024-01-30 |  |
 | [Where The Street End](https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 3:02 | 2020-10-20\* |  |
+| [Whispers](https://open.spotify.com/track/2MqEiCYKKp7LiyDufLJ1WT) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Whispers](https://open.spotify.com/album/0SokGbjLLCRjFcgrNEMpzX) | 2:48 | 2024-05-10 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2020-10-20\* |  |
 | [Windcatcher](https://open.spotify.com/track/1s3acPHWlJ5irFhryf82xI) | [Vayda Sun](https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX) | [Windcatcher](https://open.spotify.com/album/52L1n8jLGDdkwE7CLzwS9v) | 2:58 | 2023-12-01 |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* | 2024-03-27 |

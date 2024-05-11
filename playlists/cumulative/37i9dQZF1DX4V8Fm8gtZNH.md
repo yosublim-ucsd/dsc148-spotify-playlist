@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-283 songs - 16 hr 55 min
+284 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Need My Meds](https://open.spotify.com/track/5sCnt924Gu53YjbMlTxmiC) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Summer Wasted](https://open.spotify.com/album/097zutTtxwL4Z2ApL2lGgk) | 2:25 | 2023-10-18 |  |
 | [Need That](https://open.spotify.com/track/11DiSJiIJ1c6XVlTsqHpgo) | [DeCarlo](https://open.spotify.com/artist/0HjQbsxkkqV6Et2YoFHd48) | [Need That](https://open.spotify.com/album/5hJjZc3rJJr1UarsmnfJUo) | 2:28 | 2023-10-18 |  |
 | [Neon Lights \(feat\. Supa Bwe & Lil Yachty\)](https://open.spotify.com/track/3QVu5yFeifgUwpX35PFrmx) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [ZiG](https://open.spotify.com/artist/6HxZVLe5XQKhYFnGesRbKU), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Restoration of an American Idol](https://open.spotify.com/album/2XXqBkpXDNhUQw9K4fNj8t) | 5:05 | 2023-10-18 |  |
+| [News](https://open.spotify.com/track/4krpgB8twCTBq12aP4a8ug) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 3:15 | 2024-05-10 |  |
 | [No Interviews](https://open.spotify.com/track/1tXDziDamT0we73CTDsgsv) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:59 | 2023-10-18 |  |
 | [Nobody Speak \(feat\. Run the Jewels\)](https://open.spotify.com/track/1gYn6OTpw5W6n8QaJjyY5m) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 3:15 | 2023-10-18 |  |
 | [Nothing Without You](https://open.spotify.com/track/1N1EWrnp5tUeXsl7a1qCr8) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [P.S\. I Still Love You](https://open.spotify.com/album/4taGxZ0lhkOLX0JvdlE5LP) | 3:23 | 2023-10-18 |  |

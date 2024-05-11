@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 136000,
       "name": "New Flame",
       "url": "https://open.spotify.com/track/2kFsWpSVMvgYZLw9pqFZRm"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 209945,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/5JGKaNsRqNUVBBOvegc7dB"
@@ -3051,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/4ITJjw1RDlKGfSTNFcqvKS"
+      },
+      "artists": [
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/0oqcYc9iYIMcPPll3GgVsw"
+    },
+    {
+      "album": {
         "name": "Sorry Na Kub",
         "url": "https://open.spotify.com/album/45Q5RLRcYSgeInlR0mRYEe"
       },
@@ -3134,6 +3152,32 @@
       "duration_ms": 245034,
       "name": "Star Rider",
       "url": "https://open.spotify.com/track/4CtV7yp5OK67KI5NX4Pufl"
+    },
+    {
+      "album": {
+        "name": "Stay (feat. NICECNX)",
+        "url": "https://open.spotify.com/album/03ARTFkxz08JANbBO2BudD"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        },
+        {
+          "name": "NICECNX",
+          "url": "https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "Stay (feat. NICECNX)",
+      "url": "https://open.spotify.com/track/1sDwDeUBcNF0leJ5zSL7JQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso, Ciro Quiñonez, Pipe Bueno y Jessi Uribe
 
-240 songs - 12 hr 21 min
+241 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [La Cita \(feat\. Jessi Uribe\)](https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Cita \(feat\. Jessi Uribe\)](https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB) | 3:45 | 2022-08-12 | 2023-07-01 |
 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 | 2022-08-12 |  |
 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 | 2023-01-20 | 2023-04-15 |
+| [LA DURANGO](https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA DURANGO](https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ) | 4:22 | 2024-05-10 |  |
 | [La Interesada](https://open.spotify.com/track/2yJqNAtTReCz7JAs5eCRXu) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [La Interesada](https://open.spotify.com/album/0e6DoOVWobtACCRavXpCkF) | 2:38 | 2023-04-28 | 2023-05-13 |
 | [La lista de mis Ex](https://open.spotify.com/track/32zdk3scjEMNdIciy8IvQE) | [Camilo Baena](https://open.spotify.com/artist/1ZaFqYadyVXsabvWnMITxB) | [La lista de mis Ex](https://open.spotify.com/album/7xJ396zdd4du0sFpGSXh1v) | 2:39 | 2023-01-27 | 2023-02-14 |
 | [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-12 | 2023-01-14 |
@@ -235,7 +236,7 @@
 | [Vete](https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/4IWgA9K4aBcXCrHiXpW2Wn) | 3:09 | 2023-08-18 |  |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-08-12 | 2023-09-23 |
 | [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 | 2023-07-14 | 2023-09-16 |
-| [Voy a Beber](https://open.spotify.com/track/34RhyBjozjyfB4bqkhXyG8) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Voy a Beber](https://open.spotify.com/album/0RotniHoktQuwF0KHELYRs) | 3:10 | 2024-03-08 |  |
+| [Voy a Beber](https://open.spotify.com/track/34RhyBjozjyfB4bqkhXyG8) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Voy a Beber](https://open.spotify.com/album/0RotniHoktQuwF0KHELYRs) | 3:10 | 2024-03-08 | 2024-05-11 |
 | [Vuelve y Me Pasa](https://open.spotify.com/track/2wTUAAdqoRpaP9w5VIzM6s) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:15 | 2022-08-12 | 2023-09-30 |
 | [Y Si Me Dejas](https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Y Si Me Dejas](https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1) | 2:58 | 2023-03-31 | 2023-04-15 |
 | [Ya No Estoy a Tus Pies](https://open.spotify.com/track/1fLDqQSdDcKZEsmtXsnojw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Ya No Estoy a Tus Pies](https://open.spotify.com/album/763xBBavvXtYoiKxDVTTTa) | 2:59 | 2022-08-12 | 2024-04-19 |

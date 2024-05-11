@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "from RUVA to El Roi",
+        "url": "https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7"
+      },
+      "artists": [
+        {
+          "name": "RUVA",
+          "url": "https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233133,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU"
+    },
+    {
+      "album": {
         "name": "Mr O\u00falala",
         "url": "https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby"
       },

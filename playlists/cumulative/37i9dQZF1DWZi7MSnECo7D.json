@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Bemti",
-  "name": "Indie Brasil",
+  "description": "indiezices e alternatividades. Foto: PLUMA",
+  "name": "alt BR",
   "tracks": [
     {
       "album": {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 223650,
       "name": "Amor Delirio",
       "url": "https://open.spotify.com/track/6v9n6CsxdpPgr3I7moL1YJ"
@@ -1050,6 +1050,28 @@
       "duration_ms": 166448,
       "name": "astronauta",
       "url": "https://open.spotify.com/track/0sVTTF4UBzjzd7iEZxUrXB"
+    },
+    {
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/6thRxrApMjFkSNWT90Az4A"
+      },
+      "artists": [
+        {
+          "name": "Atalhos",
+          "url": "https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9"
+        },
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234318,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/17nOJvu5U8WHReykHKY18r"
     },
     {
       "album": {
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194880,
       "name": "Cora\u00e7\u00e3o Cometa",
       "url": "https://open.spotify.com/track/0Txofif7SpY4gGzI6eO7L6"
@@ -2496,6 +2518,24 @@
       "duration_ms": 261142,
       "name": "Cores de Oxum",
       "url": "https://open.spotify.com/track/5QN7Eg96hscUhJ4JDOkgZh"
+    },
+    {
+      "album": {
+        "name": "Corrida!",
+        "url": "https://open.spotify.com/album/6TCoYx5VpAID8Sz7GnUB7A"
+      },
+      "artists": [
+        {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307589,
+      "name": "Corrida!",
+      "url": "https://open.spotify.com/track/7dn7kstmJzGEIWKvDG1ZqC"
     },
     {
       "album": {
@@ -2550,7 +2590,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 314999,
       "name": "c\u00e9u",
       "url": "https://open.spotify.com/track/3aS8ZV7rPGLikifySWy3jM"
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 231737,
       "name": "Dela",
       "url": "https://open.spotify.com/track/6kHuBsPj0OFq0cfDtjgwtd"
@@ -3208,6 +3248,24 @@
       "duration_ms": 166800,
       "name": "D\u00f3id\u00f3id\u00f3i",
       "url": "https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY"
+    },
+    {
+      "album": {
+        "name": "e ai, a.i",
+        "url": "https://open.spotify.com/album/2eg97Cdq5J9DYzMCZE36Vv"
+      },
+      "artists": [
+        {
+          "name": "perdido",
+          "url": "https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96923,
+      "name": "e ai, a.i",
+      "url": "https://open.spotify.com/track/6F8d3BhStZpnrX6yceMkdp"
     },
     {
       "album": {
@@ -4468,7 +4526,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194122,
       "name": "Horas Iguais",
       "url": "https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM"
@@ -4780,6 +4838,24 @@
       "duration_ms": 174000,
       "name": "Isa",
       "url": "https://open.spotify.com/track/1VfRIkOyn0FsGifUEQAncZ"
+    },
+    {
+      "album": {
+        "name": "Copas & Estopim",
+        "url": "https://open.spotify.com/album/7eTkOlODjRU2J6lP8TRBZb"
+      },
+      "artists": [
+        {
+          "name": "Vivian Kuczynski",
+          "url": "https://open.spotify.com/artist/08AEOtd5A5ubv8RUJIZ3H6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146093,
+      "name": "Isabela P\u00e9tala",
+      "url": "https://open.spotify.com/track/0obhqI6bYGtLlI7yTj8abp"
     },
     {
       "album": {
@@ -5459,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Estado Febril",
+        "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
+      },
+      "artists": [
+        {
+          "name": "Bruna Alimonda",
+          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182765,
+      "name": "Me Beija Na Rua",
+      "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
+    },
+    {
+      "album": {
         "name": "QNHMN / MCPD",
         "url": "https://open.spotify.com/album/5U5KGKrvKAyFrgF6UlvUgT"
       },
@@ -5720,7 +5814,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192572,
       "name": "Mergulho",
       "url": "https://open.spotify.com/track/5aCQreCtig33n2exJZTOdQ"
@@ -6713,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9voas",
+        "url": "https://open.spotify.com/album/6cuoqU97RNqlJXZ27EL08H"
+      },
+      "artists": [
+        {
+          "name": "Jair Naves",
+          "url": "https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294529,
+      "name": "N\u00e9voas",
+      "url": "https://open.spotify.com/track/3UkGVb1conf74SG0dXXwVz"
+    },
+    {
+      "album": {
         "name": "Crashes n' Crushes",
         "url": "https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr"
       },
@@ -7342,6 +7454,28 @@
       "duration_ms": 105018,
       "name": "partida - eu corro lo-fi mix",
       "url": "https://open.spotify.com/track/5zMnl2vbs28HyE5PHat3pz"
+    },
+    {
+      "album": {
+        "name": "Pax, Patz, Paz",
+        "url": "https://open.spotify.com/album/2k4zYQIbUU4DBwcTRZWNP5"
+      },
+      "artists": [
+        {
+          "name": "Apeles",
+          "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
+        },
+        {
+          "name": "Lucas Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/2OfOTmOMAgOsmbeGBCIiYA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292835,
+      "name": "Pax, Patz, Paz",
+      "url": "https://open.spotify.com/track/3KgFZWHQIHZv8c8TC0WJHf"
     },
     {
       "album": {
@@ -8482,7 +8616,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171250,
       "name": "RU\u00cdNA",
       "url": "https://open.spotify.com/track/1HQNigUfZPpkc5XTfy9xps"
@@ -8871,6 +9005,28 @@
     },
     {
       "album": {
+        "name": "Selvagem Sil\u00eancio",
+        "url": "https://open.spotify.com/album/4C1ssWfVzqTOj1NLfdn7nX"
+      },
+      "artists": [
+        {
+          "name": "Andrea Martins",
+          "url": "https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG"
+        },
+        {
+          "name": "bule",
+          "url": "https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248254,
+      "name": "Selvagem Sil\u00eancio",
+      "url": "https://open.spotify.com/track/7m3PiVSwPtOpTnydpxQzH0"
+    },
+    {
+      "album": {
         "name": "Sem Medo de Mudar",
         "url": "https://open.spotify.com/album/44OSmMHYllqbWo6DJX3FmL"
       },
@@ -9240,7 +9396,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 116363,
       "name": "Strokinho",
       "url": "https://open.spotify.com/track/2k6DnW7pZj1x5eRMVCrAth"
@@ -9410,6 +9566,28 @@
       "duration_ms": 178495,
       "name": "S\u00f3 mais um cafezinho",
       "url": "https://open.spotify.com/track/7H5d5kiKDxCMjiakJWvbAP"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Palavras",
+        "url": "https://open.spotify.com/album/4pQMBJWAWwvv4oMRrVtBt0"
+      },
+      "artists": [
+        {
+          "name": "Lauiz",
+          "url": "https://open.spotify.com/artist/3c84amfUX2CH7z2q3q7Kmb"
+        },
+        {
+          "name": "Theo Ceccato",
+          "url": "https://open.spotify.com/artist/6MRpL902mTsx4Jjxhz4H7W"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127605,
+      "name": "S\u00f3 Palavras",
+      "url": "https://open.spotify.com/track/10tVzcG3rpJG3OlLYWISlF"
     },
     {
       "album": {
@@ -9750,7 +9928,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 181306,
       "name": "Tirolirole",
       "url": "https://open.spotify.com/track/5x89MDzl5Xcsg7wO4yPpVJ"
@@ -9880,7 +10058,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 159000,
       "name": "Todos os Santos Permitidos",
       "url": "https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm"
@@ -10416,6 +10594,24 @@
       "duration_ms": 229500,
       "name": "Um Pescador",
       "url": "https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9"
+    },
+    {
+      "album": {
+        "name": "Uma Beleza De Barriga",
+        "url": "https://open.spotify.com/album/6hENLDi5c2kdU4TStF3w5j"
+      },
+      "artists": [
+        {
+          "name": "Barulhista",
+          "url": "https://open.spotify.com/artist/6mkcm4lxtlAgUOIgBeBhAA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199802,
+      "name": "Uma Beleza De Barriga",
+      "url": "https://open.spotify.com/track/5DGVr28QOzIrioAablvVZW"
     },
     {
       "album": {

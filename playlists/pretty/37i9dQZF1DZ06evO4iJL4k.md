@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,471 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,722 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/7s4e0robYmfsPC89q4W5YA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Show Case](https://open.spotify.com/album/7JEu7nDWBE72tKNHsTnIzF) | 2:17 |
 | 50 | [Desenho](https://open.spotify.com/track/0kYVyrvBGm9PhHmOnLjrDG) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Desenho](https://open.spotify.com/album/404WYMX0T42RBpdx3HuN3q) | 3:45 |
 
-Snapshot ID: `ZjrAgAAAAAADWCCD1UWgB08kx2nFgZYB`
+Snapshot ID: `ZjwSAAAAAAA1tWWxZKw4kRb2Cg1oIUqZ`

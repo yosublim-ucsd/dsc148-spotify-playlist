@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6ZdZF7zhOKer8UHfvb6M6V"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163291,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7"
+    },
+    {
+      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i"
       },

@@ -7579,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212538,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
+    },
+    {
+      "album": {
         "name": "Find a Way (feat. Rudy)",
         "url": "https://open.spotify.com/album/1Z0KvxdQdB4yF68aG4vVqv"
       },
@@ -9452,6 +9470,28 @@
       "duration_ms": 170329,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/4AwEMmqkq5iLXpjHlXF6GR"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236782,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/269hT1ugct4fdJ2dmB20SJ"
     },
     {
       "album": {

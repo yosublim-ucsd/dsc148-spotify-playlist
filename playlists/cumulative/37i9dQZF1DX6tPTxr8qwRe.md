@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: PEGGY
+> Dark, hard hitting pop\. Cover: Danielle Bradbery
 
-662 songs - 1 day 6 hr 23 min
+667 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [beetlejuice \(dead to me\)](https://open.spotify.com/track/6fKlTefffyQnLwwHnnmiiL) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [life's a bitch..\. but it gets better](https://open.spotify.com/album/2bRpk2HmQS7y9SEyKnybUq) | 2:06 | 2023-10-06 | 2024-02-24 |
 | [beetlejuice \(dead to me\)](https://open.spotify.com/track/7uwGJNxwruP07ME7Z1vkVr) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [beetlejuice \(dead to me\)](https://open.spotify.com/album/6JKYIbJaSDxsnzE33TWyMv) | 2:06 | 2023-08-18 | 2023-10-23 |
 | [Behind The Scenes](https://open.spotify.com/track/0YlKym9x7HYSmPIWJIWHbz) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Behind The Scenes](https://open.spotify.com/album/7qEddKPXAqRR35cDQGHTVZ) | 2:36 | 2024-03-22 |  |
+| [Bestie](https://open.spotify.com/track/1JKJM2mGFmBE3ZVIKlbfIW) | [Rosemary Joaquin](https://open.spotify.com/artist/5siWl4GNJu9rBMoexPD9R6) | [Bestie](https://open.spotify.com/album/0Vc8shcZCkNiVyqVeI30q8) | 2:34 | 2024-05-10 |  |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-28 | 2022-05-14 |
 | [Better On Mute](https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Better On Mute](https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09) | 2:37 | 2023-11-10 | 2024-01-05 |
 | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/album/0BqTnZD4dmxKVg7ZYgmmXY) | 2:39 | 2024-01-05 | 2024-04-24 |
@@ -130,6 +131,7 @@
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2023-04-01 |
 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 | 2022-08-20 |
 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 | 2023-08-18 | 2023-09-16 |
+| [Control](https://open.spotify.com/track/1mKUt8tlpYVfKHay0ETmSh) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Control](https://open.spotify.com/album/63o51nuPIguOwZ1Y5dxlUR) | 3:07 | 2024-05-10 |  |
 | [Could've Just Left Me Alone](https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Could've Just Left Me Alone](https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW) | 2:17 | 2022-05-27 | 2022-10-08 |
 | [CRAVE](https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [CRAVE](https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu) | 2:30 | 2022-10-14 | 2022-11-12 |
 | [crawl](https://open.spotify.com/track/6PdNcUnU7szJ0uU5GBCLe8) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [crawl](https://open.spotify.com/album/3rf35ZOJylG4lrQ74sCdJS) | 3:01 | 2023-11-17 | 2024-02-24 |
@@ -172,6 +174,7 @@
 | [DOLLFACE](https://open.spotify.com/track/3gL9Jv6egpdDp1znk8XFJS) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [DOLLFACE](https://open.spotify.com/album/2Wy6NQSU8DschVzSF2UCcA) | 1:47 | 2024-03-22 |  |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 | 2022-09-17 |
 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 | 2023-09-02 |
+| [DON'T](https://open.spotify.com/track/09KcJTiSWfibriFPchj0Jt) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DON'T](https://open.spotify.com/album/4uaMlHLDGX7sv3sKWVxBOw) | 2:09 | 2024-05-10 |  |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 | 2023-07-28 | 2023-12-09 |
@@ -632,6 +635,7 @@
 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 | 2023-04-21 | 2023-08-19 |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-04-29 | 2022-05-20 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |
+| [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-05-10 |  |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-07 | 2023-08-19 |
 | [Weird World](https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Weird World](https://open.spotify.com/album/37guijeueIx5aOEJzd2SZn) | 3:58 | 2024-02-23 | 2024-04-27 |
 | [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 | 2023-10-13 | 2023-11-25 |
@@ -660,6 +664,7 @@
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 | 2022-10-22 |
 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 | 2022-10-28 | 2023-04-01 |
 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2024-01-20 |
+| [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/track/3EgRznELSayrCj19aGYRic) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC) | 2:57 | 2024-05-10 |  |
 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 | 2022-01-28 | 2022-10-08 |
 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 | 2023-06-30 | 2023-09-16 |
 | [yellow tape](https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [yellow tape](https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE) | 2:20 | 2023-10-20 | 2024-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 33615,
+  "num_followers": 33623,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAACQYbiYPyyXGiu18/N3lAYx",
+  "snapshot_id": "ZjwSAAAAAABy7knndrpu4A/H9uvIPrhd",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 260481,
-      "name": "Sobre as Ondas do Mar",
-      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 289459,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 260481,
+      "name": "Sobre as Ondas do Mar",
+      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 252308,
-      "name": "Uma Flor Gloriosa",
-      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 289552,
       "name": "Esconderijo do Alt\u00edssimo",
       "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 252308,
+      "name": "Uma Flor Gloriosa",
+      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
     },
     {
       "added_at": null,
@@ -559,6 +559,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 364692,
+      "name": "Sementes da F\u00e9",
+      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sele\u00e7\u00e3o Essencial - Grandes Sucessos - Cassiane",
+        "url": "https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Fa\u00e7a a diferen\u00e7a",
+      "url": "https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -583,54 +631,6 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 364692,
-      "name": "Sementes da F\u00e9",
-      "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sele\u00e7\u00e3o Essencial - Grandes Sucessos - Cassiane",
-        "url": "https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Fa\u00e7a a diferen\u00e7a",
-      "url": "https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 274181,
-      "name": "Erguer as M\u00e3os",
-      "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
+      "duration_ms": 321549,
+      "name": "Louvor sem Fim",
+      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 321549,
-      "name": "Louvor sem Fim",
-      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+      "duration_ms": 274181,
+      "name": "Erguer as M\u00e3os",
+      "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 294183,
       "name": "Transformada",
       "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,

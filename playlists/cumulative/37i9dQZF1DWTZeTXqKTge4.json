@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/0w7qXeFzUkFzZfPgE7uOcN"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183187,
       "name": "DILDO GOD",
       "url": "https://open.spotify.com/track/2LKaHPVUcEeUPKtA5RmQma"
@@ -5201,6 +5201,50 @@
     },
     {
       "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj"
+      },
+      "artists": [
+        {
+          "name": "Modlee",
+          "url": "https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW"
+        },
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Koyo Sur La Prod",
+          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J"
+    },
+    {
+      "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/3DaDBpxCFkdDg0xjSzgoB6"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/2w6WOGnMCwg4R2kXPAOpcD"
+    },
+    {
+      "album": {
         "name": "Grind",
         "url": "https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ"
       },
@@ -6216,7 +6260,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 123947,
       "name": "Je suis Lui",
       "url": "https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3"
@@ -6238,6 +6282,28 @@
       "duration_ms": 136799,
       "name": "Jelly",
       "url": "https://open.spotify.com/track/0VVfam9xsR7Em7CWoYECr6"
+    },
+    {
+      "album": {
+        "name": "Jeune Fiori",
+        "url": "https://open.spotify.com/album/5f0ykgertWsuRDny9E2az2"
+      },
+      "artists": [
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        },
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Jeune Fiori",
+      "url": "https://open.spotify.com/track/3g7ezTi7UhygHwHZ3UQgUN"
     },
     {
       "album": {
@@ -7963,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "Monolove",
+        "url": "https://open.spotify.com/album/1s3FfWbkHpV9uA4jZfj7B4"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141321,
+      "name": "Monolove",
+      "url": "https://open.spotify.com/track/4CuDF39WKMnhxjiHCXOBq9"
+    },
+    {
+      "album": {
         "name": "Montego Bay",
         "url": "https://open.spotify.com/album/2WR2QlAGCRC5sJuJhZEUHS"
       },
@@ -8618,7 +8702,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176000,
       "name": "N\u00e9 pour briller",
       "url": "https://open.spotify.com/track/0baAzE9vvmyskTXLLJZwBF"
@@ -9736,7 +9820,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 139322,
       "name": "Princes \u00e0 New-York",
       "url": "https://open.spotify.com/track/4bgmhMSarZXS6mLTE4p4jE"
@@ -11618,7 +11702,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 135650,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo"
@@ -12088,6 +12172,24 @@
       "duration_ms": 108948,
       "name": "TRISTE & C\u00c9L\u00c8BRE",
       "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
+    },
+    {
+      "album": {
+        "name": "TRISTEMENT CELEBRE",
+        "url": "https://open.spotify.com/album/4KgH18uGIXHg9VnSJWnJMQ"
+      },
+      "artists": [
+        {
+          "name": "VT",
+          "url": "https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126386,
+      "name": "TRISTEMENT CELEBRE",
+      "url": "https://open.spotify.com/track/6f0xePbra1IWDyl8L8Bet1"
     },
     {
       "album": {
@@ -12570,7 +12672,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156404,
       "name": "VISA",
       "url": "https://open.spotify.com/track/67g2ofnMNzwzUbbNt0eyPk"

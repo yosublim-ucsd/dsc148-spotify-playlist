@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Kevin AMF. ",
+  "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Manuelvezz, Joaquin Medina, Tito Double P. ",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156125,
       "name": "3 Colores",
       "url": "https://open.spotify.com/track/0oTLMGtgRu4YD1Z2Herhmh"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
@@ -438,6 +438,32 @@
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/3PenLzruF1GMpjSmcPJkH2"
+    },
+    {
+      "album": {
+        "name": "ALV (Remix)",
+        "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
+      },
+      "artists": [
+        {
+          "name": "Manuelvezz",
+          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "ALV - Remix",
+      "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
     },
     {
       "album": {
@@ -1266,7 +1292,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222269,
       "name": "Botellas",
       "url": "https://open.spotify.com/track/46dlt0HuKR9LR0FdRouvll"
@@ -1306,6 +1332,32 @@
       "duration_ms": 170375,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF"
+    },
+    {
+      "album": {
+        "name": "Brinca - Spotify Singles",
+        "url": "https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Brinca - Spotify Singles",
+      "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
     },
     {
       "album": {
@@ -2420,6 +2472,28 @@
       "duration_ms": 162013,
       "name": "Despu\u00e9s Del Party",
       "url": "https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY"
+    },
+    {
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202551,
+      "name": "DESQUITE",
+      "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
     },
     {
       "album": {
@@ -3639,6 +3713,32 @@
     },
     {
       "album": {
+        "name": "GDL",
+        "url": "https://open.spotify.com/album/0gRleK1TX3po4MIvEIwVa2"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "GDL",
+      "url": "https://open.spotify.com/track/3SZ0KQJWzFwqAEEOUz34Rv"
+    },
+    {
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -4714,7 +4814,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 226675,
       "name": "La Salle",
       "url": "https://open.spotify.com/track/5BEhlzgBIPNouG3ba980oY"
@@ -7519,6 +7619,32 @@
     },
     {
       "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "album": {
         "name": "Que Vuelta",
         "url": "https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx"
       },
@@ -7692,7 +7818,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213360,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/7JqZc7XuaNv38mcqpdH8V1"
@@ -7718,7 +7844,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188953,
       "name": "RAYBEN CAP 5: CORONAMOS",
       "url": "https://open.spotify.com/track/2v1NtZLK6zqn6JzwpvwbPC"
@@ -8258,6 +8384,24 @@
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
+    },
+    {
+      "album": {
+        "name": "Simon Simon",
+        "url": "https://open.spotify.com/album/4JyBLGgvBbRMsYhhHn2nto"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Simon Simon",
+      "url": "https://open.spotify.com/track/6G0G0pV61kUEYoUhmfkqRt"
     },
     {
       "album": {

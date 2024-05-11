@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Einmusik
 
-3,536 songs - 12 day 21 hr 47 min
+3,537 songs - 12 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Empires Of The North](https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Empire EP](https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN) | 3:50 | 2022-05-12 | 2022-05-27 |
 | [Emptiness](https://open.spotify.com/track/4FZ88xWd73VLB4w4bDiSOc) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r), [Devid Dega](https://open.spotify.com/artist/4joh8TLVd07bIDk68LJxte), [Giza Djs](https://open.spotify.com/artist/1qdcEzD1e7TMb4w33aO6R8) | [Dolore Amore EP](https://open.spotify.com/album/7rbHQxzmkyM4yXUM6L3U2v) | 7:37 | 2023-12-14 | 2024-01-19 |
 | [Encore](https://open.spotify.com/track/21mtiNlfNv9wCK8CPlhODV) | [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Secret Weapons Part 14 I/VI](https://open.spotify.com/album/0s95NqXPhKbpALQDkqLPiG) | 5:03 | 2022-06-16 | 2022-07-08 |
+| [Encounter](https://open.spotify.com/track/0k6gM49WeWv3rEPLGVjiMi) | [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Encounter](https://open.spotify.com/album/27D9mWpxYbteppnav4KHEl) | 4:13 | 2024-05-09 |  |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-11 | 2022-12-02 |
 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 | 2023-10-12 | 2023-10-27 |
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2023-06-16 | 2023-07-07 |
@@ -3519,7 +3520,7 @@
 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 | 2024-02-29 | 2024-03-22 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-04-21 | 2022-05-13 |
 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 | 2022-11-03 | 2022-11-25 |
-| [Your House \- Extended Mix](https://open.spotify.com/track/06Ow0ZtqEOHU0ineQj8UZj) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Your House](https://open.spotify.com/album/5QWJBtzQCtMFhi5glWkCAn) | 5:58 | 2024-05-02 |  |
+| [Your House](https://open.spotify.com/track/06Ow0ZtqEOHU0ineQj8UZj) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Your House](https://open.spotify.com/album/5QWJBtzQCtMFhi5glWkCAn) | 5:48 | 2024-05-02 |  |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-20 | 2022-06-03 |
 | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/track/2NHygo6Jm4sUgKw76WvaJp) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw) | 4:13 | 2023-09-07 | 2023-09-29 |
 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 | 2022-10-27 | 2022-11-18 |

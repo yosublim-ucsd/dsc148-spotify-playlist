@@ -1,6 +1,6 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 10074,
+  "num_followers": 10086,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 437906,
+      "name": "A Sea Of Love",
+      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 162793,
       "name": "Time, Being",
       "url": "https://open.spotify.com/track/6CSQGGObzhr6rRmYsatoSq"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 437906,
-      "name": "A Sea Of Love",
-      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Spells (Special Edition)",
-        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Schaum",
         "url": "https://open.spotify.com/album/58F8DIOgoFQoY112kj6sLP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 333267,
       "name": "Cin",
       "url": "https://open.spotify.com/track/1pfpIws99akZNCWuLnO79T"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Spells (Special Edition)",
+        "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1055,42 +1055,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Xen",
-        "url": "https://open.spotify.com/album/0jBNrkszYqqnNVEyHWj3ih"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 129552,
-      "name": "Wound",
-      "url": "https://open.spotify.com/track/0TWtRsjyOTGofe5TP8VCog"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Loom Dream",
         "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
       },
@@ -1103,6 +1067,22 @@
       "duration_ms": 455925,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Xen",
+        "url": "https://open.spotify.com/album/0jBNrkszYqqnNVEyHWj3ih"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 129552,
+      "name": "Wound",
+      "url": "https://open.spotify.com/track/0TWtRsjyOTGofe5TP8VCog"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1135,6 +1115,26 @@
       "duration_ms": 207529,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+        }
+      ],
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "soft rime",
+      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "chapter",
-        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
       "artists": [
         {
-          "name": "Hirotaka Shirotsubaki",
-          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
         }
       ],
-      "duration_ms": 287843,
-      "name": "soft rime",
-      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1235,22 +1251,6 @@
       "duration_ms": 429986,
       "name": "Warm",
       "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Curious Things",
+        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "Ogives / Redistributed",
+      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "The Last of Our Time Together",
         "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 364253,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Curious Things",
-        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Ogives / Redistributed",
-      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+        "name": "Sunlight of Oneness and Very Amazing Now",
+        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Phillip Wilkerson",
+          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
         }
       ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
+      "duration_ms": 556007,
+      "name": "Sunlight of Oneness",
+      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sunlight of Oneness and Very Amazing Now",
-        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
       "artists": [
         {
-          "name": "Phillip Wilkerson",
-          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 556007,
-      "name": "Sunlight of Oneness",
-      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-06-07 15:21:34",

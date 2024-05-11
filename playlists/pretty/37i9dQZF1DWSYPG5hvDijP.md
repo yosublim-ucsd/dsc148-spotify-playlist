@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,603 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CBSC](https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv) | [The Siege](https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [CBSC](https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m) | 1:22 |
+| 1 | [Dhandho](https://open.spotify.com/track/1eIwEnZPmLeeA622uvG1r3) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dhandho](https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG) | 2:54 |
 | 2 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 |
 | 3 | [Kar De Kaa?](https://open.spotify.com/track/7gkktSAicOGO7aS5WL0WtG) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Ink Heart](https://open.spotify.com/artist/010tbxYFwrOC8Nl2paePR6) | [Scene Main Bawaal](https://open.spotify.com/album/49Fu8ZrbMFu9yZ61esgHwo) | 2:33 |
 | 4 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 |
 | 75 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 |
 
-Snapshot ID: `ZjDD0gAAAAAjf9WX/0Mu7cRlG0Ff3lB6`
+Snapshot ID: `Zj3vGAAAAAC/7ZzO/JocGxW/eHKrRnWP`

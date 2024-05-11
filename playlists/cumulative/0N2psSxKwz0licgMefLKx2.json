@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Miranda Lambert",
+  "description": "From Toronto to Nashville- country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone/Morgan Wallen",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 183508,
       "name": "A Lot With A Little",
       "url": "https://open.spotify.com/track/18pEQZgG2PMmUre3C2Tq74"
+    },
+    {
+      "album": {
+        "name": "Tennessee Truth",
+        "url": "https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/2QUuvRYxQd0X0AHZKUmkzO"
     },
     {
       "album": {
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "album": {
         "name": "Nobody's Born With A Broken Heart",
         "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
       },
@@ -304,7 +340,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 242306,
       "name": "Bury Me in Georgia",
       "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
@@ -730,7 +766,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
@@ -806,6 +842,24 @@
       "duration_ms": 159613,
       "name": "Fake Names",
       "url": "https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq"
+    },
+    {
+      "album": {
+        "name": "fault line",
+        "url": "https://open.spotify.com/album/1ZYo7uB8K9cvd8BotBNU2u"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199329,
+      "name": "fault line",
+      "url": "https://open.spotify.com/track/5UXEe9lASLQzbGapTZM7ID"
     },
     {
       "album": {
@@ -1145,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -1298,10 +1374,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 196906,
       "name": "Kiss My Boots",
       "url": "https://open.spotify.com/track/10cp4aOQWs8tFrbKK7A9nD"
+    },
+    {
+      "album": {
+        "name": "Leads Me Home",
+        "url": "https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Leads Me Home",
+      "url": "https://open.spotify.com/track/6Pv0lrmyyQpSPIaGBIDukW"
     },
     {
       "album": {
@@ -1594,7 +1688,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 218046,
       "name": "my place",
       "url": "https://open.spotify.com/track/4QHuywfD1V1eBMRY8Hbqnl"
@@ -2978,7 +3072,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161200,
       "name": "Your Heart Or Mine",
       "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"

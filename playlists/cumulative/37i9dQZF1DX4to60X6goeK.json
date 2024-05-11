@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 117530,
       "name": "Firebreak - 1991 Remix",
       "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
@@ -1981,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
+    },
+    {
+      "album": {
         "name": "IFTK (Vibe Chemistry Remix)",
         "url": "https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ"
       },
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
@@ -3027,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
+    },
+    {
+      "album": {
         "name": "VOID LP",
         "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
@@ -3060,6 +3104,28 @@
       "duration_ms": 267586,
       "name": "Operator",
       "url": "https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi"
+    },
+    {
+      "album": {
+        "name": "Out & About",
+        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
+      },
+      "artists": [
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Out & About",
+      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
       "album": {
@@ -3144,6 +3210,28 @@
       "duration_ms": 269655,
       "name": "Phantasm",
       "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
+    },
+    {
+      "album": {
+        "name": "Playing With Fire (feat. Zac Pajak)",
+        "url": "https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Zac Pajak",
+          "url": "https://open.spotify.com/artist/4RBVQ7fflz36JCOAMyxu8R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Playing With Fire (feat. Zac Pajak)",
+      "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
     },
     {
       "album": {
@@ -3458,7 +3546,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264269,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4ZyQtgBP1fTI3i6ho4jNdY"
@@ -4655,6 +4743,32 @@
     },
     {
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Cimone",
+          "url": "https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246900,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
+    },
+    {
+      "album": {
         "name": "Whoom",
         "url": "https://open.spotify.com/album/23Jr5Trk9iqDK2OTtklM3q"
       },
@@ -4804,7 +4918,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"

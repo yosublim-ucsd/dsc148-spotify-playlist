@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 117993,
+  "num_followers": 118120,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhfAAAAAAcK5+PDOdVuqQV6KgCcs7J",
+  "snapshot_id": "Zj2b/AAAAABjP9fayT26mqDQOQT6VbiU",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Finally Free",
+        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 282283,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
@@ -163,22 +179,6 @@
       "duration_ms": 181709,
       "name": "Only Tonight",
       "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e"
-      },
-      "artists": [
-        {
-          "name": "Kossisko",
-          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS"
     },
     {
       "added_at": "2024-03-22 04:01:00",

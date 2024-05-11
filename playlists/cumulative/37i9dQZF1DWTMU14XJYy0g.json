@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 206216,
       "name": "D\u00eda Especial - Bonus Track",
       "url": "https://open.spotify.com/track/7qCTCIrt04Xv3Co1EEqn3i"
@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "album": {
         "name": "Hacerlo Bien",
         "url": "https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm"
       },
@@ -2432,7 +2454,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 249444,
       "name": "La concentraci\u00f3n",
       "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
@@ -3497,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "HILDA CANTA CHARLY",
+        "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195107,
+      "name": "Nos siguen pegando abajo",
+      "url": "https://open.spotify.com/track/23EmcF8T8n8ianLaLAzTWJ"
+    },
+    {
+      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg"
       },
@@ -3964,7 +4004,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
@@ -4168,6 +4208,24 @@
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+    },
+    {
+      "album": {
+        "name": "Serenata de una ruta larga",
+        "url": "https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284919,
+      "name": "Serenata de una ruta larga",
+      "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"
     },
     {
       "album": {

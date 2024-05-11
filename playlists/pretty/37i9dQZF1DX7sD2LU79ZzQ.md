@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,965 likes - 93 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,043 likes - 93 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 92 | [Hawa Surga](https://open.spotify.com/track/5Hh6mtXHe7KAX6AiNGP1zZ) | [Terry](https://open.spotify.com/artist/2gZVqPSWfCgzQpinPi0uck) | [Hawa Surga](https://open.spotify.com/album/4sRKcG9i577HiYmT1cRuAn) | 3:24 |
 | 93 | [into you](https://open.spotify.com/track/2WLrBGcIPLt15oD5U5ZrqK) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5), [Popsickle](https://open.spotify.com/artist/3cR3YTiVngJTX0z7zXFeid) | [into you](https://open.spotify.com/album/3kAOFoLBAE5F6z5rRhPddF) | 3:06 |
 
-Snapshot ID: `Zj0aLQAAAABGq9d1011JwyrMUGYTvFGv`
+Snapshot ID: `Zj2fiAAAAADmNIKMXV46J3paOtMRRwha`

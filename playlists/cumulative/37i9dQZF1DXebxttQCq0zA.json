@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/7pucRHsDHHDCOQBPwL6ib8"
+      },
+      "artists": [
+        {
+          "name": "Onedin",
+          "url": "https://open.spotify.com/artist/7KrGMuULLxPvuxjbfmUSyj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/1uELly3bPSBbF7H23NyWuS"
+    },
+    {
+      "album": {
         "name": "Empfidlich",
         "url": "https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F"
       },
@@ -6570,6 +6588,24 @@
       "duration_ms": 181875,
       "name": "Visions of Sleep and Beyond",
       "url": "https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9"
+    },
+    {
+      "album": {
+        "name": "voices",
+        "url": "https://open.spotify.com/album/7biOuWiNNfa6D9MNTnWom7"
+      },
+      "artists": [
+        {
+          "name": "calmwise",
+          "url": "https://open.spotify.com/artist/1JNbhMXvf7fanTCXwcfgfT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "voices",
+      "url": "https://open.spotify.com/track/1SowUQ2TDoVFCvYP4fNEby"
     },
     {
       "album": {

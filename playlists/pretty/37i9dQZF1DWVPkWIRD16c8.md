@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,341 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,552 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 58 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 | 59 | [Power](https://open.spotify.com/track/1Tli4ykzVexUn987y49vlj) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/5rm5yOWUoGv5GdUmuQ1yvC) | 3:28 |
 | 60 | [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 |
-| 61 | [I Am Loved](https://open.spotify.com/track/67tNSz2wxASddAN9R9XZrx) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Covered](https://open.spotify.com/album/4G0bQV291TD22ne6bbCj2m) | 7:12 |
-| 62 | [Listen To The Sound](https://open.spotify.com/track/0AKClv4J6xgWQU3nY1lfTx) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:40 |
+| 61 | [Listen To The Sound](https://open.spotify.com/track/0AKClv4J6xgWQU3nY1lfTx) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:40 |
+| 62 | [I Am Loved](https://open.spotify.com/track/67tNSz2wxASddAN9R9XZrx) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Covered](https://open.spotify.com/album/4G0bQV291TD22ne6bbCj2m) | 7:12 |
 | 63 | [VOICES](https://open.spotify.com/track/7HheKCKMOVJWIcQvlqwQAv) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:58 |
 | 64 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 |
 | 65 | [Never Let Me Down](https://open.spotify.com/track/1R1TTzq1Z8fP12zgTT1j0V) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Never Let Me Down](https://open.spotify.com/album/3AdMAdfuTFgfbZk7cSasV9) | 3:56 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 71 | [Enough](https://open.spotify.com/track/3YmPKB2cXJ9e0ZuZUx2Yw2) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [DOOM.](https://open.spotify.com/album/6UEuRE7E2uyxKzMh9jIya5) | 3:13 |
 | 72 | [Covered](https://open.spotify.com/track/7GlpwaiPViD8F7bshG2OcM) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Covered](https://open.spotify.com/album/4G0bQV291TD22ne6bbCj2m) | 5:12 |
 | 73 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
-| 74 | [I Still Believe \(You Are Faithful\)](https://open.spotify.com/track/5D7VjqVm0gE29TUWBz7Dv6) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:26 |
-| 75 | [Holding Me Still](https://open.spotify.com/track/5ZleLDyrsRLPpkgXJpu3wU) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Holding Me Still](https://open.spotify.com/album/3R0xklQ6ip8nJzh9kMDAS6) | 4:29 |
+| 74 | [Holding Me Still](https://open.spotify.com/track/5ZleLDyrsRLPpkgXJpu3wU) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Holding Me Still](https://open.spotify.com/album/3R0xklQ6ip8nJzh9kMDAS6) | 4:29 |
+| 75 | [I Still Believe \(You Are Faithful\)](https://open.spotify.com/track/5D7VjqVm0gE29TUWBz7Dv6) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:26 |
 
 Snapshot ID: `ZIxbTwAAAACPntTdnuZL/uoqy7sCQAa1`

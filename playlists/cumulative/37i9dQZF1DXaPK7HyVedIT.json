@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Slow Motion",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vintage Culture",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -490,6 +490,28 @@
       "duration_ms": 171428,
       "name": "B2 The Old School",
       "url": "https://open.spotify.com/track/596H2wc56DHytSsVNC3ZdX"
+    },
+    {
+      "album": {
+        "name": "BABY FIRE",
+        "url": "https://open.spotify.com/album/1HW5yF9zPq0hUcLCtvVBCo"
+      },
+      "artists": [
+        {
+          "name": "The Otherz",
+          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
+        },
+        {
+          "name": "Slow Mafia",
+          "url": "https://open.spotify.com/artist/3irAeKZH81lMZm3f10y8J7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "BABY FIRE",
+      "url": "https://open.spotify.com/track/6OKXEWWtuTZFz9C4OycuBq"
     },
     {
       "album": {
@@ -1280,7 +1302,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 182375,
       "name": "Clareou",
       "url": "https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder"
@@ -1446,7 +1468,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 144648,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
@@ -2137,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212538,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
+    },
+    {
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -2188,7 +2228,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 275847,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz"
@@ -3721,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/76IKvOu0qCx01kWvu0Yevk"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ls1w02I10d323dFhBtTzy"
+    },
+    {
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -3758,7 +3816,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161664,
       "name": "Michael Jordan",
       "url": "https://open.spotify.com/track/32WxH1Qka15MbHI81jBv3R"
@@ -4522,6 +4580,28 @@
       "duration_ms": 234161,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/4M4xiqCQdw7nd7AzrNAO2S"
+    },
+    {
+      "album": {
+        "name": "Panthers Pulse",
+        "url": "https://open.spotify.com/album/3iMZQ09orJ1mFXvHAsJZ6o"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118125,
+      "name": "Panthers Pulse",
+      "url": "https://open.spotify.com/track/6iyCeNSV9mS6ytzt0eeJub"
     },
     {
       "album": {
@@ -5468,7 +5548,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 207842,
       "name": "Sophisticated",
       "url": "https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH"
@@ -5528,6 +5608,24 @@
       "duration_ms": 258000,
       "name": "Speak Up - Slow Motion, Duarte Remix",
       "url": "https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI"
+    },
+    {
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/2EUzRrwkRBJB58VLXzQjDe"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1FZI8uTVMRsSBvhLZ3N00W"
     },
     {
       "album": {
@@ -6351,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Two Sides (feat. Julia Temos)",
+        "url": "https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7"
+      },
+      "artists": [
+        {
+          "name": "INGEK",
+          "url": "https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153870,
+      "name": "Two Sides (feat. Julia Temos)",
+      "url": "https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f"
+    },
+    {
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -6457,6 +6577,28 @@
     },
     {
       "album": {
+        "name": "venus' secret",
+        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200465,
+      "name": "venus' secret",
+      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
@@ -6524,7 +6666,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"

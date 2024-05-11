@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a> & <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-1,005 songs - 2 day 1 hr 30 min
+1,006 songs - 2 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ain't Playin'](https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Ain't Playin'](https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H) | 3:43 | 2022-03-12 | 2022-08-07 |
 | [All Day](https://open.spotify.com/track/0qsuv9geXk9Z2DoxOT9dl5) | [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [All Day](https://open.spotify.com/album/4x7DAKL7zUlqV5gc5dyl0V) | 3:18 | 2021-12-11 | 2022-02-04 |
 | [All Day Flow](https://open.spotify.com/track/4OHyED8ksYEvDXfKoBuqLE) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Winner's Circle](https://open.spotify.com/album/2CC2yOzkTN6C73HK8ZVPzJ) | 2:10 | 2021-12-11 | 2021-12-31 |
+| [All Glory To God](https://open.spotify.com/track/7yQ8FJoFyHPPQo8hBkh5Ga) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [All Glory To God](https://open.spotify.com/album/1vhkpRb5vJFhy9L1a04Lib) | 2:57 | 2024-05-10 |  |
 | [All I Can \(Cardec Mix\)](https://open.spotify.com/track/5kQuHT9V56rDLnklsKYVMW) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [All I Can](https://open.spotify.com/album/3XS8nJrWmR9Hs9SFa5T55I) | 2:25 | 2022-06-25 | 2022-07-27 |
 | [All I Need](https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [All I Need](https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75) | 2:40 | 2022-05-28 | 2023-12-16 |
 | [all I want](https://open.spotify.com/track/1P28yEIU9Pis3kCV3DAPmk) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD), [Sarah Nathalié](https://open.spotify.com/artist/0IdR2Dmxza6Xl7qe0XuXNs) | [all I want](https://open.spotify.com/album/3Cx9NPdArl92k7Viu7znWd) | 2:41 | 2021-12-11 | 2022-02-03 |
@@ -908,7 +909,7 @@
 | [TRY AGAIN](https://open.spotify.com/track/5KqhLk0flQp4TM8QIMArAX) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:49 | 2021-12-11 | 2022-04-29 |
 | [TUNNEL VISION](https://open.spotify.com/track/6C6s0bb9k6KfmRms8l6WE1) | [IAMOPB](https://open.spotify.com/artist/18MYQNripiW2Lljs4AhW3Z), [Anthone Ray](https://open.spotify.com/artist/2STifIFLtVoY6rj4hc4vVv) | [INNER CITY GOSPEL](https://open.spotify.com/album/2gsf9Nax7eO3tnjPSC4YqP) | 2:49 | 2022-07-17 | 2022-09-12 |
 | [Ugh Ugh](https://open.spotify.com/track/12HVeLLj7WuSyA0S1aizzA) | [Adrion Butler](https://open.spotify.com/artist/4IgUUuQrZ1zLIYzsuU0sT5), [ShySpeaks](https://open.spotify.com/artist/1qH7l0NhbPqaVbDWiw4JLf) | [Ugh Ugh](https://open.spotify.com/album/77AbaygMEIH8CHutQsIjHF) | 3:13 | 2021-12-11 | 2022-02-04 |
-| [UH HUH](https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [UH HUH](https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu) | 2:15 | 2024-01-19 |  |
+| [UH HUH](https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [UH HUH](https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu) | 2:15 | 2024-01-19 | 2024-05-11 |
 | [Unappreciated](https://open.spotify.com/track/0WmoLUqAtbN2IuSGVjL8X5) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz) | [Unappreciated](https://open.spotify.com/album/2WaPe5z2ciT5xkxofR8L2s) | 3:00 | 2022-02-04 | 2022-03-14 |
 | [Undefeated](https://open.spotify.com/track/6Lg9htY3rwEbzIqqhulZy0) | [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP) | [Undefeated](https://open.spotify.com/album/6EPjg8c5QR4ifcKcRHcWDZ) | 2:07 | 2022-03-12 | 2022-03-19 |
 | [Under Construction](https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [Under Construction](https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw) | 1:56 | 2023-03-25 | 2024-01-20 |

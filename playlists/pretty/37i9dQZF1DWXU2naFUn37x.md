@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,303 likes - 53 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,445 likes - 53 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

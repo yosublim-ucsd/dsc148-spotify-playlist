@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Megan Moroney, Beyonc\u00e9, Miley Cyrus &amp; more! Cover: Megan Moroney",
+  "description": "Your go-to playlist for this week's hottest music featuring Beyonc\u00e9, Miley Cyrus, and more! Cover: The Chainsmokers",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Bloom ft. Strings From Paris",
+        "url": "https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        },
+        {
+          "name": "Strings From Paris",
+          "url": "https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199643,
+      "name": "Bloom ft. Strings From Paris",
+      "url": "https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6ZMIZreIWeHckTNxwjQfrY"
       },
@@ -1862,6 +1884,24 @@
       "duration_ms": 196693,
       "name": "bugging!",
       "url": "https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U"
+    },
+    {
+      "album": {
+        "name": "Built by Broken Hearts",
+        "url": "https://open.spotify.com/album/7JOwEL7RKpB6vdYXH3snG8"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Built by Broken Hearts",
+      "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
     },
     {
       "album": {
@@ -2430,6 +2470,24 @@
       "duration_ms": 171229,
       "name": "Ciao Papa",
       "url": "https://open.spotify.com/track/4fqeUI4rGCjzrUwyTlOoeQ"
+    },
+    {
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/4FhOPhSVzZK5dzuoKw2vZF"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/6kZ6DKZADaBsYBcEZcBwwx"
     },
     {
       "album": {
@@ -8016,7 +8074,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 159524,
       "name": "Luv No Slutz",
       "url": "https://open.spotify.com/track/2c0AAba3JQmFCrh2fvpNqK"
@@ -8204,6 +8262,24 @@
       "duration_ms": 134852,
       "name": "MEXICO",
       "url": "https://open.spotify.com/track/5lM91CtjHLkREYf1CVdcbE"
+    },
+    {
+      "album": {
+        "name": "Family Feud",
+        "url": "https://open.spotify.com/album/3GwGPvsD2XJN0M9zAR8dJx"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216918,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/0KLJ25bNfbIVGLrdOYizSJ"
     },
     {
       "album": {
@@ -8945,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "Nights On Hill",
+        "url": "https://open.spotify.com/album/2vT7ZWBzFpR61FqyB7fxck"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Nights On Hill",
+      "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
+    },
+    {
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -9115,6 +9209,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213833,
+      "name": "No Shade at Pitti",
+      "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
+    },
+    {
+      "album": {
         "name": "No Time Wasted (feat. Future)",
         "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
       },
@@ -9246,7 +9358,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152433,
       "name": "Not Myself",
       "url": "https://open.spotify.com/track/6pHbXMhMezNDZ5GeOKmInE"
@@ -10009,6 +10121,24 @@
     },
     {
       "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3"
+    },
+    {
+      "album": {
         "name": "pick up the phone",
         "url": "https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf"
       },
@@ -10282,7 +10412,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 210394,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/7LJmjOVuQWui5qdrVWeKDx"

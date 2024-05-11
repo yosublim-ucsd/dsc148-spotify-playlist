@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 681132,
+  "num_followers": 681273,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Boxed",
-        "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
       "artists": [
         {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
         }
       ],
-      "duration_ms": 319480,
-      "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
-      "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
+      "duration_ms": 370386,
+      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
+      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1011,18 +1003,26 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+        "name": "Boxed",
+        "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
       },
       "artists": [
         {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
         }
       ],
-      "duration_ms": 370386,
-      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
-      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
+      "duration_ms": 319480,
+      "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
+      "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Goldmine: The Best Of The Pointer Sisters",
-        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 384626,
-      "name": "Jump (For My Love) - 12\" Long Version",
-      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Music For Groovin'",
         "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 206413,
       "name": "Ain't Nothin' Goin' On But The Rent - 12\" Club Mix",
       "url": "https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Goldmine: The Best Of The Pointer Sisters",
+        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 384626,
+      "name": "Jump (For My Love) - 12\" Long Version",
+      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Hundreds and Thousands",
+        "url": "https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 378866,
+      "name": "Why ? - 12'' Version; 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Axel F (Theme from \"Beverly Hills Cop\")",
         "url": "https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 599400,
       "name": "Uncertain Smile - 12\" Remix",
       "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Hundreds and Thousands",
-        "url": "https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 378866,
-      "name": "Why ? - 12'' Version; 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM"
     }
   ],
   "unique_name": "12\" Classics",

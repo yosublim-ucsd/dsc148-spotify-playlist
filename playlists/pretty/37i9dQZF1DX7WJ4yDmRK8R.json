@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
-  "num_followers": 377248,
+  "num_followers": 377356,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
-      },
-      "artists": [
-        {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "A Good Day for the Damned",
         "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206523,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -919,8 +919,8 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "The Green Album",
-        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
-      },
-      "artists": [
-        {
-          "name": "Skankin' Pickle",
-          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Special Brew",
-      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Room For Abuse '06",
         "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
+      },
+      "artists": [
+        {
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Special Brew",
+      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
-      },
-      "artists": [
-        {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "When God Was Great",
         "url": "https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
         "name": "Strange Creatures - EP",
         "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 254720,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
-        "name": "There's a Lot of It About",
-        "url": "https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4"
-      },
-      "artists": [
-        {
-          "name": "Snuff",
-          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Dippy Egg",
-      "url": "https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1463,6 +1447,22 @@
       "duration_ms": 196773,
       "name": "Revolution Riot",
       "url": "https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "There's a Lot of It About",
+        "url": "https://open.spotify.com/album/0SgUfhqqhfGG0nJqECcDe4"
+      },
+      "artists": [
+        {
+          "name": "Snuff",
+          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Dippy Egg",
+      "url": "https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "The Godfather Of Ska Anthology",
-        "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Skinhead",
-      "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "No One is Illegal",
         "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 226413,
       "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
       "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "The Godfather Of Ska Anthology",
+        "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
+      },
+      "artists": [
+        {
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "Skinhead",
+      "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Press",
-        "url": "https://open.spotify.com/album/2YIF0u9c2xEICAcOePI2Y2"
+        "name": "God Bless Satan",
+        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
       },
       "artists": [
         {
-          "name": "MU330",
-          "url": "https://open.spotify.com/artist/1kCnkCPBvBQFZv6njWcD7x"
+          "name": "Mephiskapheles",
+          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
         }
       ],
-      "duration_ms": 188733,
-      "name": "Stuff",
-      "url": "https://open.spotify.com/track/5Rj6Dg1fqFSmw2zhJFp3gh"
+      "duration_ms": 195527,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
     },
     {
       "added_at": "2024-05-01 21:01:32",

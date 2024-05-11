@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Be Enough",
+        "url": "https://open.spotify.com/album/5BSGmQdu7UitQe9QlBHpBd"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137682,
+      "name": "Be Enough",
+      "url": "https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP"
+    },
+    {
+      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
       },

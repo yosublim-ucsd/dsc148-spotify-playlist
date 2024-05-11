@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u8c61\u7684\u30d5\u30e9\u30af\u30bf\u30eb (beni-shouga)",
+        "url": "https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178183,
+      "name": "\u5fc3\u8c61\u7684\u30d5\u30e9\u30af\u30bf\u30eb - beni-shouga",
+      "url": "https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI"
+    },
+    {
+      "album": {
         "name": "\u65b0\u5ddd\u5d0e\uff08\u4eee\uff09 \u30dc\u30a4\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2023\. Cover: Kossisko \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,025 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slay](https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Slay](https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW) | 4:01 |
 | 2 | [Higher \(Escalators\)](https://open.spotify.com/track/0QqEiMhUxrInu1JEDw0WNr) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:19 |
 | 3 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
-| 4 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 |
+| 4 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 |
 | 5 | [Quilted!](https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Quilted!](https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj) | 2:13 |
 | 6 | [Ghostin' All My Friends](https://open.spotify.com/track/4qOjCtrKwGu31EkHmnCVOT) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Ghostin' All My Friends](https://open.spotify.com/album/6uCnAMIGDZuaHJqVSOvyXr) | 3:40 |
 | 7 | [AA Side Single](https://open.spotify.com/track/47sujtTF4MdGku6L74kWRu) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:03 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. Tutti i brani in un'unica playlist.",
-  "num_followers": 158988,
+  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "num_followers": 159006,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAAeAYUHClDLsveTVVdhJcSU",
+  "snapshot_id": "ZjwSAAAAAACrQecl0OnQuGZz+bNVAVm2",
   "tracks": [
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Declaro a Cristo",
-        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 288159,
-      "name": "Declaro a Cristo",
-      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
+      "duration_ms": 261780,
+      "name": "Para Sempre Te Adorarei",
+      "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+        "name": "Declaro a Cristo",
+        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 261780,
-      "name": "Para Sempre Te Adorarei",
-      "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
+      "duration_ms": 288159,
+      "name": "Declaro a Cristo",
+      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
     },
     {
       "added_at": null,

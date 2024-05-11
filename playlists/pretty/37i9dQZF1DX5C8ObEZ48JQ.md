@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT?si=PjlvtNTnSWKDDJh40vO8wg">BHADMAYORS</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,842 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,865 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 41 | [Runaway](https://open.spotify.com/track/6qasdxubSovCYbbZB4Xvk4) | [Teddy krane](https://open.spotify.com/artist/22Qjyplj5Bih1Q4jpU0Ina) | [Runaway](https://open.spotify.com/album/5u64ACTBKtzq7GhvrrOgvL) | 2:55 |
 | 42 | [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 |
 | 43 | [Infrared](https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Infrared](https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O) | 3:35 |
-| 44 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 |
+| 44 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:21 |
 | 45 | [HOLY JEALOUSY](https://open.spotify.com/track/4oW4mQgAUAicGrIuMLBK2f) | [Khalifina](https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l), [Niq\-El Angelo](https://open.spotify.com/artist/5Kp2s1o9XFthl5XVhYO5Nk) | [HOLY JEALOUSY](https://open.spotify.com/album/0kqioeczt4tseLQEH1CSfC) | 2:13 |
 | 46 | [No man is an Island](https://open.spotify.com/track/5SMlcsrDIIxL1kQF7obMcX) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [No man is an Island](https://open.spotify.com/album/1adJWdBttp6jTAXGSP2lj2) | 2:54 |
 | 47 | [Terry](https://open.spotify.com/track/25Kb8fwFUaQXyAKVJ543x1) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Kasunje](https://open.spotify.com/artist/3ECvZAJ359XydyKy9bjhFL) | [Terry](https://open.spotify.com/album/4atjtCfh4tn2nilHVLpSpi) | 2:58 |

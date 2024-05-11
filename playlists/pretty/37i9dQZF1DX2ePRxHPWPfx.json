@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 6317,
+  "num_followers": 1266,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZXypLQAAAABwaXqwtO/9jw0VFxc+Hosm",
+  "snapshot_id": "Zj6LhgAAAADb+n0IuWTZIKkKHW073WVF",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Los mismos",
         "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174285,
       "name": "Los mismos",
       "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Si Te Soy Sincera",
         "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 201861,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 190912,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
     }
   ],
   "unique_name": "cozied up",

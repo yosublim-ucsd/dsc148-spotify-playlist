@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 135076,
       "name": "3033",
       "url": "https://open.spotify.com/track/5NeP1ZwPoSNSGdL9db540W"
@@ -966,6 +966,32 @@
       "duration_ms": 229093,
       "name": "Arte",
       "url": "https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb"
+    },
+    {
+      "album": {
+        "name": "Astronauta, Vol. 2",
+        "url": "https://open.spotify.com/album/2O9r0SWrVjwtk3MtEe3eUL"
+      },
+      "artists": [
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        },
+        {
+          "name": "Sesiones del Jarabe",
+          "url": "https://open.spotify.com/artist/5Q35nNHAwbZ7c4BpW8JaZu"
+        },
+        {
+          "name": "Golden Beats",
+          "url": "https://open.spotify.com/artist/7GwtNZK94kU7sBvXXlHTXA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Astronauta, Vol. 2",
+      "url": "https://open.spotify.com/track/7i4JQvlXhavjLTD4aL4EjI"
     },
     {
       "album": {
@@ -2324,7 +2350,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177332,
       "name": "Cuando salga en Netflix.",
       "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
@@ -2914,7 +2940,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 248780,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/3cWxlNfcUWXlIU76nyMDhE"
@@ -4343,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/7GOafMscCbUjjv3oXcPHKf"
       },
@@ -4522,6 +4566,24 @@
       "duration_ms": 152453,
       "name": "Gol",
       "url": "https://open.spotify.com/track/3rccOm5b4qaylhIEMXtcev"
+    },
+    {
+      "album": {
+        "name": "ZO",
+        "url": "https://open.spotify.com/album/2eKAuWR9X0E0iuKlTtjeTl"
+      },
+      "artists": [
+        {
+          "name": "inDiazo",
+          "url": "https://open.spotify.com/artist/2nwQnQVnBmyJMyMrsEllLZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194607,
+      "name": "GroCERO",
+      "url": "https://open.spotify.com/track/3B73ptNPZzGTYsQqHjZEP1"
     },
     {
       "album": {
@@ -5095,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/0UTYTETZrgy8Zh2SsjzXUJ"
       },
@@ -5194,7 +5278,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183375,
       "name": "KLOK",
       "url": "https://open.spotify.com/track/1iXM1Cws9X0316taI1As05"
@@ -5693,6 +5777,32 @@
     },
     {
       "album": {
+        "name": "La practica",
+        "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        },
+        {
+          "name": "Yakari.",
+          "url": "https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs"
+        },
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "La practica",
+      "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
+    },
+    {
+      "album": {
         "name": "La Profec\u00eda (The Eagle & The Condor)",
         "url": "https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma"
       },
@@ -5810,7 +5920,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175999,
       "name": "Ladran los Perros",
       "url": "https://open.spotify.com/track/0k0iFv3lE9fH6xS3wq22jt"
@@ -10867,6 +10977,28 @@
     },
     {
       "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+    },
+    {
+      "album": {
         "name": "Tiempos de Lluvia",
         "url": "https://open.spotify.com/album/5DRUcNEvB5cfiQ0SgPOZ3h"
       },
@@ -11390,10 +11522,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 233423,
       "name": "UNITY CYPHER-ONE",
       "url": "https://open.spotify.com/track/05PcZv3YVnzfg0ZQYJdniI"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157037,
+      "name": "V",
+      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
     },
     {
       "album": {
@@ -11408,7 +11558,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186857,
       "name": "Vagos",
       "url": "https://open.spotify.com/track/32EfrTi3WfIwuIl94GZYuf"

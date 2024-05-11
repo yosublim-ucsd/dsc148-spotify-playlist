@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 297985,
+  "num_followers": 298086,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus",
         "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2024-04-26 03:41:46",

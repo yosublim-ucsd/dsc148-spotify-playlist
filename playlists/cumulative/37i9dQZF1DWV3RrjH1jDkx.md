@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk 🎵
 
-322 songs - 16 hr 23 min
+324 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blod svett & tårar](https://open.spotify.com/track/1fpbRrVuyJSuLK9vHp87Ax) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Blod svett & tårar](https://open.spotify.com/album/6GUav4AxhLsieczOXhc2ek) | 3:12 | 2024-05-09 |  |
 | [Blond Brunette](https://open.spotify.com/track/7avTom2f9H7U1meWIv2vmY) | [Sander Systad](https://open.spotify.com/artist/5Rsadk1NxuiiwWrNzbpEzu) | [Blond Brunette](https://open.spotify.com/album/4Mz6KzUK5KnFIi99Xu9ZnQ) | 2:01 | 2024-05-02 | 2024-05-10 |
 | [BMW](https://open.spotify.com/track/2l8XWsOestNZcFsJSneX7G) | [CashFlow](https://open.spotify.com/artist/5euM8vD0PtLqD65z7yLaav), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BMW](https://open.spotify.com/album/7azNhxbtvYEnQwz0Xtxm8Z) | 2:21 | 2024-05-09 |  |
+| [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Break & Entry](https://open.spotify.com/track/6mgkzhCXb5zDVcyKrZ98MG) | [Veps](https://open.spotify.com/artist/4PksrcF1fMf5sW4TN01dLl) | [Break & Entry](https://open.spotify.com/album/6NInsABWdGUj7FaHreL6x7) | 3:58 | 2024-04-26 | 2024-05-03 |
 | [C.N.B\. \(Cold Norwegian Babe\)](https://open.spotify.com/track/2w73xqdt7gj8bqVo2GjDA6) | [Maya Vik](https://open.spotify.com/artist/3Mvg8yidz5g6sKE4j6jGFh) | [C.N.B\. \(Cold Norwegian Babe\)](https://open.spotify.com/album/1RUlJh3Fuk3kN6KKLcEEUF) | 4:50 | 2024-05-09 |  |
@@ -182,7 +183,8 @@
 | [Let Go / I'm Fresh](https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Let Go / I'm Fresh](https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5) | 3:09 | 2024-05-09 |  |
 | [Lever Kun For I Kveld](https://open.spotify.com/track/14JpNBLBJ0XWRqmgAQXrQa) | [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p), [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe) | [Lever Kun For I Kveld](https://open.spotify.com/album/25PVUnc3GClfJ4QhBubw4Q) | 2:26 | 2024-05-09 |  |
 | [Lie](https://open.spotify.com/track/21ODJ4ML2egWflTeLqE7zB) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v) | [Lie](https://open.spotify.com/album/55E0AksU22kcXzSvNFLkrE) | 2:45 | 2024-05-02 | 2024-05-10 |
-| [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 |  |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 | 2024-05-10 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-05-03 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-05-03 | 2024-05-10 |

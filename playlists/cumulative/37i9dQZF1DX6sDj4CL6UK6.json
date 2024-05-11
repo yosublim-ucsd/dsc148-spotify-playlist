@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Top English songs from Asia. Cover: Frizzell D'souza",
+  "description": "Top English songs from Asia. Cover: Mali and Yohan Marshall",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264398,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/43AB5ow80MeDUdBL3W3sRT"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 194550,
       "name": "Dancing Cus It's Raining",
       "url": "https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 153999,
       "name": "Everybody Dances to Techno",
       "url": "https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183857,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 243692,
       "name": "Foolish Once Again",
       "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167225,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6NZVpnuEbRWkXucouWEbaq"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 257221,
       "name": "Hey Aries",
       "url": "https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 138461,
       "name": "Hope this song finds you",
       "url": "https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 158624,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/10hVVaeNjS5WqDfUgp6Fha"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 200724,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 163478,
       "name": "I\u2019m On Your Side",
       "url": "https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ"
@@ -2714,6 +2714,28 @@
       "duration_ms": 189333,
       "name": "Just As Easily",
       "url": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN"
+    },
+    {
+      "album": {
+        "name": "Just for Once",
+        "url": "https://open.spotify.com/album/4wyHX8oGBIZpe4PXHeGyW4"
+      },
+      "artists": [
+        {
+          "name": "Yohan Marshall",
+          "url": "https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD"
+        },
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "Just for Once",
+      "url": "https://open.spotify.com/track/5lxuSTeGvW0d6xoNarXFLP"
     },
     {
       "album": {
@@ -3520,7 +3542,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264191,
       "name": "No Vices",
       "url": "https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw"
@@ -3794,7 +3816,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152500,
       "name": "overtime",
       "url": "https://open.spotify.com/track/4MJYvBnXIXwmZN1yu7nOzR"
@@ -3838,6 +3860,24 @@
       "duration_ms": 171149,
       "name": "Pause",
       "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
+    },
+    {
+      "album": {
+        "name": "Peace Lily",
+        "url": "https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225216,
+      "name": "Peace Lily",
+      "url": "https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA"
     },
     {
       "album": {
@@ -3888,7 +3928,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
@@ -4062,7 +4102,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154609,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/2or2AibuoQJ9aJF0Ae9k6a"
@@ -4662,7 +4702,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 163537,
       "name": "Spare My Heart",
       "url": "https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI"
@@ -5262,7 +5302,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 219656,
       "name": "Until You See",
       "url": "https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36"
@@ -5536,7 +5576,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 266393,
       "name": "When We Feel Young",
       "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"

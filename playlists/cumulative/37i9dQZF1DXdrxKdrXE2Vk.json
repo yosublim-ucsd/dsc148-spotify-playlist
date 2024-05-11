@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10,000 Reasons (Bless The Lord) [Live]",
+        "url": "https://open.spotify.com/album/3Cg5yHaUcFTFzmKkd2kb8J"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461113,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0uWyDnh4WBEwAsYMnZxwyI"
+    },
+    {
+      "album": {
         "name": "A Little Fire (Burn Brighter)",
         "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
       },
@@ -1771,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
+    },
+    {
+      "album": {
         "name": "Firm Foundation (He Won't) [Live]",
         "url": "https://open.spotify.com/album/2sfFGLifx6FHdWEAfJgwrT"
       },
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 383000,
       "name": "GLORY - Live",
       "url": "https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE"
@@ -2238,6 +2274,28 @@
       "duration_ms": 372266,
       "name": "Grace Like Waters",
       "url": "https://open.spotify.com/track/4nIcCKDmnK8TlpKOPErbGx"
+    },
+    {
+      "album": {
+        "name": "Gratitude (Live)",
+        "url": "https://open.spotify.com/album/1XYyOfq5HZn39IgNYmv9yP"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Lee",
+          "url": "https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339615,
+      "name": "Gratitude - Live",
+      "url": "https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa"
     },
     {
       "album": {
@@ -3202,7 +3260,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 314975,
       "name": "Jesus Is In The Room - Live",
       "url": "https://open.spotify.com/track/6pqTg4ixzIdKCoEg8ZUsVv"
@@ -6228,7 +6286,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"

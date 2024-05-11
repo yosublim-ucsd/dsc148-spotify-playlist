@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: 42 Dugg",
+  "description": "The Midwest is always on time. Cover: Chief Keef",
   "name": "CST",
   "tracks": [
     {
@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0gj9UOb9ldseO9TLeonJwX"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130190,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/0UpdzAadhUQrtVnvPk27TF"
+    },
+    {
+      "album": {
         "name": "AHHH HA",
         "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
       },
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 113608,
       "name": "ASMR",
       "url": "https://open.spotify.com/track/2PrpgJaXdvjFyHlwxq22OC"
@@ -3387,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "DEVIL TO ATLANTA",
+        "url": "https://open.spotify.com/album/1qentj7pNGCKrmU2IQZZ5J"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156656,
+      "name": "DEVIL TO ATLANTA",
+      "url": "https://open.spotify.com/track/6TTDF18Rqe5NsduseeLMyJ"
+    },
+    {
+      "album": {
         "name": "Did Shit To Me (feat. Doodie Lo)",
         "url": "https://open.spotify.com/album/5ruuJ043cD6LUtzBP2kprc"
       },
@@ -3522,7 +3562,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 75428,
       "name": "DOJA",
       "url": "https://open.spotify.com/track/5CRvaSaEkBeZlLs2dKtlkF"
@@ -4346,7 +4386,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178695,
       "name": "Free Big Meech",
       "url": "https://open.spotify.com/track/0D4Kr5JisLwQLLI21QUMdG"
@@ -5389,6 +5429,28 @@
     },
     {
       "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Grape Trees (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
+    },
+    {
+      "album": {
         "name": "Green Carpet",
         "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
       },
@@ -5470,6 +5532,36 @@
       "duration_ms": 106511,
       "name": "Grown Man",
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
+    },
+    {
+      "album": {
+        "name": "GTA (feat. Skilla Baby)",
+        "url": "https://open.spotify.com/album/5Npm2NijowUYnwURf6wbrw"
+      },
+      "artists": [
+        {
+          "name": "DJ Bandz",
+          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151174,
+      "name": "GTA (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/20trBihLuFOnNKVzRhGctQ"
     },
     {
       "album": {
@@ -9300,7 +9392,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 224470,
       "name": "Not a Drill",
       "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
@@ -11148,7 +11240,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 146206,
       "name": "Richie (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7"
@@ -11896,7 +11988,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 134347,
       "name": "Shinin",
       "url": "https://open.spotify.com/track/1KZs3o4uHiOWhq5pJY3vbz"
@@ -12805,6 +12897,28 @@
     },
     {
       "album": {
+        "name": "H.I.M (Hustle In Me)",
+        "url": "https://open.spotify.com/album/5wE3Y9ir6DSF2AG2rWRKdn"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135757,
+      "name": "Starter Kit (featuring Veeze)",
+      "url": "https://open.spotify.com/track/3wnZwwG9IzwN8A2gUrjdNv"
+    },
+    {
+      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -13207,6 +13321,28 @@
     },
     {
       "album": {
+        "name": "Swear to God (feat. Future)",
+        "url": "https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Swear to God (feat. Future)",
+      "url": "https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp"
+    },
+    {
+      "album": {
         "name": "Swerve",
         "url": "https://open.spotify.com/album/2t1Uk8hs8tpZuptU2KVdS7"
       },
@@ -13556,7 +13692,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 126614,
       "name": "THE FALL OFF",
       "url": "https://open.spotify.com/track/4Aop9fiCaYFPhnlg3dxD2s"
@@ -13813,6 +13949,28 @@
     },
     {
       "album": {
+        "name": "H.I.M (Hustle In Me)",
+        "url": "https://open.spotify.com/album/5wE3Y9ir6DSF2AG2rWRKdn"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179206,
+      "name": "This That Typa (featuring Peezy)",
+      "url": "https://open.spotify.com/track/1mHp02bNdtwV6E6Cqp5cJd"
+    },
+    {
+      "album": {
         "name": "Thru The Town",
         "url": "https://open.spotify.com/album/1aMsSHYGis79SWIKjulvhg"
       },
@@ -14018,7 +14176,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 149786,
       "name": "Titty Song",
       "url": "https://open.spotify.com/track/0vrhc9SfT2L8cJUqQ8xkWr"
@@ -14194,6 +14352,24 @@
       "duration_ms": 184225,
       "name": "Trapper Of The Year",
       "url": "https://open.spotify.com/track/505h7n2RKx84zYZGs5ljSX"
+    },
+    {
+      "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268516,
+      "name": "Treat Myself",
+      "url": "https://open.spotify.com/track/4mSwG5sSZCWgsEvaHhqCen"
     },
     {
       "album": {
@@ -14724,7 +14900,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 146096,
       "name": "We Getting Money",
       "url": "https://open.spotify.com/track/6sQL7RyIeEyH6FulV1uFgl"
@@ -15306,6 +15482,24 @@
       "duration_ms": 186728,
       "name": "Yea Freestyle",
       "url": "https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G"
+    },
+    {
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/32kB87vZ7B8xYXjM3i4B3h"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121887,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
     },
     {
       "album": {

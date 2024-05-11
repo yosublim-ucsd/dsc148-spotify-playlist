@@ -1,13 +1,29 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 648329,
+  "num_followers": 648416,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAC5EXZ6DmilP4yHZJKJZgE+",
+  "snapshot_id": "ZjwSAAAAAAChD02WqDfw8hZ2tHM/j6gy",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
     {
       "added_at": null,
       "album": {
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 117066,
-      "name": "Unhappy Girl",
-      "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
+      "duration_ms": 201106,
+      "name": "The Unknown Soldier",
+      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
     },
     {
       "added_at": null,
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Back In Town (Live)",
+        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 201106,
-      "name": "The Unknown Soldier",
-      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
+      "duration_ms": 96643,
+      "name": "Mack The Knife - Live 1968",
+      "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back In Town (Live)",
-        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 96643,
-      "name": "Mack The Knife - Live 1968",
-      "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+      "duration_ms": 234440,
+      "name": "Not to Touch the Earth",
+      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
     },
     {
       "added_at": null,
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Not to Touch the Earth",
-      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": null,
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
+      "duration_ms": 39229,
+      "name": "I Am Troubled - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
     },
     {
       "added_at": null,

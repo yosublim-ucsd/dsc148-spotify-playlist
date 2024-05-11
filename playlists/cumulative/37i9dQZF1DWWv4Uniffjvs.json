@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "no pare, sigue sigue",
+        "url": "https://open.spotify.com/album/3sVtZT6LV0bftwB2EpUzQx"
+      },
+      "artists": [
+        {
+          "name": "DJ Pai",
+          "url": "https://open.spotify.com/artist/1oQxfcR9iNL9oxEzqGpf4j"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Aleteo 1",
+      "url": "https://open.spotify.com/track/7jo3qoThMDdxVyk599lUA2"
+    },
+    {
+      "album": {
         "name": "T.A.K.E.O.V.E.R",
         "url": "https://open.spotify.com/album/2QvFzC05b4PThXLEWPt4Qh"
       },
@@ -973,6 +991,28 @@
     },
     {
       "album": {
+        "name": "Don't Stop The Party",
+        "url": "https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287837,
+      "name": "Daddy's Groove",
+      "url": "https://open.spotify.com/track/5Me1jDe6aXU7xIr2m4WBEa"
+    },
+    {
+      "album": {
         "name": "Dance Instructor EP",
         "url": "https://open.spotify.com/album/28XJ3H40CXDsD2p6J6VKme"
       },
@@ -1278,6 +1318,24 @@
       "duration_ms": 367542,
       "name": "El Sue\u00f1o Edit",
       "url": "https://open.spotify.com/track/1juHkUdal9Pz17A2SNK8Wg"
+    },
+    {
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2"
+      },
+      "artists": [
+        {
+          "name": "Fischerspooner",
+          "url": "https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288306,
+      "name": "Emerge",
+      "url": "https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY"
     },
     {
       "album": {
@@ -2799,6 +2857,32 @@
     },
     {
       "album": {
+        "name": "I've Seen The Lizard People",
+        "url": "https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Lizard People (ft. DETO BLACK & Mowalola)",
+      "url": "https://open.spotify.com/track/2BZ8tyDSZnijWaaIC0xtpc"
+    },
+    {
+      "album": {
         "name": "Thanks!",
         "url": "https://open.spotify.com/album/5d9qoIAx6JMZHFbT7gkdFg"
       },
@@ -2952,7 +3036,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164105,
       "name": "Make You Scream - yun\u00e8 pinku Remix",
       "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
@@ -3272,6 +3356,24 @@
       "duration_ms": 112471,
       "name": "Notoriously Fast",
       "url": "https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR"
+    },
+    {
+      "album": {
+        "name": "Notoriously Fast (Kai Whiston Remix)",
+        "url": "https://open.spotify.com/album/2Uvqh83pMI4Giwf2Y7Uzsp"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112471,
+      "name": "Notoriously Fast",
+      "url": "https://open.spotify.com/track/1qqbDfljuA35Jrt9H5wNKj"
     },
     {
       "album": {
@@ -3886,6 +3988,28 @@
       "duration_ms": 225882,
       "name": "Sabroso",
       "url": "https://open.spotify.com/track/0nSmG3OxOiQjhHorNeYtmU"
+    },
+    {
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161520,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/6RtPfcVGu41F5InD8QUhR9"
     },
     {
       "album": {

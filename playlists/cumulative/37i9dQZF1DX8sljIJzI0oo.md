@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Rels B is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
+> 🔥 A new mixtape drop every Thursday 🔥 Rels B is bringing the heat this week.
 
 1,725 songs - 3 day 23 hr 0 min
 

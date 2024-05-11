@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-276 songs - 14 hr 19 min
+277 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-10 | 2024-02-24 |
 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-10-24 |  |
 | [My Back](https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [My Back](https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH) | 3:23 | 2022-12-16 | 2024-01-13 |
+| [MY DAYS](https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [MY DAYS](https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7) | 2:15 | 2024-05-10 |  |
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-08-25 |  |
 | [My Lover](https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [My Lover](https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX) | 2:47 | 2023-02-10 |  |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-25 | 2024-01-27 |
@@ -232,7 +233,7 @@
 | [Standing](https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Joy](https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4) | 3:13 | 2022-12-16 | 2024-01-13 |
 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 | 2022-07-30 | 2024-01-13 |
 | [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 | 2023-05-19 |  |
-| [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 | 2023-10-24 |  |
+| [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 | 2023-10-24 | 2024-05-11 |
 | [Supa](https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Supa](https://open.spotify.com/album/76zIo6TOf1HBewJ9Ua9hjS) | 2:32 | 2024-02-23 | 2024-03-24 |
 | [Sweet Love](https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Sweet Love](https://open.spotify.com/album/586ECVJrS5DX9rQx7JRKrA) | 2:24 | 2024-02-02 | 2024-02-24 |
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-05-19 |  |

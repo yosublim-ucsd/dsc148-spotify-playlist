@@ -223,6 +223,42 @@
     },
     {
       "album": {
+        "name": "A o B",
+        "url": "https://open.spotify.com/album/0BJk0oxddt0DNpFMqfciYM"
+      },
+      "artists": [
+        {
+          "name": "Mir Nicolas",
+          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185424,
+      "name": "A o B",
+      "url": "https://open.spotify.com/track/4oVZbGkrMJbgbyNGKLe2Kg"
+    },
+    {
+      "album": {
+        "name": "A TODO GAS",
+        "url": "https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149196,
+      "name": "A TODO GAS",
+      "url": "https://open.spotify.com/track/5aQl2bVgHX5Gh8NYjE6Vp9"
+    },
+    {
+      "album": {
         "name": "ACTITUD",
         "url": "https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL"
       },
@@ -426,6 +462,28 @@
       "duration_ms": 161504,
       "name": "All Black",
       "url": "https://open.spotify.com/track/1A6CTLJKEHv92ECpwD81mS"
+    },
+    {
+      "album": {
+        "name": "All Ki Misters",
+        "url": "https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "RepliK",
+          "url": "https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "All Ki Misters",
+      "url": "https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi"
     },
     {
       "album": {
@@ -2760,7 +2818,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156947,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/6gcsSl6J89cJhkuHWJV9T8"
@@ -3456,7 +3514,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161867,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/3qsDh1KaRx9fEdbL96sucP"
@@ -3930,6 +3988,24 @@
       "duration_ms": 171266,
       "name": "Paquetes",
       "url": "https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe"
+    },
+    {
+      "album": {
+        "name": "PASILLO",
+        "url": "https://open.spotify.com/album/7jjIlLHrItXevpeXCVEYFM"
+      },
+      "artists": [
+        {
+          "name": "sin1rostro",
+          "url": "https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197378,
+      "name": "PASILLO",
+      "url": "https://open.spotify.com/track/2OIg3ISQap0p136C4OOHvS"
     },
     {
       "album": {
@@ -4422,7 +4498,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152666,
       "name": "Resurgir",
       "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
@@ -4444,7 +4520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 102306,
       "name": "Richy Boy",
       "url": "https://open.spotify.com/track/4ymyKoEPJmHyxjQmECBZSs"
@@ -5566,6 +5642,28 @@
       "duration_ms": 130409,
       "name": "YA NI YO ME ENTIENDO",
       "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/4cLGzScbUTA77fi8afFt0z"
+      },
+      "artists": [
+        {
+          "name": "Wolty",
+          "url": "https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21"
+        },
+        {
+          "name": "Alan Wanline",
+          "url": "https://open.spotify.com/artist/4PrYvA92Dy7kkdWYXbrrOZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/70VVJobHiS56Jdz9WOuGuT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Trending Sinhalese pop hits. Cover - Piyath Rajapakse",
+  "description": "Trending Sinhalese pop hits. Cover - Yuki Navaratne",
   "name": "Sinhala Pop",
   "tracks": [
     {
@@ -1562,6 +1562,32 @@
       "duration_ms": 215145,
       "name": "Hadunada Ridunada",
       "url": "https://open.spotify.com/track/2ra5d22Eli92gjT6ldddo6"
+    },
+    {
+      "album": {
+        "name": "Hama Rama",
+        "url": "https://open.spotify.com/album/10Xy3mUWnISDVMOeS3tyR6"
+      },
+      "artists": [
+        {
+          "name": "Udara Samaraweera",
+          "url": "https://open.spotify.com/artist/5bJVhEZyYJ17uQ8NSgbkcM"
+        },
+        {
+          "name": "Akila Vimanga Senevirathna",
+          "url": "https://open.spotify.com/artist/155Qyxbj7bMeRzP71J5jZn"
+        },
+        {
+          "name": "Nadeesha Dayarathna",
+          "url": "https://open.spotify.com/artist/18Y9unXLmFWMO8Ep5rruZT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184057,
+      "name": "Hama Rama",
+      "url": "https://open.spotify.com/track/5C68aF28c2KD8oYcbw4du0"
     },
     {
       "album": {
@@ -3852,7 +3878,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 242456,
       "name": "Mawila",
       "url": "https://open.spotify.com/track/1eAAmf2ccUFXvz3KsUQ5bE"

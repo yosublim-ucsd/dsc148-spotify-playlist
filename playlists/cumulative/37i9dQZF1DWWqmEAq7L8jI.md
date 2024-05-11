@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-298 songs - 16 hr 18 min
+299 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-07-03 | 2023-08-07 |
 | [Contigo](https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Contigo](https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U) | 3:57 | 2023-08-11 |  |
 | [Convéncete](https://open.spotify.com/track/5UyH584f99c7qErZifyaHy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Convéncete](https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP) | 3:36 | 2023-12-22 |  |
-| [Corazones Rojos](https://open.spotify.com/track/2UcDdZxb6VNeExZbXtyUXz) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Corazones Rojos](https://open.spotify.com/album/5rgMs6PtU3Z8UxXcm2qGkn) | 3:04 | 2024-04-26 |  |
+| [Corazones Rojos](https://open.spotify.com/track/2UcDdZxb6VNeExZbXtyUXz) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Corazones Rojos](https://open.spotify.com/album/5rgMs6PtU3Z8UxXcm2qGkn) | 3:04 | 2024-04-26 | 2024-05-11 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-27 |  |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-08-11 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-03-17 | 2023-08-12 |
@@ -239,6 +239,7 @@
 | [Qué Querés?](https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Qué Querés?](https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0) | 3:27 | 2023-07-14 | 2023-08-19 |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-22 | 2023-08-12 |
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 |  |
+| [Reina de todo](https://open.spotify.com/track/0uGYA1Mb8NdjM1KG0KjxuX) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Reina de todo](https://open.spotify.com/album/0MVg5hOxZCWZ7fcRk3m4Tq) | 2:27 | 2024-05-10 |  |
 | [Renacer](https://open.spotify.com/track/0FkJ9U1q9ouhMowz2eniEO) | [Cris Rye](https://open.spotify.com/artist/0OGduw6Oii6PJFM8bevFw7) | [Renacer](https://open.spotify.com/album/5fTy1m24EJ8mNss2RDoJfF) | 2:29 | 2023-10-13 | 2024-02-24 |
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2024-02-23 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2023-03-17 | 2023-07-08 |

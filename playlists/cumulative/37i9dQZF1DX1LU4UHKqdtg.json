@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ZICO, JENNIE\n",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ZICO, JENNIE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "<Pre4 : Air>",
+        "url": "https://open.spotify.com/album/63TxL3GOqpzcFY4LkeNXoB"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/0vOG7sgElxsfQyJvRs4kSG"
+    },
+    {
+      "album": {
         "name": "THE REMIXES",
         "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 186872,
       "name": "Always",
       "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
+    },
+    {
+      "album": {
+        "name": "I Adore",
+        "url": "https://open.spotify.com/album/77psuhNmtbgwLPLpSyCteg"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Amaid (Prod. Dynamicduo, Padi)",
+      "url": "https://open.spotify.com/track/3VlGIOModL226RrY3wy393"
     },
     {
       "album": {
@@ -3537,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "Come back to me",
+        "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "Come back to me",
+      "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
+    },
+    {
+      "album": {
         "name": "Command C+Me",
         "url": "https://open.spotify.com/album/6rFPJ5ZjkeWV5z5VNzD6gw"
       },
@@ -4244,7 +4298,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175680,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
@@ -5926,7 +5980,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 214226,
       "name": "For a While",
       "url": "https://open.spotify.com/track/6kEYqiCUmAb8dqkmb19PYo"
@@ -6468,6 +6522,24 @@
       "duration_ms": 175116,
       "name": "Girls - BRLLNT Remix",
       "url": "https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF"
+    },
+    {
+      "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r"
     },
     {
       "album": {
@@ -7708,7 +7780,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184346,
       "name": "I GOT YOU (feat. Lauv)",
       "url": "https://open.spotify.com/track/14FpkTBexkWIoquqluEymo"
@@ -8090,7 +8162,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205133,
       "name": "In my memory",
       "url": "https://open.spotify.com/track/7jtprdBr2xMsctHoiybuqe"
@@ -9267,6 +9339,28 @@
     },
     {
       "album": {
+        "name": "Lose My Breath",
+        "url": "https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB"
+    },
+    {
+      "album": {
         "name": "Joy Ride",
         "url": "https://open.spotify.com/album/3nlHa60tPoMO1VGR6dUpgg"
       },
@@ -10035,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
+    },
+    {
+      "album": {
         "name": "Marshmallow",
         "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
       },
@@ -10394,6 +10506,24 @@
       "duration_ms": 161826,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0wjJPnSndRArTKcvEUgUhW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1xpfMDsEEugAwoXRYLdyQ6"
     },
     {
       "album": {
@@ -10940,7 +11070,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 139200,
       "name": "No Lowkey",
       "url": "https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml"
@@ -13064,7 +13194,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188750,
       "name": "Run Back To You",
       "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
@@ -14244,7 +14374,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 187272,
       "name": "Smoothie - Arkins Remix",
       "url": "https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU"
@@ -15778,7 +15908,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 187453,
       "name": "Terminal - Japanese Ver.",
       "url": "https://open.spotify.com/track/4PTbnH7HHCKxJ2Om9QKj8O"
@@ -17655,6 +17785,24 @@
     },
     {
       "album": {
+        "name": "Where are you (The Last 10 Years X Heize)",
+        "url": "https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "Where are you",
+      "url": "https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh"
+    },
+    {
+      "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },
@@ -18020,6 +18168,28 @@
       "duration_ms": 185533,
       "name": "WISH - Japanese Ver.",
       "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"
+    },
+    {
+      "album": {
+        "name": "House on a Hill (Deluxe)",
+        "url": "https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Wish I Didn't Care (feat. Lyn Lapid)",
+      "url": "https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW"
     },
     {
       "album": {
@@ -19206,7 +19376,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 65560,
       "name": "\uc6b0\uc120\uc21c\uc704",
       "url": "https://open.spotify.com/track/7bMnwMaT81rqn3sf89QE3a"

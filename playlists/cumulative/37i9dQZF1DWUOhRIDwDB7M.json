@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Early Eclipse",
+        "url": "https://open.spotify.com/album/10mIRELrDZX6ZW3gX1ZVDm"
+      },
+      "artists": [
+        {
+          "name": "Adventurine",
+          "url": "https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Early Eclipse",
+      "url": "https://open.spotify.com/track/40r50Iuc3Uf5XQjH6HfDHF"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5XwBY6nxfN4u6xHujd8jvS"
       },
@@ -1846,6 +1864,24 @@
       "duration_ms": 182073,
       "name": "Faultless",
       "url": "https://open.spotify.com/track/1AR2pYXwzelDY94gAMgcro"
+    },
+    {
+      "album": {
+        "name": "Feathered",
+        "url": "https://open.spotify.com/album/6k0P5sLc32BTupcMUdqBRu"
+      },
+      "artists": [
+        {
+          "name": "MoonBees",
+          "url": "https://open.spotify.com/artist/3k3ZzD4rSu4E00cUi1900f"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Feathered",
+      "url": "https://open.spotify.com/track/6pfep9zCzzbIHalmG5cYRN"
     },
     {
       "album": {
@@ -4654,6 +4690,24 @@
       "duration_ms": 154000,
       "name": "Twilight Whispers",
       "url": "https://open.spotify.com/track/14MSAzbQdG7WuBYJBMkcwm"
+    },
+    {
+      "album": {
+        "name": "Twine",
+        "url": "https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX"
+      },
+      "artists": [
+        {
+          "name": "Moontonic",
+          "url": "https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "Twine",
+      "url": "https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU"
     },
     {
       "album": {

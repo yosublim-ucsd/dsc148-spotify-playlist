@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-201 songs - 10 hr 32 min
+204 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aurora](https://open.spotify.com/track/4NpJcnYkIb7H8SU0ZX39uZ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Labyrinth](https://open.spotify.com/album/7kDDMsSrGUGfHa5cCx4Oes) | 2:50 | 2021-12-10 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2021-12-10 | 2023-07-29 |
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
+| [Azure Serenade](https://open.spotify.com/track/57zQFDUTVCpBwwC6Z6WUQB) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Azure Serenade](https://open.spotify.com/album/13JWR7S8QRWcSCio2uPQXc) | 2:59 | 2024-05-10 |  |
 | [Beila's Comet](https://open.spotify.com/track/3IAnhwTjZLf5CSnghGASC3) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Beila's Comet](https://open.spotify.com/album/3TKaoqXuRk1EmMM5q2HYZL) | 2:16 | 2023-11-10 |  |
 | [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 | 2023-02-17 |  |
 | [Blue Clouds](https://open.spotify.com/track/0NXTm7alwB0tMhLqEnWSri) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Blue Clouds](https://open.spotify.com/album/6SiSM8vEUiAFZ8zb5yISHH) | 2:48 | 2024-02-22 | 2024-04-05 |
@@ -128,6 +129,7 @@
 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 | 2022-10-14 |  |
 | [Ocean Park](https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g) | 4:42 | 2022-06-29 | 2022-09-15 |
 | [Ocean Park](https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX) | [Hong Kong Atmosphere](https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj) | [Hong Kong Atmosphere](https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB) | 4:42 | 2021-12-10 | 2022-07-29 |
+| [Pacifice](https://open.spotify.com/track/7rauYCQ1gucW5dS0pgDIxC) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Pacifice](https://open.spotify.com/album/4hyyIsYeUZH4stQejwmJI0) | 2:54 | 2024-05-10 |  |
 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 | 2022-06-29 | 2024-04-19 |
 | [Parc Güell](https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 3:28 | 2021-12-10 |  |
 | [Parc Güell](https://open.spotify.com/track/1qSdFNSzlFfHq0dTJCAGjE) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Calm Morning \(Vol 2\)](https://open.spotify.com/album/4euXG3fDA9DV7MtGXX1qeK) | 3:28 | 2022-10-21 | 2022-11-13 |
@@ -166,6 +168,7 @@
 | [Showstopper](https://open.spotify.com/track/2zIcVl9zWEYmYXQHA14SGz) | [Semi Sphere](https://open.spotify.com/artist/1cTlMGKyJ6rAlPDTX3AKLU) | [Showstopper](https://open.spotify.com/album/43Ex3NtMg3QFmlvanuM8yE) | 2:39 | 2021-12-10 |  |
 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 | 2021-12-10 |  |
 | [Sigur](https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Sigur](https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l) | 2:56 | 2023-03-17 |  |
+| [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-10 |  |
 | [Silver Lines](https://open.spotify.com/track/1ytKEjrWSIUGWqdYuIn74F) | [Jane Deliah](https://open.spotify.com/artist/3sWzxP1XwTIvyyQpz9sZXM) | [Mercury](https://open.spotify.com/album/6ZdtsFFTfV3LXvRHJsnF9M) | 2:41 | 2021-12-10 |  |
 | [Skyjum](https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Skyjum](https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj) | 2:46 | 2022-11-11 |  |
 | [Solar Flare Symphony](https://open.spotify.com/track/4gvMwZeHtBpWEheeHnob6r) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Solar Flare Symphony](https://open.spotify.com/album/6n5AsYCxEBtypoV7Ndoyji) | 3:15 | 2023-10-12 |  |

@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-321 songs - 20 hr 22 min
+322 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2022-09-30 | 2022-11-13 |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2022-07-22 | 2024-03-09 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-12-17 |  |
+| [Coming Home](https://open.spotify.com/track/0zjUFAOT0yOV3uCN6o0G87) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Coming Home](https://open.spotify.com/album/0xzmV0tYqMQEkNNCMyUbWR) | 3:09 | 2024-05-10 |  |
 | [Company Man](https://open.spotify.com/track/0wTMU4KjZuKJ1aIHgGpFSX) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Company Man](https://open.spotify.com/album/4jlQAK09Eb4nBhmj6dex0Q) | 3:04 | 2021-12-17 |  |
 | [Company Man](https://open.spotify.com/track/2OqOKTCnPSIr4FcCazsDKD) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [The Education Of A Wandering Man](https://open.spotify.com/album/0Yyy9SekyYAxOwBxHChQZY) | 3:04 | 2022-07-22 | 2024-04-19 |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-12-17 | 2022-03-12 |
@@ -104,7 +105,7 @@
 | [Good Evening](https://open.spotify.com/track/398QU045BgD0nsMgxedVCG) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Good Evening](https://open.spotify.com/album/2VkJ4a7OAtEhhxZZRDuAAV) | 4:39 | 2021-12-17 |  |
 | [Good Evening](https://open.spotify.com/track/5DFELITzxqOwPROrMfCXNc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [El Astronauta](https://open.spotify.com/album/62UCTVNpAhCrmRMf4knpvS) | 4:39 | 2022-07-22 | 2024-04-19 |
 | [Good Thing](https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:29 | 2022-09-30 | 2024-04-19 |
-| [Good Thing](https://open.spotify.com/track/5V6JS67petdOBOIo2Lz16y) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Good Thing](https://open.spotify.com/album/65wpy7UdEGYqWkx91SLoLe) | 2:29 | 2021-12-17 |  |
+| [Good Thing](https://open.spotify.com/track/5V6JS67petdOBOIo2Lz16y) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Good Thing](https://open.spotify.com/album/65wpy7UdEGYqWkx91SLoLe) | 2:29 | 2021-12-17 | 2024-05-11 |
 | [Grinder](https://open.spotify.com/track/4CHDLQA19PRKRCtpBIzASe) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:22 | 2021-12-17 | 2022-06-11 |
 | [Habbie Doobie](https://open.spotify.com/track/1fARuRnr9G2eD6oKwjXBc6) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [TX Jelly](https://open.spotify.com/album/40Zugqf29kw14VuFBFFSUY) | 6:16 | 2024-03-08 | 2024-04-19 |
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-12-17 |  |

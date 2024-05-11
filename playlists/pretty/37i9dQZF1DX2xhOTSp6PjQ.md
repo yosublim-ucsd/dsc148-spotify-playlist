@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg">Big Zulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,231 likes - 60 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,665 likes - 60 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

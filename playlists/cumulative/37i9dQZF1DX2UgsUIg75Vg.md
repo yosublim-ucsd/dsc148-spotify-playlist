@@ -4,7 +4,7 @@
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Charlotte Day Wilson
 
-929 songs - 2 day 3 hr 59 min
+931 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 | 2024-01-13 |
 | [Don't Wanna Leave \(feat\. Latto\)](https://open.spotify.com/track/4vpoINvcoAdmttZwDTUTJU) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Don't Wanna Leave \(feat\. Latto\)](https://open.spotify.com/album/1QSe34NLmqc0MiZ3DeEVsA) | 3:05 | 2020-01-10 | 2020-09-23 |
 | [Don’t Mind Me](https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Mind Me](https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo) | 3:09 | 2023-06-02 | 2023-07-15 |
+| [Dovetail](https://open.spotify.com/track/1zEG6etKoFYBedD7YQvSpP) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:38 | 2024-05-10 |  |
 | [Down](https://open.spotify.com/track/6pduF6NCbC5Cymo3AFqNr3) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Down](https://open.spotify.com/album/58IQnaA4eTgj3TwWvZGbeh) | 4:13 | 2020-11-20 | 2021-06-19 |
 | [Dreamin](https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Dreamin](https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS) | 2:37 | 2024-03-08 |  |
 | [Dreams](https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:28 | 2019-07-10\* | 2019-08-23 |
@@ -407,6 +408,7 @@
 | [Imported \(with 6LACK\)](https://open.spotify.com/track/5zXmmhtXrhDbYnScaYpqZg) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Imported \(with 6LACK\)](https://open.spotify.com/album/29vt4BpW3GYX7hHCbFkhfg) | 3:45 | 2019-07-10\* | 2019-10-11 |
 | [In & Out \(feat\. Xavier Omär\)](https://open.spotify.com/track/6KbuhVL2TmxnBrrbJD4qXv) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Silk Canvas \(The Remixes\)](https://open.spotify.com/album/3ddBhseWepeqHwoovT8lAx) | 4:09 | 2019-11-16 | 2020-05-01 |
 | [In My Corner](https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Aura III](https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF) | 3:08 | 2021-04-10 | 2021-11-11 |
+| [In The Meantime](https://open.spotify.com/track/0qhfhNViALwYY7ZGeeDVCl) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [CASSANDRA \(cherith\)](https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3) | 3:57 | 2024-05-10 |  |
 | [In Too Deep \(feat\. Kiana Ledé\)](https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 3:52 | 2020-09-29 | 2021-08-21 |
 | [Inclination Compass \(Tenderness\)](https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:08 | 2023-10-20 |  |
 | [Index](https://open.spotify.com/track/7eq5eMVUs1lJGqPNfbnGBg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 3:31 | 2022-12-02 | 2023-09-02 |

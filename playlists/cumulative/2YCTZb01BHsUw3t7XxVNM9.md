@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-479 songs - 1 day 9 hr 27 min
+480 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Yggdrasil](https://open.spotify.com/track/4Ag9psO9y5MNf07W6DFyet) | [Gram](https://open.spotify.com/artist/27Y8ucj3Ev56vnIRSSMik9), [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [The Requiem](https://open.spotify.com/album/2qnjP4x2myHntaN7Je5FrR) | 7:00 | 2019-02-15 |  |
 | [You & DIE](https://open.spotify.com/track/3mI6ISmK3vjom2nPArNEoo) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [MEGATON KICK 2](https://open.spotify.com/album/46TuWgh4sLLat0ldTyIHlG) | 4:10 | 2021-01-12 |  |
 | [Your Fear](https://open.spotify.com/track/04RWJd1eFGvWM2SkBEUH9S) | [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [Japanese Stream Hardcore X](https://open.spotify.com/album/60tdqDTmkzhRjpYZEiHtWg) | 3:42 | 2019-06-01 |  |
+| [Your Impression Is Mine](https://open.spotify.com/track/7jqaW54t0IJel6AL48p37h) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Your Impression Is Mine](https://open.spotify.com/album/1l5Q0fn975RQLhz6tcp4So) | 3:50 | 2024-05-10 |  |
 | [your voicE is my voicE feat.core mc](https://open.spotify.com/track/1CmzhlFAPIbL9jGy7CuCv2) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6), [core mc](https://open.spotify.com/artist/3dImJ36o615DfBuassVoHi) | [HARDCORE SYNDROME X](https://open.spotify.com/album/7uEdesq6fj5zjSFVkcuON4) | 3:04 | 2019-02-03 |  |
 | [Σ](https://open.spotify.com/track/2wRJJmO7asfbXAwV5gM0Gu) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF), [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Σ](https://open.spotify.com/album/1kYUxP4zxRGWc1ltk3OTN6) | 3:12 | 2023-10-27 |  |
 | [叫び \(RoughSketch Remix\)](https://open.spotify.com/track/681Nbn1vGYDYHBgrwwiDJA) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 4:08 | 2019-06-01 |  |

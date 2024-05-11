@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Beqaabu",
+        "url": "https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg"
+      },
+      "artists": [
+        {
+          "name": "boys from marsss",
+          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Beqaabu",
+      "url": "https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete"
+    },
+    {
+      "album": {
         "name": "Bewajah",
         "url": "https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 169173,
       "name": "Ghoome",
       "url": "https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE"
@@ -1348,6 +1366,28 @@
       "duration_ms": 213569,
       "name": "Kahaani - Duet",
       "url": "https://open.spotify.com/track/7EY6hm0FoEZLZPckVtaFGo"
+    },
+    {
+      "album": {
+        "name": "Kahani Meri",
+        "url": "https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Kahani Meri",
+      "url": "https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv"
     },
     {
       "album": {
@@ -3632,7 +3672,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 235172,
       "name": "Ud Ke Chali",
       "url": "https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT"

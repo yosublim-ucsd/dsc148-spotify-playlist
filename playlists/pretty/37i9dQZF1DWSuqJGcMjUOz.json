@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 5153,
+  "num_followers": 5167,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Giscard d'Estaing",
-        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
-      },
-      "artists": [
-        {
-          "name": "Dombrance",
-          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Giscard d'Estaing",
-      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Dix mille matins",
         "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 296026,
       "name": "La d\u00e9sise",
       "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Giscard d'Estaing",
+        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
+      },
+      "artists": [
+        {
+          "name": "Dombrance",
+          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Giscard d'Estaing",
+      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "monde autour",
-        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Portraits de famine",
         "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 178426,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "monde autour",
+        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Erreur",
-        "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
-      },
-      "artists": [
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 199415,
-      "name": "Erreur",
-      "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Erreur",
+        "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 199415,
+      "name": "Erreur",
+      "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Surhomme",
         "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 195600,
       "name": "Sac de sport",
       "url": "https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
+        "name": "Motel G\u00e9d\u00e9on",
+        "url": "https://open.spotify.com/album/6h70EgSf0FtAHCczgWErrL"
+      },
+      "artists": [
+        {
+          "name": "Bernhari",
+          "url": "https://open.spotify.com/artist/6AnoLNinpFaTOFNoorNstH"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Motel G\u00e9d\u00e9on",
+      "url": "https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
         "name": "Chien Mang\u00e9 Chien",
         "url": "https://open.spotify.com/album/6TMjLEOv81pWhF0E2TNC5j"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/46fStnezu8JLXjCJd7gQUN"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
-        "name": "Motel G\u00e9d\u00e9on",
-        "url": "https://open.spotify.com/album/6h70EgSf0FtAHCczgWErrL"
-      },
-      "artists": [
-        {
-          "name": "Bernhari",
-          "url": "https://open.spotify.com/artist/6AnoLNinpFaTOFNoorNstH"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Motel G\u00e9d\u00e9on",
-      "url": "https://open.spotify.com/track/1qPWodvcElyxIltRTLjLiz"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
+        "name": "O\u00f9 est pass\u00e9 mon contour",
+        "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
+      },
+      "artists": [
+        {
+          "name": "Sandra Contour",
+          "url": "https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H"
+        }
+      ],
+      "duration_ms": 181994,
+      "name": "O\u00f9 est pass\u00e9 mon contour",
+      "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -1791,18 +1807,18 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "O\u00f9 est pass\u00e9 mon contour",
-        "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
       },
       "artists": [
         {
-          "name": "Sandra Contour",
-          "url": "https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H"
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
         }
       ],
-      "duration_ms": 181994,
-      "name": "O\u00f9 est pass\u00e9 mon contour",
-      "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1823,22 +1839,6 @@
       "duration_ms": 193652,
       "name": "Plage",
       "url": "https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-05-06 14:16:02",

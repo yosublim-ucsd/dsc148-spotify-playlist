@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200092,
       "name": "Aonde Quer Chegar / Encaixe - Ao Vivo",
       "url": "https://open.spotify.com/track/7Cy97gNaRFruzvFX65hn8K"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 247361,
       "name": "Cigana / Modo Avi\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4PpCSPtW0NK1ytggyAwNLN"
@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "22 Minutos no Cora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WSLm2XilRgUAhYYSbsAEP"
+      },
+      "artists": [
+        {
+          "name": "22 Minutos",
+          "url": "https://open.spotify.com/artist/1Tb6CUwiiY9bQNaU6HLndR"
+        },
+        {
+          "name": "Davizinho",
+          "url": "https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229993,
+      "name": "Fica / Vida Que Segue - Ao Vivo",
+      "url": "https://open.spotify.com/track/1qgyGGiOO2mGlVftddPRKu"
+    },
+    {
+      "album": {
         "name": "Fica / Vida Que Segue (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa"
       },
@@ -1129,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Pagodyando",
+        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381834,
+      "name": "Marra de Dur\u00e3o / Instinto / \u00c9 Natural / Dorme Com Deus",
+      "url": "https://open.spotify.com/track/10fsILRRmWwvz1fGWIZY1K"
+    },
+    {
+      "album": {
         "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
       },
@@ -1352,7 +1392,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 257500,
       "name": "Patricinha do Olho Azul/ Inten\u00e7\u00e3o / N\u00e3o Precisa Mudar - Ao Vivo",
       "url": "https://open.spotify.com/track/4qjveHJg2ExF86gsK1hSPL"
@@ -1890,6 +1930,28 @@
       "duration_ms": 300496,
       "name": "Saudade de N\u00f3s / Coisas do Amor (F\u00e3 de Carteirinha) - Ao Vivo",
       "url": "https://open.spotify.com/track/0z2Avp7PJ31q4Cvp7GyH3R"
+    },
+    {
+      "album": {
+        "name": "Na Terra Da Garoa (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/0FTkjIIZTfqFBO3czpXbJy"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "Demonios Da Garoa",
+          "url": "https://open.spotify.com/artist/7jkAtoMgmBU8EYhIT4BDiQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223310,
+      "name": "Saudosa Maloca / Trem Das Onze - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Kiiz5dKfXlKt5YoCOe3p9"
     },
     {
       "album": {

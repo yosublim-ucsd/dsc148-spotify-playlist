@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156334,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz"
+    },
+    {
+      "album": {
         "name": "DNDrnb / Growth",
         "url": "https://open.spotify.com/album/089owlvV7enapyEdE4ff3M"
       },
@@ -894,6 +912,24 @@
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
+    },
+    {
+      "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/1u1VNFkQpO5UsTdes7cIv4"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184825,
+      "name": "neck & earz",
+      "url": "https://open.spotify.com/track/2HyaJcJaVju393PK4LvFD8"
     },
     {
       "album": {

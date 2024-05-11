@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 18954,
+  "num_followers": 18966,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAABNf2+lBvirmtK/NPgEyKMF",
+  "snapshot_id": "ZjwSAAAAAAAFYrpQwTtNXepquj59atBQ",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
         "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "H\u00e1 Liberdade Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 568958,
-      "name": "H\u00e1 Liberdade Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz da Luz",
         "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "H\u00e1 Liberdade Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 568958,
+      "name": "H\u00e1 Liberdade Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk"
     }
   ],
   "unique_name": "This Is Julia Vit\u00f3ria",

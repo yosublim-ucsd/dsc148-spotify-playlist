@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 255333,
       "name": "Raasa",
       "url": "https://open.spotify.com/track/44RNmePDzDzuyEMkuZ1OKe"
@@ -4649,6 +4649,28 @@
     },
     {
       "album": {
+        "name": "Thaai Paasam",
+        "url": "https://open.spotify.com/album/7sHQ4PLs8Zq0iLMDrTWId7"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        },
+        {
+          "name": "Vasantha Sankarraman",
+          "url": "https://open.spotify.com/artist/1Ec4C4u0suwPwnpeTgFguW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182828,
+      "name": "Thaai Paasam",
+      "url": "https://open.spotify.com/track/1rCMd4ocW6OJzqb0lvoGwj"
+    },
+    {
+      "album": {
         "name": "Thaaye",
         "url": "https://open.spotify.com/album/5zeW1rAchG4xtwGECHXsGX"
       },
@@ -5108,7 +5130,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184821,
       "name": "Thoongaadha",
       "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
@@ -5514,7 +5536,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 207588,
       "name": "Valapodum Kannala",
       "url": "https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT"
@@ -5720,7 +5742,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 193920,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq"

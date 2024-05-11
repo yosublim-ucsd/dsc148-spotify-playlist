@@ -1,28 +1,32 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9021,
+  "num_followers": 9019,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAE4hpa9wtJ3CfQ1qqAq6qxzLB5xBgP",
+  "snapshot_id": "AAAE6YTG18IXevHkY//jvETZrN20iiqH",
   "tracks": [
     {
-      "added_at": "2023-01-27 06:28:42",
+      "added_at": "2024-05-10 18:18:10",
       "album": {
-        "name": "Green Green Grass (Acoustic)",
-        "url": "https://open.spotify.com/album/3yB0O9r2ZlbizS47IRbKyq"
+        "name": "The Way You Make Me Feel (Acoustic)",
+        "url": "https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw"
       },
       "artists": [
         {
           "name": "Matt Johnson",
           "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        },
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
         }
       ],
-      "duration_ms": 132130,
-      "name": "Green Green Grass - Acoustic",
-      "url": "https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO"
+      "duration_ms": 157037,
+      "name": "The Way You Make Me Feel - Acoustic",
+      "url": "https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI"
     },
     {
       "added_at": "2024-03-03 18:12:09",
@@ -429,10 +433,10 @@
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
     },
     {
-      "added_at": "2024-03-22 20:45:50",
+      "added_at": "2024-05-10 20:27:36",
       "album": {
-        "name": "I'm A Believer (Acoustic)",
-        "url": "https://open.spotify.com/album/5bef8Aq3CMZvfwR2kcb6ce"
+        "name": "Drops of Jupiter (Acoustic)",
+        "url": "https://open.spotify.com/album/1Ezpx8ekXRMKbhREQ0lnKq"
       },
       "artists": [
         {
@@ -440,9 +444,9 @@
           "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
         }
       ],
-      "duration_ms": 158279,
-      "name": "I'm A Believer - Acoustic",
-      "url": "https://open.spotify.com/track/0arOYnavWumToLwoHTKUtV"
+      "duration_ms": 169427,
+      "name": "Drops of Jupiter - Acoustic",
+      "url": "https://open.spotify.com/track/41Mw2D2PZpuIBGbAwQOE5L"
     },
     {
       "added_at": "2024-04-19 17:47:51",
@@ -575,6 +579,22 @@
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+    },
+    {
+      "added_at": "2024-05-10 20:10:09",
+      "album": {
+        "name": "Stars (Acoustic)",
+        "url": "https://open.spotify.com/album/4FCQZHSeNRgsKKDDgGm1Bg"
+      },
+      "artists": [
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        }
+      ],
+      "duration_ms": 146974,
+      "name": "Stars - Acoustic",
+      "url": "https://open.spotify.com/track/11OWrRwbgBug9CSe3Gj70c"
     },
     {
       "added_at": "2023-09-10 20:00:23",
@@ -711,6 +731,22 @@
       "duration_ms": 192544,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - Acoustic",
       "url": "https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q"
+    },
+    {
+      "added_at": "2024-05-10 20:21:27",
+      "album": {
+        "name": "Just the Two of Us (Acoustic)",
+        "url": "https://open.spotify.com/album/41cXy6ZsG32HGLpuWlMItr"
+      },
+      "artists": [
+        {
+          "name": "Phil Halo",
+          "url": "https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4sS5avMe57cQi8cYrYDL2G"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -859,6 +895,22 @@
       "duration_ms": 143040,
       "name": "Never Gonna Give You Up - Acoustic",
       "url": "https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA"
+    },
+    {
+      "added_at": "2024-05-10 20:39:13",
+      "album": {
+        "name": "Wonderwall (Acoustic)",
+        "url": "https://open.spotify.com/album/0xEBQH5UWYX4HFYSGAhgNy"
+      },
+      "artists": [
+        {
+          "name": "Jacob Wellfair",
+          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
+        }
+      ],
+      "duration_ms": 236312,
+      "name": "Wonderwall - Acoustic",
+      "url": "https://open.spotify.com/track/12kgqcYiPVRykCQOY0DO75"
     },
     {
       "added_at": "2019-10-13 06:38:53",

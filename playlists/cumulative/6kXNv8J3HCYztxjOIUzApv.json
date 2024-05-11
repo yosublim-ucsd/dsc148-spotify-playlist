@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Money, Sex, or God",
+        "url": "https://open.spotify.com/album/3rEfQMNIq9ZXeJZg61dFA6"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219356,
+      "name": "Money, Sex, or God",
+      "url": "https://open.spotify.com/track/694R5GadE4oSFvn8uk0pEE"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
       },

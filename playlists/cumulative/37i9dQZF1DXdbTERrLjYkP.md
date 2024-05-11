@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Sid Dorey
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Mikayla Geier
 
-666 songs - 1 day 11 hr 22 min
+668 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-09 | 2023-02-16 |
 | [I Don't Care](https://open.spotify.com/track/7hoJyGOvmRfM7y6T55Ccde) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/0q1qdWv8rj53CQ0cayv6hD) | 3:03 | 2023-02-03 | 2023-02-25 |
 | [I Don't Do Anything](https://open.spotify.com/track/5sEw7zJzxgMzmLqE3Ov4XT) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:09 | 2023-04-28 | 2023-05-06 |
+| [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 | 2024-05-10 |  |
 | [I Don't Sing My Songs](https://open.spotify.com/track/6shIbEKPwnukg40ZQKGcBP) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:45 | 2023-04-28 | 2023-08-12 |
 | [I Don’t Know](https://open.spotify.com/track/4HyGTtgsNGCcHaqEWiu3lm) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 2](https://open.spotify.com/album/1709msvR4Y09McKNriJjfG) | 3:08 | 2023-11-10 | 2024-02-17 |
 | [I Don’t Need To](https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Situationships](https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL) | 3:04 | 2023-03-31 | 2023-08-19 |
@@ -453,6 +454,7 @@
 | [Ordinary Love](https://open.spotify.com/track/4dmBhkfzO0LNyTpniMNEIX) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/1M5loxljwC0wulbEqMODp4) | 3:15 | 2022-09-09 | 2022-12-24 |
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
 | [Over My Head](https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Over My Head](https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU) | 3:04 | 2024-01-26 |  |
+| [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 | 2024-05-10 |  |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-03-05 |
 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 | 2023-02-24 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/5B0j050zKYeRndttYP1zuH) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:35 | 2022-10-28 | 2022-12-24 |

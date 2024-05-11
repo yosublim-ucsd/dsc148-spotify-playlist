@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: The Cassette
 
-1,604 songs - 3 day 21 hr 54 min
+1,605 songs - 3 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Hoài Niệm](https://open.spotify.com/track/2iqdZ4rRhvHqJOSGQYZXLE) | [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Hoài Niệm](https://open.spotify.com/album/6DZ9EcS5Khnd9CPsILACYD) | 3:15 | 2022-01-06 | 2022-02-11 |
 | [Hoàng Hôn Năm Ấy](https://open.spotify.com/track/2sKzWlDzJiCJDcBBUk2sZO) | [Bơ](https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi) | [Hoàng Hôn Năm Ấy](https://open.spotify.com/album/6pM3qwisJ4R1rYavfJTSkP) | 5:24 | 2023-08-31 | 2023-10-20 |
 | [Hoàng Hôn Đã Ngủ Yên](https://open.spotify.com/track/27J2vU1K66nRhk3HE8QYjU) | [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [Hoàng Hôn Đã Ngủ Yên](https://open.spotify.com/album/1WeDqjqsGHt6ZihWDFA9ah) | 4:36 | 2022-10-05 | 2022-10-13 |
+| [hoá ra là iuu](https://open.spotify.com/track/1KpH4lhuwF5FtoxeHaXqAK) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [hoá ra là iuu](https://open.spotify.com/album/41RSveHDxKX7hI5JRNg2Qg) | 2:45 | 2024-05-09 |  |
 | [Huming](https://open.spotify.com/track/4nzEyEIZKnw35oivPOpczm) | [Rieki](https://open.spotify.com/artist/39bmzpp8fJjCy5rZBzitYo), [Snake7](https://open.spotify.com/artist/4nJpJ57cC4NXaFGCF2MNJG), [Jett](https://open.spotify.com/artist/6ENhgfypSwHZpaA2FWfXE5) | [Huming](https://open.spotify.com/album/4RpNDmbYCG9zcvoDn3MhRW) | 2:50 | 2023-06-26 | 2023-07-04 |
 | [Hà Nội Đổi Sắc](https://open.spotify.com/track/4h3WMIF62pA9MUR9JnaCyv) | [Lyan](https://open.spotify.com/artist/0ENZtFo3fQYpkOrWboLbIV), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Hà Nội Đổi Sắc](https://open.spotify.com/album/6I0ANjoQX2RcP6iEVsSm2Z) | 3:45 | 2022-09-29 | 2023-02-09 |
 | [Hàng Ghế Đầu](https://open.spotify.com/track/0OnBxawP1ziLfMG0bANZgF) | [Tô Khương](https://open.spotify.com/artist/0iK5wSSwBbSvSTj0IuTMRI) | [Hàng Ghế Đầu](https://open.spotify.com/album/4BNql0jnSkGUuHA02OUJbI) | 4:31 | 2022-01-06 | 2022-04-22 |

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-485 songs - 1 day 10 hr 23 min
+486 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 | 2024-04-12 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-05-07 | 2023-06-10 |
 | [Figo](https://open.spotify.com/track/7DvqpuTIUSmEXZZLDRRfgi) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK), [Schieber](https://open.spotify.com/artist/4HbpVjA45uVRTXkx7B1AKB) | [Figo](https://open.spotify.com/album/0OYKeYzbn1qX7ZqpcMXxHT) | 3:38 | 2022-01-14 | 2022-04-20 |
-| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 |  |
+| [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 | 2024-05-11 |
 | [Fix Your Problems](https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Fix Your Problems](https://open.spotify.com/album/7tl7WUBPATfLpjgxh73qLS) | 2:16 | 2021-05-07 | 2022-05-30 |
 | [Flame](https://open.spotify.com/track/5LMVpehrEBygZ7z3aIK9Lf) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Flame](https://open.spotify.com/album/0SEyeOfZyqZjVqreACEk6D) | 3:37 | 2022-05-27 | 2022-08-13 |
 | [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 | 2024-04-06 |
@@ -210,6 +210,7 @@
 | [In Dreams](https://open.spotify.com/track/2aoj3P5VpXJq5ZvVsRz6si) | [Mark Digital](https://open.spotify.com/artist/30pquATJCsFv9CdqqQlEGA) | [Everlost / in Dreams](https://open.spotify.com/album/5W2arvV5t0UDtY34MbFPAB) | 6:10 | 2021-05-07 | 2022-04-21 |
 | [In My Bones](https://open.spotify.com/track/3iC26Le1kk7MrqUipyjzlk) | [Kiismin](https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe) | [In My Bones](https://open.spotify.com/album/7hFb7LV5ylY7sGEWzKuK95) | 3:01 | 2022-07-01 | 2022-08-13 |
 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 | 2024-04-05 |  |
+| [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-05-10 |  |
 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-10-13 |  |
 | [In The Night](https://open.spotify.com/track/2t4wGpvSCAdizHrGMrVb8U) | [Relicah](https://open.spotify.com/artist/3M5IeUgphKkpoonBB5TBwn), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [In The Night](https://open.spotify.com/album/4sN0HYQLPrt96n8OadcvGf) | 3:12 | 2022-07-01 | 2022-07-29 |
 | [In Too Deep](https://open.spotify.com/track/5O9SPS6jItMENzI2sEkEya) | [Sagan](https://open.spotify.com/artist/5JHw3zW4kgwIZlh33geR1K), [Honso](https://open.spotify.com/artist/0bkiaRA21d4VkUckWX7hQk), [Denrayk](https://open.spotify.com/artist/6wmDlHwlJavFPWixLXPUzO) | [In Too Deep](https://open.spotify.com/album/5ynzGzjLD8hhEWiw7oWZRh) | 4:48 | 2021-12-17 | 2022-07-22 |

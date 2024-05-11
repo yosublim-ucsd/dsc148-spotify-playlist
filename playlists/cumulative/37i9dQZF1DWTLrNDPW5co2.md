@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
+> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: I\. JORDAN
 
-163 songs - 10 hr 56 min
+168 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 | 2024-04-19 |
 | [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 |  |
 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 | 2021-10-15 | 2024-05-01 |
+| [ID ID ID](https://open.spotify.com/track/4ryHYwy7CflZcdSz8txTff) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [ID ID ID](https://open.spotify.com/album/20cI5JLFkfqRkFLzk6iuI0) | 3:06 | 2024-05-10 |  |
 | [If You Were Mine](https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [If You Were Mine](https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI) | 3:19 | 2022-06-03 |  |
 | [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2021-10-15 |  |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-07-14 | 2023-11-04 |
@@ -139,6 +140,7 @@
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-10-13 |  |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-10-13 | 2024-04-19 |
 | [Sage comme une image \- Good as Gold](https://open.spotify.com/track/2RdqkCm1yEj0V3J7BEYSzT) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 3:56 | 2021-10-15 | 2022-06-04 |
+| [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 | 2024-05-10 |  |
 | [SHAKE DAT](https://open.spotify.com/track/2uZNd8oxhctekoIoDfUoBP) | [River Moon](https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2) | [SHAKE DAT](https://open.spotify.com/album/4wLp5PZ8NmU2W0zaMXAw2W) | 5:00 | 2023-06-20 | 2023-06-24 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-10-13 |  |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2021-10-15 | 2024-03-23 |
@@ -153,8 +155,10 @@
 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 | 2022-07-14 | 2024-04-19 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-03-31 |  |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-06-01 |  |
+| [T.E.T.A Intergalactica](https://open.spotify.com/track/4AuVKafP9n7Y8NvjyEMGtd) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db), [Iki Yos](https://open.spotify.com/artist/6M9pbhfaqC8axIxpEkioK1) | [T.E.T.A Intergalactica](https://open.spotify.com/album/672vnH5HCMgYe0ReIxGiCS) | 4:00 | 2024-05-10 |  |
 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 |  |
 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-10-13 | 2024-04-19 |
+| [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 |  |
 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 | 2021-10-15 | 2022-06-04 |
 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 | 2021-10-15 | 2023-04-01 |
 | [thicc](https://open.spotify.com/track/7tNUNRjg5Q5JaGg5Q0zK0o) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:42 | 2024-04-30 |  |
@@ -171,5 +175,6 @@
 | [World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [World's Hardest Game](https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB) | 3:28 | 2024-03-22 |  |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-08-30 |  |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2021-10-15 | 2023-06-24 |
+| [Your Skin \- Edit](https://open.spotify.com/track/5jaCuftaprHN71hy2tuPcu) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 2:15 | 2024-05-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

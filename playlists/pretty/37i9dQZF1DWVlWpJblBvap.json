@@ -1,6 +1,6 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 562836,
+  "num_followers": 562970,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "The Heart Of Worship",
-        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 320600,
-      "name": "The Heart Of Worship",
-      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Where I Find You",
         "url": "https://open.spotify.com/album/1MSZhehWbJxSllwb87eKW9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 293106,
       "name": "Love Came Down",
       "url": "https://open.spotify.com/track/7F3VROOXA3kwdmHlNFgtCO"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "The Heart Of Worship",
+        "url": "https://open.spotify.com/album/3FgTpw4Cy3rGZc4FOyoVjf"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 320600,
+      "name": "The Heart Of Worship",
+      "url": "https://open.spotify.com/track/1WYHvGn6fQZRAmbD5TG51j"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Lord Send Revival (Live)",
         "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 402052,
       "name": "Lord Send Revival - Live",
       "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2023-02-18 03:38:32",

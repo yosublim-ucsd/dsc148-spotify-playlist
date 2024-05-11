@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Aw, Shoot!",
+        "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208439,
+      "name": "Aw, Shoot!",
+      "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
+    },
+    {
+      "album": {
         "name": "Kingmaker",
         "url": "https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa"
       },
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 306880,
       "name": "C'mon Let's Go",
       "url": "https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG"
@@ -1514,6 +1532,28 @@
       "duration_ms": 164917,
       "name": "Chasing Spirits",
       "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
+    },
+    {
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154525,
+      "name": "Chemical Sunset",
+      "url": "https://open.spotify.com/track/79FG7noMm9odAo071cWCpX"
     },
     {
       "album": {
@@ -1820,7 +1860,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 218878,
       "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
       "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
@@ -2058,7 +2098,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 238143,
       "name": "Days Can Turn Around",
       "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
@@ -3295,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "Hey There, Dolly",
+        "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193834,
+      "name": "Hey There, Dolly",
+      "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
+    },
+    {
+      "album": {
         "name": "Palace Waiting",
         "url": "https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR"
       },
@@ -3458,6 +3516,28 @@
       "duration_ms": 228106,
       "name": "How Do You Love with a Broken Heart?",
       "url": "https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg"
+    },
+    {
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172929,
+      "name": "How Far Will We Take It?",
+      "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
     },
     {
       "album": {
@@ -4136,7 +4216,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"
@@ -6430,7 +6510,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213248,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
@@ -6820,6 +6900,28 @@
       "duration_ms": 113777,
       "name": "The Gathering Chant",
       "url": "https://open.spotify.com/track/7cGZdNlgOh9JFe7MiRyfCF"
+    },
+    {
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186284,
+      "name": "The Hurtin' Kind",
+      "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"
     },
     {
       "album": {
@@ -7250,6 +7352,28 @@
       "duration_ms": 191946,
       "name": "Tough or Die",
       "url": "https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN"
+    },
+    {
+      "album": {
+        "name": "LONESTAR",
+        "url": "https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        },
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Twin Flame (feat. Goldie Boutillier)",
+      "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
     },
     {
       "album": {
@@ -7996,7 +8120,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 229222,
       "name": "Young - Spotify Singles",
       "url": "https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR"

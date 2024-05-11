@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Matisa. Artwork by Rewina Beshue.",
-  "num_followers": 175105,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Tsu Nami. Artwork by Rewina Beshue.",
+  "num_followers": 175188,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjvUTAAAAABepFpND175983IZVINXQjK",
+  "snapshot_id": "Zj2bwAAAAACAkgoUfpSpBOMJSKyo/1bU",
   "tracks": [
+    {
+      "added_at": "2024-05-01 17:01:39",
+      "album": {
+        "name": "Everything's Gonna Be Fine",
+        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Everything's Gonna Be Fine",
+      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
+    },
     {
       "added_at": "2024-04-24 16:38:08",
       "album": {
@@ -25,20 +41,40 @@
       "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-04-26 21:08:15",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+        "name": "At Night I Think Of You",
+        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
       },
       "artists": [
         {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
         }
       ],
-      "duration_ms": 393066,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
+      "duration_ms": 181911,
+      "name": "At Night I Think Of You",
+      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "UR SO GOOD (Everything I Need)",
+        "url": "https://open.spotify.com/album/5M3O0SWZTxgivMtraluEze"
+      },
+      "artists": [
+        {
+          "name": "De Facto!!",
+          "url": "https://open.spotify.com/artist/4iK9LUQulxNjKxUQLAkIRs"
+        },
+        {
+          "name": "DJ Fruit Salad",
+          "url": "https://open.spotify.com/artist/68i7ezU149Uwm2KtqdPR74"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "UR SO GOOD (Everything I Need)",
+      "url": "https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG"
     },
     {
       "added_at": "2024-05-08 19:36:43",
@@ -55,38 +91,6 @@
       "duration_ms": 172920,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-04-26 21:08:15",
-      "album": {
-        "name": "At Night I Think Of You",
-        "url": "https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e8s Mortimer",
-          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "At Night I Think Of You",
-      "url": "https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm"
     },
     {
       "added_at": "2024-04-03 23:31:06",
@@ -137,6 +141,22 @@
       "url": "https://open.spotify.com/track/6muKIQgJPJRk5D9p07MHp5"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
       "added_at": "2024-03-27 17:04:34",
       "album": {
         "name": "Warm The Room EP",
@@ -153,6 +173,42 @@
       "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "LET THE MUSIC PLAY",
+        "url": "https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        },
+        {
+          "name": "Club Azur",
+          "url": "https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "LET THE MUSIC PLAY",
+      "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
+    },
+    {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
+      },
+      "artists": [
+        {
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
+    },
+    {
       "added_at": "2024-05-08 19:36:43",
       "album": {
         "name": "Undown",
@@ -167,6 +223,22 @@
       "duration_ms": 202440,
       "name": "Undown",
       "url": "https://open.spotify.com/track/3Ev3OtW7s0FmhM7s5gDsez"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
     },
     {
       "added_at": "2024-04-26 21:08:15",
@@ -201,22 +273,6 @@
       "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
     },
     {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Pick Me Up",
@@ -231,22 +287,6 @@
       "duration_ms": 272903,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -265,20 +305,20 @@
       "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"
     },
     {
-      "added_at": "2024-04-10 18:23:48",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/5IeQsReRuYJwuME8j9hnV3"
+        "name": "Magic Garden EP",
+        "url": "https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf"
       },
       "artists": [
         {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+          "name": "II Faces",
+          "url": "https://open.spotify.com/artist/4hZL4r9HYfZy8kg5orn3e1"
         }
       ],
-      "duration_ms": 180937,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
+      "duration_ms": 173507,
+      "name": "Magic Garden",
+      "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -345,6 +385,22 @@
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/3y9boZt4qBDNFu942NRcKN"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 393066,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Wikidest DJ",
@@ -379,6 +435,22 @@
       "duration_ms": 210461,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/2ep0Vyr7OQTvDwgxzAJRbd"
+      },
+      "artists": [
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        }
+      ],
+      "duration_ms": 148837,
+      "name": "Maestro",
+      "url": "https://open.spotify.com/track/1I5vlHztbXa5Tx7nFeEVJS"
     },
     {
       "added_at": "2024-05-08 19:36:43",
@@ -481,6 +553,38 @@
       "url": "https://open.spotify.com/track/2s1WrQ4gYF1sf6A532AiNn"
     },
     {
+      "added_at": "2024-04-10 18:23:48",
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5IeQsReRuYJwuME8j9hnV3"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
+    },
+    {
+      "added_at": "2024-03-27 17:04:34",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Make You Look",
@@ -511,6 +615,22 @@
       "duration_ms": 213216,
       "name": "OFF THE HOOK - NYC EDIT",
       "url": "https://open.spotify.com/track/5YB1bwuhCoQMURJ6lZgtQy"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Get U All The Way",
+        "url": "https://open.spotify.com/album/6w50vSF6vixfZkzINb354E"
+      },
+      "artists": [
+        {
+          "name": "Triple M",
+          "url": "https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "Get U All The Way",
+      "url": "https://open.spotify.com/track/6dAvSMeDqy7PVAWGE7axm0"
     },
     {
       "added_at": "2024-05-01 17:01:39",
@@ -575,6 +695,22 @@
       "duration_ms": 205714,
       "name": "Lost In Memories",
       "url": "https://open.spotify.com/track/4Gug166DkIrDlolvyvM7LS"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Skin Like Rose",
+        "url": "https://open.spotify.com/album/5XoSV636RoJDTxMhaeuEYH"
+      },
+      "artists": [
+        {
+          "name": "Kimswim",
+          "url": "https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Skin Like Rose - SINGLE / SPLIT EP",
+      "url": "https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -691,22 +827,6 @@
       "duration_ms": 212463,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V"
-    },
-    {
-      "added_at": "2024-05-01 17:01:39",
-      "album": {
-        "name": "Everything's Gonna Be Fine",
-        "url": "https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Everything's Gonna Be Fine",
-      "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
     },
     {
       "added_at": "2024-04-24 16:38:08",
@@ -881,22 +1001,6 @@
       "url": "https://open.spotify.com/track/2w1qucwFjnkjn4LRWhFjr1"
     },
     {
-      "added_at": "2024-03-15 16:23:10",
-      "album": {
-        "name": "Dance With U",
-        "url": "https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu"
-      },
-      "artists": [
-        {
-          "name": "Leo Brown",
-          "url": "https://open.spotify.com/artist/44NtFX5OfUfdUIVYoGE3ND"
-        }
-      ],
-      "duration_ms": 171228,
-      "name": "Dance With U",
-      "url": "https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH"
-    },
-    {
       "added_at": "2024-04-17 18:58:43",
       "album": {
         "name": "Right Here",
@@ -1031,22 +1135,6 @@
       "duration_ms": 213064,
       "name": "Can't Stop This Feeling",
       "url": "https://open.spotify.com/track/0ZQiRX0H2xcxMXovA2Lj8z"
-    },
-    {
-      "added_at": "2024-03-20 17:46:37",
-      "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
     },
     {
       "added_at": "2024-04-17 18:58:43",
@@ -1269,22 +1357,6 @@
       "url": "https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y"
     },
     {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7vwmPbiCeBhHkZA5RGjSNY"
-      },
-      "artists": [
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3TyQK5VFsgW1oFsFilQpwJ"
-    },
-    {
       "added_at": "2024-04-03 23:31:06",
       "album": {
         "name": "There for You (Go in Life)",
@@ -1441,22 +1513,6 @@
       "url": "https://open.spotify.com/track/5lUPLEaIi28YjZ5OJ3jLoW"
     },
     {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "push / above",
-        "url": "https://open.spotify.com/album/4Gzd09NSaDOzrsNQMAmPd7"
-      },
-      "artists": [
-        {
-          "name": "glittr",
-          "url": "https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "push",
-      "url": "https://open.spotify.com/track/70rHOpWK2D0T4unIzANPL0"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "without you",
@@ -1535,38 +1591,6 @@
     {
       "added_at": "2024-03-27 17:04:34",
       "album": {
-        "name": "Inner Circuitry",
-        "url": "https://open.spotify.com/album/2vHPBoZuIIBBsfHjRZdoAA"
-      },
-      "artists": [
-        {
-          "name": "Familiar Faces",
-          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "One More Chance",
-      "url": "https://open.spotify.com/track/5RWaoorATy51bTcKH4iEuF"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo"
-      },
-      "artists": [
-        {
-          "name": "Peace Bringa",
-          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/5Pe7Zs0lvgMV5FlQmmQc5Z"
       },
@@ -1631,22 +1655,6 @@
       "duration_ms": 292000,
       "name": "House Nation",
       "url": "https://open.spotify.com/track/19z4ja0tzdakFYAxLGvird"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "cheap sunset",
-        "url": "https://open.spotify.com/album/2PrPJggT9T4jIccc8qTLkI"
-      },
-      "artists": [
-        {
-          "name": "foyn",
-          "url": "https://open.spotify.com/artist/0MSrBB3HIgO3n2xdmxJYJy"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "cheap sunset",
-      "url": "https://open.spotify.com/track/5eDYhm8wmwu36e7BBvjLnr"
     },
     {
       "added_at": "2024-02-21 19:42:33",

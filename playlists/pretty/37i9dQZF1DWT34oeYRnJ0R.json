@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Hamilton & Zaider",
-  "num_followers": 665037,
+  "num_followers": 665025,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/0ybzn4FRTluKf7LRZdSr6E"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "POEMA A TUS PROBLEMAS",
-        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
       },
       "artists": [
         {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 209857,
-      "name": "POEMA A TUS PROBLEMAS",
-      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+      "duration_ms": 147391,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/76X0sg9YMAfH6P38NMUp6O"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 165600,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "TRAPPii",
-        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/76X0sg9YMAfH6P38NMUp6O"
     },
     {
       "added_at": "2024-04-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 34297,
+  "num_followers": 34312,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Higher State Of Consciousness",
+        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness - Tweekin Acid Funk",
+      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN"
       },
@@ -71,22 +87,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness - Tweekin Acid Funk",
-      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
       },
@@ -99,6 +99,26 @@
       "duration_ms": 384000,
       "name": "Follow Me - Club Mix",
       "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Armand Van Helden EP",
+        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
+        }
+      ],
+      "duration_ms": 445026,
+      "name": "Witch Doktor - Eddie Thoneick Remix",
+      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -323,26 +343,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Armand Van Helden EP",
-        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
-        }
-      ],
-      "duration_ms": 445026,
-      "name": "Witch Doktor - Eddie Thoneick Remix",
-      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Tribal - EP (Remixes)",
         "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
       },
@@ -391,38 +391,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe - Erick 'More' Mix",
-      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 518960,
       "name": "In Da Clouds - Da Dub",
       "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe - Erick 'More' Mix",
+      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
     },
     {
       "added_at": "2022-03-03 13:59:16",

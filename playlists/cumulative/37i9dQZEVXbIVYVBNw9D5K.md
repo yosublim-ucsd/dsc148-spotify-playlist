@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-911 songs - 1 day 21 hr 25 min
+912 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [Salıncak](https://open.spotify.com/track/2WvQPmUV1dFdm21C2ryqfo) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT) | [Salıncak](https://open.spotify.com/album/7e4M15sSXZHABco4p5O1GD) | 2:47 | 2022-01-11 | 2022-04-03 |
 | [Sana Bayılıyorum](https://open.spotify.com/track/1P75ygfeKbTnWpuyTzUpCy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 2:36 | 2021-05-23 | 2021-06-06 |
 | [sana söz yine baharlar gelecek](https://open.spotify.com/track/0gEo5eyqUlq7XkgPMTtUy1) | [nezexous](https://open.spotify.com/artist/2jFc0gwjzIe1klTCZF8BDH), [CASH INC.](https://open.spotify.com/artist/6SlwDPsViVqnsWqQerbZH8), [samet aka spud](https://open.spotify.com/artist/3qrVFzmsmq7upWkunEfrKc) | [sana söz yine baharlar gelecek](https://open.spotify.com/album/1N4J6AD7zAMnZlD6C1NfKV) | 3:29 | 2023-05-15 | 2023-05-17 |
+| [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-05-10 |  |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-02-15 | 2023-06-18 |
 | [SAVANA](https://open.spotify.com/track/4zamjWcxvLNIkiAmBEQhda) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 3:23 | 2022-01-22 | 2022-01-30 |
 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 | 2022-09-03 | 2023-01-09 |
@@ -851,7 +852,7 @@
 | [Yalanı Bırak](https://open.spotify.com/track/755Pja1zaA687Vql25NHwP) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Yalanı Bırak](https://open.spotify.com/album/7gfAc3QLyKuRUioINjKHfi) | 2:57 | 2022-11-22 | 2023-04-15 |
 | [Yallah](https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX) | [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Yallah](https://open.spotify.com/album/57TckZyIR5Gc6vab60RBpm) | 2:24 | 2022-02-05 | 2022-05-26 |
 | [YAN YANA](https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [YAN YANA](https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8) | 3:34 | 2023-05-27 | 2023-06-04 |
-| [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 |  |
+| [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-02-04 | 2024-05-11 |
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
 | [Yanlış](https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Yanlış](https://open.spotify.com/album/7F5XFNNcmntqkZ7gAvEgqi) | 3:41 | 2023-02-16 | 2023-03-08 |

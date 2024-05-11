@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "Ariel (Theme Song) [From \"Disney Junior Music: Ariel\"]",
+        "url": "https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2"
+      },
+      "artists": [
+        {
+          "name": "Ariel - Cast",
+          "url": "https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96560,
+      "name": "Ariel (Theme Song) - From \"Disney Junior Music: Ariel\"",
+      "url": "https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Nursery Rhymes Vol. 2",
         "url": "https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc"
       },

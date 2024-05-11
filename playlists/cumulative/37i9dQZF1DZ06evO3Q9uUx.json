@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is BIA. The essential tracks, all in one playlist.",
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
   "name": "This Is BIA",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 114602,
       "name": "FREE BIA (1ST DAY OUT)",
       "url": "https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198200,
       "name": "Pi\u00f1ata (feat. BIA, Kap G & Justin Quiles)",
       "url": "https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
@@ -2210,10 +2210,32 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 140875,
       "name": "Yeah (with BIA)",
       "url": "https://open.spotify.com/track/3ta5gWGwyiJMzBmhae0nip"
+    },
+    {
+      "album": {
+        "name": "Yeah (with BIA)",
+        "url": "https://open.spotify.com/album/4CalADPdJKv4vtRvZlwrcC"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx"

@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/473eMxGj5oXP0XQAwMVvXJ"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213533,
       "name": "Femme-Lady",
       "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
@@ -1661,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Les flics (sont des sacs \u00e0 merde)",
+        "url": "https://open.spotify.com/album/1I3lg7XofxUMj7CqFF5Xao"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173970,
+      "name": "Les flics (sont des sacs \u00e0 merde)",
+      "url": "https://open.spotify.com/track/2y36PoFQpSXvqVcVtp82xJ"
+    },
+    {
+      "album": {
         "name": "LES MANI\u00c8RES DE TABLE",
         "url": "https://open.spotify.com/album/6o9kdQpNwufn7A7ZFk7mG4"
       },
@@ -1874,6 +1892,24 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "album": {
+        "name": "Messie",
+        "url": "https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245093,
+      "name": "Messie",
+      "url": "https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY"
     },
     {
       "album": {

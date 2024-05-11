@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:4OVbrPbhvK46A1uXTU1u5F\">Lay Bankz</a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:4VCriUU9CsPnUvoAsxVk1p\">310babii</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Express&B",
+        "url": "https://open.spotify.com/album/0qQK816y2lV274QnkVpOSo"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121003,
+      "name": "4eel Me",
+      "url": "https://open.spotify.com/track/1AVinOfmx7dxGiZ9ldXThv"
+    },
+    {
+      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 189867,
       "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
       "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
@@ -1069,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Are You Someone",
+        "url": "https://open.spotify.com/album/1Y2Y4PfapIofi6weGK2XHu"
+      },
+      "artists": [
+        {
+          "name": "Ashya",
+          "url": "https://open.spotify.com/artist/2zXUDghhOWr3brlPdwKxTR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197067,
+      "name": "Are You Someone",
+      "url": "https://open.spotify.com/track/4Hi2MgkLmFGjM96Z36gS8j"
+    },
+    {
+      "album": {
         "name": "Island Forgotten",
         "url": "https://open.spotify.com/album/4tdVcpta1iwjVd0kBon6Sv"
       },
@@ -1228,6 +1264,24 @@
       "duration_ms": 178880,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5kZ5PTRjO6GMwPGEuXthFs"
+    },
+    {
+      "album": {
+        "name": "Sick of Myself",
+        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133118,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/0Q7ZWFci4zhGGEdNaXo6E6"
     },
     {
       "album": {
@@ -2604,7 +2658,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 137493,
       "name": "CALL (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/5nYQInI5l56jGprE0EDtKA"
@@ -2694,7 +2748,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 148421,
       "name": "Carolina to New York",
       "url": "https://open.spotify.com/track/2iFsXp3FUEgMIby8VG0j8a"
@@ -3354,7 +3408,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 203402,
       "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/1pXLdFs165czUuRHbGa2rh"
@@ -3732,6 +3786,28 @@
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
+    },
+    {
+      "album": {
+        "name": "Take What You Need and Then Some",
+        "url": "https://open.spotify.com/album/51g1AZkxAlkmqvv0QRAS2l"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112954,
+      "name": "cult classic (feat. Vayda)",
+      "url": "https://open.spotify.com/track/6SeNaSjWcFBTiXhWYt4kcS"
     },
     {
       "album": {
@@ -5110,7 +5186,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 140852,
       "name": "Favorite Lady",
       "url": "https://open.spotify.com/track/3DEDh62pZq4z5Lc8WkhwuM"
@@ -5463,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "P.S. Fuck You",
+        "url": "https://open.spotify.com/album/2OvsRpOLneN4yWwXnMxyxx"
+      },
+      "artists": [
+        {
+          "name": "Yhapojj",
+          "url": "https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108039,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02UNNklZGpkE5cq8O8XJDl"
+    },
+    {
+      "album": {
         "name": "FN THE MIXTAPE COMING SOON",
         "url": "https://open.spotify.com/album/5jjbZqr3FBAMGhjrzGIxIa"
       },
@@ -5809,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "Lamont",
+        "url": "https://open.spotify.com/album/0Nkdjp76jqA0AgQ5UsNBal"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123669,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/3eMdEKCNW3pD2mUuB7Nokk"
+    },
+    {
+      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -6038,6 +6150,24 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
     },
     {
       "album": {
@@ -6715,6 +6845,32 @@
     },
     {
       "album": {
+        "name": "MEET THE 6IXERS",
+        "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Havin Freestyle",
+      "url": "https://open.spotify.com/track/7DZT6oK0DaHqIgmPji8bGL"
+    },
+    {
+      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -6828,7 +6984,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 118000,
       "name": "HI-VOLTAGE",
       "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
@@ -7365,6 +7521,28 @@
     },
     {
       "album": {
+        "name": "H.I.M (Hustle In Me)",
+        "url": "https://open.spotify.com/album/5wE3Y9ir6DSF2AG2rWRKdn"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136393,
+      "name": "I Need You (featuring Skilla Baby)",
+      "url": "https://open.spotify.com/track/5j6oWl3K9cU1UZO9B7IvOc"
+    },
+    {
+      "album": {
         "name": "Wayne",
         "url": "https://open.spotify.com/album/3DryZCv6ZZpYzgD4Vjg03q"
       },
@@ -7622,6 +7800,24 @@
       "duration_ms": 165161,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5Fivs2sPYb9iBQuk2s0my7"
+    },
+    {
+      "album": {
+        "name": "In My City",
+        "url": "https://open.spotify.com/album/07cDGcvU9dyKDZ23rSLbbT"
+      },
+      "artists": [
+        {
+          "name": "BMG Dmack",
+          "url": "https://open.spotify.com/artist/78LTEEfreqlEoRJ0Zv94Fy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117080,
+      "name": "In My City",
+      "url": "https://open.spotify.com/track/3mMRjaMDZir1leHaOJL5z1"
     },
     {
       "album": {
@@ -9446,7 +9642,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 86935,
       "name": "Might Be Tweakin",
       "url": "https://open.spotify.com/track/6jAWFH2BuMQbolxhwV2MLs"
@@ -9472,7 +9668,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
@@ -12498,7 +12694,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178285,
       "name": "rock your hips",
       "url": "https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA"
@@ -12516,7 +12712,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183402,
       "name": "Rockabi",
       "url": "https://open.spotify.com/track/1EfSgLmaVLirrKf6mL2EYf"
@@ -15560,7 +15756,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178235,
       "name": "Tweak (with Kyle Richh, Jenn Carter & TaTa)",
       "url": "https://open.spotify.com/track/7H29Nxj2XqsUNGkO6vH2MZ"
@@ -15778,6 +15974,24 @@
       "duration_ms": 131024,
       "name": "USC",
       "url": "https://open.spotify.com/track/3RN2DysOt9NcUu0JUGeQPV"
+    },
+    {
+      "album": {
+        "name": "VEGETABLE (BRAIN DEAD)",
+        "url": "https://open.spotify.com/album/2MbH2QLMq2qaogGFMhw9ym"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142805,
+      "name": "VEGETABLE (BRAIN DEAD)",
+      "url": "https://open.spotify.com/track/2XOraVvSzyO2wFxmd9Jggt"
     },
     {
       "album": {

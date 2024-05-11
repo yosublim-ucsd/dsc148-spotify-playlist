@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Soziedad Alkoholika.
 
-138 songs - 7 hr 22 min
+140 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 |  |
 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 | 2023-12-08 | 2024-04-19 |
 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 | 2024-05-09 |  |
+| [Cagaos](https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Cagaos](https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K) | 2:37 | 2024-05-09 |  |
 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 | 2023-12-08 |  |
 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 | 2024-02-08 | 2024-05-10 |
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 | 2024-04-19 |
@@ -70,6 +71,7 @@
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 | 2024-04-19 |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 |  |
+| [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 | 2024-05-09 |  |
 | [Influencers](https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Influencers](https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2) | 4:06 | 2024-05-09 |  |
 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 | 2023-12-08 |  |
 | [Jarama](https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Jarama](https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh) | 3:37 | 2023-12-08 |  |
@@ -94,7 +96,7 @@
 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 | 2023-12-08 |  |
 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 | 2023-12-08 |  |
 | [Mil Historias](https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Porsupuestón](https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi) | 3:40 | 2023-12-08 |  |
-| [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 | 2024-04-18 |  |
+| [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 | 2024-04-18 | 2024-05-11 |
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 | 2023-12-08 | 2024-04-19 |
 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 | 2023-12-08 |  |
 | [Ni Dios Ni Amo](https://open.spotify.com/track/38OqmiFdfy1Cmcn2XI90oE) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/1mMB89P9sgw8WRsR6qk8Rg) | 5:16 | 2024-04-18 |  |
@@ -108,7 +110,7 @@
 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 | 2023-12-08 |  |
 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 | 2023-12-28 | 2024-04-19 |
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
-| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 |  |
+| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 | 2024-05-11 |
 | [Nuestra guerra](https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Nuestra guerra](https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf) | 5:05 | 2024-04-11 |  |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 |  |
 | [Nunca Sabras Quien Soy](https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J) | [El Kintano y la Venerea](https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh) | [Nunca Sabras Quien Soy](https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf) | 2:29 | 2024-05-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 22430,
+  "num_followers": 22435,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAC3Q8p3zF8lpx1FrkrUDGnM",
+  "snapshot_id": "ZjwSAAAAAACz25IXw7UWAVMVBF0eXF7Z",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 212276,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 459662,
       "name": "Nunca Pare De Lutar",
       "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 212276,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 336644,
       "name": "O Caminho do Milagre",
       "url": "https://open.spotify.com/track/0i6enCvQLwM7dXVPKUET6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
     },
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 391586,
+      "name": "Orar e Adorar (feat. David Quinlan)",
+      "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 391586,
-      "name": "Orar e Adorar (feat. David Quinlan)",
-      "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
@@ -543,38 +543,6 @@
       "duration_ms": 453866,
       "name": "Calma - Ao Vivo",
       "url": "https://open.spotify.com/track/5FiJiqNE9OGXX924PBxDqW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "Eu Dependo de Deus",
-      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
-        "url": "https://open.spotify.com/album/2EporWTpdlfym5M0bUye72"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 375800,
-      "name": "O Consolo para o Inconsol\u00e1vel",
-      "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
     },
     {
       "added_at": null,
@@ -651,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
       "artists": [
         {
@@ -660,9 +628,25 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 281853,
-      "name": "Eu Vou Vencer",
-      "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/2EporWTpdlfym5M0bUye72"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 375800,
+      "name": "O Consolo para o Inconsol\u00e1vel",
+      "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 284146,
       "name": "No Meio de uma Tempestade",
       "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Eu Vou Vencer",
+      "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Senhor que Cura",
-      "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 348893,
       "name": "S\u00f3 o Senhor \u00e9 Deus",
       "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Senhor que Cura",
+      "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
-        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 201430,
-      "name": "Totalmente aos Teus P\u00e9s",
-      "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei para Sempre",
         "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
       },
@@ -803,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imenso Amor",
-        "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
+        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
+        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
         },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Imenso Amor",
-      "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+      "duration_ms": 201430,
+      "name": "Totalmente aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
     },
     {
       "added_at": null,
@@ -847,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+        "name": "Imenso Amor",
+        "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
       "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 369853,
-      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
+      "duration_ms": 203235,
+      "name": "Imenso Amor",
+      "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 339125,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 369853,
+      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
     },
     {
       "added_at": null,

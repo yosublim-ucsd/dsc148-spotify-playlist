@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,275 likes - 78 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,300 likes - 78 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

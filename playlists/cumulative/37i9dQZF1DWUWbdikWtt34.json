@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Riri Chantika",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 223000,
       "name": "Ada Dia Antara Kita",
       "url": "https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb"
+    },
+    {
+      "album": {
+        "name": "Ai (Live At Ska Reggae)",
+        "url": "https://open.spotify.com/album/0MgqwUSGW9kIctoK9w2eiX"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209610,
+      "name": "Ai - Live At Ska Reggae",
+      "url": "https://open.spotify.com/track/4aevNieoEkoxUAAb1lGlvA"
     },
     {
       "album": {

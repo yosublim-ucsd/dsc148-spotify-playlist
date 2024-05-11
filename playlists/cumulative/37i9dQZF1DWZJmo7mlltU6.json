@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: The Marias.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Chezile.",
   "name": "borderless",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154934,
       "name": "17",
       "url": "https://open.spotify.com/track/3YaDWyV00fRREE9mPtnXe7"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167280,
       "name": "Baby (feat. Murda)",
       "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
@@ -1936,6 +1936,24 @@
       "duration_ms": 200750,
       "name": "Calle Brasil",
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
+    },
+    {
+      "album": {
+        "name": "GRINGO Vol.1",
+        "url": "https://open.spotify.com/album/5AbTL8zPjVsbHG0vZ9En5d"
+      },
+      "artists": [
+        {
+          "name": "Selton",
+          "url": "https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Calma Cara",
+      "url": "https://open.spotify.com/track/2q7RL5NoZD9LsCUCXKDtdJ"
     },
     {
       "album": {
@@ -3221,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159455,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1"
+    },
+    {
+      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
@@ -3652,7 +3688,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 259703,
       "name": "Diva Yorgun",
       "url": "https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4"
@@ -4176,7 +4212,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 318826,
       "name": "El huerto provenzal",
       "url": "https://open.spotify.com/track/12qIAhkDdH1d3UYQdoywc4"
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
@@ -6254,6 +6290,50 @@
       "duration_ms": 206280,
       "name": "heart attack",
       "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
+    },
+    {
+      "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
+      },
+      "artists": [
+        {
+          "name": "Belau",
+          "url": "https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya"
+        },
+        {
+          "name": "Ay Wing",
+          "url": "https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229480,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
     },
     {
       "album": {
@@ -6928,7 +7008,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 180442,
       "name": "IT HURTS ME",
       "url": "https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H"
@@ -7312,7 +7392,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175013,
       "name": "Juste toi et moi",
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
@@ -8052,7 +8132,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 214853,
       "name": "Let's Start a Country",
       "url": "https://open.spotify.com/track/41KhQPE4YvR5DolLkzqPgp"
@@ -10216,10 +10296,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 231566,
       "name": "notOKkrubbossX",
       "url": "https://open.spotify.com/track/4EeB49dNUsvz4sfkGFqeCu"
+    },
+    {
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/51Zme9D9kAFrCGYNWvxQsW"
+      },
+      "artists": [
+        {
+          "name": "Fyeqoodgurl",
+          "url": "https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178214,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/38bpdoavxRTydgisUpZFL1"
     },
     {
       "album": {
@@ -13481,6 +13579,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177310,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pSOD33Atm2XYhcZcnT8Pi"
       },
@@ -13710,7 +13826,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
@@ -13848,6 +13964,28 @@
       "duration_ms": 223573,
       "name": "Summer Love Story",
       "url": "https://open.spotify.com/track/2iUmIo8RtknYXLjRGlusVd"
+    },
+    {
+      "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "album": {
@@ -14072,6 +14210,28 @@
       "duration_ms": 192977,
       "name": "Tache d'encre",
       "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
+    },
+    {
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "album": {
@@ -15281,6 +15441,28 @@
     },
     {
       "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "un d\u00eda",
+      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
+    },
+    {
+      "album": {
         "name": "Un Llavero",
         "url": "https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0"
       },
@@ -15714,7 +15896,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 246666,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
@@ -16766,7 +16948,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198861,
       "name": "\u60f3\u3046\u3068\u3044\u3046\u3053\u3068",
       "url": "https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB"

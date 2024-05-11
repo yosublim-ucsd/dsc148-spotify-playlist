@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 ### [RADAR Podcasters AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
-> Podcasts you need to have on your RADAR: <a href="spotify:show:73sgbEhXdXbFqKZoc1zgqk"> Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
+> Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,377 likes - 9 songs - 8 hr 11 min
 
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 8 | [Kate Middleton Diagnosis, Quiet on Set & HECS](https://open.spotify.com/episode/7wrfU215ND17R9sF3s5qZ1) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 54:09 |
 | 9 | [Olivia Rodrigo, Andrew Tate & US Tik Tok Ban](https://open.spotify.com/episode/7Gc851IQbbDvVX4bxCgSbw) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 41:53 |
 
-Snapshot ID: `Zjw0UQAAAAAFEOH8/x7XwfMudrLAsPxt`
+Snapshot ID: `Zj3P5AAAAABQMC4Dp4KWWoujlLCLLoaM`

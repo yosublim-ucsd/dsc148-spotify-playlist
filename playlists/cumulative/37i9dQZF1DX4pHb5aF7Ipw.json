@@ -379,6 +379,32 @@
     },
     {
       "album": {
+        "name": "DESI TRILL Presents...Brown is Everywhere",
+        "url": "https://open.spotify.com/album/5A0U2TgDKVUifuVckuQuFN"
+      },
+      "artists": [
+        {
+          "name": "DESI TRILL",
+          "url": "https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ"
+        },
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146424,
+      "name": "Billo (feat. Natania)",
+      "url": "https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC"
+    },
+    {
+      "album": {
         "name": "Back To Skool",
         "url": "https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG"
       },
@@ -602,6 +628,40 @@
       "duration_ms": 223125,
       "name": "Dil vich chor",
       "url": "https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/3ySYqXXj6Ycfy1NdPCT6y1"
+      },
+      "artists": [
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "GUR3",
+          "url": "https://open.spotify.com/artist/5koyyrDLmi6gC2M1XQrB1p"
+        },
+        {
+          "name": "Jashan Khaira",
+          "url": "https://open.spotify.com/artist/1jNthEGefMxysUrn5ZJLgA"
+        },
+        {
+          "name": "Offgrid",
+          "url": "https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y"
+        },
+        {
+          "name": "SOE",
+          "url": "https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0o89fyEtsX7ghSCOX03ETH"
     },
     {
       "album": {
@@ -1506,7 +1566,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 160000,
       "name": "Okay",
       "url": "https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd"
@@ -1788,7 +1848,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167059,
       "name": "Shaq",
       "url": "https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq"

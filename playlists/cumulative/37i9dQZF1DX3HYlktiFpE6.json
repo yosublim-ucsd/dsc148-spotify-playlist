@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 90653,
       "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/7dKwAcCco3sF1l6T4oIufU"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 247377,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/3uYH99gz6GynHDJkFCqtLO"
@@ -838,6 +838,24 @@
       "duration_ms": 185080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/5POcQCBI2uqf3a2179ch57"
+    },
+    {
+      "album": {
+        "name": "Top Shelf",
+        "url": "https://open.spotify.com/album/5TJi7XSOl8mLCfGgrjEu9G"
+      },
+      "artists": [
+        {
+          "name": "The Cocktails",
+          "url": "https://open.spotify.com/artist/3mopzOAKf1rXtmBUjAeEgz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/0Nu79T1yFYMlibVfXQlKA8"
     },
     {
       "album": {
@@ -1337,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/3p5NMICoWw8UWNYdTsrdtL"
+      },
+      "artists": [
+        {
+          "name": "Pitch Please",
+          "url": "https://open.spotify.com/artist/6FIIgRScUYNnbDtXsryd6G"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214044,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/3huvnAxZyEXG580EaKc2M5"
+    },
+    {
+      "album": {
         "name": "bloom.",
         "url": "https://open.spotify.com/album/1XzgUg7lAUwMHc3CbE8ITx"
       },
@@ -1680,7 +1716,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 176813,
       "name": "Landslide - Studio Version",
       "url": "https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME"
@@ -2984,6 +3020,24 @@
       "duration_ms": 190960,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"
+    },
+    {
+      "album": {
+        "name": "Twisted Archives",
+        "url": "https://open.spotify.com/album/7epHWWSI6naCBcbAROhL9X"
+      },
+      "artists": [
+        {
+          "name": "Twisted Measure",
+          "url": "https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191613,
+      "name": "Through With You",
+      "url": "https://open.spotify.com/track/22fKOkoCC1iusHLaz8HvjX"
     },
     {
       "album": {

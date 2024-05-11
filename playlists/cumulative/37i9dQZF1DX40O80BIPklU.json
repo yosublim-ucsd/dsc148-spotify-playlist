@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Anubis",
+        "url": "https://open.spotify.com/album/3c2bzj232rkacmyrHlm2jr"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Anubis",
+      "url": "https://open.spotify.com/track/70hcdvzzV9oDPnGEzkgqVw"
+    },
+    {
+      "album": {
         "name": "Apago Mi Cel",
         "url": "https://open.spotify.com/album/1LOmkgHni3CauF0hPAdCsI"
       },
@@ -1080,6 +1098,36 @@
       "duration_ms": 201372,
       "name": "BOURDAIN",
       "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
+    },
+    {
+      "album": {
+        "name": "BSG1: Flow de los 2000's (ft. B.Smile)",
+        "url": "https://open.spotify.com/album/0m8CBzKQR1vUokNQBFSpSE"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "B.Smile",
+          "url": "https://open.spotify.com/artist/2UuSCvvWnSxWzj1BrjTRlo"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132300,
+      "name": "BSG1: Flow de los 2000's (ft. B.Smile)",
+      "url": "https://open.spotify.com/track/5audKLsqbxvpjzK3HOeJhq"
     },
     {
       "album": {
@@ -2680,7 +2728,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164035,
       "name": "G&S",
       "url": "https://open.spotify.com/track/0uLtNwqpOvDZANiBO6doIs"
@@ -2986,10 +3034,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205500,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6IfDktcwMkz0ZGC3BjXWaO"
+    },
+    {
+      "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
     },
     {
       "album": {
@@ -3038,6 +3108,28 @@
       "duration_ms": 153513,
       "name": "KIEN?",
       "url": "https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/6TXXqLQ92t4mRtYjYxHRGF"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181956,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/0OjeLsAPbEDKk1crwGdA4U"
     },
     {
       "album": {
@@ -3862,7 +3954,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 228000,
       "name": "Males Necesarios",
       "url": "https://open.spotify.com/track/5dXEifSRH3X3qEjH4aybdG"
@@ -5320,7 +5412,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 187826,
       "name": "pizzas lalin freestyle",
       "url": "https://open.spotify.com/track/1InVblPYh4DpszAJpOm1eI"
@@ -5404,6 +5496,28 @@
       "duration_ms": 175545,
       "name": "Presente",
       "url": "https://open.spotify.com/track/2VmB41K7wLAqzUoE5tXTX0"
+    },
+    {
+      "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/2WcB1Gd6mRria4YwRytJ4o"
+      },
+      "artists": [
+        {
+          "name": "Elio Toffana",
+          "url": "https://open.spotify.com/artist/3iaWOU36p7W4oqHLDoBQmr"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205591,
+      "name": "Price Tag",
+      "url": "https://open.spotify.com/track/4AdBmJLnjJU8P8Zdmebgzq"
     },
     {
       "album": {
@@ -6388,7 +6502,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 194968,
       "name": "Suena el Bajo",
       "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
@@ -6697,6 +6811,28 @@
     },
     {
       "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+    },
+    {
+      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -6964,7 +7100,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 269106,
       "name": "Triada",
       "url": "https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw"

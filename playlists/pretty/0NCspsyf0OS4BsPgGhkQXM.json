@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2016220,
+  "num_followers": 2016312,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5GUU4D4pr455Bux8KhaD3SPNUOua0",
+  "snapshot_id": "AAA5JRTsqHM1AWqX2e4D7IPYbfszexF3",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -753,6 +753,30 @@
       "url": "https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN"
     },
     {
+      "added_at": "2024-05-10 20:26:44",
+      "album": {
+        "name": "Fuck Your Ego (ft. Frizzy The Streetz)",
+        "url": "https://open.spotify.com/album/06Gp6tJu4aw6bSJ4R2hUq6"
+      },
+      "artists": [
+        {
+          "name": "SFRNG",
+          "url": "https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2"
+        },
+        {
+          "name": "Simbai",
+          "url": "https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg"
+        },
+        {
+          "name": "Frizzy The Streetz",
+          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Fuck Your Ego (ft. Frizzy The Streetz)",
+      "url": "https://open.spotify.com/track/3hichQTeR18ZdRzlST5Cp0"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Light",
@@ -957,26 +981,6 @@
       "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
     },
     {
-      "added_at": "2024-03-01 21:09:44",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1W3AezxuF7d3NiTVGhskc8"
-      },
-      "artists": [
-        {
-          "name": "Siik",
-          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5lPnSJBGv9jVG2uKYCayWH"
-    },
-    {
       "added_at": "2024-02-13 18:17:25",
       "album": {
         "name": "Jungle (Remixes)",
@@ -1029,48 +1033,24 @@
       "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
     },
     {
-      "added_at": "2024-03-13 23:11:04",
+      "added_at": "2024-05-10 21:38:50",
       "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/7eeap4wOpwBXK2pe78HMGk"
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
       "artists": [
         {
-          "name": "Mandrazo",
-          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
         },
         {
-          "name": "sebabrazy",
-          "url": "https://open.spotify.com/artist/2lqxkxCk1iXBOOI9EH3ur0"
-        },
-        {
-          "name": "Kiyashqo",
-          "url": "https://open.spotify.com/artist/13m70A1sL3JXe8ZhRougy5"
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
         }
       ],
-      "duration_ms": 143200,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/0e7QrydNDrJGRxXvdRUIZf"
-    },
-    {
-      "added_at": "2024-03-13 23:11:26",
-      "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/7iCI4tsViC7Kefaf3rtmKK"
-      },
-      "artists": [
-        {
-          "name": "Crushed Candy",
-          "url": "https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1"
-        },
-        {
-          "name": "Frizzy The Streetz",
-          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/2Ci4ObLzjiFT1U1y346Nui"
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1589,62 +1569,6 @@
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/2uy91QEOLtNigoebYUXknj"
-      },
-      "artists": [
-        {
-          "name": "Besomorph",
-          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
-        },
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
-    },
-    {
-      "added_at": "2024-03-15 15:51:54",
-      "album": {
-        "name": "FLOWIN",
-        "url": "https://open.spotify.com/album/0lE2Xe8d0YKlzFncXYx6jn"
-      },
-      "artists": [
-        {
-          "name": "3weeksin",
-          "url": "https://open.spotify.com/artist/1l5gvmBcnW4xwsxGzXvCu2"
-        }
-      ],
-      "duration_ms": 120208,
-      "name": "FLOWIN",
-      "url": "https://open.spotify.com/track/1zjCMjVRe0QpsGApru4azp"
-    },
-    {
-      "added_at": "2024-03-15 15:52:02",
-      "album": {
-        "name": "SUKI",
-        "url": "https://open.spotify.com/album/5NpLmvLMrog7sbelVCasSa"
-      },
-      "artists": [
-        {
-          "name": "Eric Reprid",
-          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
-        }
-      ],
-      "duration_ms": 127712,
-      "name": "SUKI",
-      "url": "https://open.spotify.com/track/1GegKRYsUlq6y1Rlm5p6TB"
-    },
-    {
       "added_at": "2024-02-16 18:52:44",
       "album": {
         "name": "Quiet in the Backseat",
@@ -1663,6 +1587,26 @@
       "duration_ms": 315483,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/5bMy00AZuGFqiWqps87HWB"
+    },
+    {
+      "added_at": "2024-05-10 21:40:09",
+      "album": {
+        "name": "The Machine (Sped Up)",
+        "url": "https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 154208,
+      "name": "The Machine - Sped Up",
+      "url": "https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3"
     },
     {
       "added_at": "2024-03-04 23:30:44",
@@ -1743,26 +1687,6 @@
       "duration_ms": 149798,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "THE TOP",
-        "url": "https://open.spotify.com/album/1JgNOCjF42tHnCy6uQVH8i"
-      },
-      "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
-        },
-        {
-          "name": "Prada Leary",
-          "url": "https://open.spotify.com/artist/5NY4BED9bXS9TB0Y3ITB8j"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "THE TOP",
-      "url": "https://open.spotify.com/track/67iPIBMaCOyMfqxReI7Gry"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2963,6 +2887,22 @@
       "duration_ms": 90557,
       "name": "SATANS SMILE",
       "url": "https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg"
+    },
+    {
+      "added_at": "2024-05-10 21:41:35",
+      "album": {
+        "name": "did i tell u that i miss u",
+        "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "duration_ms": 115921,
+      "name": "did i tell u that i miss u",
+      "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
     }
   ],
   "unique_name": "Trap Nation",

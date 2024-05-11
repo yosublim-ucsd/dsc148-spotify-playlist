@@ -4405,6 +4405,28 @@
     },
     {
       "album": {
+        "name": "Secrets EP",
+        "url": "https://open.spotify.com/album/3u8ztFsOmcYx1vBwj9DorT"
+      },
+      "artists": [
+        {
+          "name": "Linn Elisabet",
+          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
+        },
+        {
+          "name": "Stina Francina",
+          "url": "https://open.spotify.com/artist/7u3hkUd6I6zTYAcADON0BK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326037,
+      "name": "In Eternity",
+      "url": "https://open.spotify.com/track/5p7mqvfxsEtC2cpf3VWCNc"
+    },
+    {
+      "album": {
         "name": "Creative Vandalism (Re-Issue)",
         "url": "https://open.spotify.com/album/6APOGVrlSNAinUI86NyCX9"
       },

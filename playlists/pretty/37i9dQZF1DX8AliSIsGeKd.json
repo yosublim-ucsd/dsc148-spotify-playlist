@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music. Cover: Einmusik",
-  "num_followers": 641384,
+  "num_followers": 641511,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
       "duration_ms": 287697,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/0bfPvmwKE0gRoXedDs7s0q"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/27D9mWpxYbteppnav4KHEl"
+      },
+      "artists": [
+        {
+          "name": "Jerome Isma-Ae",
+          "url": "https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/0k6gM49WeWv3rEPLGVjiMi"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1456,8 +1472,8 @@
           "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
         }
       ],
-      "duration_ms": 358348,
-      "name": "Your House - Extended Mix",
+      "duration_ms": 348934,
+      "name": "Your House",
       "url": "https://open.spotify.com/track/06Ow0ZtqEOHU0ineQj8UZj"
     },
     {

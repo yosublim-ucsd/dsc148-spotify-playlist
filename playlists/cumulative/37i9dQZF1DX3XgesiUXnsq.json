@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217506,
       "name": "Brooklyn Zoo",
       "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154630,
       "name": "Cowboy Bebop",
       "url": "https://open.spotify.com/track/6KHx0lFbfsplQJhZxJNJRX"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 130742,
       "name": "Fly god manners",
       "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
@@ -4432,6 +4432,32 @@
       "duration_ms": 94664,
       "name": "For December",
       "url": "https://open.spotify.com/track/2CSLnoXSDSp0NPFBtHCXgU"
+    },
+    {
+      "album": {
+        "name": "Foreclosure",
+        "url": "https://open.spotify.com/album/7poB9nXfbOkjEwRFJaw8iK"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "Foreclosure",
+      "url": "https://open.spotify.com/track/3qpySDNXf86isiB0I4tr6h"
     },
     {
       "album": {
@@ -5814,7 +5840,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 153707,
       "name": "How R U",
       "url": "https://open.spotify.com/track/1cH8CJex6ouAyvs3rLCXj5"
@@ -7823,6 +7849,24 @@
     },
     {
       "album": {
+        "name": "Mercedez",
+        "url": "https://open.spotify.com/album/5RKlFF38uJeUOTYcGMmXLo"
+      },
+      "artists": [
+        {
+          "name": "Troy Ave",
+          "url": "https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114466,
+      "name": "Mercedez",
+      "url": "https://open.spotify.com/track/0wlckRqDjrNoD78B3frNrN"
+    },
+    {
+      "album": {
         "name": "Kush & Orange Juice",
         "url": "https://open.spotify.com/album/2pLTbgxy2KdH2DcHSotvDk"
       },
@@ -8631,6 +8675,28 @@
     },
     {
       "album": {
+        "name": "Slant Face Killah",
+        "url": "https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264778,
+      "name": "Ninja Man",
+      "url": "https://open.spotify.com/track/4awPetsjwNcrZRd1chwI4o"
+    },
+    {
+      "album": {
         "name": "No Apologies",
         "url": "https://open.spotify.com/album/7AGltpv82WYgoT0V6oHsZM"
       },
@@ -8658,6 +8724,28 @@
       "duration_ms": 216585,
       "name": "No Apologies (feat. Bun B & Deandre Nico)",
       "url": "https://open.spotify.com/track/453F6mvbbjdFICXtf7rSp2"
+    },
+    {
+      "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
     },
     {
       "album": {
@@ -9644,7 +9732,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 125700,
       "name": "Planet Giza \"On The Radar\" Freestyle",
       "url": "https://open.spotify.com/track/2T0Wl5G3ZyVSbu9Zy6ikMw"
@@ -12693,6 +12781,24 @@
     },
     {
       "album": {
+        "name": "THE SAMURAI'S MONOLOGUE.",
+        "url": "https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "THE SAMURAI'S MONOLOGUE.",
+      "url": "https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj"
+    },
+    {
+      "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
@@ -13484,7 +13590,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 333671,
       "name": "Vertino",
       "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
@@ -13876,6 +13982,32 @@
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
+    },
+    {
+      "album": {
+        "name": "WEARY",
+        "url": "https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138567,
+      "name": "WEARY",
+      "url": "https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp"
     },
     {
       "album": {
@@ -14406,7 +14538,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"

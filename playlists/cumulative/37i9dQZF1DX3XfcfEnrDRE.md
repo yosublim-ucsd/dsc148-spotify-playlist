@@ -2,9 +2,9 @@
 
 ### [Ultimate Christian Alternative](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
-> The ever\-evolving sound of Alt! Cover: Gable Price and Friends
+> The ever\-evolving sound of Alt! Cover: Alive City
 
-178 songs - 11 hr 24 min
+180 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/6wCVcqWX20n8kAtIK9PoeG) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/0r9SK42XWsd4BOu4IGi1c3) | 3:39 | 2022-12-16 |  |
 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 | 2022-02-27 |  |
 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 | 2022-02-27 |  |
+| [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 | 2024-05-10 |  |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-02-27 | 2022-07-18 |
 | [Don't Know If I Believe It](https://open.spotify.com/track/66UdVUAmxmLFSkJQ5PF7Oe) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Don't Know If I Believe It](https://open.spotify.com/album/5gmMOFwX9TofF3zqYMs3Ur) | 4:51 | 2022-02-27 | 2022-03-12 |
 | [Epic](https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Epic](https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz) | 3:37 | 2022-07-17 | 2022-12-17 |
@@ -115,7 +116,7 @@
 | [Look Up](https://open.spotify.com/track/4d9Eyol0RuMTgllFUgbwvi) | [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Look Up](https://open.spotify.com/album/2sk9sxUsafPiMS27OoFGxX) | 3:13 | 2022-02-27 | 2022-12-17 |
 | [lost ‘cause](https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj) | 3:44 | 2022-02-27 | 2022-07-18 |
 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-17 |  |
-| [May The Lamb](https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad) | [Chris McCall](https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp) | [May The Lamb](https://open.spotify.com/album/6SdX9be9ZQk4Y1ZqS45o46) | 4:23 | 2022-12-16 |  |
+| [May The Lamb](https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad) | [Chris McCall](https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp) | [May The Lamb](https://open.spotify.com/album/6SdX9be9ZQk4Y1ZqS45o46) | 4:23 | 2022-12-16 | 2024-05-11 |
 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 | 2022-07-17 | 2022-12-17 |
 | [Mercy Shores](https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Mercy Shores](https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7) | 3:26 | 2022-02-27 |  |
 | [Miracle of the Mind](https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Miracle of the Mind](https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6) | 4:29 | 2022-04-08 |  |
@@ -124,6 +125,7 @@
 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 | 2022-12-16 |  |
 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2022-12-16 |  |
 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 | 2022-07-17 |  |
+| [NEVER FELT SO GOOD](https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [NEVER FELT SO GOOD](https://open.spotify.com/album/1EKGO8s7zRK7OG2xOMUOjN) | 2:19 | 2024-05-10 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-02-27 |  |
 | [Not So Sure](https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Not So Sure](https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo) | 3:30 | 2022-12-16 | 2023-05-23 |
 | [Not So Sure](https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Where The Winter Was](https://open.spotify.com/album/5aHds2df6eKrOirRI9895D) | 3:30 | 2022-12-16 | 2024-04-19 |
@@ -158,7 +160,7 @@
 | [Stranger](https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS) | 3:19 | 2022-02-27 | 2022-07-29 |
 | [Stranger](https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:19 | 2022-07-17 | 2024-04-19 |
 | [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [BEACH W](https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 4:43 | 2022-02-27 |  |
-| [Stumble](https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5) | [Muntjac](https://open.spotify.com/artist/1tka1ZndIK78Qfa6xWmFEg) | [Stranger](https://open.spotify.com/album/1mIYPONEqHeIb3Nm6qJdpS) | 4:00 | 2022-02-27 |  |
+| [Stumble](https://open.spotify.com/track/3QfiVsGee9fstGpgrdzrP5) | [Muntjac](https://open.spotify.com/artist/1tka1ZndIK78Qfa6xWmFEg) | [Stranger](https://open.spotify.com/album/1mIYPONEqHeIb3Nm6qJdpS) | 4:00 | 2022-02-27 | 2024-05-11 |
 | [Sweet Silence](https://open.spotify.com/track/1lQFAZIEeEilqE1KjZvNYh) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Sweet Silence](https://open.spotify.com/album/0JrjPGRHKnlw7jC8fl37Ne) | 4:23 | 2022-04-01 | 2022-07-18 |
 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 | 2022-07-17 |  |
 | [The Hope Inside](https://open.spotify.com/track/4ayryg0lW8w3FIibi0UcWb) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 4:09 | 2022-02-27 |  |

@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-217 songs - 10 hr 37 min
+218 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cê Tá Bem](https://open.spotify.com/track/1DLwaIqLEMrKz5czGKlI8B) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/46YXJKIzU5bYu7hmu0b6mw) | 3:20 | 2024-03-15 | 2024-03-24 |
 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 | 2023-09-22 |  |
 | [Deja Vu](https://open.spotify.com/track/5zdbfjCVtrAUwWeNFsE54s) | [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Deja Vu](https://open.spotify.com/album/1ZajUXNUXJDN3mhfheC2WB) | 3:33 | 2022-03-18 | 2023-08-26 |
+| [Desce na Onda pra Mim](https://open.spotify.com/track/72RQSTPOid12RS0zHdy91E) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Desce na Onda pra Mim](https://open.spotify.com/album/2zZ9sdTTGzyNTFiYwy2KNW) | 2:59 | 2024-05-10 |  |
 | [Detalhes](https://open.spotify.com/track/15nEGocLKRlUe4ijzRDVDt) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [Detalhes](https://open.spotify.com/album/2VBRJj31iJqjnL1E9cJmCl) | 1:59 | 2024-02-16 |  |
 | [Diaba](https://open.spotify.com/track/2pB7B2h6onWgWIfs1M7Q9Y) | [Dujazz](https://open.spotify.com/artist/0RclCtbyB3MrnPJzTwuZ5X), [celiszp](https://open.spotify.com/artist/29GPMUOoSNjZSwMh7YZvmI), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Diaba](https://open.spotify.com/album/2iXy7A5rSBqTbMToGiWb5i) | 3:36 | 2022-08-12 |  |
 | [Dolce](https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:16 | 2023-02-10 |  |

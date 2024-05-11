@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Oh So OK",
+        "url": "https://open.spotify.com/album/3KlXQpnc1xdjEYHT4mT7XO"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Oh So OK",
+      "url": "https://open.spotify.com/track/3XmgHc4fYjr1ijaiPMdEfZ"
+    },
+    {
+      "album": {
         "name": "Oouu EP",
         "url": "https://open.spotify.com/album/3XuLYLkWUFqqezowe6TIXd"
       },

@@ -11609,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Static & Silence",
+        "url": "https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4"
+      },
+      "artists": [
+        {
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "When I'm Thinking About You",
+      "url": "https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO"
+    },
+    {
+      "album": {
         "name": "Everything Harmony",
         "url": "https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk"
       },

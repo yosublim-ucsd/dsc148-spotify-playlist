@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-264 songs - 16 hr 22 min
+265 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 |  |
 | [Fever](https://open.spotify.com/track/5s9TUVHNEN9BT74EeXFdb6) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [French Horn Rebellion](https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0) | [Fever](https://open.spotify.com/album/2y3qxF7fBARVhGixG5XsVC) | 2:56 | 2024-02-23 |  |
 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 | 2023-10-06 |  |
+| [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-10 |  |
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |
 | [Flavor](https://open.spotify.com/track/6OlBdjEx4kSJo66ozsmWdJ) | [RAGS AND RICHES](https://open.spotify.com/artist/7mVlCjxLHAv9sO79hRP0hB) | [I NEED A HOLIDAY](https://open.spotify.com/album/5WAvAvZZPw4zV5Reem44BP) | 3:28 | 2023-12-01 |  |
@@ -229,7 +230,7 @@
 | [Take Me To Your Body](https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Take Me To Your Body](https://open.spotify.com/album/5zRr1T7JkfEJp6Kf1LmmPG) | 3:28 | 2022-11-18 |  |
 | [Take My Heart Away](https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Thieves](https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S) | 4:04 | 2024-03-22 |  |
 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 | 2023-04-14 |  |
-| [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 |  |
+| [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 | 2024-05-11 |
 | [Telepathy](https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [Blake Anthony](https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb) | [Telepathy](https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706) | 3:28 | 2022-02-25 | 2023-02-11 |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-20 |  |
 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 | 2021-09-17 | 2022-08-20 |

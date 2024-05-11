@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-35 songs - 1 hr 34 min
+36 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [傷つき傷つけ痛くて辛い](https://open.spotify.com/track/2185RCcistacxWByF55kAz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [傷つき傷つけ痛くて辛い](https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj) | 3:16 | 2024-04-12 |  |
 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 | 2024-04-12 |  |
 | [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 | 2024-04-19 |  |
+| [心象的フラクタル \- beni\-shouga](https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [心象的フラクタル \(beni\-shouga\)](https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg) | 2:58 | 2024-05-10 |  |
 | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza) | 0:28 | 2024-05-03 |  |
 | [極私的極彩色アンサー](https://open.spotify.com/track/3wemos54Nu8zliDXfDjfvK) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [極私的極彩色アンサー](https://open.spotify.com/album/4RJ3m1en7gKpVGpXTNjCdM) | 2:33 | 2024-04-12 |  |
 | [気鬱、白濁す](https://open.spotify.com/track/2wxq162dGuXaQuhFMbgLSp) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [気鬱、白濁す](https://open.spotify.com/album/2gqiFS1rMMBYjrPi7NtFzn) | 3:05 | 2024-04-12 |  |

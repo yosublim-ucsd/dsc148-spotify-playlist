@@ -1,49 +1,13 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 845038,
+  "num_followers": 845337,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAACnFeMrpWxhZyFWLIClPA0N",
+  "snapshot_id": "ZjwSAAAAAABP2r7OvcP2INoYgeQtHGZ/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ellas",
-        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 237787,
-      "name": "De Ellas",
-      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 176431,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
-    },
     {
       "added_at": null,
       "album": {
@@ -707,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Nuevas Baladas",
         "url": "https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ"
       },
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 158241,
-      "name": "Aunque Ya Tengas Marido",
-      "url": "https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4"
+      "duration_ms": 195117,
+      "name": "Afortunado",
+      "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
     },
     {
       "added_at": null,
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 203778,
-      "name": "Me La Escondieron Sus Padres",
-      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
+      "duration_ms": 158241,
+      "name": "Aunque Ya Tengas Marido",
+      "url": "https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

@@ -1,6 +1,6 @@
 {
   "description": "Vibrez au rythme des hits urbains et Afro en feu \ud83c\udfb6",
-  "num_followers": 22617,
+  "num_followers": 22632,
   "original_name": "SEHD",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
       "duration_ms": 128197,
       "name": "Confidences",
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "TAGHAZOUT",
+        "url": "https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM"
+      },
+      "artists": [
+        {
+          "name": "Sarah & Ismael",
+          "url": "https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt"
+        },
+        {
+          "name": "Aziz Ozouss",
+          "url": "https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "TAGHAZOUT",
+      "url": "https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ"
     },
     {
       "added_at": "2024-05-10 00:01:00",

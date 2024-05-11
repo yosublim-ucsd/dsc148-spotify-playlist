@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,377 likes - 90 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,385 likes - 90 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 5 | [Burning Out](https://open.spotify.com/track/5nCJMCIHpv4rFqSkDWomK0) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Burning Out](https://open.spotify.com/album/1IPfJ6zicr61LjjhlttpHX) | 4:22 |
 | 6 | [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 |
 | 7 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 |
-| 8 | [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 |
-| 9 | [Gracias a la Vida \- Victor Ruiz Remix](https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Gracias a la Vida \(Victor Ruiz Remix\)](https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz) | 6:25 |
+| 8 | [Gracias a la Vida \- Victor Ruiz Remix](https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Gracias a la Vida \(Victor Ruiz Remix\)](https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz) | 6:25 |
+| 9 | [Feeling](https://open.spotify.com/track/0OmnuOw09ZmmsQCv6kty4F) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [Feeling](https://open.spotify.com/album/1F45iXmDaRrxWnTf38rEDW) | 6:19 |
 | 10 | [Dónde Están \- SIMONN Remix](https://open.spotify.com/track/5hyHhTB1Cae2kLI3dMhxh5) | [Matias Sundblad](https://open.spotify.com/artist/6qCp2JWyWiUIyFdRmrATWa), [SIMONN \(AR\)](https://open.spotify.com/artist/3UrSAFzlXZqcABY6Pos59J) | [Dónde Están \(Remixes\)](https://open.spotify.com/album/0ewNlSufsdKkiLeqk6gTkG) | 3:21 |
 | 11 | [Call Her Mine](https://open.spotify.com/track/2WblHW95MQejldIcGxvzvm) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Call Her Mine](https://open.spotify.com/album/1nc7r0bfrbXxoHVZfQukBl) | 2:30 |
 | 12 | [Espejos \- Denis Horvat Remix](https://open.spotify.com/track/4YgMXxdB4oq9U7D99rqCp7) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Marco Viera](https://open.spotify.com/artist/348ec6yd9QpDujVnSPoe2P), [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Espejos](https://open.spotify.com/album/4YOSYeAyGVYSGnyekTfIHJ) | 3:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 89 | [Fantom \- Heaven INC\. Remix](https://open.spotify.com/track/4UP3V37qNvfHKs8CVnQuP6) | [Tali Muss](https://open.spotify.com/artist/7nN9lArKMYDqZDX8YBM4oJ), [Mayro](https://open.spotify.com/artist/291rTuAllKQRkUBvkM7dFY), [Heaven INC.](https://open.spotify.com/artist/5zFGpcBZnnNSe3ej6e2LVD) | [Fantom \[The Remixes\]](https://open.spotify.com/album/42B4WBtlsb0yuyUne35xQL) | 6:59 |
 | 90 | [My Love \(Soul\)](https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8) | [Sol Vietto](https://open.spotify.com/artist/19NMbL7lyVMUILzd1GAtWL) | [My Love](https://open.spotify.com/album/3i27h5xJ1lwMMdFigWvoVD) | 4:11 |
 
-Snapshot ID: `ZjkDHwAAAAAFY/q/CsMBCx24HTWVAqu9`
+Snapshot ID: `Zj4pxgAAAAD0Qtpd0GxsiyznZoc44gy8`

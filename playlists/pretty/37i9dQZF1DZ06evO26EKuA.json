@@ -1,12 +1,12 @@
 {
-  "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 419396,
+  "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
+  "num_followers": 419480,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAACzq8BUZWiRHV2Y47oiZ/Vr",
+  "snapshot_id": "ZjwSAAAAAAD4F/n2jATPeUxg3hyjaD+9",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "Exitos De Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 124680,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+      "duration_ms": 235466,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Valent\u00edn Elizalde",
-        "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 235466,
-      "name": "El Huizache",
-      "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 145853,
       "name": "Mi Virgencita",
       "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
     }
   ],
   "unique_name": "This Is Valent\u00edn Elizalde",

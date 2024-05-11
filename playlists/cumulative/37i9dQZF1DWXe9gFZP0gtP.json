@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Aiuola",
+        "url": "https://open.spotify.com/album/5P9EsvRN6GlIuG1wQuKhEt"
+      },
+      "artists": [
+        {
+          "name": "Il Sognatore",
+          "url": "https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145624,
+      "name": "Aiuola",
+      "url": "https://open.spotify.com/track/1aSTafokOmCN0Y80eZps0l"
+    },
+    {
+      "album": {
         "name": "The Slow Calm",
         "url": "https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk"
       },
@@ -1172,6 +1190,24 @@
       "duration_ms": 162000,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG"
+    },
+    {
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/6SKVEaIxNdEDC6Vw7HimKN"
+      },
+      "artists": [
+        {
+          "name": "Calm Woods",
+          "url": "https://open.spotify.com/artist/0E9QyNsYvu0lscOe1iSbJG"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163279,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/5yQvSxKkjPgQX9NB5BTP7w"
     },
     {
       "album": {

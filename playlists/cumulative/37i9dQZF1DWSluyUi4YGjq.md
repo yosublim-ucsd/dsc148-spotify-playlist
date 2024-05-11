@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> 20 new tracks added by Wisp to celebrate her new EP Pandora.
+> Gazing at pedals, soaring celestially high\. Cover: Wisp
 
-620 songs - 1 day 16 hr 18 min
+624 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 | 2022-09-21 | 2023-06-17 |
 | [Freckles](https://open.spotify.com/track/1bAXs6FAQ8pyjuOlZ4xHt1) | [Band Spectra](https://open.spotify.com/artist/2Xq01ddE4kmd23H5Eljmn2), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Freckles](https://open.spotify.com/album/6kINUj2zkDb8hknoExLFNN) | 3:56 | 2023-09-29 | 2023-12-02 |
 | [french](https://open.spotify.com/track/1MqV4bv07MivBXe9GFZv4E) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 2:43 | 2024-02-23 | 2024-03-19 |
+| [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 | 2024-05-10 |  |
 | [Full Time Job](https://open.spotify.com/track/1JBd9X9sG7HjGifXuYQ1kS) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Full Time Job / When A Plant Is Dying](https://open.spotify.com/album/3hgeBbfqWStekq4eDhXeGJ) | 1:57 | 2023-07-21 | 2023-09-30 |
 | [Full Time Job](https://open.spotify.com/track/2siyXaT6Xqbe9wBkNu3fe2) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/12QH09wh4GGWZzt9TdAZCA) | 1:57 | 2023-10-20 | 2024-04-30 |
 | [Full Time Job](https://open.spotify.com/track/5v1HtDgl2JSKF3mqvtM4PP) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Tomorrow's Fire](https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z) | 1:57 | 2023-10-20 | 2024-04-19 |
@@ -272,6 +273,7 @@
 | [Here, Together](https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Here, Together](https://open.spotify.com/album/5S5tdf2coiu87SQu5eOFty) | 3:37 | 2024-01-26 |  |
 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 | 2021-10-19 | 2023-01-14 |
 | [Hide](https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/5xLPp9GcMMHF6U8AoVLgWU) | 6:47 | 2021-10-19 | 2022-07-29 |
+| [High With You](https://open.spotify.com/track/0c6orD0L0rOAEee1mHlfRC) | [Future Magics](https://open.spotify.com/artist/6jqVk32VBlFXQSP1rkELyd) | [High With You](https://open.spotify.com/album/3Pfk9UaUC22QfCPJgayh9W) | 3:16 | 2024-05-10 |  |
 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-11 | 2023-09-02 |
 | [Hollowers](https://open.spotify.com/track/6tGPZ8kQ1ZzqGFdlr3VgJT) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Hollowers](https://open.spotify.com/album/62iB6VwTRBzZUwRoC8Iksk) | 3:34 | 2021-10-19 | 2022-07-29 |
 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 | 2021-10-19 | 2023-06-08 |
@@ -401,6 +403,7 @@
 | [No Sweat](https://open.spotify.com/track/2xcpZnpsk7m0nbi9X2zn9J) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/1ImTuHabPeyHgqZF46xJFe) | 3:03 | 2023-01-12 | 2023-07-29 |
 | [No Sweat](https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt) | 3:03 | 2023-01-12 | 2023-02-02 |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-25 | 2022-11-07 |
+| [Not It](https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Not It](https://open.spotify.com/album/0ep6SynYuRntszr0mv2U2W) | 2:32 | 2024-05-10 |  |
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 | 2024-04-30 |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 | 2023-06-08 |
 | [NPC](https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [NPC](https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb) | 3:38 | 2023-10-20 | 2024-04-20 |
@@ -488,6 +491,7 @@
 | [Side Eyes](https://open.spotify.com/track/28sMsHjvw4EqYLrYYnne6w) | [headspin](https://open.spotify.com/artist/0ZOBchBr3oiK6yG633eX3Y) | [Side Eyes](https://open.spotify.com/album/22naexbWtTmnQmnLoOqfZb) | 3:33 | 2024-04-05 |  |
 | [Sigh In My Ear](https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf) | 5:22 | 2023-07-21 | 2023-10-13 |
 | [Silver Strings](https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:28 | 2024-03-22 |  |
+| [Silver Teeth](https://open.spotify.com/track/6PVAfJJJGquT4EDLEzdi30) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Sugarcoat](https://open.spotify.com/album/0EQL2KDngVugkK73uORAyW) | 2:18 | 2024-05-10 |  |
 | [sin\. \(feat\. Yunjin\)](https://open.spotify.com/track/7kFgDnOMb1AEKmOnofnylh) | [gozeuneok:](https://open.spotify.com/artist/5GDl6PFdx0n7rPIDgTlSrV), [Yunjin](https://open.spotify.com/artist/4v1XwaMgeiN8T1wrxG6Gfq) | [Things to be Left Behind:](https://open.spotify.com/album/07xp4gVIHOlrdxzfiCHhiV) | 4:08 | 2022-09-29 | 2022-10-28 |
 | [Sink](https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42) | [Dog Ears](https://open.spotify.com/artist/3JIof4HxulwCqTMAUdJQO1) | [Sink](https://open.spotify.com/album/3gdzC6RB8QGu2rulkyD6aI) | 2:41 | 2023-02-21 | 2023-10-21 |
 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-21 | 2023-10-21 |

@@ -2,9 +2,9 @@
 
 ### [Himnos de Resistencia Latinoamericana](https://open.spotify.com/playlist/37i9dQZF1DX2u4EHuQcBWu)
 
-> Somos un pueblo fuerte que no se calla ✊🌎
+> Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-300 songs - 19 hr 51 min
+302 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cambalache \(with Orquesta Tipica Porteña\)](https://open.spotify.com/track/2UiwXB1SiuAzTccX2UiTtD) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Orquesta Típica Porteña](https://open.spotify.com/artist/0T2pUjslozM5ZcYQzqUdR0) | [Cambalache](https://open.spotify.com/album/6sBNrBVtKldLXa0rkleIje) | 2:48 | 2021-09-24 | 2022-07-29 |
 | [Cancion Pacifico\-Violenta](https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr) | [Sexual Democracia](https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7) | [Buscando Chilenos Vol\. 1](https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax) | 4:44 | 2021-09-24 |  |
 | [Canción De Alicia En El País \- En Vivo](https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 4:17 | 2021-09-24 |  |
-| [Canción Protesta](https://open.spotify.com/track/61xYujwo3KRuwNwGKadNVs) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Oye](https://open.spotify.com/album/265u6tVOlOS84llEEXEgBc) | 3:03 | 2021-09-24 |  |
+| [Canción Protesta](https://open.spotify.com/track/61xYujwo3KRuwNwGKadNVs) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Oye](https://open.spotify.com/album/265u6tVOlOS84llEEXEgBc) | 3:03 | 2021-09-24 | 2024-05-11 |
 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 | 2021-09-24 |  |
 | [Carroñeros](https://open.spotify.com/track/4SVK3c08ushPklOcM12F0g) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ) | [Alectrofobia](https://open.spotify.com/album/1Lu9DLQkwE6M640Imd9Tni) | 2:48 | 2021-09-24 | 2022-07-28 |
 | [Causa Perdida](https://open.spotify.com/track/0TPcVTyTk7dvSp3H8kzbMm) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Causa Perdida](https://open.spotify.com/album/3SSlBDBeqNRnicOk5uw8n8) | 4:08 | 2021-09-24 | 2022-07-27 |
@@ -164,6 +164,7 @@
 | [Latinoamérica Es un Pueblo al Sur de Estados Unidos](https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:02 | 2021-09-24 |  |
 | [Liberté](https://open.spotify.com/track/22ireWyQ00W5sHnTEnJdQ0) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Liberté](https://open.spotify.com/album/55GKnR9Unov0eOBuoEt9Vz) | 4:10 | 2023-12-12 |  |
 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 | 2021-09-24 |  |
+| [Los dinosaurios](https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:29 | 2024-05-10 |  |
 | [Los Dinosaurios \- Live](https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 3:40 | 2021-09-24 |  |
 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 | 2021-09-24 |  |
 | [Maleducao](https://open.spotify.com/track/6nLKWrgDmM7BpxF4xVAotW) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Maleducao](https://open.spotify.com/album/56AkpX9lVQ2an7G2K0aD0m) | 5:36 | 2021-09-24 | 2022-07-27 |
@@ -179,6 +180,7 @@
 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 | 2021-09-24 |  |
 | [Me Gustan los Estudiantes](https://open.spotify.com/track/387tXb37wjhhTt0jwCXlT3) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [El Árbol de la Vida](https://open.spotify.com/album/3SnltwAtTI5NyiaQQ9FCFI) | 2:58 | 2021-09-24 | 2022-07-26 |
 | [Me Gustan los Estudiantes](https://open.spotify.com/track/6nrbx7lQuJsnpYnebxMgKh) | [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru) | [Yo Soy la Feliz Violeta](https://open.spotify.com/album/2x5Wu6WamxM35TZ9BAXMjL) | 4:57 | 2021-09-24 | 2022-07-29 |
+| [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 | 2024-05-10 |  |
 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 | 2021-09-24 |  |
 | [Mira Alrededor](https://open.spotify.com/track/2zbn6q4kY72aQ75nAFWyts) | [Pancho Villa's Skull](https://open.spotify.com/artist/6X36w7PIMNkT2KsmgfB1eH) | [Gentefication](https://open.spotify.com/album/2UH4upjAkfllNm4AuPMOFQ) | 2:31 | 2021-09-24 | 2022-07-20 |
 | [Moviendo a México](https://open.spotify.com/track/71EIECqjrkQpALXTROZBwN) | [Puerquerama](https://open.spotify.com/artist/2zShkbLw0Y4YxzsOnyeUXH) | [Moviendo a México](https://open.spotify.com/album/7l9vu67Ij9H90urdRvJ60Z) | 4:08 | 2021-09-24 | 2022-07-21 |
@@ -244,7 +246,7 @@
 | [Pueblos](https://open.spotify.com/track/0sCp3x4YHsqN0hlLp5NRoz) | [Sara Curruchich](https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pueblos](https://open.spotify.com/album/0lLEeYDfjSm8RmkxqBWWKz) | 3:20 | 2021-09-24 | 2022-07-19 |
 | [Que dira el santo padre](https://open.spotify.com/track/54vXyx0JsTUox5HYRvZejU) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [LUCHA POR LA VIDA](https://open.spotify.com/album/3TbG9gxnfscKBccjofHCCE) | 2:52 | 2021-09-24 | 2022-07-18 |
 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 | 2021-09-24 |  |
-| [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 | 2021-09-24 |  |
+| [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 | 2021-09-24 | 2024-05-11 |
 | [Rebelión de Octubre](https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Rebelión de Octubre](https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs) | 4:07 | 2021-09-24 | 2022-07-25 |
 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 | 2021-09-24 |  |
 | [Resiste](https://open.spotify.com/track/3KhOoX38OwMvybXZnPz4A2) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Unknown Mizery de Babylon Warchild](https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:13 | 2021-09-24 | 2022-07-15 |

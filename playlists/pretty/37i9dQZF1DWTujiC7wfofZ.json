@@ -1,6 +1,6 @@
 {
   "description": "All the indie disco platters that matter.",
-  "num_followers": 436183,
+  "num_followers": 436215,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+      "duration_ms": 248879,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 248879,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Warning",
-        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 347880,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 240832,
       "name": "Sticks 'N' Stones",
       "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Warning",
+        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 347880,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Tired Of Hanging Around",
-        "url": "https://open.spotify.com/album/4fvsd8sC8ExZgdIUSzSYGX"
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
       "artists": [
         {
-          "name": "The Zutons",
-          "url": "https://open.spotify.com/artist/2qV7axHq9Jk7QqFcB3f05A"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 236266,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW"
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+        "name": "Tired Of Hanging Around",
+        "url": "https://open.spotify.com/album/4fvsd8sC8ExZgdIUSzSYGX"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "The Zutons",
+          "url": "https://open.spotify.com/artist/2qV7axHq9Jk7QqFcB3f05A"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+      "duration_ms": 236266,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2719,6 +2719,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Combat Sports",
+        "url": "https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "I Can't Quit",
+      "url": "https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Daisy Chain",
         "url": "https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Combat Sports",
-        "url": "https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "I Can't Quit",
-      "url": "https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3063,22 +3063,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "WhoMadeWho",
-        "url": "https://open.spotify.com/album/1X0nQnShEvrtAPXA73rtzj"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "Space for Rent",
-      "url": "https://open.spotify.com/track/5e5qXiEgu5f5TThB7YTWNQ"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Don't Forget Who You Are (Deluxe)",
         "url": "https://open.spotify.com/album/6PIetyBEKsmM07PS0PIEr7"
       },
@@ -3091,6 +3075,22 @@
       "duration_ms": 201560,
       "name": "Don't Forget Who You Are",
       "url": "https://open.spotify.com/track/5C7nNkKBjaZRzqt408fxpr"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "WhoMadeWho",
+        "url": "https://open.spotify.com/album/1X0nQnShEvrtAPXA73rtzj"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Space for Rent",
+      "url": "https://open.spotify.com/track/5e5qXiEgu5f5TThB7YTWNQ"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3311,22 +3311,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Moving to New York",
-      "url": "https://open.spotify.com/track/5YHhxbtAAkOiIXqNBfYjZU"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "St. Jude",
         "url": "https://open.spotify.com/album/0cmmNEyZT9pcEcbMmYwOCS"
       },
@@ -3339,6 +3323,22 @@
       "duration_ms": 183106,
       "name": "Cavorting",
       "url": "https://open.spotify.com/track/3a6ylq6VWL5ZiuYfh6mIlI"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Moving to New York",
+      "url": "https://open.spotify.com/track/5YHhxbtAAkOiIXqNBfYjZU"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3425,22 +3425,6 @@
       "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "LOOK!",
-        "url": "https://open.spotify.com/album/5ZCPBtgpITswUC5JxC0t3H"
-      },
-      "artists": [
-        {
-          "name": "Shimmertraps",
-          "url": "https://open.spotify.com/artist/22mUyP1olHZ6mfObPpEbjI"
-        }
-      ],
-      "duration_ms": 162056,
-      "name": "Beta Club",
-      "url": "https://open.spotify.com/track/1EnKZWtfSyLezfjpHcRvlc"
-    },
-    {
       "added_at": "2023-10-19 23:30:37",
       "album": {
         "name": "Weekends and Workdays",
@@ -3455,6 +3439,22 @@
       "duration_ms": 206800,
       "name": "Weekends and Workdays",
       "url": "https://open.spotify.com/track/37wgmPpMdwVNwd5epyDM0d"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "LOOK!",
+        "url": "https://open.spotify.com/album/5ZCPBtgpITswUC5JxC0t3H"
+      },
+      "artists": [
+        {
+          "name": "Shimmertraps",
+          "url": "https://open.spotify.com/artist/22mUyP1olHZ6mfObPpEbjI"
+        }
+      ],
+      "duration_ms": 162056,
+      "name": "Beta Club",
+      "url": "https://open.spotify.com/track/1EnKZWtfSyLezfjpHcRvlc"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3795,22 +3795,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Speedy Wunderground: Year 2",
         "url": "https://open.spotify.com/album/2og4XMzSG198O8ibnQmsZZ"
       },
@@ -3847,6 +3831,22 @@
       "duration_ms": 279133,
       "name": "Jealous Lies",
       "url": "https://open.spotify.com/track/1emqeqHv25IU5tLgvzwJ4r"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
     },
     {
       "added_at": "2023-07-21 10:44:31",

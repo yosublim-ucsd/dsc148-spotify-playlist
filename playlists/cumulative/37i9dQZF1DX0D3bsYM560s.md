@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-125 songs - 7 hr 2 min
+126 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Losing You Blues](https://open.spotify.com/track/2TQjjGL6RPO1X0Yl3yrW9Y) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 2:48 | 2023-04-14 |  |
 | [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 | 2023-06-23 |  |
 | [Man With No Demons](https://open.spotify.com/track/4gTw73aRQs0Fvjkst7pZ6Y) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Man With No Demons](https://open.spotify.com/album/4SayA2xvAGdZJI1Ba5bsmv) | 2:51 | 2023-11-10 |  |
+| [Mitchell Mullins](https://open.spotify.com/track/1PQGFvDU2ND9U7mGhJzQrI) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Mitchell Mullins](https://open.spotify.com/album/7sdmtJhjRagaW6mQAtYcSr) | 2:54 | 2024-05-10 |  |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2023-04-14 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-04-14 |  |
 | [New Star](https://open.spotify.com/track/6fHFfhmYtgOqxREejrtFuv) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [New Star](https://open.spotify.com/album/3E2Yn7rSQrDYoSKgi7IFk0) | 4:14 | 2024-04-06 |  |

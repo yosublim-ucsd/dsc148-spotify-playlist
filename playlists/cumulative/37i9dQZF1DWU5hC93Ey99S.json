@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Care for You",
+        "url": "https://open.spotify.com/album/2IMYNXYEhT1IhP2yfp2Elu"
+      },
+      "artists": [
+        {
+          "name": "PL80",
+          "url": "https://open.spotify.com/artist/06c2gQW2jLAYkRjbaLbJJV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Care for You",
+      "url": "https://open.spotify.com/track/120XzsPUKJz6eudGrQ82aT"
+    },
+    {
+      "album": {
         "name": "Carried Away",
         "url": "https://open.spotify.com/album/06Cr286tHjc0OEBAWdQf3E"
       },
@@ -6702,6 +6720,10 @@
         {
           "name": "David Rojas",
           "url": "https://open.spotify.com/artist/0hvQeqKSD17eMBbNq5UEtT"
+        },
+        {
+          "name": "NYOMA",
+          "url": "https://open.spotify.com/artist/2HMRdSPJ0t3EF9tIWYcPrW"
         }
       ],
       "date_added": "2024-05-09",

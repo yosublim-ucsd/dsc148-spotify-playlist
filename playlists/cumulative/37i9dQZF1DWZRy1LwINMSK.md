@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de Ak4:20
+> La casa del trap chileno al mando de Cris Mj.
 
-220 songs - 11 hr 33 min
+221 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [ALMIGHTY](https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ALMIGHTY](https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ) | 3:01 | 2023-03-28 |  |
 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-06-02 |  |
 | [Ando en Un Makinon](https://open.spotify.com/track/33SWIXYKpg0ZSwRQIVPu0S) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ) | [Ando en Un Makinon](https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC) | 2:45 | 2022-01-20 | 2023-07-01 |
-| [APARATO ENCIMA](https://open.spotify.com/track/38G4NZQooDj1CG1dSYu7up) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 2:49 | 2024-04-26 |  |
+| [APARATO ENCIMA](https://open.spotify.com/track/38G4NZQooDj1CG1dSYu7up) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 2:49 | 2024-04-26 | 2024-05-11 |
 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 | 2022-07-22 | 2023-12-09 |
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 | 2022-04-29 |
@@ -168,6 +168,7 @@
 | [Pretty Face](https://open.spotify.com/track/4ph3KcM6ofrigPKpb6mNY6) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 2:58 | 2023-07-28 | 2024-04-19 |
 | [Que Brille Sola Mami](https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ) | [Que Brille Sola Mami](https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC) | 3:15 | 2024-04-19 |  |
 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 | 2023-07-28 |  |
+| [QUICKIE](https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUICKIE](https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig) | 3:05 | 2024-05-10 |  |
 | [Quienes Son](https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT) | [BMF Squad](https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE), [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Jokker Liricis](https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA), [Andrés Slater](https://open.spotify.com/artist/6F0XGx9f0asxjfG3WZj0nJ) | [Quienes Son](https://open.spotify.com/album/6ZoKBoMrztP3iffJPAwT0H) | 3:51 | 2022-01-20 | 2022-03-18 |
 | [RACE](https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [RACE](https://open.spotify.com/album/6blNttxC90OPCTV67BHcgn) | 2:11 | 2023-09-01 |  |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 |  |

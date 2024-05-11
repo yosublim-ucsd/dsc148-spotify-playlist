@@ -1751,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "In Real Life",
+        "url": "https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292293,
+      "name": "Dare To Dream",
+      "url": "https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9"
+    },
+    {
+      "album": {
         "name": "Deep Dive",
         "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
       },
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 306880,
       "name": "Grass-Fed Funk",
       "url": "https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8"
@@ -3556,6 +3574,24 @@
       "duration_ms": 248533,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/3l1j42roicNXApsbTtebuo"
+    },
+    {
+      "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/3YYROryULM8VUZKgKq0aIK"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231249,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/3chwkGmDu1xrZP47I4NPK2"
     },
     {
       "album": {
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264148,
       "name": "Lean Into It",
       "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"

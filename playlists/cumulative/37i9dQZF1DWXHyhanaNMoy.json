@@ -2003,6 +2003,32 @@
     },
     {
       "album": {
+        "name": "Beetje Fout (Remix) (feat. D-Double & Latifah)",
+        "url": "https://open.spotify.com/album/72pJdLSeB1DtgdQ3dSv3CI"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        },
+        {
+          "name": "Latifah",
+          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+        },
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Beetje Fout (Remix) (feat. D-Double & Latifah)",
+      "url": "https://open.spotify.com/track/7s626ea0E22HNxmFaYKQ7k"
+    },
+    {
+      "album": {
         "name": "Beetje Tijd",
         "url": "https://open.spotify.com/album/0tXY1vihehAkyoe1YrfCVv"
       },
@@ -10918,7 +10944,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175200,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/5SDPAYcZY5jWJT9VrXhPqm"

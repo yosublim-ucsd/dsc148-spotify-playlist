@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,993 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,120 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Legs \(Keep Dancing\)](https://open.spotify.com/track/4iOVmWFd2HgtWa9yPxvCai) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Legs \(Keep Dancing\)](https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc) | 3:07 |
-| 2 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
-| 3 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 |
-| 4 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 |
-| 5 | [Played](https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Played](https://open.spotify.com/album/7AgcYxLZhGK2j5R8OfXiNX) | 2:15 |
-| 6 | [Doing Alright](https://open.spotify.com/track/6Dkbv5OFE86YjmWm9E5gvf) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Doing Alright](https://open.spotify.com/album/37f4CcWznwO2tPTGgplsX2) | 3:03 |
-| 7 | [My Lovin'](https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [My Lovin'](https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6) | 3:14 |
-| 8 | [Dreamer](https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I) | [Flevans](https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l) | [Dreamer](https://open.spotify.com/album/37s44atpJQNpO442mw2riJ) | 3:52 |
-| 9 | [Only Tonight](https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Only Tonight](https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM) | 3:01 |
-| 10 | [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 |
+| 1 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 |
+| 2 | [Legs \(Keep Dancing\)](https://open.spotify.com/track/4iOVmWFd2HgtWa9yPxvCai) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Legs \(Keep Dancing\)](https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc) | 3:07 |
+| 3 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
+| 4 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 |
+| 5 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 |
+| 6 | [Played](https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Played](https://open.spotify.com/album/7AgcYxLZhGK2j5R8OfXiNX) | 2:15 |
+| 7 | [Doing Alright](https://open.spotify.com/track/6Dkbv5OFE86YjmWm9E5gvf) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Doing Alright](https://open.spotify.com/album/37f4CcWznwO2tPTGgplsX2) | 3:03 |
+| 8 | [My Lovin'](https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [My Lovin'](https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6) | 3:14 |
+| 9 | [Dreamer](https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I) | [Flevans](https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l) | [Dreamer](https://open.spotify.com/album/37s44atpJQNpO442mw2riJ) | 3:52 |
+| 10 | [Only Tonight](https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Only Tonight](https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM) | 3:01 |
 | 11 | [Take My Heart Away](https://open.spotify.com/track/2nSqBcTJ6ObEPHbphXGSCB) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Thieves](https://open.spotify.com/album/2SZMyF0H7a9p8VenQZ3c2S) | 4:04 |
 | 12 | [Too Late](https://open.spotify.com/track/4XQzsz4qhZTkucks5LHh4W) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Too Late](https://open.spotify.com/album/1176OUDsy33qqayvkpDdTq) | 2:53 |
 | 13 | [Colder](https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Colder](https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 |
 | 100 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
 
-Snapshot ID: `ZjRhfAAAAAAcK5+PDOdVuqQV6KgCcs7J`
+Snapshot ID: `Zj2b/AAAAABjP9fayT26mqDQOQT6VbiU`

@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: <b>P.O.D.</b>
+> The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Imagine Dragons</b>
 
-1,161 songs - 2 day 21 hr 30 min
+1,164 songs - 2 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Bring Me Back](https://open.spotify.com/track/0YDpzgzZ7yYvsyeV8HmOep) | [Etched in Embers](https://open.spotify.com/artist/18oTfMeqSFKTJgT3ad055a) | [Bring Me Back](https://open.spotify.com/album/71cr9xL00MCJxkGpfbxXdK) | 3:55 | 2021-08-20 | 2022-03-18 |
 | [Broken](https://open.spotify.com/track/3XofThdII94fVjvIj2QUci) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Broken](https://open.spotify.com/album/1bQ2X4FqjxcFwGUwyeQTu7) | 3:48 | 2022-09-16 | 2023-03-18 |
 | [Broken Bones](https://open.spotify.com/track/2nZ4tfb14C5ozg4cLK9MFq) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Broken Bones](https://open.spotify.com/album/07AJQ5cFZY1izt8clG1BqF) | 3:38 | 2023-06-02 | 2023-09-16 |
-| [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-04-12 |  |
+| [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-04-12 | 2024-05-11 |
 | [Brother the Cloud](https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:22 | 2022-03-04 | 2022-04-23 |
 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 | 2022-03-25 | 2022-05-20 |
 | [Burial Plot](https://open.spotify.com/track/0v1QET6Q1YD7HQK4FBT8on) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk](https://open.spotify.com/album/2oLk2Z8wtuGX1xC9evzvC9) | 3:57 | 2021-07-20 | 2022-02-12 |
@@ -356,7 +356,8 @@
 | [Eye of a Hurricane](https://open.spotify.com/track/6aF4wdL269Vd6Gi27MuXCY) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [Eye of a Hurricane](https://open.spotify.com/album/2zxMTkLdWuErbJYq51rzEj) | 3:11 | 2023-01-13 | 2023-03-04 |
 | [Eye Of Horus](https://open.spotify.com/track/45kidLOOvy8t8BH6WZ4BEf) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [Eye Of Horus](https://open.spotify.com/album/2carhe7rbVHtcVdIUIjjmw) | 3:05 | 2023-04-28 | 2023-06-10 |
 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 | 2022-04-22 | 2022-10-29 |
-| [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-05 |  |
+| [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-05 | 2024-05-11 |
+| [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-05-10 |  |
 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 | 2023-05-05 | 2023-07-15 |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-04-09 |
 | [Fait Accompli](https://open.spotify.com/track/2WVIffmLGZUz96nOsNgFHP) | [Capital Theatre](https://open.spotify.com/artist/4ISF1JXAPlRrDtZu9EgIcv) | [A Hero's Journey](https://open.spotify.com/album/5tupOm4z6F3B4UMmfliBi3) | 4:48 | 2022-06-24 | 2022-10-08 |
@@ -373,6 +374,7 @@
 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 | 2023-07-15 |
 | [Fever Dream](https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk) | 5:06 | 2022-07-15 | 2023-01-06 |
 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-09-30 | 2022-12-03 |
+| [Fight For The Right](https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Fight For The Right](https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0) | 2:03 | 2024-05-10 |  |
 | [Fight Me](https://open.spotify.com/track/6PfFjKljtWmcZqv8srzMxh) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [Fight Me](https://open.spotify.com/album/44Kvp2m2Spbwy0XLO3Thel) | 3:22 | 2021-07-23 | 2022-06-18 |
 | [Fighting Gravity](https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Fighting Gravity](https://open.spotify.com/album/0lPt244kh0WjCRgkSLBicz) | 4:56 | 2021-10-22 | 2022-01-22 |
 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 | 2023-04-21 | 2023-07-15 |
@@ -997,6 +999,7 @@
 | [The General](https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The General](https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM) | 4:22 | 2023-12-08 | 2024-01-20 |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2024-01-12 |  |
 | [THE HAZARDOUS](https://open.spotify.com/track/0BgGgwBhHx7j7IiqShMCj8) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:10 | 2023-01-06 | 2023-02-25 |
+| [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-10 |  |
 | [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-02-25 | 2022-08-06 |
 | [The Optimist](https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Optimist](https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9) | 2:58 | 2022-09-16 | 2023-04-09 |
 | [The Perfume of Decay](https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/7jzP2HrR4TyQA6wC5xJ56S) | 3:40 | 2022-10-14 | 2023-03-25 |

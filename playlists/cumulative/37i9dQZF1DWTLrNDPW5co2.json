@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: COBRAH",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: I. JORDAN",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "ID ID ID",
+        "url": "https://open.spotify.com/album/20cI5JLFkfqRkFLzk6iuI0"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "ID ID ID",
+      "url": "https://open.spotify.com/track/4ryHYwy7CflZcdSz8txTff"
+    },
+    {
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI"
       },
@@ -2607,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh"
+    },
+    {
+      "album": {
         "name": "SHAKE DAT",
         "url": "https://open.spotify.com/album/4wLp5PZ8NmU2W0zaMXAw2W"
       },
@@ -2879,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "T.E.T.A Intergalactica",
+        "url": "https://open.spotify.com/album/672vnH5HCMgYe0ReIxGiCS"
+      },
+      "artists": [
+        {
+          "name": "Slim Soledad",
+          "url": "https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db"
+        },
+        {
+          "name": "Iki Yos",
+          "url": "https://open.spotify.com/artist/6M9pbhfaqC8axIxpEkioK1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240768,
+      "name": "T.E.T.A Intergalactica",
+      "url": "https://open.spotify.com/track/4AuVKafP9n7Y8NvjyEMGtd"
+    },
+    {
+      "album": {
         "name": "SUCCUBUS",
         "url": "https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ"
       },
@@ -2912,6 +2974,28 @@
       "duration_ms": 183879,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS"
+    },
+    {
+      "album": {
+        "name": "I AM JORDAN",
+        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277491,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
     },
     {
       "album": {
@@ -3244,6 +3328,24 @@
       "duration_ms": 299255,
       "name": "You Should Run",
       "url": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
+    },
+    {
+      "album": {
+        "name": "Your Skin",
+        "url": "https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135454,
+      "name": "Your Skin - Edit",
+      "url": "https://open.spotify.com/track/5jaCuftaprHN71hy2tuPcu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2"

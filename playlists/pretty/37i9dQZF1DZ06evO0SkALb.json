@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11338,
+  "num_followers": 11341,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAA4Tx6+nUGzxT0YY3zqOVzo",
+  "snapshot_id": "ZjwSAAAAAACbW6SEs9J4gle9wOFbGZtE",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 134426,
-      "name": "Love Is A Hurtin' Thing",
-      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural Man / Classic Lou",
         "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
       },
@@ -103,22 +87,6 @@
       "duration_ms": 221960,
       "name": "A Natural Man",
       "url": "https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
     },
     {
       "added_at": null,
@@ -139,6 +107,22 @@
       "duration_ms": 219600,
       "name": "At Last",
       "url": "https://open.spotify.com/track/6GQJ5QhnjnkxwKOjSJzHnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "The Shadow Of Your Smile - Digitally Remastered",
+      "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
     },
     {
       "added_at": null,
@@ -171,22 +155,6 @@
       "duration_ms": 198266,
       "name": "Groovy People",
       "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "The Shadow Of Your Smile - Digitally Remastered",
-      "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
     },
     {
       "added_at": null,
@@ -227,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -255,6 +207,22 @@
       "duration_ms": 233146,
       "name": "One Life to Live",
       "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
     },
     {
       "added_at": null,
@@ -407,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "This Song Will Last Forever",
-      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unmistakably Lou",
         "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
       },
@@ -439,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "This Song Will Last Forever",
+      "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -451,6 +419,22 @@
       "duration_ms": 272413,
       "name": "If I Coulda, Woulda, Shoulda",
       "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lou Rawls (Unplugged) Philadelphia - Chicago - Detroit [Live]",
+        "url": "https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 120986,
+      "name": "Unforgettable - Live",
+      "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
     },
     {
       "added_at": null,
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 183493,
-      "name": "If I Were A Magician",
-      "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
+      "duration_ms": 209040,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
       "added_at": null,
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 209040,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+      "duration_ms": 183493,
+      "name": "If I Were A Magician",
+      "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
     },
     {
       "added_at": null,
@@ -599,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
@@ -631,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
       "artists": [
         {
@@ -640,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 267333,
-      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
-      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
@@ -659,6 +627,22 @@
       "duration_ms": 200400,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,
@@ -755,6 +739,26 @@
       "duration_ms": 156133,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
     },
     {
       "added_at": null,

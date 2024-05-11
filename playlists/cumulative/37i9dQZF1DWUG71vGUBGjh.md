@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-193 songs - 12 hr 8 min
+194 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Lanquidity](https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 6:29 | 2022-02-21 |  |
 | [Life of a Cat](https://open.spotify.com/track/2cVANntuiBwx5FjodNLyhh) | [White Noise from Electronic Toys](https://open.spotify.com/artist/5Cdk3qdp90Xdhz6yPfCETC) | [Music to Quiet Down Your Mind](https://open.spotify.com/album/7zIeienY0iMRNxB5gMhBmj) | 4:00 | 2021-08-17 |  |
 | [Lowpass Risotto](https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ) | [Tobor Experiment](https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd) | [Available Forms](https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko) | 5:29 | 2023-12-20 |  |
+| [Magic Fly](https://open.spotify.com/track/5PklZKzuqiUrSxgQOs40t6) | [Space](https://open.spotify.com/artist/5SmwbD3wqrybVclRKTbr1M) | [Magic Fly](https://open.spotify.com/album/5aSkXF27XnK6qPVMNO0NeW) | 4:20 | 2024-05-10 |  |
 | [Mainframe Blues](https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Mind Games](https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD) | 2:51 | 2021-08-17 |  |
 | [Major Tom](https://open.spotify.com/track/2iEUxvYWJy5fPUtdiqyMy6) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [Major Tom / Radar Love](https://open.spotify.com/album/1pKY4cA4hX7yC5yXqRWnWM) | 5:15 | 2022-11-19 |  |
 | [March Of The Martians](https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 | 2021-08-17 |  |
@@ -189,8 +190,8 @@
 | [Variation One](https://open.spotify.com/track/0qkdMZQcLBvuCOrlBWSOI5) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Electrically Possessed \[Switched On Volume 4\]](https://open.spotify.com/album/1U0PyUTv5M1RTUM588771z) | 4:01 | 2021-08-17 | 2023-02-03 |
 | [Variation One](https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Electrically Possessed \[Switched On Volume 4\]](https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw) | 4:01 | 2021-08-17 | 2024-04-19 |
 | [Variation One](https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:01 | 2021-08-17 |  |
-| [Video Game](https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Tropical Cosmic Sounds from Space \(Compiled by El Palmas\)](https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ) | 4:19 | 2021-08-17 |  |
 | [Video Game](https://open.spotify.com/track/5yGzW0Hmztr0C0PChEwK0I) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Upadesa](https://open.spotify.com/album/2YtFlbonci7Y7SDjyXc2Kw) | 4:19 | 2021-08-17 | 2022-11-13 |
+| [Video Game](https://open.spotify.com/track/0ZrZl6LGxKipa6JSJPnKQB) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y) | [Tropical Cosmic Sounds from Space \(Compiled by El Palmas\)](https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ) | 4:19 | 2021-08-17 |  |
 | [Video Game](https://open.spotify.com/track/5PGUi89b3k1cCnb3aP4T92) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y) | [Tropical Cosmic Sounds From Space \(Compiled By El Palmas\)](https://open.spotify.com/album/3bBEU4DrtDbCQHleE5gm0H) | 4:19 | 2021-08-17 | 2023-10-08 |
 | [Walk to the Other Side of the Island](https://open.spotify.com/track/2hZoV8UzA1BTn1X41MEMOB) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Didn't You Hear?](https://open.spotify.com/album/0lLv3ISl4yDLg153Wuapjs) | 3:00 | 2021-08-17 |  |
 | [Walk to the Other Side of the Island](https://open.spotify.com/track/5OrqoUGqxGZwa70Pun2ILf) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Didn't You Hear?](https://open.spotify.com/album/7s6L6Tq9Izg4N2KFrWgds2) | 3:00 | 2021-08-17 | 2024-04-19 |

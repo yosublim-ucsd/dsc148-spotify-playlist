@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 350957,
+  "num_followers": 351037,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Songs From The Ashes (PT. 1)",
+        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "duration_ms": 282802,
+      "name": "Nobody Opened The Door",
+      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "We Were Young",
         "url": "https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg"
       },
@@ -987,26 +1003,6 @@
       "duration_ms": 293158,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Colorado (feat. Carlie Hanson)",
-        "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
-      },
-      "artists": [
-        {
-          "name": "Bluey Thomas",
-          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
-        },
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Colorado (feat. Carlie Hanson)",
-      "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Songs From The Ashes (PT. 1)",
-        "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
+        "name": "Colorado (feat. Carlie Hanson)",
+        "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
       },
       "artists": [
         {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+          "name": "Bluey Thomas",
+          "url": "https://open.spotify.com/artist/4R4Jlpg0lt60HkkGfRONQi"
+        },
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
         }
       ],
-      "duration_ms": 282802,
-      "name": "Nobody Opened The Door",
-      "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
+      "duration_ms": 202666,
+      "name": "Colorado (feat. Carlie Hanson)",
+      "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Quiet (Stripped)",
+        "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
+      },
+      "artists": [
+        {
+          "name": "MILCK",
+          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+        }
+      ],
+      "duration_ms": 208587,
+      "name": "Quiet - Stripped",
+      "url": "https://open.spotify.com/track/60oCAd3gei66GObniGX4wV"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Like I Used To (Acoustic Version)",
         "url": "https://open.spotify.com/album/7uHg8PgXRvRgrzSscVAZ6M"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 241875,
       "name": "Like I Used To - Acoustic Version",
       "url": "https://open.spotify.com/track/53GeeseR2mm7yjGIJCNvvq"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Quiet (Stripped)",
-        "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
-      },
-      "artists": [
-        {
-          "name": "MILCK",
-          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
-        }
-      ],
-      "duration_ms": 208587,
-      "name": "Quiet - Stripped",
-      "url": "https://open.spotify.com/track/60oCAd3gei66GObniGX4wV"
     },
     {
       "added_at": "2023-11-10 05:00:00",

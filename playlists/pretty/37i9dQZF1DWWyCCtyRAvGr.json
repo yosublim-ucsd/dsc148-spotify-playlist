@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 175972,
+  "num_followers": 176075,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Crazy Sun",
-        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
-      },
-      "artists": [
-        {
-          "name": "JT Coldfire",
-          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "She's Crazy",
-      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 235880,
       "name": "Blues for Mama",
       "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Crazy Sun",
+        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
+      },
+      "artists": [
+        {
+          "name": "JT Coldfire",
+          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "She's Crazy",
+      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Heavy Load Blues (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 212200,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 257093,
       "name": "Thanks, But No Thanks",
       "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "When It Suns It Shines",
         "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 270440,
       "name": "When It Suns It Shines",
       "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-10-05 13:18:26",

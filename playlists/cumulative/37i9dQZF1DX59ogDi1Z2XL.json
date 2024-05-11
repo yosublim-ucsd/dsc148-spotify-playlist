@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Mike Shabb & Boldy James",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152125,
       "name": "4th Quarter",
       "url": "https://open.spotify.com/track/3lwxlvXfLP6rrBfbIzedk8"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 128677,
       "name": "ALL CAPS",
       "url": "https://open.spotify.com/track/1pFJYserM8fThLZ5b3kl0N"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154666,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 153614,
       "name": "Body",
       "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 157808,
       "name": "Can't Be a Friend",
       "url": "https://open.spotify.com/track/1cDJRRbIJAf0pF3pIzEWq7"
@@ -7251,6 +7251,32 @@
     },
     {
       "album": {
+        "name": "DWTD",
+        "url": "https://open.spotify.com/album/0LYGTHXSxyQ9evgM3mkAqb"
+      },
+      "artists": [
+        {
+          "name": "Coach",
+          "url": "https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "DWTD",
+      "url": "https://open.spotify.com/track/55Nt8AUYziz5UqJn2LHXJW"
+    },
+    {
+      "album": {
         "name": "Eagleaire",
         "url": "https://open.spotify.com/album/1cxI1b6Hc2BZBc76KMjq6A"
       },
@@ -8230,7 +8256,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 115884,
       "name": "FAMOUS.",
       "url": "https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt"
@@ -8869,6 +8895,24 @@
     },
     {
       "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/1u1VNFkQpO5UsTdes7cIv4"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "focus / too many",
+      "url": "https://open.spotify.com/track/2MR7e4p04qJjnV70dauh8J"
+    },
+    {
+      "album": {
         "name": "LUVMIND.",
         "url": "https://open.spotify.com/album/1Jvj6XtT89GnYITOka1YVY"
       },
@@ -8994,6 +9038,32 @@
       "duration_ms": 187972,
       "name": "For The Low",
       "url": "https://open.spotify.com/track/4zgeUfI4LpFKqhcCOR1wqd"
+    },
+    {
+      "album": {
+        "name": "For The W",
+        "url": "https://open.spotify.com/album/17GxU6ZVepTpVCGM7U2T5v"
+      },
+      "artists": [
+        {
+          "name": "Mally Swayzz",
+          "url": "https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF"
+        },
+        {
+          "name": "Triggs",
+          "url": "https://open.spotify.com/artist/661MK0FxaxojzqMrYFMz9p"
+        },
+        {
+          "name": "Hersh",
+          "url": "https://open.spotify.com/artist/5dAvLMQBZsRlXgFvzOI3C2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160996,
+      "name": "For The W",
+      "url": "https://open.spotify.com/track/5AoDelJJvy0InUM5JblWy0"
     },
     {
       "album": {
@@ -10278,6 +10348,32 @@
       "duration_ms": 115834,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/35o51YrOZep5EMmwZVN5S7"
+    },
+    {
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj"
+      },
+      "artists": [
+        {
+          "name": "Modlee",
+          "url": "https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW"
+        },
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Koyo Sur La Prod",
+          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J"
     },
     {
       "album": {
@@ -16416,7 +16512,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177639,
       "name": "Motif.",
       "url": "https://open.spotify.com/track/4r5KKGyDmGEwWw6bqVNV3K"
@@ -16554,6 +16650,24 @@
       "duration_ms": 133968,
       "name": "Must Be",
       "url": "https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196897,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
     },
     {
       "album": {
@@ -17262,6 +17376,24 @@
       "duration_ms": 192989,
       "name": "Nightmare on Peachtree Street (feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
+    },
+    {
+      "album": {
+        "name": "Nights On Hill",
+        "url": "https://open.spotify.com/album/2vT7ZWBzFpR61FqyB7fxck"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Nights On Hill",
+      "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
     },
     {
       "album": {
@@ -18906,7 +19038,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 180798,
       "name": "Open Fire",
       "url": "https://open.spotify.com/track/156sFD635CrDL1ip03QxpF"
@@ -19746,7 +19878,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175520,
       "name": "PEL\u00c9",
       "url": "https://open.spotify.com/track/7kLaAZeq4RM2akAkUhARaD"
@@ -22032,7 +22164,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 241600,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/10Bkf6WEyRjivi7IW3h73p"
@@ -22735,6 +22867,24 @@
     },
     {
       "album": {
+        "name": "SHE LUV",
+        "url": "https://open.spotify.com/album/4mYwxlxfsJVOPGQPaMvV2j"
+      },
+      "artists": [
+        {
+          "name": "ibxrhm",
+          "url": "https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "SHE LUV",
+      "url": "https://open.spotify.com/track/6qhQ8NGCH0abKGt4EDkK4D"
+    },
+    {
+      "album": {
         "name": "SHE SMOKES (feat. Nue)",
         "url": "https://open.spotify.com/album/5Ozyab3djDesGeFRpc8bae"
       },
@@ -23230,6 +23380,28 @@
       "duration_ms": 159410,
       "name": "So So (feat. Dai Burger)",
       "url": "https://open.spotify.com/track/69uVWhBBO5CUJIITkFzvum"
+    },
+    {
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/2CYMERxnF5b94KZ8SqVsGd"
+      },
+      "artists": [
+        {
+          "name": "Dan-e-o",
+          "url": "https://open.spotify.com/artist/5odWxeNvjPNRoL07Rv9wk6"
+        },
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244072,
+      "name": "Sober Sunday",
+      "url": "https://open.spotify.com/track/3EXe52s0EdRao29JYefCTE"
     },
     {
       "album": {
@@ -25645,6 +25817,24 @@
     },
     {
       "album": {
+        "name": "THE SAMURAI'S MONOLOGUE.",
+        "url": "https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "THE SAMURAI'S MONOLOGUE.",
+      "url": "https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj"
+    },
+    {
+      "album": {
         "name": "The Sofa",
         "url": "https://open.spotify.com/album/5jseRpqXqgbHwsbhdHYWsM"
       },
@@ -27388,6 +27578,24 @@
       "duration_ms": 192000,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/0m7e0dEQQLU4oH8oBsUgDY"
+    },
+    {
+      "album": {
+        "name": "7+",
+        "url": "https://open.spotify.com/album/6kcm9MT92ZcM99hr6tP70k"
+      },
+      "artists": [
+        {
+          "name": "Jaz Valentino",
+          "url": "https://open.spotify.com/artist/7E9YKP65JvAGKiVSQ57ql9"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179647,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/13CTcgkTSGigZNaYqmPSYM"
     },
     {
       "album": {

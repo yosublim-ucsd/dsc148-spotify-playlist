@@ -2,9 +2,9 @@
 
 ### [Sinhala Pop](https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA)
 
-> Trending Sinhalese pop hits\. Cover \- Piyath Rajapakse
+> Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-360 songs - 21 hr 24 min
+361 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Hade Upan Lande](https://open.spotify.com/track/38cgta810Jq6DQbPK1q0nU) | [Dinusha Chathuranga](https://open.spotify.com/artist/4S9CK2n2WypliMLphh4GYB), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod) | [Hade Upan Lande](https://open.spotify.com/album/3vcRlZNbQZRq9IhyiD0lDf) | 3:02 | 2022-07-29 | 2024-03-13 |
 | [Hadisida Manda](https://open.spotify.com/track/0CkNKzssNAh57audyrH4on) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Hadisida Manda](https://open.spotify.com/album/0ElpRevvStUmwmtFSmoQqt) | 3:03 | 2022-06-16 | 2022-08-30 |
 | [Hadunada Ridunada](https://open.spotify.com/track/2ra5d22Eli92gjT6ldddo6) | [Dinesh Tharanga](https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod), [EVO BEATS](https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox) | [Hadunada Ridunada](https://open.spotify.com/album/09F9MPJ78nHSSMVosAhaZL) | 3:35 | 2022-07-15 | 2023-07-25 |
+| [Hama Rama](https://open.spotify.com/track/5C68aF28c2KD8oYcbw4du0) | [Udara Samaraweera](https://open.spotify.com/artist/5bJVhEZyYJ17uQ8NSgbkcM), [Akila Vimanga Senevirathna](https://open.spotify.com/artist/155Qyxbj7bMeRzP71J5jZn), [Nadeesha Dayarathna](https://open.spotify.com/artist/18Y9unXLmFWMO8Ep5rruZT) | [Hama Rama](https://open.spotify.com/album/10Xy3mUWnISDVMOeS3tyR6) | 3:04 | 2024-05-10 |  |
 | [Hamuwe Mathuda](https://open.spotify.com/track/0tpKlAungiQraTaVMFA657) | [Chathura Herath](https://open.spotify.com/artist/5JPIOYsRaP0QpRY9QNzMcl), [Rashan Balasooriya](https://open.spotify.com/artist/7y9m5o4dJ6jmxeUqYo9azF) | [Hamuwe Mathuda](https://open.spotify.com/album/74jaQh0GyhlA4nLhNjKdjy) | 3:29 | 2022-06-16 | 2022-07-16 |
 | [Handa Allanna Aasa Gamana](https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1) | [WAYO](https://open.spotify.com/artist/4FxhFEHyjxhdm3C8vAq0wV) | [Handa Allanna Aasa Gamana](https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix) | 4:25 | 2022-11-30 | 2024-03-13 |
 | [Handa Gawin](https://open.spotify.com/track/2Egxrl73wREKmp1F2nvE3l) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Handa Gawin](https://open.spotify.com/album/0klqE21kzuXBdJwCDnnTR0) | 3:16 | 2022-06-16 | 2022-11-17 |
@@ -188,7 +189,7 @@
 | [Mathaka Wedanawan](https://open.spotify.com/track/59OIWs6dJlaS85S4J01kVT) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx), [Kanishka Akmeemana](https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95) | [Mathaka Wedanawan](https://open.spotify.com/album/6CKJFlEJcHmQBSGfJIbFAB) | 3:29 | 2022-09-23 | 2022-12-01 |
 | [Mathakada Handaawe](https://open.spotify.com/track/7gFbtLi4CqjjquCDJKxhka) | [Raini Charuka](https://open.spotify.com/artist/560riUcFnPmvtt6XYVLMa9) | [Mathakada Handaawe](https://open.spotify.com/album/7A98hZocr9LtyY53brC0VN) | 4:22 | 2023-05-26 | 2023-11-30 |
 | [Mathake](https://open.spotify.com/track/0r1y5DUXbYuFoYGEnz4vfm) | [Kasun Randunu](https://open.spotify.com/artist/32FYnle6hUf3EII57Z9uwy), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Mathake](https://open.spotify.com/album/5Cm4n9ujuLSgZzw66vfsoU) | 3:18 | 2022-07-15 | 2022-12-01 |
-| [Mawila](https://open.spotify.com/track/1eAAmf2ccUFXvz3KsUQ5bE) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t), [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13) | [Mawila](https://open.spotify.com/album/0Qtwnlus6ow1jB1KGrBZ5O) | 4:02 | 2023-07-24 | 2023-11-30 |
+| [Mawila](https://open.spotify.com/track/1eAAmf2ccUFXvz3KsUQ5bE) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t), [King Lotuss](https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13) | [Mawila](https://open.spotify.com/album/0Qtwnlus6ow1jB1KGrBZ5O) | 4:02 | 2023-07-24 |  |
 | [Me Hitha Na Palu](https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg) | [Dhyan Hewage](https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Me Hitha Na Palu](https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l) | 3:08 | 2022-06-23 |  |
 | [Me Sansare](https://open.spotify.com/track/2oNHCTKrW3dMPwqcENqfzu) | [Radeesh Vandebona](https://open.spotify.com/artist/1XJqTUg7BCcJgzk976s2q0) | [Me Sansare](https://open.spotify.com/album/3bRZpHvDNFf3wK0xjGpvoU) | 3:52 | 2023-09-12 | 2023-11-30 |
 | [Me Waare](https://open.spotify.com/track/565NrCOtLkrCJAA5GXDX6f) | [Sanjula himala](https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr) | [Me Waare](https://open.spotify.com/album/5rfa6cHggU4TSuZX95N06y) | 3:02 | 2023-05-26 | 2023-10-18 |

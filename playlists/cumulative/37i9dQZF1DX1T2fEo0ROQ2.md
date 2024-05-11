@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-447 songs - 23 hr 18 min
+449 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [Cross My Heart](https://open.spotify.com/track/4bSnRystHv5Th9z3TlcYHF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 | 2022-11-11 | 2022-11-13 |
 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2022-07-22 | 2024-03-27 |
+| [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-10 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2022-05-26 |  |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2022-05-26 | 2023-09-09 |
 | [Deep Within](https://open.spotify.com/track/6uxEvGVQFAUSpTzvLYOXKO) | [Hjon](https://open.spotify.com/artist/0HFSELom1sJ9YfdjKDzwCh) | [Purpose](https://open.spotify.com/album/7CXwkHaBdmfDy2rgmhvLbh) | 3:49 | 2023-04-21 |  |
@@ -342,6 +343,7 @@
 | [Sailing Through Our Night](https://open.spotify.com/track/0vbKO2YqTAoyjBzjLMpIOX) | [Milford Keynes](https://open.spotify.com/artist/7q7lOOGnChjRBjZ8yDGSC1) | [Sailing Through Our Night](https://open.spotify.com/album/3EQXfScxlCCbJLlH3CVRFn) | 2:13 | 2022-05-26 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2022-05-26 |  |
 | [Sajda](https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Sajda](https://open.spotify.com/album/0UlB8zVbHEuhwEj4YYH2ip) | 3:40 | 2022-05-26 |  |
+| [Sami](https://open.spotify.com/track/6T3NWibt9xsJC079C2uYKA) | [Red Ripples](https://open.spotify.com/artist/0j3jW3YwTwnn46zLTuWNhq) | [Sami](https://open.spotify.com/album/2oAbHPZbmcDuJ5RngJVLls) | 2:55 | 2024-05-10 |  |
 | [Sangre](https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 3:46 | 2022-05-26 | 2023-07-29 |
 | [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 | 2022-05-26 |  |
 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 | 2022-05-26 | 2023-04-22 |

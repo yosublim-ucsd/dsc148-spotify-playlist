@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 31573,
+  "num_followers": 31586,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
-      },
-      "artists": [
-        {
-          "name": "K-Zino",
-          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
-        }
-      ],
-      "duration_ms": 247663,
-      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
-      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Et pourtant",
         "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
+      },
+      "artists": [
+        {
+          "name": "K-Zino",
+          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
+        }
+      ],
+      "duration_ms": 247663,
+      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
+      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Tantan- Pam Pam Pam",
         "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "3 Tou 9",
-        "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
+        "name": "De Ger",
+        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
       },
       "artists": [
         {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+          "name": "Mizik Mizik",
+          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
         }
       ],
-      "duration_ms": 289537,
-      "name": "San Limit",
-      "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+      "duration_ms": 308000,
+      "name": "L\u00e8 Nap F\u00e8 Lanmou",
+      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Ambar Lucid",
+  "description": "Fresh Latin Indie you should know. Cover: Esteman",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1604,6 +1604,24 @@
       "duration_ms": 237456,
       "name": "Carretera Perdida",
       "url": "https://open.spotify.com/track/0CGGY4EDBd7XETfr6vryY7"
+    },
+    {
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
     },
     {
       "album": {
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 209000,
       "name": "falco",
       "url": "https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV"
@@ -4332,6 +4350,24 @@
       "duration_ms": 192165,
       "name": "Hora de Comer",
       "url": "https://open.spotify.com/track/3pjCCsQKxKAnHEmolzsOiR"
+    },
+    {
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "album": {
@@ -5757,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Lucecita",
+        "url": "https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX"
+      },
+      "artists": [
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165156,
+      "name": "Lucecita",
+      "url": "https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH"
+    },
+    {
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
       },
@@ -6368,6 +6422,24 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7kParyZwg1NBDfd5Yttkue"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209088,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/5XolCHaLC9wHPQo6w7hF8A"
     },
     {
       "album": {
@@ -7114,7 +7186,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 151640,
       "name": "Nivel",
       "url": "https://open.spotify.com/track/5BmNOexzDRn2tXrCurRVER"
@@ -8434,7 +8506,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 130973,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/6oqQwEFsrZGTTCNC2EyqZn"
@@ -8572,7 +8644,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222146,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/6fvq7tLQ4WXoMVfCQkKgyU"

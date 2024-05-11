@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166000,
       "name": "Crazy For You",
       "url": "https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7"
@@ -1310,6 +1310,24 @@
       "duration_ms": 251853,
       "name": "Do You Wanna Do Nothing with Me?",
       "url": "https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX"
+    },
+    {
+      "album": {
+        "name": "Doing The Thing",
+        "url": "https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Doing The Thing",
+      "url": "https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt"
     },
     {
       "album": {
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 223240,
       "name": "Love Direction",
       "url": "https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7"
@@ -4324,6 +4342,24 @@
       "duration_ms": 278439,
       "name": "Minotaur",
       "url": "https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a"
+    },
+    {
+      "album": {
+        "name": "Mom Of Mine",
+        "url": "https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187456,
+      "name": "Mom Of Mine",
+      "url": "https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "that's how we do it",
-  "num_followers": 136039,
+  "num_followers": 136123,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1HYAAAAAB+hHe3MzAxxGo+sIHKzzvQ",
+  "snapshot_id": "Zj4PGwAAAADtT+Ym0QEN3cjbyDte4uHK",
   "tracks": [
     {
       "added_at": "2024-05-09 22:00:00",
@@ -169,6 +169,30 @@
       "url": "https://open.spotify.com/track/4ARgEF9WuWcIMPhyBHeXwk"
     },
     {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "FUKINASTY / Look, Alright",
+        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "FUKINASTY - Sosa UK Remix",
+      "url": "https://open.spotify.com/track/7om9wYulxLAvrjnW7UebBl"
+    },
+    {
       "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Simple Times",
@@ -225,6 +249,22 @@
       "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
     },
     {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "The Drill",
+        "url": "https://open.spotify.com/album/7vnEp4Tb1J1c8fXZLN13QZ"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "The Drill",
+      "url": "https://open.spotify.com/track/0Y6P6oy3EqBPEbox8BZAW8"
+    },
+    {
       "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Faster",
@@ -239,6 +279,26 @@
       "duration_ms": 436331,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2ZP5DF2cusuvGvek7yxIsA"
+    },
+    {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/2uo1wyOhMJclsWYTr9Qwr2"
+      },
+      "artists": [
+        {
+          "name": "Mia Mendi",
+          "url": "https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio"
+        },
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 382258,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/3DYNi7eWOzNfHtbnw9BJLh"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -281,6 +341,26 @@
       "url": "https://open.spotify.com/track/2SskIeGvqPDEayWTQ0SQ2S"
     },
     {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/16OGeUedKxbHl7F70k5eXr"
+      },
+      "artists": [
+        {
+          "name": "Fehrplay",
+          "url": "https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/2VVc6KYA43Ga5yjceg0j4L"
+    },
+    {
       "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "WRITER'S BLOCK",
@@ -301,6 +381,22 @@
       "url": "https://open.spotify.com/track/7r7yVzIR12cRIuFhmcQEvM"
     },
     {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "Open Up The Door",
+        "url": "https://open.spotify.com/album/1JfjVkwfK41qSS4zXJgvaU"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 134734,
+      "name": "Open Up The Door",
+      "url": "https://open.spotify.com/track/2ZeKFaqUq3NPXECGKlxG95"
+    },
+    {
       "added_at": "2024-05-09 22:00:00",
       "album": {
         "name": "Bring It Back",
@@ -315,6 +411,42 @@
       "duration_ms": 194285,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1cDn2TimfiU2hlCUL9yQD2"
+    },
+    {
+      "added_at": "2024-05-10 08:59:32",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
+    },
+    {
+      "added_at": "2024-05-10 12:12:11",
+      "album": {
+        "name": "Notte Paradiso",
+        "url": "https://open.spotify.com/album/2530xAoxoEm9SoC15IkEBi"
+      },
+      "artists": [
+        {
+          "name": "Volantis",
+          "url": "https://open.spotify.com/artist/1UlvEcn0g52vZ4PawafthZ"
+        },
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "duration_ms": 430999,
+      "name": "Incantesimo",
+      "url": "https://open.spotify.com/track/00fBwKfwmzEJ7hggeMmaR2"
     },
     {
       "added_at": "2024-05-09 22:00:00",

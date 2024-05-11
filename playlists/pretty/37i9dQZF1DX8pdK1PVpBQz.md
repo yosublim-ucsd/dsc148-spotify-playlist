@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: THE BLSSM <br/>Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,052 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,053 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 41 | [Girlboss](https://open.spotify.com/track/0lE3g4HFvJftx16QgzQsRz) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Girlboss](https://open.spotify.com/album/2ksw3DWw5bw4EhsbDTkOlS) | 2:34 |
 | 42 | [Pale Blue Dot](https://open.spotify.com/track/6tmd1QWPZyXS6eoByKXi3Y) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Pale Blue Dot](https://open.spotify.com/album/2RxDgAjuNcXyDKwz1nwrvW) | 3:40 |
 | 43 | [Malibu](https://open.spotify.com/track/5uHF2OIhwHoomJh4snRq8D) | [LSF](https://open.spotify.com/artist/7pqgKTaA1R7iaSHxcgXQZ9) | [Malibu](https://open.spotify.com/album/6FdKYjZq7I0Eqkpib3ygSM) | 3:00 |
-| 44 | [FARABALE](https://open.spotify.com/track/4BLEAIRKdyg6Ow2aiym91g) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [FARABALE](https://open.spotify.com/album/6xc9llWivU4xkOe5SrER0p) | 2:33 |
+| 44 | [FARABALE](https://open.spotify.com/track/4BLEAIRKdyg6Ow2aiym91g) | [Semiire](https://open.spotify.com/artist/5XApHWfRRIPXaXLgQoEAVq) | [FARABALE](https://open.spotify.com/album/6xc9llWivU4xkOe5SrER0p) | 2:34 |
 | 45 | [Bilwaali \(Home\)](https://open.spotify.com/track/427EpU1EM9cmSrXLZd33ry) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Bilwaali \(Home\)](https://open.spotify.com/album/5Ecd9vMSYDqyyuuVYM4oko) | 3:16 |
 | 46 | [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/track/0DYuwkXIJice7DEQ1jmaNx) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [YOUR PART IN MY STORY IS OVER](https://open.spotify.com/album/18xcVOBHc2gKr5ctB72cHO) | 2:54 |
 | 47 | [Want U Here](https://open.spotify.com/track/6MEBRR6soqnEWUGlJuPXqm) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Want U Here](https://open.spotify.com/album/7frKFTucwcNjlAKHMlWIzT) | 2:05 |

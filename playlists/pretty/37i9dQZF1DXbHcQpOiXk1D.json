@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
-  "num_followers": 311712,
+  "num_followers": 311784,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+      "duration_ms": 76659,
+      "name": "You're Stronger Than You Think",
+      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 76659,
-      "name": "You're Stronger Than You Think",
-      "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "End Of Innocence",
-        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "End Of Innocence",
-      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Sample The Sky",
         "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 191707,
       "name": "Take It Easy (Miles' Song)",
       "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "End Of Innocence",
+        "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "End Of Innocence",
+      "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
@@ -1083,30 +1099,6 @@
       "duration_ms": 334000,
       "name": "Late Night People",
       "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1135,22 +1127,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Champagne Kisses",
         "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
@@ -1175,22 +1151,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Funeka",
         "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
       },
@@ -1203,6 +1163,46 @@
       "duration_ms": 243000,
       "name": "Funeka",
       "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1343,22 +1363,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Sweet Nirvana",
         "url": "https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0"
       },
@@ -1375,30 +1379,18 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Cheap Cigars",
-        "url": "https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx"
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Tertia May",
-          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
-        },
-        {
-          "name": "illiterate",
-          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
-        },
-        {
-          "name": "Hutch",
-          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Cheap Cigars",
-      "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
+      "duration_ms": 277026,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
     },
     {
       "added_at": "2024-05-09 23:00:00",

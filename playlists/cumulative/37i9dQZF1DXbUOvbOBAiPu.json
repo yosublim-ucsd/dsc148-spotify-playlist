@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Confidences",
+        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128197,
+      "name": "Confidences",
+      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
+    },
+    {
+      "album": {
         "name": "Bitume Caviar (Vol.1) Bonus",
         "url": "https://open.spotify.com/album/5l8YEvNuskgJ5OydE54wPv"
       },
@@ -2013,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Iedere Dag",
+        "url": "https://open.spotify.com/album/1QJveJi35iLnmO2N4vGhmp"
+      },
+      "artists": [
+        {
+          "name": "Walter Grootaers",
+          "url": "https://open.spotify.com/artist/0vAHKCJuZZSYXo1MZf5WEy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143293,
+      "name": "Iedere Dag",
+      "url": "https://open.spotify.com/track/3lHrJ9XVOfng56IxuZcybl"
+    },
+    {
+      "album": {
         "name": "If You Go",
         "url": "https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa"
       },
@@ -2528,8 +2568,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159766,
-      "name": "Look at My Body Pt. II (Feat. Shygirl)",
+      "name": "Look At My Body Pt. II (Feat. Shygirl)",
       "url": "https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5"
+    },
+    {
+      "album": {
+        "name": "Lose My Breath",
+        "url": "https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166913,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB"
     },
     {
       "album": {

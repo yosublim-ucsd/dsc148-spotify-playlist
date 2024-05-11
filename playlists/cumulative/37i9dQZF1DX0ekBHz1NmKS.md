@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,281 songs - 2 day 18 hr 58 min
+1,282 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-09-25 |
-| [Last Night on Earth](https://open.spotify.com/track/0TCttoUHi6b3o6U9Hy4ZlD) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [Last Night on Earth](https://open.spotify.com/album/7KOfqqznoVvU8Hr2Qaoez1) | 2:53 | 2024-05-09 |  |
+| [Last Night on Earth](https://open.spotify.com/track/0TCttoUHi6b3o6U9Hy4ZlD) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [Last Night on Earth](https://open.spotify.com/album/7KOfqqznoVvU8Hr2Qaoez1) | 2:53 | 2024-05-09 | 2024-05-11 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-28 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 | 2023-10-06 |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
@@ -940,6 +940,7 @@
 | [Segeltorp](https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u) | [Reflektion](https://open.spotify.com/artist/1GzkzasUtKs6qCJQikDmiJ) | [Segeltorp](https://open.spotify.com/album/6DncLd5TqDR4NLLm9uxnt2) | 3:35 | 2024-04-18 | 2024-04-20 |
 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
+| [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-05-10 |  |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-07-06 | 2023-09-09 |
 | [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 | 2022-03-08 |
 | [She Fell In Love In The Summer](https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [She Fell In Love In The Summer](https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN) | 2:52 | 2023-04-27 | 2023-10-20 |

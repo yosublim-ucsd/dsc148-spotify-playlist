@@ -4,7 +4,7 @@
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-156 songs - 13 hr 14 min
+157 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Destiny \- Dem 2 Radio Mix](https://open.spotify.com/track/793c172sg8q7S4yIVdolYy) | [Dem 2](https://open.spotify.com/artist/32bkV540WQJ4K9tVfLdNYQ) | [Destiny](https://open.spotify.com/album/33edSIlo2PL5bY1hNvlCgA) | 4:05 | 2022-12-28 |  |
 | [Did It \(Remix\)](https://open.spotify.com/track/4kiDpNiRolOd9q50x5dXKG) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Fyrus](https://open.spotify.com/artist/0RO8mMiUTQ6fkXoPFmMpTT), [Larraine Cato](https://open.spotify.com/artist/0wif3oSckMwaC8pVoRp44W) | [Did It](https://open.spotify.com/album/0WQuYGRqEHne341E7YVcl1) | 5:06 | 2022-12-28 | 2023-01-19 |
 | [Do It Again](https://open.spotify.com/track/3YE6yPSSFpjtZNvUlGErr9) | [TJ Cases feat\. Kat Blu](https://open.spotify.com/artist/3JRd5ohHPzQhXuZ0IydpX8) | [2 Step UK Garage 1997\-2000](https://open.spotify.com/album/18VQTe0yVWhpEQ0OcF1J6B) | 6:02 | 2022-12-28 | 2023-01-19 |
+| [Do It Right Baby](https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 6:04 | 2024-03-22 |  |
 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 | 2022-12-28 |  |
 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/12GwtT1n24TIpp2RER56Ij) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr) | [Dooms Night](https://open.spotify.com/album/6JRerP3qDsohb4wEbseoeL) | 3:47 | 2023-01-18 | 2024-04-19 |
 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 | 2024-03-22 |  |
@@ -132,7 +133,7 @@
 | [Sometimes It Snows in April \- Dreem House Dub Radio Edit](https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ) | [Amar](https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj) | [Sometimes It Snows In April](https://open.spotify.com/album/5b7XYJnXatCeqBBRNlBPuO) | 3:52 | 2022-12-28 |  |
 | [Sorry! \(I Didn't Know\) \- Original Radio Edit](https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/1bzhoN9vur8qy0l7TCnnid) | 4:10 | 2023-01-18 | 2024-04-19 |
 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 | 2023-01-18 |  |
-| [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 | 2023-01-18 |  |
+| [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 | 2023-01-18 | 2024-05-11 |
 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 | 2024-01-05 | 2024-04-19 |
 | [Straight From The Heart \(Radio Edit\)](https://open.spotify.com/track/6VRptPvTqUbMomT6ebRnMd) | [Doolally](https://open.spotify.com/artist/6T3pIulohPhYGCXgPOwyIt) | [Straight from the Heart](https://open.spotify.com/album/4thu6Hmc4mg4xBk6S4o7Xg) | 3:38 | 2022-12-28 | 2023-01-19 |
 | [Summer Of Love \- Original Extended](https://open.spotify.com/track/488nVOcYpUXrkHsGJRt6Sp) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz) | [Summer Of Love](https://open.spotify.com/album/2ZEP1ais9sYt1SRPnra8U1) | 6:03 | 2022-12-28 | 2023-01-19 |

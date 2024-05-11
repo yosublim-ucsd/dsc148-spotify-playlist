@@ -7039,6 +7039,32 @@
     },
     {
       "album": {
+        "name": "Chopin Nocturnes",
+        "url": "https://open.spotify.com/album/70f4SwAji5L8oHrePCMbIR"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Olga Scheps",
+          "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Nocturnes, Op. 9: II. Andante (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/1VorQQ8lFs1yqA1EDpZ9it"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },
@@ -9676,6 +9702,24 @@
       "duration_ms": 204078,
       "name": "Spring",
       "url": "https://open.spotify.com/track/4qK9n5cJhlLHVT3W8X1glD"
+    },
+    {
+      "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/1Iv1xduF40GqdqviWS9q9Y"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/0lCuPew8HPRnwKQ6PZnSSC"
     },
     {
       "album": {

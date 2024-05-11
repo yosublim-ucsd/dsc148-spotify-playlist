@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-319 songs - 16 hr 40 min
+320 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [I Love Your Smile](https://open.spotify.com/track/0tFvZDDjgzoIrWaLykgvRa) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [I Love Your Smile](https://open.spotify.com/album/0bQ6i9463hxM5YLIvzAYJ4) | 2:14 | 2021-10-29 | 2022-05-14 |
 | [I See Blue](https://open.spotify.com/track/7McmRLT362Fss7WAUk670c) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:07 | 2021-10-29 | 2022-01-21 |
 | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL) | [Davai](https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC), [Philip Rustad](https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr) | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/album/37Gm8Ovojuc443hvViW9mu) | 2:55 | 2021-10-29 | 2022-03-26 |
-| [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 |  |
+| [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 | 2024-05-11 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 |  |
 | [I'd Love to Be Okay](https://open.spotify.com/track/6J7OHWdBeNbGmH82fqnabL) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [I'd Love to Be Okay](https://open.spotify.com/album/3gOCeUPs6Y1COmCRnDEvvJ) | 2:14 | 2022-04-15 | 2022-05-27 |
 | [Ibiza](https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/44O6Lmy2iJtJMNxar2nnlo) | 2:25 | 2021-10-29 | 2022-07-29 |
@@ -241,6 +241,7 @@
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-03-25 | 2022-04-19 |
 | [September](https://open.spotify.com/track/2KDIFU4O8qjgydU5K33HUW) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [September](https://open.spotify.com/album/4QozAibp9n6LP8im7VSR2w) | 2:20 | 2022-04-08 | 2022-07-26 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-06-16 |  |
+| [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-10 |  |
 | [Shine](https://open.spotify.com/track/5zxbZVvlzdWuVNN2CqswcM) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Shine](https://open.spotify.com/album/6pbUCPPuMI2QX6h5xSnak6) | 3:55 | 2023-05-26 | 2023-06-03 |
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-04-12 |  |
 | [Smooth Operator \- TikTok Remix](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/6XLHt4Vh2p3JMDObYdDItk) | [Smooth Operator \(TikTok Remix\)](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 | 2023-07-13 | 2023-08-05 |

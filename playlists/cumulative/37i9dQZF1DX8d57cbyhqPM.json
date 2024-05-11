@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 172713,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF"
@@ -350,6 +350,32 @@
       "duration_ms": 207000,
       "name": "Amani Bombe",
       "url": "https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk"
+    },
+    {
+      "album": {
+        "name": "App\u00e9tit",
+        "url": "https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173157,
+      "name": "App\u00e9tit",
+      "url": "https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E"
     },
     {
       "album": {
@@ -3945,6 +3971,36 @@
     },
     {
       "album": {
+        "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+        "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
+      "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"
+    },
+    {
+      "album": {
         "name": "Maboko Milayi",
         "url": "https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw"
       },
@@ -4230,7 +4286,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 186904,
       "name": "Mayi (Water)",
       "url": "https://open.spotify.com/track/0m4UAkGJnW6lMHTBOTAYtB"
@@ -6107,6 +6163,28 @@
     },
     {
       "album": {
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+    },
+    {
+      "album": {
         "name": "Rien \u00e0 dire",
         "url": "https://open.spotify.com/album/1ccqlPqQA2Jx0BxRR5Lb51"
       },
@@ -6862,7 +6940,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 234659,
       "name": "Toye Mabe",
       "url": "https://open.spotify.com/track/6RwlvDzQ4fmeZwpE3z0k4E"

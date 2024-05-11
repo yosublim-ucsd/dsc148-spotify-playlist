@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"spotify:artist:6SppFn5ihgxDw7tdfthnaK\">Lakewood Music</a> & <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now.  Cover:  Cody Carnes",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 461113,
       "name": "10,000 Reasons (Bless The Lord) - Live",
       "url": "https://open.spotify.com/track/0uWyDnh4WBEwAsYMnZxwyI"
@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Better Is One Day / Facedown (Live)",
+        "url": "https://open.spotify.com/album/45OF5kJi8PUdrv4zE1MmBC"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429166,
+      "name": "Better Is One Day / Facedown - Live",
+      "url": "https://open.spotify.com/track/7bulJSqaL4Rbyzrk6bjJqq"
+    },
+    {
+      "album": {
         "name": "Bigger Than Hope",
         "url": "https://open.spotify.com/album/3xaGigA4NYkrLRBl2MXOe4"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 380666,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
@@ -3106,6 +3124,24 @@
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"
+    },
+    {
+      "album": {
+        "name": "Garment Of Praise",
+        "url": "https://open.spotify.com/album/3iNoBoPiJnmCoZKsvEstRd"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310914,
+      "name": "Garment Of Praise",
+      "url": "https://open.spotify.com/track/39EAqp01DpDxus0GkF0WeN"
     },
     {
       "album": {
@@ -3554,7 +3590,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 339615,
       "name": "Gratitude - Live",
       "url": "https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa"
@@ -5717,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "Jesus, Our Judge and Our Savior",
+        "url": "https://open.spotify.com/album/3ZTTfrRIvo8lBDX1BeOsAk"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225606,
+      "name": "Jesus, Our Judge and Our Savior",
+      "url": "https://open.spotify.com/track/6Tkcc0fNdiZaTlJA9PImGc"
+    },
+    {
+      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/6HMlAW4DbRIxCR93yYi2GT"
       },
@@ -6617,6 +6671,24 @@
     },
     {
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/2gAJ6T19qtleIFTRn0MRIk"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/1zlsN35XHeANKr2v3T4Wir"
+    },
+    {
+      "album": {
         "name": "Mind blowing",
         "url": "https://open.spotify.com/album/2Ph9kTi4s7fgikAWyssWla"
       },
@@ -7458,7 +7530,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 286734,
       "name": "Now To God - Live",
       "url": "https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe"
@@ -8844,7 +8916,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 463848,
       "name": "Satisfied - Live",
       "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
@@ -9309,6 +9381,32 @@
     },
     {
       "album": {
+        "name": "Steady Love",
+        "url": "https://open.spotify.com/album/5spOPiSus1L36TXEUkLwzo"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291458,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax"
+    },
+    {
+      "album": {
         "name": "Peace: The Album",
         "url": "https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s"
       },
@@ -9549,6 +9647,28 @@
     },
     {
       "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/20LHdaDLMgIg8bXepXR9rQ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Heath Balltzglier",
+          "url": "https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257288,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/3A37HJlIxjKxzYHzAy11Wl"
+    },
+    {
+      "album": {
         "name": "My Eyes Are Open (Acoustic)",
         "url": "https://open.spotify.com/album/6cjwPjajNxajpNc1UItGbO"
       },
@@ -9594,6 +9714,24 @@
       "duration_ms": 272883,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF"
+    },
+    {
+      "album": {
+        "name": "Take You At Your Word",
+        "url": "https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224102,
+      "name": "Take You At Your Word",
+      "url": "https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc"
     },
     {
       "album": {
@@ -11610,7 +11748,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 510057,
       "name": "Wind and Waves - Live",
       "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90158,
+  "num_followers": 90157,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "J\u00f6etry",
-        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
       "artists": [
         {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 244000,
-      "name": "mate in five",
-      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -383,22 +387,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+        "name": "J\u00f6etry",
+        "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
         }
       ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
+      "duration_ms": 244000,
+      "name": "mate in five",
+      "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -467,18 +467,30 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "DSLM?",
-        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+        "name": "Drunk and Confused 2.0",
+        "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+          "name": "JS x YD",
+          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
+        },
+        {
+          "name": "A92",
+          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
+        },
+        {
+          "name": "A9Dbo Fundz",
+          "url": "https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z"
+        },
+        {
+          "name": "A9Ksav",
+          "url": "https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR"
         }
       ],
-      "duration_ms": 189020,
-      "name": "DSLM?",
-      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
+      "duration_ms": 227727,
+      "name": "Drunk and Confused 2.0",
+      "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -515,30 +527,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Drunk and Confused 2.0",
-        "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
       },
       "artists": [
         {
-          "name": "JS x YD",
-          "url": "https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7"
-        },
-        {
-          "name": "A92",
-          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
-        },
-        {
-          "name": "A9Dbo Fundz",
-          "url": "https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z"
-        },
-        {
-          "name": "A9Ksav",
-          "url": "https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
         }
       ],
-      "duration_ms": 227727,
-      "name": "Drunk and Confused 2.0",
-      "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1379,6 +1395,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Up all night",
+        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+      },
+      "artists": [
+        {
+          "name": "LBSZN",
+          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+        }
+      ],
+      "duration_ms": 161232,
+      "name": "Up all night",
+      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -1399,18 +1431,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Up all night",
-        "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
-          "name": "LBSZN",
-          "url": "https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 161232,
-      "name": "Up all night",
-      "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1427,22 +1459,6 @@
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1467,6 +1483,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111250,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS"
       },
@@ -1487,22 +1519,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/4GkK9r315cec1U2IY3ODfq"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 192000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111250,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
     },
     {
       "added_at": "2023-08-01 17:14:44",

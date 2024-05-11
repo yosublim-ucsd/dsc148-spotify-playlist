@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-336 songs - 14 hr 43 min
+337 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dancing in the Moonlight](https://open.spotify.com/track/4Djd1V2jIzyCrZYhem90xg) | [RMDYZ](https://open.spotify.com/artist/0Py2QiGOHHOLWxwO1EpkRV), [George Gleeson](https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV) | [Dancing in the Moonlight](https://open.spotify.com/album/4Ap0p36EN5ON6hRDhSUIAj) | 2:42 | 2023-10-16 |  |
 | [Dancing In The Rain](https://open.spotify.com/track/0iWBKHMLAhoUfSDXVnBKt4) | [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Tommy Harris](https://open.spotify.com/artist/2uAC2ZkTy0JjOu37XMK22z) | [Dancing In The Rain](https://open.spotify.com/album/3tehWc1LQovxl0gFjoNGOF) | 2:51 | 2023-09-22 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2B8zzwX1ck0CitF80Ni4Gt) | [Majesto](https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Dancing on My Own](https://open.spotify.com/album/7ASgNOQsMq7ViYziNWF5WQ) | 3:46 | 2023-09-22 |  |
+| [Daydreams](https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Daydreams](https://open.spotify.com/album/0c1bUN4b8uF8fTcHB7lzKi) | 2:56 | 2024-05-10 |  |
 | [Diamond](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Diamond](https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz) | 2:16 | 2024-03-18 |  |
 | [Dizzy](https://open.spotify.com/track/2EGuz29TPdPFV40QsFo0hP) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Noxxia](https://open.spotify.com/artist/1yTxofaXhlhAG82AO55Atu), [Philip Jax](https://open.spotify.com/artist/4S9KVaizGGux3RLHsIgcm6) | [Dizzy](https://open.spotify.com/album/3Neq7HYDQDDJ0DOpzddNXr) | 2:33 | 2024-04-07 | 2024-04-16 |
 | [Dollar Dream \[Lucas Estrada Edit\]](https://open.spotify.com/track/28ECYkjyVDGCurbUoCctVe) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Couché](https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl), [Polar Notes](https://open.spotify.com/artist/7rgyMpZgczDhkLWiykajQb), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Dollar Dream \[Lucas Estrada Edit\]](https://open.spotify.com/album/5CszA1bpHOuimE5VWw2Efj) | 2:38 | 2023-09-22 | 2024-04-15 |

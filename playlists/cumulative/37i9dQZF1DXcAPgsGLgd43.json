@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198425,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1ntXDWAJHVCAQbVNSVShYI"
@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Bala (feat. Flori del Pino)",
+        "url": "https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Flori del Pino",
+          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175537,
+      "name": "Bala (feat. Flori del Pino)",
+      "url": "https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD"
+    },
+    {
+      "album": {
         "name": "Balafon",
         "url": "https://open.spotify.com/album/0ZrP6qHMFfzvdWFxnjlcV2"
       },
@@ -444,6 +466,24 @@
       "duration_ms": 145800,
       "name": "Balan\u00e7a",
       "url": "https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F"
+    },
+    {
+      "album": {
+        "name": "Bamboleo",
+        "url": "https://open.spotify.com/album/22idVlsqG98oknXXTtd6Sy"
+      },
+      "artists": [
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200322,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/460XCntyhpuFVDyPfDGPXn"
     },
     {
       "album": {
@@ -518,7 +558,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175040,
       "name": "Bandolera (feat. Buza)",
       "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
@@ -694,7 +734,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 216190,
       "name": "Bueno",
       "url": "https://open.spotify.com/track/6vVPwFyG1i2cGbkooigqDM"
@@ -1230,7 +1270,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
@@ -3410,7 +3450,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 312759,
       "name": "Pa\u2019lante - Tigerbalm Remix",
       "url": "https://open.spotify.com/track/2xjUbVp53H7uJa9gMejURT"
@@ -3814,7 +3854,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 171998,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
@@ -4034,6 +4074,28 @@
       "duration_ms": 205440,
       "name": "Si Tu Sabe",
       "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
+    },
+    {
+      "album": {
+        "name": "Sin Nada",
+        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
+      },
+      "artists": [
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Sin Nada",
+      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
     },
     {
       "album": {
@@ -4347,6 +4409,32 @@
     },
     {
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/33stvG0aeAfYvDAluIoNy9"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157102,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0wlRwjz9gsEE7e8yHR6Gl6"
+    },
+    {
+      "album": {
         "name": "Tribesmen",
         "url": "https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk"
       },
@@ -4446,6 +4534,32 @@
       "duration_ms": 168500,
       "name": "Tumba La Casa",
       "url": "https://open.spotify.com/track/5yImYZuD2w8U9JbfNl5Gni"
+    },
+    {
+      "album": {
+        "name": "Tumba la Casa",
+        "url": "https://open.spotify.com/album/1e5DYquxUuE9lkMXoeGWsS"
+      },
+      "artists": [
+        {
+          "name": "MYL\u00d8",
+          "url": "https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh"
+        },
+        {
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Tumba la Casa",
+      "url": "https://open.spotify.com/track/0FLjpOTxvokthyij5x5uyt"
     },
     {
       "album": {
@@ -4680,7 +4794,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"
@@ -4790,6 +4904,28 @@
       "duration_ms": 228690,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6ldrrA9dkZjIrX4wUOXTz2"
+    },
+    {
+      "album": {
+        "name": "Wataqui",
+        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Wataqui",
+      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
     },
     {
       "album": {

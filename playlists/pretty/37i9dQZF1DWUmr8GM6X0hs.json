@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 82546,
+  "num_followers": 82588,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "50 Canciones Inmortales",
-        "url": "https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy"
-      },
-      "artists": [
-        {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Tu Me Acostumbraste - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 168829,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "50 Canciones Inmortales",
+        "url": "https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy"
+      },
+      "artists": [
+        {
+          "name": "Lucho Gatica",
+          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Tu Me Acostumbraste - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Desvelo de Amor",
-      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Poker de Ases",
         "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184013,
       "name": "El Hijo Var\u00f3n",
       "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Desvelo de Amor",
+      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
     },
     {
       "added_at": "2023-12-20 18:45:06",

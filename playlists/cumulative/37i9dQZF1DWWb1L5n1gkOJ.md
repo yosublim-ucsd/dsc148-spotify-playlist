@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-168 songs - 8 hr 0 min
+169 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Wandering in a Dream](https://open.spotify.com/track/59lUBjei2p8NrxpjEuTEPt) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 2:14 | 2022-10-12 |  |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2022-10-12 |  |
 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 | 2022-11-22 |  |
+| [Weightless](https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Weightless](https://open.spotify.com/album/6ZdZF7zhOKer8UHfvb6M6V) | 2:43 | 2024-05-10 |  |
 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 | 2022-10-12 |  |
 
 \*This playlist was first scraped on 2022-10-28. Prior content cannot be recovered.

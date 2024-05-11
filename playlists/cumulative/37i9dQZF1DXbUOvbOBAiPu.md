@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Gustaph
 
-240 songs - 12 hr 44 min
+243 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-02 | 2024-05-10 |
 | [Cocoon](https://open.spotify.com/track/1HiTSSMkRcKzeCEbTlZySu) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Cocoon](https://open.spotify.com/album/3BYNvCPN2QOHwyG6HcBRKT) | 3:17 | 2024-05-02 | 2024-05-10 |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-05-03 |
+| [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 |  |
 | [CR600 \- Bonus Track](https://open.spotify.com/track/4g3AHWCFKb6e5JTutKo7t8) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo) | [Bitume Caviar \(Vol.1\) Bonus](https://open.spotify.com/album/5l8YEvNuskgJ5OydE54wPv) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-26 | 2024-05-03 |
 | [Dansen Met Jou \(Let's Dance\)](https://open.spotify.com/track/5Sema6feKUgeiRfmB3KMJt) | [Jo Vally](https://open.spotify.com/artist/1h1uv3Y1MAMrpIeRbN2vFS) | [45/65](https://open.spotify.com/album/6NJrFELY2zW42BWeBog2hn) | 3:08 | 2024-05-02 | 2024-05-10 |
@@ -112,6 +113,7 @@
 | [I Can't Escape](https://open.spotify.com/track/5BasvwKujZKewgvgBY9lpk) | [NYA & CHRLY](https://open.spotify.com/artist/1wu7bxBfti6u9ibHJmruzp) | [I Can't Escape](https://open.spotify.com/album/0rCXUruREJ5K8vGJ2QSPUI) | 3:04 | 2024-05-09 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-09 |  |
 | [i wonder](https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [i wonder](https://open.spotify.com/album/5RoafD4ycGxnyGWVMh4pEQ) | 1:44 | 2024-05-02 | 2024-05-10 |
+| [Iedere Dag](https://open.spotify.com/track/3lHrJ9XVOfng56IxuZcybl) | [Walter Grootaers](https://open.spotify.com/artist/0vAHKCJuZZSYXo1MZf5WEy) | [Iedere Dag](https://open.spotify.com/album/1QJveJi35iLnmO2N4vGhmp) | 2:23 | 2024-05-10 |  |
 | [If You Go](https://open.spotify.com/track/0NYQEukEdw00iXR7qsxoaB) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [If You Go](https://open.spotify.com/album/0Z3S8PmbTOh4ynFe4LcBUa) | 2:34 | 2024-05-02 | 2024-05-10 |
 | [If You Go \- Uit Liefde Voor Muziek](https://open.spotify.com/track/5Zry5ZvippXRtPGmGMvjxL) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Arno](https://open.spotify.com/artist/7clLDAzMmxPQ6EHQ3fgHMA) | [If You Go \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/2YbmgzfupZHMi36VI4AYZ4) | 3:20 | 2024-05-02 | 2024-05-10 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-02 | 2024-05-10 |
@@ -137,7 +139,8 @@
 | [Lo Niego](https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Lo Niego](https://open.spotify.com/album/0bJDByZM5TEIPDwBQARs9X) | 3:25 | 2024-05-09 |  |
 | [Locked In Your Love](https://open.spotify.com/track/7mGChOdF97ReKEDZmxQk8B) | [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Tim Grand](https://open.spotify.com/artist/5s7hwju24qO7raJrUEYsON) | [Locked In Your Love](https://open.spotify.com/album/3BipOxC6qIGHbO9RjQmGV3) | 2:36 | 2024-05-09 |  |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-04-26 | 2024-05-03 |
-| [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 | 2024-05-09 |  |
+| [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-05-03 |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-26 | 2024-05-03 |
 | [Magazine](https://open.spotify.com/track/0LDntNJbWFeLfR0s8hi1BM) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Magazine](https://open.spotify.com/album/4VU9m1Z0CyVMUZzWTOleDJ) | 3:22 | 2024-05-09 |  |

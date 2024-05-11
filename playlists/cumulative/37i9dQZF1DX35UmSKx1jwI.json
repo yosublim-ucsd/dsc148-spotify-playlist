@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178760,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
@@ -1994,6 +1994,32 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "album": {
+        "name": "You Might Be (feat. Lils) [Remixes]",
+        "url": "https://open.spotify.com/album/3hvxQMfoWHWwUM89pCaRZ5"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Lils",
+          "url": "https://open.spotify.com/artist/6u6vVHSI8WgGTJi3mYPOn0"
+        },
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181663,
+      "name": "You Might Be (feat. Lils) - GoldFish Remix",
+      "url": "https://open.spotify.com/track/0JshnWfAOhnJiob29TL7XO"
     },
     {
       "album": {

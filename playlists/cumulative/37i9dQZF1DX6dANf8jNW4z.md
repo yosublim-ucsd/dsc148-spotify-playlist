@@ -4,7 +4,7 @@
 
 > Escucha mujeres a todo volumen\. Foto: María Escarmiento.
 
-1,284 songs - 2 day 17 hr 2 min
+1,285 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [La última canción](https://open.spotify.com/track/1qec0VUARAwEVdeNYjLtDQ) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [La última canción](https://open.spotify.com/album/3Ijvsto4UaVxx9O1Tb0MoX) | 2:56 | 2023-06-06 | 2023-07-05 |
 | [La Última Función](https://open.spotify.com/track/0kg71K4pfn5gZ2lWvDIS73) | [Miriam Rodríguez](https://open.spotify.com/artist/3E3qsTzCvTX13A1Zrw7Wnf) | [La Última Función](https://open.spotify.com/album/0bywsH6xygVO5MP5Lqmfip) | 2:01 | 2022-07-05 | 2023-02-02 |
 | [La Última Vez](https://open.spotify.com/track/1hzamjpMLfmh8gxNFJXgN1) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [La Última Vez](https://open.spotify.com/album/6SFLTTARuxoqKcSdJ95qQ4) | 2:35 | 2023-04-04 | 2023-05-03 |
+| [La última vez](https://open.spotify.com/track/15BrZd5LE3KZcBFl57n6Ri) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [iCandy](https://open.spotify.com/album/2YKzK9SWgedjJX1CLjVv0T) | 2:25 | 2024-05-10 |  |
 | [Laguna](https://open.spotify.com/track/5DrHgtqk6tf0hbuc3i5tB9) | [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Laguna](https://open.spotify.com/album/1jLlM2l3XmCEpPTOAQIjuB) | 3:29 | 2023-09-05 | 2023-10-04 |
 | [Laguntasuna Bazen Apurtezina](https://open.spotify.com/track/0jPt3cjH4pYLkyaprxaUjK) | [Verde Prato](https://open.spotify.com/artist/04WGKyAt0klDPxUw2roFfi), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Erromantizismoa](https://open.spotify.com/album/40xCIowDBZm6WaYjuCKb9s) | 3:34 | 2024-03-05 | 2024-04-03 |
 | [LAMBO](https://open.spotify.com/track/60KWV9XgaaDro9JKyxqVUX) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [ENCORE](https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6) | 3:35 | 2024-03-05 | 2024-04-03 |
@@ -914,7 +915,7 @@
 | [Porque te vas](https://open.spotify.com/track/6cFMQ1bvDrcNQGQwz8X81Q) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Porque te vas](https://open.spotify.com/album/2nfeR1UqHzct47ZpN2OvDt) | 2:42 | 2023-11-07 | 2023-11-30 |
 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 | 2023-02-28 | 2023-04-05 |
 | [Postal barata](https://open.spotify.com/track/0N479lBYyXFdXFLxmIA5Zj) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Postal barata](https://open.spotify.com/album/0GmqbcfzupnEUquqaVlIcm) | 2:39 | 2023-07-04 | 2023-08-02 |
-| [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 | 2024-04-30 |  |
+| [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 | 2024-04-30 | 2024-05-11 |
 | [Primera Fila](https://open.spotify.com/track/1cCj2UdOn0DUHm2qRZLcRo) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Primera Fila](https://open.spotify.com/album/4iGChAl1ZibUAcPehqSQut) | 2:23 | 2024-01-09 | 2024-02-08 |
 | [Pringada](https://open.spotify.com/track/6N3ZnNsd7gFLH7NYVIeUqm) | [ISLA LAVANDA](https://open.spotify.com/artist/0wG6LKzEDT8CPb6ZyhDES9) | [Pringada](https://open.spotify.com/album/20vCgTHw33kvyWhAzQLyOA) | 2:52 | 2022-10-04 | 2022-11-09 |
 | [Prioridades](https://open.spotify.com/track/7om4w61v1Lh32aN9C5TXEC) | [Ambizius](https://open.spotify.com/artist/0p6FvgFSje7efWY5CPlopK) | [Prioridades](https://open.spotify.com/album/74Hk6zH14Ttkp6rLXThKDM) | 2:56 | 2022-11-08 | 2022-11-17 |

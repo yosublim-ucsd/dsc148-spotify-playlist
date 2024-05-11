@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,735 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,740 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -370,14 +370,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 360 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
 | 361 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 |
 | 362 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
-| 363 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
-| 364 | [One Nation Under Love \- Ukrainian Version](https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:59 |
+| 363 | [One Nation Under Love \- Ukrainian Version](https://open.spotify.com/track/5A5AzrXhsQyGPrsqz4rb1Q) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [ТРОЯНДИ](https://open.spotify.com/album/1FhzXPtyqJbf59X5vreUig) | 3:59 |
+| 364 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
 | 365 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 |
 | 366 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
 | 367 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
 | 368 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
-| 369 | [Central Park Serenade](https://open.spotify.com/track/0kWkx7ZASlFDwlOf0oelZg) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas In New York](https://open.spotify.com/album/5kxfHvomY2PCiPIvW9esZd) | 4:12 |
-| 370 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
+| 369 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
+| 370 | [Central Park Serenade](https://open.spotify.com/track/0kWkx7ZASlFDwlOf0oelZg) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas In New York](https://open.spotify.com/album/5kxfHvomY2PCiPIvW9esZd) | 4:12 |
 | 371 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 |
 | 372 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 |
 | 373 | [From Loving You](https://open.spotify.com/track/7bO7jSjgAmpEAQ7TpYWGwc) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Mandy Moore](https://open.spotify.com/album/5HcsWBlYBlkqVAmKl3ZM8k) | 3:32 |
@@ -456,8 +456,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 446 | [What If It Was You?](https://open.spotify.com/track/5osT7Os4ZzDAfvVC34hh3i) | [The 411](https://open.spotify.com/artist/0YtA5DdO2df8zIxpVdktqg) | [Between The Sheets](https://open.spotify.com/album/1Rhw85JG6ThsPLJoZmlUla) | 3:34 |
 | 447 | [Why Do We Hurt Each Other](https://open.spotify.com/track/5Fym0bTH1U8QysU2olEEEZ) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:59 |
 | 448 | [No Puedo Vivir \- I Don't Want To Live Without Your Love](https://open.spotify.com/track/2xzrLeRAQ7bpIhjx8mIHfM) | [Orlando](https://open.spotify.com/artist/4CFVwKkEV3fPV2hr6ISfPH) | [Sus Exitos](https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E) | 4:39 |
-| 449 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 |
-| 450 | [Old Motown Music \(Radio,Radio\)](https://open.spotify.com/track/6N8ESjbiYSdxSL9TFhTO4P) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Midnight Man](https://open.spotify.com/album/0Zw3wxwgIaVhfqmcC1E2MM) | 3:58 |
+| 449 | [Old Motown Music \(Radio,Radio\)](https://open.spotify.com/track/6N8ESjbiYSdxSL9TFhTO4P) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Midnight Man](https://open.spotify.com/album/0Zw3wxwgIaVhfqmcC1E2MM) | 3:58 |
+| 450 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 |
 | 451 | [You Didn't Have to Hurt Me](https://open.spotify.com/track/1z77YrxwQfYE9aW7e9qamI) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:04 |
 | 452 | [Bitches Gotta Get Paid](https://open.spotify.com/track/4CiUatiN7HTtqRb9LjmOQ0) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:33 |
 | 453 | [Love Found Me](https://open.spotify.com/track/3oz3Pj7rbhiFnZPak0GGyp) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:39 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbQ5ogAAAAD+cdXOYXJ+zcPhw+9Y3oGd`
+Snapshot ID: `AbQ/QgAAAACIZ62GIDYTxUjABr9Huvhu`

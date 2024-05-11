@@ -1,13 +1,137 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 21907,
+  "num_followers": 21955,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhQAAAAAAleSt4Pb7As9Q1uFSsG6Sg",
+  "snapshot_id": "Zj2bwAAAAADglQiGCcctVxNDe/lQnalv",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "CoComelon Lane, Vol. 2 (Songs From the Netflix Series)",
+        "url": "https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Great Day on CoComelon Lane - Songs From the Netflix Series",
+      "url": "https://open.spotify.com/track/26l8C2Awi4ECGIUk20EBMY"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 160340,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Songs From Caitie's Classroom, Vol. 4",
+        "url": "https://open.spotify.com/album/1MC2oc1Rumf0sSeegUGZvW"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "Over the Deep Blue Sea",
+      "url": "https://open.spotify.com/track/2VXz1S8wFArP5OuvyVhUEW"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Ariel (Theme Song) [From \"Disney Junior Music: Ariel\"]",
+        "url": "https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2"
+      },
+      "artists": [
+        {
+          "name": "Ariel - Cast",
+          "url": "https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 96560,
+      "name": "Ariel (Theme Song) - From \"Disney Junior Music: Ariel\"",
+      "url": "https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "I Can't Wiggle My Nose",
+        "url": "https://open.spotify.com/album/0fsbozwaokIQp7tVyJpL4P"
+      },
+      "artists": [
+        {
+          "name": "Judi Cranston",
+          "url": "https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B"
+        }
+      ],
+      "duration_ms": 96018,
+      "name": "I Can't Wiggle My Nose",
+      "url": "https://open.spotify.com/track/5bzNUisQ3etdJJwkptikIT"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Sunny Day (Come and Play With Me)",
+        "url": "https://open.spotify.com/album/4AFXU4JtA5uKIQn2CCPB8m"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "duration_ms": 146019,
+      "name": "Sunny Day (Come and Play With Me)",
+      "url": "https://open.spotify.com/track/73fEHe5tfU3aXBNQHjugOP"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Pineapple People",
+        "url": "https://open.spotify.com/album/2UCriQfncFhcz5jrgDCnLv"
+      },
+      "artists": [
+        {
+          "name": "The Vegetable Plot",
+          "url": "https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih"
+        }
+      ],
+      "duration_ms": 226817,
+      "name": "Pineapple People",
+      "url": "https://open.spotify.com/track/1l1KEQISk3IXWk1kbSmdvI"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {

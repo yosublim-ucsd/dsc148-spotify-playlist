@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-299 songs - 14 hr 30 min
+301 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 | 2023-04-09 |
 | [Celebrate](https://open.spotify.com/track/4kwL1llo15KnxK4SuX5Vrv) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Celebrate](https://open.spotify.com/album/5Na2qPre4PeDr7b9byYF7M) | 3:14 | 2023-07-03 |  |
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-21 | 2023-06-17 |
+| [Chance](https://open.spotify.com/track/6DL7uKksy8EONZ3eYKfsua) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Chance](https://open.spotify.com/album/5MKSoxil3WWzlkV7YeI8UB) | 2:00 | 2024-05-10 |  |
 | [Chase Me](https://open.spotify.com/track/7r1BShTewnDTXf64CZixQT) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chase Me](https://open.spotify.com/album/3BJXM7HyRTmBrTzl2zCkmt) | 2:56 | 2023-03-31 | 2023-05-27 |
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 | 2023-04-09 |
 | [Check This \(with Kuhlosul\) \- Leotrix Remix](https://open.spotify.com/track/4uc21oNVTZCDVihzjra8oM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 3:08 | 2023-07-31 | 2023-12-14 |
@@ -100,6 +101,7 @@
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 | 2022-12-10 |
 | [Fight \(Show Me Who You Are\)](https://open.spotify.com/track/64z1dWUjWiW0sRjsAhtNTD) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Fight \(Show Me Who You Are\)](https://open.spotify.com/album/1c6CkJzI9bVOH1RZyA9Snl) | 3:37 | 2023-11-22 |  |
 | [Find Me](https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [3DI](https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G) | [Find Me](https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB) | 3:09 | 2023-01-20 | 2023-04-09 |
+| [Foe Or Friend \(feat\. hanna ögonsten\)](https://open.spotify.com/track/3lsscWET0b3LXF4FqIq3mY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Foe Or Friend \(feat\. hanna ögonsten\)](https://open.spotify.com/album/5eHMgCpgUN4mQeGxdBrmH5) | 3:01 | 2024-05-10 |  |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 | 2022-09-29 |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 | 2022-10-22 |
 | [Free](https://open.spotify.com/track/1YEr0NvOiH8WIIq5Qn9sCu) | [Tr0n](https://open.spotify.com/artist/4T8bFrAntMjQU5ekr6tH4u), [Tadeusz](https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP) | [Free](https://open.spotify.com/album/56dgpvKJXrg1ymysmMP641) | 3:13 | 2024-05-07 |  |

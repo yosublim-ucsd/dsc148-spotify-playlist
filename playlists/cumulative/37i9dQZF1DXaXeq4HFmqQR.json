@@ -10355,6 +10355,24 @@
     },
     {
       "album": {
+        "name": "Mal Augurio",
+        "url": "https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176783,
+      "name": "No Pens\u00e9 Ni Busqu\u00e9",
+      "url": "https://open.spotify.com/track/2Yq6dSnNeGun9CS4kvzTrb"
+    },
+    {
+      "album": {
         "name": "El Mundo \u00cdndigo",
         "url": "https://open.spotify.com/album/7I69vjHTxy5jKMUiCXuPAV"
       },

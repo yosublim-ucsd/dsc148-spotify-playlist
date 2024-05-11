@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-266 songs - 13 hr 50 min
+267 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Groove District](https://open.spotify.com/track/7Kv0yPSr550uUxbAwAhH01) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Groove District](https://open.spotify.com/album/3eUt4sKIp5GiNSh6JyMN2s) | 3:06 | 2022-03-25 | 2022-07-29 |
 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 | 2021-12-03 | 2022-07-29 |
 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 | 2021-12-03 | 2022-04-19 |
+| [Hide Away \(Alan Walker Remix\)](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Hide Away \(Alan Walker Remix\)](https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N) | 2:17 | 2024-05-10 |  |
 | [Hide Away \(feat\. Holly\)](https://open.spotify.com/track/1uthrZMPfRZ1kNcij4wB1K) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Holly](https://open.spotify.com/artist/6givmM5g4kxQD36lUC2H4E) | [Super 8](https://open.spotify.com/album/3PAzkKA8BGbN95N1YKzBuB) | 2:55 | 2024-01-31 | 2024-03-02 |
 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2021-12-23 | 2022-07-29 |
 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 | 2023-01-20 | 2023-04-26 |
@@ -230,7 +231,7 @@
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2021-12-23 | 2022-07-29 |
 | [TABU.](https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [TABU.](https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom) | 2:15 | 2023-05-10 | 2023-11-29 |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2021-12-03 | 2024-01-27 |
-| [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 | 2024-03-29 |  |
+| [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 | 2024-03-29 | 2024-05-11 |
 | [TECHNO + TEQUILA](https://open.spotify.com/track/2gTdxzXSycGUJVgqbDouIh) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Morgan Harvill](https://open.spotify.com/artist/1rvXqFVZImWFWkuEoSwnud) | [TECHNO + TEQUILA](https://open.spotify.com/album/19neklOWap4kYaLlVQQTba) | 2:20 | 2022-04-08 | 2022-07-27 |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2023-12-12 |  |
 | [That's Right](https://open.spotify.com/track/7wMjPwTyW8jKKmeQJYz3Sd) | [DJ Boneyard](https://open.spotify.com/artist/45o0JPqChC8tWzUfbxODwp) | [House Crime Vol\. 3](https://open.spotify.com/album/4wciH7zW0gwk6qgE40iYky) | 5:00 | 2021-12-03 | 2022-04-18 |

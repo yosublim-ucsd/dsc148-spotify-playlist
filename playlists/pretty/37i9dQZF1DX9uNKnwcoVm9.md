@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,117 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,209 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 59 | [Gracias Señor](https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 5:23 |
 | 60 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
 | 61 | [Al Final](https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Yo Sin Ti](https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT) | 4:02 |
-| 62 | [Cree Solamente](https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Cree Solamente](https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ) | 4:38 |
+| 62 | [El Señor es mi pastor](https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/5ttRWWt0SfHgNaOX1q4aHn) | 4:18 |
 | 63 | [Me Dice Que Me Ama](https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:01 |
 | 64 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |
 | 65 | [Simplemente gracias](https://open.spotify.com/track/3mX92Hm0RAlPhRJguj21nU) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Simplemente gracias](https://open.spotify.com/album/6CoEobcBhXg11vEId2PcxM) | 5:25 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 69 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu) | 2:16 |
 | 70 | [Vengo a Adorate](https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 5:19 |
 | 71 | [Mi Universo](https://open.spotify.com/track/4tZccDFqoZp8IN7VUnsJ9K) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX) | 4:13 |
-| 72 | [El Señor es mi pastor](https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/5ttRWWt0SfHgNaOX1q4aHn) | 4:18 |
+| 72 | [Cree Solamente](https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Cree Solamente](https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ) | 4:38 |
 | 73 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/5gdyDRdeJCzV6gozjFMwq1) | 5:29 |
 | 74 | [Donde Tú Estás \(feat\. Rebeca Zamorano\)](https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Donde Tú Estás](https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar) | 8:54 |
 | 75 | [No Basta](https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Hoy Más Que Ayer](https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo) | 3:50 |

@@ -3301,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Yang",
+        "url": "https://open.spotify.com/album/0xSUOcJZHulje5JQzNHTCY"
+      },
+      "artists": [
+        {
+          "name": "Richard Henshall",
+          "url": "https://open.spotify.com/artist/66iP8O2dQRaGjVTr42vW0V"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285906,
+      "name": "Yang",
+      "url": "https://open.spotify.com/track/4Mjz3Aym3Xf2IL6vFpneI0"
+    },
+    {
+      "album": {
         "name": "Smart Phones Stupid People",
         "url": "https://open.spotify.com/album/3m1tlZd6OqthWhqoauH8nZ"
       },

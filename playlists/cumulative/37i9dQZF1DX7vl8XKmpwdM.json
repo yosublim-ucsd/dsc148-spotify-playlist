@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Adangaatha Asuran (From \"Raayan\")",
+        "url": "https://open.spotify.com/album/6gcIDhQn4z8318osjgVNME"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249027,
+      "name": "Adangaatha Asuran (From \"Raayan\")",
+      "url": "https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK"
+    },
+    {
+      "album": {
         "name": "Adheeraa (From \"Cobra\")",
         "url": "https://open.spotify.com/album/61DkChDkz3MoWGypHYVdCP"
       },

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Calm Breathing",
+        "url": "https://open.spotify.com/album/0iGVeaLw7UupfCTzeXvul9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Carter",
+          "url": "https://open.spotify.com/artist/7c8zAMsbkEZVGDiwloByHr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161815,
+      "name": "Calm Breathing",
+      "url": "https://open.spotify.com/track/2EaD0kOj17xfjIjukrta9x"
+    },
+    {
+      "album": {
         "name": "Calmative",
         "url": "https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y"
       },
@@ -1536,6 +1554,24 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "album": {
+        "name": "Feel The Zen",
+        "url": "https://open.spotify.com/album/13p3itqL005ij8fI6gmHug"
+      },
+      "artists": [
+        {
+          "name": "Massive Foam",
+          "url": "https://open.spotify.com/artist/7of7Q7two2tiZoRRC5Y8u8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139558,
+      "name": "Feel The Zen",
+      "url": "https://open.spotify.com/track/4qvfIAc3oz1wQYf8GbzaOX"
     },
     {
       "album": {
@@ -3232,6 +3268,24 @@
       "duration_ms": 176390,
       "name": "Reasons For Being",
       "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
+    },
+    {
+      "album": {
+        "name": "Reflective Soul",
+        "url": "https://open.spotify.com/album/0P0JfeM65KQwpxYzwCCXd0"
+      },
+      "artists": [
+        {
+          "name": "Chasing Storms",
+          "url": "https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208812,
+      "name": "Reflective Soul",
+      "url": "https://open.spotify.com/track/5QmzQQc8KDk2MlisuDVuHe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,160 likes - 40 songs - 2 hr 37 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,157 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 5 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 |
 | 6 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 |
 | 7 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 |
-| 8 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 |
-| 9 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 |
-| 10 | [Fugue In Twilight \- Instrumental](https://open.spotify.com/track/1svIcIypheKAWvubFYIuiG) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:24 |
-| 11 | [Memory Morning](https://open.spotify.com/track/4oCjGQqLI3EQ6yztfHl9Gt) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 5:08 |
-| 12 | [Mother Earth](https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:37 |
-| 13 | [Lilo](https://open.spotify.com/track/0ZTzCztdWzB6vlXrebWJzI) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Lilo](https://open.spotify.com/album/0oNtXBVJ5eoUcqA1Ovtu9Z) | 3:39 |
+| 8 | [The Last Phone Call](https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Imaginary Friend](https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb) | [Tides](https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC) | 2:23 |
+| 9 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 |
+| 10 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 |
+| 11 | [Fugue In Twilight \- Instrumental](https://open.spotify.com/track/1svIcIypheKAWvubFYIuiG) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:24 |
+| 12 | [Memory Morning](https://open.spotify.com/track/4oCjGQqLI3EQ6yztfHl9Gt) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 5:08 |
+| 13 | [Mother Earth](https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:37 |
 | 14 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 |
-| 15 | [The Last Phone Call](https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Imaginary Friend](https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb) | [Tides](https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC) | 2:23 |
+| 15 | [I'll Miss the System Here](https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three +](https://open.spotify.com/album/4pnU9CGKI2YneVwkqK6EIN) | 7:10 |
 | 16 | [I Am Nothing](https://open.spotify.com/track/4GjG2l1sMoRCIL6LK2rUga) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 3:25 |
 | 17 | [Mother Earth \- Instrumental](https://open.spotify.com/track/2XPGBr6hXHiZpr610ARsWK) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:34 |
 | 18 | [Loch Awe](https://open.spotify.com/track/4KB6FE20302vokalyCjdV5) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Acts Of Union EP](https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP) | 3:49 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 39 | [Across All Planes Of Existence](https://open.spotify.com/track/1peologOxo16hzZrKixC5J) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Acts Of Union EP](https://open.spotify.com/album/7FZYGumcnOKALGVWoNp2yP) | 2:12 |
 | 40 | [Butter Notes](https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Butter Notes](https://open.spotify.com/album/2AuBsO2tbYIpWzotLslVQy) | 5:21 |
 
-Snapshot ID: `AAAJ/TP9LYaoMBvPZ1mgnmtyVi3ui9uU`
+Snapshot ID: `AAAJ/1M0RsP1LtKiyi5hxncjRIbLy4Xq`

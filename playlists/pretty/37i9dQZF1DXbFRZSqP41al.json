@@ -1,6 +1,6 @@
 {
   "description": "Burn off all those beers from last night.",
-  "num_followers": 1403875,
+  "num_followers": 1403829,
   "original_name": "One More Rep",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-03 09:55:18",
       "album": {
+        "name": "Hello, It's Mz. Hyde",
+        "url": "https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "Love Bites (So Do I)",
+      "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
+    },
+    {
+      "added_at": "2024-01-03 09:55:18",
+      "album": {
         "name": "Hourglass (feat. Dani Winter-Bates)",
         "url": "https://open.spotify.com/album/1HB9v2MwL7oRqI4LTa89iw"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 301396,
       "name": "Hourglass (feat. Dani Winter-Bates)",
       "url": "https://open.spotify.com/track/7CrI4vI7wOk3ydMrmANGan"
-    },
-    {
-      "added_at": "2024-01-03 09:55:18",
-      "album": {
-        "name": "Hello, It's Mz. Hyde",
-        "url": "https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "Love Bites (So Do I)",
-      "url": "https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1"
     },
     {
       "added_at": "2024-01-03 09:55:18",

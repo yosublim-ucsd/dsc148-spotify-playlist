@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 115797,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 115923,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAAD3Yp+jn52b0PxhX2yp7fT",
+  "snapshot_id": "ZjwSAAAAAACfSv1oSZybvc/6a7ZrVIpa",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fea",
-        "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho 43",
         "url": "https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 227860,
       "name": "El Pocho 43",
       "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fea",
+        "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 245035,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 255132,
-      "name": "Jimmy Neutron",
-      "url": "https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/2YkTzUogP6QEy3epG8yzfH"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 219147,
       "name": "El 3",
       "url": "https://open.spotify.com/track/3cLASsB33EdcHmUsIcyC0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 255132,
+      "name": "Jimmy Neutron",
+      "url": "https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr"
     },
     {
       "added_at": null,

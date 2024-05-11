@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Morodo",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 161500,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1pOkTI9iJhjwS7PVkPtEUW"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 189479,
       "name": "Dame M\u00e1s",
       "url": "https://open.spotify.com/track/3SooGoACmXF08KGHA6vDv1"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 264183,
       "name": "Dela",
       "url": "https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 292552,
       "name": "Lenguas de Signos (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 217717,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
@@ -3743,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
+    },
+    {
+      "album": {
         "name": "Loosen Up",
         "url": "https://open.spotify.com/album/2kSn2CgutBlhxylrKuBNzc"
       },
@@ -3848,6 +3870,36 @@
       "duration_ms": 238986,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        },
+        {
+          "name": "Dean Fraser",
+          "url": "https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266279,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
     },
     {
       "album": {
@@ -4285,6 +4337,32 @@
     },
     {
       "album": {
+        "name": "Mil Noches en Vela",
+        "url": "https://open.spotify.com/album/23l5sVAJJZzFkv1FgscGCy"
+      },
+      "artists": [
+        {
+          "name": "Accion Sanchez",
+          "url": "https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs"
+        },
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        },
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Mil Noches en Vela",
+      "url": "https://open.spotify.com/track/2fRP313b0kxKzDGtfC37yW"
+    },
+    {
+      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3"
       },
@@ -4549,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "No Fu\u00ed Tu Maestro",
+        "url": "https://open.spotify.com/album/61j6BJdMGTF8DUOLhUMaJA"
+      },
+      "artists": [
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "No Fu\u00ed Tu Maestro",
+      "url": "https://open.spotify.com/track/4m9tGI5WmzIjlGmu6j4HxB"
+    },
+    {
+      "album": {
         "name": "No Insistas",
         "url": "https://open.spotify.com/album/6cStDaBPLOF6xgcGemDM7E"
       },
@@ -4670,7 +4770,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 252005,
       "name": "No Way",
       "url": "https://open.spotify.com/track/3Gu6d8KKzdbXaUikNB2hIl"
@@ -4706,7 +4806,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192044,
       "name": "Nuestra religi\u00f3n",
       "url": "https://open.spotify.com/track/3uYDHicBwfxpVpbVm5BGLZ"
@@ -4728,6 +4828,28 @@
       "duration_ms": 184309,
       "name": "Oh mama Oh papa 2k23",
       "url": "https://open.spotify.com/track/2xHCTb29ckLte6X1nSgrTP"
+    },
+    {
+      "album": {
+        "name": "Olor a Caf\u00e9",
+        "url": "https://open.spotify.com/album/220c55Iv1KN8TjLQGbdir9"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213835,
+      "name": "Olor a Caf\u00e9",
+      "url": "https://open.spotify.com/track/0xFl4mBckGs5lJhaYArtCZ"
     },
     {
       "album": {
@@ -5308,7 +5430,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184864,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/6kkizP05NXRVKaEjkFbPBi"
@@ -5881,6 +6003,28 @@
     },
     {
       "album": {
+        "name": "Soy d\u00e9bil Sr.",
+        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Soy d\u00e9bil Sr.",
+      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
+    },
+    {
+      "album": {
         "name": "Soy Latino",
         "url": "https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN"
       },
@@ -5900,6 +6044,28 @@
       "duration_ms": 233467,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n"
+    },
+    {
+      "album": {
+        "name": "Soy Salvo",
+        "url": "https://open.spotify.com/album/7Da9rVyMHdEeqp5D1jAv54"
+      },
+      "artists": [
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186812,
+      "name": "Soy Salvo",
+      "url": "https://open.spotify.com/track/5BWIJEni18Z66S4CZ1ftqw"
     },
     {
       "album": {
@@ -6028,6 +6194,32 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "album": {
+        "name": "Te Prefiero",
+        "url": "https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182384,
+      "name": "Te Prefiero",
+      "url": "https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n"
     },
     {
       "album": {
@@ -6485,6 +6677,28 @@
     },
     {
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "album": {
         "name": "Golden Riddim",
         "url": "https://open.spotify.com/album/5FmuqIORFTIrgMSXOJLrIu"
       },
@@ -6522,7 +6736,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 221123,
       "name": "Vale La Pena",
       "url": "https://open.spotify.com/track/1aYQufEp0KL9NAkz6S6W8q"
@@ -6736,7 +6950,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 221240,
       "name": "Vueltas (feat. Pure Negga)",
       "url": "https://open.spotify.com/track/2JzU1TFL91aJFyCfrEMQND"
@@ -6950,7 +7164,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213000,
       "name": "\u00bfQMH?",
       "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"

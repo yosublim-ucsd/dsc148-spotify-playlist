@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: 4batz
+> Where R&B lives\. Cover: Normani
 
 456 songs - 1 day 1 hr 41 min
 

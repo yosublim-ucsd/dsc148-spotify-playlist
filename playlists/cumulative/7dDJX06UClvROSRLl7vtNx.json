@@ -1413,6 +1413,32 @@
     },
     {
       "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/0c1bUN4b8uF8fTcHB7lzKi"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Donna Senders",
+          "url": "https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P"
+        },
+        {
+          "name": "Cal1",
+          "url": "https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176705,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz"
       },

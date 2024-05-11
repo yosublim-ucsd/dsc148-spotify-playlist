@@ -13178,7 +13178,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -13196,7 +13196,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 215400,
       "name": "Gata Only (Mashup)",
       "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
@@ -19999,6 +19999,24 @@
     },
     {
       "album": {
+        "name": "LUCIA (STAY WITH ME)",
+        "url": "https://open.spotify.com/album/2WgFP0w2qFvkJJUfhFhDKS"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186274,
+      "name": "LUCIA (STAY WITH ME)",
+      "url": "https://open.spotify.com/track/21NYfIzdx54csIcKIYHKaW"
+    },
+    {
+      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -24370,7 +24388,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177637,
       "name": "No Drama (feat. Mahmood)",
       "url": "https://open.spotify.com/track/18nFs7h8Jhn1SZ0pL6t2cG"

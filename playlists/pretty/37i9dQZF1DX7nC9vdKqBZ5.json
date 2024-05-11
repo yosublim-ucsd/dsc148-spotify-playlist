@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512286,
+  "num_followers": 1512300,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "N\u00e3o Vai Embora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 227415,
       "name": "N\u00e3o Vai Embora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 174706,
       "name": "Rei do Luau - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "O Sol",
         "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 142857,
       "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
       },
       "artists": [
         {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 228470,
-      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-03-18 13:00:14",

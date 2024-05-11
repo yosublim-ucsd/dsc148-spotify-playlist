@@ -1,12 +1,12 @@
 {
   "description": "giza desert rave",
-  "num_followers": 270141,
+  "num_followers": 270536,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjSiHgAAAACYwhbCKXWEir11ya/7wFQ8",
+  "snapshot_id": "Zj3hJAAAAADK2pNLxzQLQsQP1exHqg0Z",
   "tracks": [
     {
       "added_at": "2024-05-02 22:00:00",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/5JGDu1UaCRa0BUfvpCxKnq"
     },
     {
+      "added_at": "2024-05-10 08:56:04",
+      "album": {
+        "name": "The Drill",
+        "url": "https://open.spotify.com/album/7vnEp4Tb1J1c8fXZLN13QZ"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "The Drill",
+      "url": "https://open.spotify.com/track/0Y6P6oy3EqBPEbox8BZAW8"
+    },
+    {
       "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "Addiction",
@@ -229,24 +245,20 @@
       "url": "https://open.spotify.com/track/4gr6TZahYErlvSDYmyuteG"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
+      "added_at": "2024-05-10 08:56:04",
       "album": {
-        "name": "Simple Times",
-        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
+        "name": "If U Like Me",
+        "url": "https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm"
       },
       "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
         {
           "name": "DJ Seinfeld",
           "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 254314,
-      "name": "Simple Times",
-      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
+      "duration_ms": 152679,
+      "name": "If U Like Me - Edit",
+      "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -283,6 +295,46 @@
       "duration_ms": 213216,
       "name": "OFF THE HOOK - NYC EDIT",
       "url": "https://open.spotify.com/track/5YB1bwuhCoQMURJ6lZgtQy"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Simple Times",
+        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 254314,
+      "name": "Simple Times",
+      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
+    },
+    {
+      "added_at": "2024-05-10 08:56:04",
+      "album": {
+        "name": "FUKINASTY / Look, Alright",
+        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 177923,
+      "name": "FUKINASTY",
+      "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -473,6 +525,26 @@
       "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
     },
     {
+      "added_at": "2024-05-10 08:56:04",
+      "album": {
+        "name": "Wanene",
+        "url": "https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "duration_ms": 213780,
+      "name": "Wanene",
+      "url": "https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ"
+    },
+    {
       "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "We Groovin (with Jazzy) [Sparrow & Barbossa Remix]",
@@ -495,6 +567,26 @@
       "duration_ms": 314146,
       "name": "We Groovin (with Jazzy) - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6w3v8zxaZpqN0kWE9Tv6YA"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Temperatura",
+        "url": "https://open.spotify.com/album/4m5ZmkdolKY6oH5R1s4gjS"
+      },
+      "artists": [
+        {
+          "name": "Andor Gabriel",
+          "url": "https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc"
+        },
+        {
+          "name": "Jerome Sydor",
+          "url": "https://open.spotify.com/artist/0E3HjlGFMLxIpuhUfcG2lB"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Temperatura",
+      "url": "https://open.spotify.com/track/6NAvV0Ckzf27Z2txhvuDDH"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -539,6 +631,30 @@
       "duration_ms": 275409,
       "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
       "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
+    },
+    {
+      "added_at": "2024-05-10 08:56:04",
+      "album": {
+        "name": "You're Not Alone (&friends Remix)",
+        "url": "https://open.spotify.com/album/408ze7ltxYWeijnKiCA4UF"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "You're Not Alone - &friends Remix",
+      "url": "https://open.spotify.com/track/2CPcg83Sp5JHUAOH2jhV7R"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -957,6 +1073,26 @@
       "url": "https://open.spotify.com/track/2zDCtQ3sZitfqKye2NTOlu"
     },
     {
+      "added_at": "2024-05-10 08:56:04",
+      "album": {
+        "name": "Luxuria",
+        "url": "https://open.spotify.com/album/6xsExvFpA0mUPkCVwMzZnt"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Kofla",
+          "url": "https://open.spotify.com/artist/3uvuXrgd8H5Gwnubvtm0sk"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Luxuria",
+      "url": "https://open.spotify.com/track/6Al9020pmaFkl8ume3PWId"
+    },
+    {
       "added_at": "2024-05-02 22:00:00",
       "album": {
         "name": "ROOM IS ON FIRE (feat. AG Club)",
@@ -1023,26 +1159,6 @@
       "duration_ms": 383606,
       "name": "Dakar - Extended mix",
       "url": "https://open.spotify.com/track/19Zay2GOA8Ebe9cuinWfNJ"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Temperatura",
-        "url": "https://open.spotify.com/album/4m5ZmkdolKY6oH5R1s4gjS"
-      },
-      "artists": [
-        {
-          "name": "Andor Gabriel",
-          "url": "https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc"
-        },
-        {
-          "name": "Jerome Sydor",
-          "url": "https://open.spotify.com/artist/0E3HjlGFMLxIpuhUfcG2lB"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Temperatura",
-      "url": "https://open.spotify.com/track/6NAvV0Ckzf27Z2txhvuDDH"
     },
     {
       "added_at": "2024-05-02 22:00:00",

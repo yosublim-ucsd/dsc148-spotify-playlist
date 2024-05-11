@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 81427,
       "name": "'Til I Can't No More",
       "url": "https://open.spotify.com/track/2Jx8oYox7tFpsUuuG4Fi9G"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166400,
       "name": "ABC",
       "url": "https://open.spotify.com/track/0gfD6UrxQWeGYleE2f3072"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 112631,
       "name": "Ain't Bout Nun",
       "url": "https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195267,
       "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 139008,
       "name": "ATL Freestyle",
       "url": "https://open.spotify.com/track/57YTz6wLTV3c6bXFI8nwAh"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 173871,
       "name": "Barely Holdin' On",
       "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 123575,
       "name": "Big Pimpin' (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175714,
       "name": "Birds (with 6LACK) - Remix",
       "url": "https://open.spotify.com/track/5dXJizgpTzgmquUE9Gny6W"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 193877,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/3Yr3f3mLO37FZm3EtQpKSe"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166464,
       "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
       "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 200999,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7qYcVFxZEXuZQgtzaOHnEZ"
@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "CLEAR VISION",
+        "url": "https://open.spotify.com/album/6qPOdvkgjK8Lm4xbWxBJKS"
+      },
+      "artists": [
+        {
+          "name": "Poundside Pop",
+          "url": "https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "DO WHAT I LIKE (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/2wPdKX8Ad35COS40T3g903"
+    },
+    {
+      "album": {
         "name": "DO YOU LOVE ME ?",
         "url": "https://open.spotify.com/album/3gHC5t0c5fe3M0yaYzq97p"
       },
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 163883,
       "name": "DO YOU LOVE ME ?",
       "url": "https://open.spotify.com/track/3oJfFfgn7N9mPxi0D403sB"
@@ -3066,7 +3088,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198000,
       "name": "F*ck U Thought",
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
@@ -3234,7 +3256,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156800,
       "name": "figureD ouT",
       "url": "https://open.spotify.com/track/5cjOANMzawR0lAnpmKsx7h"
@@ -3456,7 +3478,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 130794,
       "name": "GBG (feat. Marshmello)",
       "url": "https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk"
@@ -3624,7 +3646,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 141176,
       "name": "Gone On Tour",
       "url": "https://open.spotify.com/track/36ZAeH9kyuXHYGqzYKRqiB"
@@ -3660,7 +3682,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156292,
       "name": "Got The Drop Pt. 2",
       "url": "https://open.spotify.com/track/4chYQl7cbFXfAMspilkfio"
@@ -4044,7 +4066,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152380,
       "name": "I <3 My N***a",
       "url": "https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci"
@@ -4088,7 +4110,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 148362,
       "name": "I Gotta (feat. 2tonetwinss)",
       "url": "https://open.spotify.com/track/7MZQZyoXjXZkKlGyQB5dph"
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 143108,
       "name": "maserati slick",
       "url": "https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS"
@@ -5622,7 +5644,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 138345,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/2J3XiLFW6yiqoKpOukbbpR"
@@ -6605,6 +6627,32 @@
     },
     {
       "album": {
+        "name": "Sick of Myself",
+        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223045,
+      "name": "One in the Head",
+      "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
+    },
+    {
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/6Qvwo68BuUMDo0OTQGPLiX"
       },
@@ -7178,7 +7226,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 191818,
       "name": "Pup (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et"
@@ -7502,7 +7550,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 204045,
       "name": "Ride Wit Em",
       "url": "https://open.spotify.com/track/2168f2VqyFGDlmJxBptkSU"
@@ -7784,7 +7832,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 173161,
       "name": "Scared Money (feat. Kevin Durant)",
       "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
@@ -8656,7 +8704,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 192823,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/20PDyFm8UqZwrHvjHVinVp"
@@ -8710,7 +8758,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 133568,
       "name": "The Streets",
       "url": "https://open.spotify.com/track/7cnQmXz45dfMEwISAIbXLa"
@@ -8798,7 +8846,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198549,
       "name": "This Lil' Game We Play (feat. Nelly, Ashanti & Juicy J)",
       "url": "https://open.spotify.com/track/6zlFFshL0ufuxbolvx7TmI"
@@ -8994,7 +9042,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166529,
       "name": "Truth Is Freestyle",
       "url": "https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk"
@@ -9070,7 +9118,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 136179,
       "name": "Uh Huh (feat. Icandy)",
       "url": "https://open.spotify.com/track/334duqyZaaVBsVASxhCyKX"
@@ -9204,7 +9252,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 100240,
       "name": "Vegetarian",
       "url": "https://open.spotify.com/track/41RKlnFgfpJ5DHnxjJ4oBj"
@@ -9264,7 +9312,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171381,
       "name": "War Boat (feat. Najeeriii)",
       "url": "https://open.spotify.com/track/0DNWjkqGjTQXMZGqULsrTX"
@@ -9304,7 +9352,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 131567,
       "name": "War With Us",
       "url": "https://open.spotify.com/track/4yqbXfFPJmxpTZkxYHMUUi"
@@ -9428,7 +9476,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 155675,
       "name": "weekend",
       "url": "https://open.spotify.com/track/4uBrX2f80YyvgwoIPnDMVP"
@@ -9820,7 +9868,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177495,
       "name": "You Gon Hurt Me",
       "url": "https://open.spotify.com/track/4HQbVwocOhSsNeSEBArinQ"
@@ -9882,7 +9930,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 182267,
       "name": "YUPP! (feat. Remy Ma)",
       "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"

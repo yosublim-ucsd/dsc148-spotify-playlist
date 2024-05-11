@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u5b6b\u76db\u5e0c (Shi Shi)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u66fe\u570b\u5b8f (Tseng Kuo Hung)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Come back to me",
+        "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "Come back to me",
+      "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
+    },
+    {
+      "album": {
         "name": "Confessions Of A Baddie",
         "url": "https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 168500,
       "name": "don't stop",
       "url": "https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04"
@@ -544,6 +562,24 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "album": {
+        "name": "Drunk Robot",
+        "url": "https://open.spotify.com/album/2AunDWNxmLGruN4PF9aD7z"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312387,
+      "name": "Drunk Robot",
+      "url": "https://open.spotify.com/track/5GhLzR4jwHgqPXk4Vouet1"
     },
     {
       "album": {
@@ -1723,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Hotel La Rut (\u7834\u721b\u9152\u5e97)",
+        "url": "https://open.spotify.com/album/4KwldT3zrx1PGvblleu7wp"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126173,
+      "name": "She Had a Habit of Meeting All of the Artists Backstage (\u5979\u6709\u4e00\u500b\u7fd2\u6163\u5728\u5f8c\u53f0\u8ddf\u85dd\u4eba\u898b\u9762)",
+      "url": "https://open.spotify.com/track/48cagymTknEzHyXOjVc6dv"
+    },
+    {
+      "album": {
         "name": "Side2Side (feat. Kris Kiss)",
         "url": "https://open.spotify.com/album/0XkB0bCvalhDWuiG5Cqdnr"
       },
@@ -1818,7 +1872,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 144871,
       "name": "Spring Summer Autumn (Winter - I Mean Us Remix",
       "url": "https://open.spotify.com/track/3QUmuOHWeHVExgkqT26Ogf"
@@ -1884,6 +1938,28 @@
       "duration_ms": 145794,
       "name": "SUGAR BABY",
       "url": "https://open.spotify.com/track/5GvmJngfjnUsCT8CpN75rA"
+    },
+    {
+      "album": {
+        "name": "Sugar Cover",
+        "url": "https://open.spotify.com/album/4qUQkRq3KGnfAXWWNISWLq"
+      },
+      "artists": [
+        {
+          "name": "DrunkMonk \u649e\u514b\u832b\u5ba2",
+          "url": "https://open.spotify.com/artist/2o6IlfKpVWK4eZivj0yZUX"
+        },
+        {
+          "name": "\u7f8a\u99dd\u5c0f\u59d0",
+          "url": "https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Sugar Cover",
+      "url": "https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK"
     },
     {
       "album": {
@@ -2304,7 +2380,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 272083,
       "name": "You Better Kiss Me ( feat.LINION )",
       "url": "https://open.spotify.com/track/4vw5HnGzn2eRiciecr3xxd"
@@ -2788,7 +2864,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 271316,
       "name": "\u91cb\u8fe6 - Live Session",
       "url": "https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE"

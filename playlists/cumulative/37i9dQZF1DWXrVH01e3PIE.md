@@ -4,7 +4,7 @@
 
 > Rei en la casa del Trap Argentino.
 
-281 songs - 13 hr 36 min
+282 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Almanaque](https://open.spotify.com/track/5N5E4FH3cNaRV23HvmYNEe) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Almanaque](https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l) | 3:20 | 2022-12-09 | 2023-09-16 |
 | [Alto Voltaje](https://open.spotify.com/track/7x5QrpNYXlOayjApxxR6Lu) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [Alto Voltaje](https://open.spotify.com/album/7CEVp0O8OPR5dtJCdbopyX) | 2:53 | 2023-10-13 |  |
 | [Amor de Rola](https://open.spotify.com/track/6EbwRtuD4kjwvYbz40TPJr) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Amor de Rola](https://open.spotify.com/album/75PRnhJgB0T97jgUp5gn4I) | 3:43 | 2023-02-17 | 2023-06-24 |
-| [ANGELITO \(feat\. Duki\)](https://open.spotify.com/track/3ZBVYxy3XK4IVUlcoq3suZ) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 2:49 | 2022-01-21 |  |
+| [ANGELITO \(feat\. Duki\)](https://open.spotify.com/track/3ZBVYxy3XK4IVUlcoq3suZ) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 2:49 | 2022-01-21 | 2024-05-11 |
 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 | 2022-01-21 | 2022-06-18 |
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-04 |  |
 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 |  |
@@ -59,6 +59,7 @@
 | [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 | 2023-10-28 |
 | [Corta](https://open.spotify.com/track/2Eien2rGtpBP8z8kBZszmZ) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Andrés Da Mommio](https://open.spotify.com/artist/39EpNL9a9HRBI9ffgOyVXe) | [Corta](https://open.spotify.com/album/5sx95OKsbaJiqeC1YOtDJr) | 2:56 | 2022-01-21 | 2022-07-06 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 | 2022-07-21 |
+| [Cuadondo](https://open.spotify.com/track/52CeYxJMjRbSYiFFdfqxz5) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Cuadondo](https://open.spotify.com/album/3bXhT2fZPRLeDCgyszj5Ab) | 2:15 | 2024-05-10 |  |
 | [Cuantas Veces Ma'](https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Cuantas Veces Ma'](https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5) | 2:04 | 2022-05-20 | 2022-06-18 |
 | [Cuenta de Banco](https://open.spotify.com/track/2RlUm2pD3qwO9rkXM4PQKF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 2:50 | 2022-01-21 | 2022-04-16 |
 | [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 | 2024-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,805 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,823 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 59 | [Perdon](https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Perdon](https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u) | 3:13 |
 | 60 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 |
 
-Snapshot ID: `ZismwAAAAABIw1hNsCgI2ecL4IovD7tX`
+Snapshot ID: `Zj2bwAAAAAAOMYTejZzqHh0Ay1pFO7ZY`

@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 51913,
+  "num_followers": 51880,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Love in TV World",
         "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 188573,
       "name": "Why",
       "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "A song from the past",
+        "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "A song from the past",
+      "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 218880,
       "name": "Elastic Love",
       "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "A song from the past",
-        "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        },
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "A song from the past",
-      "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -695,38 +695,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -743,6 +711,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "What's Your Number? - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+      },
+      "artists": [
+        {
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        }
+      ],
+      "duration_ms": 240970,
+      "name": "What's Your Number?",
+      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
       },
@@ -1319,18 +1335,26 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "What's Your Number? - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
       "artists": [
         {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+          "name": "Aliven",
+          "url": "https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E"
+        },
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB"
         }
       ],
-      "duration_ms": 240970,
-      "name": "What's Your Number?",
-      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
+      "duration_ms": 278226,
+      "name": "Forget You (Feat. Rainbow note, Louie)",
+      "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1367,30 +1391,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
-      },
-      "artists": [
-        {
-          "name": "Aliven",
-          "url": "https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E"
-        },
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        },
-        {
-          "name": "Louie",
-          "url": "https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Forget You (Feat. Rainbow note, Louie)",
-      "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "My Universe - Home Recording Project #4",
         "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Our love like tonight",
-        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
-      },
-      "artists": [
-        {
-          "name": "SOOIN",
-          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "Our love like tonight",
-      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "City",
         "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 162709,
       "name": "City",
       "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Our love like tonight",
+        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
+      },
+      "artists": [
+        {
+          "name": "SOOIN",
+          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "Our love like tonight",
+      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 252208,
+      "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
+      "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "INCHEON CITYPOP Vol. 1",
         "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 179393,
       "name": "Passing Light",
       "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 252208,
-      "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
-      "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
     },
     {
       "added_at": "2024-04-19 06:17:12",

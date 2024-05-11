@@ -3735,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Stylo Dahbi",
+        "url": "https://open.spotify.com/album/3GVXKwAO4uct6zUOitRPEN"
+      },
+      "artists": [
+        {
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180425,
+      "name": "Stylo Dahbi",
+      "url": "https://open.spotify.com/track/0RvgOvbCAgQIpD4jhqHxVO"
+    },
+    {
+      "album": {
         "name": "Sucr\u00e9 Sal\u00e9",
         "url": "https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS"
       },

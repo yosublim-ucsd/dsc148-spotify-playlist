@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1291970,
+  "num_followers": 1292196,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "GO CRAZY",
-        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "GO CRAZY",
-      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Epic Sax Song",
         "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 176212,
       "name": "Epic Sax Song",
       "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "GO CRAZY",
+        "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "GO CRAZY",
+      "url": "https://open.spotify.com/track/4lj6c7zEcP6M03gjnybbzj"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Return Of The Return",
-        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Return Of The Return",
-      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 192000,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Return Of The Return",
+        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Return Of The Return",
+      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1595,66 +1595,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Ode To My Body",
-        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Ode To My Body",
-      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/2ne3g0bzIJTOrfEmi1pbB6"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "SHWAY",
-          "url": "https://open.spotify.com/artist/7ftmzL1fCW5daFyxl86nDN"
-        }
-      ],
-      "duration_ms": 200292,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4j88dqy9AY39QhuRJir7xv"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
       },
@@ -1679,6 +1619,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2ne3g0bzIJTOrfEmi1pbB6"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "SHWAY",
+          "url": "https://open.spotify.com/artist/7ftmzL1fCW5daFyxl86nDN"
+        }
+      ],
+      "duration_ms": 200292,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4j88dqy9AY39QhuRJir7xv"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
       },
@@ -1695,6 +1655,46 @@
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Ode To My Body",
+        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Ode To My Body",
+      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2263,30 +2263,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Cambodia (Denox Remix)",
-        "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
-      },
-      "artists": [
-        {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
-        },
-        {
-          "name": "FSDW",
-          "url": "https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw"
-        },
-        {
-          "name": "Denox",
-          "url": "https://open.spotify.com/artist/6FAQqsLCyQZQBKiOSB4Zch"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cambodia - Denox Remix",
-      "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
@@ -2323,6 +2299,30 @@
       "duration_ms": 176051,
       "name": "DYSYLM",
       "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Cambodia (Denox Remix)",
+        "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "FSDW",
+          "url": "https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw"
+        },
+        {
+          "name": "Denox",
+          "url": "https://open.spotify.com/artist/6FAQqsLCyQZQBKiOSB4Zch"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cambodia - Denox Remix",
+      "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2515,26 +2515,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 208383,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Turn The Tide Revisited",
         "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
       },
@@ -2555,26 +2535,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
         },
         {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
         }
       ],
-      "duration_ms": 289548,
-      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
-      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
+      "duration_ms": 208383,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2611,6 +2587,30 @@
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+        "url": "https://open.spotify.com/album/43KEFFfgdiQnh3m1luX5gR"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 289548,
+      "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
+      "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2791,26 +2791,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Rave Now",
         "url": "https://open.spotify.com/album/3N0G0lU2lO3t4cX5oekKNA"
       },
@@ -2831,6 +2811,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/6IR0IsypKtxWm2UKyFXimX"
       },
@@ -2847,30 +2847,6 @@
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Magnetism",
-        "url": "https://open.spotify.com/album/35crPsrfykbZJQWYqQOFQo"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Magnetism",
-      "url": "https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2935,6 +2911,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Techno Syndrome (Mortal Kombat)",
+      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Morgenlicht",
         "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
       },
@@ -2959,22 +2955,46 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Techno Syndrome (Mortal Kombat)",
-        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
+        "name": "Magnetism",
+        "url": "https://open.spotify.com/album/35crPsrfykbZJQWYqQOFQo"
       },
       "artists": [
         {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         },
         {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Techno Syndrome (Mortal Kombat)",
-      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
+      "duration_ms": 235500,
+      "name": "Magnetism",
+      "url": "https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2999,26 +3019,6 @@
       "duration_ms": 197471,
       "name": "Adrenaline Overload",
       "url": "https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2024-04-18 18:52:36",

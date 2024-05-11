@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29612,
+  "num_followers": 29620,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOlXilG4loKo0QegcR+pvrQHnBD+fk",
+  "snapshot_id": "AAAOmHX7bCH5vk038pAe2Yy5LtaYD509",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-05-10 11:23:39",
+      "album": {
+        "name": "I AM JORDAN",
+        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 277491,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
     },
     {
       "added_at": "2024-05-09 16:14:32",
@@ -755,30 +775,6 @@
       "duration_ms": 186987,
       "name": "cyber meat",
       "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
-    },
-    {
-      "added_at": "2023-12-19 12:31:30",
-      "album": {
-        "name": "DJ Friendly (Chlo\u00e9 Robinson + DJ ADHD Remix)",
-        "url": "https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        },
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        }
-      ],
-      "duration_ms": 311824,
-      "name": "DJ Friendly - Chlo\u00e9 Robinson + DJ ADHD Remix",
-      "url": "https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

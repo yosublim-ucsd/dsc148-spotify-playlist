@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Mariano Mellino
 
-163 songs - 16 hr 49 min
+164 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fake Reflected](https://open.spotify.com/track/2SxYWDmLEWVyR7yTJt0GFG) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Roto y Oxidado EP.](https://open.spotify.com/album/0CCltLVZP7XSul3NtUrM8P) | 4:52 | 2024-01-05 |  |
 | [Falling Down](https://open.spotify.com/track/2FWJrwpwtUQUG6vT2mi9Cf) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Falling Down EP](https://open.spotify.com/album/7kiNRVQrP22zuJOf6I3N81) | 4:08 | 2024-02-02 |  |
 | [Fantom \- Heaven INC\. Remix](https://open.spotify.com/track/4UP3V37qNvfHKs8CVnQuP6) | [Tali Muss](https://open.spotify.com/artist/7nN9lArKMYDqZDX8YBM4oJ), [Mayro](https://open.spotify.com/artist/291rTuAllKQRkUBvkM7dFY), [Heaven INC.](https://open.spotify.com/artist/5zFGpcBZnnNSe3ej6e2LVD) | [Fantom \[The Remixes\]](https://open.spotify.com/album/42B4WBtlsb0yuyUne35xQL) | 6:59 | 2023-11-17 |  |
+| [Feeling](https://open.spotify.com/track/0OmnuOw09ZmmsQCv6kty4F) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Gio Santi](https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA) | [Feeling](https://open.spotify.com/album/1F45iXmDaRrxWnTf38rEDW) | 6:19 | 2024-05-10 |  |
 | [Fem Up](https://open.spotify.com/track/70NRqUiwH12vHtQd7TZWgp) | [Nicolas Buccafusca](https://open.spotify.com/artist/72VS5a1a3ReXYh7EPiEZPc), [Julian Rocchi](https://open.spotify.com/artist/2PKhyWF1kMugS2qL9WdMix) | [Two Stories About A Lie](https://open.spotify.com/album/4mjhi9ClXEV7pJkiyMUrPz) | 6:13 | 2020-09-04 | 2023-11-18 |
 | [Ficción](https://open.spotify.com/track/6Vqv48LyHymrUyS2va4HWs) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [UNO](https://open.spotify.com/album/3p7sp4AYbFmfzBdiyJcsqY) | 3:21 | 2023-11-17 |  |
 | [Freebird \- Emi Galvan Remix](https://open.spotify.com/track/657T8RyBAOE47nqlSvJTZf) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Nick Warren Remixed](https://open.spotify.com/album/0a7VzfLfHiHWRHfZqiTfMQ) | 8:54 | 2023-11-17 |  |
@@ -151,7 +152,7 @@
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm) | 8:57 | 2020-09-04 | 2022-07-29 |
 | [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 |  |
 | [Tantanbo \- Mauro Augugliaro Remix](https://open.spotify.com/track/0vPcPZjbwh7kUvaTTu23ir) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Mauro Augugliaro](https://open.spotify.com/artist/3csrOIvyyUQ6oZCbeublbj) | [Tantanbo \(Mauro Augugliaro Remix\)](https://open.spotify.com/album/3eMuIBpHfCAHsE1NFcAyKt) | 7:38 | 2024-01-19 |  |
-| [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 | 2023-11-17 |  |
+| [Tarantula](https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Lopezhouse](https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Tarantula](https://open.spotify.com/album/1K7W4NvEi6RNvNfCNDnKTt) | 6:20 | 2023-11-17 | 2024-05-11 |
 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 | 2024-02-02 |  |
 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 | 2020-09-04 | 2023-11-18 |
 | [Time Is An Illusion](https://open.spotify.com/track/0jj1tCb1DCGsKsYmf8zFNS) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Time Is An Illusion EP](https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj) | 7:29 | 2020-09-04 | 2023-11-18 |

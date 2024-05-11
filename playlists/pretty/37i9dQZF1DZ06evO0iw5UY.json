@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27013,
+  "num_followers": 27016,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAB/d2acGIooQnIZil8BHid6",
+  "snapshot_id": "ZjwSAAAAAACSoB5GJABUbeGk6n+7vFYY",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise & Fall",
-        "url": "https://open.spotify.com/album/5xkfX4DNx7hZYrGy8H1YUJ"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 361875,
-      "name": "Rise & Fall",
-      "url": "https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -691,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere to Run",
-        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
       "artists": [
         {
@@ -700,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Somewhere to Run",
-      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
+      "duration_ms": 253213,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
     },
     {
       "added_at": null,
@@ -723,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+        "name": "Somewhere to Run",
+        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
       },
       "artists": [
         {
@@ -732,9 +712,29 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 253213,
-      "name": "One Minute",
-      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
+      "duration_ms": 222080,
+      "name": "Somewhere to Run",
+      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise & Fall",
+        "url": "https://open.spotify.com/album/5xkfX4DNx7hZYrGy8H1YUJ"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 361875,
+      "name": "Rise & Fall",
+      "url": "https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195744,
-      "name": "Never Been Hurt",
-      "url": "https://open.spotify.com/track/7hXIYmnroOk6YikdncYlI4"
+      "duration_ms": 279160,
+      "name": "Set Yourself Free",
+      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
     },
     {
       "added_at": null,
@@ -823,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         }
       ],
-      "duration_ms": 279160,
-      "name": "Set Yourself Free",
-      "url": "https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg"
+      "duration_ms": 195744,
+      "name": "Never Been Hurt",
+      "url": "https://open.spotify.com/track/7hXIYmnroOk6YikdncYlI4"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 219026,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": null,
@@ -963,22 +979,6 @@
       "duration_ms": 277500,
       "name": "War Forever",
       "url": "https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Just A Monster Underneath, My Darling",
-        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "I'm Just A Monster Underneath, My Darling",
-      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "added_at": null,

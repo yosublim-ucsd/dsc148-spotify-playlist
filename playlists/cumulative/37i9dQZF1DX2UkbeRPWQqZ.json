@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Amanda's dream",
+        "url": "https://open.spotify.com/album/4zoOiGW5M19UdcoBKJ9cIq"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84750,
+      "name": "Amanda's dream",
+      "url": "https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/6KcYskZzpUOBxsvWw6BvXb"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 96802,
       "name": "Bedtime Song",
       "url": "https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 157292,
       "name": "Bing Bong Song",
       "url": "https://open.spotify.com/track/7FNjRbEVcYgKVAtvGWeKjV"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 116360,
       "name": "Boa Vista",
       "url": "https://open.spotify.com/track/5BiZy2TajBU7VuNtagn2MV"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 118154,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1DE5TG9kbk1EhFI8jbnynS"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 108394,
       "name": "Cuando Duermes",
       "url": "https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 77897,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7"
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 120250,
       "name": "Goodnight teddy",
       "url": "https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 105683,
       "name": "It's Time To Say Sweet Dreams",
       "url": "https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 124000,
       "name": "La Magia del Alma",
       "url": "https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 134953,
       "name": "Lullaby For My Baby",
       "url": "https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0"
@@ -2868,7 +2886,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 105163,
       "name": "My Bonnie Lies Over the Ocean",
       "url": "https://open.spotify.com/track/1IEJzJhBH5EUExBZRNr90E"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 99642,
       "name": "Opsis Kalopsis",
       "url": "https://open.spotify.com/track/0oSUBTj88nvlfA7kGebnnH"
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 204008,
       "name": "Tell Me That Fairytale",
       "url": "https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ"
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 105723,
       "name": "The More We Get Together",
       "url": "https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 180436,
       "name": "The Priest's Little Crow",
       "url": "https://open.spotify.com/track/6YWfwQi9Hh8LDi8zAurFdk"
@@ -4363,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "Under the moon",
+        "url": "https://open.spotify.com/album/4D4G7DbuDRMUbrIHvbJJNi"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107872,
+      "name": "Under the moon",
+      "url": "https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C"
+    },
+    {
+      "album": {
         "name": "Unicorns",
         "url": "https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7"
       },
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 148127,
       "name": "Waltzing Matilda",
       "url": "https://open.spotify.com/track/35TStN96CwcjFedErjW8Wq"
@@ -4464,7 +4500,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 159067,
       "name": "We Walk Around",
       "url": "https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ"
@@ -4554,7 +4590,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 149919,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/4ck5iWqo3zaJkN3nWvvcOb"

@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
       },
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178928,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/2gx4p6ukiBy7SO4qRUI5NG"

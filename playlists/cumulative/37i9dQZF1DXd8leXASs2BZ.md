@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
+> 【POPYOURSまであと7日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
 427 songs - 19 hr 51 min
 

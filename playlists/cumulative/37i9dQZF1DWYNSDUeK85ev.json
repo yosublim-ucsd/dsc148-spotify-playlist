@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "Cierre Rkt",
+        "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
+      },
+      "artists": [
+        {
+          "name": "Eze Remix",
+          "url": "https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT"
+        },
+        {
+          "name": "Matt Sebastian",
+          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120018,
+      "name": "Cierre Rkt",
+      "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
@@ -1690,7 +1712,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 172800,
       "name": "CUERNU",
       "url": "https://open.spotify.com/track/5OnIsAuSlx5JwMkr6Weclo"
@@ -1712,6 +1734,24 @@
       "duration_ms": 215992,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/6TtHG0o2xFQVK5Fa0ezxD0"
+    },
+    {
+      "album": {
+        "name": "Cumbia Villera: Mira Como Esta la Vagancia / Berretines de Verduga / Llegamos Los Pibes Chorros / Alza Las Manos / Alma Blanca / Grupera Vos Sos / Sentate en el Pelado / La Pikadura / Andrea / La Resaka / Ya Lleg\u00f3 / El Cumple de tu Hermana",
+        "url": "https://open.spotify.com/album/2lZwiyOBOnIgOHbJAs2b4A"
+      },
+      "artists": [
+        {
+          "name": "Nico Vallorani DJ",
+          "url": "https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1992542,
+      "name": "Cumbia Villera: Mira Como Esta la Vagancia / Berretines de Verduga / Llegamos Los Pibes Chorros / Alza Las Manos / Alma Blanca / Grupera Vos Sos / Sentate en el Pelado / La Pikadura / Andrea",
+      "url": "https://open.spotify.com/track/4q3x2QSfOMslKiXwL7eVe9"
     },
     {
       "album": {
@@ -2118,7 +2158,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 63687,
       "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto - Session #9",
       "url": "https://open.spotify.com/track/2tomu9yL0c4LbnwGXtZLmf"
@@ -2140,7 +2180,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 131367,
       "name": "Dupla Galactica",
       "url": "https://open.spotify.com/track/3IukflrOjd2puN0BtcAmuB"
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
@@ -4330,7 +4370,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154890,
       "name": "LA QUE PUEDE, PUEDE",
       "url": "https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib"

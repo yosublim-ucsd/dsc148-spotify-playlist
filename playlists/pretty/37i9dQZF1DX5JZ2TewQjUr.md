@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  CHANKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 89 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,210 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

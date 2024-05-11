@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 43090,
+  "num_followers": 43102,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAAC9oKpFTRq3v8hKRbAE8rYb",
+  "snapshot_id": "ZjwSAAAAAACVHlhFz34KAtx7tkBzpE/u",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "body bag (feat. YUNGBLUD & Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -83,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -111,6 +123,22 @@
       "duration_ms": 242133,
       "name": "Buried Myself Alive",
       "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
     },
     {
       "added_at": null,
@@ -147,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Blue and Yellow",
+      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dearly Departed (feat. Bert McCracken)",
         "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
       },
@@ -167,22 +211,6 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. Bert McCracken)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Blue and Yellow",
-      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
     },
     {
       "added_at": null,
@@ -227,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -255,6 +267,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
     },
     {
       "added_at": null,
@@ -715,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Kissing You Goodbye",
-      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
       },
@@ -743,6 +755,22 @@
       "duration_ms": 196306,
       "name": "I Come Alive",
       "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
     },
     {
       "added_at": null,

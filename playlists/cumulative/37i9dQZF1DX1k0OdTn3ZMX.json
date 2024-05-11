@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Vended.",
+  "description": "n\u00fc-metal revival is happening here and now with ENMY.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "CRITICAL HIT",
+        "url": "https://open.spotify.com/album/5znv7fNWjMwP2FgqydNYcW"
+      },
+      "artists": [
+        {
+          "name": "Indigo Blaze",
+          "url": "https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "CRITICAL HIT",
+      "url": "https://open.spotify.com/track/3MEcXeZVj8Io90EExEWgjX"
+    },
+    {
+      "album": {
         "name": ".bHP",
         "url": "https://open.spotify.com/album/3laPdouBLWJl03QEnPR4HB"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 227066,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 226874,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/49daGksZza7w4YQPn7aeRV"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 211504,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG"
@@ -1992,6 +2010,24 @@
       "duration_ms": 177116,
       "name": "Soaking Nerves",
       "url": "https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX"
+    },
+    {
+      "album": {
+        "name": "Back With Another One",
+        "url": "https://open.spotify.com/album/3eHN1YdgT8aGewySxzHdeK"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Social Blackout",
+      "url": "https://open.spotify.com/track/2S5ev6ECcvAnBdZkgQWjyg"
     },
     {
       "album": {
@@ -2274,6 +2310,28 @@
       "duration_ms": 207853,
       "name": "UNBOUND",
       "url": "https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184287,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
     },
     {
       "album": {

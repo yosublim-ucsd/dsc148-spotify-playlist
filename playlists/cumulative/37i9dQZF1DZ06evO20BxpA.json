@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 291000,
       "name": "Baby Blue - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
@@ -960,10 +960,28 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 82746,
       "name": "Redwoods",
       "url": "https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111506,
+      "name": "Regeneration - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/6OX1oIfF6RpfYWEeoHLfCl"
     },
     {
       "album": {
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 95813,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3"

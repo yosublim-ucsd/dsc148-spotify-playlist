@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
+> 【POPYOURSまであと7日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,505 likes - 101 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,513 likes - 101 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 100 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 101 | [Erika](https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Fear](https://open.spotify.com/album/5ULXcHka7ie9hbyZmIReC3) | 3:35 |
 
-Snapshot ID: `ZjzrKQAAAAAQQ//ulVwjGVIDJ8h7H0+w`
+Snapshot ID: `Zj42cAAAAACoptYPhDMevVUHXoey6dBH`

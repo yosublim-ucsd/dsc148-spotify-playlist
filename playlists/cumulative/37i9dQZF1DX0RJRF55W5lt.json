@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "UK Garage Classics - Best of Jeremy Sylvester, Vol. 3",
+        "url": "https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT"
+      },
+      "artists": [
+        {
+          "name": "Dub Syndicate",
+          "url": "https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364000,
+      "name": "Do It Right Baby",
+      "url": "https://open.spotify.com/track/5Xt5Tb41aRmIKBpPG3VBYA"
+    },
+    {
+      "album": {
         "name": "Do You Really Like It? (Remixes)",
         "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"

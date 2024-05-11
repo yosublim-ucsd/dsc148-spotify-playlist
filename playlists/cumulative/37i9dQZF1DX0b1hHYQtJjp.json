@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Shaboozey",
+  "description": "Recent hits and new songs from your fave artists. Cover: Thomas Rhett",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 232693,
       "name": "A Love Like This",
       "url": "https://open.spotify.com/track/0oy6KTdgoiQxkF9C1Iy8Ns"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 210904,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
@@ -2250,6 +2250,24 @@
       "duration_ms": 194680,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj"
+    },
+    {
+      "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
       "album": {
@@ -3670,6 +3688,52 @@
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
+    },
+    {
+      "album": {
+        "name": "Stereophonic (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Pidgeon",
+          "url": "https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila"
+        },
+        {
+          "name": "Will Brill",
+          "url": "https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd"
+        },
+        {
+          "name": "Juliana Canfield",
+          "url": "https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK"
+        },
+        {
+          "name": "Tom Pecinka",
+          "url": "https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz"
+        },
+        {
+          "name": "Chris Stack",
+          "url": "https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag"
+        },
+        {
+          "name": "Will Butler",
+          "url": "https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp"
+        },
+        {
+          "name": "Justin Craig",
+          "url": "https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN"
+        },
+        {
+          "name": "Original Cast of Stereophonic",
+          "url": "https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "Bright (Fast)",
+      "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
     },
     {
       "album": {
@@ -8320,7 +8384,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
@@ -10702,7 +10766,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 168975,
       "name": "high water",
       "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
@@ -11905,6 +11969,28 @@
     },
     {
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
         "name": "i hate love (feat. Steve Martin)",
         "url": "https://open.spotify.com/album/6jD3QU3DuJphSxH1vdplVV"
       },
@@ -12990,10 +13076,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0"
     },
     {
       "album": {
@@ -14188,7 +14292,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -17854,7 +17958,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 210649,
       "name": "My Story",
       "url": "https://open.spotify.com/track/66vtyVkJRKTen5JqBYsPpm"
@@ -18427,6 +18531,24 @@
     },
     {
       "album": {
+        "name": "No Goodbyes (Friends Forever)",
+        "url": "https://open.spotify.com/album/662vSBGek0qU3hBIEpMuja"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182454,
+      "name": "No Goodbyes (Friends Forever)",
+      "url": "https://open.spotify.com/track/3uuKAHoqaL1kZ3yOkvW8aA"
+    },
+    {
+      "album": {
         "name": "No Judgement",
         "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
       },
@@ -18586,7 +18708,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 153626,
       "name": "Nobody - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
@@ -19032,6 +19154,24 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "album": {
+        "name": "Shadows of Blue",
+        "url": "https://open.spotify.com/album/0jP5PBitTaYMC9TscNx38q"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186515,
+      "name": "On My Way Up",
+      "url": "https://open.spotify.com/track/7EtfO5qsc7uempj2JR7Jwv"
     },
     {
       "album": {
@@ -21204,7 +21344,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 145622,
       "name": "Sacrifice Tomorrow",
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
@@ -22104,6 +22244,24 @@
       "duration_ms": 231795,
       "name": "since i was young (with kesha)",
       "url": "https://open.spotify.com/track/3h7Psu2DMV1JtrGAH2D1c9"
+    },
+    {
+      "album": {
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
     },
     {
       "album": {
@@ -23316,6 +23474,24 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (Usher Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "album": {
@@ -25104,7 +25280,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202720,
       "name": "The Last Bit Of Us",
       "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
@@ -27593,6 +27769,28 @@
     },
     {
       "album": {
+        "name": "12 Notes",
+        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "Ways To Go (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+    },
+    {
+      "album": {
         "name": "We Are The People (Martin Garrix Remix) (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
         "url": "https://open.spotify.com/album/2WMZ4ehnPCVULBJBuEReyY"
       },
@@ -28238,6 +28436,24 @@
       "duration_ms": 211626,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/6GJoFuKS9JRNmNgGJzCDmW"
+    },
+    {
+      "album": {
+        "name": "WHERE YOU BELONG",
+        "url": "https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176588,
+      "name": "WHERE YOU BELONG",
+      "url": "https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2"
     },
     {
       "album": {

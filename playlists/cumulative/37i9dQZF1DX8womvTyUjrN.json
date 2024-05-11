@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Nicole Zignago",
+  "description": "Fresh Latin pop on the rise. Cover: Alex Ponce",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Dar\u00eda Todo",
+        "url": "https://open.spotify.com/album/294Oz3a1x60EVfZ4Vl0Jt9"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263368,
+      "name": "Dar\u00eda Todo",
+      "url": "https://open.spotify.com/track/4uMxQAZrL9xpUKhjsVVgOY"
+    },
+    {
+      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/4cf8d97ipj16xHc2vmK6jv"
       },
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
@@ -4753,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/0XA7lnJxZEoE3cUgKvsAlI"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184745,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642"
+    },
+    {
+      "album": {
         "name": "Gracias x Nada",
         "url": "https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0"
       },
@@ -5228,7 +5264,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 188405,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
@@ -10236,7 +10272,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183617,
       "name": "Se Me Van Las Ganas",
       "url": "https://open.spotify.com/track/35YA19taCbOzPWNf2O20Gy"
@@ -10924,6 +10960,24 @@
       "duration_ms": 143970,
       "name": "Tango De Crueldad",
       "url": "https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq"
+    },
+    {
+      "album": {
+        "name": "RUBEDO",
+        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "TANTO PARA NADA",
+      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
     },
     {
       "album": {

@@ -1445,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "Concave",
+        "url": "https://open.spotify.com/album/7jqyaGXeBvphIlr6Idcox5"
+      },
+      "artists": [
+        {
+          "name": "Nick Andre",
+          "url": "https://open.spotify.com/artist/30pvn9DTpeyOxTAtOwKNiV"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165370,
+      "name": "Concave",
+      "url": "https://open.spotify.com/track/2GNMDlyuOMNoQKt6GlTXx0"
+    },
+    {
+      "album": {
         "name": "Confirmation",
         "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
@@ -4742,7 +4764,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 262378,
       "name": "Not My President (Instrumental)",
       "url": "https://open.spotify.com/track/05haM30czJ4776KzI99MSw"

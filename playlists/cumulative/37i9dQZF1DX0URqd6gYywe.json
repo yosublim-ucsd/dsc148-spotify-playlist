@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
+  "description": "Dejate llevar por los mejores lentos del rock. Foto: Hilda Lizarazu",
   "name": "Baladas Rock",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
+    },
+    {
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Wirzt",
+          "url": "https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254142,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI"
     },
     {
       "album": {
@@ -665,6 +683,24 @@
     },
     {
       "album": {
+        "name": "HILDA CANTA CHARLY",
+        "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Desarma y sangra",
+      "url": "https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi"
+    },
+    {
+      "album": {
         "name": "Hijos Del Culo",
         "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
       },
@@ -680,6 +716,24 @@
       "duration_ms": 291493,
       "name": "Desconexi\u00f3n Sideral",
       "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+    },
+    {
+      "album": {
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
     },
     {
       "album": {
@@ -1196,7 +1250,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 341773,
       "name": "Hero\u00edna",
       "url": "https://open.spotify.com/track/4B8RgJYRFMljcAkehZiWO9"
@@ -1608,7 +1662,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf"
@@ -1998,6 +2052,24 @@
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "album": {
+        "name": "La Suerte de Encontrarme",
+        "url": "https://open.spotify.com/album/6Mvw1I6WTBv9RKqwBC9Rol"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201910,
+      "name": "Nunca Nos Apag\u00f3",
+      "url": "https://open.spotify.com/track/21TdNfpltw2dtXnnJiOjcD"
     },
     {
       "album": {
@@ -2434,7 +2506,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 299998,
       "name": "Tan lejos",
       "url": "https://open.spotify.com/track/2Od0CgYgYgeCXFyZazD98g"
@@ -2582,7 +2654,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 338000,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/5LzZBMRQ8Ui4eu5uGIO4Zh"

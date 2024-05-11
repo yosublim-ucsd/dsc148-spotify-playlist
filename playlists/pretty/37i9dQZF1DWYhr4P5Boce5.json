@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202587,
+  "num_followers": 202597,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+        "name": "Hopeful Hearts Club",
+        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
       },
       "artists": [
         {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Lightmuzik",
-          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 118503,
-      "name": "When It Hurts",
-      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
+      "duration_ms": 400108,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -495,18 +487,26 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Hopeful Hearts Club",
-        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 400108,
-      "name": "Whole Heart",
-      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 222918,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 137223,
       "name": "Carried",
       "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "South Florida (Remix)",
         "url": "https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "I'm in Love With You",
-      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Heartland",
         "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
       },
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "The One You Need",
+        "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Let Me Be There",
         "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
       },
@@ -1631,6 +1647,22 @@
       "duration_ms": 185095,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1655,34 +1687,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "The One You Need",
-        "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"
+      "duration_ms": 200133,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1699,22 +1715,6 @@
       "duration_ms": 190000,
       "name": "I do",
       "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Soul and Fire",
-        "url": "https://open.spotify.com/album/21YGpglvEEaYRLN0e4MG7Q"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Soul and Fire",
-      "url": "https://open.spotify.com/track/1z9F1fK5wmIsg61n4hCIyK"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/0OoN6mpdxCzQs6Iq5b26aF"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 218454,
       "name": "IOU",
       "url": "https://open.spotify.com/track/042ILs7k3vS7HDtUgBU8nl"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Soul and Fire",
+        "url": "https://open.spotify.com/album/21YGpglvEEaYRLN0e4MG7Q"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Soul and Fire",
+      "url": "https://open.spotify.com/track/1z9F1fK5wmIsg61n4hCIyK"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Another Song About Love",
+        "url": "https://open.spotify.com/album/2JFvBrpQEAWqS2kgpe7UKw"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/3i05I3sLtP491SLdez1J5S"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq"
       },
@@ -2559,22 +2575,6 @@
       "duration_ms": 173861,
       "name": "Better",
       "url": "https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Another Song About Love",
-        "url": "https://open.spotify.com/album/2JFvBrpQEAWqS2kgpe7UKw"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/3i05I3sLtP491SLdez1J5S"
     },
     {
       "added_at": "2024-02-05 17:58:02",

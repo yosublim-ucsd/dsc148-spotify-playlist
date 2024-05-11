@@ -6931,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "Look to the East, Look to the West",
+        "url": "https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "The Light Nights",
+      "url": "https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX"
+    },
+    {
+      "album": {
         "name": "Free to Live in Colour",
         "url": "https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe"
       },
@@ -7140,7 +7158,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 166413,
       "name": "Today",
       "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"

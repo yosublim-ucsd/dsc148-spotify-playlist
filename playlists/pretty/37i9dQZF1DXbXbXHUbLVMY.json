@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28000,
+  "num_followers": 27992,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
+        "name": "Ung & Dum",
+        "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
       "artists": [
         {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         },
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
         }
       ],
-      "duration_ms": 125878,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
+      "duration_ms": 147678,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -627,22 +627,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Ung & Dum",
-        "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/5ttbRoMLEEuYmx7UFkzHAy"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
         },
         {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 147678,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
+      "duration_ms": 125878,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/0k3MPCBFxebrct6NxH3kCY"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 135901,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 135901,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Slipp",
-        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Tshawe",
-          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
-        }
-      ],
-      "duration_ms": 179488,
-      "name": "Slipp",
-      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Slipp",
+        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+        }
+      ],
+      "duration_ms": 179488,
+      "name": "Slipp",
+      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
     }
   ],
   "unique_name": "100 (2)",

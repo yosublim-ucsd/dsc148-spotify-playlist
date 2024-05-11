@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ IRBIS in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,392 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,396 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 21 | [ACQUA SANTA E BENZINA](https://open.spotify.com/track/2y7SvAihr1o477v90MygL5) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [ACQUA SANTA E BENZINA](https://open.spotify.com/album/5Acg0RsgFREKjmAnMOitNa) | 2:37 |
 | 22 | [CRISALIDE](https://open.spotify.com/track/5e2i4zZo4tYBgqTExYOlp4) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [CRISALIDE](https://open.spotify.com/album/2wWVC2jiaLroAn8yqvkLv6) | 3:34 |
 | 23 | [2009](https://open.spotify.com/track/7qq9oWPzXTZitqVtEY8G6W) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2), [AleXX iSt4R](https://open.spotify.com/artist/60wyuNaDX2w5A6ClibUTc8), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [2009](https://open.spotify.com/album/2Ino2VE8DpRaYQUYSvrrXI) | 2:40 |
-| 24 | [LA FIERA DEL CRINGE \(feat\. La Sad\)](https://open.spotify.com/track/6Y2E7MBDwQUkPTlE7q4u6s) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [La Sad](https://open.spotify.com/artist/1IVLddRJnSfSq29e6OopKT) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:44 |
+| 24 | [LA FIERA DEL CRINGE \(feat\. LA SAD\)](https://open.spotify.com/track/6Y2E7MBDwQUkPTlE7q4u6s) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:44 |
 | 25 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 26 | [Come stai?](https://open.spotify.com/track/7MttKIl92BMe3YJefHUqVk) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE) | [Come stai?](https://open.spotify.com/album/1eoClkNhv2mRh7cPtItQ5z) | 2:13 |
 | 27 | [ODIO LA SAD](https://open.spotify.com/track/6jt2r3feKwe8mC5W1u1Ijv) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:32 |

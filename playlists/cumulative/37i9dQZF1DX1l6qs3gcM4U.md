@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Gerilson Insrael
+> Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros
 
-362 songs - 21 hr 35 min
+364 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Nossa Dança](https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A Nossa Dança](https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz) | 3:02 | 2023-04-06 |  |
 | [A Nossa Vez](https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A.N.V.](https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N) | 3:37 | 2022-03-25 |  |
 | [A Terra Onde Se Nasce](https://open.spotify.com/track/4fR63zYe5FgYaGIv6TicsX) | [João Mestre](https://open.spotify.com/artist/1PxCOoZdihbvGvDCAqiJr1), [Reflect](https://open.spotify.com/artist/0rgNRW2OLmvH23mDdH6FH3), [Laura Abel](https://open.spotify.com/artist/5cYh5NHenPEINDT81dUuyR), [Napoleão Mira](https://open.spotify.com/artist/4nHD4bL7ukeRwfjrDI0QXD) | [A Terra Onde Se Nasce](https://open.spotify.com/album/2oIT2sxMibkvfLDLydwKUJ) | 4:14 | 2022-03-25 | 2022-04-17 |
-| [A Tua Boca](https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa) | [A Tua Boca](https://open.spotify.com/album/3YxkgTCDCHOXEwKDvi33M1) | 3:48 | 2021-12-10 |  |
+| [A Tua Boca](https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa) | [A Tua Boca](https://open.spotify.com/album/3YxkgTCDCHOXEwKDvi33M1) | 3:48 | 2021-12-10 | 2024-05-11 |
 | [A Tua Escolha](https://open.spotify.com/track/2u5cgh9JUK1wXwsepgMzME) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Kizomba All Stars 3](https://open.spotify.com/album/0hYj2Vo9dKrsTg203dRXJ4) | 4:05 | 2022-01-27 | 2022-04-18 |
 | [Abençoado](https://open.spotify.com/track/3Fv6efYeL4WLpwkE797BDO) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Abençoado](https://open.spotify.com/album/7hjGHtEkGnnds18e6CPIVV) | 2:49 | 2022-05-26 | 2022-06-16 |
 | [Acerta](https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Acerta](https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn) | 3:55 | 2021-12-10 |  |
@@ -109,6 +109,7 @@
 | [Esperei por Ti](https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Kiari Flores](https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06) | [Esperei por Ti](https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn) | 3:19 | 2023-04-06 | 2023-04-28 |
 | [Esquece o Mundo](https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Esquece o Mundo](https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM) | 4:06 | 2021-12-10 | 2022-09-30 |
 | [Essa Mboa](https://open.spotify.com/track/30GRqeKxTuZQ1JEeCvHJKY) | [Adi Cudz](https://open.spotify.com/artist/1BdYccRPWnSKT7Hk8cZP3d), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Essa Mboa](https://open.spotify.com/album/2GFBG8FcKn02CztbiQJk8P) | 3:59 | 2021-12-10 | 2022-07-21 |
+| [Estou a Ficar Maluco](https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Estou a Ficar Maluco](https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio) | 2:53 | 2024-05-10 |  |
 | [Estragar o que Está Bom](https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Estragar o que Está Bom](https://open.spotify.com/album/0pbURzL14oQNK9djUqAciy) | 3:00 | 2021-12-10 | 2022-04-07 |
 | [Etnias](https://open.spotify.com/track/1yQ3ZpnTm0vwueEjUvJUc4) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Etnias](https://open.spotify.com/album/25Z5ZFAV77qYw5pVdNk7Ba) | 2:54 | 2024-04-11 |  |
 | [Eu Faço Tudo](https://open.spotify.com/track/0kERTymm6JXyMgKGMXCygE) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Em Nome do Amor](https://open.spotify.com/album/2Xkxqky3CgYgxSU0a0S1Kb) | 4:43 | 2021-12-10 | 2022-07-25 |
@@ -150,6 +151,7 @@
 | [Já Não Sei](https://open.spotify.com/track/59FhY6j1jchU3WGZ2BxuGx) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/2iXz4njIp9glteqBnOHNnv) | 4:25 | 2024-03-29 | 2024-04-19 |
 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 | 2021-12-10 |  |
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-08-25 | 2022-09-30 |
+| [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 | 2024-05-10 |  |
 | [Karma \- Kriolu Version](https://open.spotify.com/track/37OwL4VPwKjyqu0VaqEizD) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Karma \(Kriolu Version\)](https://open.spotify.com/album/0Eqgq0Pm3WTzcFM79X2CiN) | 3:05 | 2023-03-03 |  |
 | [Keruh](https://open.spotify.com/track/6SMgtwBAsC1WreQJzsQ7EL) | [Zaza The Pi](https://open.spotify.com/artist/4DLzljqWfoI4JjMfhydPJM) | [Keruh](https://open.spotify.com/album/04yKYTsbJEU0FIsR7fcmOk) | 3:49 | 2022-01-10 | 2022-01-17 |
 | [Kua Buaru](https://open.spotify.com/track/4CleTVckv87HCeEpj05X52) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Manecas Costa](https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc) | [Kua Buaru](https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS) | 3:01 | 2021-12-10 |  |
@@ -324,7 +326,7 @@
 | [Tempo](https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tempo](https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx) | 3:34 | 2023-12-29 |  |
 | [Tempo Sabi](https://open.spotify.com/track/3FqWcsHQVo5aFBVUBJ465y) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Tempo Sabi](https://open.spotify.com/album/0WJ1eBTUSk4OzMpIb5vRYb) | 3:30 | 2021-12-10 | 2022-11-13 |
 | [Tentason](https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Tentason](https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp) | 2:46 | 2024-02-16 |  |
-| [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 |  |
+| [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 | 2024-05-11 |
 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 |  |
 | [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 |  |
 | [Todas Querem](https://open.spotify.com/track/7qrejwIUQaRwPUoTkJuk4a) | [Iriane vissolela](https://open.spotify.com/artist/6DNvQQzHsswQPoEjP5uEH7) | [Todas Querem](https://open.spotify.com/album/1Kv0lFcnyblaqWBEcciSeM) | 3:12 | 2022-03-04 | 2022-03-11 |

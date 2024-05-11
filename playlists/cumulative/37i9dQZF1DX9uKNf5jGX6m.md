@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-764 songs - 1 day 14 hr 9 min
+767 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Alternatives](https://open.spotify.com/track/4Ztau0Zq5wxFdqumGyIp9c) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 3:05 | 2022-10-03 | 2023-01-04 |
 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2023-01-03 |  |
 | [Always Sleepy](https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:22 | 2023-06-20 |  |
+| [Amaryllian](https://open.spotify.com/track/0HzKdJzGNFyBd4kMuF7JMH) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Amaryllian](https://open.spotify.com/album/6d14AbJV2GOPs6hkLnzlKw) | 2:31 | 2024-05-10 |  |
 | [Amethyst](https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Amethyst](https://open.spotify.com/album/1yXjEkY9ngLsAW8Fc1Hur5) | 3:02 | 2022-09-22 | 2023-01-04 |
 | [Amigo](https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw) | [Estienne Battier](https://open.spotify.com/artist/1C1PKWXXTSanOX47bqzqCD) | [Amigo](https://open.spotify.com/album/3vnCMe4Ef2eZKeTT9KDNoN) | 3:23 | 2023-10-20 |  |
 | [Amygdala](https://open.spotify.com/track/5921nMZXq52f54Jv57BE80) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Soulythical](https://open.spotify.com/album/30Vh9X9ijMHyg7lcpoejNK) | 3:38 | 2021-12-21 | 2022-03-25 |
@@ -561,6 +562,7 @@
 | [Rosetta](https://open.spotify.com/track/4Qx7uyGiw9CwgVGNkmeq1e) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rosetta](https://open.spotify.com/album/3mecHxhqR8MHgYiyUdPrV5) | 2:42 | 2023-06-20 |  |
 | [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-07-28 |  |
 | [Rumah](https://open.spotify.com/track/2gS80LnIT9M3pAUzswBcmk) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Rumah](https://open.spotify.com/album/7LK9FKD7CWlAKHo5A9hOPT) | 2:45 | 2023-06-20 |  |
+| [Rumbling Zen](https://open.spotify.com/track/271v8VIPnSoA3iC9xnkhBl) | [Joel Rum](https://open.spotify.com/artist/3GLeevOn42wouqUCU0Nr70) | [Rumbling Zen](https://open.spotify.com/album/6pNMiyseBJpO6SK2eVkrzv) | 2:52 | 2024-05-10 |  |
 | [Rétrospective](https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Rétrospective](https://open.spotify.com/album/7EjOLWwV9wGAlEole3PGWA) | 2:29 | 2022-06-22 | 2023-01-04 |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2021-12-21 | 2022-10-26 |
 | [Rêver](https://open.spotify.com/track/75UEjnA7EJ4ztlMANBW1dX) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [Rêver](https://open.spotify.com/album/2NZgY14tBMc1cLMRCYMBn3) | 2:33 | 2022-09-22 |  |
@@ -648,6 +650,7 @@
 | [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 | 2023-01-20 |  |
 | [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2021-12-21 | 2022-07-29 |
 | [Spirituality](https://open.spotify.com/track/2kYSO6JCH0Nboi3QSOWhBe) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Spirituality](https://open.spotify.com/album/2O7UPaFijmHBKYrbhO1qRk) | 3:03 | 2021-12-21 | 2022-07-29 |
+| [Split Vision](https://open.spotify.com/track/6ksUKkHQEttsJuqZ0zVr3x) | [Tim Eshin](https://open.spotify.com/artist/0MIELhUkO2GlHsYfatULMO) | [Split Vision](https://open.spotify.com/album/6nGDB1VcI9OMJ2lFjXZdqk) | 2:45 | 2024-05-10 |  |
 | [Spring Flower](https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Spring Flower](https://open.spotify.com/album/2E3hwDKb2jqMrS3oMqAyZp) | 3:00 | 2022-09-22 | 2022-10-26 |
 | [Star Stars](https://open.spotify.com/track/1QEZAFj1GzKUkMgM9cFgTW) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Star Stars](https://open.spotify.com/album/3d3jAUgBsXpLmJWZw7Q1gW) | 2:56 | 2023-01-20 |  |
 | [Star Winds](https://open.spotify.com/track/2L8kqc9dz9pGeXED0VgBoz) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Star Winds](https://open.spotify.com/album/17eR75WrSuRqTDSNO2ZYzq) | 2:48 | 2022-09-22 | 2023-06-21 |

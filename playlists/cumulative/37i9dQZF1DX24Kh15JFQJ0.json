@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/2ZP8X1egXm0xVGMPZQOpk9"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/5E9ykjhgRvTZ1H3ulu9XTJ"
+    },
+    {
+      "album": {
         "name": "Every Girl (Deluxe Edition)",
         "url": "https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO"
       },

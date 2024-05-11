@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Bernadya
 
-402 songs - 23 hr 42 min
+405 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-01-18 | 2024-02-02 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-21 | 2024-04-19 |
 | [come 'n find me](https://open.spotify.com/track/3OjEf6zYCbxM8zqolCafK0) | [Mea Shahira](https://open.spotify.com/artist/29bENDLYu1dHDXV0sXtfRC), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [come 'n find me](https://open.spotify.com/album/16v1QKaSFFzlwf20eGsV3x) | 3:20 | 2024-02-09 | 2024-03-01 |
+| [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-09 |  |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-09 |  |
 | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Chelsea Dawn](https://open.spotify.com/artist/5ivM0OETR0pUou4EesF1G0), [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/album/7pORcqNUVyySp3JrQvPxAl) | 3:38 | 2024-04-25 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-08 | 2024-05-10 |
@@ -113,6 +114,7 @@
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-04-26 |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-25 | 2024-03-01 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-14 | 2024-04-26 |
+| [friendly fire](https://open.spotify.com/track/4kc838q5gsbiwsUvOXfo3M) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [friendly fire](https://open.spotify.com/album/7uAq3PvOC39MOxuhOxU5jH) | 2:29 | 2024-05-09 |  |
 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 | 2024-04-18 |  |
 | [From The Jump \(Duet Version\)](https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [From The Jump \(Duet Version\)](https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl) | 3:51 | 2024-04-18 |  |
 | [frozen](https://open.spotify.com/track/5596BSEaMXNxLDwoUXwqLB) | [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [are you free this summer](https://open.spotify.com/album/2SAlZLew18Ujiv0playB2X) | 2:41 | 2024-01-18 | 2024-02-10 |
@@ -210,6 +212,7 @@
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-18 | 2024-02-17 |
 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 | 2024-03-28 | 2024-04-19 |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-09 | 2024-03-15 |
+| [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-09 |  |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-04-08 | 2024-05-10 |
 | [Love Again](https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Love Again](https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e) | 3:12 | 2024-02-29 | 2024-04-26 |
 | [Love Distance](https://open.spotify.com/track/4cL8A2FNfID5l2Kq5hLhXW) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Love Distance](https://open.spotify.com/album/253BrdvTfgPnAOVVOS2a3X) | 3:36 | 2024-01-18 | 2024-01-26 |

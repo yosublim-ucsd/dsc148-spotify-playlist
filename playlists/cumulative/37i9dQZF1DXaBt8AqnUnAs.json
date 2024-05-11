@@ -6947,6 +6947,44 @@
     },
     {
       "album": {
+        "name": "Morrer De Amor",
+        "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243471,
+      "name": "Morrer De Amor",
+      "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
+    },
+    {
+      "album": {
         "name": "Motivos",
         "url": "https://open.spotify.com/album/4ctTtWYPJBLjFOCtIUEzZA"
       },

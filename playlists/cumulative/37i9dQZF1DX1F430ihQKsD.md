@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
+> La scène musicale montréalaise au premier plan\. Photo: Geoffroy
 
-460 songs - 1 day 2 hr 40 min
+462 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [La richesse des pauvres](https://open.spotify.com/track/4jV3QKV40FmtcJikbBpfCf) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO), [Rau Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Échos d'une vie distante: volume 1](https://open.spotify.com/album/4n4gw9wDp29mV0tAYxcFol) | 2:23 | 2022-03-25 | 2022-04-16 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-03-25 | 2022-08-27 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 | 2023-05-06 |
+| [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 | 2024-05-10 |  |
 | [La vie ce n'est qu'un rêve](https://open.spotify.com/track/3PxTVq57d0XcGxM2xVRC3Q) | [Efy Hecks](https://open.spotify.com/artist/4wIYnRyhOUsYlfOyYgRFv5) | [Somnifère](https://open.spotify.com/album/4OgOjuzYRDMh2t9fWCISHy) | 4:40 | 2022-03-25 | 2022-06-11 |
 | [Laurence](https://open.spotify.com/track/4ittp8FlfefXuOMx8sWofb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Laurence](https://open.spotify.com/album/5xHe1D6FTdMmgnmxCO4UbS) | 2:23 | 2023-02-17 | 2023-04-01 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-03-25 | 2022-04-29 |
@@ -268,6 +269,7 @@
 | [Messages](https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Messages](https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2) | 3:15 | 2024-01-23 | 2024-03-02 |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2023-11-11 |
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-08-27 |
+| [Mirage](https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Bedroom Sessions](https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx) | 3:13 | 2024-05-10 |  |
 | [Moment Feed](https://open.spotify.com/track/2hDnhl2MV9zsAdCzw6hCjL) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Moment Feed](https://open.spotify.com/album/5boINdoDwX7uxL0izaDxrX) | 4:27 | 2022-03-25 | 2022-04-16 |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-04-27 |
 | [Moneytree](https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Naâman](https://open.spotify.com/artist/2Gkz5N7rWiCE3jlCgsw1yp) | [Moneytree](https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS) | 2:36 | 2023-03-10 | 2024-03-23 |
@@ -312,7 +314,7 @@
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 |  |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |
 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 | 2022-07-15 | 2022-08-27 |
-| [Parc de Beauvoir](https://open.spotify.com/track/23vteRN3xyF8fZkSLDns2O) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parc de Beauvoir](https://open.spotify.com/album/1W4nQcq5X6DjWHDmw1glRG) | 3:02 | 2024-04-05 |  |
+| [Parc de Beauvoir](https://open.spotify.com/track/23vteRN3xyF8fZkSLDns2O) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parc de Beauvoir](https://open.spotify.com/album/1W4nQcq5X6DjWHDmw1glRG) | 3:02 | 2024-04-05 | 2024-05-11 |
 | [Paris](https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Paris](https://open.spotify.com/album/5O1nozJq79ZpHyAjcHEPta) | 3:10 | 2023-08-11 | 2023-09-16 |
 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 | 2022-10-21 | 2023-11-25 |
 | [pas pire](https://open.spotify.com/track/6VW2pO4Yyw7rIM5PCDxEbE) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [pas pire](https://open.spotify.com/album/74NrtdHjuTCDazoA9AwK0K) | 3:35 | 2023-05-12 | 2023-07-01 |
@@ -412,7 +414,7 @@
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2022-07-22 | 2023-07-01 |
 | [T'es beau](https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Montréal bagarre 2](https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk) | 3:05 | 2022-05-20 | 2022-06-11 |
 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 | 2023-10-28 |
-| [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 | 2023-08-18 |  |
+| [Tache d'encre](https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Tache d'encre](https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d) | 3:12 | 2023-08-18 | 2024-05-11 |
 | [Take Me Down](https://open.spotify.com/track/5FsKNN0EKXevpZ3IQLURvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Take Me Down](https://open.spotify.com/album/1HgUqAtLT1htnY592eO54C) | 3:36 | 2023-11-17 | 2024-04-19 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-10 | 2022-08-06 |
 | [The Exiles](https://open.spotify.com/track/3WzakEyusKz9x4TUxZmLH7) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Bravo!](https://open.spotify.com/album/6xaz2AoyyNki9QejVb1aZ6) | 3:22 | 2023-06-02 |  |

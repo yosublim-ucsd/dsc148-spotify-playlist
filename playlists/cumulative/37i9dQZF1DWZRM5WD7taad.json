@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 173934,
       "name": "SE\u00d1ALES",
       "url": "https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq"
@@ -5492,6 +5492,24 @@
       "duration_ms": 260160,
       "name": "Universoy",
       "url": "https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157037,
+      "name": "V",
+      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
     },
     {
       "album": {

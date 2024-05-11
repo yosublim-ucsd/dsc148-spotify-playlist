@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 109431,
+  "num_followers": 109693,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "Call of the Road",
-        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
-      },
-      "artists": [
-        {
-          "name": "Jenny Don't And The Spurs",
-          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
-        }
-      ],
-      "duration_ms": 228729,
-      "name": "Paso Del Norte",
-      "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Call of the Road",
+        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
+      },
+      "artists": [
+        {
+          "name": "Jenny Don't And The Spurs",
+          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
+        }
+      ],
+      "duration_ms": 228729,
+      "name": "Paso Del Norte",
+      "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
         "name": "Rhino Hi-Five: Ratt",
         "url": "https://open.spotify.com/album/7Lx0ft6eH3V087cAOPaqnk"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/1xVlDcp3ZHntqgvhHYw1rp"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
     },
     {
       "added_at": "2024-04-05 06:00:00",

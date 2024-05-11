@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:02hku5R1SCUiTPydXMdKBp">Seiji Oda</a>
 
-1,197 songs - 2 day 3 hr 54 min
+1,198 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [In Awe \(Live Performance\)](https://open.spotify.com/track/5goNJmUi7j897rieTFe17d) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [The Last Take](https://open.spotify.com/artist/313pwacN8Wf7ae4iC4JGfv) | [In Awe \(Live Performance\)](https://open.spotify.com/album/5EBP0IA68JttHLCEvmH0fa) | 3:24 | 2022-01-13 | 2022-02-10 |
 | [In Da Area](https://open.spotify.com/track/2HJXPA4Tqfp6ezekrVgg8k) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.2](https://open.spotify.com/album/2qHbhcVWG14e4k6FfFEKEA) | 2:08 | 2023-09-13 | 2023-10-26 |
 | [In Dat Mode \(feat\. Luh Tyler\)](https://open.spotify.com/track/1g6xClUkUvGIPMniK1xMEJ) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [In Dat Mode \(feat\. Luh Tyler\)](https://open.spotify.com/album/15EPGOzv4novCrBauzl0r7) | 3:10 | 2023-06-28 | 2023-07-11 |
+| [In My City](https://open.spotify.com/track/3mMRjaMDZir1leHaOJL5z1) | [BMG Dmack](https://open.spotify.com/artist/78LTEEfreqlEoRJ0Zv94Fy) | [In My City](https://open.spotify.com/album/07cDGcvU9dyKDZ23rSLbbT) | 1:57 | 2024-05-10 |  |
 | [In My Head](https://open.spotify.com/track/4Ib6da9d4vH3i0BJs8y7Hx) | [SOLEZZ](https://open.spotify.com/artist/7hT0npEgXfI5ABa2pzoN7j) | [In My Head](https://open.spotify.com/album/49GsB9b99OTRqYe6R9L7Je) | 1:44 | 2021-12-01 | 2022-01-14 |
 | [In The Kitchen](https://open.spotify.com/track/1Cs748JfTfqzPoZAxBX9Ra) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [In The Kitchen](https://open.spotify.com/album/6SaruG91V5J5UOyEMClC37) | 3:02 | 2021-12-01 | 2022-01-14 |
 | [In the Morning](https://open.spotify.com/track/4F2uvGqf6AYvtMyOIs3Yqt) | [Rah\-C](https://open.spotify.com/artist/4t2k4LH9tsNUc4j4aYF5HP), [JZAC](https://open.spotify.com/artist/4uClxFda8FlqQEMNkL7HH3) | [In the Morning](https://open.spotify.com/album/63bwx95KTRtRogp1FRugi0) | 2:46 | 2024-03-06 | 2024-04-19 |
@@ -1134,7 +1135,7 @@
 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 | 2023-08-24 | 2024-01-11 |
 | [WADDUP BITCH](https://open.spotify.com/track/6UKKaNvgdI8nWPWYPoKITl) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [WADDUP BITCH](https://open.spotify.com/album/2Z9PYRbyzZ2fvl7h2nCAvy) | 2:16 | 2021-12-01 | 2022-01-14 |
 | [WAITONME](https://open.spotify.com/track/5UCMgaqTE8LCLU94ZzhDVm) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [WAITONME](https://open.spotify.com/album/7ebncX53jK1sj9CD1IQHK4) | 2:27 | 2024-03-20 | 2024-04-11 |
-| [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 | 2024-03-20 |  |
+| [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 | 2024-03-20 | 2024-05-11 |
 | [Walk \(Freestyle\)](https://open.spotify.com/track/4l9vpiMSvBpvrilql9XDTx) | [O.E.](https://open.spotify.com/artist/1BNwD0GcTCdzY2pWmg2M1p) | [Walk \(Freestyle\)](https://open.spotify.com/album/7KMReipNFjMZSWpZRNp73f) | 1:48 | 2023-07-26 | 2023-10-19 |
 | [walkin'](https://open.spotify.com/track/1MFaK9LHLoh7zKaW5D1zYg) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [walkin'](https://open.spotify.com/album/5dWRgcv6C12uB8iuNE1UsS) | 2:53 | 2022-10-26 | 2022-12-01 |
 | [WANTS](https://open.spotify.com/track/4JRemRYPQWzqHwtbUChUbX) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7), [HUE SOUND](https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [WANTS](https://open.spotify.com/album/4pcaYJSjvTgzpkZ3uBGAs6) | 2:49 | 2024-05-08 |  |

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-264 songs - 13 hr 42 min
+265 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cadillac](https://open.spotify.com/track/4xCFv3QBK1dgEaSBdv3oSQ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [G\-Deep](https://open.spotify.com/artist/04TBxwAscXweXCGgYdQ3zE) | [Storm Shadow](https://open.spotify.com/album/2t7PoBOHJGERxRqaqBpX9B) | 3:29 | 2023-03-29 | 2023-04-17 |
 | [California Blaze](https://open.spotify.com/track/0qsDLoN3Tvb3aOoa3h4TnP) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [California Blaze](https://open.spotify.com/album/1LCr8RKvVMWYuIxrdvbEBn) | 2:41 | 2024-01-08 | 2024-01-18 |
 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 | 2024-04-20 |
-| [CBSC](https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv) | [The Siege](https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [CBSC](https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m) | 1:22 | 2024-04-30 |  |
+| [CBSC](https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv) | [The Siege](https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [CBSC](https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m) | 1:22 | 2024-04-30 | 2024-05-11 |
 | [Chai aur Meetha](https://open.spotify.com/track/4ndJIyM9HIu1OoMkciX0Gz) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Chai aur Meetha](https://open.spotify.com/album/4wOIhztS8Urn8LXqXMIX3X) | 3:31 | 2024-03-26 | 2024-04-13 |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
@@ -75,6 +75,7 @@
 | [Dayein Bayein](https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Dayein Bayein](https://open.spotify.com/album/1JrHE6GJZg6brN76ueQ1rI) | 2:28 | 2023-03-29 | 2023-04-17 |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-06-02 |
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-08 |  |
+| [Dhandho](https://open.spotify.com/track/1eIwEnZPmLeeA622uvG1r3) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dhandho](https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG) | 2:54 | 2024-05-10 |  |
 | [Diamond Cuban](https://open.spotify.com/track/23DBeqyrFvncQFf9jiuklR) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav) | [Diamond Cuban](https://open.spotify.com/album/6Fr1RH31zkKK97EduZMe5q) | 3:28 | 2023-11-22 | 2023-12-07 |
 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 | 2024-04-18 |  |
 | [Dil Mera Lagta Na](https://open.spotify.com/track/5CCAA44j52JRp6aCANt0s2) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [Dil Mera Lagta Na](https://open.spotify.com/album/1pjYNOluWV7DBPhB0l70tc) | 3:54 | 2024-01-17 | 2024-02-07 |

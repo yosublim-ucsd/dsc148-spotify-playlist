@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 136363,
       "name": "Fire (From \"Je Jatt Vigarh Gya\")",
       "url": "https://open.spotify.com/track/7FEoHQ0OvfyYFkg2poZcPJ"
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 206937,
       "name": "Hisaab",
       "url": "https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU"
@@ -3304,6 +3304,24 @@
       "duration_ms": 182608,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1rtqV8vLqY6bvFw1Mna6rs"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/1jsSLa1KF0jiIF478DuRz2"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146291,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/0we5RCdeet7eNtk7WPLuBk"
     },
     {
       "album": {
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 167000,
       "name": "Limits Mf",
       "url": "https://open.spotify.com/track/5kRk6eo8mj6RLscxoa1S1c"
@@ -7467,6 +7485,28 @@
     },
     {
       "album": {
+        "name": "True Flex",
+        "url": "https://open.spotify.com/album/0ZuI6fA71OYPGfk6aQaAxS"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187752,
+      "name": "True Flex",
+      "url": "https://open.spotify.com/track/142EYw6fdw4RPKuNSuvYvc"
+    },
+    {
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
       },
@@ -7860,6 +7900,28 @@
       "duration_ms": 160631,
       "name": "Way Bigger",
       "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
+    },
+    {
+      "album": {
+        "name": "We Different",
+        "url": "https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "We Different",
+      "url": "https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB"
     },
     {
       "album": {

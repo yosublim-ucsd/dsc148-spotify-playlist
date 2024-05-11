@@ -4,7 +4,7 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-187 songs - 9 hr 39 min
+190 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alpha Waves 100\-110 Hz \- Relieve Stress](https://open.spotify.com/track/0zOELDIfYwIF3t5l6cagpV) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Alpha Waves 100\-110 Hz \- Relieve Stress](https://open.spotify.com/album/23V112ZYp3eax0NmbVHaGt) | 2:28 | 2023-11-24 |  |
 | [Alpha Waves Focus 92\-100 Hz](https://open.spotify.com/track/1zzEZSNl2gz6gFznvzzrvL) | [Binaural Delta Sleep](https://open.spotify.com/artist/1BhL6JmVQYO2USLM1HbzKd) | [Alpha Waves Focus 92\-100 Hz](https://open.spotify.com/album/2gr0cnsNPaWWIcmIMpd2cL) | 2:30 | 2023-11-24 |  |
 | [Arco Drone Theta 193Hz \- 199Hz](https://open.spotify.com/track/6CjH9tVjPF0gp8OEOsPvxp) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Violin Drones](https://open.spotify.com/album/61U6duTreheP36EenAHyVx) | 2:57 | 2023-11-24 |  |
+| [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 | 2024-05-11 |  |
 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 | 2023-11-24 |  |
 | [Binaural 5HZ Theta \- 65HZ \- 70HZ](https://open.spotify.com/track/1ceFbynOnDRdIkWnwDpQS9) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural 2](https://open.spotify.com/album/4eCytLY2LUz4QdXeOCf3xd) | 2:40 | 2023-11-24 |  |
 | [Binaural Alpha : Ganesha](https://open.spotify.com/track/1fndXvZoBcl79HeMR5MZ6Q) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 2:00 | 2023-11-24 |  |
@@ -95,6 +96,7 @@
 | [Clarifying Alpha Frequencies 82\-90 Hz](https://open.spotify.com/track/5ycP8oHkFgBjS3Zei0jzZB) | [Carl Burch](https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL) | [Clarifying Alpha Frequencies 82\-90 Hz](https://open.spotify.com/album/3Sxy2dzXHOv4qUfhOwn0ao) | 2:32 | 2023-11-24 |  |
 | [Colors](https://open.spotify.com/track/6eKAnxOAUfeGz8wr6vbPSt) | [The Binaural Girl](https://open.spotify.com/artist/1SZvf7oGMJwvncGXAFMWvs) | [Colors](https://open.spotify.com/album/6A9BWzxpAgJyV8LZx6p9ez) | 1:49 | 2023-11-24 | 2024-02-17 |
 | [Cortex Rejuvenation 285 Hz](https://open.spotify.com/track/0ddNn86lIO7EHUlZogHAdN) | [Solfonia Bliss](https://open.spotify.com/artist/5ZCCivqbuWNWLeUWqcJ56h) | [Cortex Rejuvenation 285 Hz](https://open.spotify.com/album/1S6k1X61MbiWNePiaiPWrc) | 3:15 | 2024-02-16 | 2024-03-08 |
+| [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 | 2024-05-11 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2023-11-24 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2023-11-24 |  |
 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 | 2023-11-24 |  |
@@ -154,6 +156,7 @@
 | [Relaxing Theta Waves 92\-96 Hz](https://open.spotify.com/track/36M1de1Dca6qXTnFt2zxSG) | [Ana Holland](https://open.spotify.com/artist/2xNG0IeQxgBSyRV1jWVzJ2) | [Relaxing Theta Waves 92\-96 Hz](https://open.spotify.com/album/06PjXjx45WlcNXDQWvJJgm) | 2:34 | 2023-11-24 |  |
 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 | 2023-11-24 |  |
 | [Sheltered Bliss \(Theta Binaural\)](https://open.spotify.com/track/4pALVgOK3aKWKNIcGpVsek) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Inner Flow Serenity & Sheltered Bliss \(Theta Binaural\)](https://open.spotify.com/album/1lRvTChClmHDRTP5ktfo7S) | 3:21 | 2023-11-24 |  |
+| [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/track/2jON4MqXy28rCO5GeJ8gI8) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/album/5xQtNWRsX4cmd0rQCJUlZB) | 2:40 | 2024-05-11 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-11-24 |  |
 | [slowed time \(theta state\)](https://open.spotify.com/track/116yTLdb4UTY2YIqJ27Zvc) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [slowed time & bravery within \(theta binaural\)](https://open.spotify.com/album/79lFMqK222Nb8KVQkkPzwS) | 3:57 | 2023-11-24 |  |
 | [Snow Valley \- Alpha Sinus 117Hz \- 125Hz](https://open.spotify.com/track/5YQrkEoSX6e7vH0vnAeXir) | [Weightless Light](https://open.spotify.com/artist/71K8pRSp653sdTp9NS2rS9) | [Ocean of Beauty](https://open.spotify.com/album/6JOxajCyVgdEOcQw4k1jAG) | 4:09 | 2023-11-24 |  |

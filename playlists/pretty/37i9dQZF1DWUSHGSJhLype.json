@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc Jacar\u00e9, Luan Pereira",
-  "num_followers": 511463,
+  "num_followers": 517276,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj0MJgAAAABiZBEem6itg9k9aO2egQLc",
+  "snapshot_id": "Zj50CQAAAACMXQ9hALLRD2gT4qYMLQIq",
   "tracks": [
     {
       "added_at": "2024-05-09 17:47:18",
@@ -767,6 +767,30 @@
     {
       "added_at": "2024-05-09 17:47:18",
       "album": {
+        "name": "Barulho do Prazer",
+        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Barulho do Prazer",
+      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
+    },
+    {
+      "added_at": "2024-05-09 17:47:18",
+      "album": {
         "name": "Furduncinho do Rogerinho",
         "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 166875,
       "name": "Dano Sarrada - Remix",
       "url": "https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op"
-    },
-    {
-      "added_at": "2024-05-09 17:47:18",
-      "album": {
-        "name": "Barulho do Prazer",
-        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 150399,
-      "name": "Barulho do Prazer",
-      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
     },
     {
       "added_at": "2024-05-09 17:47:18",
@@ -991,22 +991,18 @@
     {
       "added_at": "2024-05-09 17:47:18",
       "album": {
-        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
+        "name": "Ind\u00edcios",
+        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
       },
       "artists": [
         {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 147116,
-      "name": "5 Da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+      "duration_ms": 228301,
+      "name": "Coladin (Minha Deusa)",
+      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
     },
     {
       "added_at": "2024-05-09 17:47:18",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2024-05-09 17:47:18",
       "album": {
-        "name": "Ind\u00edcios",
-        "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
+        "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 228301,
-      "name": "Coladin (Minha Deusa)",
-      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
+      "duration_ms": 147116,
+      "name": "5 Da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
     },
     {
       "added_at": "2024-05-09 17:47:18",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2024-05-09 17:47:18",
       "album": {
-        "name": "Quantas Bocas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3AicQSEtfUfYZxOOsykKuV"
+        "name": "Energia Benzadeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
       },
       "artists": [
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         },
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 169477,
-      "name": "Quantas Bocas - Ao Vivo",
-      "url": "https://open.spotify.com/track/28GAkQrnfaEzJv7GeCiGHN"
+      "duration_ms": 153045,
+      "name": "Despedida De Solteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
     },
     {
       "added_at": "2024-05-09 17:47:18",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2024-05-09 17:47:18",
       "album": {
-        "name": "Energia Benzadeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+        "name": "Quantas Bocas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3AicQSEtfUfYZxOOsykKuV"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 153045,
-      "name": "Despedida De Solteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
+      "duration_ms": 169477,
+      "name": "Quantas Bocas - Ao Vivo",
+      "url": "https://open.spotify.com/track/28GAkQrnfaEzJv7GeCiGHN"
     },
     {
       "added_at": "2024-05-09 17:47:18",

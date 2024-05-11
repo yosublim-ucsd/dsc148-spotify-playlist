@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Azure Serenade",
+        "url": "https://open.spotify.com/album/13JWR7S8QRWcSCio2uPQXc"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "Azure Serenade",
+      "url": "https://open.spotify.com/track/57zQFDUTVCpBwwC6Z6WUQB"
+    },
+    {
+      "album": {
         "name": "Beila's Comet",
         "url": "https://open.spotify.com/album/3TKaoqXuRk1EmMM5q2HYZL"
       },
@@ -2165,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Pacifice",
+        "url": "https://open.spotify.com/album/4hyyIsYeUZH4stQejwmJI0"
+      },
+      "artists": [
+        {
+          "name": "Dhyana Thomas",
+          "url": "https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174552,
+      "name": "Pacifice",
+      "url": "https://open.spotify.com/track/7rauYCQ1gucW5dS0pgDIxC"
+    },
+    {
+      "album": {
         "name": "Barcelona Atmosphere",
         "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
       },
@@ -2846,6 +2882,24 @@
       "duration_ms": 176500,
       "name": "Sigur",
       "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
+    },
+    {
+      "album": {
+        "name": "Silken Shades",
+        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Silken Shades",
+      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Dani Ribba & Jesse Baez.",
+  "description": "Flow sudamericano con COSMIC KID.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 184760,
       "name": "A Toda Hora",
       "url": "https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4"
@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "All Ki Misters",
+        "url": "https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "RepliK",
+          "url": "https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "All Ki Misters",
+      "url": "https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi"
+    },
+    {
+      "album": {
         "name": "Afrocito",
         "url": "https://open.spotify.com/album/0G75T7MelxGCrgWsFp7POC"
       },
@@ -1869,6 +1891,28 @@
     },
     {
       "album": {
+        "name": "Angel And Demon",
+        "url": "https://open.spotify.com/album/5DptX3cP2LTypxiaHkzela"
+      },
+      "artists": [
+        {
+          "name": "El Oriental10",
+          "url": "https://open.spotify.com/artist/4PxkoHjth6X7uqcIm30nq6"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Angel And Demon",
+      "url": "https://open.spotify.com/track/460MwH0FB1s38JL5LgJCNf"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/7qyGqe7ESkpvbaooxEvXh5"
       },
@@ -2074,6 +2118,52 @@
       "duration_ms": 163200,
       "name": "Aracnofobia",
       "url": "https://open.spotify.com/track/58zcBvEjBEIi7ZpFOImgTm"
+    },
+    {
+      "album": {
+        "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
+        "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tunvao",
+          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318259,
+      "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
+      "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
     },
     {
       "album": {
@@ -3623,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "BRINCANDO",
+        "url": "https://open.spotify.com/album/4BgSbrA8QJn6ygkAbWYkb5"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115560,
+      "name": "BRINCANDO",
+      "url": "https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY"
+    },
+    {
+      "album": {
         "name": "Broadway",
         "url": "https://open.spotify.com/album/5ZwTnloEdLKmx0j8f5bj1O"
       },
@@ -3718,6 +3826,24 @@
       "duration_ms": 185699,
       "name": "Buen Rato",
       "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
+    },
+    {
+      "album": {
+        "name": "Mal Augurio",
+        "url": "https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Buena Suerte :)",
+      "url": "https://open.spotify.com/track/5l6eMDDoiKnuW6CQIYdO8U"
     },
     {
       "album": {
@@ -3974,7 +4100,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 205241,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
@@ -4470,7 +4596,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 158350,
       "name": "Chica de Museo",
       "url": "https://open.spotify.com/track/3OXUoMGGvJhbKXZOMWUX3C"
@@ -6744,7 +6870,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 175265,
       "name": "Diamante en Bruto",
       "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
@@ -7118,6 +7244,28 @@
       "duration_ms": 170196,
       "name": "Domin\u00f3",
       "url": "https://open.spotify.com/track/1VIy9868RLlF2zcyway5ed"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/68PRTsXDL3cNEBSEPYe2D8"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/2bkYqbAQAop9flpC6WiWny"
     },
     {
       "album": {
@@ -8686,7 +8834,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 122040,
       "name": "Factos",
       "url": "https://open.spotify.com/track/031uMsGKA6CFboZDCX3xSu"
@@ -11867,6 +12015,28 @@
     },
     {
       "album": {
+        "name": "L.A REMIX",
+        "url": "https://open.spotify.com/album/3G4o1vlgWRDZHE3ToVru28"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177287,
+      "name": "L.A REMIX",
+      "url": "https://open.spotify.com/track/2jvXxPR1Z4esXiL5nlziHa"
+    },
+    {
+      "album": {
         "name": "L0JI",
         "url": "https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG"
       },
@@ -11882,7 +12052,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 180280,
       "name": "L0JI",
       "url": "https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI"
@@ -16008,7 +16178,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201325,
       "name": "MOET",
       "url": "https://open.spotify.com/track/5vYX5KKeG6jKIHY5NZDtDw"
@@ -20068,7 +20238,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171882,
       "name": "PINK FLOYD",
       "url": "https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e"
@@ -21156,6 +21326,24 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "QUICKIE",
+        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "QUICKIE",
+      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
     },
     {
       "album": {

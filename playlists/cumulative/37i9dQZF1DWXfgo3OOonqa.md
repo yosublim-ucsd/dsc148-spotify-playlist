@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,456 songs - 2 day 15 hr 50 min
+1,457 songs - 2 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Dikembe Mutombo](https://open.spotify.com/track/0XTatUuWCV9Cjfue2Y3PiP) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Dikembe Mutombo](https://open.spotify.com/album/4bSVtE8StstXg8BhEZpwQf) | 2:35 | 2022-02-25 | 2022-03-25 |
 | [Dilemma](https://open.spotify.com/track/0x8ZdkATlHBkyn4eGYq9Gw) | [Castro x Picasso](https://open.spotify.com/artist/4fS8AQG87ns7nrKuFW9wbO), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Dilemma](https://open.spotify.com/album/4ABh1WUHu0hCHOxC2AaNTu) | 3:02 | 2022-06-17 | 2022-07-08 |
 | [DIMMAN](https://open.spotify.com/track/1NFtCUwN5Td1lDNmqSvWyG) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [FRÖ TILL TRÄD](https://open.spotify.com/album/5LXvbb8ULvqzS48Xo9aIc6) | 3:07 | 2023-02-02 | 2023-02-24 |
+| [Dimman](https://open.spotify.com/track/6c14bUlL2R9l4UKPWrxMUY) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Dimman](https://open.spotify.com/album/0QBceTky96ytILAsRJBDFU) | 2:15 | 2024-05-10 |  |
 | [DIN TUR](https://open.spotify.com/track/184lVKP37X3JUxPgPMy4y4) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH) | [DIN TUR](https://open.spotify.com/album/2ZHrkIBj8uZoEIhShJLhK0) | 2:53 | 2023-01-12 | 2023-01-20 |
 | [DIRTY](https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [DIRTY](https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0) | 2:18 | 2022-08-05 | 2022-11-25 |
 | [Dirty Kalle](https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Dirty Kalle](https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU) | 2:26 | 2021-12-16 | 2022-01-28 |

@@ -3243,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "fade",
+        "url": "https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh"
+      },
+      "artists": [
+        {
+          "name": "dashie",
+          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146782,
+      "name": "fade",
+      "url": "https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU"
+    },
+    {
+      "album": {
         "name": "Fall Too Deep",
         "url": "https://open.spotify.com/album/2OpVgefNKPZTYbIEmyIAi1"
       },

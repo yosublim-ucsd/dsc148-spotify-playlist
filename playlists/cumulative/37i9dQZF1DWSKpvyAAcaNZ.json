@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0xzmV0tYqMQEkNNCMyUbWR"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189490,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0zjUFAOT0yOV3uCN6o0G87"
+    },
+    {
+      "album": {
         "name": "Company Man",
         "url": "https://open.spotify.com/album/4jlQAK09Eb4nBhmj6dex0Q"
       },
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 149895,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/5V6JS67petdOBOIo2Lz16y"

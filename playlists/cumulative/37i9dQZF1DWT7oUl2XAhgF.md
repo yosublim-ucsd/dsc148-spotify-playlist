@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-410 songs - 1 day 0 hr 46 min
+412 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 | 2024-03-02 |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 | 2023-03-25 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-07-09 | 2023-01-28 |
-| [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-06-02 |  |
+| [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-06-02 | 2024-05-11 |
 | [Cruisin' to the Parque](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 | 2021-12-03 | 2023-02-25 |
 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/5ogtCRgBDDaPjInCBcFHTg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/1m38XyH8I9KSgnkhv4Axd1) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-04-05 |  |
@@ -76,6 +76,7 @@
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
 | [Digging up Graves](https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B) | [Karen Lee Andrews](https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20) | [EDIN](https://open.spotify.com/album/50py568QonJj2aTffsp4Qm) | 3:43 | 2022-10-07 | 2022-11-12 |
 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 | 2021-07-09 | 2023-01-28 |
+| [Doing The Thing](https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Doing The Thing](https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY) | 3:30 | 2024-05-10 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
@@ -214,7 +215,7 @@
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-07-09 | 2023-01-28 |
 | [Love and Hate in a Different Time \- Edit](https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 3:28 | 2021-08-06 | 2023-06-03 |
 | [Love Bird](https://open.spotify.com/track/280aVp4Q3m5g9RZkVSp50p) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [Love Bird](https://open.spotify.com/album/0iniUlY3Z8tAruoZhXdl1d) | 3:09 | 2022-11-11 | 2023-01-14 |
-| [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 | 2024-04-12 |  |
+| [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 | 2024-04-12 | 2024-05-11 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 | 2024-01-27 |
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-28 | 2023-07-01 |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
@@ -235,6 +236,7 @@
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-07-29 |
+| [Mom Of Mine](https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Mom Of Mine](https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN) | 3:07 | 2024-05-10 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-04 | 2024-03-30 |
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2022-11-11 | 2023-08-19 |
 | [Motorbike](https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:08 | 2021-07-09 | 2022-08-01 |

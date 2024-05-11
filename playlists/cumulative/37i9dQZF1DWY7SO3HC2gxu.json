@@ -28,7 +28,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 221359,
       "name": "3 Tingz",
       "url": "https://open.spotify.com/track/1d4KRceZZhzweBscFL2NsU"
@@ -302,6 +302,28 @@
       "duration_ms": 383606,
       "name": "Dakar - Extended mix",
       "url": "https://open.spotify.com/track/19Zay2GOA8Ebe9cuinWfNJ"
+    },
+    {
+      "album": {
+        "name": "Digane",
+        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162701,
+      "name": "Digane",
+      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
     },
     {
       "album": {
@@ -826,7 +848,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 382439,
       "name": "Kamweretho",
       "url": "https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 480000,
       "name": "Mohawk Man",
       "url": "https://open.spotify.com/track/3E0T81r9gsMNNdX4BKSRM5"
@@ -2061,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/142xEJh5sfsTwQKbAQMfrX"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398644,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/3OOpOE6Dgxe2ianj4i5B97"
+    },
+    {
+      "album": {
         "name": "Pray To God",
         "url": "https://open.spotify.com/album/62ie0Jhk5Q652kHONqxEcN"
       },
@@ -2072,7 +2112,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 182867,
       "name": "Pray To God",
       "url": "https://open.spotify.com/track/0FyxV8ikLg4L824IbC9U1a"
@@ -2505,6 +2545,40 @@
     },
     {
       "album": {
+        "name": "Nyumbani",
+        "url": "https://open.spotify.com/album/1bijg6TZQo6cw9HXJA9B2x"
+      },
+      "artists": [
+        {
+          "name": "Ally Fresh",
+          "url": "https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh"
+        },
+        {
+          "name": "Dj Mura K.E",
+          "url": "https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Labdi",
+          "url": "https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/4Lbk3hfElBVH4lTybSGGWo"
+    },
+    {
+      "album": {
         "name": "Tobina",
         "url": "https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a"
       },
@@ -2646,6 +2720,32 @@
       "duration_ms": 330622,
       "name": "Uka\u00e1",
       "url": "https://open.spotify.com/track/3bpXqUTAXGFQkB7SNRGREn"
+    },
+    {
+      "album": {
+        "name": "Umeenda",
+        "url": "https://open.spotify.com/album/6HehIb9CsvNbFOGEyV9IqT"
+      },
+      "artists": [
+        {
+          "name": "Wisso",
+          "url": "https://open.spotify.com/artist/3mJZuJENgznvbVjsKIRgoh"
+        },
+        {
+          "name": "Jacob Eighty8",
+          "url": "https://open.spotify.com/artist/5M6IZx3cuTFW2kaKtztj5x"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420937,
+      "name": "Umeenda",
+      "url": "https://open.spotify.com/track/1F1Q6F5c7z3EDgptzYOmGT"
     },
     {
       "album": {

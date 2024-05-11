@@ -1,12 +1,12 @@
 {
-  "description": "This Is New Found Glory. Los temas esenciales, todos en una lista.",
-  "num_followers": 39682,
+  "description": "This is New Found Glory. The essential tracks, all in one playlist.",
+  "num_followers": 39684,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAADG6VaafjKTpCT4GFOvFBLr",
+  "snapshot_id": "ZjwSAAAAAADUS0q8X2W85M2EDbo7zWep",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 177037,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 208266,
       "name": "Don't Let Her Pull You Down",
       "url": "https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 177037,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204470,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 134933,
       "name": "Truck Stop Blues",
       "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204470,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 171533,
       "name": "47",
       "url": "https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
     },
     {
       "added_at": null,

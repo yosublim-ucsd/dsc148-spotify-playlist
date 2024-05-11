@@ -531,6 +531,32 @@
     },
     {
       "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "A M Turaz",
+          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243792,
+      "name": "Chaudhavi Shab",
+      "url": "https://open.spotify.com/track/7p87RATknowYjH1siFCC3P"
+    },
+    {
+      "album": {
         "name": "CHAUDHVI KI RAAT",
         "url": "https://open.spotify.com/album/5LeOrQu0YDHEQrCyikAreV"
       },

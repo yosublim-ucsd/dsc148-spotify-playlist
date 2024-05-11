@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-270 songs - 13 hr 38 min
+273 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dorado Brilla \- Ambient Meditation Music](https://open.spotify.com/track/2UztrDvXxwLaamIDFlDpcT) | [The Earth & I](https://open.spotify.com/artist/7E4rPNiqfq0hG54aXnRwvD) | [Mystic Peru](https://open.spotify.com/album/19kg8qpfYZa2VwkVAX9jos) | 3:11 | 2022-07-15 | 2022-09-24 |
 | [Dream about me](https://open.spotify.com/track/6L1sKb2kv74gPGUpjkybTO) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Dream about me](https://open.spotify.com/album/3XHxAXn40Nwlbjrg6rbRlK) | 2:58 | 2022-07-15 |  |
 | [Dream Light](https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Dream Light](https://open.spotify.com/album/7h9E6lWTD3IZWLL0wJKwY9) | 2:16 | 2022-07-15 |  |
+| [Dream Observatory](https://open.spotify.com/track/0BFG5pigu7WaI7miHK842J) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Dream Observatory](https://open.spotify.com/album/5HUAseZbOvUUTXlQDt93Yo) | 3:29 | 2024-05-10 |  |
 | [Dree](https://open.spotify.com/track/7pesKriQybH0DBYTA5FbM0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Dree](https://open.spotify.com/album/7bpMNe8Sr5XDlkrbqSHdm3) | 2:24 | 2023-08-04 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-07-15 | 2023-07-01 |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
@@ -181,6 +182,7 @@
 | [Omsluten](https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Omsluten](https://open.spotify.com/album/5ATPZF3T6j6YMrC7sMl8Wv) | 3:21 | 2022-07-15 |  |
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-12-02 |  |
 | [Open Heart](https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Open Heart](https://open.spotify.com/album/5CgkPzpExkZMVYR6mpaE2S) | 2:48 | 2022-07-15 |  |
+| [Orbital Journey](https://open.spotify.com/track/28NiR9IKGGzLXaN7uR38SW) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Orbital Journey](https://open.spotify.com/album/3gD6xjvI7wqEjPVI9uqbmg) | 2:58 | 2024-05-10 |  |
 | [Our Sky](https://open.spotify.com/track/1yncwCa1tcGKxaHAZuNdRL) | [De Janos](https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl) | [Our Sky](https://open.spotify.com/album/4SuAcGPdMEidSJCZq6qFz2) | 3:13 | 2023-08-11 |  |
 | [Out Of This World](https://open.spotify.com/track/7fmkOm5DYbZvuTH5QKNvZd) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [Out Of This World](https://open.spotify.com/album/3ZD5e8xNEBWmY6ORXr7y1A) | 3:06 | 2023-06-23 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-07-15 |  |
@@ -232,6 +234,7 @@
 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 |  |
 | [Sleeping Giants](https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v) | [Damien Monieu](https://open.spotify.com/artist/0e6TRegnf204V3t3TFftdA) | [Sleeping Giants](https://open.spotify.com/album/7FWW4gjaJs1FLnSNoUXYfv) | 2:27 | 2022-07-15 | 2023-06-17 |
 | [Slumber](https://open.spotify.com/track/33KyZMzOl4ah74UBMr18kA) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Slumber](https://open.spotify.com/album/2SISMhtO0zydHwtHpV67yV) | 3:25 | 2023-10-02 |  |
+| [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 | 2024-05-10 |  |
 | [Sol](https://open.spotify.com/track/7AbWodkJgM2N9Ak9BWynyx) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Sol](https://open.spotify.com/album/5dRowdaNxlPyESIG6ZSSig) | 3:30 | 2022-07-15 | 2023-11-11 |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2022-07-15 | 2023-09-23 |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-07-15 |  |

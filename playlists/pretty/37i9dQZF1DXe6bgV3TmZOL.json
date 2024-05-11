@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2377171,
+  "num_followers": 2377362,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2024-03-18 19:15:24",
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 305906,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+    },
+    {
+      "added_at": "2024-03-18 19:15:24",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-03-18 19:15:24",
-      "album": {
         "name": "Resentment",
         "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Violent Noise",
-        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
       },
       "artists": [
         {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 193653,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1183,6 +1167,22 @@
       "duration_ms": 232640,
       "name": "No More",
       "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+    },
+    {
+      "added_at": "2024-03-18 19:15:24",
+      "album": {
+        "name": "Violent Noise",
+        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Torn in Two",
-      "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
-    },
-    {
-      "added_at": "2024-03-18 19:15:24",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx"
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
       "artists": [
         {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Bloodline",
-      "url": "https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3"
+      "duration_ms": 257453,
+      "name": "Torn in Two",
+      "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1283,6 +1267,22 @@
       "duration_ms": 252923,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0eLcZsqcdFoosQC3DV3d4L"
+    },
+    {
+      "added_at": "2024-03-18 19:15:24",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
-      "added_at": "2024-03-18 19:15:24",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2024-03-18 19:15:24",
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
     },
     {
       "added_at": "2024-03-18 19:15:24",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-18 19:15:24",
       "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
+    },
+    {
+      "added_at": "2024-03-18 19:15:24",
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
-    },
-    {
-      "added_at": "2024-03-18 19:15:24",
-      "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
     },
     {
       "added_at": "2024-03-18 19:15:24",

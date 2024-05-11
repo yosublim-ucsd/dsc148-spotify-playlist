@@ -10029,6 +10029,24 @@
     },
     {
       "album": {
+        "name": "In My City",
+        "url": "https://open.spotify.com/album/07cDGcvU9dyKDZ23rSLbbT"
+      },
+      "artists": [
+        {
+          "name": "BMG Dmack",
+          "url": "https://open.spotify.com/artist/78LTEEfreqlEoRJ0Zv94Fy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117080,
+      "name": "In My City",
+      "url": "https://open.spotify.com/track/3mMRjaMDZir1leHaOJL5z1"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/49GsB9b99OTRqYe6R9L7Je"
       },
@@ -21820,7 +21838,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 164427,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw"

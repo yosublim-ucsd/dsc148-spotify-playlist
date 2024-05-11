@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 225500,
       "name": "Asi Morire",
       "url": "https://open.spotify.com/track/3w21zNcx8MJXHRbPHWSzMn"
@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 288235,
       "name": "De Donde Vengo",
       "url": "https://open.spotify.com/track/26tOATEcWkKnW1SI6fTMrO"
@@ -3408,6 +3408,28 @@
       "duration_ms": 147104,
       "name": "El Puente",
       "url": "https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu"
+    },
+    {
+      "album": {
+        "name": "El Trip",
+        "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "El Trip",
+      "url": "https://open.spotify.com/track/0aAH9fnlsBdcc61MZGHmLH"
     },
     {
       "album": {
@@ -6516,7 +6538,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 202500,
       "name": "Mi Raza",
       "url": "https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB"
@@ -6542,6 +6564,28 @@
       "duration_ms": 178500,
       "name": "Mi Realidad",
       "url": "https://open.spotify.com/track/5a9wrQQuT2IgSVH8jKeE3P"
+    },
+    {
+      "album": {
+        "name": "Mirando al Cielo",
+        "url": "https://open.spotify.com/album/4U6lt3vknnf5euF1I0WKwh"
+      },
+      "artists": [
+        {
+          "name": "Caronte G",
+          "url": "https://open.spotify.com/artist/2gEEI24C34fljRQZdSA9lb"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Mirando al Cielo",
+      "url": "https://open.spotify.com/track/2W55sN1wwYV408hRPzrgl4"
     },
     {
       "album": {
@@ -8870,7 +8914,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201666,
       "name": "Respeto X Respeto",
       "url": "https://open.spotify.com/track/5z3dtTkyyKCs0yu0aQp8zI"
@@ -11373,6 +11417,36 @@
     },
     {
       "album": {
+        "name": "Vuela el Humo",
+        "url": "https://open.spotify.com/album/6nsponYrrvlEzGDsEEPSoO"
+      },
+      "artists": [
+        {
+          "name": "Eanz",
+          "url": "https://open.spotify.com/artist/1n3IJebgRBALmnzo45Q3mD"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192038,
+      "name": "Vuela el Humo",
+      "url": "https://open.spotify.com/track/3ntqtZ7WCVw0rJc4pzGgGW"
+    },
+    {
+      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC"
       },
@@ -11650,6 +11724,24 @@
       "duration_ms": 276635,
       "name": "Yubona",
       "url": "https://open.spotify.com/track/3fOphNOBQo0XBQ28GHd1HE"
+    },
+    {
+      "album": {
+        "name": "MISANTROP\u00cdA",
+        "url": "https://open.spotify.com/album/4lyyQwIlBpadz8EqjOY9gG"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148466,
+      "name": "Zona de Confort - C'est la mort",
+      "url": "https://open.spotify.com/track/500dEk4B8u8zcftKqUQIVu"
     },
     {
       "album": {

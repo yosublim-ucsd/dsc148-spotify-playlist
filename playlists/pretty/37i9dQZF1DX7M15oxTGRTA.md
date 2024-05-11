@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,027 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,970 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
 | 100 | [Playing Your Game, Baby \- Single Version](https://open.spotify.com/track/2mqKNTdxl7eyKyfTNl0gw4) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Best Of Barry White 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0BTmpW0Of2rQ10Xr8IoMNk) | 3:36 |
 
-Snapshot ID: `ZQNb7gAAAACYpIQ9+UkwgxlyL4hm9PrC`
+Snapshot ID: `Zj5tnwAAAACUwEqINI6T121rsyU1421i`

@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
 
-135 songs - 8 hr 6 min
+136 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/5MbszOoRyTOwOIJEOIZn6v) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 0:00 | 2021-12-01 | 2023-03-29 |
 | [](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 0:00 | 2022-12-09 | 2023-03-29 |
 | [Achacho \- From "Aranmanai 4"](https://open.spotify.com/track/5eSoySxUnx3xsm0FHFgHiv) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Achacho \(From "Aranmanai 4"\)](https://open.spotify.com/album/38v7imWGztnKKx1SZuf5o3) | 3:13 | 2024-04-15 |  |
+| [Adangaatha Asuran \(From "Raayan"\)](https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Adangaatha Asuran \(From "Raayan"\)](https://open.spotify.com/album/6gcIDhQn4z8318osjgVNME) | 4:09 | 2024-05-10 |  |
 | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/album/61DkChDkz3MoWGypHYVdCP) | 4:19 | 2022-04-22 |  |
 | [Adhirudha \- From "Mark Antony"](https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Adhirudha \(From "Mark Antony"\)](https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s) | 4:00 | 2023-07-16 |  |
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2021-12-01 |  |

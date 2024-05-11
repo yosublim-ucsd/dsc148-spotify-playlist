@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT?si=MUi0Bg2xTv6EhGg8ZnapmQ>Sarah Téibo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,048 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,089 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

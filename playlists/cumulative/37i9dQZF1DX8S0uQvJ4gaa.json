@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Megan Moroney",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Lily Rose",
   "name": "New Boots",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 171680,
       "name": "Ain't She",
       "url": "https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Runnin\u2019 Outta Time",
+        "url": "https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Back Pew",
+      "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
+    },
+    {
+      "album": {
         "name": "Back Porch",
         "url": "https://open.spotify.com/album/7umAS25A6gtfXSECqRAVtw"
       },
@@ -2647,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "album": {
         "name": "Lost My Heartbreak",
         "url": "https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK"
       },
@@ -3054,7 +3090,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 206240,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/2eCgRuEddwFVOKLC9uERD3"
@@ -3465,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/6iq0bvsgI0En6mjsPN9Z73"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158173,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/3OyDQE1kQawm1xGhVc4uiR"
+    },
+    {
+      "album": {
         "name": "Blow off Steam",
         "url": "https://open.spotify.com/album/5DOudCRlNIrmM1BEkNEiTE"
       },
@@ -3530,7 +3584,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 245511,
       "name": "Blue Over You",
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
@@ -4146,7 +4200,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 220143,
       "name": "Breaking My Heart",
       "url": "https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP"
@@ -4330,6 +4384,24 @@
       "duration_ms": 189880,
       "name": "Build Me A Daddy",
       "url": "https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X"
+    },
+    {
+      "album": {
+        "name": "Built by Broken Hearts",
+        "url": "https://open.spotify.com/album/7JOwEL7RKpB6vdYXH3snG8"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Built by Broken Hearts",
+      "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
     },
     {
       "album": {
@@ -5196,7 +5268,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 169218,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/7HAD0NBufBMMzWPnwoFc4y"
@@ -9159,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Rise & Fall",
+        "url": "https://open.spotify.com/album/4qSFCfqrmdQ7OOnPeUsjoz"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Fall of Summer",
+      "url": "https://open.spotify.com/track/5YOAM7GS2QQu1TCGnhVhnh"
+    },
+    {
+      "album": {
         "name": "FALLING FOR YOU",
         "url": "https://open.spotify.com/album/5Im6CWm84lFrpsYhaIKExA"
       },
@@ -9362,6 +9452,24 @@
       "duration_ms": 204227,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/1vUVG28FJ4AYlKrk3yAPXD"
+    },
+    {
+      "album": {
+        "name": "Feel Like Hell Today",
+        "url": "https://open.spotify.com/album/7A5cd8etZqqXpbXUsnLdE5"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Feel Like Hell Today",
+      "url": "https://open.spotify.com/track/2vAb9wcdtpEEo076TgO0GV"
     },
     {
       "album": {
@@ -9630,6 +9738,24 @@
       "duration_ms": 225360,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
+    },
+    {
+      "album": {
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/7sVTJ0L6tdJPT9ehyMnf2F"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/2hFxyYSWmzVCAqCdnAAJ9e"
     },
     {
       "album": {
@@ -13558,6 +13684,24 @@
       "duration_ms": 188326,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6pI1RgMeD2a9dA8gww2W5o"
+    },
+    {
+      "album": {
+        "name": "Heatin' Things Up",
+        "url": "https://open.spotify.com/album/5zVKvLhrTVOSQEMkccOCbH"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Heatin' Things Up",
+      "url": "https://open.spotify.com/track/64SJcptJWHf6ARsMLUPYTo"
     },
     {
       "album": {
@@ -17694,7 +17838,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 204487,
       "name": "JUST FOR FUN",
       "url": "https://open.spotify.com/track/4h6iaiMchTUHlK5ovMiJ3h"
@@ -18351,6 +18495,24 @@
     },
     {
       "album": {
+        "name": "Leads Me Home",
+        "url": "https://open.spotify.com/album/3BWWEzqzihiQp8EOQQLNNZ"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Leads Me Home",
+      "url": "https://open.spotify.com/track/6Pv0lrmyyQpSPIaGBIDukW"
+    },
+    {
+      "album": {
         "name": "Learn From It",
         "url": "https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0"
       },
@@ -18492,6 +18654,24 @@
       "duration_ms": 230632,
       "name": "Left You For Me",
       "url": "https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh"
+    },
+    {
+      "album": {
+        "name": "Leroy",
+        "url": "https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207607,
+      "name": "Leroy",
+      "url": "https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq"
     },
     {
       "album": {
@@ -19602,7 +19782,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 213080,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/4FPgVkHTMhUwQY9tIkG6qJ"
@@ -19800,7 +19980,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201806,
       "name": "Love You, Miss You, Mean It",
       "url": "https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR"
@@ -23083,6 +23263,24 @@
     },
     {
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
+    },
+    {
+      "album": {
         "name": "Not Yet",
         "url": "https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ"
       },
@@ -23394,7 +23592,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 157170,
       "name": "Off to the Races",
       "url": "https://open.spotify.com/track/3Og1UmS1igpy01saly0TWd"
@@ -24622,7 +24820,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 183000,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/39AbyPpPnVDAHzUmYxVsEx"
@@ -34655,6 +34853,24 @@
     },
     {
       "album": {
+        "name": "Wedding or a Funeral",
+        "url": "https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142974,
+      "name": "Wedding or a Funeral",
+      "url": "https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls"
+    },
+    {
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW"
       },
@@ -37930,7 +38146,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 212457,
       "name": "Younger and Wiser",
       "url": "https://open.spotify.com/track/6p5dxf9lCU0nS4taYbrc3E"

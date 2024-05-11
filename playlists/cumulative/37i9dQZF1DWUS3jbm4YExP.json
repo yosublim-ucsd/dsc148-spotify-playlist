@@ -1833,6 +1833,36 @@
     },
     {
       "album": {
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "calor do momento",
+      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "album": {
         "name": "Canette",
         "url": "https://open.spotify.com/album/3bFbLHjl3kb0DZYtrNWOt5"
       },
@@ -2578,7 +2608,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 201626,
       "name": "Dantokpa",
       "url": "https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ"
@@ -9560,7 +9590,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
@@ -11856,7 +11886,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 236551,
       "name": "The Year of the Rabbit",
       "url": "https://open.spotify.com/track/2zL9g5L3BVOgnErH3I3vvs"
@@ -11922,6 +11952,24 @@
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
+    },
+    {
+      "album": {
+        "name": "Th\u00e8me Rythme L\u00e9ger (Habibi Funk 027)",
+        "url": "https://open.spotify.com/album/4804nmdp4fOAjpRwvbLOlp"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "Th\u00e8me Rythme L\u00e9ger",
+      "url": "https://open.spotify.com/track/3SFD5CckWyQt9FW23TPR1l"
     },
     {
       "album": {
@@ -12168,6 +12216,28 @@
       "duration_ms": 287386,
       "name": "Tripping Up",
       "url": "https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o"
+    },
+    {
+      "album": {
+        "name": "Tropical Man",
+        "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226653,
+      "name": "Tropical Man",
+      "url": "https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK"
     },
     {
       "album": {

@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143743,
+      "name": "Don't You Dare Hesitate",
+      "url": "https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05"
+    },
+    {
+      "album": {
         "name": "Hari Yang Cerah",
         "url": "https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U"
       },

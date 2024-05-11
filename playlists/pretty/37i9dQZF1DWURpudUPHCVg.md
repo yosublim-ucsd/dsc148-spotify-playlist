@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURpudUPHCVg.md) - [plain]
 | 8 | [EP 3 Como Superar La Tusa](https://open.spotify.com/episode/53k5uKfHp7FMUu5WMJ5e7P) | [Si Mama Supiera](https://open.spotify.com/show/5ktHb1M3MPPMnZhyaG63kv) | [Si Mama Supiera](https://open.spotify.com/album/5ktHb1M3MPPMnZhyaG63kv) | 1:02:53 |
 | 9 | [EP 11 La Vida Es Muy Corta](https://open.spotify.com/episode/7r6SqShtn2nQUdcbjnKZpw) | [Si Mama Supiera](https://open.spotify.com/show/5ktHb1M3MPPMnZhyaG63kv) | [Si Mama Supiera](https://open.spotify.com/album/5ktHb1M3MPPMnZhyaG63kv) | 1:13:14 |
 
-Snapshot ID: `ZIxXJAAAAAAwP2zI4tUZNk6D38SPU2yi`
+Snapshot ID: `Zj5NsAAAAACUvrwnSMYcKsBr69DZ3Hch`

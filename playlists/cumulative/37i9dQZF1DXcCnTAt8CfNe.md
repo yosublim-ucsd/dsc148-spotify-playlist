@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-272 songs - 13 hr 0 min
+274 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-09 |  |
 | [Consequences](https://open.spotify.com/track/1HJI0bjrQZz5fikHmpLOC2) | [Bøyer](https://open.spotify.com/artist/6fpFvWUTUVJzShiuVCYE03) | [Consequences](https://open.spotify.com/album/2IyDRDPSirAYMvlFvQrKVL) | 3:01 | 2024-02-15 |  |
 | [Coralia](https://open.spotify.com/track/2QuojUtKiQ7l8ZQMDelt3s) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Coralia](https://open.spotify.com/album/1EE6SRjBh51zDFzF9rh1bO) | 3:17 | 2021-12-09 |  |
+| [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-10 |  |
 | [Dawn](https://open.spotify.com/track/0rLu0sVUnR6am7JxniW8mc) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Dawn](https://open.spotify.com/album/0lFIgMmREmkykFScwy15LJ) | 2:25 | 2024-04-29 |  |
 | [Daydream](https://open.spotify.com/track/0RAubp6u1ePTYC6SgXoWcY) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Daydream](https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE) | 2:31 | 2021-12-09 |  |
 | [Deep Blue](https://open.spotify.com/track/2fwWL41PZuEciP57NfTE5g) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Sleep & Relaxation Music](https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H) | 2:54 | 2021-12-09 |  |
@@ -219,6 +220,7 @@
 | [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 | 2023-02-25 |
 | [Somnolence](https://open.spotify.com/track/2T9BgAmZQT2dLqllKA5UPj) | [Zak Brady](https://open.spotify.com/artist/5sKrAIJIFlKVRkuFyG03aS) | [Somnolence](https://open.spotify.com/album/3wYmN89JOq65AStF3FqMjR) | 3:12 | 2021-12-09 |  |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-09 |  |
+| [Sonambula](https://open.spotify.com/track/0EOcXPiGbXQijlCssm3A28) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Sonambula](https://open.spotify.com/album/1u2zP74CEfUSobRte5tiIX) | 3:33 | 2024-05-10 |  |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2021-12-09 | 2022-10-15 |
 | [Soul Pretender](https://open.spotify.com/track/3MNLhJcidAO44dbDJyB2Vt) | [Joseph Gatscyjk](https://open.spotify.com/artist/68MDBlwUqOYTlNqDZUMH1t) | [Soul Pretender](https://open.spotify.com/album/6AzosJPRiJClS25TTX8kIQ) | 2:25 | 2021-12-09 | 2023-03-10 |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2021-12-09 |  |

@@ -1,13 +1,121 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Omerta",
-  "num_followers": 8548,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Knocked Loose",
+  "num_followers": 8551,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMCgCI5ztdAf7QJ6MqxDRtJQHjXovK",
+  "snapshot_id": "AAAME7oeIdcF/liPppafjklLL5LlsuSa",
   "tracks": [
+    {
+      "added_at": "2024-05-10 17:32:15",
+      "album": {
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Chris Motionless",
+          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
+        }
+      ],
+      "duration_ms": 183721,
+      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
+      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
+    },
+    {
+      "added_at": "2024-05-10 17:32:31",
+      "album": {
+        "name": "Bury",
+        "url": "https://open.spotify.com/album/3IkVaTVkT6UitOnJVkQaZB"
+      },
+      "artists": [
+        {
+          "name": "King Woman",
+          "url": "https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn"
+        }
+      ],
+      "duration_ms": 293402,
+      "name": "Bury",
+      "url": "https://open.spotify.com/track/105trhpiqettXhZUJg1FEe"
+    },
+    {
+      "added_at": "2024-05-10 17:32:48",
+      "album": {
+        "name": "Entabeni",
+        "url": "https://open.spotify.com/album/1aXezsjsRSPK5YrzTTzfKS"
+      },
+      "artists": [
+        {
+          "name": "Vulvodynia",
+          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
+        },
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "duration_ms": 266857,
+      "name": "Entabeni",
+      "url": "https://open.spotify.com/track/4IYjRMng2yVbUjTEDAblDZ"
+    },
+    {
+      "added_at": "2024-05-10 17:33:07",
+      "album": {
+        "name": "Collapse",
+        "url": "https://open.spotify.com/album/5GVwROoQpQE8f5KwjfoNcO"
+      },
+      "artists": [
+        {
+          "name": "REZN",
+          "url": "https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK"
+        }
+      ],
+      "duration_ms": 333564,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/18rWDMiC3wqHOaWiTg4My2"
+    },
+    {
+      "added_at": "2024-05-10 17:33:20",
+      "album": {
+        "name": "SYNDICATE",
+        "url": "https://open.spotify.com/album/6RZKpDh8JWuq1vKtltxgs0"
+      },
+      "artists": [
+        {
+          "name": "GASKET",
+          "url": "https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "SYNDICATE",
+      "url": "https://open.spotify.com/track/4kVfdUnLtghRoSGLe9iTmB"
+    },
+    {
+      "added_at": "2024-05-10 18:02:42",
+      "album": {
+        "name": "Wretched Blessing",
+        "url": "https://open.spotify.com/album/1EjCZDptGHtYDF7MDP1OR0"
+      },
+      "artists": [
+        {
+          "name": "Wretched Blessing",
+          "url": "https://open.spotify.com/artist/6UdkhtT5TFf9e5eF3hCmdX"
+        }
+      ],
+      "duration_ms": 225062,
+      "name": "Mirror Vulture",
+      "url": "https://open.spotify.com/track/15PbemoNVDgG3JiNS7yVO7"
+    },
     {
       "added_at": "2024-05-03 20:19:25",
       "album": {

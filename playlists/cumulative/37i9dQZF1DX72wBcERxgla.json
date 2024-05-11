@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 151400,
       "name": "A Gentle Dance",
       "url": "https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6bVPunxwagrG4rxYpRUVCT"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo",
+          "url": "https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165174,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/03spblZRU0wLTdHZdOIDBS"
+    },
+    {
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 132773,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4vr75so9m40ADbmSmk0QuS"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154005,
       "name": "Chasing Sunsets in September",
       "url": "https://open.spotify.com/track/42hV1eZt1dG4FKsMTBCVLS"
@@ -1370,6 +1388,24 @@
       "duration_ms": 179874,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca"
+    },
+    {
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2KPDw3qOzyzqkoFiEmko44"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor",
+          "url": "https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124718,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/7csJh6rDbBhV6WFFrxoYyB"
     },
     {
       "album": {
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 140690,
       "name": "Dancing on the ceiling",
       "url": "https://open.spotify.com/track/1fn5QC6Cauel9hmwjb6Jjq"
@@ -1784,6 +1820,24 @@
       "duration_ms": 169704,
       "name": "Didn't We",
       "url": "https://open.spotify.com/track/2mDRMm2mnegdONfu6RviPx"
+    },
+    {
+      "album": {
+        "name": "Dim The Lights",
+        "url": "https://open.spotify.com/album/7q6Zi31Z6O5OrKcYyVJKYc"
+      },
+      "artists": [
+        {
+          "name": "Wes Ivory",
+          "url": "https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195252,
+      "name": "Dim The Lights",
+      "url": "https://open.spotify.com/track/21gieAbMpoxgqPF90Ed91p"
     },
     {
       "album": {
@@ -2633,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Freetown",
+        "url": "https://open.spotify.com/album/3JgH3bz1yPuu2GdxoRQlC8"
+      },
+      "artists": [
+        {
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140864,
+      "name": "Freetown",
+      "url": "https://open.spotify.com/track/3x9NLVXW9Zjtw2t2YTI0Ug"
+    },
+    {
+      "album": {
         "name": "Friends And Strangers",
         "url": "https://open.spotify.com/album/7zuHcKj8izOoEjfNUtuFjG"
       },
@@ -2774,6 +2846,24 @@
       "duration_ms": 210874,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d"
+    },
+    {
+      "album": {
+        "name": "Get Us a Cab",
+        "url": "https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts"
+      },
+      "artists": [
+        {
+          "name": "Claire Martinelle",
+          "url": "https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156735,
+      "name": "Get Us a Cab",
+      "url": "https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t"
     },
     {
       "album": {
@@ -3695,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "If You Forget Me",
+        "url": "https://open.spotify.com/album/6s42wbJD03XWGitlotVJyN"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125001,
+      "name": "If You Forget Me",
+      "url": "https://open.spotify.com/track/58sHjfYnsY7w2uN3wgxSGM"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4"
       },
@@ -3796,7 +3904,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 185158,
       "name": "In That Moment, I Knew",
       "url": "https://open.spotify.com/track/0JRNniv579lFXcvyYQyfvK"
@@ -4109,6 +4217,42 @@
     },
     {
       "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/3JPxzga8cboqhhFsMG9AYm"
+      },
+      "artists": [
+        {
+          "name": "Rhys Wells",
+          "url": "https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177216,
+      "name": "It's Not You, It's Me",
+      "url": "https://open.spotify.com/track/1xYOuf8Slb1yruK8W9Ah5o"
+    },
+    {
+      "album": {
+        "name": "It's probably me",
+        "url": "https://open.spotify.com/album/5rMHNYP5DMeB5g8TFX9KRh"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152216,
+      "name": "It's probably me",
+      "url": "https://open.spotify.com/track/33MYpCIGKwRtsyUqcRwPKi"
+    },
+    {
+      "album": {
         "name": "It\u00b4s All About You",
         "url": "https://open.spotify.com/album/1PpdlckOwsdsJgFo8iyMmh"
       },
@@ -4340,6 +4484,24 @@
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
+    },
+    {
+      "album": {
+        "name": "Late Night Dinner",
+        "url": "https://open.spotify.com/album/7542dDIZQyueEJOk4HsPOz"
+      },
+      "artists": [
+        {
+          "name": "Meg Lawrence",
+          "url": "https://open.spotify.com/artist/4a6PAS1FZgcaDd99xc2wD1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156535,
+      "name": "Late Night Dinner",
+      "url": "https://open.spotify.com/track/3SwfgO0eoAuyls6xTxZKmP"
     },
     {
       "album": {
@@ -5272,7 +5434,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 187751,
       "name": "Moonlight Over Manhattan",
       "url": "https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM"
@@ -5330,6 +5492,24 @@
       "duration_ms": 118236,
       "name": "Moonlit Nights",
       "url": "https://open.spotify.com/track/4wf3q64jS9wZu0pfFlNSGq"
+    },
+    {
+      "album": {
+        "name": "More of you",
+        "url": "https://open.spotify.com/album/3RK6FPFmRsnqEh3lgFoAc6"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130037,
+      "name": "More of you",
+      "url": "https://open.spotify.com/track/5nV0i4idKEo34XOVH7vmoM"
     },
     {
       "album": {
@@ -5762,6 +5942,24 @@
       "duration_ms": 120299,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx"
+    },
+    {
+      "album": {
+        "name": "Nightly conversations",
+        "url": "https://open.spotify.com/album/4RRMSsZtm1Qjf8eqUTJvHj"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180241,
+      "name": "Nightly conversations",
+      "url": "https://open.spotify.com/track/3V4CqyDYGNTUCwzqutFUma"
     },
     {
       "album": {
@@ -6575,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Roll with Me",
+        "url": "https://open.spotify.com/album/0uFSje8EGZeB0XQu8SiIg2"
+      },
+      "artists": [
+        {
+          "name": "Natalie Meir",
+          "url": "https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163802,
+      "name": "Roll with Me",
+      "url": "https://open.spotify.com/track/0USvGqSkJ8jlEwvFtX52Bg"
+    },
+    {
+      "album": {
         "name": "Rosetta",
         "url": "https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K"
       },
@@ -6680,6 +6896,24 @@
       "duration_ms": 124000,
       "name": "Saint James Infirmary Blues",
       "url": "https://open.spotify.com/track/076g7APvGbCYC9wYiropf8"
+    },
+    {
+      "album": {
+        "name": "Saint Street",
+        "url": "https://open.spotify.com/album/4PcKiyyjUKcOhWkKkO6Jn0"
+      },
+      "artists": [
+        {
+          "name": "Trent Garner",
+          "url": "https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183102,
+      "name": "Saint Street",
+      "url": "https://open.spotify.com/track/3lZ0Fm2jJYozdhd1ibvNm2"
     },
     {
       "album": {
@@ -7108,7 +7342,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156243,
       "name": "Snap of a finger",
       "url": "https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS"
@@ -7324,7 +7558,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 128446,
       "name": "Soon",
       "url": "https://open.spotify.com/track/3luZtWjidc0Pt03uGMJM6E"
@@ -7436,6 +7670,24 @@
       "duration_ms": 362500,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu"
+    },
+    {
+      "album": {
+        "name": "Spring Green",
+        "url": "https://open.spotify.com/album/3YkMEVoBuycxuP6cKeZbhl"
+      },
+      "artists": [
+        {
+          "name": "Einar Magnusson",
+          "url": "https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142985,
+      "name": "Spring Green",
+      "url": "https://open.spotify.com/track/0Yn1xmq6NE9XWeUBnPGyb6"
     },
     {
       "album": {
@@ -7994,6 +8246,24 @@
       "duration_ms": 125450,
       "name": "The last chance saloon",
       "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
+    },
+    {
+      "album": {
+        "name": "The Last Show",
+        "url": "https://open.spotify.com/album/6wJ6UaPgnEwASjFenTThhL"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188540,
+      "name": "The Last Show",
+      "url": "https://open.spotify.com/track/6qqU4X4ylPPSvGr4z38bh5"
     },
     {
       "album": {
@@ -8818,7 +9088,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 154448,
       "name": "Velvet Reverie",
       "url": "https://open.spotify.com/track/07H8tef2AWRWeTUkvCgjej"
@@ -9610,7 +9880,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 178665,
       "name": "You Took Advantage of Me",
       "url": "https://open.spotify.com/track/1C5FahCvIOUsd0RrfmlQng"

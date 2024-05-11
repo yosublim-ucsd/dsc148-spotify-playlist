@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "TAGHAZOUT",
+        "url": "https://open.spotify.com/album/41GRsxsRdLnlhN06bTH2VM"
+      },
+      "artists": [
+        {
+          "name": "Sarah & Ismael",
+          "url": "https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt"
+        },
+        {
+          "name": "Aziz Ozouss",
+          "url": "https://open.spotify.com/artist/5F8YjfBPMkIBUjeYByzC1K"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "TAGHAZOUT",
+      "url": "https://open.spotify.com/track/7yEsnGST85zjPEbDGEoMaJ"
+    },
+    {
+      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
       },

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 92982,
+  "num_followers": 93018,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
+        "name": "Oceana",
+        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 205411,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
+      "duration_ms": 148965,
+      "name": "Oceana",
+      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -323,22 +327,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Oceana",
-        "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Oceana",
-      "url": "https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN"
+      "duration_ms": 205411,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth"
     },
     {
       "added_at": "2023-11-24 08:42:40",

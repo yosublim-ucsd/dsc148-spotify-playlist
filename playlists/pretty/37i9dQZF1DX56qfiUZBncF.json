@@ -1,6 +1,6 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373545,
+  "num_followers": 373561,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Canary Islands",
         "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 204521,
       "name": "Canary Islands",
       "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "something more",
-        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "something more",
-      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 202247,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "something more",
+        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "something more",
+      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/4KYRPGcjvjgx9awdC5NEsW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 203768,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/0omZq6Xm9bLNu8v7H5z2Nl"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 238027,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1obIvxPHitnip8ZhiLS6BF"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/4KYRPGcjvjgx9awdC5NEsW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 203768,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "Love, Death & Dancing (Vol. 1)",
+        "url": "https://open.spotify.com/album/0Q4gkC5bdkzMHdeB5VLwLz"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 362683,
+      "name": "Mara",
+      "url": "https://open.spotify.com/track/1UDd2ZfEeR0MCHZnIA5GZV"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "Sleeping Pills",
         "url": "https://open.spotify.com/album/5ipxIewuwCeov22nBYrPUj"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 231938,
       "name": "Sleeping Pills",
       "url": "https://open.spotify.com/track/6UXFRIjG9OSEmGtz76Atsf"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Love, Death & Dancing (Vol. 1)",
-        "url": "https://open.spotify.com/album/0Q4gkC5bdkzMHdeB5VLwLz"
-      },
-      "artists": [
-        {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
-        }
-      ],
-      "duration_ms": 362683,
-      "name": "Mara",
-      "url": "https://open.spotify.com/track/1UDd2ZfEeR0MCHZnIA5GZV"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "Love Is Easy",
+        "url": "https://open.spotify.com/album/7IayMpkgvHb3ZvxbDmvWvu"
+      },
+      "artists": [
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Love Is Easy",
+      "url": "https://open.spotify.com/track/7ycVunD8eBQjKgOcqNIUwg"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/2Cpy8vr0SjGbKZ8sUEnaxW"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 184310,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3iSqkvJmmEfvG65MI0Ua8R"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Love Is Easy",
-        "url": "https://open.spotify.com/album/7IayMpkgvHb3ZvxbDmvWvu"
-      },
-      "artists": [
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Love Is Easy",
-      "url": "https://open.spotify.com/track/7ycVunD8eBQjKgOcqNIUwg"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
         "name": "catching 22",
         "url": "https://open.spotify.com/album/1qSKceR9xzJkmUqqnbxCyG"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 243310,
       "name": "Why",
       "url": "https://open.spotify.com/track/3pr6oJh5ypTefpVnxHAcsP"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "added_at": "2024-04-02 18:42:07",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-04-02 18:42:07",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
-    },
-    {
-      "added_at": "2024-04-02 18:42:07",
-      "album": {
         "name": "Captivated",
         "url": "https://open.spotify.com/album/6cFedsjaaJ4Lx6D8g907YE"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 242266,
       "name": "Captivated",
       "url": "https://open.spotify.com/track/4215JgBYhwg7jUtfL4Nzkc"
+    },
+    {
+      "added_at": "2024-04-02 18:42:07",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     }
   ],
   "unique_name": "Creativity Boost",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 259603,
+  "num_followers": 259625,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjrAgAAAAABqBFElI4PSayEbPf84jVfI",
+  "snapshot_id": "ZjwSAAAAAAClfYl1aA7RT6UE3CrlCtkf",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 326883,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o H\u00e1 Nome Maior",
         "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 326883,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX"
     },
     {
       "added_at": null,

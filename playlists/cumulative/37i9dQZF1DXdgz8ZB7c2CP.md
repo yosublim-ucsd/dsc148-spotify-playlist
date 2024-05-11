@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-717 songs - 1 day 15 hr 37 min
+718 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Pretty](https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Pretty](https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ) | 3:41 | 2023-08-11 | 2024-04-05 |
 | [PRISM](https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [PRISM](https://open.spotify.com/album/20FpYfQM3CE0lZ0hWSKetz) | 3:59 | 2024-02-16 | 2024-03-04 |
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-01-28 | 2022-07-29 |
-| [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-12-08 |  |
+| [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-12-08 | 2024-05-11 |
 | [Pyramids](https://open.spotify.com/track/3GC4bcTbJoOmg4VC187pkf) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Pyramids](https://open.spotify.com/album/0L72MVflu6L0iIaVVaI7Aa) | 2:44 | 2021-08-06 | 2022-07-29 |
 | [q\-edits \#2](https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [q\-edits \#2](https://open.spotify.com/album/1rqnd5Dw3Jf7cSJIzNbTF5) | 2:21 | 2021-08-06 | 2022-09-16 |
 | [Radiate](https://open.spotify.com/track/1XGKJIMxvFfi9MCm9Csqlk) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Radiate](https://open.spotify.com/album/0VMJK0P1iBQlD2hQ805lUv) | 2:50 | 2021-08-06 | 2023-02-11 |
@@ -663,6 +663,7 @@
 | [Trouble](https://open.spotify.com/track/6wXf0LYYDRUZiCBeIeMm5O) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [DUSK](https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD) | 2:32 | 2024-02-16 | 2024-02-24 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 | 2024-02-29 | 2024-04-10 |
+| [U&ME](https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [U&ME](https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d) | 2:36 | 2024-05-10 |  |
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 | 2024-05-03 |
 | [Under My Breath \- Stresshead Remix](https://open.spotify.com/track/6rwgIFzzIaVKSUGZzdoHmk) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR), [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Under My Breath \(Remixes\)](https://open.spotify.com/album/6n4ijKAPfvn48s82DJkAdI) | 3:21 | 2024-05-02 |  |
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-29 | 2024-02-08 |

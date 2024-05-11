@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Oficina G3",
   "name": "Templo do Rock",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 396911,
       "name": "Estamos de P\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
@@ -1934,6 +1934,24 @@
       "duration_ms": 382608,
       "name": "OH! Se Fendesses - Ao Vivo",
       "url": "https://open.spotify.com/track/6lVXZ4l8g3rm2WXOTAFHAV"
+    },
+    {
+      "album": {
+        "name": "Humanos Tour (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2OFNDyf4xI5tATMjLjV87T"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Onde Est\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VMjo4JUWyByKT3CC3IqGL"
     },
     {
       "album": {

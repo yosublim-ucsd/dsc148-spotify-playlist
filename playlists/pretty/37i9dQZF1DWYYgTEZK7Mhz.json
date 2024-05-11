@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 28598,
+  "num_followers": 28625,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Donatella Rettore",
+        "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
+      },
+      "artists": [
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Kobra",
+      "url": "https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Qualcuno mi pu\u00f2 giudicare",
         "url": "https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 238493,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Donatella Rettore",
-        "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
-      },
-      "artists": [
-        {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Kobra",
-      "url": "https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B"
     },
     {
       "added_at": "2023-06-05 07:42:38",

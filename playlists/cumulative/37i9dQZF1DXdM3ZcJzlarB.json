@@ -1061,6 +1061,28 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1F45iXmDaRrxWnTf38rEDW"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        },
+        {
+          "name": "Gio Santi",
+          "url": "https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379673,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0OmnuOw09ZmmsQCv6kty4F"
+    },
+    {
+      "album": {
         "name": "Two Stories About A Lie",
         "url": "https://open.spotify.com/album/4mjhi9ClXEV7pJkiyMUrPz"
       },
@@ -2926,7 +2948,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 380952,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Tiësto, MOGUAI
+> The biggest Dance hits and the ones to come\. Cover: TIM PLVNK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810,133 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,810,257 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Paper Plane](https://open.spotify.com/track/3oht02g1mg6KywagA3bysC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Paper Plane](https://open.spotify.com/album/3q53z26hzALpOERcaZ6nUt) | 2:33 |
 | 50 | [Stereo](https://open.spotify.com/track/31PeeweG94mVQsqNOLcq4B) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Roe Byrne](https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg) | [Stereo](https://open.spotify.com/album/4l42dJOfRz9Hdh4dmvJbdY) | 2:46 |
 
-Snapshot ID: `ZjueLgAAAADCNI25KfyvWNwt3jMQNRYL`
+Snapshot ID: `Zj2+dQAAAAC0oStmXUYeJXXXZlmGYN4K`

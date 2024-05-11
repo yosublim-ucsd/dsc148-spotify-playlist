@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Mau y Ricky con Guaynaa en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! KURT en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/71QC7RzJGO0p0CdLfFO17T"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/12DNkdHu0C6yM7eQqLmS0l"
+    },
+    {
+      "album": {
         "name": "Bien Por Ti",
         "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
       },
@@ -880,6 +902,24 @@
       "duration_ms": 226981,
       "name": "Carita Bonita",
       "url": "https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR"
+    },
+    {
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
     },
     {
       "album": {
@@ -1622,7 +1662,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217326,
       "name": "D\u00f3nde est\u00e1s?",
       "url": "https://open.spotify.com/track/3siKQLur5hZAaqWTw2H7Ck"
@@ -1894,7 +1934,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152773,
       "name": "FBI",
       "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
@@ -2080,7 +2120,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 234508,
       "name": "Funeral 2.0",
       "url": "https://open.spotify.com/track/25MPU7kWxscpKN4RVWC6Et"
@@ -2160,7 +2200,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 193840,
       "name": "Gran D\u00eda",
       "url": "https://open.spotify.com/track/31zvQazbahCmdyPanbUWse"
@@ -2320,6 +2360,24 @@
       "duration_ms": 225007,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/6Wj8Xwu5LSOwcvAup56uhf"
+    },
+    {
+      "album": {
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "album": {
@@ -3097,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "MIENTES",
+        "url": "https://open.spotify.com/album/1HgVz6E7u9acXEUVKoaNzv"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "MIENTES",
+      "url": "https://open.spotify.com/track/0l49H3WEYgONsfd9gsr64B"
+    },
+    {
+      "album": {
         "name": "Mis Amigos Opinan Lo Mismo (Este Volumen Pide Outro)",
         "url": "https://open.spotify.com/album/460OjAPOiQCNlu5VvQySCZ"
       },
@@ -3453,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+    },
+    {
+      "album": {
         "name": "No Puede Ser (con Eladio Carrion)",
         "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
       },
@@ -3534,7 +3628,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
@@ -3708,7 +3802,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
@@ -4033,6 +4127,28 @@
     },
     {
       "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Pretty GIRL",
+      "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
+    },
+    {
+      "album": {
         "name": "Psycho B**ch",
         "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
       },
@@ -4134,7 +4250,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 126813,
       "name": "Queri\u00e9ndonos Bien",
       "url": "https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm"
@@ -4170,7 +4286,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 204320,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
@@ -4332,6 +4448,24 @@
       "duration_ms": 190760,
       "name": "S.H.E.A",
       "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
+    },
+    {
+      "album": {
+        "name": "Salida de Emergencia",
+        "url": "https://open.spotify.com/album/6OzCoDa2fYuqTEiM3KttHL"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "Salida de Emergencia",
+      "url": "https://open.spotify.com/track/1HBefn6OkhYL6CuK66bR4l"
     },
     {
       "album": {
@@ -5468,7 +5602,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Flor De Rap",
+  "description": "La casa de lxs MC's. Foto: Liricistas.",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 262460,
       "name": "Ahora (Disfruta Pt. II)",
       "url": "https://open.spotify.com/track/2DFebM4QjZxUi1Ibe0ALQH"
+    },
+    {
+      "album": {
+        "name": "All Ki Misters",
+        "url": "https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "RepliK",
+          "url": "https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "All Ki Misters",
+      "url": "https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi"
     },
     {
       "album": {
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 152245,
       "name": "Heredera del Surrealismo",
       "url": "https://open.spotify.com/track/1cZOOpH1GcwyjymOJCHy2Z"
@@ -2228,7 +2250,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 216504,
       "name": "Lil Dangerous",
       "url": "https://open.spotify.com/track/3nPsTFDqICgVcwVu9CyDD0"
@@ -2614,6 +2636,24 @@
       "duration_ms": 201347,
       "name": "MIS DESEOS (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/6ZlyzUXjnma9rlWvAijLVH"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145125,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6ef0RzkSELOTpiH6NVcqcV"
     },
     {
       "album": {

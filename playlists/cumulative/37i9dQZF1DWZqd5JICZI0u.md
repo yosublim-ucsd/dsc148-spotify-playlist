@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-533 songs - 1 day 3 hr 27 min
+536 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Deep Dream](https://open.spotify.com/track/6uZqFdxRsSXgswqtKKBYK7) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Deep Dream](https://open.spotify.com/album/6ymPraYfnqVUPHQVQ8fiNZ) | 3:44 | 2020-09-30\* | 2021-09-14 |
 | [Deep Eyes](https://open.spotify.com/track/3HBzTLiE1KmE0jcxZaYmVe) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep Eyes](https://open.spotify.com/album/5WrYPWDyABuP2AIZERufky) | 4:40 | 2020-09-30\* | 2022-12-31 |
 | [Deep Waters](https://open.spotify.com/track/2I4CdMdb7m5VSFjVtYBPLP) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Deep Waters](https://open.spotify.com/album/18MTNwzRQUk1HHTHI3k5Bf) | 2:42 | 2021-09-04 |  |
+| [Deep Yanam](https://open.spotify.com/track/4bOupcVu67BP3vAXYMze7q) | [Mounir Link](https://open.spotify.com/artist/5wcgK7oXIQDuWjbgn5Z6Gv) | [Deep Yanam](https://open.spotify.com/album/6tTdCHHRgBgLUaoxN9sB2x) | 3:27 | 2024-05-10 |  |
 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 | 2020-09-30\* | 2022-08-13 |
 | [Descending](https://open.spotify.com/track/6i1azfJNXmsV9fNIA41tea) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 3:30 | 2020-09-30\* | 2021-10-21 |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2021-01-29 |  |
@@ -284,6 +285,7 @@
 | [Mind Retreat](https://open.spotify.com/track/2c15DLDKQDhMVWk3CQ2GZ4) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 2:57 | 2020-09-30\* | 2021-09-14 |
 | [Mind Warrior \(Beta 13 Hz\)](https://open.spotify.com/track/7yMLsyHDOlIs3LjvEyolv4) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binaural Beats For Focus](https://open.spotify.com/album/4EOJ0H7R7LEmsUzu72u9Bt) | 2:59 | 2020-09-30\* | 2021-09-14 |
 | [Mind\-Drift](https://open.spotify.com/track/53sNuDhuyhtVTPNXbk4dEN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Drift Off](https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah) | 4:00 | 2020-09-30\* | 2021-09-14 |
+| [Mindful Heights](https://open.spotify.com/track/7zGEVhbWkkwVeu15l42JCV) | [Snooze Narrator](https://open.spotify.com/artist/4AIFEMrtoaGz1z3j8OXeR3) | [Mindful Heights](https://open.spotify.com/album/6waTwZDuN0H1mFP7rZhQZK) | 3:24 | 2024-05-10 |  |
 | [Mindgames](https://open.spotify.com/track/12n4tnRYdWHphxR0h4xMwh) | [Monkey Mindset](https://open.spotify.com/artist/2KPrFZKaTyCOJBNf0RZYRl) | [Mindgames](https://open.spotify.com/album/5HEI7DLJ4AIUCNpvC9z5CB) | 2:37 | 2024-04-29 |  |
 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 | 2020-09-30\* | 2022-08-13 |
 | [Mirno](https://open.spotify.com/track/21YSyRy6GIFkbzIoWHLbhD) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Mirno](https://open.spotify.com/album/4RAtKiZLrOx2b2PjBQjXKb) | 2:57 | 2022-02-09 |  |
@@ -320,6 +322,7 @@
 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 | 2020-09-30\* | 2022-12-31 |
 | [Noqueue](https://open.spotify.com/track/6UwHHL5Td690uBRy4ZzzWV) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Noqueue](https://open.spotify.com/album/7EDnvaKOuANJGoPbs9XhRY) | 2:29 | 2021-07-23 | 2023-11-25 |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2021-10-21 |  |
+| [Northern Vision](https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA) | [Elie Elie](https://open.spotify.com/artist/4n4uZ65TRiHl7622KzgTIE) | [Northern Vision](https://open.spotify.com/album/7i5sFYMam5oo9R8yxaFG25) | 3:18 | 2024-05-10 |  |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2021-06-16 | 2022-12-31 |
 | [Now I know](https://open.spotify.com/track/7G0ooPUSQAvUY2za257nbW) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Now I know](https://open.spotify.com/album/0cZYOUsx7Hm6N4zDrPi3pr) | 3:08 | 2020-09-30\* | 2021-07-14 |
 | [Nära](https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Nära](https://open.spotify.com/album/4fsPZO84anFbq1ZxXLI6FQ) | 3:17 | 2021-11-10 |  |

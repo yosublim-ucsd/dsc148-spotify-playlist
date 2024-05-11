@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. Los Chavalos De La Perla en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Michelle Maciel y Oscar Ortiz en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "ando happy",
+        "url": "https://open.spotify.com/album/76lehmoL7pLHk57Z0iJC3L"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146374,
+      "name": "ando happy",
+      "url": "https://open.spotify.com/track/3FVDjeHse1BADRVsHsEIBT"
+    },
+    {
+      "album": {
         "name": "Anillos",
         "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 145281,
       "name": "ANTRO FRESXN (REMIX)",
       "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
@@ -6627,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/1K9ebJ1OBJzCxIAaGhFtCw"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239923,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/57nyF1n8SKff9C0lYjZVZ9"
+    },
+    {
+      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -7074,6 +7110,24 @@
       "duration_ms": 152875,
       "name": "El Flakito",
       "url": "https://open.spotify.com/track/2Wil5tdYpJ9MKivU2NPVWI"
+    },
+    {
+      "album": {
+        "name": "El Fox",
+        "url": "https://open.spotify.com/album/5x3mPcoY1busdL1aKdYL40"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "El Fox",
+      "url": "https://open.spotify.com/track/4MxSJZmbJXeG4C26qqgsgk"
     },
     {
       "album": {
@@ -8395,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "El Morro",
+        "url": "https://open.spotify.com/album/1dmmA8Z2niZfgem6PIcl76"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173783,
+      "name": "El Morro",
+      "url": "https://open.spotify.com/track/6jhfk1e3W7P1KFbuF8ul3Q"
+    },
+    {
+      "album": {
         "name": "El MP",
         "url": "https://open.spotify.com/album/7BW3imaigDJCcQXicPsKOo"
       },
@@ -8414,6 +8486,24 @@
       "duration_ms": 176334,
       "name": "El MP",
       "url": "https://open.spotify.com/track/13r5IOgD9osfI6xlzwClPq"
+    },
+    {
+      "album": {
+        "name": "El Muchacho de la Barba",
+        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154352,
+      "name": "El Muchacho de la Barba",
+      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
     },
     {
       "album": {
@@ -8956,7 +9046,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
@@ -12954,7 +13044,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 177106,
       "name": "LA BESTIA",
       "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
@@ -13353,6 +13443,32 @@
     },
     {
       "album": {
+        "name": "LA DURANGO",
+        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262883,
+      "name": "LA DURANGO",
+      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
+    },
+    {
+      "album": {
         "name": "La escuela de mi ap\u00e1",
         "url": "https://open.spotify.com/album/6imeC5sxh8Bg3IcMgvnglW"
       },
@@ -13368,7 +13484,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 170428,
       "name": "La escuela de mi ap\u00e1",
       "url": "https://open.spotify.com/track/1deKB5A7FtWcD6PHGYHu6e"
@@ -14777,6 +14893,28 @@
     },
     {
       "album": {
+        "name": "Lentes de Sol",
+        "url": "https://open.spotify.com/album/5D93vihHgaEtbb5QdnCZJR"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157288,
+      "name": "Lentes de Sol",
+      "url": "https://open.spotify.com/track/3zxhaMNwbinoTex5shvZTx"
+    },
+    {
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/69TuNGeXi7iah9B755lakY"
       },
@@ -15410,6 +15548,24 @@
       "duration_ms": 206216,
       "name": "Los Piratitas (En Vivo)",
       "url": "https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG"
+    },
+    {
+      "album": {
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/12AfYR9rwjDAXWsZQvaXof"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227370,
+      "name": "Los Ultimos Son Los Primeros",
+      "url": "https://open.spotify.com/track/2mWdFicDI0oYBCic5506My"
     },
     {
       "album": {
@@ -20796,7 +20952,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 191829,
       "name": "Te Vas As\u00ed",
       "url": "https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9"
@@ -21056,6 +21212,28 @@
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "album": {
+        "name": "TRAIGO CON Q",
+        "url": "https://open.spotify.com/album/13SiXyZv8YXQmUmEIAR6k2"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "TRAIGO CON Q",
+      "url": "https://open.spotify.com/track/0paJR1HK2zz6dRTgYr1ltN"
     },
     {
       "album": {

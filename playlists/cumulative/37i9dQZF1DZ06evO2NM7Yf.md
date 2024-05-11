@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2NM7Yf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2NM7Yf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2NM7Yf)
 
-### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
+### [This is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. The essential tracks, all in one playlist.
+> This is Meg Smith\. Lagu\-lagu utama, semuanya dalam satu playlist.
 
 21 songs - 1 hr 2 min
 

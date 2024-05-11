@@ -7491,6 +7491,32 @@
     },
     {
       "album": {
+        "name": "Steady Love",
+        "url": "https://open.spotify.com/album/5spOPiSus1L36TXEUkLwzo"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291458,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax"
+    },
+    {
+      "album": {
         "name": "Peace: The Album (Deluxe)",
         "url": "https://open.spotify.com/album/6arAbdsYCdQZqMYHEzIQ9W"
       },
@@ -7708,6 +7734,28 @@
       "duration_ms": 316250,
       "name": "Take You At Your Word (with Benjamin William Hastings) - Live",
       "url": "https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz"
+    },
+    {
+      "album": {
+        "name": "Take You At Your Word",
+        "url": "https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316250,
+      "name": "Take You At Your Word - Live",
+      "url": "https://open.spotify.com/track/72RlJgcgpJtCsKQaqkOkvy"
     },
     {
       "album": {
@@ -9238,6 +9286,24 @@
       "duration_ms": 368901,
       "name": "You Remain - Live",
       "url": "https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT"
+    },
+    {
+      "album": {
+        "name": "You're The One (Live)",
+        "url": "https://open.spotify.com/album/6E0m4TGkJ655zHkc5CIEqv"
+      },
+      "artists": [
+        {
+          "name": "Open Heaven",
+          "url": "https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229384,
+      "name": "You're The One - Live",
+      "url": "https://open.spotify.com/track/6zwziTShaxRuc0O6KSfED2"
     },
     {
       "album": {

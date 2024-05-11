@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 5485,
+  "num_followers": 5548,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "El Reencuentro (Live In Lima) - Vol. 2",
         "url": "https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 324062,
       "name": "Probablemente - Live",
       "url": "https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Un Sonido Bestial El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
       },
@@ -743,22 +763,6 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
-        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 343266,
-      "name": "Un Verano en Nueva York - Live Version",
-      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
+        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+      "duration_ms": 343266,
+      "name": "Un Verano en Nueva York - Live Version",
+      "url": "https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Eddie Santiago (En Vivo)",
-        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 373400,
-      "name": "Lluvia - En Vivo",
-      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Eddie Santiago (En Vivo)",
+        "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 373400,
+      "name": "Lluvia - En Vivo",
+      "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
     },
     {
       "added_at": "2024-03-19 14:30:29",

@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-286 songs - 14 hr 24 min
+287 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Sandunguea](https://open.spotify.com/track/4Y4DgE7hqT4XwDgODir0Lh) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Sandunguea](https://open.spotify.com/album/4pfnzgk81dawquIVD10u96) | 2:37 | 2023-09-29 |  |
 | [Scorpio](https://open.spotify.com/track/5RwbPOgYWW4xis3fcxS7nv) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Scorpio](https://open.spotify.com/album/2c60EOZQHHsaW0YnSMbgpQ) | 2:51 | 2023-11-17 |  |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2021-12-13 | 2022-03-09 |
-| [SEÑALES](https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq) | [Camí Rozman](https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt) | [SEÑALES](https://open.spotify.com/album/0DIj36pLzLfoTJ5EpraR1S) | 2:53 | 2023-04-14 |  |
+| [SEÑALES](https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq) | [Camí Rozman](https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt) | [SEÑALES](https://open.spotify.com/album/0DIj36pLzLfoTJ5EpraR1S) | 2:53 | 2023-04-14 | 2024-05-11 |
 | [Shock](https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [La Bala](https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF) | 3:30 | 2021-12-13 | 2023-10-07 |
 | [Siento](https://open.spotify.com/track/13DWRxHcQ0rRKOZ0nUpiww) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [Frida Lagarto](https://open.spotify.com/artist/3chJqlLTvlra2vRTPM9edK) | [Siento](https://open.spotify.com/album/3BYPPpFZ5PLIp1H0K2WLfU) | 1:58 | 2024-04-12 |  |
 | [Simulación](https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Simulación](https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433) | 2:52 | 2023-01-26 | 2023-10-14 |
@@ -279,6 +279,7 @@
 | [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 | 2023-10-20 |  |
 | [UNITY CYPHER\-ONE](https://open.spotify.com/track/05PcZv3YVnzfg0ZQYJdniI) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Madciano](https://open.spotify.com/artist/5Hr0McXKrt2SqVEBzcSRxN), [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Monserap](https://open.spotify.com/artist/7JAUwbMaUZw4ezJHfzWYQt), [Lunah Latinah](https://open.spotify.com/artist/3UVZ2l1rGV2RZ8M7p7ipbp), [Ruzica Flores](https://open.spotify.com/artist/1Z8ZBF6ppxP6jxks36IK0a), [Irina Doom](https://open.spotify.com/artist/74YhSyjfayhKD5CK7WYrTx), [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [UNITY CYPHER\-ONE](https://open.spotify.com/album/4TzeKIRfPU5T3PO4FwyCkg) | 3:53 | 2024-01-26 |  |
 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP), [Leo Jah](https://open.spotify.com/artist/4yS9w42JfhRhRjDrUMZMnp) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 | 2023-02-03 |  |
+| [V](https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN) | [Valeria Canavati](https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb) | [V](https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw) | 2:37 | 2024-05-10 |  |
 | [Versos Tristes](https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Versos Tristes](https://open.spotify.com/album/64j88cpynr6CNVRtHeJvnC) | 3:33 | 2021-12-13 | 2023-02-21 |
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 | 2023-07-01 |
 | [Wachita](https://open.spotify.com/track/1GNq3jJMQZmtmXnjDEkiU3) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Wachita](https://open.spotify.com/album/52xzKPPlZ8IjvjtNqoATwU) | 2:23 | 2024-04-19 |  |

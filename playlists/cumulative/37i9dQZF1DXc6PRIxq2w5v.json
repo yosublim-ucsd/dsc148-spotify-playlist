@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, RAMON EL BRABO",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Noventa, Vk Mac",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -1520,6 +1520,28 @@
       "duration_ms": 180000,
       "name": "CRISTO FAZ A WAVE",
       "url": "https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00"
+    },
+    {
+      "album": {
+        "name": "Cristo Mudou Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/2kKd9MHczEkkLOwOBm68TS"
+      },
+      "artists": [
+        {
+          "name": "Noventa",
+          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Cristo Mudou Minha Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/76rss0xwWugwKZucjvxHMD"
     },
     {
       "album": {
@@ -4642,7 +4664,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 115140,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 208500,
       "name": "O Mesmo Deus",
       "url": "https://open.spotify.com/track/2iiTw2HUFAig6U5QhihQo8"
@@ -6981,6 +7003,28 @@
     },
     {
       "album": {
+        "name": "Somos Todos Iguais",
+        "url": "https://open.spotify.com/album/15m7RVdLNlJu1pKJelRVsS"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        },
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163543,
+      "name": "Somos Todos Iguais",
+      "url": "https://open.spotify.com/track/4DkXSY41hD3httuC7Zf3QZ"
+    },
+    {
+      "album": {
         "name": "Sonhei um Dia",
         "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
       },
@@ -7800,7 +7844,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 163174,
       "name": "Vida Inteira",
       "url": "https://open.spotify.com/track/4BixuFw93dGlxLKPCcW7xH"

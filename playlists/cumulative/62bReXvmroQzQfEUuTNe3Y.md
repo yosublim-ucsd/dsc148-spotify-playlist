@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance for 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-426 songs - 1 day 0 hr 8 min
+427 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Away With Me](https://open.spotify.com/track/3R0ECFem1GKNBfj3s2nloX) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Away With Me](https://open.spotify.com/album/3U0teKWZy9y05IG8LC74Ct) | 4:17 | 2020-09-13\* | 2021-03-06 |
 | [Back & Forth \- 6am Remix](https://open.spotify.com/track/43o7X2pLth89u6JMDI9XHG) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Back & Forth \(Remixes\)](https://open.spotify.com/album/2pnfSBSqGshIGsDiPvmaIt) | 4:33 | 2020-09-13\* | 2021-03-06 |
 | [Back Of The Room](https://open.spotify.com/track/7pnx7Nw1PVkG6vZy8byGlI) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [SverreV](https://open.spotify.com/artist/04sHRlBQD0sORhbe2EYydj) | [Back Of The Room](https://open.spotify.com/album/5PchnityylzcCLYDNUTSkd) | 4:02 | 2020-12-04 | 2021-03-06 |
+| [Be Enough](https://open.spotify.com/track/0gFU6WpY95i8uuoPlGNIsP) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Be Enough](https://open.spotify.com/album/5BSGmQdu7UitQe9QlBHpBd) | 2:17 | 2024-05-10 |  |
 | [Beautiful Morning](https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Beautiful Morning](https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL) | 3:07 | 2022-11-11 | 2023-04-22 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2020-09-13\* | 2021-03-06 |
 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 | 2021-03-06 | 2024-02-24 |

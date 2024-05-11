@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-165 songs - 15 hr 5 min
+166 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Wilderness Excursion](https://open.spotify.com/track/1j3xq7MWX697olnfkib3ed) | [Kaipa](https://open.spotify.com/artist/2pD2PTwYf1XJQth2hSEmpa) | [Urskog](https://open.spotify.com/album/5ik3Z0hHWgI4qnMw68O9Xd) | 8:57 | 2022-04-29 |  |
 | [Willie The Pimp](https://open.spotify.com/track/3toxxSU3TcvzgmeR8LLUiX) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 9:23 | 2021-01-27 |  |
 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 | 2021-01-27 |  |
+| [Yang](https://open.spotify.com/track/4Mjz3Aym3Xf2IL6vFpneI0) | [Richard Henshall](https://open.spotify.com/artist/66iP8O2dQRaGjVTr42vW0V) | [Yang](https://open.spotify.com/album/0xSUOcJZHulje5JQzNHTCY) | 4:45 | 2024-05-10 |  |
 | [Zalow](https://open.spotify.com/track/67abd7obJwExYvnsj0RqCZ) | [Ron Minis](https://open.spotify.com/artist/0pXQOOyktWEYcyVKwWuxc0) | [Smart Phones Stupid People](https://open.spotify.com/album/3m1tlZd6OqthWhqoauH8nZ) | 3:03 | 2022-04-01 | 2024-04-19 |
 | [Zalow](https://open.spotify.com/track/6PLhsGYMZXzgyjrjlYejq7) | [Ron Minis](https://open.spotify.com/artist/0pXQOOyktWEYcyVKwWuxc0) | [Zalow](https://open.spotify.com/album/7CytUapSLHyb2lvUy3vzCo) | 3:03 | 2022-03-18 |  |
 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 | 2021-11-05 |  |

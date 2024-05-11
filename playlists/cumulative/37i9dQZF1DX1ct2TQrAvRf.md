@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- BADSHAH
 
-155 songs - 8 hr 37 min
+156 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-31 | 2023-07-18 |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-27 |  |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/6iPSbGsGwUToj0yjAg0Flz) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 1:51 | 2023-06-08 | 2023-07-18 |
-| [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-08 |  |
+| [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-08 | 2024-05-11 |
 | [Bajenge](https://open.spotify.com/track/4I2txOHJ5QRpJvG0nQpBKL) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:40 | 2024-03-22 | 2024-04-10 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
@@ -52,6 +52,7 @@
 | [Desi Dan Bilzerian](https://open.spotify.com/track/5vdWj5rEzg9lg5qbE98PmX) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Gorilla Bounce](https://open.spotify.com/album/4N3Ltmqz2cQt9ZMJedfCGn) | 3:21 | 2023-07-07 | 2023-07-11 |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/78tqiIz7GGnBnDRmPdvkLr) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Desi Dan Bilzerian](https://open.spotify.com/album/6JCXD4JCMwpzOxuD4Ch3Um) | 3:21 | 2023-03-27 | 2023-07-10 |
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-28 | 2023-09-21 |
+| [Dhandho](https://open.spotify.com/track/1eIwEnZPmLeeA622uvG1r3) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dhandho](https://open.spotify.com/album/2hxpQXOmHz7G9R4Au6cpZG) | 2:54 | 2024-05-10 |  |
 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 | 2024-04-19 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-08-17 |  |
 | [Doon](https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Doon](https://open.spotify.com/album/0SoxFtfAbIOHktfwT5NPSC) | 2:26 | 2024-04-12 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 379657,
+  "num_followers": 379712,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha (En Vivo)",
         "url": "https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
+      },
+      "artists": [
+        {
+          "name": "Victor Drija",
+          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
+        },
+        {
+          "name": "Sixto Rein",
+          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Moriso\u00f1ando, Vol. 1",
         "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
       },
@@ -1343,30 +1367,6 @@
       "duration_ms": 198964,
       "name": "Vivo De Tus Recuerdos",
       "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "No Somos Iguales",
-        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
-      },
-      "artists": [
-        {
-          "name": "Victor Drija",
-          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
-        },
-        {
-          "name": "Sixto Rein",
-          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
-        },
-        {
-          "name": "Gustavo Elis",
-          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "No Somos Iguales",
-      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1439,38 +1439,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 302213,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Como Los Rayos Del Sol",
-        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Como Los Rayos Del Sol",
-      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Lo Mejor de Sin Fronteras (100% Merengue)",
         "url": "https://open.spotify.com/album/7cfK0f77wSPEByiDDfx3Fr"
       },
@@ -1487,6 +1455,38 @@
       "duration_ms": 216833,
       "name": "Gozando",
       "url": "https://open.spotify.com/track/6WkQGg9n2vvUNuu2UYEzD1"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 277946,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Como Los Rayos Del Sol",
+        "url": "https://open.spotify.com/album/7460LMvayest0YKVf9u052"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Como Los Rayos Del Sol",
+      "url": "https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 277946,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "15 Exitos De Pura Candela",
         "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 244000,
       "name": "Una Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 302213,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Out of Control",
-        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
-      },
-      "artists": [
-        {
-          "name": "Shino Aguakate",
-          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
-        }
-      ],
-      "duration_ms": 327346,
-      "name": "Te Gusta Eh",
-      "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor - Tropical",
-        "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "\u00a1Que Vaina!",
         "url": "https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS"
       },
@@ -1719,6 +1687,38 @@
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "22 Ultimate Merengue Hits 2002",
+        "url": "https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Me Miras Y Te Miro - New Version",
+      "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
+      },
+      "artists": [
+        {
+          "name": "Shino Aguakate",
+          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
+        }
+      ],
+      "duration_ms": 327346,
+      "name": "Te Gusta Eh",
+      "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
     }
   ],
   "unique_name": "Merengue Mania",

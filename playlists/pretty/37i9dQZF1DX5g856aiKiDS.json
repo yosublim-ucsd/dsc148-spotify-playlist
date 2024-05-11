@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483767,
+  "num_followers": 483775,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
         "name": "2 O' CLOCK",
         "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 152320,
       "name": "2 O' CLOCK",
       "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2024-05-09 14:36:52",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
     },
     {
       "added_at": "2024-05-09 14:36:52",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
         "name": "Dingo X BIG Naughty",
         "url": "https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 209386,
       "name": "INFJ (Feat. B.I, BANG YEDAM)",
       "url": "https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-05-09 14:36:52",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2024-05-09 14:36:52",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
-        "name": "Boys and Girls Music Vol.1",
-        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 239837,
-      "name": "Think About' Chu",
-      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
+        "name": "Boys and Girls Music Vol.1",
+        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 239837,
+      "name": "Think About' Chu",
+      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-09 14:36:52",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 184565,
-      "name": "Hope You're Doing Well",
-      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
-    },
-    {
-      "added_at": "2024-05-09 14:36:52",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 179080,
       "name": "Beige coat",
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2024-05-09 14:36:52",
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     }
   ],
   "unique_name": "Dalkom Cafe",

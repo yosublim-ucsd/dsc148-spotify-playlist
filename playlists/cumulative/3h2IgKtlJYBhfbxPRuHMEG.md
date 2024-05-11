@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Mersiv, Tape B, Juicy J
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: IMANU
 
-120 songs - 6 hr 49 min
+121 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-12-01 |  |
 | [Everywhere, Nowhere](https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Everywhere, Nowhere](https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7) | 3:05 | 2024-03-01 | 2024-03-16 |
 | [Falling Over You](https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Falling Over You](https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL) | 3:14 | 2023-12-01 |  |
+| [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-10 |  |
 | [FLIP THE TRACK](https://open.spotify.com/track/6iON0fwD3aULNFGohMdxOg) | [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [FLIP THE TRACK](https://open.spotify.com/album/69ZdPy4TcIMtUv3xznL2gN) | 3:17 | 2024-04-05 |  |
 | [Full Way Round](https://open.spotify.com/track/6qI0Wb5ycMGAkfnaw43awc) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Full Way Round](https://open.spotify.com/album/52Obbzdd8V2uDQdoz8Pqpu) | 5:38 | 2023-12-01 |  |
 | [Game Time \(feat\. Ninja\)](https://open.spotify.com/track/5aaDwNK2WBGWoYcG1K2Qv5) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 2:36 | 2023-12-01 |  |

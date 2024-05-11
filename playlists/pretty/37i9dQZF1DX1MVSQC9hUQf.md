@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MVSQC9hUQf.md) - [plain]
 
 > plant growth through extreme noise\. guided by horticulturist Chris Beardshaw\. Cover: <a href="https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73?si=e4de5425446846f3">GEL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,591 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,715 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

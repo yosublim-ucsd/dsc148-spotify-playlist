@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Sid Dorey",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Mikayla Geier",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "i don't feel safe in my body",
+        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "i don't feel safe in my body",
+      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
+    },
+    {
+      "album": {
         "name": "This is a Good Sign",
         "url": "https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf"
       },
@@ -8060,6 +8078,24 @@
       "duration_ms": 184556,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb"
+    },
+    {
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261794,
+      "name": "Paper Rose",
+      "url": "https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm"
     },
     {
       "album": {

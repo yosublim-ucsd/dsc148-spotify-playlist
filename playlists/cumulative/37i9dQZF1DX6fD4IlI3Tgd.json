@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "Desde M\u00e9xico hasta Argentina, el hogar de los beats latinoamericanos. Foto: MIEL",
+  "description": "Desde M\u00e9xico hasta Argentina, el hogar de los beats latinoamericanos. Foto: Esteman",
   "name": "Pulso Latino",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 195683,
       "name": "AMOR // QUE BIEN LO BAILA",
       "url": "https://open.spotify.com/track/3xz4Jg0TxpkyH9axrFFNFW"
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
+    },
+    {
+      "album": {
         "name": "Choir Roads",
         "url": "https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 181746,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/13SAsdOfHiAOVBMe8BPvl0"
@@ -900,6 +918,28 @@
       "duration_ms": 202380,
       "name": "Me Medicaron - Remix",
       "url": "https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz"
+    },
+    {
+      "album": {
+        "name": "miamor",
+        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
     },
     {
       "album": {

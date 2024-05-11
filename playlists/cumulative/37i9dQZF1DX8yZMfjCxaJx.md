@@ -2,9 +2,9 @@
 
 ### [Corridos Chakalosos](https://open.spotify.com/playlist/37i9dQZF1DX8yZMfjCxaJx)
 
-> Las favoritas de los patrones\. Luis R Conriquez, Netón Vega en portada.
+> Las favoritas de los patrones\. Código FN en portada.
 
-131 songs - 6 hr 58 min
+132 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [El Mago Merlín](https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Mago Merlín](https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm) | 2:41 | 2024-01-26 |  |
 | [El Menos Visto](https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:03 | 2024-03-01 |  |
 | [El Motor \(En Vivo\)](https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Última Línea](https://open.spotify.com/artist/46jiFyo74WRds15c8wTofT) | [VETERANOS DE GUERRA \(En vivo\)](https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H) | 3:10 | 2024-01-26 |  |
+| [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 | 2024-05-10 |  |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-26 |  |
 | [El Panu \(En Vivo\)](https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 2:37 | 2024-01-26 |  |
 | [El Primito \- En Vivo](https://open.spotify.com/track/6mzbBunUF1aQI4U3hhf3qh) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Primito \(En Vivo\)](https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW) | 4:19 | 2024-01-26 | 2024-02-01 |
@@ -97,7 +98,7 @@
 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 | 2024-01-26 |  |
 | [La Capi](https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Capi](https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2) | 3:09 | 2024-01-26 |  |
 | [La Casa De Balta](https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Leyendas](https://open.spotify.com/album/2tG8rtWaejsYPkwYjGiCzO) | 2:48 | 2024-03-01 | 2024-05-08 |
-| [La Cheyenne con Camper](https://open.spotify.com/track/3ivXbe3k31PtZtjumCDeH9) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Cheyenne con Camper](https://open.spotify.com/album/6Yw8AbcXq8u76x3QrHHDkg) | 3:00 | 2024-04-12 |  |
+| [La Cheyenne con Camper](https://open.spotify.com/track/3ivXbe3k31PtZtjumCDeH9) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Cheyenne con Camper](https://open.spotify.com/album/6Yw8AbcXq8u76x3QrHHDkg) | 3:00 | 2024-04-12 | 2024-05-11 |
 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2024-01-26 |  |
 | [La Letra Muda](https://open.spotify.com/track/21SjBArMTAwBFUtWmFlpAO) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [La Letra Muda](https://open.spotify.com/album/5VM6PVwdQRTbTfxtWLMW0U) | 4:43 | 2024-02-09 | 2024-02-24 |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2024-01-26 |  |

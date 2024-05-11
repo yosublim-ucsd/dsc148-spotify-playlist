@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3CqYAE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3CqYAE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3CqYAE)
 
-### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
+### [This is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This is Mercy Chinwo\. The essential tracks, all in one playlist.
+> This is Mercy Chinwo\. Lagu\-lagu utama, semuanya dalam satu playlist.
 
 76 songs - 6 hr 57 min
 

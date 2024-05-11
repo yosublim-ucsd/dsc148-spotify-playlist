@@ -1,75 +1,15 @@
 {
   "description": "Fino y elegante, como FERXXO y el Bendito.",
-  "num_followers": 184277,
+  "num_followers": 184377,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiILqAAAAABSKjsdo9auz/rr6P03Jx7L",
+  "snapshot_id": "Zj5BEwAAAAB+WzcFDgRZndo8C1Osqg5E",
   "tracks": [
     {
-      "added_at": "2024-04-10 15:03:35",
-      "album": {
-        "name": "Te Pintaron Pajaritos",
-        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
-      },
-      "artists": [
-        {
-          "name": "Yandar & Yostin",
-          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 172558,
-      "name": "Te Pintaron Pajaritos",
-      "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
-    },
-    {
-      "added_at": "2024-04-10 15:03:35",
-      "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
-    },
-    {
-      "added_at": "2024-04-19 06:14:00",
-      "album": {
-        "name": "Mirame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 157453,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
-    },
-    {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -89,7 +29,87 @@
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 172558,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
+    },
+    {
+      "added_at": "2024-05-10 15:45:23",
+      "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "PUEBLO DE MEDALLO",
+      "url": "https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "Mirame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 157453,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
         "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
@@ -109,7 +129,31 @@
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "JORDAN REMIX (feat. Myke Towers)",
+        "url": "https://open.spotify.com/album/1A4exOcm1Rcy1u4fopAIke"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 269334,
+      "name": "JORDAN REMIX (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/6DBpT4m5vn98bzYEucT3lp"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "GODIVA",
         "url": "https://open.spotify.com/album/7vc6473A7yNq5PtNh6Zor9"
@@ -137,7 +181,7 @@
       "url": "https://open.spotify.com/track/3DY25d8SrkLEI6Xugzf6tT"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Triple S",
         "url": "https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4"
@@ -161,7 +205,31 @@
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
+      "album": {
+        "name": "ENVIGADO",
+        "url": "https://open.spotify.com/album/5XCVSBjX4okDLL5xRfUmeU"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 220449,
+      "name": "ENVIGADO",
+      "url": "https://open.spotify.com/track/3gmtblJALwQcketcpUjK5e"
+    },
+    {
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "EMPELOTICA",
         "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
@@ -181,7 +249,7 @@
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -209,7 +277,7 @@
       "url": "https://open.spotify.com/track/4u8fUK0wSDHvVQ24SUMqZq"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Sue\u00f1os Perdidos (Remix)",
         "url": "https://open.spotify.com/album/4H0XsgmB5TYrfKdZP0qWNg"
@@ -237,7 +305,7 @@
       "url": "https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
@@ -257,7 +325,7 @@
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Lejos De Mis Ojos",
         "url": "https://open.spotify.com/album/4j14bzS5YpWDsmGdbPV4un"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/1ZIKWQ97kDMhu28IyhEtVU"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
         "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
@@ -345,7 +413,7 @@
       "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Hagale Pues",
         "url": "https://open.spotify.com/album/7I5F0zSVcazXWKAG0Pnr2l"
@@ -365,7 +433,7 @@
       "url": "https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -385,7 +453,7 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -405,7 +473,7 @@
       "url": "https://open.spotify.com/track/3jXlnjcqh0oVlEimqYIZ7P"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "PLEBITA",
         "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
@@ -425,7 +493,7 @@
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Maria (Remix)",
         "url": "https://open.spotify.com/album/2fucowTAaCNo2uMALeEO83"
@@ -445,7 +513,7 @@
       "url": "https://open.spotify.com/track/79RznOnBinLenZ5UVBiVuk"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -461,7 +529,7 @@
       "url": "https://open.spotify.com/track/3KnCfdpeaykCr1jC3rSkVc"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -481,7 +549,7 @@
       "url": "https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
@@ -505,7 +573,7 @@
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Me Perjudique",
         "url": "https://open.spotify.com/album/4qOZcYBrc1N7WbxyBRo77C"
@@ -521,7 +589,7 @@
       "url": "https://open.spotify.com/track/70tG2LYkoL0bbBGZhCYjnt"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
@@ -541,31 +609,7 @@
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
-      "album": {
-        "name": "GANGSTER (PQFNEDG)",
-        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 215470,
-      "name": "GANGSTER (PQFNEDG)",
-      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
-    },
-    {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
@@ -581,7 +625,7 @@
       "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "KLKNTOKI",
         "url": "https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc"
@@ -605,27 +649,7 @@
       "url": "https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
-      "album": {
-        "name": "Medellificaci\u00f3n",
-        "url": "https://open.spotify.com/album/6EOAPxFmNwLMaJ6aPmfwsP"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jeronimo",
-          "url": "https://open.spotify.com/artist/1GL3jFkc6YUeQGseYHS1hC"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/00jmSvshmJtTF8m3tc7xit"
-    },
-    {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "OJITOS ROJOS (REMIX)",
         "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Nos Comemos Vivos",
         "url": "https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Monumento (Remix)",
         "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
@@ -817,7 +841,7 @@
       "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Ojos Azules",
         "url": "https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
@@ -881,7 +905,7 @@
       "url": "https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Diablo, Qu\u00e9 Chimba",
         "url": "https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy"
@@ -901,7 +925,7 @@
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Lejan\u00eda",
         "url": "https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Si Te La Encuentras Por Ah\u00ed",
         "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Mojando Asientos (feat. Feid)",
         "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
@@ -981,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -1001,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "S91",
         "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
@@ -1017,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Juan Duque Hotline: Cobuz & Bustta",
         "url": "https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa"
@@ -1037,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd"
@@ -1053,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "No Pinto Pajaritos",
         "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
@@ -1069,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
@@ -1093,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "La Suite (feat. Kevin Roldan) [Remix]",
         "url": "https://open.spotify.com/album/0ksdLjn5S8vyuSKtN2IPWt"
@@ -1121,23 +1145,7 @@
       "url": "https://open.spotify.com/track/0fUmYcDMwGnT2aRSgxjijW"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "KrING",
         "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
@@ -1161,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
@@ -1177,7 +1185,7 @@
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Dese\u00e1ndote",
         "url": "https://open.spotify.com/album/3YQ4tM0jt6aKIn2JN1P99u"
@@ -1201,7 +1209,7 @@
       "url": "https://open.spotify.com/track/5Vs8sN2nybAETsTF8crpYD"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "L\u00edo",
         "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
@@ -1217,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW"
@@ -1237,7 +1245,7 @@
       "url": "https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m"
     },
     {
-      "added_at": "2024-04-10 15:03:35",
+      "added_at": "2024-05-10 04:59:00",
       "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"

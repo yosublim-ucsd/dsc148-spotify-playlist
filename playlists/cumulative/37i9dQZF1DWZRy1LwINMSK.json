@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Ak4:20",
+  "description": "La casa del trap chileno al mando de Cris Mj.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-11",
       "duration_ms": 169500,
       "name": "APARATO ENCIMA",
       "url": "https://open.spotify.com/track/38G4NZQooDj1CG1dSYu7up"
@@ -3650,6 +3650,24 @@
       "duration_ms": 153273,
       "name": "Queremo Ma",
       "url": "https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH"
+    },
+    {
+      "album": {
+        "name": "QUICKIE",
+        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "QUICKIE",
+      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
     },
     {
       "album": {

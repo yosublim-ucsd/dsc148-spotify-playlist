@@ -2,7 +2,7 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz
+> Homegrown Ugandan hits in one playlist\. Cover: Kohen Jaycee
 
 289 songs - 14 hr 58 min
 

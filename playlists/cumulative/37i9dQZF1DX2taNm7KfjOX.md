@@ -2,7 +2,7 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Novo Amor
+> Repeat\-free hours of new and beloved indie folk\. Cover: Jessica Pratt
 
 605 songs - 1 day 13 hr 39 min
 

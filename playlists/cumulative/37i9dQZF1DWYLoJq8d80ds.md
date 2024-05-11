@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros y Eugenia Quevedo.
 
-164 songs - 9 hr 7 min
+165 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cinco Sentidos](https://open.spotify.com/track/3DhjoaOlyb5iGqfaN8XKbj) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cinco Sentidos](https://open.spotify.com/album/2KqQcyr7EHi2VHT1KhVEAB) | 2:16 | 2021-12-31 |  |
 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 | 2021-12-31 |  |
 | [Corazón de Lechiguana](https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm) | [Lucrecia Rodrigo](https://open.spotify.com/artist/1SYetf78ctGyoC8SSuargh), [Añapa Dúo](https://open.spotify.com/artist/7DkcfDuf8COfc9RGmcTpxG) | [Natural](https://open.spotify.com/album/45PIeay1Qdiv4TaPNC071j) | 2:26 | 2021-12-31 |  |
+| [Cosa Peligrosa](https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cosa Peligrosa](https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5) | 3:21 | 2024-05-10 |  |
 | [Cuando Canto Chacarera](https://open.spotify.com/track/7hm9QgvT2CWFL8rLX21KSD) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cuando Canto Chacarera](https://open.spotify.com/album/1opVRKCK6j2oskwXt3e5vU) | 3:02 | 2021-12-31 |  |
 | [Cusco](https://open.spotify.com/track/3JxuJd4IskavzFgVJEXolo) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Cusco](https://open.spotify.com/album/6H3ubwOSc8Z1plrQjM4to8) | 5:20 | 2023-01-27 |  |
 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 | 2021-12-31 | 2023-05-13 |
@@ -91,7 +92,7 @@
 | [La Valeria](https://open.spotify.com/track/7Besg1YcPga8EJ02iLgdPu) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Valeria](https://open.spotify.com/album/6De88pg9PiStK2WQlaISGx) | 3:57 | 2021-12-31 |  |
 | [La Vieja](https://open.spotify.com/track/4oejqv8BCJUzPVQqovgiZs) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Salta en Mi Sangre](https://open.spotify.com/album/19MVmmIUyeUqFFBV3b0A8s) | 2:07 | 2021-12-31 |  |
 | [La Wasappera](https://open.spotify.com/track/2E0dGSoOrh0fGdLkbSgELi) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Wasappera](https://open.spotify.com/album/0UFRvUGt4Mhpb4Xdyfb1PE) | 2:14 | 2023-09-01 | 2023-10-21 |
-| [Las Ideas](https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Las Ideas](https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW) | 3:54 | 2022-05-27 |  |
+| [Las Ideas](https://open.spotify.com/track/6Xh9pqCul56QqMylyS2agb) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Las Ideas](https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW) | 3:54 | 2022-05-27 | 2024-05-11 |
 | [Las Moras](https://open.spotify.com/track/4aFcSioY14fDCLAxOUrfUf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Con el Alma \(Sesiones 2020\)](https://open.spotify.com/album/3ZFER51zrslR8BjOl5TZzx) | 2:36 | 2021-12-31 | 2022-10-08 |
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 | 2024-04-27 |
 | [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 | 2023-10-20 | 2024-04-19 |

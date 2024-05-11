@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126003,
+  "num_followers": 126005,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASV/cCmX+ER83m9mqbV9ABmBwzLGCk",
+  "snapshot_id": "AAASWW/81Iug0qo5/3URL4p6vFBAp0hw",
   "tracks": [
+    {
+      "added_at": "2024-05-10 13:50:42",
+      "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Showjoe",
+          "url": "https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk"
+    },
     {
       "added_at": "2024-05-09 15:20:34",
       "album": {
@@ -1171,50 +1191,6 @@
       "duration_ms": 165714,
       "name": "Don't Wanna Know",
       "url": "https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY"
-    },
-    {
-      "added_at": "2024-02-21 17:54:01",
-      "album": {
-        "name": "BINARY BLOOD",
-        "url": "https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj"
-      },
-      "artists": [
-        {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
-        },
-        {
-          "name": "CLOUD ZERO",
-          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "BINARY BLOOD",
-      "url": "https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc"
-    },
-    {
-      "added_at": "2024-02-20 18:00:59",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        },
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        },
-        {
-          "name": "MAYLYN",
-          "url": "https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

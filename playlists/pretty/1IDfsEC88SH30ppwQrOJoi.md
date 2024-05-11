@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 ### [Ultra Club Hits](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
 
-> High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
+> High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,518 likes - 71 songs - 3 hr 32 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,517 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 70 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 |
 | 71 | [Sleep When I'm Dead](https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Sleep When I'm Dead](https://open.spotify.com/album/7I577n54Z2sUrjsXousEIY) | 2:40 |
 
-Snapshot ID: `AAAJZ//i6P/08kOwSkp3g8PG0Ypo0AUC`
+Snapshot ID: `AAAJaKGLgKVVn/oWEgl4zfKYY4gMVIXe`

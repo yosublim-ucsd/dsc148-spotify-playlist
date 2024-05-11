@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-517 songs - 1 day 10 hr 36 min
+518 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-12-03 | 2022-07-23 |
 | [Givemeafeeling](https://open.spotify.com/track/0NVBRjhjjf7gFtlDW8uRKX) | [FINNfm](https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE) | [Givemeafeeling](https://open.spotify.com/album/5Y65dlZF1POx8ynO3ItTka) | 3:06 | 2024-01-05 |  |
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-19 |  |
-| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 |  |
+| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 | 2024-05-11 |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |
@@ -380,6 +380,7 @@
 | [Pretty Slick](https://open.spotify.com/track/0yI3CQlUABw6ZH8g6Dg0Uu) | [Oya Paya](https://open.spotify.com/artist/4HHt0NMWW2JEUosUiiPVNz) | [Pretty Slick](https://open.spotify.com/album/33poKu2pJAyrUfO7Ni3ncW) | 2:45 | 2022-01-14 | 2022-05-25 |
 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 | 2022-04-15 | 2022-04-20 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-05-22 |  |
+| [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 | 2024-05-10 |  |
 | [Rainbow Road](https://open.spotify.com/track/3MJXbFkCPJhu0i7tsiOXJa) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Rainbow Road](https://open.spotify.com/album/2qO9xeTX6Saig34VZtdg3g) | 5:27 | 2021-12-03 | 2022-04-20 |
 | [Rainbows and Dreams](https://open.spotify.com/track/7skKYebcq4DBnVGJdanIGb) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Stellar Drifting](https://open.spotify.com/album/10R86B7gmlS7yVf8IBx9uE) | 4:41 | 2022-09-05 | 2023-05-23 |
 | [Raise Your Head](https://open.spotify.com/track/5oUXIN6HBWRtwCaYXEUIUK) | [The Tribe Of Good](https://open.spotify.com/artist/6nQ4B2a06aLFR1hPMjRNrQ) | [Raise Your Head](https://open.spotify.com/album/5P2bB9zhgOEYcEYgxIuXDp) | 3:27 | 2022-04-19 | 2022-04-21 |

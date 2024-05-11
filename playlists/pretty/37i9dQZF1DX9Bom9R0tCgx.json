@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 375391,
+  "num_followers": 375512,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 132700,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 132700,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Round Round",
         "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
       },
@@ -1051,6 +1027,26 @@
       "duration_ms": 226259,
       "name": "Round Round",
       "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1079,6 +1075,30 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Europatr\u00e4ume",
         "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 216592,
       "name": "Europatr\u00e4ume",
       "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/0Epjh2uppKZdPz2ooy7svA"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "All Of The Lights",
         "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0Epjh2uppKZdPz2ooy7svA"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Voodoo People",
         "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
       },
@@ -1395,6 +1395,26 @@
       "duration_ms": 120000,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Stumblin' In (LUNAX Remix)",
         "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 134357,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Donkers",
-        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
-      },
-      "artists": [
-        {
-          "name": "Gonzi",
-          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
-        },
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Donkers",
-      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
       },
@@ -1695,26 +1675,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Join The Madness",
-        "url": "https://open.spotify.com/album/0qLIqozcMvbeKO8GqVvleL"
+        "name": "Donkers",
+        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
         },
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 193875,
-      "name": "Join The Madness",
-      "url": "https://open.spotify.com/track/5dvcdoVygPhEgtyy0rPhdk"
+      "duration_ms": 304500,
+      "name": "Donkers",
+      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1739,6 +1715,30 @@
       "duration_ms": 157593,
       "name": "The Woodchuck Song - Sonny Wern Remix",
       "url": "https://open.spotify.com/track/5bEtsgIeyAETUJTSraod2Y"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Join The Madness",
+        "url": "https://open.spotify.com/album/0qLIqozcMvbeKO8GqVvleL"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "Join The Madness",
+      "url": "https://open.spotify.com/track/5dvcdoVygPhEgtyy0rPhdk"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
       },
@@ -1831,22 +1851,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+        "name": "Gimme The Word",
+        "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
         },
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+      "duration_ms": 179671,
+      "name": "Gimme The Word",
+      "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1923,46 +1947,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/0ZVzN0Kj0vgK7EjVRUusVz"
-      },
-      "artists": [
-        {
-          "name": "Basswell",
-          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
-        }
-      ],
-      "duration_ms": 345346,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/3npnY5CEUv1YbdsdGWsApw"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Gimme The Word",
-        "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 179671,
-      "name": "Gimme The Word",
-      "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Satellite (Tweekacore Remix)",
         "url": "https://open.spotify.com/album/3pHZPSyb1HuyDVDPBVNX28"
       },
@@ -1987,26 +1971,18 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Hyperdrive (D-Charged Remix)",
-        "url": "https://open.spotify.com/album/4HcRGZ5fgCO5bUIiYr9si6"
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/0ZVzN0Kj0vgK7EjVRUusVz"
       },
       "artists": [
         {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        },
-        {
-          "name": "Shift & Palm",
-          "url": "https://open.spotify.com/artist/6WlOomJZQwuwHnX4BKCwrj"
-        },
-        {
-          "name": "D-Charged",
-          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+          "name": "Basswell",
+          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
         }
       ],
-      "duration_ms": 190599,
-      "name": "Hyperdrive - D-Charged Remix",
-      "url": "https://open.spotify.com/track/6P5cS2e24lihrM7qV9KAh1"
+      "duration_ms": 345346,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/3npnY5CEUv1YbdsdGWsApw"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -2027,6 +2003,30 @@
       "duration_ms": 214684,
       "name": "Body Drop",
       "url": "https://open.spotify.com/track/3CWwoYqnCzerl9DhlRNYoI"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Hyperdrive (D-Charged Remix)",
+        "url": "https://open.spotify.com/album/4HcRGZ5fgCO5bUIiYr9si6"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        },
+        {
+          "name": "Shift & Palm",
+          "url": "https://open.spotify.com/artist/6WlOomJZQwuwHnX4BKCwrj"
+        },
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        }
+      ],
+      "duration_ms": 190599,
+      "name": "Hyperdrive - D-Charged Remix",
+      "url": "https://open.spotify.com/track/6P5cS2e24lihrM7qV9KAh1"
     }
   ],
   "unique_name": "Bass Explosion",

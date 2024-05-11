@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1167158,
+  "num_followers": 1167277,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Angel Down",
-        "url": "https://open.spotify.com/album/0FUE5WPWyXBBJfsXRMS4g0"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Bach",
-          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
-        }
-      ],
-      "duration_ms": 327533,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5LK19eRCqoKuRSVuUEhEKh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Bad English",
         "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 308306,
       "name": "Possession",
       "url": "https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Angel Down",
+        "url": "https://open.spotify.com/album/0FUE5WPWyXBBJfsXRMS4g0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Bach",
+          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+        }
+      ],
+      "duration_ms": 327533,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5LK19eRCqoKuRSVuUEhEKh"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+        "name": "The Headless Children",
+        "url": "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
+      "duration_ms": 308593,
+      "name": "Forever Free",
+      "url": "https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1"
     }
   ],
   "unique_name": "Rock Power Ballads",

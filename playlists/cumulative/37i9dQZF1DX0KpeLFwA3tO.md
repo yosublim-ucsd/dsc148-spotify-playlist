@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-1,780 songs - 3 day 16 hr 53 min
+1,781 songs - 3 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1361,6 +1361,7 @@
 | [Show Friends](https://open.spotify.com/track/553jmB9Nq4yPJgMFtkjVRm) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 3:07 | 2023-11-17 | 2024-01-05 |
 | [SHOWER SONG 2](https://open.spotify.com/track/46fW1xHXSwTCvvty3TiiMq) | [fredo disco](https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx), [Disco Inc.](https://open.spotify.com/artist/3mPyBjLQNaO5XwUyTXf5wL) | [POP PUNK PONZI SCHEME!!!](https://open.spotify.com/album/0rkZSgDbzpQA6elsUSzy8e) | 2:49 | 2022-01-28 | 2022-03-18 |
 | [shut up & kiss me](https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [shut up & kiss me](https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD) | 2:41 | 2024-02-16 | 2024-03-29 |
+| [Si Te Vas](https://open.spotify.com/track/1209uMOJJlBqKtDi7EeNdw) | [Flema](https://open.spotify.com/artist/2E0SVBO1NkyVTl7PDmGGw4) | [Si Te Vas](https://open.spotify.com/album/0wyM68TzShHA0sQtl1xCvo) | 2:22 | 2024-05-09 |  |
 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 | 2023-05-18 | 2023-07-14 |
 | [SiCK ABOuT U](https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [SiCK ABOuT U](https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4) | 3:08 | 2021-12-17 | 2022-02-25 |
 | [Sick As Your Secrets](https://open.spotify.com/track/3oyIFkrVp54TqQzTs2k9kp) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Sick As Your Secrets](https://open.spotify.com/album/6Kp9DjAQrRKUF1bJvLTifQ) | 2:39 | 2022-06-23 | 2022-07-15 |

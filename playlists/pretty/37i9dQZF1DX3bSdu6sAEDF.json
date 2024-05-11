@@ -1,13 +1,45 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 513747,
+  "num_followers": 513771,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zism/AAAAACk4m+qKgVb/O4PU5/FnYcX",
+  "snapshot_id": "Zj2bwAAAAAD7/spFVhMruIO+uPfvt9yg",
   "tracks": [
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "LONESTAR",
+        "url": "https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        }
+      ],
+      "duration_ms": 238752,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/74GoxOdXs5RbnT3XJPTvW2"
+    },
     {
       "added_at": "2024-04-26 04:01:00",
       "album": {
@@ -895,22 +927,6 @@
     {
       "added_at": "2023-09-04 21:51:37",
       "album": {
-        "name": "The Sweetest Part",
-        "url": "https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 198878,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/28tJhpy4NDPiZk28sEGSsh"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
       },
@@ -1175,26 +1191,6 @@
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/4FQXpCIENqhNKlfX4WZApJ"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Past Life",
-        "url": "https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        },
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 210662,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
     },
     {
       "added_at": "2023-09-04 21:51:37",
