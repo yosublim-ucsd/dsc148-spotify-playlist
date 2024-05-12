@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JJJ, BLASÉ & Bonbero\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,832 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,865 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 25 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 |
 | 26 | [Mahal](https://open.spotify.com/track/6jApe6bgRfAOYRsiaQ4Bxg) | [Sophia Liana](https://open.spotify.com/artist/4Xmv5ukMoLnot3CkVwP4tK) | [Mahal](https://open.spotify.com/album/7HmhjRmY94VdQBgvHy5ylc) | 2:36 |
 | 27 | [Rudi \(Wawancara Liar\)](https://open.spotify.com/track/3YbRwp18vyj3mzjKIT0aqG) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Rudi \(Wawancara Liar\)](https://open.spotify.com/album/2zpARUYH1qzKehx7RvHwTt) | 2:03 |
-| 28 | [Everybody](https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD) | [W.F.N.D RADIO](https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM) | 2:37 |
+| 28 | [Everybody](https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD) | [Everybody](https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM) | 2:37 |
 | 29 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 |
 | 30 | [Mama's Boy](https://open.spotify.com/track/4w0faX2eigRtJetCmpi2Mn) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mama's Boy](https://open.spotify.com/album/0AOyV1uyfd3THzAUlsWqY8) | 3:50 |
 | 31 | [BO BEH ZAO 没马跑](https://open.spotify.com/track/2PyEVqNNmtbDIA81RYvp8D) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [BO BEH ZAO 没马跑](https://open.spotify.com/album/41MjzkvJDAajqaxx34pOlA) | 2:59 |

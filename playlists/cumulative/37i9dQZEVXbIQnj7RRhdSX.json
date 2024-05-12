@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "ALTROVE",
+        "url": "https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205354,
+      "name": "ALTROVE",
+      "url": "https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J"
+    },
+    {
+      "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
       },
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 137399,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/35JHeT2zURSbrhwZW4cPry"
@@ -3456,6 +3474,28 @@
       "duration_ms": 195475,
       "name": "BASTAVA LA MET\u00c0 (feat. Gaia & Gu\u00e8)",
       "url": "https://open.spotify.com/track/4DxKnkE23aDDGeh4F3Zv2B"
+    },
+    {
+      "album": {
+        "name": "BBE (feat. Lazza)",
+        "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
     },
     {
       "album": {
@@ -4958,7 +4998,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 160235,
       "name": "Busy",
       "url": "https://open.spotify.com/track/3WyrKzgCeGQQcUtW8ZwLMP"
@@ -10741,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "EL PIBE DE ORO",
+        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
+    },
+    {
+      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -14686,7 +14744,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 164847,
       "name": "HONEY (feat. Lazza & Capo Plaza)",
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
@@ -16393,6 +16451,36 @@
     },
     {
       "album": {
+        "name": "Istinto Animale (feat. Gu\u00e8, Annalisa, Ernia)",
+        "url": "https://open.spotify.com/album/5zEwSdIbbglGIjxX6dNfG6"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149513,
+      "name": "Istinto Animale (feat. Gu\u00e8, Annalisa, Ernia)",
+      "url": "https://open.spotify.com/track/4Q46G91LXPGAdUt5kc1QEQ"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -17568,7 +17656,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 161095,
       "name": "La Ca$$a (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5RNZaMaGSxrTkNVsMUqPOk"
@@ -18065,7 +18153,7 @@
     },
     {
       "album": {
-        "name": "La noia",
+        "name": "la noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
       },
       "artists": [
@@ -18078,7 +18166,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189124,
-      "name": "La noia",
+      "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
@@ -19514,7 +19602,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 164211,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
@@ -22252,7 +22340,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 192196,
       "name": "Mi Riempi Di Chiamate",
       "url": "https://open.spotify.com/track/2wTMDCt0LWSPp0UlXXxlWS"
@@ -25746,7 +25834,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 225132,
       "name": "Oh Amore",
       "url": "https://open.spotify.com/track/0QEI2IrwYKZNppR1W62jXj"
@@ -26624,6 +26712,24 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
     },
     {
       "album": {
@@ -30681,6 +30787,28 @@
     },
     {
       "album": {
+        "name": "PROTOMARANZA",
+        "url": "https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6"
+      },
+      "artists": [
+        {
+          "name": "Articolo 31",
+          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "SCUSI MAESTRA (feat. Tedua)",
+      "url": "https://open.spotify.com/track/656s15tbLUO8m36U9UTYqU"
+    },
+    {
+      "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
@@ -34688,6 +34816,24 @@
       "duration_ms": 180062,
       "name": "Topless",
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
+    },
+    {
+      "album": {
+        "name": "Torcida",
+        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174628,
+      "name": "Torcida",
+      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ゲスの極み乙女 \*👉 <a href="https://spice.eplus.jp/articles/328587?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,088 likes - 73 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,110 likes - 73 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 30 | [CITY feat\. 柳美舞\(ばってん少女隊\)](https://open.spotify.com/track/5XkmFildPo2sqEmh7Ggxdj) | [月刊偶像](https://open.spotify.com/artist/66dObbkp79Ge6I1lGEzmzE), [柳美舞\(ばってん少女隊\)](https://open.spotify.com/artist/3VvFGH8cgshKWJLR9vChvA) | [CITY feat\. 柳美舞\(ばってん少女隊\)](https://open.spotify.com/album/1PEDi5OiDUL8mHqDElUugZ) | 3:25 |
 | 31 | [Summer ever](https://open.spotify.com/track/4weyvHWfFGGms3OsL5HYXa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Pa's Lam System](https://open.spotify.com/artist/50ERkudmGin7lJt1hsOHyK) | [Summer ever](https://open.spotify.com/album/1bMPNoX5aZUcNhgyuoFitG) | 3:14 |
 | 32 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 |
-| 33 | [ADABANA](https://open.spotify.com/track/3Ch0mexfG3l5vJOPmHbT32) | [中田裕二](https://open.spotify.com/artist/5mZwGqx9vl4ilr7CSrKsaO) | [ビターネス/ADABANA](https://open.spotify.com/album/4WoTg9lAb2W7bujB2GyF4U) | 3:04 |
+| 33 | [ADABANA](https://open.spotify.com/track/3Ch0mexfG3l5vJOPmHbT32) | [YUJI NAKADA](https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS) | [ビターネス/ADABANA](https://open.spotify.com/album/4WoTg9lAb2W7bujB2GyF4U) | 3:04 |
 | 34 | [PUT IT ON](https://open.spotify.com/track/4CcUieitEkKQN0emlLVK4m) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [PUT IT ON](https://open.spotify.com/album/4mmOZg3YoZi1VH05AdOjiK) | 2:44 |
 | 35 | [tattoo](https://open.spotify.com/track/6VKQAXXLBmqe97f7ljHvyg) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [tattoo / show me](https://open.spotify.com/album/58zJ9X5dBoIVYr5cOGDDsW) | 2:17 |
 | 36 | [HATE ME!](https://open.spotify.com/track/1KW1iCz6codg1QxvAEVstI) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [HATE ME! / FUCK HATER!](https://open.spotify.com/album/1QhGfpBqVLHNTnoIjtFdjW) | 2:42 |

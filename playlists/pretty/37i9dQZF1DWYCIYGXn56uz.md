@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,478 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,509 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 41 | [Da quando non ho smesso di amarti](https://open.spotify.com/track/1yZTdcivUH0TZyzqGwUmKh) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Da quando non ho smesso di amarti](https://open.spotify.com/album/49AkKgHmJT0kJ50t4fCfwo) | 3:08 |
 | 42 | [ALLERGICA ALLE FRAGOLE](https://open.spotify.com/track/0hYdFsDUc23IOXCra6ddkB) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [ALLERGICA ALLE FRAGOLE](https://open.spotify.com/album/3uaa9er9i5Qmpq64qmS8N5) | 1:46 |
 | 43 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
-| 44 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
+| 44 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
 | 45 | [ROSSOFUOCO](https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSSOFUOCO](https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA) | 2:42 |
 | 46 | [POSATENEBRE](https://open.spotify.com/track/2TgvnT8ugu5YMrQpXdspXM) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [POSATENEBRE](https://open.spotify.com/album/0HZ53MWDea1zIvVZ2DqQXg) | 3:02 |
 | 47 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 |

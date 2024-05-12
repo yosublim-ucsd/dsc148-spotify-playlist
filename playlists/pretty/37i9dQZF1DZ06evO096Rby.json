@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 30988,
+  "description": "This is Edgardo Nu\u00f1ez. Die belangrikste snitte, alles in een speellys.",
+  "num_followers": 31040,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAABiT2DPFrfn7nzkvimF7yun",
+  "snapshot_id": "Zj1jgAAAAACQJ0bqqodYPXp+wEnLcHjH",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Danny De Chicali (En Vivo)",
-        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
+        "name": "Tolin Infante",
+        "url": "https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Danny Morales",
-          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 150000,
-      "name": "El Danny De Chicali (En Vivo)",
-      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
+      "duration_ms": 206573,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW"
     },
     {
       "added_at": null,
@@ -767,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tolin Infante",
-        "url": "https://open.spotify.com/album/5ljf8NoVanAOnvAdIXGDg3"
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Tolin Infante",
-      "url": "https://open.spotify.com/track/0CllAgK2OReCaP8p1yl1SW"
+      "duration_ms": 156130,
+      "name": "Pensaron Que No Podia",
+      "url": "https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X"
     },
     {
       "added_at": null,
@@ -799,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
+        "name": "El Danny De Chicali (En Vivo)",
+        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
       },
       "artists": [
         {
@@ -808,13 +804,17 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 156130,
-      "name": "Pensaron Que No Podia",
-      "url": "https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X"
+      "duration_ms": 150000,
+      "name": "El Danny De Chicali (En Vivo)",
+      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
     },
     {
       "added_at": null,

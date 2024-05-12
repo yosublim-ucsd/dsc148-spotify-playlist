@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Damas Gratis.
 
-261 songs - 14 hr 48 min
+262 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 | 2023-08-11 | 2023-11-21 |
 | [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2024-03-05 |  |
 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 | 2023-05-26 | 2024-03-06 |
-| [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 |  |
+| [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 | 2024-05-12 |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2023-05-26 | 2024-03-06 |
 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 | 2023-05-26 | 2024-03-06 |
 | [El grandote](https://open.spotify.com/track/3OGpJ3WLq256b71EQQS7aW) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD1](https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ) | 2:26 | 2024-04-27 | 2024-05-03 |
@@ -88,6 +88,7 @@
 | [El Whatsapp](https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:32 | 2023-05-26 | 2024-03-06 |
 | [El WhatsApp \- Remix](https://open.spotify.com/track/0MDlIAcp1uuaf77uBUmnjh) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [El WhatsApp \(Remix\)](https://open.spotify.com/album/7GM7fXU6oVahpfXoNjNbtg) | 2:39 | 2023-11-24 |  |
 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 | 2024-03-05 | 2024-04-28 |
+| [Ella](https://open.spotify.com/track/78K8wJinqmHpfiLwjUk8jS) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 2:44 | 2024-04-27 |  |
 | [En el Mercho](https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ) | [Corre Guachin](https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY) | [En el Mercho](https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH) | 3:29 | 2023-08-04 | 2023-08-12 |
 | [En la Cama Tú y Yo](https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx) | [El Aspirante](https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK) | [No Hay Mal Que Dure 100 Años](https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco) | 2:55 | 2023-05-26 | 2024-03-06 |
 | [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,342 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,341 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 |
 | 50 | [Un monde parfait \- Techno Mix](https://open.spotify.com/track/5yAJ48kDBWoggEg9GQhHlt) | [Ilona Mitrecey](https://open.spotify.com/artist/5CNueVdkXCAEod4Zf1dU2D), [Jesse Bloch](https://open.spotify.com/artist/5wDknXKPbdkrxxmDKi7alc) | [Un monde parfait \(Techno Mix\)](https://open.spotify.com/album/7FHpbtVuYG0n3BcCOdK8An) | 2:51 |
 
-Snapshot ID: `LdGEQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdLYGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

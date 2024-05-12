@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,501 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,502 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 |
 | 50 | [Фальшивый мир](https://open.spotify.com/track/2AdTlYI4t1dcUjxykC1QG7) | [Тбили](https://open.spotify.com/artist/4v1sWwhP6FqyOQKlMrFKEo), [ХТБ](https://open.spotify.com/artist/3sIzQvlWDXksnn5L7nDo0Y) | [All Hits](https://open.spotify.com/album/3pQQY2KRnp50wGGNQJa4cq) | 3:06 |
 
-Snapshot ID: `LdGEQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdLYGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

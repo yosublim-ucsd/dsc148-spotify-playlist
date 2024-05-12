@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 269721,
       "name": "Application For Release From The Dream",
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 158918,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/06Z4ckMBakLA5TbHMtPo5y"
@@ -8355,6 +8355,24 @@
     },
     {
       "album": {
+        "name": "Into The Realm",
+        "url": "https://open.spotify.com/album/30pWmMh4zKmgbe1jRk8S1n"
+      },
+      "artists": [
+        {
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "Fresh Fur",
+      "url": "https://open.spotify.com/track/3riZihR1gFYRNhAp5y7YXx"
+    },
+    {
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
       },
@@ -8556,7 +8574,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 230000,
       "name": "Gatos Negros",
       "url": "https://open.spotify.com/track/1EjB9GyBPevH8tW0YPk79M"
@@ -10108,6 +10126,24 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
+    },
+    {
+      "album": {
+        "name": "In Berlin",
+        "url": "https://open.spotify.com/album/0Q66TaAigeYo3etuN3gOqb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258443,
+      "name": "Holding out for a Hero - Live in Berlin",
+      "url": "https://open.spotify.com/track/2wSEWnlWfO5y8PS6m0ZEq2"
     },
     {
       "album": {
@@ -13692,7 +13728,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 189714,
       "name": "Let's Go Crazy Tonight - Single Edit [Live]",
       "url": "https://open.spotify.com/track/5aKSdqyXadMEo1RDm59T29"
@@ -16698,7 +16734,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 305993,
       "name": "Nuestra guerra",
       "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
@@ -20278,7 +20314,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 492969,
       "name": "Schakal 2024",
       "url": "https://open.spotify.com/track/2wPHfvoSX2jJFSecj7J9c0"
@@ -22336,7 +22372,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 342220,
       "name": "Supersonic - Live at The Limelight, Belfast - 4th September '94",
       "url": "https://open.spotify.com/track/0KcauaScxdQDQeYIHGbH6D"
@@ -23304,7 +23340,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 975800,
       "name": "The Bloodwren",
       "url": "https://open.spotify.com/track/6LTMY4Go1DL2ODu8sbzd2d"
@@ -25960,7 +25996,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 173893,
       "name": "Ultime Parole",
       "url": "https://open.spotify.com/track/2ojcxuRm2guo83HxuGGbcr"

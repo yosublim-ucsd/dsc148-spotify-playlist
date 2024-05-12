@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 19113,
+  "num_followers": 19115,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Live Worship From Vertical Church",
-        "url": "https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        },
-        {
-          "name": "Jason Ingram",
-          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "For All You've Done (I Worship You) (feat. Jason Ingram) - Live",
-      "url": "https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "I Won't Forget",
         "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 521973,
       "name": "I Won't Forget (Live)",
       "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Live Worship From Vertical Church",
+        "url": "https://open.spotify.com/album/3Cugb1EthU6slWVMkhqEBz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        },
+        {
+          "name": "Jason Ingram",
+          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "For All You've Done (I Worship You) (feat. Jason Ingram) - Live",
+      "url": "https://open.spotify.com/track/78BJN4Nya6inRz4OhEY6PH"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,004 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,034 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -996,7 +996,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 986 | [Canto De Iemanjá](https://open.spotify.com/track/0zaB2klfkBbi5pstOq9O1e) | [Camarão Orkestra](https://open.spotify.com/artist/5E4mkcV4vo9RsSbcnk0sm5) | [Nação África](https://open.spotify.com/album/6oa4XpX9fkpbwgDHPeXe5O) | 5:38 |
 | 987 | [Ungena Za Ulimwengu \(Unite The World\)](https://open.spotify.com/track/6AkLY10RHXu6U7808L6reG) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Face To Face With The Truth](https://open.spotify.com/album/4ZswFiADrD5jIg1Y5Eu7cc) | 8:51 |
 | 988 | [La ville, Pt\. 2](https://open.spotify.com/track/4h9CoeGbQcCRiixdBCchQh) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 5:12 |
-| 989 | [Maita](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 |
+| 989 | [Maitá](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 |
 | 990 | [Mindule Mipanzana](https://open.spotify.com/track/1ojuzMbuLgnIteJMtrBK0D) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Joseph Kabasele and the Creation of Modern Congolese Music, Vol\. 2](https://open.spotify.com/album/0JgPNAQ8HPui3lfSKJvyF1) | 2:42 |
 | 991 | [Sack o'woe](https://open.spotify.com/track/0Y7KReJY92mCe0HLJqkpE8) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/1oJ0i0DfplonYuvnc8avZZ) | 2:21 |
 | 992 | [Al Elnim](https://open.spotify.com/track/3IqwpeCf40ptyCyuU9QBFZ) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 6:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Esteman en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,700 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,704 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 12 | [AL OTRO LADO](https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [AL OTRO LADO](https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF) | 2:28 |
 | 13 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 |
 | 14 | [Donde Vas?](https://open.spotify.com/track/3RJ4OyJpNuNCRAUnCJWWuH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Donde Vas?](https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf) | 3:02 |
-| 15 | [El poder del arte \- Sesiones Moraima](https://open.spotify.com/track/7nCKhphh8zPP66bgBpUAHG) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [El poder del arte \(Sesiones Moraima\)](https://open.spotify.com/album/1Icmykx9dZIEMqiJsewMEx) | 6:36 |
+| 15 | [El poder del arte \- Sesiones Moraima 2](https://open.spotify.com/track/7nCKhphh8zPP66bgBpUAHG) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [El poder del arte \(Sesiones Moraima 2\)](https://open.spotify.com/album/1Icmykx9dZIEMqiJsewMEx) | 6:36 |
 | 16 | [Desde Cero](https://open.spotify.com/track/1RK3sxuBR8PfGNq82Z4UMZ) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [Desde Cero](https://open.spotify.com/album/3GXKYykqt1bbcQF6XPYhlu) | 3:56 |
 | 17 | [Niño Aún](https://open.spotify.com/track/4qykJNAuEKr654Swi04roR) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h), [McEnroe](https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2) | [Niño Aún](https://open.spotify.com/album/46whZlo2x3o7vjOMfdC6B8) | 3:14 |
 | 18 | [Los hijos del odio](https://open.spotify.com/track/1NZ45VxktEqT6hXpcV7J68) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa) | [Los hijos del odio](https://open.spotify.com/album/3VhynvJGGsotCdADBsF0q7) | 2:28 |

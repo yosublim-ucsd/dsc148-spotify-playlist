@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/3MhuSNVWlYABxuJ3DojIGg"
@@ -7592,7 +7592,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 459410,
       "name": "Etude No.2",
       "url": "https://open.spotify.com/track/33mmFvzD7lxLIoboTGdIz9"
@@ -10866,7 +10866,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 129210,
       "name": "Her Melody (with HIRIE) - Ok Scotty Remix",
       "url": "https://open.spotify.com/track/12NcAfe0WLpo3o74sKqTk2"
@@ -13970,7 +13970,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 415242,
       "name": "La chanson des vieux amants",
       "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
@@ -18978,6 +18978,28 @@
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+    },
+    {
+      "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Pair Of Hammers",
+      "url": "https://open.spotify.com/track/21PDoRsAQsegZda612pgto"
     },
     {
       "album": {
@@ -27733,6 +27755,28 @@
     },
     {
       "album": {
+        "name": "Tales from the Loop (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/3n4efY5eK4rqFgcnMeV9OO"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150662,
+      "name": "Walk to School",
+      "url": "https://open.spotify.com/track/1ONCLg6E9KVWkIovF1QYNU"
+    },
+    {
+      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
       },
@@ -28492,7 +28536,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 167447,
       "name": "Whatever I Want",
       "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"

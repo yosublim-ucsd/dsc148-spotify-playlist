@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "El Chulo",
+        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
+    },
+    {
+      "album": {
         "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
         "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
       },
@@ -1198,7 +1220,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 191773,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
@@ -1802,7 +1824,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 161493,
       "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
       "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"

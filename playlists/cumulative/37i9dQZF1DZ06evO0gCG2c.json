@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is Akon. The essential tracks, all in one playlist.",
+  "description": "This Is Akon. Los temas esenciales, todos en una lista.",
   "name": "This Is Akon",
   "tracks": [
     {
@@ -32,6 +32,28 @@
       "duration_ms": 247453,
       "name": "9MM",
       "url": "https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ray Lavender",
+          "url": "https://open.spotify.com/artist/4YUa2ZjtUsc9rITXblPpOr"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244453,
+      "name": "Against The Grain",
+      "url": "https://open.spotify.com/track/7drg9omSv2o04xPG60R8tb"
     },
     {
       "album": {
@@ -94,7 +116,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 219186,
       "name": "Baby, I'm Back",
       "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
@@ -318,7 +340,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 209013,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
@@ -344,7 +366,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
@@ -366,7 +388,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 202680,
       "name": "Boss' Life",
       "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
@@ -550,7 +572,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
@@ -622,7 +644,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 183206,
       "name": "Enjoy That",
       "url": "https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA"
@@ -976,7 +998,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 178840,
       "name": "I Wanna Fuck You",
       "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
@@ -998,7 +1020,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 247066,
       "name": "I Wanna Love You",
       "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
@@ -1024,6 +1046,28 @@
       "duration_ms": 247066,
       "name": "I Wanna Love You",
       "url": "https://open.spotify.com/track/6NncjnSD7JLEetWb9KqMRY"
+    },
+    {
+      "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "I Wanna Love You - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
     },
     {
       "album": {
@@ -1098,6 +1142,28 @@
       "duration_ms": 264666,
       "name": "I'm So Paid",
       "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
+    },
+    {
+      "album": {
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/0SF4YWvJFsZBXublew4PsF"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256200,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/6WZnq7grXmrbNDLQHdKhrg"
     },
     {
       "album": {
@@ -1200,7 +1266,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 229733,
       "name": "Like I Never Left (feat. Akon)",
       "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
@@ -1724,7 +1790,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 240746,
       "name": "Right Now (Na Na Na)",
       "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw"
@@ -2266,7 +2332,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"

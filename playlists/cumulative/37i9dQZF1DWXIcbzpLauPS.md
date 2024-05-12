@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Plot In You
 
-910 songs - 2 day 8 hr 46 min
+912 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [don't let it hurt me](https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh) | [Defocus](https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU) | [there is a place for me on earth](https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO) | 3:53 | 2024-03-08 |  |
 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 | 2024-04-12 |  |
 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 | 2024-03-08 | 2024-05-11 |
+| [Don’t Look Away](https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:13 | 2024-05-10 |  |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
 | [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-09-29 | 2024-02-10 |
@@ -303,7 +304,7 @@
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2022-07-13 | 2022-07-15 |
 | [Everything but Faith](https://open.spotify.com/track/4ADgspuZLhlsiAijC9oDAR) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Colorblind EP](https://open.spotify.com/album/29M640Q87avBIyyLC1rWlT) | 3:42 | 2022-12-10 | 2023-07-15 |
 | [Everything You Wanted](https://open.spotify.com/track/2U6Q6k3BlUpKpds9i6YEsQ) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8) | 3:31 | 2024-03-08 | 2024-04-19 |
-| [Everything You Wanted](https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7) | 3:31 | 2024-02-09 |  |
+| [Everything You Wanted](https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Everything You Wanted](https://open.spotify.com/album/7mrWYcglvi7cBGgebyJCY7) | 3:31 | 2024-02-09 | 2024-05-12 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2022-07-13 | 2022-07-23 |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-07-13 | 2022-07-18 |
 | [Exit, Exist](https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Exit, Exist](https://open.spotify.com/album/0ZW4okAGcfZ6fKOBE5Fp6T) | 3:54 | 2022-07-13 | 2022-07-22 |
@@ -597,6 +598,7 @@
 | [Oni](https://open.spotify.com/track/0duwzHmpcdFDDfmc7bCb0Q) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [ONI//KIJO](https://open.spotify.com/album/6eSG2kq7uj7JS8QP39EckW) | 3:52 | 2021-12-17 | 2022-02-18 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-07-23 |
 | [Options](https://open.spotify.com/track/3gLRXqPiOus7T8eD3t9iDH) | [The Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Chloe Ozwell](https://open.spotify.com/artist/07gFHRrAEMmxG528gTVvFO) | [Rumination](https://open.spotify.com/album/60HZVkVipEXJKr3Nbk2MSi) | 3:12 | 2022-04-01 | 2022-06-18 |
+| [Our Brand Is Chaos](https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Our Brand Is Chaos](https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA) | 4:35 | 2024-05-10 |  |
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-07-23 |
 | [Over the Garden Wall](https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [The Cycles Of Trying To Cope](https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM) | 3:52 | 2024-05-10 |  |
 | [OVERDOSE](https://open.spotify.com/track/2SoR6O8idei7LmHz5zjGv2) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [OVERDOSE](https://open.spotify.com/album/0cI5qlpfzlP6U12EHcKLCy) | 5:21 | 2024-03-08 |  |
@@ -633,7 +635,7 @@
 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 | 2023-06-27 |  |
 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 | 2022-05-13 | 2023-02-04 |
 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 | 2022-07-08 | 2023-07-15 |
-| [PULSE](https://open.spotify.com/track/2fydlHvn1tdisIxpwUkg5Y) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/5q3E6Odlt47Ha0UiUIepon) | 3:20 | 2024-02-23 |  |
+| [PULSE](https://open.spotify.com/track/2fydlHvn1tdisIxpwUkg5Y) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/5q3E6Odlt47Ha0UiUIepon) | 3:20 | 2024-02-23 | 2024-05-12 |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2021-12-17 | 2022-07-23 |
 | [Purple Static](https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Purple Static](https://open.spotify.com/album/3SeMw7HoiSTnsc4sDr9tF9) | 3:49 | 2021-12-17 | 2022-02-18 |
 | [Pushing The Pink Envelope](https://open.spotify.com/track/0ktqowpZZ3losVs1xUf9lg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/5o0XYoeBMFq6zeyADEfBqU) | 4:11 | 2023-12-22 | 2024-04-19 |

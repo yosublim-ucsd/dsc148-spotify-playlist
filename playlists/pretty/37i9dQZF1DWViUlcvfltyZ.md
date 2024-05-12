@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Lamante in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,160 likes - 92 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,165 likes - 92 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In memoria di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
+| 1 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
 | 2 | [Mi piace quello che è vero](https://open.spotify.com/track/7rEnQc2M6jzto3d6ijNUUz) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Garage Pordenone](https://open.spotify.com/album/2YsXkYTQUjxNhR4XcU386t) | 3:25 |
 | 3 | [Sempre](https://open.spotify.com/track/5EZm5cuNdnu04Cso8fuojN) | [Riviera](https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD) | [Sempre](https://open.spotify.com/album/7He15zqCOeaFWGNRzS8M7x) | 2:32 |
 | 4 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 |

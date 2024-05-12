@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,176 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,257 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 3 | [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 |
 | 4 | [Hope](https://open.spotify.com/track/14CIfSKcEDtvZlMISR6D8W) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Hope](https://open.spotify.com/album/3vt9Sd6ztbPf2vQc6JszIh) | 4:00 |
 | 5 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 |
-| 6 | [Umuthi \(The Cure\)](https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [BlaQRhythm & Elo Mude](https://open.spotify.com/artist/2wY3gAPMUyz3HARJwsBDWj), [Elo Mude](https://open.spotify.com/artist/7dVj8Q1F1gRQatJUsObTeK) | [Umuthi](https://open.spotify.com/album/4sBM2L5oua4Tp7ddiZkc7N) | 5:52 |
+| 6 | [Umuthi \(The Cure\)](https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Elo Mude](https://open.spotify.com/artist/7dVj8Q1F1gRQatJUsObTeK) | [Umuthi](https://open.spotify.com/album/4sBM2L5oua4Tp7ddiZkc7N) | 5:52 |
 | 7 | [Maloto \- Radio Edit](https://open.spotify.com/track/6lNjWcTRSzhFtFZDqtzUy9) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Spirit\-T](https://open.spotify.com/artist/0C9oz46JXNuDzoWlrowOVc) | [Maloto](https://open.spotify.com/album/30TCxNSRHOr9XFFlcRemA0) | 4:57 |
 | 8 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
 | 9 | [Visions Of Love \- Enoo Napa Remix](https://open.spotify.com/track/3bXwyFgXfvKqqX7QLbocCt) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ), [Nontu X](https://open.spotify.com/artist/3sMvSkFmK5wytKL6OhibKS), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Visions Of Love \(Enoo Napa Remix\)](https://open.spotify.com/album/6oGGgwcvIbnLL2dAnR4ZpD) | 6:44 |

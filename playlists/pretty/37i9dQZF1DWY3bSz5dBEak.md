@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 
 > Beethoven's famous works for piano, from wistful sonatas to ghostly trios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,359 likes - 40 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,369 likes - 40 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 | 35 | [33 Piano Variations In C, Op\. 120 On A Waltz By Anton Diabelli: Variation XIV\. Grave e maestoso](https://open.spotify.com/track/0YDcZOm7KXTDL620ZQo23X) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Beethoven: Diabelli Variations](https://open.spotify.com/album/5BsJ9bLfQRD7w771N6tuD2) | 3:27 |
 | 36 | [Piano Sonata No\. 19 in G Minor, Op\. 49 No\. 1: I\. Andante](https://open.spotify.com/track/2uQgLShu2btitCt1JVWx9c) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonatas Opp\. 31 & 49](https://open.spotify.com/album/4qy5eL1BisqgQTjyFvqwDp) | 3:56 |
 | 37 | [Andante favori in F, WoO 57: Andante grazioso con moto](https://open.spotify.com/track/5uNh98GK75IPR8vEKOldTX) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Beethoven: Variations & Bagatelles](https://open.spotify.com/album/7gSVhz9BLCeCrVsi7zwEhE) | 10:39 |
-| 38 | [I\. Allegro](https://open.spotify.com/track/0LhOmbF5ai9nySQ9vezj9T) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Glenn Gould plays Beethoven: Piano Sonatas Nos\. 1\-3; 5\-10; 12\-14; 15\-18; 23; 30\-32](https://open.spotify.com/album/1TTTmdzL8E6NgrvVJ0ZPF0) | 4:24 |
+| 38 | [Piano Sonata No\. 6 in F Major, Op\. 10 No\. 2: I\. Allegro](https://open.spotify.com/track/0LhOmbF5ai9nySQ9vezj9T) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Glenn Gould plays Beethoven: Piano Sonatas Nos\. 1\-3; 5\-10; 12\-14; 15\-18; 23; 30\-32](https://open.spotify.com/album/1TTTmdzL8E6NgrvVJ0ZPF0) | 4:24 |
 | 39 | [Piano Sonata No\. 26 in E\-Flat Major, Op\. 81a "Les Adieux": 1\. Das Lebewohl \(Adagio \- Allegro\)](https://open.spotify.com/track/5IFVx8wzxu8CFowCwp1go3) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [HieYon Choi](https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB) | [Beethoven Piano Sonatas Nos\. 18, 26, 27, 30](https://open.spotify.com/album/3sjVNkbfETPWmywvBtpbEF) | 6:45 |
 | 40 | [III\. Scherzo\. Allegro vivace](https://open.spotify.com/track/1gnWEzRRapiYOI5Arbzf0V) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 2:08 |
 

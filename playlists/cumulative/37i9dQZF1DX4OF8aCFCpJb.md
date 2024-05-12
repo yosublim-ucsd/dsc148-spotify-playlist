@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-228 songs - 13 hr 25 min
+229 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Nån Annan \(feat\. Jacco\)](https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Hela Livet](https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N) | 3:44 | 2022-12-09 | 2024-04-19 |
 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 | 2022-07-15 | 2024-02-19 |
 | [Onda ögat](https://open.spotify.com/track/2xjTyLhRN3tPSGTw8crj1v) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/20twF05x3UtYZhd3ib0llK) | 4:00 | 2024-03-07 | 2024-04-19 |
-| [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 | 2021-12-14 |  |
+| [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 | 2021-12-14 | 2024-05-12 |
 | [Pang Pang](https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Pang Pang](https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW) | 4:05 | 2022-07-15 | 2024-04-19 |
 | [Pass på dom](https://open.spotify.com/track/3ECcRt0WUZHvXUK80I5NOe) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Pass på dom](https://open.spotify.com/album/2pGbrFnneaGF2oCKePWBfY) | 3:52 | 2021-12-14 | 2022-07-28 |
 | [Peace n Love](https://open.spotify.com/track/02LepIdABo8o2fjhCjAdR1) | [Tony Rissla](https://open.spotify.com/artist/1maUgKAqVDQXqIheDkt4jn) | [En klassiker](https://open.spotify.com/album/1UE22dHWkvt9zmGewTOBKc) | 3:28 | 2021-12-14 | 2022-07-20 |
@@ -168,6 +168,7 @@
 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 | 2022-07-15 | 2024-04-19 |
 | [Saker som jag sett](https://open.spotify.com/track/5ZTJj1tjcmpm2tyvQtxC3J) | [Ken Ring](https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX), [Rawa](https://open.spotify.com/artist/2lrlMfvXH9633xjkkR2DhK), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Saker som jag sett](https://open.spotify.com/album/6xTvZgEj6jSQiJsaHeJS6r) | 3:21 | 2021-12-14 | 2022-07-23 |
 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 | 2022-06-23 |  |
+| [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 | 2024-05-09 |  |
 | [Skin](https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 2:56 | 2021-12-14 |  |
 | [Smugglaren](https://open.spotify.com/track/233P1DUo0GMAjHrZVgIQ16) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Smugglaren](https://open.spotify.com/album/4IyWA2WBZ1ieeqdkRLThte) | 4:20 | 2021-12-14 | 2022-09-05 |
 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 | 2022-07-15 | 2024-04-19 |

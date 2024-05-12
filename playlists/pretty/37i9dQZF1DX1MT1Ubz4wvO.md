@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con 107 Faunos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,430 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,448 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 32 | [Atardecer](https://open.spotify.com/track/4sstZgzbp7RWkToKFJu4r6) | [Banda de Belgas](https://open.spotify.com/artist/6kzUsvHNkl1bUp01qRag23) | [Atardecer](https://open.spotify.com/album/1LJleoZa3MHwHeMIsnPWEw) | 4:07 |
 | 33 | [Agonizando agosto](https://open.spotify.com/track/4q7EUoSRmM6VZ3qQFWmvbE) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [SOY CONSCIENTE](https://open.spotify.com/album/07DGwDKyCnD6KWhZRgxKFW) | 3:13 |
 | 34 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
-| 35 | [Paris de Noche](https://open.spotify.com/track/6WilGw8IiDUOXNKQt55DS5) | [Last Videotape](https://open.spotify.com/artist/1VCJ9AsaOvSW0A4Y75Ktrw) | [Los Arcos](https://open.spotify.com/album/5c0ok6xkiHo2BT9sQc9s9Y) | 6:24 |
+| 35 | [París de Noche](https://open.spotify.com/track/6WilGw8IiDUOXNKQt55DS5) | [Last Videotape](https://open.spotify.com/artist/1VCJ9AsaOvSW0A4Y75Ktrw) | [Los Arcos](https://open.spotify.com/album/5c0ok6xkiHo2BT9sQc9s9Y) | 6:24 |
 | 36 | [Fuego y Cuarzo](https://open.spotify.com/track/5LGam7dRyOqF18CipcRqZ0) | [Auto Sacramental](https://open.spotify.com/artist/3ny5rvIJ5Ll0WH3B1HGo7I), [ELBA](https://open.spotify.com/artist/1UvwuZCJr1TYr3WvdoH2cJ) | [Fuego y Cuarzo](https://open.spotify.com/album/6oXj3tb3RVRGqjJDuvkKyg) | 3:29 |
 | 37 | [Navaja](https://open.spotify.com/track/0qermp0hzBW9mkghC6RK8z) | [Crímenes de niños](https://open.spotify.com/artist/1xF0eAdzZtpoiZP2NAhDqM) | [Navaja](https://open.spotify.com/album/6zLwdVfjpRBld0pHsbL1Wk) | 3:25 |
 | 38 | [MALDITA NOSTALGIA](https://open.spotify.com/track/1GV4G4l6cXyxxu3k8EGEG2) | [Gletcher](https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi) | [MALDITA NOSTALGIA](https://open.spotify.com/album/5Yqxwx1tzBhU6LCaXeLfIE) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,630 likes - 105 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,708 likes - 105 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

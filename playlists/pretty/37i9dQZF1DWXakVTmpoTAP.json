@@ -1,6 +1,6 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 15082,
+  "num_followers": 15090,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Life Is Good (Deluxe)",
-        "url": "https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/0JADWCVegOaq8ECTdGtDPy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 132426,
       "name": "Daddy's Little Girl",
       "url": "https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Life Is Good (Deluxe)",
+        "url": "https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6"
     }
   ],
   "unique_name": "Father's Day",

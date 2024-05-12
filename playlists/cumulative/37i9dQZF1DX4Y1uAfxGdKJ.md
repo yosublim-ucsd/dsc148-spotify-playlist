@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-180 songs - 10 hr 4 min
+185 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,11 +47,13 @@
 | [destined](https://open.spotify.com/track/6cHARzJkr12k7Tido9BdCZ) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [destined](https://open.spotify.com/album/2QnVkxR2azevRsD95iQXdO) | 3:18 | 2022-10-14 |  |
 | [Determination](https://open.spotify.com/track/3Xxt0tIwZXTAdVGTysU5uy) | [Guille Bianchetti](https://open.spotify.com/artist/3JqwtW5C92SUeX85A9DrRy) | [Determination](https://open.spotify.com/album/71Zr1m0srLoB48UBBMoQ30) | 4:42 | 2022-09-23 | 2023-07-18 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-28 |  |
+| [Don't Let Me Go](https://open.spotify.com/track/7uwJpCvlcyfG54bSjhTt6y) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Don't Let Me Go](https://open.spotify.com/album/148BXYzHTXdCTiu5iK4drv) | 2:28 | 2024-05-11 |  |
 | [DoNe WIth U](https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [DoNe WIth U](https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl) | 3:19 | 2022-09-23 |  |
 | [Dreamscape](https://open.spotify.com/track/6YHhIKNyqtWN0jHqvsrf10) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Dreamscape](https://open.spotify.com/album/0zZCLYy5ZUvqgFUfp9LcVd) | 2:27 | 2022-09-23 | 2023-07-18 |
 | [Drift](https://open.spotify.com/track/2fJwyJQ9h6qEBHJVcqZuPr) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Drift](https://open.spotify.com/album/4JgPHkbu2r3lGQR9cXZ4UO) | 3:58 | 2022-12-09 | 2023-07-18 |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2022-09-23 |  |
 | [Easy Does It](https://open.spotify.com/track/3kIK2WpKgc9iDP4er2n4Nn) | [Sam Lush](https://open.spotify.com/artist/0d1sO3dP7qs2UAq2T9enWL) | [Easy Does It](https://open.spotify.com/album/5jckvLu33ajLOIqWioAPFb) | 2:15 | 2023-02-24 | 2023-07-18 |
+| [Edges](https://open.spotify.com/track/4nizdi2QD1J01AmmYRjehu) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Edges](https://open.spotify.com/album/1VzddjE5R4TV7rdtl5rQaA) | 3:43 | 2024-05-11 |  |
 | [Elixir](https://open.spotify.com/track/7hxkOhoWSxygCa4Akt3KjX) | [Kvantmusik](https://open.spotify.com/artist/1OTTWlOMCUlQRk3ie2D7xw) | [Elixir](https://open.spotify.com/album/4G1dHoGKyp4fk6XdSB9SSe) | 2:41 | 2022-09-23 |  |
 | [Endless](https://open.spotify.com/track/4Momr3h4hq6YsBCTAY7hN8) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Endless](https://open.spotify.com/album/6w6Scuiq5dhnNoqJLfpa3j) | 2:51 | 2023-01-13 | 2023-07-18 |
 | [Eridani](https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Eridani](https://open.spotify.com/album/6UVuoIa23nsZimsHnTFzxZ) | 3:48 | 2022-09-23 |  |
@@ -137,9 +139,11 @@
 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 | 2023-03-31 |  |
 | [Reactor 7](https://open.spotify.com/track/0KEd7iWaVQLQgDOv4uZhci) | [Martin Spiske](https://open.spotify.com/artist/10ERqJV744ZtavyVoA7bIO) | [Reactor 7](https://open.spotify.com/album/0zzYTZxje2FEO9ta0ZvygS) | 2:56 | 2022-09-23 | 2023-07-18 |
 | [Rebel](https://open.spotify.com/track/2Pbls3fWibSzMOjG43sVBF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Parachutes](https://open.spotify.com/album/5MoNA5y7SgdWPmr7Tw23Hk) | 3:58 | 2023-02-10 | 2023-09-23 |
+| [Redo](https://open.spotify.com/track/3gizIvFngufBoa5KWCSh6b) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Redo](https://open.spotify.com/album/6XwqnKNgyYm16VylDGgbnO) | 3:14 | 2024-05-11 |  |
 | [Relinquish](https://open.spotify.com/track/6zb7b21yPSuZlUXkMP8gyy) | [Daryl Dane](https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3) | [Relinquish](https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1) | 2:58 | 2024-01-20 |  |
 | [Returning to What Is](https://open.spotify.com/track/7x5AbgjodfYRFdB3UxAOGB) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Returning to What Is](https://open.spotify.com/album/42nTIL1I7hDW81DBMTTl0S) | 5:53 | 2023-07-06 |  |
 | [Rhodes Lights](https://open.spotify.com/track/6pvphkWxu6yuEnYhp6rC6o) | [Da Drüben](https://open.spotify.com/artist/1InvYRt2oX1GQPzlXaYXvT) | [Rhodes Lights](https://open.spotify.com/album/71chrtz6Dl77D0q83FfOTu) | 2:23 | 2023-11-24 |  |
+| [Rio](https://open.spotify.com/track/6YfOCDOSc45vW6TBwFlYPL) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Rio](https://open.spotify.com/album/3RlNPcbUzQRBTYLkGx4PI1) | 4:39 | 2024-05-11 |  |
 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 | 2022-10-28 |  |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
 | [Roses](https://open.spotify.com/track/5XaXglOKQnMT32dutt3qEU) | [shandr](https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU), [Soft Tide](https://open.spotify.com/artist/3fsqt6QGQnfuQmowwrxOVZ) | [Roses](https://open.spotify.com/album/7iU3cbOW2q9bEfetPu0jXn) | 2:26 | 2022-10-28 | 2023-07-18 |
@@ -161,6 +165,7 @@
 | [stories 13](https://open.spotify.com/track/6HNgWzpxQl1qukSKeIuqid) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [stories 13](https://open.spotify.com/album/56rTivunke1UwRpxEe8yMP) | 2:42 | 2023-01-06 | 2023-07-18 |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 | 2023-07-18 |
 | [Sunny Sides](https://open.spotify.com/track/6olBk82nCjXjLcXL5bPZBj) | [Mont Áy](https://open.spotify.com/artist/1lEZ94eNcaKh7AHMaBcv0q) | [Sunny Sides](https://open.spotify.com/album/2tWPuGy38UmTsEIZWjyGxw) | 2:48 | 2023-11-17 |  |
+| [Sunset Sauvage](https://open.spotify.com/track/6AKBxFKtsDSfggV52LU6Z1) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Sunset Sauvage](https://open.spotify.com/album/4Qh4c8iOP2bGziPsObVRQm) | 3:24 | 2024-05-11 |  |
 | [Sustain](https://open.spotify.com/track/7HesBPjY6KsxTjJSudt4H4) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa) | [Equilibrium](https://open.spotify.com/album/6G9L7a5ujhXehQRaf3sQh7) | 3:24 | 2024-04-09 |  |
 | [Sweet Harmony \- Erdi Irmak Remix](https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK), [Erdi Irmak](https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6) | [Sweet Harmony \(Remixed\)](https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS) | 6:46 | 2023-03-10 | 2023-04-29 |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 |  |

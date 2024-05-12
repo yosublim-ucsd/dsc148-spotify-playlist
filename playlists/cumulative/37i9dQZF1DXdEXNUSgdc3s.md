@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-91 songs - 4 hr 33 min
+94 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 | 2023-04-28 |  |
 | [Alpha Universe 64+66 hz](https://open.spotify.com/track/7Hbgr7d97YAxvZE0gufBWO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:45 | 2023-04-28 |  |
 | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/track/1iUPb3Uw65EBlhAo5gDDE6) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/album/2kyCvfTIMvavgFc9IGP8K6) | 2:29 | 2023-06-02 |  |
+| [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 | 2024-05-11 |  |
 | [Binaural Alpha : Ajna chakra](https://open.spotify.com/track/5Ng9BFy18wc1jXadJPzyZ5) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 1:32 | 2023-04-28 | 2023-07-29 |
 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 | 2023-04-28 |  |
 | [Binaural Alpha Drone](https://open.spotify.com/track/57Ilh5Ja4DipqilIkfcYYW) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:22 | 2023-04-28 |  |
@@ -60,6 +61,7 @@
 | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/track/58hhvVq3ouqe8rURCv66c0) | [Inner Versum](https://open.spotify.com/artist/1DDrPd2XA55nmMZ04syZvY) | [Caeulum Alpha 92Hz \- 100Hz](https://open.spotify.com/album/61fEtFEq96EyZgi9lnS9IW) | 2:32 | 2023-04-28 |  |
 | [Carried Away \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/track/3FJWWjvItqpAzkfxOakxdx) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Carried Away \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/album/1Lq797jDYl0Hh3pXS3zF7u) | 2:08 | 2023-09-29 | 2023-10-06 |
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-04-28 | 2023-10-06 |
+| [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 | 2024-05-11 |  |
 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 | 2023-04-28 |  |
 | [Deep state \- Alpha Sinus 138 Hz \- 140 Hz](https://open.spotify.com/track/2qjnXfgxjXtvS5lAbiteFh) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 2:52 | 2023-04-28 |  |
 | [Dust Settle G Alpha \(96\-108hz\)](https://open.spotify.com/track/1qhpoFWll8RJHM8sKla8CA) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Celestial Blink Alpha](https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ) | 2:10 | 2023-11-16 |  |
@@ -86,6 +88,7 @@
 | [Refreshed \(Binaural Alpha\)](https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Revitalizing Mind \(Binaural Alpha\)](https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG) | 3:51 | 2023-04-28 |  |
 | [Serenity \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/track/7n37knG5cirSIOV0PKInGx) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Serenity \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/album/6ol4cccg9CG7dSoTwkaFIj) | 2:10 | 2023-04-28 | 2023-10-06 |
 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-04-28 |  |
+| [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/track/2jON4MqXy28rCO5GeJ8gI8) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/album/5xQtNWRsX4cmd0rQCJUlZB) | 2:40 | 2024-05-11 |  |
 | [Sognare Alpha Sinus 68\-78 Hz](https://open.spotify.com/track/4LYNFbKtm5C6FWpz88ZkqR) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Alfalfa Waves](https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF) | 2:52 | 2023-04-28 |  |
 | [Sommernacht \- Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/6um6WVJVLw43yxPNtUlsPJ) | [Twinbeet](https://open.spotify.com/artist/5TgC13fERuYwNvHbRSfVGp) | [Morning Binaural](https://open.spotify.com/album/2G0j9ck7PCysNMufYHWCbn) | 2:20 | 2023-04-28 |  |
 | [Soul Of Light \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/track/6KBGWO5tW8j2uittrWODo3) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Soul Of Light \- Alpha Sinus 70Hz \- 75Hz](https://open.spotify.com/album/6L04enAmUuRh7fbIxWBgOs) | 2:08 | 2023-09-29 | 2023-10-06 |

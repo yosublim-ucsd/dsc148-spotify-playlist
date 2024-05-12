@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > 🧊
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,246 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,279 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 34 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
 | 35 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 |
 | 36 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
-| 37 | [WE ALWAYS KNEW](https://open.spotify.com/track/4rF1g157m2RG9N7NNrZJSo) | [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [WE ALWAYS KNEW](https://open.spotify.com/album/5kwWI5Q3PWFOLf6uVhwBKL) | 5:01 |
+| 37 | [WE ALWAYS KNEW](https://open.spotify.com/track/4rF1g157m2RG9N7NNrZJSo) | [TOFU \(TH\)](https://open.spotify.com/artist/3KlU9aJDoNkCSOdCmgX2GT) | [WE ALWAYS KNEW](https://open.spotify.com/album/5kwWI5Q3PWFOLf6uVhwBKL) | 5:01 |
 | 38 | [Bugambilya](https://open.spotify.com/track/5V1UJ03fQBUIdmFUy9CKVR) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Somber](https://open.spotify.com/album/3NnuuyP11cyqfqH4nOXuEH) | 4:35 |
 | 39 | [Kausapin Mo Naman](https://open.spotify.com/track/0LSC8TvQcO3kafrUkSruNY) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Kausapin Mo Naman](https://open.spotify.com/album/0487bPsY8hI6kr4Icmt3Sj) | 4:04 |
 | 40 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |

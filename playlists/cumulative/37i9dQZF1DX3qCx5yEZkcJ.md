@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-530 songs - 21 hr 52 min
+531 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 | 2021-06-16 |  |
 | [Blingblingbling](https://open.spotify.com/track/35qlk8sTjO4xHAVilmMjli) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Paths](https://open.spotify.com/album/2G2msv2JnORLxq0EDlv7Ch) | 1:44 | 2019-05-26\* | 2020-03-27 |
 | [Blue and Green](https://open.spotify.com/track/5kJAk6KD2SH3Dz8K3EfIhc) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Colors](https://open.spotify.com/album/3Oez1z22gULW1pAYTCkINr) | 2:54 | 2019-05-26\* | 2021-10-16 |
+| [Blue Moon](https://open.spotify.com/track/5RKxNmzhoC9gyVxUAETYBf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Blue Moon](https://open.spotify.com/album/1Q8T8tXs48kiQLIcvzMD5y) | 2:39 | 2024-05-09 |  |
 | [Bopatron](https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO) | 3:16 | 2022-07-28 | 2022-12-01 |
 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 | 2022-12-01 | 2024-04-19 |
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2019-05-26\* | 2022-07-23 |
@@ -227,7 +228,7 @@
 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 | 2019-05-26\* |  |
 | [Ja\(zz\)mmin](https://open.spotify.com/track/1O8cvz2DsqkIHjUBOPtipS) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1Kfn4jp9vTt669Ghuw45gW) | 2:01 | 2024-04-12 | 2024-04-19 |
 | [Ja\(zz\)mmin](https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1QfstQ2VOEcmJKSFIl7ImW) | 2:01 | 2021-06-13 | 2022-07-27 |
-| [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 |  |
+| [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 | 2024-05-12 |
 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 | 2020-06-29 | 2022-11-21 |
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 | 2024-04-19 |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-09-11 | 2022-07-29 |

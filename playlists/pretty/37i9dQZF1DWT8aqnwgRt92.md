@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462,122 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,462,468 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 41 | [Growing Up](https://open.spotify.com/track/64q5oxmMOMalIqPGII5z4N) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Growing Up \(TVアニメ『この素晴らしい世界に祝福を！3』オープニング・テーマ\)](https://open.spotify.com/album/1rULsxF6zg96G8kxYrvJkc) | 3:49 |
 | 42 | [NewGame](https://open.spotify.com/track/3C30FJacKSEVBBgOkR8ctM) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [NewGame](https://open.spotify.com/album/5Tg8l71qFbSsKa38HPXRde) | 2:01 |
 | 43 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
-| 44 | [Odd Numbers](https://open.spotify.com/track/5UUQjdgSOoJUGgciuFHDkP) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT) | [Odd Numbers](https://open.spotify.com/album/0AcT5hoztw7jIYycNEJCvO) | 3:23 |
+| 44 | [Odd Numbers](https://open.spotify.com/track/5UUQjdgSOoJUGgciuFHDkP) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT) | [Odd Numbers](https://open.spotify.com/album/0AcT5hoztw7jIYycNEJCvO) | 3:23 |
 | 45 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
 | 46 | [正解はいらない](https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [正解はいらない](https://open.spotify.com/album/5GGDpAGTo3Y2c2Gboiv6OC) | 2:45 |
 | 47 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |

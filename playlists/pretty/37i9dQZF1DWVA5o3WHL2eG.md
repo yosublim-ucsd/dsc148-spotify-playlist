@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,920 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,918 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [she's so cool](https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [she's so cool](https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN) | 2:36 |
 | 2 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 |
 | 3 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 |
-| 4 | [Komm in meine Arme](https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Komm in meine Arme](https://open.spotify.com/album/4bYod5KtRSsv2UJ1kfYJfR) | 3:14 |
-| 5 | [WASSEREIS](https://open.spotify.com/track/7GIHhuHDlRab6yKyjPARcX) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [WASSEREIS](https://open.spotify.com/album/6TgOuqH0y0ChR7PNFvLL2O) | 2:17 |
+| 4 | [WASSEREIS](https://open.spotify.com/track/7GIHhuHDlRab6yKyjPARcX) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [WASSEREIS](https://open.spotify.com/album/6TgOuqH0y0ChR7PNFvLL2O) | 2:17 |
+| 5 | [Komm in meine Arme](https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Komm in meine Arme](https://open.spotify.com/album/4bYod5KtRSsv2UJ1kfYJfR) | 3:14 |
 | 6 | [Atemlos durch die Nacht \- 10 Year Anniversary Version](https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Atemlos durch die Nacht \(10 Year Anniversary Version\)](https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT) | 2:52 |
 | 7 | [Ja sagen](https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Kein Märchen](https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2) | 2:43 |
 | 8 | [Wenn Du mich lässt](https://open.spotify.com/track/3rIl1xa1Bzsp5zMkd0CT2Z) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 3:02 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
 | 12 | [Glas](https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:42 |
 | 13 | [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 |
-| 14 | [Okay](https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Okay](https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1) | 2:49 |
-| 15 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |
+| 14 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |
+| 15 | [Okay](https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Okay](https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1) | 2:49 |
 | 16 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
 | 17 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
 | 18 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
 | 30 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
 | 31 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
-| 32 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
-| 33 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
-| 34 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
-| 35 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
+| 32 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
+| 33 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
+| 34 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
+| 35 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
 | 36 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
 | 37 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
 | 38 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Poetry](https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Poetry \(for the scorned and lonely\)](https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL) | 2:47 |
 | 41 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
 | 42 | [wallflower seat](https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [wallflower seat](https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW) | 2:53 |
-| 43 | [Mess](https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [MESS](https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb) | 2:47 |
-| 44 | [Frauen](https://open.spotify.com/track/5WfgoryvbxSLzNesIX4dtR) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Frauen](https://open.spotify.com/album/5TFOk1GBIkOpIMY3AiauKX) | 2:38 |
-| 45 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |
-| 46 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 |
-| 47 | [Kein Feuerwerk](https://open.spotify.com/track/3qwaxNH0LpkKgGeaY9iWUD) | [Karen](https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb) | [Kein Feuerwerk](https://open.spotify.com/album/6ptzrTMrswVzRpbbVFrR1Q) | 2:42 |
-| 48 | [Dry Plant Friend](https://open.spotify.com/track/0fzCPWm0ltRDpAFRPCXMac) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Dry Plant Friend](https://open.spotify.com/album/0vSvLicUgybCxZBjmmlbEf) | 3:29 |
+| 43 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 44 | [Mess](https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [MESS](https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb) | 2:47 |
+| 45 | [Frauen](https://open.spotify.com/track/5WfgoryvbxSLzNesIX4dtR) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Frauen](https://open.spotify.com/album/5TFOk1GBIkOpIMY3AiauKX) | 2:38 |
+| 46 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |
+| 47 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 |
+| 48 | [Kein Feuerwerk](https://open.spotify.com/track/3qwaxNH0LpkKgGeaY9iWUD) | [Karen](https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb) | [Kein Feuerwerk](https://open.spotify.com/album/6ptzrTMrswVzRpbbVFrR1Q) | 2:42 |
 | 49 | [Intuition](https://open.spotify.com/track/49XXncwWflTuvpSh4fcUjt) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Intuition](https://open.spotify.com/album/4edpnAXY6FjFrRP84nPhYU) | 2:45 |
-| 50 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 50 | [Dry Plant Friend](https://open.spotify.com/track/0fzCPWm0ltRDpAFRPCXMac) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Dry Plant Friend](https://open.spotify.com/album/0vSvLicUgybCxZBjmmlbEf) | 3:29 |
 
 Snapshot ID: `ZjHugAAAAADb6jIa+Y233+hsUAdc0ihe`

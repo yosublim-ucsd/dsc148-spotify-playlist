@@ -1,12 +1,12 @@
 {
-  "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 28421,
+  "description": "This is Lizzy McAlpine. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 28450,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAACLJeYDOjKJWYMxyvApUT4Q",
+  "snapshot_id": "Zj1jgAAAAADi3UEou6LiNv1T8hUNctvr",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 100266,
-      "name": "The Elevator",
-      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 100266,
+      "name": "The Elevator",
+      "url": "https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776920,
+  "num_followers": 776940,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
+        "name": "Blind Tune",
+        "url": "https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8"
+      },
+      "artists": [
+        {
+          "name": "Relax Pod",
+          "url": "https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg"
+        }
+      ],
+      "duration_ms": 201034,
+      "name": "Blind Tune",
+      "url": "https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
         "name": "Falling Leaves",
         "url": "https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Blind Tune",
-        "url": "https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8"
-      },
-      "artists": [
-        {
-          "name": "Relax Pod",
-          "url": "https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Blind Tune",
-      "url": "https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Reflective moments",
         "url": "https://open.spotify.com/album/5Rdv5powZMQVSLB6Lc1uui"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 190462,
       "name": "Reflective moments",
       "url": "https://open.spotify.com/track/4cmuVNLXezTGcr03kewBP1"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl"
-      },
-      "artists": [
-        {
-          "name": "Simon Sebastienne",
-          "url": "https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG"
-        }
-      ],
-      "duration_ms": 171543,
-      "name": "Gateway",
-      "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -363,6 +347,22 @@
       "duration_ms": 128580,
       "name": "Binaural Theta Sleep 80Hz - 86Hz",
       "url": "https://open.spotify.com/track/5dfd9LRSjGs4oLTWb7z12A"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl"
+      },
+      "artists": [
+        {
+          "name": "Simon Sebastienne",
+          "url": "https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG"
+        }
+      ],
+      "duration_ms": 171543,
+      "name": "Gateway",
+      "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
+        "name": "Tranquil Tides",
+        "url": "https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg"
+      },
+      "artists": [
+        {
+          "name": "Kimel\u00e9n Mill\u00e1n",
+          "url": "https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Tranquil Tides",
+      "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
       },
@@ -859,6 +875,22 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
+        "name": "Light for all",
+        "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "duration_ms": 178148,
+      "name": "Light for all",
+      "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
         "name": "Repouso",
         "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
       },
@@ -903,22 +935,6 @@
       "duration_ms": 176500,
       "name": "Sigur",
       "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
-        "name": "Tranquil Tides",
-        "url": "https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg"
-      },
-      "artists": [
-        {
-          "name": "Kimel\u00e9n Mill\u00e1n",
-          "url": "https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Tranquil Tides",
-      "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Light for all",
-        "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
-      },
-      "artists": [
-        {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
-        }
-      ],
-      "duration_ms": 178148,
-      "name": "Light for all",
-      "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Gemoedsrust",
         "url": "https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
+        "name": "Dawel",
+        "url": "https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu"
+      },
+      "artists": [
+        {
+          "name": "Charles Sardo",
+          "url": "https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V"
+        }
+      ],
+      "duration_ms": 165606,
+      "name": "Dawel",
+      "url": "https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
         "name": "Sedang Tidur",
         "url": "https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t"
       },
@@ -1111,6 +1127,22 @@
       "duration_ms": 124241,
       "name": "Sedang Tidur",
       "url": "https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Yalmi",
+        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+      },
+      "artists": [
+        {
+          "name": "Merc La",
+          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Yalmi",
+      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1131,18 +1163,18 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Yalmi",
-        "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
+        "name": "Next to Nothing",
+        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
       },
       "artists": [
         {
-          "name": "Merc La",
-          "url": "https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS"
+          "name": "Gaia Rosica",
+          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
         }
       ],
-      "duration_ms": 143529,
-      "name": "Yalmi",
-      "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+      "duration_ms": 166678,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Next to Nothing",
-        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
-      },
-      "artists": [
-        {
-          "name": "Gaia Rosica",
-          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
-        }
-      ],
-      "duration_ms": 166678,
-      "name": "Next to Nothing",
-      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Ornamental",
         "url": "https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 184018,
       "name": "Sv\u00e4var Fritt",
       "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
-        "name": "Dawel",
-        "url": "https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu"
-      },
-      "artists": [
-        {
-          "name": "Charles Sardo",
-          "url": "https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V"
-        }
-      ],
-      "duration_ms": 165606,
-      "name": "Dawel",
-      "url": "https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Deep Sleep",
-        "url": "https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Bordeaux",
-          "url": "https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Deep Sleep",
-      "url": "https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Blissful Mind",
         "url": "https://open.spotify.com/album/2YK0j5hggZEpf4Lb0w2V0T"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Peripateo",
-        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
+        "name": "Deep Sleep",
+        "url": "https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw"
       },
       "artists": [
         {
-          "name": "For The Lost",
-          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
+          "name": "Jasmine Bordeaux",
+          "url": "https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD"
         }
       ],
-      "duration_ms": 193162,
-      "name": "Peripateo",
-      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
+      "duration_ms": 157333,
+      "name": "Deep Sleep",
+      "url": "https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1399,6 +1383,22 @@
       "duration_ms": 138000,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Peripateo",
+        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
+      },
+      "artists": [
+        {
+          "name": "For The Lost",
+          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
+        }
+      ],
+      "duration_ms": 193162,
+      "name": "Peripateo",
+      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Ionosphere",
-        "url": "https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx"
-      },
-      "artists": [
-        {
-          "name": "Elias M\u00eda",
-          "url": "https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY"
-        }
-      ],
-      "duration_ms": 199900,
-      "name": "Ionosphere",
-      "url": "https://open.spotify.com/track/4TItjggHGUClo9prDawdHq"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "N\u00e4ra",
         "url": "https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 140829,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Ionosphere",
+        "url": "https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx"
+      },
+      "artists": [
+        {
+          "name": "Elias M\u00eda",
+          "url": "https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY"
+        }
+      ],
+      "duration_ms": 199900,
+      "name": "Ionosphere",
+      "url": "https://open.spotify.com/track/4TItjggHGUClo9prDawdHq"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Red Mind",
-        "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
-      },
-      "artists": [
-        {
-          "name": "Selma Key",
-          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
-        }
-      ],
-      "duration_ms": 180577,
-      "name": "Red Mind",
-      "url": "https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Floating Time",
         "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 170000,
       "name": "Floating Time",
       "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Red Mind",
+        "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
+      },
+      "artists": [
+        {
+          "name": "Selma Key",
+          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
+        }
+      ],
+      "duration_ms": 180577,
+      "name": "Red Mind",
+      "url": "https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Angular Distance",
-        "url": "https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX"
-      },
-      "artists": [
-        {
-          "name": "New Lab",
-          "url": "https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Angular Distance",
-      "url": "https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Muer",
         "url": "https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 213250,
       "name": "Muer",
       "url": "https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Angular Distance",
+        "url": "https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX"
+      },
+      "artists": [
+        {
+          "name": "New Lab",
+          "url": "https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Angular Distance",
+      "url": "https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc"
     },
     {
       "added_at": "2024-05-04 14:48:07",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-05-04 14:48:07",
       "album": {
-        "name": "Noraezean",
-        "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
-      },
-      "artists": [
-        {
-          "name": "Darcie Roman",
-          "url": "https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Noraezean",
-      "url": "https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm"
-    },
-    {
-      "added_at": "2024-05-04 14:48:07",
-      "album": {
         "name": "Penumbra",
         "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 260038,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
+    },
+    {
+      "added_at": "2024-05-04 14:48:07",
+      "album": {
+        "name": "Noraezean",
+        "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
+      },
+      "artists": [
+        {
+          "name": "Darcie Roman",
+          "url": "https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Noraezean",
+      "url": "https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm"
     },
     {
       "added_at": "2024-05-04 14:48:07",

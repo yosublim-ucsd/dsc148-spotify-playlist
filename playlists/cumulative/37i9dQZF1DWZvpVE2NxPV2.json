@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Alternative",
+        "url": "https://open.spotify.com/album/1paiO3Z6SosvsHh0ziTds1"
+      },
+      "artists": [
+        {
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176597,
+      "name": "Alternative",
+      "url": "https://open.spotify.com/track/6JTHK2MNg5iFewS1PVk4ZX"
+    },
+    {
+      "album": {
         "name": "Ancient Prayer",
         "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 250214,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR"
+    },
+    {
+      "album": {
+        "name": "Anna's Log",
+        "url": "https://open.spotify.com/album/0HGph8QAx4WPBbxisXNb0U"
+      },
+      "artists": [
+        {
+          "name": "Montauk Season",
+          "url": "https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Anna's Log",
+      "url": "https://open.spotify.com/track/08Q8hexJUIjCJzNFrH6kKz"
     },
     {
       "album": {
@@ -398,6 +434,24 @@
       "duration_ms": 182000,
       "name": "Blossom - Studio Edit",
       "url": "https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv"
+    },
+    {
+      "album": {
+        "name": "blue hour",
+        "url": "https://open.spotify.com/album/0GnZwtCIoa3ToOP4rTRQhD"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "blue hour",
+      "url": "https://open.spotify.com/track/4B8vRL0mLgHDVkZeaBgQTS"
     },
     {
       "album": {
@@ -1150,7 +1204,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 490000,
       "name": "Ethereal Spaces Pt 2",
       "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
@@ -1265,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "First Ray Of Sunrise",
+        "url": "https://open.spotify.com/album/1vFwzaH5pwFqC8riCoNwWR"
+      },
+      "artists": [
+        {
+          "name": "Lunar Bliss",
+          "url": "https://open.spotify.com/artist/3pPChrOJySpR5JYsGYmhg3"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192766,
+      "name": "First Ray Of Sunrise",
+      "url": "https://open.spotify.com/track/2fZ5K3eqlGxolbrnapu5YL"
+    },
+    {
+      "album": {
         "name": "Floating senses",
         "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
       },
@@ -1312,10 +1384,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 257454,
       "name": "Flow",
       "url": "https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E"
+    },
+    {
+      "album": {
+        "name": "Fluffy Pillow",
+        "url": "https://open.spotify.com/album/36Du5D1ItRmUFftdWAmVNQ"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Blu",
+          "url": "https://open.spotify.com/artist/74K2IKEMgD2mQukLn4i0IT"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "Fluffy Pillow",
+      "url": "https://open.spotify.com/track/2EjcAR5UsEzNzvTzgaN1wg"
     },
     {
       "album": {
@@ -1406,6 +1496,24 @@
       "duration_ms": 326693,
       "name": "Halving The Compass",
       "url": "https://open.spotify.com/track/54NquOiocazAzjHpqIGGS3"
+    },
+    {
+      "album": {
+        "name": "Heal Dream Repeat",
+        "url": "https://open.spotify.com/album/2DeuKMsBTu3qYx34UEmJmZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Sky Vessel",
+          "url": "https://open.spotify.com/artist/1jSsVXneTHXf7cC54Bh3oV"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178354,
+      "name": "Heal Dream Repeat",
+      "url": "https://open.spotify.com/track/7EZsSJDIdk62UO3BhkgRf9"
     },
     {
       "album": {
@@ -1859,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Light From Your Heart",
+        "url": "https://open.spotify.com/album/6KGfavcI0MckNnMtGxRSlC"
+      },
+      "artists": [
+        {
+          "name": "Odette Place",
+          "url": "https://open.spotify.com/artist/3wiUmiRhLG7v4bXnPf0NN0"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126458,
+      "name": "Light From Your Heart",
+      "url": "https://open.spotify.com/track/3JC1TASLja7EgFBT7vVeOJ"
+    },
+    {
+      "album": {
         "name": "Light Of Purpose",
         "url": "https://open.spotify.com/album/7fPup8POfEeT6xK3nnamVH"
       },
@@ -2021,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Meridian Rest",
+        "url": "https://open.spotify.com/album/2anbtkvVuWuSGFxqDhpE8m"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Calm",
+          "url": "https://open.spotify.com/artist/2Rx0z858A7kkwR2tiDdIIg"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Meridian Rest",
+      "url": "https://open.spotify.com/track/4XTw3fQIoTnaJBMGKZZ6re"
+    },
+    {
+      "album": {
         "name": "Metric",
         "url": "https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY"
       },
@@ -2126,6 +2270,24 @@
       "duration_ms": 183290,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4F8zNOrvP78IJAdrdZCo1z"
+    },
+    {
+      "album": {
+        "name": "Nattlys",
+        "url": "https://open.spotify.com/album/4oxxBSsgv7dcklfs3WHH2r"
+      },
+      "artists": [
+        {
+          "name": "Vantrum Quai",
+          "url": "https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Nattlys",
+      "url": "https://open.spotify.com/track/1XZQSmBEoJ01g6llQGrz40"
     },
     {
       "album": {
@@ -2867,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/2jByB4v465fRNVntDJCy22"
+      },
+      "artists": [
+        {
+          "name": "Luminous Lyricist",
+          "url": "https://open.spotify.com/artist/39iB7unIDciiGf0TkyIxOt"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Safe Haven",
+      "url": "https://open.spotify.com/track/4fMryDUrH1E0B0oZeW6SOs"
+    },
+    {
+      "album": {
         "name": "Unni",
         "url": "https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58"
       },
@@ -2990,6 +3170,24 @@
       "duration_ms": 252750,
       "name": "Selama Aku Bersamamu",
       "url": "https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS"
+    },
+    {
+      "album": {
+        "name": "Self Investment",
+        "url": "https://open.spotify.com/album/2w1OFIGcJLJhALFGT126qs"
+      },
+      "artists": [
+        {
+          "name": "Sleep Poet",
+          "url": "https://open.spotify.com/artist/5It5hXQrcB7avsTI4F1EOP"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Self Investment",
+      "url": "https://open.spotify.com/track/4jTkhvkpBlhcPKzKpp2sa8"
     },
     {
       "album": {
@@ -3209,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "A Place To Keep It All (Meditation Mixes)",
+        "url": "https://open.spotify.com/album/2m0thXS8MmHbqhAGPh2WZW"
+      },
+      "artists": [
+        {
+          "name": "Montauk Season",
+          "url": "https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152549,
+      "name": "Snowy Tundra - Meditation Mix",
+      "url": "https://open.spotify.com/track/7DnDYjAB9eUYLvYlOnnYIO"
+    },
+    {
+      "album": {
         "name": "Jupiter Two",
         "url": "https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr"
       },
@@ -3296,6 +3512,24 @@
       "duration_ms": 178422,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/3d1B1D0n0gVOkY0kbV6s4p"
+    },
+    {
+      "album": {
+        "name": "Somnium",
+        "url": "https://open.spotify.com/album/2pMQXLli9O6UcpgTHiCglI"
+      },
+      "artists": [
+        {
+          "name": "Edda Prado",
+          "url": "https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163624,
+      "name": "Somnium",
+      "url": "https://open.spotify.com/track/0r4uHeAB6ZIMafrCkpjTmc"
     },
     {
       "album": {
@@ -3551,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Tepic",
+        "url": "https://open.spotify.com/album/29GLFAVk8edbQX1bznZHHN"
+      },
+      "artists": [
+        {
+          "name": "Sayulita",
+          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163667,
+      "name": "Tepic",
+      "url": "https://open.spotify.com/track/1aAdtYXsOqTiuezFR0VbyS"
+    },
+    {
+      "album": {
         "name": "Thane",
         "url": "https://open.spotify.com/album/03yLEgsQLMSonmBo6Y4q5j"
       },
@@ -3663,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Thoughtful",
+        "url": "https://open.spotify.com/album/3hozvXQvOpkWl07wpM93uS"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Thoughtful",
+      "url": "https://open.spotify.com/track/2auA2QuWzZ5vR73aix3V1v"
+    },
+    {
+      "album": {
         "name": "Through The Looking Glass",
         "url": "https://open.spotify.com/album/2pGYl3Iy7lQlHZ0LlQj0Ff"
       },
@@ -3714,6 +3984,24 @@
       "duration_ms": 159999,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/21DnS7yrrRpyls44ZIz0is"
+    },
+    {
+      "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/3OIfAMisRYfgZVsXV4H8Gv"
+      },
+      "artists": [
+        {
+          "name": "South To Somewhere",
+          "url": "https://open.spotify.com/artist/7KFsW7U7h7SSoMRdxFJmL2"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Topaz",
+      "url": "https://open.spotify.com/track/7bjWNmzbgQj5Q3oBSXZ0qh"
     },
     {
       "album": {
@@ -4074,6 +4362,24 @@
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/2jUQ1uXckGnHF3pu2oQXcG"
+      },
+      "artists": [
+        {
+          "name": "Fables From Mars",
+          "url": "https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/57bvTWSTYC2HLS3EjmmTgD"
     },
     {
       "album": {

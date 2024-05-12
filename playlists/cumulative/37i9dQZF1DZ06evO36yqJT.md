@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO36yqJT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO36yqJT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO36yqJT)
 
-### [This is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
+### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Shirley Caesar\. The essential tracks, all in one playlist.
 
 77 songs - 5 hr 45 min
 

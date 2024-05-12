@@ -52,10 +52,28 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 171210,
       "name": "0-100",
       "url": "https://open.spotify.com/track/3DdXwqWtG9jV7ehHdFJUMv"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "0-100",
+      "url": "https://open.spotify.com/track/6m3x4gOuiAqUpCkkx29bmR"
     },
     {
       "album": {
@@ -126,6 +144,24 @@
       "duration_ms": 278823,
       "name": "1000 Kosmoi",
       "url": "https://open.spotify.com/track/1IPktlKE1ozrXfM017xpbZ"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "1000 Xiliometra - Bonus Track",
+      "url": "https://open.spotify.com/track/6iFdMUZfpgmyfjFhlYrqfB"
     },
     {
       "album": {
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 222171,
       "name": "AKINHTA",
       "url": "https://open.spotify.com/track/1sHq7xAPH2KRiGKmntHwFI"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 136176,
       "name": "ALILOUYA",
       "url": "https://open.spotify.com/track/3eEmnKzTC4M0lkRhYDmbje"
@@ -2703,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Apotoma",
+        "url": "https://open.spotify.com/album/06MswgDdAz1qxh97su2gCq"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188473,
+      "name": "Apotoma",
+      "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
+    },
+    {
+      "album": {
         "name": "ARAI",
         "url": "https://open.spotify.com/album/1jXU8pnKijuee4lInNpD0R"
       },
@@ -3470,7 +3524,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 167179,
       "name": "Balkan Disco",
       "url": "https://open.spotify.com/track/04ALITuonvdzyRx626yYpu"
@@ -3660,7 +3714,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 162000,
       "name": "BBL",
       "url": "https://open.spotify.com/track/0tkqjVWquebERhbVXrQtMR"
@@ -3690,7 +3744,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 192118,
       "name": "BBL",
       "url": "https://open.spotify.com/track/5PcFy1S7mLSZedQaRA0R1u"
@@ -4452,6 +4506,24 @@
       "duration_ms": 172624,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/0h1p5hFcJQCEe0ER0wU0dv"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/1t3EjkTyBWUAFn3690PaFG"
     },
     {
       "album": {
@@ -6926,7 +6998,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 211836,
       "name": "De Sou Ftaio Ego",
       "url": "https://open.spotify.com/track/7uvlg8UM64oxEBonrcCSCF"
@@ -9375,6 +9447,24 @@
     },
     {
       "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185576,
+      "name": "Epal",
+      "url": "https://open.spotify.com/track/6scIzRSEXoGwb9AHEneUGJ"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -9696,7 +9786,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -9766,6 +9856,24 @@
       "duration_ms": 169696,
       "name": "Esy & Egw",
       "url": "https://open.spotify.com/track/0MBDgJ38dFiGsh3qwY7vRu"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Ethismos",
+      "url": "https://open.spotify.com/track/2DYIAtHLdaemUzT1hWs6Sc"
     },
     {
       "album": {
@@ -11398,6 +11506,24 @@
       "duration_ms": 183441,
       "name": "Gagarin",
       "url": "https://open.spotify.com/track/5gz9B1DrDGgwrU8PKn4NoX"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Ganador 2 - Intro",
+      "url": "https://open.spotify.com/track/5xvaiHCscgfKb8x8cCFDBp"
     },
     {
       "album": {
@@ -13476,7 +13602,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -16385,6 +16511,24 @@
     },
     {
       "album": {
+        "name": "la noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "la noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "album": {
         "name": "La Vida Loca",
         "url": "https://open.spotify.com/album/6lfnlRhMBmRfEayT5Z1Ykv"
       },
@@ -18018,7 +18162,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 309166,
       "name": "MAALOX",
       "url": "https://open.spotify.com/track/1Xbd58mP4fOtkdJrXJttjS"
@@ -18070,6 +18214,24 @@
       "duration_ms": 155159,
       "name": "Machete",
       "url": "https://open.spotify.com/track/02tWHxp6srYncEZjbDXur4"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Mad 4 Ever - Outro",
+      "url": "https://open.spotify.com/track/6Dif8xtpKeuDO51b6jogHW"
     },
     {
       "album": {
@@ -19917,6 +20079,24 @@
     },
     {
       "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174939,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/4JJA2pXrnUcJSu9LojtDb5"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
       },
@@ -20622,7 +20802,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 228333,
       "name": "Monos",
       "url": "https://open.spotify.com/track/4Z2SnB2BnxucBFyjBT8BS5"
@@ -20674,7 +20854,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 149773,
       "name": "MONROE",
       "url": "https://open.spotify.com/track/0F3sDsyybsiM0vvcEnY6RS"
@@ -21206,7 +21386,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 240172,
       "name": "Mullets",
       "url": "https://open.spotify.com/track/2RNkno9pwTgw0pE4mA1351"
@@ -25681,6 +25861,24 @@
     },
     {
       "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Psyfunk",
+      "url": "https://open.spotify.com/track/2Nltal4UhHTGSjtMXZ3ee4"
+    },
+    {
+      "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk"
       },
@@ -26012,6 +26210,28 @@
       "duration_ms": 224000,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/2JdZ9iSyHkORy9pJGIl2Sz"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Skive",
+          "url": "https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130461,
+      "name": "Rap Game Dead",
+      "url": "https://open.spotify.com/track/0Wqce3oXpxQfUv8fkJElBB"
     },
     {
       "album": {
@@ -27012,6 +27232,32 @@
       "duration_ms": 200999,
       "name": "SAMA",
       "url": "https://open.spotify.com/track/63PqGAY21mwicj9y7XUowN"
+    },
+    {
+      "album": {
+        "name": "Lingo 2",
+        "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246361,
+      "name": "San Emas",
+      "url": "https://open.spotify.com/track/4BItWPq63r4WFsPASSNVZI"
     },
     {
       "album": {
@@ -30164,6 +30410,24 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
       "album": {
@@ -33580,7 +33844,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 182909,
       "name": "XRONO",
       "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"

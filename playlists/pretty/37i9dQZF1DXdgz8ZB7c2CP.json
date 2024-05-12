@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 766519,
+  "num_followers": 766554,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Falling (with Njomza & Daniel Allan)",
         "url": "https://open.spotify.com/album/5VmLZMnN4Vivwnj8shv4ud"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 204675,
       "name": "Falling (with Njomza & Daniel Allan)",
       "url": "https://open.spotify.com/track/6hDdCDnxu7omTDIKC1BICK"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Talking Too Much",
-        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        },
-        {
-          "name": "Bawo",
-          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Talking Too Much",
-      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 197612,
-      "name": "Romantic Homicide - Spotify Singles",
-      "url": "https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Hold On To You",
         "url": "https://open.spotify.com/album/2ro7K0n2tWlfsJpUZtJYe2"
       },
@@ -1659,18 +1643,34 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Tear Me Down",
-        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Tear Me Down",
-      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
+      "duration_ms": 197612,
+      "name": "Romantic Homicide - Spotify Singles",
+      "url": "https://open.spotify.com/track/1P7xMiKHrAl4e5Vbi6NbPf"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+        "name": "Tear Me Down",
+        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
       },
       "artists": [
         {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
         }
       ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+      "duration_ms": 185142,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Down The Line",
-        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Down The Line",
-      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "die for you",
         "url": "https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+        "name": "Down The Line",
+        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
       },
       "artists": [
         {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 224204,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+      "duration_ms": 208440,
+      "name": "Down The Line",
+      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 174186,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/729gzjTEdRmzCB3SLHrUvA"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "HEARTH SONG",
+        "url": "https://open.spotify.com/album/6PGmxC2f5UjpCuOO36QX6C"
+      },
+      "artists": [
+        {
+          "name": "Aleksandir",
+          "url": "https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b"
+        },
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 324250,
+      "name": "HEARTH SONG",
+      "url": "https://open.spotify.com/track/3k67GdGoKbxhibQz6YbhDn"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI"
       },
@@ -1903,42 +1923,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "HEARTH SONG",
-        "url": "https://open.spotify.com/album/6PGmxC2f5UjpCuOO36QX6C"
-      },
-      "artists": [
-        {
-          "name": "Aleksandir",
-          "url": "https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b"
-        },
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 324250,
-      "name": "HEARTH SONG",
-      "url": "https://open.spotify.com/track/3k67GdGoKbxhibQz6YbhDn"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Dream / Last Day On Earth",
-        "url": "https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 195484,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 260470,
       "name": "Stop Thinking (feat. Lights) - MitiS Remix",
       "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Dream / Last Day On Earth",
+        "url": "https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 195484,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"
     },
     {
       "added_at": "2024-05-08 22:00:00",

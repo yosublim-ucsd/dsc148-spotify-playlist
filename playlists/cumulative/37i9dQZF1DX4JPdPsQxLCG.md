@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-430 songs - 1 day 3 hr 44 min
+431 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Devil's On Fire](https://open.spotify.com/track/0v2oBOiRNmdMJPUYrnPFOM) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Little Army](https://open.spotify.com/album/1iTP80KloK5dmv8ZGeiCRA) | 3:04 | 2022-05-02 | 2022-07-02 |
 | [Did You Fall In Love With Me](https://open.spotify.com/track/2tui4DbRV9AEBwrxnrEbeT) | [Prairie Oyster](https://open.spotify.com/artist/59YYicz1skdbz1FPq7L1HD) | [Everybody Knows](https://open.spotify.com/album/0EYDSShtbDQ9UPb8N2Jhr2) | 3:36 | 2022-05-02 | 2022-07-25 |
 | [Diggin' A Hole](https://open.spotify.com/track/6c4RIQcixWsXmhHtfMWPRY) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hit And Run: The Best Of Big Sugar](https://open.spotify.com/album/5DkVM509YTab4WVZWE84ez) | 5:23 | 2022-05-02 | 2022-07-29 |
-| [Do You Wanna Party](https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do You Wanna Party](https://open.spotify.com/album/2Q1knImIr2P8YSsQPteh07) | 3:12 | 2024-04-19 |  |
+| [Do You Wanna Party](https://open.spotify.com/track/1m7dBXRT9sndeZjVonOdfa) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do You Wanna Party](https://open.spotify.com/album/2Q1knImIr2P8YSsQPteh07) | 3:12 | 2024-04-19 | 2024-05-12 |
 | [Dock Rock](https://open.spotify.com/track/4EWk1eddwChaRlSK8i09rc) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:09 | 2022-09-10 | 2022-09-15 |
 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 | 2022-09-10 | 2022-09-15 |
 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 | 2022-05-02 | 2024-04-19 |
@@ -165,6 +165,7 @@
 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 | 2023-05-18 |  |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-04-19 |  |
 | [I Go Blind](https://open.spotify.com/track/4kCkM03LZT86vCOdoTlFe5) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [54.40](https://open.spotify.com/album/3VGp455Jdig99Vojxy2H5H) | 2:46 | 2022-05-02 | 2022-07-29 |
+| [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2024-05-10 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-09-10 | 2022-09-15 |
 | [I Hear You Calling](https://open.spotify.com/track/1MQEUAGuWlnZGrpXmCqJDU) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/4HCYs4L0UB5I60TpQ6hZ0i) | 3:11 | 2022-05-02 | 2022-07-28 |
 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 | 2022-05-02 | 2024-04-19 |

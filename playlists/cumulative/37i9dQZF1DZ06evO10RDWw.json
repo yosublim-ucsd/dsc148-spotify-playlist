@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Seven / Pitiful (Live)",
+        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197888,
+      "name": "Pitiful - Live",
+      "url": "https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j"
+    },
+    {
+      "album": {
         "name": "Along The Shadow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
       },
@@ -452,6 +470,24 @@
       "duration_ms": 248000,
       "name": "Second Guesses",
       "url": "https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6"
+    },
+    {
+      "album": {
+        "name": "Seven / Pitiful (Live)",
+        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312149,
+      "name": "Seven - Live",
+      "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
     },
     {
       "album": {

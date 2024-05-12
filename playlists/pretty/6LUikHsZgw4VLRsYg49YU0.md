@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,146 likes - 107 songs - 6 hr 31 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,147 likes - 107 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 |
 | 2 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 |
 | 3 | [Spice and Wolf](https://open.spotify.com/track/2EQB6v78yJsQ87zA2n7GJH) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 1\]](https://open.spotify.com/album/03iDyk0U3sUxPqAHm7IJRb) | 2:41 |
-| 4 | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \- Piano Version](https://open.spotify.com/track/6AkF7RCIWO3W4lc1K3hL4x) | [草野華余子](https://open.spotify.com/artist/6X9mX9u8tgpvwgCbY5eQps), [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \[Piano Version\]](https://open.spotify.com/album/4tTRV1Mv2xzoj1KC9QGdmd) | 1:58 |
+| 4 | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \- Piano Version](https://open.spotify.com/track/6AkF7RCIWO3W4lc1K3hL4x) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \[Piano Version\]](https://open.spotify.com/album/4tTRV1Mv2xzoj1KC9QGdmd) | 1:58 |
 | 5 | [Viral Hit](https://open.spotify.com/track/5luvvsngp4hbs4vwZGdMjn) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Viral Hit \(Original Soundtrack\)](https://open.spotify.com/album/2mfrIRhlfdauSlA4qqK6Ml) | 3:09 |
 | 6 | [The Boy and the Heron: Spinning Globe \- Ending Song \- Piano Version](https://open.spotify.com/track/0WMBjIkMfEgbwBrs8SVJKp) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [The Boy and the Heron: Spinning Globe \- Ending Song \(Piano Version\)](https://open.spotify.com/album/687lvAOnLaXNW48uQWj4QT) | 3:23 |
 | 7 | [Dragon Smasher](https://open.spotify.com/track/61CW0S1pvauDA5V8hLzo0n) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \(Original Soundtrack\)](https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS) | 1:58 |

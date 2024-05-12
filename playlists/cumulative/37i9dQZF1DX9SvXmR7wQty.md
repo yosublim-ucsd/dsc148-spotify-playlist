@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Hay Babies
 
-2,521 songs - 5 day 14 hr 42 min
+2,523 songs - 5 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2023-11-24 | 2023-12-09 |
 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 | 2023-01-13 | 2023-01-28 |
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2022-11-05 |
-| [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-03-15 |  |
+| [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-03-15 | 2024-05-12 |
 | [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 | 2024-01-16 |
 | [CALI](https://open.spotify.com/track/5nkgFuu8rzLZVaKIY4Fdwc) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [FILM!](https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7) | 2:31 | 2022-02-04 | 2022-02-19 |
 | [Cali \(Ayayaye\)](https://open.spotify.com/track/5jvuNeTQI7q78Ki4iWAEHT) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Cali \(Ayayaye\)](https://open.spotify.com/album/7A5iYPRldfzUvFVIg7pbvV) | 2:31 | 2022-01-07 | 2022-01-22 |
@@ -1833,7 +1833,7 @@
 | [Polymorphe](https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Polymorphe](https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI) | 3:36 | 2023-03-17 | 2023-04-15 |
 | [Pool](https://open.spotify.com/track/4rtStE7kciNRNuJPaqTrWR) | [Kibcha](https://open.spotify.com/artist/1r8ynsGGZtzzS8oVzsT7Hl), [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Pool](https://open.spotify.com/album/29nIkQ0s7iVt6fueCpDNCA) | 3:50 | 2022-07-01 | 2022-07-16 |
 | [Porcelaine](https://open.spotify.com/track/7J7EsDTsrRjqhPKKMQBJmf) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Porcelaine](https://open.spotify.com/album/1m38qHondfJDG8bgAn8H3u) | 2:57 | 2023-07-14 | 2023-07-22 |
-| [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 |  |
+| [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2024-05-12 |
 | [Porte](https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pour de Vrai](https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw) | 3:03 | 2022-11-04 | 2022-11-26 |
 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 | 2024-02-16 | 2024-04-19 |
 | [Post mortem](https://open.spotify.com/track/60TztDj0niSWokNuDrAlx8) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Post mortem](https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a) | 3:30 | 2022-02-11 | 2022-02-19 |
@@ -1920,6 +1920,7 @@
 | [Qui d'Autre](https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Qui d'Autre](https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY) | 2:38 | 2024-03-01 | 2024-03-09 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
+| [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-10 |  |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 | 2023-07-08 |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |
@@ -2147,6 +2148,7 @@
 | [Souvenirs d'hiver](https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Souvenirs d'hiver](https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn) | 4:04 | 2024-02-09 | 2024-02-17 |
 | [Spaceship](https://open.spotify.com/track/2hkCvLdIVI5wJSXDp2fPXZ) | [Kibcha](https://open.spotify.com/artist/1r8ynsGGZtzzS8oVzsT7Hl), [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Spaceship](https://open.spotify.com/album/0wQhCjX3MxznqYi0zLAbIy) | 3:55 | 2022-01-14 | 2022-01-29 |
 | [Speak White](https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Speak White](https://open.spotify.com/album/4kHRu7779hubGFySAxxrU9) | 3:45 | 2023-10-27 | 2023-11-11 |
+| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-10 |  |
 | [Spéciale](https://open.spotify.com/track/6OxnhCRysP2WZwBBwaTttj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 2:57 | 2022-10-28 | 2022-11-19 |
 | [SQ Remix](https://open.spotify.com/track/3m5QW5miEWmUOmD8yK7KdO) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6), [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE), [Chavajay](https://open.spotify.com/artist/21fXLDPEOc0zYB8LmLFu3V) | [SQ Remix](https://open.spotify.com/album/25Jt381upTR38MOSMflTIZ) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [Stack](https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Stack](https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP) | 5:07 | 2023-08-25 | 2023-09-02 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "7am",
+        "url": "https://open.spotify.com/album/1FYVjbjBjNZemttqnoHf1p"
+      },
+      "artists": [
+        {
+          "name": "Jaake Alsonn",
+          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "7am",
+      "url": "https://open.spotify.com/track/3g2aTBEKgN14mo8cb7Sf6t"
+    },
+    {
+      "album": {
         "name": "A Little Bit",
         "url": "https://open.spotify.com/album/1JGAYUVMFdEmmLXH3aqAf4"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 211422,
       "name": "Almannagj\u00e1",
       "url": "https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY"
+    },
+    {
+      "album": {
+        "name": "almost broke",
+        "url": "https://open.spotify.com/album/4tmRVIbFN97LyWfGhzoRaa"
+      },
+      "artists": [
+        {
+          "name": "&other",
+          "url": "https://open.spotify.com/artist/4ujx3oBQ97Y6YGrTamFW99"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148888,
+      "name": "almost broke",
+      "url": "https://open.spotify.com/track/1Ulx5cQRUvNh6eOmfo5ilL"
     },
     {
       "album": {
@@ -1193,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Coconuts",
+        "url": "https://open.spotify.com/album/1dhEKiL8aTaeLxWnnjkrbn"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148416,
+      "name": "Coconuts",
+      "url": "https://open.spotify.com/track/2NcrKToY2xYRSZ74aWIcR4"
+    },
+    {
+      "album": {
         "name": "Colors By Shade",
         "url": "https://open.spotify.com/album/7IwQLb1is4Bd5ZtPOCUkEB"
       },
@@ -1766,6 +1820,24 @@
       "duration_ms": 228463,
       "name": "Drinks on You",
       "url": "https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD"
+    },
+    {
+      "album": {
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/3xT4VR0vtKf3S4CwHFYrer"
+      },
+      "artists": [
+        {
+          "name": "Bear Frantz",
+          "url": "https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148888,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/5gHTnSIsEhZOcohBu4suwM"
     },
     {
       "album": {
@@ -2713,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Impetuosity",
+        "url": "https://open.spotify.com/album/60PRK75zou1YzeZCNDoArr"
+      },
+      "artists": [
+        {
+          "name": "Daryl Dane",
+          "url": "https://open.spotify.com/artist/2lJXvLJvKX2n2TSgLoIsl3"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137845,
+      "name": "Impetuosity",
+      "url": "https://open.spotify.com/track/6KAWX2psn86XFw63iL0Ccq"
+    },
+    {
+      "album": {
         "name": "In A New Mood",
         "url": "https://open.spotify.com/album/7HEpO9A9jY1wIuvFGBooro"
       },
@@ -2800,6 +2890,24 @@
       "duration_ms": 220275,
       "name": "Innuendo",
       "url": "https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3"
+    },
+    {
+      "album": {
+        "name": "insideoutside",
+        "url": "https://open.spotify.com/album/5994xrrFtRMa9fYN6znbs0"
+      },
+      "artists": [
+        {
+          "name": "Talaiio",
+          "url": "https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "insideoutside",
+      "url": "https://open.spotify.com/track/23HYrl7ioI7MCdS2bSPFQO"
     },
     {
       "album": {
@@ -3019,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Kombucha",
+        "url": "https://open.spotify.com/album/3DP6CHxBf79fwqTVNQDZiM"
+      },
+      "artists": [
+        {
+          "name": "Pascal Marcel",
+          "url": "https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Kombucha",
+      "url": "https://open.spotify.com/track/7MgpmVCLJjJ7xNoeCiOF3N"
+    },
+    {
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05"
       },
@@ -3232,6 +3358,24 @@
       "duration_ms": 261048,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ"
+    },
+    {
+      "album": {
+        "name": "Mediterranean",
+        "url": "https://open.spotify.com/album/7fTD18XXUaUFTvSew5BRd9"
+      },
+      "artists": [
+        {
+          "name": "Lush Sand",
+          "url": "https://open.spotify.com/artist/4fHOwlGHuj9Y62WNInQd54"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157903,
+      "name": "Mediterranean",
+      "url": "https://open.spotify.com/track/1BiAFJqtyHts9QcpzQ0GMu"
     },
     {
       "album": {
@@ -3772,6 +3916,24 @@
       "duration_ms": 116500,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax"
+    },
+    {
+      "album": {
+        "name": "On the radio",
+        "url": "https://open.spotify.com/album/4SJ3JwOYh0q4KJDsoZN9Gm"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186451,
+      "name": "On the radio",
+      "url": "https://open.spotify.com/track/3fy1wFK8zEWVFfLyDxOGx6"
     },
     {
       "album": {
@@ -5198,7 +5360,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 169339,
       "name": "Stray Cats",
       "url": "https://open.spotify.com/track/2uGT6OrVugq1bp2sngdNQd"

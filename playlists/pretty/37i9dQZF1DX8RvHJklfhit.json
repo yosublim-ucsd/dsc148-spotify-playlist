@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 177903,
+  "num_followers": 177929,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "#ponteelcasco",
+        "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 252889,
+      "name": "Toca Madera",
+      "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nada Personal",
         "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 281960,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "#ponteelcasco",
-        "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 252889,
-      "name": "Toca Madera",
-      "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "La Santa Cecilia",
         "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 192485,
       "name": "C\u00edrculos",
       "url": "https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Lo Que Siento",
+      "url": "https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/0Jkc1qjF3OzXzUrO9QlcZX"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 223786,
       "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Lo Que Siento",
-      "url": "https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
+      },
+      "artists": [
+        {
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Monta\u00f1as",
         "url": "https://open.spotify.com/album/0gizu7kvF4DvPNTVByCADF"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 204036,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "PARIS",
         "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+      "duration_ms": 204036,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39"
     },
     {
       "added_at": "2023-10-12 20:02:07",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y regresaron las guitarras! Chetes en portada.",
-  "num_followers": 28786,
+  "num_followers": 28793,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-05-06 21:17:41",
       "album": {
+        "name": "Habla Mal",
+        "url": "https://open.spotify.com/album/2gwP19vcS4TQiHCidOuGZC"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 174559,
+      "name": "Habla Mal",
+      "url": "https://open.spotify.com/track/0uoiez05RIe7pbR7AWcK0z"
+    },
+    {
+      "added_at": "2024-05-06 21:17:41",
+      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 216721,
       "name": "cada que...",
       "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
-    },
-    {
-      "added_at": "2024-05-06 21:17:41",
-      "album": {
-        "name": "Habla Mal",
-        "url": "https://open.spotify.com/album/2gwP19vcS4TQiHCidOuGZC"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 174559,
-      "name": "Habla Mal",
-      "url": "https://open.spotify.com/track/0uoiez05RIe7pbR7AWcK0z"
     },
     {
       "added_at": "2024-05-06 21:17:41",

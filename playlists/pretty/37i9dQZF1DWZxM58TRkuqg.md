@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yovie Widianto, Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,672 likes - 61 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,957 likes - 61 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

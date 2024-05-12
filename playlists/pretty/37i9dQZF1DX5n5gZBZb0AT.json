@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 835522,
+  "num_followers": 835909,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "MONTAGEM INVAS\u00c3O",
+        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
+      },
+      "artists": [
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        }
+      ],
+      "duration_ms": 74769,
+      "name": "MONTAGEM INVAS\u00c3O",
+      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "MONTAGEM INVAS\u00c3O",
-        "url": "https://open.spotify.com/album/5rl2NDQDv9VpZLoEFOaYNg"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
       "artists": [
         {
-          "name": "ARXMANE",
-          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
         }
       ],
-      "duration_ms": 74769,
-      "name": "MONTAGEM INVAS\u00c3O",
-      "url": "https://open.spotify.com/track/2b9JG7m7tvwHONER43us1n"
+      "duration_ms": 171384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -475,22 +491,6 @@
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "EMPTY DREAMS",
+        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "EMPTY DREAMS",
+      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "YUM YUM",
         "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "EMPTY DREAMS",
-        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
-      },
-      "artists": [
-        {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "EMPTY DREAMS",
-      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -711,26 +711,18 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "MTG - PISTA TOMA",
-        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
       },
       "artists": [
         {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "John Bis.T",
-          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
         }
       ],
-      "duration_ms": 136062,
-      "name": "MTG - PISTA TOMA",
-      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     }
   ],
   "unique_name": "gymcore",

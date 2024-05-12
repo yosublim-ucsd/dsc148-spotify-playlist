@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 237680,
+  "num_followers": 237725,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Tangos",
-        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
-      },
-      "artists": [
-        {
-          "name": "Hugo D\u00edaz",
-          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Volvio Una Noche",
-      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "Pasional",
         "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Tangos",
+        "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Hugo D\u00edaz",
+          "url": "https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp"
         }
       ],
-      "duration_ms": 221934,
-      "name": "Chiquil\u00edn de Bach\u00edn",
-      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+      "duration_ms": 177446,
+      "name": "Volvio Una Noche",
+      "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -751,6 +731,26 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 221934,
+      "name": "Chiquil\u00edn de Bach\u00edn",
+      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Fugata",
-        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
-      },
-      "artists": [
-        {
-          "name": "Quinteto Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
-        }
-      ],
-      "duration_ms": 161794,
-      "name": "Fugata",
-      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 177977,
       "name": "Sur",
       "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Fugata",
+        "url": "https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy"
+      },
+      "artists": [
+        {
+          "name": "Quinteto Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8"
+        }
+      ],
+      "duration_ms": 161794,
+      "name": "Fugata",
+      "url": "https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Muchacha (ojos de papel)",
-        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
-      },
-      "artists": [
-        {
-          "name": "Spinettango",
-          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
-        },
-        {
-          "name": "Litto Nebbia",
-          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
-        }
-      ],
-      "duration_ms": 198944,
-      "name": "Muchacha (ojos de papel)",
-      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "Castiellos",
         "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 241546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Muchacha (ojos de papel)",
+        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
+      },
+      "artists": [
+        {
+          "name": "Spinettango",
+          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
+        },
+        {
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+        }
+      ],
+      "duration_ms": 198944,
+      "name": "Muchacha (ojos de papel)",
+      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 287184,
-      "name": "Sue\u00f1o de Barrilete",
-      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "Intimos, Vol. 1 en vivo en Bebop",
         "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 209746,
       "name": "Si Sos Brujo",
       "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 287184,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1067,42 +1067,22 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Doce Milongas de Amor y un Tango Desesperado",
-        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+        "name": "Tal vez ser\u00e0 su voz",
+        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
       },
       "artists": [
         {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
         },
         {
-          "name": "The Horacio Avilano Guitar Quartet",
-          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
         }
       ],
-      "duration_ms": 190438,
-      "name": "Barrio de Tango",
-      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
+      "duration_ms": 262706,
+      "name": "Tal vez sera su voz",
+      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1143,22 +1123,42 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Tal vez ser\u00e0 su voz",
-        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
       "artists": [
         {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
         },
         {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
         }
       ],
-      "duration_ms": 262706,
-      "name": "Tal vez sera su voz",
-      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        }
+      ],
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Detr\u00e1s de los Cerros",
-        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Los Crayones",
-          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
-        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
-        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Cafetin",
-      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "En El Underground",
         "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
@@ -1259,6 +1227,38 @@
       "duration_ms": 291586,
       "name": "Oto\u00f1o porte\u00f1o",
       "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
+        "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Cafetin",
+      "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Detr\u00e1s de los Cerros",
+        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Los Crayones",
+          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
-        }
-      ],
-      "duration_ms": 236708,
-      "name": "Quedemonos Aqui - En Vivo",
-      "url": "https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 236708,
+      "name": "Quedemonos Aqui - En Vivo",
+      "url": "https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
         "name": "Tinta Roja",
         "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 188854,
       "name": "Tinta Roja",
       "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
-        "name": "Taller de Dibujo y Pintura",
-        "url": "https://open.spotify.com/album/2USsP36W62jZctEBMzkZn3"
-      },
-      "artists": [
-        {
-          "name": "Miguel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/1EACpzKh8PIklpFGsoQOV9"
-        }
-      ],
-      "duration_ms": 130395,
-      "name": "Taller de Dibujo y Pintura",
-      "url": "https://open.spotify.com/track/1TIEQHGw4LqojU10bWujB4"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1407,6 +1391,22 @@
       "duration_ms": 227426,
       "name": "Luna de Abril",
       "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
+        "name": "Taller de Dibujo y Pintura",
+        "url": "https://open.spotify.com/album/2USsP36W62jZctEBMzkZn3"
+      },
+      "artists": [
+        {
+          "name": "Miguel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1EACpzKh8PIklpFGsoQOV9"
+        }
+      ],
+      "duration_ms": 130395,
+      "name": "Taller de Dibujo y Pintura",
+      "url": "https://open.spotify.com/track/1TIEQHGw4LqojU10bWujB4"
     },
     {
       "added_at": "2024-04-25 17:55:19",

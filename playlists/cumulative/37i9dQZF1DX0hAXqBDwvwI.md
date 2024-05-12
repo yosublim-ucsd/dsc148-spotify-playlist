@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-682 songs - 1 day 20 hr 56 min
+683 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [トーキョーズ・ウェイ！](https://open.spotify.com/track/6TigsoyoeqHi9YxymTfj0x) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [トーキョーズ・ウェイ！](https://open.spotify.com/album/4kcc8GqdEyElkwYN39dRz9) | 3:44 | 2024-04-10 |  |
 | [トーキョーワンダー。](https://open.spotify.com/track/52VCp2zDroIKLEDcYvCukV) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [トーキョーワンダー。](https://open.spotify.com/album/6Dt7MVoyPU2fxocMcYnVxj) | 2:30 | 2022-06-14 | 2022-07-19 |
 | [ドレミファSTARS!!](https://open.spotify.com/track/5muM0Dc30sKNtI0OOFHG3q) | [Plasmagica](https://open.spotify.com/artist/19RSPSbzEGg78ShtUclw0L), [Mashumairesh!!](https://open.spotify.com/artist/47WLArWPAiY0vpowPG0xhQ) | [ドレミファSTARS!!](https://open.spotify.com/album/7xqJuhlZGuVjQSkh3xbCje) | 4:06 | 2022-07-26 | 2022-07-28 |
-| [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 | 2022-06-03 |  |
+| [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 | 2022-06-03 | 2024-05-12 |
 | [ネモフィラ](https://open.spotify.com/track/1u0diEbfottgBhuRDdr3SI) | [COALAMODE.](https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP) | [ネモフィラ](https://open.spotify.com/album/5SeLFr6GrxYvlqnNgAYwBO) | 4:39 | 2022-07-07 | 2022-07-12 |
 | [ハイヤーグラウンド](https://open.spotify.com/track/7l00nyQmAx0DEE9XRFaHxG) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [願い / ハイヤーグラウンド](https://open.spotify.com/album/7MjxSTygRkz6YBmHOEwlx5) | 3:49 | 2022-06-03 | 2022-07-06 |
 | [ハヅキ](https://open.spotify.com/track/1pxUsWOISNeXFbZirtyj4y) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [ハヅキ](https://open.spotify.com/album/3q5CHu3HNlOD3hp4HNbhZW) | 4:39 | 2022-06-24 | 2022-07-18 |
@@ -597,6 +597,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-06-03 |  |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-07-14 | 2022-07-19 |
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2022-06-03 |  |
+| [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2024-04-30 |  |
 | [波打ち際](https://open.spotify.com/track/5prN6grhf8LgCujKq8GXvF) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [20×20](https://open.spotify.com/album/1L3FYHzvGSIeaV4rRlwD70) | 5:12 | 2022-07-05 | 2022-07-27 |
 | [流転](https://open.spotify.com/track/2oyAmwxRkHfOYACMOJ7qy9) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [流転](https://open.spotify.com/album/6gnzH0r9ToxxxjFX9oNloN) | 3:15 | 2022-07-05 | 2022-07-08 |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-06-14 | 2022-07-28 |

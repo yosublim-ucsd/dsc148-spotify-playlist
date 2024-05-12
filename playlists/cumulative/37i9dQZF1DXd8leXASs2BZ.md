@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと7日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
+> 【POPYOURSまであと6日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
 
-427 songs - 19 hr 51 min
+428 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [DONZOKO](https://open.spotify.com/track/51XArAjSvrRdN1Fl2cNk0O) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [DONZOKO](https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH) | 2:33 | 2023-12-07 | 2024-01-31 |
 | [Don’t Look Down](https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Don't Look Down](https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9) | 4:10 | 2024-04-09 |  |
 | [dorobo](https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [dorobo](https://open.spotify.com/album/7AgCcXr9sUYISChejAsr5w) | 2:56 | 2023-12-07 | 2023-12-23 |
+| [DREAMIN’ BOI ISSUE](https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 2:46 | 2024-05-11 |  |
 | [Drill\-Bushi](https://open.spotify.com/track/50GnXlWs04gVsHaK6pKf2V) | [Shinkai East](https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6), [Granzotto Kris](https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3), [King Elizabeth](https://open.spotify.com/artist/7zlRYLpT29xU3A7i7fg5d7), [MXVERICK](https://open.spotify.com/artist/2l2tUR0DA2cUSGkY0fEvTm) | [NEWNGY](https://open.spotify.com/album/636b46mgEbu7rXWNhex42L) | 4:01 | 2024-02-15 | 2024-02-23 |
 | [Drink \(feat.JJJ\)](https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:34 | 2024-04-16 |  |
 | [Driving](https://open.spotify.com/track/3BrKyJ7euXLz4vYHTBM4bM) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Driving](https://open.spotify.com/album/6ux60CVtlXNcCLvcl4WLdG) | 2:35 | 2023-12-07 | 2023-12-14 |

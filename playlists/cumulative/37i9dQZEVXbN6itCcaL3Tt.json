@@ -10415,6 +10415,24 @@
     },
     {
       "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/1ts5o3TOPjD9HkK3AVTaQu"
       },
@@ -20672,7 +20690,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 175667,
       "name": "Motyle",
       "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
@@ -21336,7 +21354,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 174000,
       "name": "M\u0142ody Manson",
       "url": "https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X"
@@ -21832,6 +21850,28 @@
       "duration_ms": 251500,
       "name": "najlepszy dzie\u0144 w moim \u017cyciu",
       "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
+    },
+    {
+      "album": {
+        "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
+        "url": "https://open.spotify.com/album/35bDtCIzOjCqBQYUFAvlNw"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
+      "url": "https://open.spotify.com/track/2tSqulqhLGnC6efT6TNnuj"
     },
     {
       "album": {
@@ -22870,7 +22910,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 188456,
       "name": "niepoprawny numer",
       "url": "https://open.spotify.com/track/1qQBmFKklewJcXs2RKDiyJ"
@@ -23502,6 +23542,32 @@
       "duration_ms": 182080,
       "name": "OBOK",
       "url": "https://open.spotify.com/track/1IGFRqxATPG49icmnuGiEv"
+    },
+    {
+      "album": {
+        "name": "Obudzi\u0142em si\u0119 w Bukareszcie (Def Jam World Tour)",
+        "url": "https://open.spotify.com/album/5hX1mMMQpsU6P112AVrkVA"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Obudzi\u0142em si\u0119 w Bukareszcie - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/6pLzJmfqpaca8QGb19JZDp"
     },
     {
       "album": {
@@ -38093,6 +38159,24 @@
     },
     {
       "album": {
+        "name": "\u0141APIE OKAZJE",
+        "url": "https://open.spotify.com/album/3vGoBFKgORhfspM2AT10Qr"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "\u0141APIE OKAZJE",
+      "url": "https://open.spotify.com/track/4jzXf1IkczgPBCeyKCyaEe"
+    },
+    {
+      "album": {
         "name": "Bufor",
         "url": "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
       },
@@ -38494,7 +38578,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"

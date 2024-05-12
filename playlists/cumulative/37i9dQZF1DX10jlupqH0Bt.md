@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-74 songs - 3 hr 30 min
+79 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 | 2023-11-30 |  |
 | [852 Hz Connection](https://open.spotify.com/track/4RZR4xxsaXFBoU7YiTm2jW) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [852 Hz Connection](https://open.spotify.com/album/4uBLjnJhircfcvGJPh3aUv) | 2:33 | 2023-08-07 |  |
 | [852 Hz Emerald Waters](https://open.spotify.com/track/1LBvyl2RLLFW1KJh8aO2tp) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [852 Hz Emerald Waters](https://open.spotify.com/album/5W2X97uXnN8Bv8dxSLU1MH) | 2:32 | 2023-11-30 |  |
+| [852 Hz Heavenly Beckoning](https://open.spotify.com/track/3jO6989M6RubLcR0fF2n5d) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [852 Hz Heavenly Beckoning](https://open.spotify.com/album/09fWO5L2iHYcwxjm5hiCaj) | 3:23 | 2024-05-11 |  |
 | [852 Hz Holistic Mind](https://open.spotify.com/track/6EFYsOp3cX4vfmvjYZWNfo) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [852 Hz Holistic Mind](https://open.spotify.com/album/1lY1bhKI9bbBm3ZsZCTpwS) | 2:38 | 2023-11-30 |  |
 | [852 Hz Inner Strength](https://open.spotify.com/track/1l6CG5St0fxQTjtldzDifB) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:17 | 2023-03-10 |  |
 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 | 2023-11-30 |  |
+| [852 Hz Quantum Healing](https://open.spotify.com/track/6baWSwcYW5FHWClLyU9qfH) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Quantum Healing](https://open.spotify.com/album/52iSwVNPIJN7sMOJ82xfcT) | 3:11 | 2024-05-11 |  |
 | [852 Hz Release](https://open.spotify.com/track/7hL171cw6hPhXsHdXWRiyC) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [852 Hz Solfeggio Frequency](https://open.spotify.com/track/1BlShSC3ve29Ot3wFSrnVF) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [852 Hz Solfeggio Frequency](https://open.spotify.com/album/6YXl3OaEfbc3QwjBhrHVaI) | 2:29 | 2023-03-10 | 2023-12-07 |
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |
@@ -57,6 +59,7 @@
 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 | 2023-03-10 |  |
 | [Intuition 852 Hz](https://open.spotify.com/track/1nWNBqMuAlCruU0eEJPszl) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Intuition 852 Hz](https://open.spotify.com/album/2Z2sgcQhQAeQVBFamMFO3X) | 2:59 | 2023-08-07 |  |
 | [Land and Sea 852 Hz](https://open.spotify.com/track/6EHATCMM1ADhB67spZ0M7i) | [Kristen Reid](https://open.spotify.com/artist/72BS8WqVnzZSQ8J0XVMEpE) | [Land and Sea 852 Hz](https://open.spotify.com/album/1SipBNisSIdGPuH9Qal0KT) | 2:25 | 2023-03-10 |  |
+| [Mahaanata 852 Hz](https://open.spotify.com/track/4PaR3RgsVFFpY6gUmXOhHh) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Mahaanata 852 Hz](https://open.spotify.com/album/6OmX3MIam0deV9w15JIMHO) | 2:18 | 2024-05-11 |  |
 | [Nementia](https://open.spotify.com/track/5boftiqpnYAzkdMUQntgvt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Nementia](https://open.spotify.com/album/1M3sQZ9u9R9MJcD2lmhvJy) | 3:27 | 2023-03-10 |  |
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2023-03-10 | 2024-03-14 |
 | [Orange 852 hz](https://open.spotify.com/track/6raoUNnJwWF5YPbrCLYmHQ) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:32 | 2023-03-10 |  |
@@ -74,12 +77,14 @@
 | [Stay Close 852 Hz](https://open.spotify.com/track/08oWPv0iCrqcXlEz9fnWKA) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Stay Close 852 Hz](https://open.spotify.com/album/5csEEPZwqvgDtrU4MzcGEK) | 2:32 | 2023-03-10 |  |
 | [Suraksha 852 Hz](https://open.spotify.com/track/53GhLGiFZRBWrfHboXNzL2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Cambios et Suraksha](https://open.spotify.com/album/7cWPfg2i00U55wuhi3qAK8) | 3:19 | 2023-03-10 |  |
 | [Talisman](https://open.spotify.com/track/7nbNCSPIvcyjQNcCTwD6aX) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:07 | 2023-03-10 |  |
+| [The Higher Realm at 852 Hz](https://open.spotify.com/track/1KI4eGRbYl6b798jlsgnUf) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [The Higher Realm at 852 Hz](https://open.spotify.com/album/2XLwHC58TRaFGdddsGindI) | 2:18 | 2024-05-11 |  |
 | [The transmission 852hz](https://open.spotify.com/track/6DTGA0e8tq0UzkXcwVIfmq) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [The transmission 852hz](https://open.spotify.com/album/4IF2qx2BUp5vODHVshJtdB) | 2:55 | 2023-03-10 |  |
 | [Third Eye Chakra \(Ajna\) 3 Octaves A](https://open.spotify.com/track/6MeyKMH7MM0mHSjRJ12vRp) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2023-03-10 | 2023-08-08 |
 | [Third Eye Chakra Singing Bowl](https://open.spotify.com/track/55s8n5TnnDr1WAKbhaB7OA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:44 | 2023-03-10 | 2023-12-01 |
 | [Third Eye Solfeggio 852 Hz](https://open.spotify.com/track/18hHTArSk4RIo1nzm3cfBb) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:52 | 2023-11-30 |  |
 | [Trippertronics 852 Hz](https://open.spotify.com/track/3a0YwL0KOZOBuZRtlI7Wry) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:49 | 2023-11-30 |  |
 | [Universal Oneness \- 852 Hz](https://open.spotify.com/track/5DNjucfoEvtuUhafdsO4zd) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Universal Oneness](https://open.spotify.com/album/3l5DTmZK7aeKWc1hLm0rcd) | 1:55 | 2023-08-07 | 2024-03-14 |
+| [Verse of Sublimity 852 Hz](https://open.spotify.com/track/0LbErCg0L20RcAZbkaUtJP) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Verse of Sublimity 852 Hz](https://open.spotify.com/album/2V3oucrWjemTB125QQj4Jy) | 2:42 | 2024-05-11 |  |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2023-03-10 |  |
 | [Warm Waves](https://open.spotify.com/track/0VlM8kZnbNBjWm0C0LpKSn) | [Quietmind](https://open.spotify.com/artist/47OpVUkgg3v5Il1hY3UpG6) | [Warm Waves](https://open.spotify.com/album/5O5EH3BDfwT7ntYTAFUiim) | 1:16 | 2023-03-10 | 2023-08-08 |
 

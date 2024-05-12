@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Nil\u00fcfer",
-  "num_followers": 926889,
+  "num_followers": 926852,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "\u6700\u7f8e\u7684\u5149\u8292",
-        "url": "https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "\u6700\u7f8e\u7684\u5149\u8292",
-      "url": "https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "La Favorita",
         "url": "https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 145865,
       "name": "La Favorita",
       "url": "https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "\u6700\u7f8e\u7684\u5149\u8292",
+        "url": "https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "\u6700\u7f8e\u7684\u5149\u8292",
+      "url": "https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "BAD HABITS",
-        "url": "https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM"
-      },
-      "artists": [
-        {
-          "name": "Ella Chen",
-          "url": "https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n"
-        }
-      ],
-      "duration_ms": 258042,
-      "name": "\u5225\u518d\u7559\u4e0b",
-      "url": "https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
         "name": "ILLEG*LIS PARTYK",
         "url": "https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-05-02 04:00:00",
       "album": {
-        "name": "Oby\u010dajnosti",
-        "url": "https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB"
+        "name": "BAD HABITS",
+        "url": "https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM"
       },
       "artists": [
         {
-          "name": "Jana Kirschner",
-          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+          "name": "Ella Chen",
+          "url": "https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n"
         }
       ],
-      "duration_ms": 431923,
-      "name": "Mal\u00e1 zem",
-      "url": "https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz"
+      "duration_ms": 258042,
+      "name": "\u5225\u518d\u7559\u4e0b",
+      "url": "https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -615,6 +599,38 @@
       "duration_ms": 194200,
       "name": "Lembras-te de mim? (feat. Carolina de Deus)",
       "url": "https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "Oby\u010dajnosti",
+        "url": "https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB"
+      },
+      "artists": [
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "duration_ms": 431923,
+      "name": "Mal\u00e1 zem",
+      "url": "https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz"
+    },
+    {
+      "added_at": "2024-05-02 04:00:00",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "duration_ms": 177876,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
     },
     {
       "added_at": "2024-05-02 04:00:00",
@@ -643,22 +659,6 @@
       "duration_ms": 154900,
       "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
       "url": "https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV"
-    },
-    {
-      "added_at": "2024-05-02 04:00:00",
-      "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
-      },
-      "artists": [
-        {
-          "name": "Haven",
-          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
-        }
-      ],
-      "duration_ms": 177876,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
     },
     {
       "added_at": "2024-05-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,924 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,953 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 43 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 44 | [Colombia \- Bootleg](https://open.spotify.com/track/0xIS1ttmdlsu6Dhw4wyXmE) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW) | [The King Of Guaracha](https://open.spotify.com/album/70kQUkBcjrztqhpnbSfi5m) | 3:45 |
 | 45 | [Siento](https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Siento](https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG) | 3:18 |
-| 46 | [Me Provocas](https://open.spotify.com/track/4LjqHtfkcDdO2o3i0Z7AxJ) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/6owodcApPCsG2Vg2dzQwfP) | 4:53 |
+| 46 | [Me Provocas](https://open.spotify.com/track/4LjqHtfkcDdO2o3i0Z7AxJ) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Me Provocas](https://open.spotify.com/album/6owodcApPCsG2Vg2dzQwfP) | 4:53 |
 | 47 | [Fiesta en la Arena](https://open.spotify.com/track/5HMVms3t1CenE5FVzeGpFF) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Felicia](https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP) | [This Is Guaracha](https://open.spotify.com/album/51hBHBAr22ET7c24Oxlsq0) | 3:13 |
 | 48 | [Noches de Soledad](https://open.spotify.com/track/5WZ3BKEXk7EB86m6MdEpn6) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/6tdpKYdRS2OJy3bQWE9q6q) | 3:34 |
 | 49 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 |

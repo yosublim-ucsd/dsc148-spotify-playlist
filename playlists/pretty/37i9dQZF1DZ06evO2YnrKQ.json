@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 21186,
+  "num_followers": 21194,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAACNfoF/Kpb1r9LqzvtCG6G4",
+  "snapshot_id": "Zj1jgAAAAADenogWzJgHTDJwRWoQA7/X",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 257106,
       "name": "Old Crows",
       "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aussie Tour 7inch",
-        "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "The Dead Heart",
-      "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
     }
   ],
   "unique_name": "This Is Alexisonfire",

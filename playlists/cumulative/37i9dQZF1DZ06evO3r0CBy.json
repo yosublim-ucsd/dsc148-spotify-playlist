@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "This Is Rodr\u00edguez. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
   "name": "This Is Rodr\u00edguez",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 152346,
       "name": "Crucify Your Mind",
       "url": "https://open.spotify.com/track/2Xn7NadvZ56D0B2D7x2CSL"
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c"
+    },
+    {
+      "album": {
         "name": "Rodriguez Rocks: Live In Australia",
         "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 156013,
       "name": "Like Janis",
       "url": "https://open.spotify.com/track/6inwNRiGXUCjuPdEvW0ygq"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 229413,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"

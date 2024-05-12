@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-270 songs - 18 hr 13 min
+271 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2024-01-28 |
 | [Amor](https://open.spotify.com/track/6bgs3RYz2AE8eJ5NJmBm8a) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Amor](https://open.spotify.com/album/6ZYoYbyYrGZonOyeEOHPxg) | 4:01 | 2022-06-20 | 2023-06-22 |
-| [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2023-05-19 |  |
+| [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2023-05-19 | 2024-05-12 |
 | [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 | 2023-07-28 | 2023-11-22 |
 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 | 2023-07-28 | 2023-08-12 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-09 | 2024-04-19 |
@@ -249,6 +249,7 @@
 | [The Sea](https://open.spotify.com/track/0vDyt6VTJtFzyfnE9il1pf) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT) | [The Sea](https://open.spotify.com/album/5GutsKyXeAmABV8n6xM3Ea) | 3:14 | 2021-07-24 | 2023-05-20 |
 | [This Moment](https://open.spotify.com/track/2ZK0GG7qJJJQ6zxKYjNctf) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4g4MdICF8uv9VKXU2jIqer) | 7:56 | 2022-06-20 | 2023-05-20 |
 | [This Moment](https://open.spotify.com/track/5dg97Wk0dj5LsywKrVEdRH) | [tade kop](https://open.spotify.com/artist/3hRZovynAos5EBfchVKP1X) | [This Moment](https://open.spotify.com/album/4yJmLaVjw7boUufKOxKHkb) | 7:56 | 2021-07-24 | 2023-03-19 |
+| [Tides \- Jean Tonique Remix](https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Tides \(Jean Tonique Remix\)](https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY) | 3:01 | 2024-05-10 |  |
 | [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 | 2023-05-19 |  |
 | [To the Stars and Back](https://open.spotify.com/track/0CVOi16eMozeASjkhiRIqE) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [To the Stars and Back](https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9) | 3:17 | 2023-05-19 |  |
 | [Tokyo](https://open.spotify.com/track/04kqFUNkLsqiGBdzeXDqGJ) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9) | [On a Different Page](https://open.spotify.com/album/2xswfjdRu4tJ3bQTlpWVmo) | 3:55 | 2022-06-20 | 2023-05-20 |

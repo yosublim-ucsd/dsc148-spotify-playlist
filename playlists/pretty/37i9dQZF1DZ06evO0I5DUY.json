@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 201236,
+  "description": "This Is Los Cadetes De Linares. Los temas esenciales, todos en una lista.",
+  "num_followers": 201330,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAADlOt2Sqr7Qydcus+ENh1SF",
+  "snapshot_id": "Zj1jgAAAAABjBPEmgzDi0V/BJ9XoUv7O",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Vicios",
-        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Dos Vicios",
-      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+      "duration_ms": 167906,
+      "name": "La Discusion Fue Una Yegua",
+      "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Corridos",
-        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+        "name": "Dos Vicios",
+        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 167906,
-      "name": "La Discusion Fue Una Yegua",
-      "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
+      "duration_ms": 159693,
+      "name": "Dos Vicios",
+      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
     },
     {
       "added_at": null,

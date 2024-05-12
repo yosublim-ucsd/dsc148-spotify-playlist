@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,244 likes - 169 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,339 likes - 169 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

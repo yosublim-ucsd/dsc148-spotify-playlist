@@ -1,13 +1,33 @@
 {
   "description": "El Dembow que est\u00e1 subiendo. Foto: Bb trickz y Kevin AMF",
-  "num_followers": 105830,
+  "num_followers": 106010,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj0oWQAAAABw2tbnyNzUvReVbvMINpvj",
+  "snapshot_id": "Zj+EawAAAABKXaPcedH7JxtcYbh8TEoy",
   "tracks": [
+    {
+      "added_at": "2024-05-09 17:08:56",
+      "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
+    },
     {
       "added_at": "2024-04-17 10:33:51",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 184938,
       "name": "LA LECHE MATERNA",
       "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
-    },
-    {
-      "added_at": "2024-05-09 17:08:56",
-      "album": {
-        "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
-        "url": "https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Bryant LR",
-          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
-        }
-      ],
-      "duration_ms": 110683,
-      "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
-      "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
     },
     {
       "added_at": "2024-05-02 15:24:48",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-05-09 17:08:56",
       "album": {
+        "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "duration_ms": 110683,
+      "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
+      "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
+    },
+    {
+      "added_at": "2024-05-09 17:08:56",
+      "album": {
         "name": "2 Pa 2",
         "url": "https://open.spotify.com/album/3s4xJl3aoZdCRzRzRKLQAY"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 150508,
       "name": "La Cara Tatuada",
       "url": "https://open.spotify.com/track/2aTrjrPsNa3NtGtKMNc6Cw"
-    },
-    {
-      "added_at": "2024-05-09 17:08:56",
-      "album": {
-        "name": "J\u00e1lale alv",
-        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "J\u00e1lale alv",
-      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2024-02-15 15:29:53",

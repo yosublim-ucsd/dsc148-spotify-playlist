@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-17",
-  "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
+  "description": "This Is Kidz Bop Kids. Los temas esenciales, todos en una lista.",
   "name": "This Is Kidz Bop Kids",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 162257,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 135371,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 119788,
       "name": "Mood",
       "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 110853,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
@@ -1280,6 +1280,24 @@
       "duration_ms": 94778,
       "name": "Peaches - 2023",
       "url": "https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl"
+    },
+    {
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160340,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV"
     },
     {
       "album": {

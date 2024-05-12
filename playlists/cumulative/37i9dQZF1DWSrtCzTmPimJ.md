@@ -4,7 +4,7 @@
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-149 songs - 7 hr 47 min
+152 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Alpha Waves 135\-143 Hz](https://open.spotify.com/track/2915mCusZYza3M6GgIHk0n) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Alpha Waves 135\-143 Hz](https://open.spotify.com/album/2Xf8woxFYUlyFPoZrsAENf) | 2:32 | 2023-11-24 |  |
 | [Alpha Waves 136Hz \- 143Hz](https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:52 | 2023-11-24 |  |
 | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/track/4p62bc6ng2sXwyHJT0M6Qv) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Angel Plucks Delta D sinus 72\-75hz](https://open.spotify.com/album/1j9nwoR1nMCvj7J8RNRGXY) | 2:42 | 2024-02-16 | 2024-03-09 |
+| [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 | 2024-05-11 |  |
 | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-31 | 2024-03-09 |
 | [Beyond Gravity \(Alpha Drone L172Hz R180Hz\)](https://open.spotify.com/track/6ZPGiH0YlWSYmtf7W0I0xI) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:39 | 2023-11-24 |  |
 | [Binaural Alpha 12\-10hz Drones 114hz](https://open.spotify.com/track/6yXkV5I9ehU7A3q4kqZq56) | [Michele Lark](https://open.spotify.com/artist/29EUNz9UsGgEqi4nRHxs8x) | [Binaural Alpha 12\-10hz Drones 114hz](https://open.spotify.com/album/4R7eR5JizsKdAUAoOaST1l) | 3:23 | 2023-11-24 |  |
@@ -89,6 +90,7 @@
 | [Celestial Blink G\# Alpha \(100\-108hz\)](https://open.spotify.com/track/7LB2HsuGnMSSWy73qutlJx) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Celestial Blink Alpha](https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ) | 2:30 | 2023-11-24 |  |
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-11-24 |  |
 | [Clairvoyance \(Alpha Waves 8 hz\)](https://open.spotify.com/track/66djyQefl7nN7qdeDmuEEh) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Clarity](https://open.spotify.com/album/2DGKUCFgWB0BnAZJ3AyoKm) | 2:47 | 2023-11-24 |  |
+| [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/track/6gOn4ExjL2VUxAHaxKuO5t) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Cosmic Cadence \(Alpha Binaural 93.5 Hz \- 103 Hz\)](https://open.spotify.com/album/1ZGwHz7AO9PkL6muWfhvSL) | 4:07 | 2024-05-11 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2023-11-24 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2023-11-24 |  |
 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 | 2023-11-24 |  |
@@ -137,6 +139,7 @@
 | [Relaxed Flow Alpha 8Hz](https://open.spotify.com/track/3CZ6xE0YWhxwNZub2wVK3h) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 2:05 | 2023-11-24 |  |
 | [Romeo Alpha 129Hz\-141Hz](https://open.spotify.com/track/7ldDlAZncstk9v14rUWzgN) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wings of Sweden Delta 74](https://open.spotify.com/album/0bonkxjhV1UOOK2JFIzziZ) | 3:46 | 2023-11-24 |  |
 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-11-24 |  |
+| [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/track/2jON4MqXy28rCO5GeJ8gI8) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Silver Linings Alpha C sinus 61\-69hz](https://open.spotify.com/album/5xQtNWRsX4cmd0rQCJUlZB) | 2:40 | 2024-05-11 |  |
 | [Snow Valley \- Alpha Sinus 117Hz \- 125Hz](https://open.spotify.com/track/5YQrkEoSX6e7vH0vnAeXir) | [Weightless Light](https://open.spotify.com/artist/71K8pRSp653sdTp9NS2rS9) | [Ocean of Beauty](https://open.spotify.com/album/6JOxajCyVgdEOcQw4k1jAG) | 4:09 | 2023-11-24 |  |
 | [Sonnenaufgang \- Alpha Sinus 85Hz \- 92Hz](https://open.spotify.com/track/0GQGtKd9Zx6NHeR3QY1aPI) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 2:22 | 2023-11-24 |  |
 | [Soul Of Light](https://open.spotify.com/track/6KBGWO5tW8j2uittrWODo3) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Soul Of Light](https://open.spotify.com/album/6L04enAmUuRh7fbIxWBgOs) | 2:08 | 2023-11-24 |  |

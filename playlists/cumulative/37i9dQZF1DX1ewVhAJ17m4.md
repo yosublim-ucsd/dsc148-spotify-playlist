@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: The Story So Far
 
-379 songs - 18 hr 49 min
+380 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Paper](https://open.spotify.com/track/0BR4eVpihSK7xCLuAXjI4Q) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Paper](https://open.spotify.com/album/07VfTAOGM8BUm47LGYGmJM) | 3:01 | 2021-12-20 | 2022-07-19 |
 | [Parasitic](https://open.spotify.com/track/0qXnt66PvH1riHTs9Ka5Ax) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Aftermath](https://open.spotify.com/album/4LuC278mRaXntCTakB8Z1u) | 2:53 | 2022-03-14 | 2022-08-19 |
 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 | 2023-06-20 |  |
-| [Petty Enemy](https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Petty Enemy](https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f) | 3:19 | 2024-02-23 |  |
+| [Petty Enemy](https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Petty Enemy](https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f) | 3:19 | 2024-02-23 | 2024-05-12 |
 | [Picking Up the Pieces](https://open.spotify.com/track/1kIf20Xm1uoAuidKiXt2pm) | [Only the Strong](https://open.spotify.com/artist/7KN7bgSp0MvTRI0C2BQw9z) | [Picking Up the Pieces](https://open.spotify.com/album/24ZwTivUfE0tAjbacPgloY) | 3:22 | 2021-12-20 | 2022-01-15 |
 | [Pissed in the Morning](https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Pissed in the Morning](https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F) | 2:29 | 2021-12-20 | 2022-06-15 |
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-03-15 |
@@ -353,6 +353,7 @@
 | [This Year](https://open.spotify.com/track/7qJidLLWcla3tTTpZmKuNQ) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [This Year](https://open.spotify.com/album/6ZuCFVhMJy0CHa27KrZGfu) | 3:44 | 2023-09-15 | 2024-02-06 |
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2023-05-19 |
 | [Til' The Wheels Fall Off](https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Til' The Wheels Fall Off](https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI) | 3:06 | 2023-03-17 | 2023-10-20 |
+| [Tired Of Lying](https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Tired Of Lying](https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg) | 3:51 | 2024-05-10 |  |
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-06-20 | 2023-09-15 |
 | [together](https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:14 | 2021-12-20 | 2023-03-10 |
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-13 | 2023-05-16 |

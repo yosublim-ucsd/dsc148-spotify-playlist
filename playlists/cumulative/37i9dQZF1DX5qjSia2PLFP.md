@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:4VCriUU9CsPnUvoAsxVk1p">310babii</a>
 
-883 songs - 1 day 17 hr 20 min
+884 songs - 1 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [GOD DON'T LIE](https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [SO LONELY \(AN EREMOS STORY\)](https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD) | 2:13 | 2023-10-31 | 2024-01-13 |
 | [God Talks Back](https://open.spotify.com/track/6upguv1cl65uzFbKxvruFI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [God Talks Back](https://open.spotify.com/album/1OdVoqvuL37xqJB36iOaxN) | 2:52 | 2024-01-19 | 2024-02-24 |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-09-01 | 2022-03-05 |
+| [GOLDMEMBERS](https://open.spotify.com/track/1SBOxKzO7BepxapwYn8kmV) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 2:26 | 2024-05-11 |  |
 | [Good Dank](https://open.spotify.com/track/29IQ6APnkxSIi6uynlQArs) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Kush & Orange Juice](https://open.spotify.com/album/0bOEKxKa00RPU5OscdYdC5) | 5:06 | 2023-10-25 | 2023-11-01 |
 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 | 2023-09-15 | 2024-02-17 |
 | [Good Guys](https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Nearly Straight](https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9) | 2:36 | 2023-10-13 | 2023-11-10 |
@@ -707,7 +708,7 @@
 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 | 2023-09-29 | 2024-02-03 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-01-28 | 2022-05-21 |
 | [Skyline](https://open.spotify.com/track/0r2QK1psZlSXAjutXOzmH3) | [BADGER](https://open.spotify.com/artist/3cYU0MrWiLukHpUTuwfH7W) | [BAD KID](https://open.spotify.com/album/25J9kDMnSp8GlO5rWkggR0) | 3:18 | 2021-10-22 | 2022-03-05 |
-| [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 | 2024-04-26 |  |
+| [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 | 2024-04-26 | 2024-05-12 |
 | [Slide](https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Slide](https://open.spotify.com/album/1ouCQgTJioODJSEmuaF3ml) | 2:09 | 2024-03-08 | 2024-04-19 |
 | [Slide Bout It](https://open.spotify.com/track/4mR9P0konn5DXboqWMVzav) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [Slide Bout It](https://open.spotify.com/album/1o0nJ9gSGtMiDKc2UUl7Vm) | 2:19 | 2024-01-19 | 2024-03-09 |
 | [Slide Out](https://open.spotify.com/track/0CLZBiRuo4XuiOVnsXUNVx) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Slide Out](https://open.spotify.com/album/1YiFtpGJKQ0sTovMgse6GM) | 3:22 | 2024-02-09 | 2024-02-17 |

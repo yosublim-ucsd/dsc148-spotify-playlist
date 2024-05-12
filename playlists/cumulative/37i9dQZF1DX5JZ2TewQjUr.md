@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  CHANKA
 
-998 songs - 2 day 8 hr 31 min
+999 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/245BRQjHLljL2Z2xGtycMr) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [A](https://open.spotify.com/album/2IkSsvBy5uMOfxhOSQQcul) | 4:00 | 2023-11-09 | 2023-12-18 |
 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/4UxRLxVCveG0DrPm8tgqk1) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/album/1sVlWhnJ3YcvPu2Huv026Y) | 4:00 | 2023-10-26 | 2023-11-11 |
 | [Goodbye \(While I Still Remember You\)](https://open.spotify.com/track/76d618q1oK2pqqrwFvjKR5) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot), [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5) | [Just Be A Rock](https://open.spotify.com/album/0waIK4rOKJ8S03wVbNL5GP) | 4:00 | 2023-12-15 | 2024-01-05 |
+| [great!! \(i'm just going with the flow\)](https://open.spotify.com/track/401H3Y9xWYzY5eAxt7Dpau) | [rainbow road](https://open.spotify.com/artist/0FPrXCcP8ijnZlYvKHkSlp) | [fusion flow](https://open.spotify.com/album/5AgqJ1dz6117KjqNJrsPnI) | 2:45 | 2024-05-09 |  |
 | [Guaranteed](https://open.spotify.com/track/7Fu0tzqKMEZPgogTkfY9aF) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Guaranteed](https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV) | 2:55 | 2023-02-23 | 2023-03-18 |
 | [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 | 2023-03-02 | 2023-07-14 |
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Blessing Offor & Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,319 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,360 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 24 | [Be Brave, Be Strong, Be Kind](https://open.spotify.com/track/4fLi35boei12naRm3Czqqk) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Be Brave, Be Strong, Be Kind](https://open.spotify.com/album/04P5u6M0Xp0w0QpuyEytf8) | 3:27 |
 | 25 | [My Foundation](https://open.spotify.com/track/6cho19biIAc9BaNLhKqovi) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/2mi6el3XWJeE3EGoG31k9q) | 3:26 |
 | 26 | [You're The One \- Live](https://open.spotify.com/track/6zwziTShaxRuc0O6KSfED2) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [You're The One \(Live\)](https://open.spotify.com/album/6E0m4TGkJ655zHkc5CIEqv) | 3:49 |
-| 27 | [Sanctified \- Live](https://open.spotify.com/track/5eSP5iNsn356qfhvEATpx7) | [Trina Hairston](https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Candy West](https://open.spotify.com/artist/3Yn2u1o0u7FCwoidPho9AE), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Sanctified \(Live From Ancient Oil\)](https://open.spotify.com/album/7DrH5BNjDnWVTAFTmqsUrN) | 7:09 |
+| 27 | [Sanctified \- Live](https://open.spotify.com/track/5eSP5iNsn356qfhvEATpx7) | [Trina Hairston](https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Candy West](https://open.spotify.com/artist/3Yn2u1o0u7FCwoidPho9AE), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Sanctified \(Live From Ancient Oil\)](https://open.spotify.com/album/7DrH5BNjDnWVTAFTmqsUrN) | 7:06 |
 | 28 | [Jesus loves you.](https://open.spotify.com/track/1O8sS2EH7N7uCEhoYvWIou) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [Jesus loves you.](https://open.spotify.com/album/4oK8NMhSqlnTMkGi97WDr5) | 2:52 |
 | 29 | [Weep](https://open.spotify.com/track/4gEhMjVFVQR8nxtRKQfZzJ) | [Tidez](https://open.spotify.com/artist/12eUUHfSG9IGizOvLcvuq4) | [Tears In the Mirror](https://open.spotify.com/album/5y1lIYVZlmKO38re0fF47R) | 3:31 |
 | 30 | [Wait'll You See My Brand New Home](https://open.spotify.com/track/0SgICqjR2x3bDkUVrFsiqI) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Wait'll You See My Brand New Home](https://open.spotify.com/album/1cBtwanh0H2fjcGI8AJCUJ) | 3:20 |

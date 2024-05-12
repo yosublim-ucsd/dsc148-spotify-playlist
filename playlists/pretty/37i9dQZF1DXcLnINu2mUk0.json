@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bia Caboz, Piruka",
-  "num_followers": 45426,
+  "num_followers": 45445,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "D4",
-        "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
-      },
-      "artists": [
-        {
-          "name": "Don Plako",
-          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
-        },
-        {
-          "name": "DB.",
-          "url": "https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2"
-        }
-      ],
-      "duration_ms": 174717,
-      "name": "D4",
-      "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 191700,
       "name": "Mundo Novo",
       "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "D4",
+        "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
+      },
+      "artists": [
+        {
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+        },
+        {
+          "name": "DB.",
+          "url": "https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2"
+        }
+      ],
+      "duration_ms": 174717,
+      "name": "D4",
+      "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
     },
     {
       "added_at": "2024-05-09 23:00:00",

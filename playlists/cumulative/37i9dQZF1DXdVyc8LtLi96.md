@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to your morning yoga session.
 
-666 songs - 1 day 8 hr 37 min
+667 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Hæden](https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Hæden](https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy) | 2:27 | 2022-08-11 |  |
 | [I feel it I know it](https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:22 | 2023-06-21 |  |
 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 | 2023-06-21 |  |
+| [Imagination](https://open.spotify.com/track/0g7ZjaAeHZqoYQ86Q2qBnq) | [Sleepscape Symphony](https://open.spotify.com/artist/57tR56LFbxldGWF23lI3YM) | [Imagination](https://open.spotify.com/album/73S2vjYmPD67aHdc0LohTd) | 3:01 | 2024-05-11 |  |
 | [In another lifetime](https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq) | [Bee Heads](https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS) | [In another lifetime](https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe) | 2:56 | 2024-03-14 |  |
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-03-18 | 2022-12-08 |
 | [In The Light](https://open.spotify.com/track/4p6W5QhUyc4CoubKkfCK98) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [In The Light](https://open.spotify.com/album/0hKcuXO85SbnYJ6Sqg9bAz) | 2:59 | 2022-11-25 |  |

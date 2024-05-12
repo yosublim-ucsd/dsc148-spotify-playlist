@@ -35255,24 +35255,6 @@
     },
     {
       "album": {
-        "name": "Los Arcos",
-        "url": "https://open.spotify.com/album/5c0ok6xkiHo2BT9sQc9s9Y"
-      },
-      "artists": [
-        {
-          "name": "Last Videotape",
-          "url": "https://open.spotify.com/artist/1VCJ9AsaOvSW0A4Y75Ktrw"
-        }
-      ],
-      "date_added": "2024-05-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 384500,
-      "name": "Paris de Noche",
-      "url": "https://open.spotify.com/track/6WilGw8IiDUOXNKQt55DS5"
-    },
-    {
-      "album": {
         "name": "Parques",
         "url": "https://open.spotify.com/album/7Lguz8hKheTreGUVN88fsF"
       },
@@ -35324,6 +35306,24 @@
       "duration_ms": 269624,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/4kdTdJXKTszwcf8w1ajSYV"
+    },
+    {
+      "album": {
+        "name": "Los Arcos",
+        "url": "https://open.spotify.com/album/5c0ok6xkiHo2BT9sQc9s9Y"
+      },
+      "artists": [
+        {
+          "name": "Last Videotape",
+          "url": "https://open.spotify.com/artist/1VCJ9AsaOvSW0A4Y75Ktrw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384500,
+      "name": "Par\u00eds de Noche",
+      "url": "https://open.spotify.com/track/6WilGw8IiDUOXNKQt55DS5"
     },
     {
       "album": {

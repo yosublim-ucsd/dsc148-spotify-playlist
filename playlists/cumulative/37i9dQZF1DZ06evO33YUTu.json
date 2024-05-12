@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
   "name": "This Is Greeicy",
   "tracks": [
     {
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"

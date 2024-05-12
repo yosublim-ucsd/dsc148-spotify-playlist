@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-229 songs - 11 hr 34 min
+236 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dawn](https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY) | [Von Sunshine](https://open.spotify.com/artist/3cSqgxGzUiV21kYqcrD6zB) | [Dawn](https://open.spotify.com/album/4gjEOyzw5Zwqc2fjFKyX7a) | 3:32 | 2021-11-11 | 2022-04-06 |
 | [Days Without End](https://open.spotify.com/track/1xW88yZCTEbKtdAtVUezBO) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Days Without End](https://open.spotify.com/album/3tnEE5kQPtp1C6N3xpyi7i) | 2:58 | 2024-03-26 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-11-11 | 2022-01-22 |
+| [Dockweiler](https://open.spotify.com/track/59LpRy59jossvSb78j9Lrc) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Dockweiler](https://open.spotify.com/album/5kMihGRXnTWOysiN4uXs7K) | 2:39 | 2024-05-11 |  |
 | [Don't Stop My Heart](https://open.spotify.com/track/5P4EpJA9NgsBpzDoGO4A98) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Don't Stop My Heart](https://open.spotify.com/album/59vG5QyIX7REK3sxomex53) | 3:14 | 2022-04-15 | 2023-03-10 |
 | [Don't Wanna Let Go](https://open.spotify.com/track/3GINyEMoUV13pzJxNMuvxW) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Don't Wanna Let Go](https://open.spotify.com/album/2RQ5mV8lNxAzLRi8xKTgie) | 2:28 | 2022-05-27 | 2023-03-10 |
 | [Down to the Blue](https://open.spotify.com/track/21jfC5vXMMoy1u4qNEkJLi) | [Liana Wall](https://open.spotify.com/artist/7E7H82aEPVcHMWMldQkXcI) | [Down to the Blue](https://open.spotify.com/album/3Al543n7aW5g7gqwfkiQn4) | 2:26 | 2023-10-13 |  |
@@ -90,6 +91,7 @@
 | [Harbor](https://open.spotify.com/track/3XnfMD4VpGq6BGnMloX6vj) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Harbor](https://open.spotify.com/album/4uqyetNhdGQQyZ1OtRjA05) | 2:22 | 2022-11-25 | 2023-08-05 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-11-11 | 2022-02-11 |
 | [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 | 2023-09-08 |  |
+| [High](https://open.spotify.com/track/1zsbYRBGwyTNryfOOTw3t0) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [High](https://open.spotify.com/album/7laZa2QNkRaHgAwmHTleLl) | 2:24 | 2024-05-11 |  |
 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 | 2023-10-13 |
 | [Holding Anchor](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Mango Love](https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u) | 3:08 | 2021-11-11 | 2022-02-11 |
 | [Honey Bee](https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Honey Bee](https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN) | 3:19 | 2021-11-11 | 2022-01-22 |
@@ -110,6 +112,7 @@
 | [Jungle](https://open.spotify.com/track/1bYYkgs2MnDgmKstwHmTCN) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Jungle](https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ) | 2:08 | 2023-03-17 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-09 | 2024-04-19 |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
+| [Keep it movin'](https://open.spotify.com/track/7sXNSQQkcH3PXS4iCGsWXF) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Keep it movin’](https://open.spotify.com/album/5taZtnvi8BmBT8CMseZiAA) | 2:35 | 2024-05-11 |  |
 | [Keep Your Cool](https://open.spotify.com/track/2XRPJw4krhDLWjen7Z9wr0) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Keep Your Cool](https://open.spotify.com/album/0UuYZvNcoHQ6oBOkQKTpxW) | 3:19 | 2022-09-09 | 2023-03-10 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-11 | 2023-08-05 |
 | [Late Night Drive](https://open.spotify.com/track/3NlSubv9Tt65poMGalbqiZ) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Late Night Drive](https://open.spotify.com/album/6ikx7SA8o6QkKFDNm49EVx) | 2:46 | 2021-11-11 | 2023-08-05 |
@@ -122,6 +125,7 @@
 | [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Love Blooming](https://open.spotify.com/track/3VdsawA8gyYwlt15HVFHNt) | [Gnusmas](https://open.spotify.com/artist/0fdLGumMOmAi9CCi737mrq) | [Love Blooming](https://open.spotify.com/album/53xjLeTFpdw6pXZ3fweRLf) | 2:35 | 2024-03-03 |  |
 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 | 2023-10-13 |
+| [love to loathe](https://open.spotify.com/track/7KyYcEQZ2wEbjFwAmNLVau) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [love to loathe](https://open.spotify.com/album/6Ltgk84l7d55R32YtvP029) | 6:18 | 2024-05-11 |  |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 | 2023-03-10 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
 | [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 | 2023-10-02 |  |
@@ -151,6 +155,7 @@
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 | 2023-03-10 |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-04-15 |
 | [Oysterdate](https://open.spotify.com/track/0QPSjqBltCTN4RI51YHoqP) | [Cmooth Operators](https://open.spotify.com/artist/7jbFr8lLTMytrhaHgoo3Sh) | [Oysterdate](https://open.spotify.com/album/57LtqLeAKvSpBDRa5JWBCj) | 3:00 | 2023-07-07 |  |
+| [Palermo](https://open.spotify.com/track/5xirNPqdlDTACSnS9qhDnu) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Palermo](https://open.spotify.com/album/5I38wFv9e4NZDHyeNFoADF) | 2:06 | 2024-05-11 |  |
 | [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 | 2023-02-24 |  |
@@ -197,6 +202,7 @@
 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-17 | 2022-09-09 |
 | [Strawberry](https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Strawberry](https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD) | 1:52 | 2024-01-19 | 2024-02-23 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-19 | 2023-02-25 |
+| [Summer](https://open.spotify.com/track/538q0pEm7xSOIaLCitaN5L) | [Aaron Mathix](https://open.spotify.com/artist/7yL6nnNuEdQD47qCFrleC9) | [Summer](https://open.spotify.com/album/0n6j8ZXx4FL5hW4SaESJkV) | 2:24 | 2024-05-11 |  |
 | [Summer Like Before](https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Summer Like Before](https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2) | 2:38 | 2023-09-08 |  |
 | [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 | 2023-06-23 |  |
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-11-11 |  |
@@ -234,6 +240,7 @@
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-01 |
 | [wurley](https://open.spotify.com/track/5YdQDDQLm3zCNiK2zyrU9p) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [wurley](https://open.spotify.com/album/5KZGax3atAaM5N6XKGtY3Y) | 2:45 | 2023-02-10 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2021-11-11 | 2023-03-10 |
+| [You Got Soul](https://open.spotify.com/track/2a478jRqvH82b2pBrhgVYT) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [You Got Soul](https://open.spotify.com/album/5yCcQxmZGD6kXxf5XKdZkx) | 2:40 | 2024-05-11 |  |
 | [Young Guns](https://open.spotify.com/track/6Inc6yOBo4kUlCltz75Y4K) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Young Guns](https://open.spotify.com/album/7yg546r9ibdZQXlDB3C8qr) | 3:03 | 2022-10-07 |  |
 | [Zenith](https://open.spotify.com/track/5SCylXZhv1Av8qluTRmlrB) | [Enjoy Banker](https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9) | [Zenith](https://open.spotify.com/album/3wYX5UP6v3EeVC9KmLqpbq) | 2:16 | 2024-04-09 |  |
 | [Zip Through](https://open.spotify.com/track/7zd4LLcYWUX6ebsW9sTzMi) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Zip Through](https://open.spotify.com/album/6EfT02b8x0g3Y0drg77xqU) | 2:39 | 2023-04-07 |  |

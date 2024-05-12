@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Mustii
 
-1,180 songs - 2 day 15 hr 50 min
+1,181 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [2 Die 4](https://open.spotify.com/track/71BJVUm9wse1WBFEGHIFsI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:05 | 2023-01-24 | 2023-02-11 |
 | [22](https://open.spotify.com/track/2pauY34xHvz0W3asl70y3D) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [22](https://open.spotify.com/album/3WyoEyJ9jxbbzWxPzzeKDj) | 3:45 | 2021-12-24 | 2022-01-04 |
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 | 2022-10-08 |
-| [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-04-16 |  |
+| [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-04-16 | 2024-05-12 |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-10 | 2024-02-14 |
 | [3 Purple Hearts](https://open.spotify.com/track/1wsm2fpsZv1qH6fO25PHB2) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [3 Purple Hearts](https://open.spotify.com/album/2P2LTbZvZ9KSV4V95Oeik3) | 3:20 | 2021-12-24 | 2022-01-05 |
 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 | 2024-01-10 | 2024-02-14 |
@@ -282,6 +282,7 @@
 | [Dolce Vita](https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O), [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [Dolce Vita](https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ) | 3:54 | 2023-04-18 | 2023-05-10 |
 | [DONTLEAVEMYSIDE](https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [DONTLEAVEMYSIDE](https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5) | 2:06 | 2023-04-13 | 2023-06-02 |
 | [Doomsday](https://open.spotify.com/track/3o350spzXQYygiIQkXIQdU) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Go Easy](https://open.spotify.com/album/0UpZVkSpRyaaFiktj1Sj9x) | 2:22 | 2022-06-24 | 2022-06-27 |
+| [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-11 |  |
 | [Dose](https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ) | [Trevi Moran](https://open.spotify.com/artist/2mMuXvJVBA9Ft34x9WYpP2) | [Dose](https://open.spotify.com/album/4Jfbqyz9pc5PvjGwjTuW3L) | 3:42 | 2022-01-28 | 2022-07-22 |
 | [Double Yellow](https://open.spotify.com/track/0xhXzTgmlSXu90D0HN4qUa) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw), [boy jones](https://open.spotify.com/artist/5fJ65ad5oG6eKLXI1NgKSu) | [Double Yellow](https://open.spotify.com/album/0tfLWqHSp56vi3YX6KVKW2) | 3:22 | 2023-06-02 | 2023-07-12 |
 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 | 2022-06-17 | 2022-07-26 |

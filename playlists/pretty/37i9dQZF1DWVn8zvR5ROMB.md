@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Scotty McCreery, Post Malone with Morgan Wallen and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,601 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,804 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 28 | [Daytona To Me](https://open.spotify.com/track/4yIuqPiFbWPWrPve2ZyIKV) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Daytona To Me](https://open.spotify.com/album/1RqZHw9ETfhtUxqwVeh8PK) | 3:15 |
 | 29 | [Over Getting Over You](https://open.spotify.com/track/3N0jQs5Bip1GVWDaPEgllV) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/0X9fkLvLhiBjbMigGPw3qw) | 2:50 |
 | 30 | [Drinking Out Loud](https://open.spotify.com/track/4OpmfykqMpCGdgQWHoMnMn) | [Richie Allen](https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY) | [Drinking Out Loud](https://open.spotify.com/album/5zJmJZaABEaQwZPub14Brv) | 2:49 |
-| 31 | [Call Me Up](https://open.spotify.com/track/6KkSL1VtQv2rERqEypDSpd) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Call Me Up \(Spotify Exclusive\)](https://open.spotify.com/album/6IBoRwj1rxzzJuyaWrXGaY) | 3:31 |
+| 31 | [Call Me Up](https://open.spotify.com/track/6KkSL1VtQv2rERqEypDSpd) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Call Me Up](https://open.spotify.com/album/6IBoRwj1rxzzJuyaWrXGaY) | 3:31 |
 | 32 | [Dancing on a Dirt Road](https://open.spotify.com/track/3nkmtU8LDGpQtaUtMUbsaB) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Dancing on a Dirt Road](https://open.spotify.com/album/4o9Dm5JRlMPBDzaklhoJl5) | 3:21 |
 | 33 | [Lying in Bed \(feat\. Kaylee Bell\)](https://open.spotify.com/track/57R6I99miNuWB6rX15O1MT) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Lying in Bed \(feat\. Kaylee Bell\)](https://open.spotify.com/album/5TeYksmgjcCA8KvpDuH5G7) | 3:04 |
 | 34 | [5x7](https://open.spotify.com/track/0pw9wzi9c09RutqLNxZROh) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [5x7](https://open.spotify.com/album/4RLd52kpnkccrWAcKU3UbY) | 3:17 |

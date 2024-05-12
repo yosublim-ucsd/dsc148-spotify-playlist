@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "Adrift",
+        "url": "https://open.spotify.com/album/3EA81WFt1zYz5tv2tIp0zu"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148425,
+      "name": "Adrift",
+      "url": "https://open.spotify.com/track/1L79FQcDPcyhZGbIKEHRh5"
+    },
+    {
+      "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/7b5h7MJ70KC92FrwSvRaQi"
+      },
+      "artists": [
+        {
+          "name": "Gajaka",
+          "url": "https://open.spotify.com/artist/1pTns3zLC3U3F8LjY4y5rO"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132552,
+      "name": "Aerial",
+      "url": "https://open.spotify.com/track/03gaqN3aWm9TQxuHay0G8R"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e"
       },
@@ -329,6 +365,42 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/27SnLQpv7TE3TRBe5vMxgW"
+      },
+      "artists": [
+        {
+          "name": "Shalaq",
+          "url": "https://open.spotify.com/artist/66fej5BLBVa8w437XcLXNL"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121529,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/5VCLOtscJZjl1lXqLI7KUH"
+    },
+    {
+      "album": {
+        "name": "Between Light And Dark",
+        "url": "https://open.spotify.com/album/7u3qMojHPUTiPJCTNfQhAL"
+      },
+      "artists": [
+        {
+          "name": "Amaury Arceneaux",
+          "url": "https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Between Light And Dark",
+      "url": "https://open.spotify.com/track/0EGNB6MWe2OtPS0Dtc4K6A"
+    },
+    {
+      "album": {
         "name": "Big Sleep",
         "url": "https://open.spotify.com/album/5sxwUVTxRO8Dh4mXj0MiMe"
       },
@@ -437,6 +509,42 @@
     },
     {
       "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/7hRbRitZvRC508IBhOZpLi"
+      },
+      "artists": [
+        {
+          "name": "Luba Hilman",
+          "url": "https://open.spotify.com/artist/6Z5QNF4nuiP7zmpoJQyIR2"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270340,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/41LjibR3EJDyu6KqknGEil"
+    },
+    {
+      "album": {
+        "name": "break of day",
+        "url": "https://open.spotify.com/album/6RDS1I0MwogDQXhTZCcVnd"
+      },
+      "artists": [
+        {
+          "name": "Harry Bloom",
+          "url": "https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133083,
+      "name": "break of day",
+      "url": "https://open.spotify.com/track/7nsoRxNhs6XSNcpq3lC2vv"
+    },
+    {
+      "album": {
         "name": "Breath Chant",
         "url": "https://open.spotify.com/album/2jZBe7W5AvyT2iWPY4UOwV"
       },
@@ -539,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Cause And Effect",
+        "url": "https://open.spotify.com/album/6wugLVvpkOyRRh21FenWi4"
+      },
+      "artists": [
+        {
+          "name": "Wimmel",
+          "url": "https://open.spotify.com/artist/0RhOCgBChCEWoFoiyvlcYy"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Cause And Effect",
+      "url": "https://open.spotify.com/track/5N3X7h8dkZ985rpPTemy3m"
+    },
+    {
+      "album": {
         "name": "Change Of Tides",
         "url": "https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53"
       },
@@ -554,6 +680,24 @@
       "duration_ms": 178000,
       "name": "Change Of Tides",
       "url": "https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE"
+    },
+    {
+      "album": {
+        "name": "Chasing Sunset",
+        "url": "https://open.spotify.com/album/4apjlff2zmf1kM4ljt2Pst"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149876,
+      "name": "Chasing Sunset",
+      "url": "https://open.spotify.com/track/5nEVkmu1pLSxz3ZWJLOIj3"
     },
     {
       "album": {
@@ -986,6 +1130,24 @@
       "duration_ms": 171636,
       "name": "Encountering the Mirror",
       "url": "https://open.spotify.com/track/7BGhuGxeESE5MZAsjJFSOt"
+    },
+    {
+      "album": {
+        "name": "endless possibilities",
+        "url": "https://open.spotify.com/album/1qDJtOZZ5vMAM81YYlZya3"
+      },
+      "artists": [
+        {
+          "name": "Haltura Arnadottir",
+          "url": "https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155854,
+      "name": "endless possibilities",
+      "url": "https://open.spotify.com/track/7yxzgaWVOFqjiDYCP78JvH"
     },
     {
       "album": {
@@ -1573,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Green fields",
+        "url": "https://open.spotify.com/album/2UOoD1Vt5x6NHMvtMV5c8o"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164930,
+      "name": "Green fields",
+      "url": "https://open.spotify.com/track/1aPzYXXhK2YruR9F7oJi9G"
+    },
+    {
+      "album": {
         "name": "Grounded",
         "url": "https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8"
       },
@@ -1624,6 +1804,24 @@
       "duration_ms": 198750,
       "name": "Haze on the Sea",
       "url": "https://open.spotify.com/track/1ul3sO72SOw0uGEbQcvS4b"
+    },
+    {
+      "album": {
+        "name": "Hearsay",
+        "url": "https://open.spotify.com/album/35xZ11xgT5Qc3s9QBFc3MC"
+      },
+      "artists": [
+        {
+          "name": "Tone Fluency",
+          "url": "https://open.spotify.com/artist/2e5eHuSE4kABHp8Fw3WLsa"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Hearsay",
+      "url": "https://open.spotify.com/track/1LUJBuZEJMt7Rz6JmIvyjh"
     },
     {
       "album": {
@@ -1804,6 +2002,24 @@
       "duration_ms": 201030,
       "name": "In Deep Colors",
       "url": "https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J"
+    },
+    {
+      "album": {
+        "name": "In The Ether",
+        "url": "https://open.spotify.com/album/3TYKAcxeoZmEbSSzUIJo04"
+      },
+      "artists": [
+        {
+          "name": "The River Sings",
+          "url": "https://open.spotify.com/artist/6cmgHNLrf9rpn9gHzebyOV"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "In The Ether",
+      "url": "https://open.spotify.com/track/1et2Fg7dQYWumbZfLMlxMN"
     },
     {
       "album": {
@@ -2290,6 +2506,24 @@
       "duration_ms": 146461,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/1rGnzd7MyIyNW3BW7qaGf9"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/2UKxouvBsAD8yilUQzXPq4"
+      },
+      "artists": [
+        {
+          "name": "Savione",
+          "url": "https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0SE0CRvtL26EINGvtdOuxO"
     },
     {
       "album": {
@@ -2801,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Mt. Easy",
+        "url": "https://open.spotify.com/album/0V3MFIrnZzDxFepYTtqhFb"
+      },
+      "artists": [
+        {
+          "name": "The River Sings",
+          "url": "https://open.spotify.com/artist/6cmgHNLrf9rpn9gHzebyOV"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143833,
+      "name": "Mt. Easy",
+      "url": "https://open.spotify.com/track/59090ChtzNmnPOqZI0PVBu"
+    },
+    {
+      "album": {
         "name": "Pastel Skies",
         "url": "https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4"
       },
@@ -2852,6 +3104,24 @@
       "duration_ms": 171108,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L"
+    },
+    {
+      "album": {
+        "name": "Nebulous",
+        "url": "https://open.spotify.com/album/1FkL8p0nIQj7EgemobmnMP"
+      },
+      "artists": [
+        {
+          "name": "Cherries & Daydreams",
+          "url": "https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141234,
+      "name": "Nebulous",
+      "url": "https://open.spotify.com/track/6MspiuaiARZdtjySzBFaSw"
     },
     {
       "album": {
@@ -3087,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/4th0vidpmHamD8YJC00OS5"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163213,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/7D8WGzkhfhFq1k0TFfXGCS"
+    },
+    {
+      "album": {
         "name": "ouma",
         "url": "https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ"
       },
@@ -3102,6 +3390,24 @@
       "duration_ms": 177957,
       "name": "ouma",
       "url": "https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS"
+    },
+    {
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/28t1JD1UGP5VOZ84PDuDe5"
+      },
+      "artists": [
+        {
+          "name": "Owen Hill",
+          "url": "https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/4yEQEFqwmlQVdtCZvCmXnQ"
     },
     {
       "album": {
@@ -3192,6 +3498,24 @@
       "duration_ms": 212571,
       "name": "Perceptive",
       "url": "https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC"
+    },
+    {
+      "album": {
+        "name": "possibilities",
+        "url": "https://open.spotify.com/album/4AiCsNakiGgXOBvjTgNAeq"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179714,
+      "name": "possibilities",
+      "url": "https://open.spotify.com/track/53PNIJmEliKupNTzgDYCpq"
     },
     {
       "album": {
@@ -3621,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Searching for Antarctica",
+        "url": "https://open.spotify.com/album/5dImHr9DzjaIrvb1wAr4DX"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/59jQO7J3QjAagf5hmJDc6A"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Searching for Antarctica",
+      "url": "https://open.spotify.com/track/34cI9Qb1fmz2eeckSmK0UC"
+    },
+    {
+      "album": {
         "name": "Seaside",
         "url": "https://open.spotify.com/album/2Rmxol60aYv7H3uw3lqsuK"
       },
@@ -3636,6 +3978,24 @@
       "duration_ms": 143376,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0WKvC9Q8uNVh4kVWVHPCBd"
+    },
+    {
+      "album": {
+        "name": "self-commitments",
+        "url": "https://open.spotify.com/album/4sEg7TP5Abe6Mr7oISt3f1"
+      },
+      "artists": [
+        {
+          "name": "Imala Zir",
+          "url": "https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165445,
+      "name": "self-commitments",
+      "url": "https://open.spotify.com/track/4TJmy9iIXupMiHtwmWWmIt"
     },
     {
       "album": {
@@ -3903,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Staring at trees",
+        "url": "https://open.spotify.com/album/6NWW7dHqpcsp9DaJ4X7WDQ"
+      },
+      "artists": [
+        {
+          "name": "Agnes Lundh",
+          "url": "https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181149,
+      "name": "Staring at trees",
+      "url": "https://open.spotify.com/track/1FiypTdI6iHYiJtjNtg51m"
+    },
+    {
+      "album": {
         "name": "Stars Aligned",
         "url": "https://open.spotify.com/album/2iZmpvPnSUy2HiUcUsjAkx"
       },
@@ -3918,6 +4296,24 @@
       "duration_ms": 189374,
       "name": "Stars Aligned",
       "url": "https://open.spotify.com/track/174Qm1we2PpksdAwRftfts"
+    },
+    {
+      "album": {
+        "name": "Statuettes",
+        "url": "https://open.spotify.com/album/03q8PGhhk5t3tp739VnTCp"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky",
+          "url": "https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159712,
+      "name": "Statuettes",
+      "url": "https://open.spotify.com/track/4oCXFxBGcbFJEizlWYuqPE"
     },
     {
       "album": {
@@ -4353,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "The Traveling Mind",
+        "url": "https://open.spotify.com/album/5QAuca0bQ8MbwaD7ln9BSn"
+      },
+      "artists": [
+        {
+          "name": "Sun Of They",
+          "url": "https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185579,
+      "name": "The Traveling Mind",
+      "url": "https://open.spotify.com/track/0Z9UkUjQmBB3T73lZG9rFT"
+    },
+    {
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5"
       },
@@ -4443,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "through the lens",
+        "url": "https://open.spotify.com/album/1eaLoF0Ue2waqmgsydIZD8"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "through the lens",
+      "url": "https://open.spotify.com/track/7DCOKZOQSMZJvzDUJRcU0X"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2lXiJjTnNIagnr6pwf3pQN"
       },
@@ -4476,6 +4908,24 @@
       "duration_ms": 185899,
       "name": "time capsule",
       "url": "https://open.spotify.com/track/6GudNU6xYNwIGgDO7igfUY"
+    },
+    {
+      "album": {
+        "name": "Times Changing",
+        "url": "https://open.spotify.com/album/55lws6GDlFEYlGdGxju3jq"
+      },
+      "artists": [
+        {
+          "name": "Theo Ember",
+          "url": "https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158243,
+      "name": "Times Changing",
+      "url": "https://open.spotify.com/track/0zijPgoHMPRsK8V5Dko7kI"
     },
     {
       "album": {
@@ -4566,6 +5016,24 @@
       "duration_ms": 207600,
       "name": "Tranquillity Coast",
       "url": "https://open.spotify.com/track/4pNApe3zxo7l2iv7ryP5t0"
+    },
+    {
+      "album": {
+        "name": "Transmitter",
+        "url": "https://open.spotify.com/album/7or7OmqnOB5mkuAlAp8jeM"
+      },
+      "artists": [
+        {
+          "name": "Skeru",
+          "url": "https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "Transmitter",
+      "url": "https://open.spotify.com/track/068nNdcHfiYl19mA0iqZY2"
     },
     {
       "album": {
@@ -4818,6 +5286,24 @@
       "duration_ms": 118587,
       "name": "Vi G\u00e5r Mot H\u00f6st",
       "url": "https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75"
+    },
+    {
+      "album": {
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/5241pdOSGs2JiF5ibldSIo"
+      },
+      "artists": [
+        {
+          "name": "Sam Matthew",
+          "url": "https://open.spotify.com/artist/6PkYVSB01oeVQJwmfxTd6M"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143179,
+      "name": "Viewpoint",
+      "url": "https://open.spotify.com/track/1YZcCaUsiM3RR172l7n0Vn"
     },
     {
       "album": {

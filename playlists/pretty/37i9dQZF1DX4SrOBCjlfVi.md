@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Megan Thee Stallion, Gunna, NLE Choppa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,326 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,588 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 37 | [Faces & Names](https://open.spotify.com/track/1gkKD1l0vQ6ZFqUBro5e9Q) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [Faces & Names](https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F) | 2:50 |
 | 38 | [Zuper](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
 | 39 | [Invite Only](https://open.spotify.com/track/2jvLrxgUAb0vxtvJa4I8fg) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Invite Only](https://open.spotify.com/album/2EKzvENcZxn2pdYVDvzgE0) | 3:29 |
-| 40 | [How Many \(feat\. Tay Savage\)](https://open.spotify.com/track/2rb5v62XfoC20V2AYCBWky) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [TEMPERATURE 1090](https://open.spotify.com/album/6opAHJdWxeJ3r9WjwjGFfN) | 3:25 |
+| 40 | [How Many](https://open.spotify.com/track/2rb5v62XfoC20V2AYCBWky) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [TEMPERATURE 1090](https://open.spotify.com/album/6opAHJdWxeJ3r9WjwjGFfN) | 3:25 |
 | 41 | [Pricey \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/440JDGRlMK095bNF50Nk74) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Pricey \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/6DWWrPjqjqoFWTSt24qtxI) | 2:40 |
 | 42 | [Push Up](https://open.spotify.com/track/183SE5VxBW77mNL3ao6jLd) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Push Up](https://open.spotify.com/album/37ce2ZlNJG21wtD1eebSLo) | 1:58 |
 | 43 | [U Again](https://open.spotify.com/track/5fiDvDRUmjJ60oy8qQGMxv) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [P.S\. Fuck You](https://open.spotify.com/album/2OvsRpOLneN4yWwXnMxyxx) | 2:14 |

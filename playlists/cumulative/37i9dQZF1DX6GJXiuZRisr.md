@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-486 songs - 1 day 10 hr 25 min
+487 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Carcerem](https://open.spotify.com/track/4CrDAeFy6asxsCrDsKS4cR) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Funkagenda](https://open.spotify.com/artist/2bElZdbJcj6B8WIP2fiKsG) | [Carcerem](https://open.spotify.com/album/2Ax5FAZzgxkbSE5HCOe58q) | 3:28 | 2021-10-01 | 2022-07-29 |
 | [Carousel](https://open.spotify.com/track/1k0LCeRfPvJFDseOO5f8SH) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Icarus / Carousel](https://open.spotify.com/album/5mBaktPnkrAfdNw0YwfXVP) | 3:16 | 2021-05-07 | 2022-04-19 |
 | [Celestia](https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Celestia EP](https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp) | 3:49 | 2021-05-07 | 2022-07-29 |
-| [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2023-12-08 |  |
+| [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2023-12-08 | 2024-05-12 |
 | [Change](https://open.spotify.com/track/5UjOTMEtd4vqSLXxyO71Yb) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG) | [Change](https://open.spotify.com/album/3AEd6QqRYFC4Jcw74u2kcg) | 6:32 | 2021-05-07 | 2022-04-20 |
 | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/track/1ABmhkPKvCoVSNh5NJYScq) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/album/7jPy3P2O7RA3VCBNtqzJS8) | 4:00 | 2022-02-04 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Change Your Mind](https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR) | 2:40 | 2022-07-01 | 2023-05-16 |
@@ -150,6 +150,7 @@
 | [Focus Shift](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X) | [Dallic](https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh) | [Focus Shift](https://open.spotify.com/album/5vSq28RCgpQ02Wq4vMfqeH) | 3:59 | 2021-05-07 | 2022-04-20 |
 | [Follow me \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5c4xnWEDCzN3Y2RrjV7GKb) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Follow Me \(Remixes\)](https://open.spotify.com/album/6yFdfs6u4PRuuhpTrTelp8) | 4:23 | 2021-05-07 | 2022-04-20 |
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
+| [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 |  |
 | [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Joss Favela, Yuridia
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,008 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,057 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 25 | [Tequila Y Limón](https://open.spotify.com/track/3X7YvNcQ2xH4qYRYGkMcHL) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Andrey Riobueno](https://open.spotify.com/artist/46MHTK5wrm6gMU9UNlvGGy) | [Tequila Y Limón](https://open.spotify.com/album/6hwz1xL2xcHWYew4YvpQUN) | 2:42 |
 | 26 | [Corre](https://open.spotify.com/track/4HK3pDL4LHXI21P2Um0E9c) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [Corre](https://open.spotify.com/album/1YA1rUyydSIXOT4TfzzNYx) | 4:46 |
 | 27 | [Espero](https://open.spotify.com/track/4cWUVD5jZpPQemwQktTdDq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Más Amor Y Más Sabor](https://open.spotify.com/album/1l1odyC95qExDrasUInE2b) | 3:05 |
-| 28 | [El Hermano Del Tio](https://open.spotify.com/track/7cy7zdABINosZyfNnj6utM) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Hermano Del Tio](https://open.spotify.com/album/5vj99OsBcl5PxgTvTnWAE0) | 3:46 |
+| 28 | [El Hermano Del Tio \- En Vivo](https://open.spotify.com/track/7cy7zdABINosZyfNnj6utM) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Hermano Del Tio \(En Vivo\)](https://open.spotify.com/album/5vj99OsBcl5PxgTvTnWAE0) | 3:46 |
 | 29 | [Sangre Michoacana](https://open.spotify.com/track/0Qn9vV5dXLXyMqlqBmqr0r) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Sangre Michoacana](https://open.spotify.com/album/6bJJ1MEajJElF17dRE8L3Q) | 3:06 |
 | 30 | [Fantasías](https://open.spotify.com/track/77MWpcPR3zlcMbGd1rXW1E) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Fantasías](https://open.spotify.com/album/3Q3dMv32sUw0TuAoLPw2G9) | 3:14 |
 | 31 | [El Compa Tacho](https://open.spotify.com/track/2PehRTY8GYPu7emPbkKfDM) | [Jassiel Gutierrez](https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv) | [El Compa Tacho](https://open.spotify.com/album/0wSCJXgn3lREaB9pZPP3Lh) | 2:13 |

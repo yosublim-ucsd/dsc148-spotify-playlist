@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD+Zp/znHLhr5NmuJnv7nEt",
+  "snapshot_id": "AAAAAAAAAADy0n5u4/y+HsJxTuqKKsuE",
   "tracks": [
     {
       "added_at": "2024-05-10 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "In Berlin",
+        "url": "https://open.spotify.com/album/0Q66TaAigeYo3etuN3gOqb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 258443,
+      "name": "Holding out for a Hero - Live in Berlin",
+      "url": "https://open.spotify.com/track/2wSEWnlWfO5y8PS6m0ZEq2"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Covenant + Sharks",
         "url": "https://open.spotify.com/album/1GXcOZVvAxXlXTMZ0JkYGs"
       },
@@ -483,166 +499,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Schakal 2024",
-        "url": "https://open.spotify.com/album/7mH1TrpboegMnI25ILBzdc"
+        "name": "Into The Realm",
+        "url": "https://open.spotify.com/album/30pWmMh4zKmgbe1jRk8S1n"
       },
       "artists": [
         {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
         }
       ],
-      "duration_ms": 492969,
-      "name": "Schakal 2024",
-      "url": "https://open.spotify.com/track/2wPHfvoSX2jJFSecj7J9c0"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/75KzKVMbyJTK4QeDN4oBCa"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 342220,
-      "name": "Supersonic - Live at The Limelight, Belfast - 4th September '94",
-      "url": "https://open.spotify.com/track/0KcauaScxdQDQeYIHGbH6D"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/3sG1H6IHNKHO38uJg95ldk"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/06Z4ckMBakLA5TbHMtPo5y"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Application For Release From The Dream",
-        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 269721,
-      "name": "Application For Release From The Dream",
-      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Nuestra guerra",
-        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 305993,
-      "name": "Nuestra guerra",
-      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "The Bloodwren",
-        "url": "https://open.spotify.com/album/56SLgCGA1eL3OFeRDpO8AY"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 975800,
-      "name": "The Bloodwren",
-      "url": "https://open.spotify.com/track/6LTMY4Go1DL2ODu8sbzd2d"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Let's Go Crazy Tonight (Live in Berlin)",
-        "url": "https://open.spotify.com/album/57lI2dT90bg4H0sTS6wvL8"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "Let's Go Crazy Tonight - Single Edit [Live]",
-      "url": "https://open.spotify.com/track/5aKSdqyXadMEo1RDm59T29"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Ultime Parole",
-        "url": "https://open.spotify.com/album/1JIAumWFjyLMhO23UWYv7q"
-      },
-      "artists": [
-        {
-          "name": "Jack Savoretti",
-          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
-        },
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Ultime Parole",
-      "url": "https://open.spotify.com/track/2ojcxuRm2guo83HxuGGbcr"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "El Dios",
-        "url": "https://open.spotify.com/album/0ILltRTb175nYtXtEiZNJV"
-      },
-      "artists": [
-        {
-          "name": "Claudio Bastardo",
-          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
-        },
-        {
-          "name": "Bvddy",
-          "url": "https://open.spotify.com/artist/1taunYFi2h4r5JwFb0y1Uq"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Vicho en la guitarra",
-          "url": "https://open.spotify.com/artist/1QDhwaOE3Bnyx7kIMldXSu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Gatos Negros",
-      "url": "https://open.spotify.com/track/1EjB9GyBPevH8tW0YPk79M"
+      "duration_ms": 222906,
+      "name": "Fresh Fur",
+      "url": "https://open.spotify.com/track/3riZihR1gFYRNhAp5y7YXx"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

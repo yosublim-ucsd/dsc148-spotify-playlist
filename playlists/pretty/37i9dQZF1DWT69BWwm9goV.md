@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 24 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 24 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

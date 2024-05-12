@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,602 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,696 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 7 | [Moonlight](https://open.spotify.com/track/2WHQYiXB1650BDpiaJBovF) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Moonlight \(feat\. Diandra Faye\)](https://open.spotify.com/album/0UsqRym0rpzvABGvK63Cgf) | 3:50 |
 | 8 | [Liberation](https://open.spotify.com/track/11iTb8iDCuX4UiFAtAjY1v) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Liberation](https://open.spotify.com/album/3nigUadsDdJ2u0dSB8Gv3F) | 3:40 |
 | 9 | [Far From Here](https://open.spotify.com/track/54NQOkaFiVnkMMwbOPN1jB) | [Rezonation](https://open.spotify.com/artist/2RJY6rxGXVSIEWIhXT0cUS), [Timekeeperz](https://open.spotify.com/artist/6DK0rLn76wp8K2OzwC9DpH), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Far From Here](https://open.spotify.com/album/66iI1ajqppSN5wHtnicDbf) | 3:15 |
-| 10 | [Schooier \(feat\. Chicco\)](https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f) | [Schooier \(feat\. Chicco\)](https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV) | 3:38 |
+| 10 | [Schooier \(feat\. Chicco\)](https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf), [Chicco](https://open.spotify.com/artist/4SnEjYQN84IQDeECLRB37H) | [Schooier \(feat\. Chicco\)](https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV) | 3:38 |
 | 11 | [Through My Veins](https://open.spotify.com/track/4jTtUjgUqHkwVtlWPuXQDj) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Through My Veins](https://open.spotify.com/album/7kdMytBymEhWquNnV10Swv) | 3:36 |
 | 12 | [Open Sesame \(Abracadabra\) \- D\-Block & S\-te\-Fan Remix](https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\)](https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq) | 3:02 |
 | 13 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 |

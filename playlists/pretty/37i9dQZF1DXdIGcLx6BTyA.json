@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32007,
+  "num_followers": 32005,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Dirty South",
-        "url": "https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy"
-      },
-      "artists": [
-        {
-          "name": "Drive-By Truckers",
-          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Goddamn Lonely Love",
-      "url": "https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "All American Made",
         "url": "https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 240106,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/4bw9zVI6u3W7ppL263JuZ5"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Dirty South",
+        "url": "https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Goddamn Lonely Love",
+      "url": "https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 224093,
       "name": "Prisoner Of The Highway",
       "url": "https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 264181,
+      "name": "Neon Cross",
+      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "J.T.",
-        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 215669,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Alone Together Sessions",
         "url": "https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 293346,
       "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
       "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 215669,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 186639,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Terlingua Girl",
         "url": "https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 251880,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
     },
     {
       "added_at": "2024-03-25 16:53:27",

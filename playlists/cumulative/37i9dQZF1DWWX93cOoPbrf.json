@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/7vayl5gyvmVJk7uaGtEEoT"
+      },
+      "artists": [
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+        },
+        {
+          "name": "Dani G",
+          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197679,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/3emqFgMGjOCaFjbgNsQ4rS"
+    },
+    {
+      "album": {
         "name": "Aguas Turbulentas",
         "url": "https://open.spotify.com/album/69wLMt4yFfuHuueICXyo44"
       },

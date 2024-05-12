@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Ren Kai\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,543 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,548 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [KONFESSION](https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [KONFESSION](https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe) | 2:58 |
 | 21 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
 | 22 | [NO IMPORTA EL DÍA](https://open.spotify.com/track/4efK71J4F1GD1a3wrFbcpm) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [NO IMPORTA EL DÍA](https://open.spotify.com/album/6tljZVaIUf27JSz4fOIR69) | 3:14 |
-| 23 | [La Ciudad De Las Sombras](https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj) | [W.O.L.F.](https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC), [Adrian Bluper](https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6) | [La Ciudad De Las Sombras](https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien) | 6:15 |
+| 23 | [La Ciudad De Las Sombras](https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj) | [W.O.L.F.](https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC), [Adrian Bluper](https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6) | [La Ciudad De Las Sombras](https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien) | 6:12 |
 | 24 | [DANCE DEPRE](https://open.spotify.com/track/74KLr2xkVGoL4qMAmMhP9v) | [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [DANCE DEPRE](https://open.spotify.com/album/1sSmSR6vjVwO3wTC6qsQLZ) | 3:58 |
 | 25 | [algún día](https://open.spotify.com/track/4hJSXhg8WZA6d72Mv1L0Y4) | [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [algún día](https://open.spotify.com/album/0QqUlSIaQHutolPgfKrh0O) | 3:30 |
 | 26 | [chill like that](https://open.spotify.com/track/5PThZUzaBqA9l4J4CDW0Cm) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [chill like that](https://open.spotify.com/album/4LSq1Mp7qhNPOj65tS2IEF) | 2:34 |

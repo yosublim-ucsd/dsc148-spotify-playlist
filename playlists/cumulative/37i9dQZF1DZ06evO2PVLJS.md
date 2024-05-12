@@ -2,7 +2,7 @@
 
 ### [This Is Vicente Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PVLJS)
 
-> This Is Vicente Fernández\. Sus mejores éxitos, todos en una playlist.
+> This is Vicente Fernández\. The essential tracks, all in one playlist.
 
 58 songs - 2 hr 59 min
 

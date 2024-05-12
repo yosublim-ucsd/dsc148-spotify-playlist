@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Raayan",
-  "num_followers": 661673,
+  "num_followers": 661692,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj3hgwAAAAAzFCjNDL66n5PJGdDJ0EYf",
+  "snapshot_id": "Zj8LKgAAAACdc4k6F7R4G3nqt45YIAEz",
   "tracks": [
     {
       "added_at": "2024-05-09 12:43:43",
@@ -555,6 +555,22 @@
       "duration_ms": 236025,
       "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/65mFo8Otbl5FBsg82kWsWR"
+    },
+    {
+      "added_at": "2024-05-11 06:07:06",
+      "album": {
+        "name": "Atharva [TAMIL]",
+        "url": "https://open.spotify.com/album/22KAXE3sOeJGWHmf6RsYF5"
+      },
+      "artists": [
+        {
+          "name": "Balaji Sri",
+          "url": "https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90"
+        }
+      ],
+      "duration_ms": 232255,
+      "name": "Kcpd",
+      "url": "https://open.spotify.com/track/0ZRwAwZcRk6fLlVWXLpZgS"
     },
     {
       "added_at": "2024-05-02 13:02:12",
@@ -1196,8 +1212,8 @@
           "url": "https://open.spotify.com/artist/4GHgypuXoigBQ6kcFGEnnV"
         },
         {
-          "name": "Aanyah",
-          "url": "https://open.spotify.com/artist/0V6KKR5g7UkEf9e0EvULlo"
+          "name": "Ananyah",
+          "url": "https://open.spotify.com/artist/5T75jmbR9MUtclH4mTwIQg"
         }
       ],
       "duration_ms": 198064,
@@ -1563,30 +1579,6 @@
       "duration_ms": 201048,
       "name": "Kalyaana Satham Satham (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/7mjF9JEihQK1BLh6NUy9op"
-    },
-    {
-      "added_at": "2024-03-27 14:16:59",
-      "album": {
-        "name": "Cadbury Strawberry (From \"7G\")",
-        "url": "https://open.spotify.com/album/1QUlOQHrV0NC2kAF3kaPDI"
-      },
-      "artists": [
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Kutti Revathi",
-          "url": "https://open.spotify.com/artist/1ZPfCCsmh3w8yBB6RPWcQL"
-        },
-        {
-          "name": "Siddharth Vipin",
-          "url": "https://open.spotify.com/artist/42RwcBbVe3o5iSO5PfRt3J"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Cadbury Strawberry - From \"7G\"",
-      "url": "https://open.spotify.com/track/3u65CiDovAgaeBP90ZCplN"
     },
     {
       "added_at": "2024-03-26 03:39:25",

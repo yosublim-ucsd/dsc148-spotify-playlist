@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,048 likes - 73 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,053 likes - 73 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 | 12 | [No Brooklin \- Sabotage 50](https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:42 |
 | 13 | [Melhor Momento, Pt\. 2](https://open.spotify.com/track/6mvFYL3LZ1XjS6daT9Hjdi) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:48 |
-| 14 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |
+| 14 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |
 | 15 | [Papo dos mais velho](https://open.spotify.com/track/0au2K6tHdZlvYntgfOjnIA) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Papo dos mais velho](https://open.spotify.com/album/3m7xRn77vFfd6KhNF9S8PP) | 3:59 |
 | 16 | [manchado por um sacrilégio](https://open.spotify.com/track/6PLZ3h6GauMhitBzIeBEYs) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ) | [RATO DE ESGOTO](https://open.spotify.com/album/4wJOSGqWoihcqNie0h4HJq) | 1:50 |
 | 17 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |

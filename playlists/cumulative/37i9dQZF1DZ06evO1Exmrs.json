@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
+  "description": "This Is Noah Kahan. Los temas esenciales, todos en una lista.",
   "name": "This Is Noah Kahan",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 312145,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 179013,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4QjtXlzepoVp3YXMvwxyyr"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 196201,
       "name": "Glue Myself Shut",
       "url": "https://open.spotify.com/track/67q8yivDoOPXCYodi1zTix"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 196800,
       "name": "Hold It Down",
       "url": "https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 285401,
       "name": "Howling",
       "url": "https://open.spotify.com/track/07Bf6NNEWHOgivLQbb1Akg"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 232618,
       "name": "Maine",
       "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 205786,
       "name": "Need Your Love (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1vsQb8n0icvMsFnL9663LM"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 239027,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 238066,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM"
@@ -972,6 +972,24 @@
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6e9NA7CWZwoT6V2c91fw8q"
     },
     {
       "album": {
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 187172,
       "name": "Still",
       "url": "https://open.spotify.com/track/0TpXkiohXTxYoeRIrkJLD1"

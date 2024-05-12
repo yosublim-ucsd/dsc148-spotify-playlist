@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 159006,
+  "num_followers": 159016,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAACrQecl0OnQuGZz+bNVAVm2",
+  "snapshot_id": "Zj1jgAAAAABugweK/GaF6zZmxJQWhPN0",
   "tracks": [
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Declaro a Cristo",
-        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
       "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 288159,
-      "name": "Declaro a Cristo",
-      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo S\u00e9 Quien Soy",
-        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+        "name": "Declaro a Cristo",
+        "url": "https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8"
       },
       "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 239294,
-      "name": "Yo S\u00e9 Quien Soy",
-      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+      "duration_ms": 288159,
+      "name": "Declaro a Cristo",
+      "url": "https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi"
     },
     {
       "added_at": null,

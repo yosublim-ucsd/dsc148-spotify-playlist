@@ -2,7 +2,7 @@
 
 ### [This Is Edgardo Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO096Rby)
 
-> This is Edgardo Nuñez\. The essential tracks, all in one playlist.
+> This is Edgardo Nuñez\. Die belangrikste snitte, alles in een speellys.
 
 58 songs - 3 hr 3 min
 

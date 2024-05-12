@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-574 songs - 1 day 0 hr 30 min
+577 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Drizzle](https://open.spotify.com/track/7IZhsHj5WNHZXb036INzSe) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Drizzle](https://open.spotify.com/album/17AdhxmA9tFsWn6G9gkJ4F) | 2:37 | 2021-11-10 | 2022-06-03 |
 | [Drone Me](https://open.spotify.com/track/5tX4UdxQ95Rho2LZOsb8K5) | [Exopar](https://open.spotify.com/artist/3ieE3kmwftNBuDcjoeADjC) | [Drone Me](https://open.spotify.com/album/1Nvxv6RYOMHwIIXrXogSIa) | 2:45 | 2022-11-25 | 2023-07-14 |
 | [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 | 2023-09-23 |
+| [Dusted Light](https://open.spotify.com/track/7IIx7tBsxi2HZ0IhH2y70T) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Dusted Light](https://open.spotify.com/album/5ySS3E2HENi6TLQukcfEVv) | 2:15 | 2024-05-11 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-05-11 |
 | [Earlybird](https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Glad U Made It](https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3) | 2:12 | 2022-12-16 |  |
 | [Ease](https://open.spotify.com/track/3FiOZ7Wot8iLuQYTU6iugX) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [Ease](https://open.spotify.com/album/6aiRYGClMJ4zPGaTJElfiP) | 2:00 | 2022-07-15 | 2022-11-20 |
@@ -185,6 +186,7 @@
 | [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 | 2023-04-14 |  |
 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 | 2021-11-10 | 2022-07-08 |
 | [For Samira](https://open.spotify.com/track/19YEXoO45iLULaOyxGOuOn) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [For Samira](https://open.spotify.com/album/2eI3zSVwiOPtFJVzrG6GVd) | 2:32 | 2021-11-10 | 2022-07-01 |
+| [For The Future](https://open.spotify.com/track/3aaNzCBIgHCsi6scJKpqGf) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [For The Future](https://open.spotify.com/album/2Eg8q0vcRxt6IKpyei0aqX) | 3:05 | 2024-05-11 |  |
 | [Foresta](https://open.spotify.com/track/27deYXGhkgSd7glci93wwK) | [Maya Mde](https://open.spotify.com/artist/5CNQTClM0UBvapkEUe4mM2) | [Foresta](https://open.spotify.com/album/5BRB0pwU4dR4Hk19sk7Opf) | 2:56 | 2024-02-13 |  |
 | [Found Some Water](https://open.spotify.com/track/0CQiMloLtYnXibZWE0e3dN) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Found Some Water](https://open.spotify.com/album/0HhZ2MAqZQw9QoH1IYSbbf) | 2:16 | 2022-07-22 | 2023-07-07 |
 | [Fragile Minds](https://open.spotify.com/track/61xuUczLEzHQ0uXSbrVcCp) | [Gallway Flex](https://open.spotify.com/artist/6DZylFpDS9LLQYsGRUpa9t) | [Fragile Minds](https://open.spotify.com/album/7CxAwNw6TljihlVzVuDEMp) | 3:02 | 2023-01-20 |  |
@@ -276,6 +278,7 @@
 | [Licorice](https://open.spotify.com/track/517E0FKxGOc8ydUdTUdS49) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [Licorice](https://open.spotify.com/album/57B3uwORFO3AT8krK2Ivgk) | 2:04 | 2021-11-10 | 2022-08-20 |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-10 | 2022-01-22 |
 | [light box](https://open.spotify.com/track/5VFDfHbNOJbUGQMUTFoJ2D) | [ORGANIK](https://open.spotify.com/artist/6u1yiRYU1JXHQhQDiFBw7L) | [light box](https://open.spotify.com/album/61DJLb9LpPHQZ8Wks6g6Ln) | 2:15 | 2023-07-14 |  |
+| [lights](https://open.spotify.com/track/1xoG5b5c7Rx28Y2T97qyaj) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [lights](https://open.spotify.com/album/2TLVyMD4mZ5lBjlEHD2jPN) | 2:15 | 2024-05-11 |  |
 | [Lights Ablaze in the Dusking Sky](https://open.spotify.com/track/2NA1eNQeunceqGzraGE11K) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Elephas](https://open.spotify.com/album/44bw9KEoZgoFje5AmuyIzw) | 2:44 | 2021-11-10 | 2022-05-11 |
 | [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
 | [Lilly Pad](https://open.spotify.com/track/40aLPi04VSPDhGVdg7n81t) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Lilly Pad](https://open.spotify.com/album/2clmtz2yiq8x3aOlYVsFoW) | 3:35 | 2021-11-10 | 2022-05-27 |

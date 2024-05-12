@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-595 songs - 1 day 12 hr 52 min
+600 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Dark Matter](https://open.spotify.com/track/1t3NtG1hoRBrgak79tGZ3g) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Bulky](https://open.spotify.com/album/2HPURIDPl5dmXypdHsdvD3) | 5:41 | 2020-10-20\* | 2020-11-13 |
 | [A Love \(Like Yours\)](https://open.spotify.com/track/1muPGFPeXv874v9w3eyNAu) | [Rowan Hutsch](https://open.spotify.com/artist/3XVfjQgN1wXGgEmLFI9kf5) | [A Love \(Like Yours\)](https://open.spotify.com/album/6w8AARrkog4p2ql2VeVPIB) | 2:44 | 2021-11-10 | 2023-05-23 |
 | [A New Era](https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [A New Era](https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ) | 2:33 | 2021-03-25 | 2023-01-20 |
+| [A New Leap](https://open.spotify.com/track/6gigmc4n6PbZbOSh8IkCAi) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [A New Leap](https://open.spotify.com/album/2vHrScXGXqxSNXziQTsDkP) | 2:30 | 2024-05-11 |  |
 | [A Snake Walking](https://open.spotify.com/track/4NzZbh6XXqpc8vKNdudcAM) | [Roral Ceef](https://open.spotify.com/artist/6gknYSsRHR4U2rU4MaTp7B) | [Don't You Dare](https://open.spotify.com/album/0b6Vu47sKXKXzdjHT91JQs) | 3:04 | 2020-10-20\* | 2020-11-21 |
 | [Acoustick](https://open.spotify.com/track/3K6z3cqLgxKoBXb3O3jofb) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Click Clack](https://open.spotify.com/album/0YcdHiYam184WYu39rev9k) | 1:58 | 2020-10-20\* | 2020-10-30 |
 | [Adíos!](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Adíos!](https://open.spotify.com/album/5B9C5ZNB207HOCHfPgkIzY) | 4:33 | 2021-02-20 | 2021-03-06 |
@@ -175,6 +176,7 @@
 | [Empty Room](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Empty Room](https://open.spotify.com/album/1S4zdBRDvFyg30YDSzuZq8) | 2:11 | 2023-11-24 |  |
 | [Endless Magic](https://open.spotify.com/track/4DKN3nZrkDvTyzdROv69Ic) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Endless Magic](https://open.spotify.com/album/3MgmDh1eWHfU743BO4BDiO) | 1:53 | 2020-10-20\* | 2021-01-07 |
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2021-02-12 | 2022-10-07 |
+| [Enjoy](https://open.spotify.com/track/5660H3fk6EW0XdHK98gngo) | [Square Fruit](https://open.spotify.com/artist/6VrfHBrKt5Fv8nvPX72zcd) | [Enjoy](https://open.spotify.com/album/18IlYuQc4V9aItuE55npzR) | 2:40 | 2024-05-11 |  |
 | [Epoch](https://open.spotify.com/track/6GOmKirZo88Mh9Q1KAtgAm) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Epoch](https://open.spotify.com/album/7Hk39wavPUtIEWsHpHx6Pk) | 4:52 | 2020-10-20\* | 2021-01-07 |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2021-04-15 | 2022-05-20 |
 | [Evening](https://open.spotify.com/track/0mBaCccsR2N2RvfXYKFeFB) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Evening](https://open.spotify.com/album/11aKnidnBLnSBRZ8L931dG) | 2:22 | 2020-10-20\* | 2021-06-04 |
@@ -312,6 +314,7 @@
 | [Marilyn](https://open.spotify.com/track/6PiyVPRpo96Qn9xxyjmbSe) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [Marilyn](https://open.spotify.com/album/15q9GI1pbHFAFD6PjtPKP2) | 2:51 | 2022-07-01 | 2023-10-13 |
 | [Matter](https://open.spotify.com/track/5Rd1qrMQpuDcgmqrhC1OcM) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Matter](https://open.spotify.com/album/3AjQTfwlLHoiblJkFZPTCi) | 2:39 | 2021-05-13 | 2021-10-16 |
 | [Mediterranea](https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Mediterranea](https://open.spotify.com/album/6XOJlEUYi2uRbPwWqBfm6u) | 4:21 | 2021-06-23 |  |
+| [Mediterranean](https://open.spotify.com/track/1BiAFJqtyHts9QcpzQ0GMu) | [Lush Sand](https://open.spotify.com/artist/4fHOwlGHuj9Y62WNInQd54) | [Mediterranean](https://open.spotify.com/album/7fTD18XXUaUFTvSew5BRd9) | 2:37 | 2024-05-11 |  |
 | [Mellow Trouble](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn) | [Sin.Clare](https://open.spotify.com/artist/5TNJ1DPxBNr0rBHWuyeo3w) | [Mellow Trouble](https://open.spotify.com/album/6kZ8F8oIo2Ze1izmthGiuS) | 2:54 | 2021-10-16 |  |
 | [melodreamatic](https://open.spotify.com/track/52YKIYKvPueCU5VOwt98dS) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [melodreamatic](https://open.spotify.com/album/40AtV2oTmLl9ggdf496t5L) | 2:03 | 2020-10-20\* | 2020-11-28 |
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2021-11-10 | 2022-07-08 |
@@ -560,6 +563,7 @@
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2021-08-25 | 2022-05-11 |
 | [Travellers](https://open.spotify.com/track/1bJIEtBbAA5RKl6vo6v0es) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:20 | 2020-10-20\* | 2020-11-13 |
 | [Tropicae](https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Secrets](https://open.spotify.com/album/5tN8Lg9AXBSO4Q5ELOM4Fs) | 4:19 | 2020-10-20\* | 2023-05-23 |
+| [Tru to you](https://open.spotify.com/track/5wEBeDWq464EzB2wiuqrdp) | [Jonga](https://open.spotify.com/artist/0QORWOkQ65NRorXBdirzmy) | [Tru to you](https://open.spotify.com/album/05NX6SDOETlRzi3cGR1wK3) | 2:20 | 2024-05-11 |  |
 | [Turmeric Latte](https://open.spotify.com/track/529wQw44ZMKRo8t7sX2T5f) | [Madloch](https://open.spotify.com/artist/3iLQiB17qiXyeTKSD8sr2w), [Subnode](https://open.spotify.com/artist/3LLW1zLSHWxtqCLXOBGYD6), [Pedro Capelossi](https://open.spotify.com/artist/28dLi8bTd2ksrAKlVvv8lY) | [Turmeric Latte](https://open.spotify.com/album/56h03ObA3Au44lKjcd8Mrg) | 7:29 | 2020-11-28 | 2020-12-11 |
 | [Turn \- Original Mix](https://open.spotify.com/track/2tI9JGXpweyNwQxAPQFCZd) | [David Folkebrant](https://open.spotify.com/artist/59abuwX5PFNHmb8lB9xack), [Lokovski](https://open.spotify.com/artist/5mh2irFtbnBrGuwUPQBInY) | [Turn](https://open.spotify.com/album/2he5Cqhk9v3QTUNLdvWqkG) | 5:14 | 2020-12-24 | 2021-01-29 |
 | [U Don't Know Me](https://open.spotify.com/track/15HntUgJrBgxcM19YHweix) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [U Don't Know Me](https://open.spotify.com/album/5msBbhCc6MIGGAT6rLq5a8) | 2:04 | 2021-06-04 | 2023-05-23 |
@@ -581,6 +585,7 @@
 | [Waiting for the Sun to Rise](https://open.spotify.com/track/4wArg9NWqTyqDQV9QUl0nZ) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Waiting for the Sun to Rise](https://open.spotify.com/album/7ik4kx0saV6Fjo4gAd5Zbi) | 7:39 | 2021-03-25 | 2021-08-25 |
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-29 | 2021-02-20 |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2021-03-25 | 2021-05-13 |
+| [Wasteland](https://open.spotify.com/track/2kAwg7vRS4UUWk22C8wSDW) | [Luminez](https://open.spotify.com/artist/2F4pWWLPG7lbACO3RUBjoQ) | [Wasteland](https://open.spotify.com/album/4E1xn71M3fVIG6vR0XARh5) | 2:51 | 2024-05-11 |  |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-10 |  |
 | [Waves](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [Waves](https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU) | 2:14 | 2022-10-07 |  |
 | [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 |  |

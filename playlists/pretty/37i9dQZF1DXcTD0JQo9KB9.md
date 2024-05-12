@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,446 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,450 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [人類群星閃耀時 – From THE FIRST TAKE](https://open.spotify.com/track/0wn6RJbs19D8DuIMVGyWzd) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [人類群星閃耀時 – From THE FIRST TAKE](https://open.spotify.com/album/18atRcBjNcPFnYQg9BhFC5) | 5:13 |
+| 1 | [人類群星閃耀時 – From THE FIRST TAKE](https://open.spotify.com/track/0wn6RJbs19D8DuIMVGyWzd) | [MIRROR](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [人類群星閃耀時 – From THE FIRST TAKE](https://open.spotify.com/album/18atRcBjNcPFnYQg9BhFC5) | 5:13 |
 | 2 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 |
 | 3 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 |
 | 4 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 96 | [一口氣](https://open.spotify.com/track/0QeieyfAsXbJEXEtkXdlY3) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [一口氣](https://open.spotify.com/album/37T5nCk3fL9AdhFp466kPo) | 4:03 |
 | 97 | [節外生枝](https://open.spotify.com/track/0uautpp44ZqrRTCXVbKZ1W) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [最好的時刻 2006\-2012](https://open.spotify.com/album/6Z1pu2Zg8BfwLCxvMTpLdw) | 4:30 |
 | 98 | [重生](https://open.spotify.com/track/0ICWLdBQR09jm2cQO9FPX0) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [本原](https://open.spotify.com/album/4UjWCkscIVWISArC7rfvoi) | 5:17 |
-| 99 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 |
+| 99 | [Warrior](https://open.spotify.com/track/3jBI3hvc9Z0FUcdyj7spEm) | [MIRROR](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Warrior](https://open.spotify.com/album/2YvFttJM4ejmuoe7V8IuBz) | 4:07 |
 | 100 | [撐著](https://open.spotify.com/track/3beXcn7mFyG0X9aQKABOO6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:37 |
 | 101 | [人間有愛](https://open.spotify.com/track/1A82lER0hubY5nEQlV5glC) | [R.O.O.T](https://open.spotify.com/artist/0EUSaBjG1G6lMFm9FFZfNj) | [人間有愛](https://open.spotify.com/album/1Ol0nJXt9NeabxeisaDbG1) | 3:32 |
 | 102 | [白日夢一場](https://open.spotify.com/track/50xaTd95BzOEyWb74ugEw2) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw) | 3:38 |

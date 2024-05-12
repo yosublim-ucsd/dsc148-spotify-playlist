@@ -11724,7 +11724,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 173312,
       "name": "Last Night on Earth",
       "url": "https://open.spotify.com/track/0TCttoUHi6b3o6U9Hy4ZlD"
@@ -12592,6 +12592,24 @@
       "duration_ms": 207083,
       "name": "Love Someone Like Me",
       "url": "https://open.spotify.com/track/0zCBRkTEhl68qxb1EOS58g"
+    },
+    {
+      "album": {
+        "name": "Love You First",
+        "url": "https://open.spotify.com/album/6bJEC4w5WQrmWPtjd2AiZb"
+      },
+      "artists": [
+        {
+          "name": "SYLVE",
+          "url": "https://open.spotify.com/artist/0PAAsgLKmFX9PFn3HMb7pW"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Love You First",
+      "url": "https://open.spotify.com/track/4lBRT5e0BZaW8zlvlwS9FT"
     },
     {
       "album": {
@@ -17452,7 +17470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 122307,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs"
@@ -22906,7 +22924,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 162720,
       "name": "Want Your Love",
       "url": "https://open.spotify.com/track/0nf2kysFoQ7dZeGsJzMZ3R"

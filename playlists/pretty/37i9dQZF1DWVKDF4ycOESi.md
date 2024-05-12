@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Articolo 31 in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,002 likes - 92 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,085 likes - 92 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 42 | [Sentimento](https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Sentimento](https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7) | 2:24 |
 | 43 | [Look At My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/track/6TRVOa4l8uYvc7oPkXk3W5) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Look at My Body Pt\. II \(Feat\. Shygirl\)](https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv) | 2:39 |
 | 44 | [713](https://open.spotify.com/track/7j40WhUtQj7BEkfzvfUSLF) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [713](https://open.spotify.com/album/0iZpCEhefDXKxiLuyWCl5R) | 2:38 |
-| 45 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In memoria di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
+| 45 | [Non chiamarmi bella](https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4) | 2:22 |
 | 46 | [Luna elettrica](https://open.spotify.com/track/6A7Pwen2tv5m9ddiFi0D3a) | [Michelangelo Vood](https://open.spotify.com/artist/4ZWLxBFrqQpBflEZ4wBFJ7) | [Non c'è più tempo](https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT) | 3:13 |
 | 47 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 48 | [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 |
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 89 | [CLAP](https://open.spotify.com/track/69fSWmNpHYANjhjIAzuVuS) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [CLAP](https://open.spotify.com/album/7lPIywafr4xHly98THAoWQ) | 2:17 |
 | 90 | [Non abbasso la cresta](https://open.spotify.com/track/1vn7pikOi7oSZo388XZed2) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [Non abbasso la cresta](https://open.spotify.com/album/3h69WwySyk9VV00jsdsar1) | 2:32 |
 | 91 | [INT’A BUFERA](https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INT’A BUFERA](https://open.spotify.com/album/3jM7GBHjZrU0BqbeaYIRZ7) | 2:59 |
-| 92 | [BUGIE](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
+| 92 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
 
 Snapshot ID: `Zj4ZDAAAAABx71xEXtvTbJsTZYFQBcqr`

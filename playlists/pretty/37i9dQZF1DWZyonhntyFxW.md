@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > زميلي بيسأل عن المبدأ وقت المادة بيروح فين؟.غلاف:مروان بابلو
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,215 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,326 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

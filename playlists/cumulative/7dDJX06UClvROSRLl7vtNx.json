@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/4obAVOq1QC1x1LUAYqjaNc"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/4rBBgGAgZjq0YjXvQzg4Sh"
+    },
+    {
+      "album": {
         "name": "afterglow",
         "url": "https://open.spotify.com/album/3BAIQJ314MKCfhyjHI64Di"
       },
@@ -525,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/13vr1bqkKMO8jpw9kpxSUr"
+      },
+      "artists": [
+        {
+          "name": "Will Knight",
+          "url": "https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143972,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2nd6tzC7WOfbwaaj94eEdf"
+    },
+    {
+      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/4VVdzcYTUo7UUy4DZgTV0P"
       },
@@ -856,6 +900,32 @@
       "duration_ms": 141111,
       "name": "Californication",
       "url": "https://open.spotify.com/track/0v2atFhYQYPythajdEi4MF"
+    },
+    {
+      "album": {
+        "name": "Careless Whisper",
+        "url": "https://open.spotify.com/album/38ZVhH1K3qD6X9On0NqmqL"
+      },
+      "artists": [
+        {
+          "name": "Oceanside",
+          "url": "https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR"
+        },
+        {
+          "name": "Sealife",
+          "url": "https://open.spotify.com/artist/0hqL32qd5sIFvWQXVtccIa"
+        },
+        {
+          "name": "Beachlife",
+          "url": "https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2hESLhxdaKlLA5Xt9kZdsz"
     },
     {
       "album": {
@@ -4998,6 +5068,28 @@
       "duration_ms": 152443,
       "name": "Open My Heart",
       "url": "https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm"
+    },
+    {
+      "album": {
+        "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/6hAI1PbLBO3rLuq9kUVCVQ"
+      },
+      "artists": [
+        {
+          "name": "PRSM",
+          "url": "https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9"
+        },
+        {
+          "name": "Muted Mind",
+          "url": "https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/2PrnX9N1vqBGIRVbWv7GCL"
     },
     {
       "album": {

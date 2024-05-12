@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 975433,
+  "num_followers": 975568,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 267466,
       "name": "Decode - Acoustic Version",
       "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Aggressive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Hated (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 217855,
       "name": "mother tongue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Aggressive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hated (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Sweet Disaster (Acoustic)",
-        "url": "https://open.spotify.com/album/3bqkh8NHd97KW9Agy0of7Y"
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 204857,
-      "name": "Sweet Disaster - Acoustic",
-      "url": "https://open.spotify.com/track/1LxkuDFjNbWlOcT3LCkR8l"
+      "duration_ms": 202120,
+      "name": "I Can't Stand It - Acoustic",
+      "url": "https://open.spotify.com/track/2QgoSgNAeaN0GBNq7qNSaL"
     }
   ],
   "unique_name": "Acoustic Rock",

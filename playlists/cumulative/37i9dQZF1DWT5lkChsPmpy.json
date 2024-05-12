@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "All of the things",
+        "url": "https://open.spotify.com/album/2J1j0tgQoPNMME5gYZ4t3V"
+      },
+      "artists": [
+        {
+          "name": "Molife",
+          "url": "https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220304,
+      "name": "All of the Things",
+      "url": "https://open.spotify.com/track/0S8UQK5REKlicvcodwJFUu"
+    },
+    {
+      "album": {
         "name": "altitude",
         "url": "https://open.spotify.com/album/7GEhaT2jgkwaE5TrAGw13P"
       },
@@ -1526,6 +1544,24 @@
       "duration_ms": 196460,
       "name": "Creative Waves",
       "url": "https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn"
+    },
+    {
+      "album": {
+        "name": "Crystal Moon",
+        "url": "https://open.spotify.com/album/2o6KOdVqmEo9gimssxoO84"
+      },
+      "artists": [
+        {
+          "name": "Elliot Horizon",
+          "url": "https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185376,
+      "name": "Crystal Moon",
+      "url": "https://open.spotify.com/track/4kRjqExrlXSA5I5fdRhEfh"
     },
     {
       "album": {
@@ -6749,6 +6785,24 @@
     },
     {
       "album": {
+        "name": "Skyscraper",
+        "url": "https://open.spotify.com/album/4ku8cmTs6kpHiT8jFNdjkV"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/0UhUdLPU2Cc83Udv7BPJrg"
+    },
+    {
+      "album": {
         "name": "sleeping bird",
         "url": "https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5"
       },
@@ -7944,6 +7998,24 @@
       "duration_ms": 202302,
       "name": "Tryin' - Chill House",
       "url": "https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC"
+    },
+    {
+      "album": {
+        "name": "Tuned Waves",
+        "url": "https://open.spotify.com/album/3RDYb0TLR02WZbWmhX7dJM"
+      },
+      "artists": [
+        {
+          "name": "Paradise Delay",
+          "url": "https://open.spotify.com/artist/2LC89if4mekjoDOmUqTOoM"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127090,
+      "name": "Tuned Waves",
+      "url": "https://open.spotify.com/track/37jLgzm51lwSc2C1Ibg1JC"
     },
     {
       "album": {

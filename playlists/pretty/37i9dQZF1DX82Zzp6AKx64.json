@@ -1,6 +1,6 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1167277,
+  "num_followers": 1167432,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA"
-      },
-      "artists": [
-        {
-          "name": "Kix",
-          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
-        }
-      ],
-      "duration_ms": 252626,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Rev It Up!",
         "url": "https://open.spotify.com/album/3ojiLMvJpANQKvzSO7Jhuj"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA"
       },
       "artists": [
         {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
         }
       ],
-      "duration_ms": 308306,
-      "name": "Possession",
-      "url": "https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult"
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 327533,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5LK19eRCqoKuRSVuUEhEKh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 308306,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult"
     },
     {
       "added_at": "2024-02-02 05:00:00",

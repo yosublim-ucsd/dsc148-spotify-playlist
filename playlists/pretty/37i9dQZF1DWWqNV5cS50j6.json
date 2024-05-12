@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 742985,
+  "num_followers": 742999,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 192705,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Ugly is Beautiful",
@@ -635,22 +651,6 @@
       "duration_ms": 239451,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 192705,
-      "name": "SELFISH",
-      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "SOULCRUSHER",
+        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 171828,
+      "name": "SOULCRUSHER",
+      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Lego Ring",
@@ -791,22 +807,6 @@
       "duration_ms": 163228,
       "name": "Lego Ring",
       "url": "https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "SOULCRUSHER",
-        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 171828,
-      "name": "SOULCRUSHER",
-      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-05-10 17:22:13",
       "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+        "name": "i wonder",
+        "url": "https://open.spotify.com/album/5RoafD4ycGxnyGWVMh4pEQ"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
+      "duration_ms": 104975,
+      "name": "i wonder",
+      "url": "https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/0oMucgw0ILgJQzkvTBMDH8"
     },
     {
-      "added_at": "2024-05-10 17:22:13",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "i wonder",
-        "url": "https://open.spotify.com/album/5RoafD4ycGxnyGWVMh4pEQ"
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 104975,
-      "name": "i wonder",
-      "url": "https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf"
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -973,30 +973,6 @@
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "light! (with Lil Nas X & 9lives)",
-        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 151839,
-      "name": "light! (with Lil Nas X & 9lives)",
-      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "The World I'm Searching For",
@@ -1027,6 +1003,30 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "light! (with Lil Nas X & 9lives)",
+        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 151839,
+      "name": "light! (with Lil Nas X & 9lives)",
+      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "marry me",
+        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 157604,
+      "name": "marry me",
+      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "So Long",
@@ -1145,20 +1161,20 @@
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "marry me",
-        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
       },
       "artists": [
         {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
         }
       ],
-      "duration_ms": 157604,
-      "name": "marry me",
-      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 130440,
       "name": "i dont even own prada shoes lol",
       "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
     },
     {
-      "added_at": "2024-05-10 17:22:13",
-      "album": {
-        "name": "BUSS UR HEAD",
-        "url": "https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK"
-      },
-      "artists": [
-        {
-          "name": "JD Cliffe",
-          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
-        }
-      ],
-      "duration_ms": 161509,
-      "name": "BUSS UR HEAD",
-      "url": "https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Suburbia",
@@ -1731,6 +1715,22 @@
       "duration_ms": 179026,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
+    },
+    {
+      "added_at": "2024-05-10 17:22:13",
+      "album": {
+        "name": "BUSS UR HEAD",
+        "url": "https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK"
+      },
+      "artists": [
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "duration_ms": 161509,
+      "name": "BUSS UR HEAD",
+      "url": "https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1753,20 +1753,20 @@
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Calling My Name",
-        "url": "https://open.spotify.com/album/2uiegPdR8cHU8jRxdPrnm9"
+        "name": "Sylvia (Nanana)",
+        "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
       },
       "artists": [
         {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
         }
       ],
-      "duration_ms": 134918,
-      "name": "Calling My Name",
-      "url": "https://open.spotify.com/track/0grihwUryitBRp0kkHFbcB"
+      "duration_ms": 155686,
+      "name": "Sylvia (Nanana)",
+      "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
     },
     {
       "added_at": "2024-03-19 20:25:15",

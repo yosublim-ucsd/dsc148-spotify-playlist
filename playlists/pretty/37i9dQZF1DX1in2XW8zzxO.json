@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 68211,
+  "num_followers": 68275,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-05-10 09:38:59",
       "album": {
+        "name": "Monate Mogwanti",
+        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
+      },
+      "artists": [
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "duration_ms": 327868,
+      "name": "Monate Mogwanti",
+      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
+    },
+    {
+      "added_at": "2024-05-10 09:38:59",
+      "album": {
         "name": "uMlando",
         "url": "https://open.spotify.com/album/3oSmq5FBBBfgaMWNt6ry7R"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 420027,
       "name": "Faki Frostan",
       "url": "https://open.spotify.com/track/788JM8h2eYszhoWmCvk8Ij"
-    },
-    {
-      "added_at": "2024-05-10 09:38:59",
-      "album": {
-        "name": "Monate Mogwanti",
-        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
-      },
-      "artists": [
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 327868,
-      "name": "Monate Mogwanti",
-      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
     },
     {
       "added_at": "2024-05-10 09:38:59",

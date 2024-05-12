@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
   "name": "This Is Gerardo Ortiz",
   "tracks": [
     {
@@ -518,6 +518,24 @@
       "duration_ms": 163422,
       "name": "El Gabito",
       "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
+    },
+    {
+      "album": {
+        "name": "El Morro",
+        "url": "https://open.spotify.com/album/1dmmA8Z2niZfgem6PIcl76"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173783,
+      "name": "El Morro",
+      "url": "https://open.spotify.com/track/6jhfk1e3W7P1KFbuF8ul3Q"
     },
     {
       "album": {

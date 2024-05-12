@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 192827,
       "name": "Alma m\u00eda",
       "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
@@ -1548,6 +1548,24 @@
       "duration_ms": 237960,
       "name": "Tatalitu (Chuntunqui)",
       "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
+    },
+    {
+      "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280063,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0"
     },
     {
       "album": {

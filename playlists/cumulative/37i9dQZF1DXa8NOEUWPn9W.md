@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring BLOND:ISH
 
-876 songs - 2 day 4 hr 4 min
+877 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Could Heaven Ever Be Like This \- Walker & Royce and Chris Lorenzo Remix](https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Could Heaven Ever Be Like This \(Walker & Royce and Chris Lorenzo Remix\)](https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ) | 3:41 | 2022-08-12 | 2024-01-05 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 | 2023-01-14 |
 | [Critical](https://open.spotify.com/track/7FiYF0ocZO3hwxrPkJ5wQs) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Critical](https://open.spotify.com/album/2xsNfWycOQhnQ9Gx1z1Cax) | 4:20 | 2021-03-27\* | 2021-04-24 |
-| [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 | 2024-03-08 |  |
+| [Cruel Intentions](https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Cruel Intentions](https://open.spotify.com/album/6jNQGxYOPEJTUaL3BA8Vro) | 3:42 | 2024-03-08 | 2024-05-12 |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2023-10-19 |  |
 | [Crystalline](https://open.spotify.com/track/6v2y4LdmqC1S9F4YDXoaxR) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Crystalline](https://open.spotify.com/album/6o13uSKWCjRtQAO9YqlTJr) | 6:46 | 2021-03-27\* | 2021-08-28 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-06-19 | 2022-07-29 |
@@ -465,6 +465,7 @@
 | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/track/7Mz4VZiPFjf2AYkr4KNkJ5) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/album/1h3MhM9o2wdZbrikUZ9ZMW) | 3:25 | 2021-06-27 | 2022-04-18 |
 | [Light Up My Life](https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Light Up My Life](https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW) | 2:24 | 2021-05-15 | 2022-08-24 |
 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 | 2021-07-04 | 2023-06-03 |
+| [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 |  |
 | [Like My Way](https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:13 | 2021-03-27\* | 2021-06-03 |
 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-01-14 | 2023-05-13 |
 | [Lips](https://open.spotify.com/track/7mDITtAAXvP15gk0AC8VAC) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Lips](https://open.spotify.com/album/1l4FMo7mSURWFXeEJodEC6) | 5:34 | 2021-03-27\* | 2021-07-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 770285,
+  "num_followers": 770761,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 486240,
+      "name": "Tower Of Strength",
+      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Isn\u2019t Anything",
         "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 252093,
       "name": "Asimilasyon",
       "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 486240,
-      "name": "Tower Of Strength",
-      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
     },
     {
-      "added_at": "2023-10-13 03:31:28",
-      "album": {
-        "name": "Bound By Naked Skies",
-        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
-      },
-      "artists": [
-        {
-          "name": "Lathe of Heaven",
-          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Ekpyrosis",
-      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Song and Legend",
@@ -871,6 +855,22 @@
       "duration_ms": 193720,
       "name": "Sebastiane",
       "url": "https://open.spotify.com/track/48Val8qkmAPc5VQjhaIMOT"
+    },
+    {
+      "added_at": "2023-10-13 03:31:28",
+      "album": {
+        "name": "Bound By Naked Skies",
+        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
+      },
+      "artists": [
+        {
+          "name": "Lathe of Heaven",
+          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Ekpyrosis",
+      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
     },
     {
       "added_at": "2021-10-15 04:04:50",

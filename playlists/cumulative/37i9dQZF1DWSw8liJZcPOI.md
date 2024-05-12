@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-490 songs - 1 day 9 hr 54 min
+491 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Avant\-dernières pensées: I\. Idylle \- Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Avant\-dernières pensées: I\. Idylle \[Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv) | 3:56 | 2021-12-10 |  |
 | [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 | 2021-02-26 |  |
 | [Avril 14th](https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:05 | 2021-02-22 | 2021-10-11 |
+| [Awake/Alive](https://open.spotify.com/track/0PXbyMPPGGBkHOWBQ2Ee5m) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Awake/Alive](https://open.spotify.com/album/4BJwGhGeYt9mCmeCosCJni) | 3:42 | 2024-05-10 |  |
 | [Awakening](https://open.spotify.com/track/3I1U6Aq0fRFembW4qLKXEi) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Substance](https://open.spotify.com/album/4cMXo684wjVRAFYuPrpmPY) | 5:01 | 2020-12-11 |  |
 | [Awaking](https://open.spotify.com/track/3NRhAdTjP60hAfRVQFUEvl) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [From Sunset](https://open.spotify.com/album/5J2QcipeSJxA2MpkmmDbN1) | 3:52 | 2024-03-01 |  |
 | [Azure](https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Azure](https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo) | 3:12 | 2022-07-01 |  |
@@ -165,7 +166,7 @@
 | [Fairytail](https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Fairytail](https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I) | 2:50 | 2020-10-21 |  |
 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 | 2023-05-05 |  |
 | [Fantasia Opening](https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Fantasia Opening](https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX) | 3:46 | 2024-04-12 |  |
-| [Fata Morgana](https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Herdís Stefánsdóttir](https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb) | [The Essex Serpent \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ) | 2:03 | 2024-04-12 |  |
+| [Fata Morgana](https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Herdís Stefánsdóttir](https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb) | [The Essex Serpent \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ) | 2:03 | 2024-04-12 | 2024-05-12 |
 | [Fight to Make It Up](https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe) | [Takénobu](https://open.spotify.com/artist/0gnKKarIUyBnDcORsbOdeY) | [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8) | 5:42 | 2020-10-20\* | 2022-05-12 |
 | [Final Parade](https://open.spotify.com/track/0GP4AxKX6DvTOuTZI0s1p6) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Mya](https://open.spotify.com/album/7oyU81vvHM7QOb5zty1fc3) | 2:23 | 2020-10-21 | 2021-01-15 |
 | [Fjögur píanó](https://open.spotify.com/track/4NUtQw0LdpKMcjGAb3LmwH) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN) | 7:50 | 2020-12-04 | 2020-12-11 |

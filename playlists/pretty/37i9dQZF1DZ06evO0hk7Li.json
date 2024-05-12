@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37245,
+  "num_followers": 37252,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAADRa/NlOzSAVC3Qm8Gb0ItK",
+  "snapshot_id": "Zj1jgAAAAAAt0u450hOsQzlK4M1JzFzm",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brand New Machine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 171480,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brand New Machine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 206427,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOMEONE ELSE (featuring Jacob Banks)",
-        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 222483,
-      "name": "SOMEONE ELSE (featuring Jacob Banks)",
-      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About 30",
         "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 294753,
       "name": "Ire (Remix) (feat. Jacob Banks)",
       "url": "https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOMEONE ELSE (featuring Jacob Banks)",
+        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (featuring Jacob Banks)",
+      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
     },
     {
       "added_at": null,

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A New Leap",
+        "url": "https://open.spotify.com/album/2vHrScXGXqxSNXziQTsDkP"
+      },
+      "artists": [
+        {
+          "name": "Nicolello",
+          "url": "https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "A New Leap",
+      "url": "https://open.spotify.com/track/6gigmc4n6PbZbOSh8IkCAi"
+    },
+    {
+      "album": {
         "name": "Don't You Dare",
         "url": "https://open.spotify.com/album/0b6Vu47sKXKXzdjHT91JQs"
       },
@@ -3055,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/18IlYuQc4V9aItuE55npzR"
+      },
+      "artists": [
+        {
+          "name": "Square Fruit",
+          "url": "https://open.spotify.com/artist/6VrfHBrKt5Fv8nvPX72zcd"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/5660H3fk6EW0XdHK98gngo"
+    },
+    {
+      "album": {
         "name": "Epoch",
         "url": "https://open.spotify.com/album/7Hk39wavPUtIEWsHpHx6Pk"
       },
@@ -5562,6 +5598,24 @@
       "duration_ms": 261048,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/6WyxIRWwje9OjziaplhUVJ"
+    },
+    {
+      "album": {
+        "name": "Mediterranean",
+        "url": "https://open.spotify.com/album/7fTD18XXUaUFTvSew5BRd9"
+      },
+      "artists": [
+        {
+          "name": "Lush Sand",
+          "url": "https://open.spotify.com/artist/4fHOwlGHuj9Y62WNInQd54"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157903,
+      "name": "Mediterranean",
+      "url": "https://open.spotify.com/track/1BiAFJqtyHts9QcpzQ0GMu"
     },
     {
       "album": {
@@ -10077,6 +10131,24 @@
     },
     {
       "album": {
+        "name": "Tru to you",
+        "url": "https://open.spotify.com/album/05NX6SDOETlRzi3cGR1wK3"
+      },
+      "artists": [
+        {
+          "name": "Jonga",
+          "url": "https://open.spotify.com/artist/0QORWOkQ65NRorXBdirzmy"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140975,
+      "name": "Tru to you",
+      "url": "https://open.spotify.com/track/5wEBeDWq464EzB2wiuqrdp"
+    },
+    {
+      "album": {
         "name": "Turmeric Latte",
         "url": "https://open.spotify.com/album/56h03ObA3Au44lKjcd8Mrg"
       },
@@ -10468,6 +10540,24 @@
       "duration_ms": 221744,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/4E1xn71M3fVIG6vR0XARh5"
+      },
+      "artists": [
+        {
+          "name": "Luminez",
+          "url": "https://open.spotify.com/artist/2F4pWWLPG7lbACO3RUBjoQ"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/2kAwg7vRS4UUWk22C8wSDW"
     },
     {
       "album": {

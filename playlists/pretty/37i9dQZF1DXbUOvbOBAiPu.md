@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Gustaph
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,920 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,931 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 56 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 |
 | 57 | [The One](https://open.spotify.com/track/1ju965w9Xm206kTXwZpEM0) | [Ekowkidd](https://open.spotify.com/artist/4D8Sliv3CfVnveLIyzKVdh), [Milo$](https://open.spotify.com/artist/2ZWvvP4hDfWKRBjQmn15nb), [Breman](https://open.spotify.com/artist/3XheEe7F6mw6qF9qbBClHa) | [The One](https://open.spotify.com/album/6u3733DCDAefSJotiHqQYJ) | 2:34 |
 | 58 | [Time Will Tell](https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Time Will Tell](https://open.spotify.com/album/3PbDdReywktWEnHMcU7TF4) | 4:04 |
-| 59 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:01 |
+| 59 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 |
 | 60 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 |
 | 61 | [Yessire](https://open.spotify.com/track/7KzNnxjDB1mIvOxTiGIz8h) | [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y) | [Yessir](https://open.spotify.com/album/0wA7VSf8ixwtXIO2brccIl) | 2:17 |
 | 62 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 |

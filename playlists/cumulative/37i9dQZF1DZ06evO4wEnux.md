@@ -2,7 +2,7 @@
 
 ### [This Is Fatherson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux)
 
-> This is Fatherson\. Tutti i brani in un'unica playlist.
+> This is Fatherson\. The essential tracks, all in one playlist.
 
 37 songs - 2 hr 15 min
 

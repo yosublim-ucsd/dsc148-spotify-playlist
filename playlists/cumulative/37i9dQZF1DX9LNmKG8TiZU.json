@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "Des titres pop, tout en douceur. Photo : Lana Del Rey",
+  "description": "Des titres pop, tout en douceur. Photo : Pomme",
   "name": "Douceur Pop",
   "tracks": [
     {
@@ -832,6 +832,24 @@
       "duration_ms": 322562,
       "name": "Door",
       "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ"
     },
     {
       "album": {
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 188960,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
@@ -2838,6 +2856,24 @@
       "duration_ms": 217306,
       "name": "very bad - soft version",
       "url": "https://open.spotify.com/track/5zpfZ9QHEdZPD905M1y4Ge"
+    },
+    {
+      "album": {
+        "name": "weird",
+        "url": "https://open.spotify.com/album/3wyvR9v1MDcf6Y65pk5EQE"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92576,
+      "name": "weird",
+      "url": "https://open.spotify.com/track/5VdpYMghC70nTJUMK7D6o6"
     },
     {
       "album": {

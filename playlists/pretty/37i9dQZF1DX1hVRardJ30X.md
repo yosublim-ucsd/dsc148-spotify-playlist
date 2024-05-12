@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,697 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,815 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [After Party](https://open.spotify.com/track/37E8dpnhRG34OH6RUBDl8k) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [After Party](https://open.spotify.com/album/21IWMRjJ38dPj65MNNZ0p9) | 3:05 |
 | 13 | [1 FANTASÍA](https://open.spotify.com/track/0MtK2ICtOXzYJaRfiDwcee) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [1 FANTASÍA](https://open.spotify.com/album/4TbvFrPtwh68vEPpPR6DOb) | 2:24 |
 | 14 | [ALV \- Remix](https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ALV \(Remix\)](https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x) | 2:57 |
-| 15 | [COMUNA 3](https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [COMUNA 3](https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B) | 2:34 |
+| 15 | [COMUNA 3](https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [The Rude Boyz](https://open.spotify.com/artist/0AtX4f2oUVTM8YzRMyIrbq) | [COMUNA 3](https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B) | 2:34 |
 | 16 | [Pensando Positivo](https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pensando Positivo](https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1) | 3:13 |
 | 17 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 |
 | 18 | [TRAIGO CON Q](https://open.spotify.com/track/0paJR1HK2zz6dRTgYr1ltN) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [TRAIGO CON Q](https://open.spotify.com/album/13SiXyZv8YXQmUmEIAR6k2) | 2:56 |

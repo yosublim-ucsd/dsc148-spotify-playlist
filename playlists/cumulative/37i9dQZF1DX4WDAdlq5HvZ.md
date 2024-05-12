@@ -4,7 +4,7 @@
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-108 songs - 7 hr 7 min
+109 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Mamá](https://open.spotify.com/track/0llRpbgcHZ9Ig5F105manW) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG) | [Mamá](https://open.spotify.com/album/0DAa8NDAjQB8NsRHygPSqi) | 4:51 | 2022-05-06 |  |
 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 | 2022-05-06 |  |
 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 | 2022-05-06 |  |
+| [Momma We Made It](https://open.spotify.com/track/7lsOC2r0VwEQhWcAToVdrQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Prophetess Joyce Haddon](https://open.spotify.com/artist/6AGnWgeJe46NcVVKkpBYjx) | [Momma We Made It](https://open.spotify.com/album/0pwxVeIOqu7OG8S2SHQdnn) | 3:52 | 2024-05-10 |  |
 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 | 2022-05-06 |  |
 | [More Than I Could Be](https://open.spotify.com/track/5eeRjz62jBGLuLgjxVI1AR) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:14 | 2022-05-06 |  |
 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 | 2022-05-06 |  |
@@ -95,7 +96,7 @@
 | [Talking To Jesus \(Live from The Ryman\)](https://open.spotify.com/track/5tSChUjjjk0dQQHSWqAObG) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Talking To Jesus \(Live from The Ryman\)](https://open.spotify.com/album/7E9vyxAfIWcCmWkEHbZoN4) | 7:30 | 2023-05-14 |  |
 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/0vWiWRMCInBaqmJPiNCoTR) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Tell Your Heart To Beat Again](https://open.spotify.com/album/7CrY1VcYjRqeTSyQ171ke8) | 3:53 | 2022-05-06 | 2022-11-13 |
 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 | 2022-05-06 | 2023-11-03 |
-| [Tell Your Heart to Beat Again](https://open.spotify.com/track/5aTnHLb3N64yshgD8i5Emn) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope in Front of Me](https://open.spotify.com/album/7fY3WG6Ae45UiPbFYPDYCX) | 3:53 | 2023-05-14 |  |
+| [Tell Your Heart to Beat Again](https://open.spotify.com/track/5aTnHLb3N64yshgD8i5Emn) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope in Front of Me](https://open.spotify.com/album/7fY3WG6Ae45UiPbFYPDYCX) | 3:53 | 2023-05-14 | 2024-05-12 |
 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/6Jmxn8oQ0oKepxEusNbTPA) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:53 | 2023-05-14 | 2024-04-19 |
 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 | 2022-05-06 |  |
 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 | 2022-05-06 |  |

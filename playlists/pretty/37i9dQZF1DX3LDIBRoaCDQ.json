@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1563594,
+  "num_followers": 1563803,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Candy Apple Grey",
         "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -431,22 +447,6 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 120360,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Suspect Device",
-      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100600,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
       },
       "artists": [
         {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+      "duration_ms": 100600,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -751,6 +735,22 @@
       "duration_ms": 188306,
       "name": "Trash",
       "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-01-11 00:51:37",
       "album": {
-        "name": "Pure Mania",
-        "url": "https://open.spotify.com/album/1FSQBoO0bABGyl4nQssw2E"
+        "name": "The Early Stuff (The UA Years)",
+        "url": "https://open.spotify.com/album/6l84uahnGqx5ipK68CZ7jm"
       },
       "artists": [
         {
-          "name": "The Vibrators",
-          "url": "https://open.spotify.com/artist/0DkpQq8B7ZAKebZEjlzVmd"
+          "name": "999",
+          "url": "https://open.spotify.com/artist/14IKysoZ0qyGRsIiTk1Ase"
         }
       ],
-      "duration_ms": 136733,
-      "name": "Stiff Little Fingers",
-      "url": "https://open.spotify.com/track/73RUE4WBDyKp8jE2CL3eBc"
+      "duration_ms": 266333,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7GEcsoCxXmGJScfZpXBvzQ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-01-11 00:51:37",
       "album": {
-        "name": "The Early Stuff (The UA Years)",
-        "url": "https://open.spotify.com/album/6l84uahnGqx5ipK68CZ7jm"
+        "name": "Pure Mania",
+        "url": "https://open.spotify.com/album/1FSQBoO0bABGyl4nQssw2E"
       },
       "artists": [
         {
-          "name": "999",
-          "url": "https://open.spotify.com/artist/14IKysoZ0qyGRsIiTk1Ase"
+          "name": "The Vibrators",
+          "url": "https://open.spotify.com/artist/0DkpQq8B7ZAKebZEjlzVmd"
         }
       ],
-      "duration_ms": 266333,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7GEcsoCxXmGJScfZpXBvzQ"
+      "duration_ms": 136733,
+      "name": "Stiff Little Fingers",
+      "url": "https://open.spotify.com/track/73RUE4WBDyKp8jE2CL3eBc"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Hypnotised (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
       "artists": [
         {
-          "name": "The Undertones",
-          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1276,25 +1276,25 @@
           "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Generation X (2002 Remaster)",
-        "url": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
+        "name": "Hypnotised (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
       },
       "artists": [
         {
-          "name": "Generation X",
-          "url": "https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe"
+          "name": "The Undertones",
+          "url": "https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt"
         }
       ],
-      "duration_ms": 187666,
-      "name": "One Hundred Punks - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4Hf6y10d0AJyYsUD7uJf5o"
+      "duration_ms": 148706,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Generation X (2002 Remaster)",
+        "url": "https://open.spotify.com/album/3ROCE9iLv47ne4IlwNpkuu"
+      },
+      "artists": [
+        {
+          "name": "Generation X",
+          "url": "https://open.spotify.com/artist/1inWec2E2UgfzMAhwjgTXe"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "One Hundred Punks - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4Hf6y10d0AJyYsUD7uJf5o"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Ramones (Expanded)",
         "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1420,25 +1420,9 @@
           "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1455,6 +1439,22 @@
       "duration_ms": 166120,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
     },
     {
       "added_at": "2022-11-28 15:26:19",

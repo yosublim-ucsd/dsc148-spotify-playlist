@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-81 songs - 3 hr 33 min
+83 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [741 Hz \- Throat Chakra](https://open.spotify.com/track/2TDP32PcejBzoXJDQs0gnY) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Solfeggio Sound Bath](https://open.spotify.com/artist/3JKh8aHFH7ALz2GIvJB0p3) | [741 Hz Throat Chakra \- Solfeggio Frequency Series](https://open.spotify.com/album/2WcpUhZ0F2R7N8Jih2qClk) | 1:00 | 2023-03-10 | 2024-03-14 |
 | [741 Hz \- Tides of Eternity](https://open.spotify.com/track/5EuH4B3Kb46T2cKpqLCaHA) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 1:38 | 2023-03-10 | 2024-03-14 |
 | [741 Hz \- Why The Rush](https://open.spotify.com/track/4pK6mR2hWLOjWTEQDrerCk) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
+| [741 Hz Articulate Oscillation](https://open.spotify.com/track/2ckZmwE8mxknNLgwyIoRc1) | [fragile eyes](https://open.spotify.com/artist/0nM9BcwyEiW5nroAbt9tBf) | [741 Hz Articulate Oscillation](https://open.spotify.com/album/1TYzTe9q79rBlY1IkQs7wk) | 2:28 | 2024-05-11 |  |
+| [741 Hz Clear Thought Chorus](https://open.spotify.com/track/67j0AhzrXOmgB9fv7R2I3w) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [741 Hz Clear Thought Chorus](https://open.spotify.com/album/5cQPlxJkJJVC16MAAHl2YV) | 2:23 | 2024-05-11 |  |
 | [741 Hz Deepened Gaze](https://open.spotify.com/track/41ZqKmkwsLCtCCPyjfwNIv) | [Heartbeat Sirens](https://open.spotify.com/artist/2QGCx78xpOiCXoKRvJMEYY) | [741 Hz Deepened Gaze](https://open.spotify.com/album/6vgwSkTE1dgmO4WYMNBMRH) | 2:59 | 2023-11-30 |  |
 | [741 Hz Gentle Breathing](https://open.spotify.com/track/45mF3fxXkhXGHldyZy3k2a) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:22 | 2023-03-10 | 2023-08-08 |
 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 | 2023-03-10 |  |

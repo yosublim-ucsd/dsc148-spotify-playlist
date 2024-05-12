@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE, Post Malone, Ice Spice,  SEKAI NO OWARI and more! cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,211 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,332 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 75 | [Switch](https://open.spotify.com/track/23go39MHs82n7ZuFUFFda6) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Switch](https://open.spotify.com/album/1WiDQdLHHTm23MIHPAuxje) | 2:54 |
 | 76 | [Most Definitely](https://open.spotify.com/track/098rsNELupiqnutsfFUeKt) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Most Definitely](https://open.spotify.com/album/79BMhiSb5NwMmRhH7etk6y) | 3:26 |
 | 77 | [G.O.H](https://open.spotify.com/track/4BLLKfDFwepJQbAn6xL167) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 2:28 |
-| 78 | [Everybody](https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD) | [W.F.N.D RADIO](https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM) | 2:37 |
+| 78 | [Everybody](https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD) | [Everybody](https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM) | 2:37 |
 | 79 | [Happy Slides](https://open.spotify.com/track/1AzCaSTj5ZiE5Kz1Bk4uI8) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Happy Slides](https://open.spotify.com/album/264LI8XtPmUKAf0RMxFbVF) | 3:15 |
 | 80 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 |
 | 81 | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/track/2Dw6yvvZEStwyr5xPnudaJ) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/album/1TMSyOYQglfAuZqzL3B3JQ) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 585610,
+  "num_followers": 585685,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Life Is Long",
         "url": "https://open.spotify.com/album/3ZSrOi2JWzJUWg6CZ8QCoy"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 219502,
       "name": "Life Is Long - ESCQ Remix",
       "url": "https://open.spotify.com/track/1Ts0ItPHx59El49QqVeWuF"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
-        }
-      ],
-      "duration_ms": 148668,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 166526,
       "name": "Busy",
       "url": "https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "duration_ms": 148668,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/3e2btgBFWY3kzpobOTRCN2"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/36fHADliwp4ColP0Gypg5W"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Highness",
+        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
+      },
+      "artists": [
+        {
+          "name": "Nosoyo",
+          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
+        }
+      ],
+      "duration_ms": 193766,
+      "name": "Highness",
+      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Raincoats",
         "url": "https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 157208,
       "name": "Raincoats",
       "url": "https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
-        "name": "Highness",
-        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
-      },
-      "artists": [
-        {
-          "name": "Nosoyo",
-          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
-        }
-      ],
-      "duration_ms": 193766,
-      "name": "Highness",
-      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "shame",
         "url": "https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 268235,
       "name": "cbb to b sad",
       "url": "https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "1969 - Conrad",
-        "url": "https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V"
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
       "artists": [
         {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
         }
       ],
-      "duration_ms": 158759,
-      "name": "1969 - Conrad",
-      "url": "https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz"
+      "duration_ms": 159454,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
+        "name": "1969 - Conrad",
+        "url": "https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V"
       },
       "artists": [
         {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
         }
       ],
-      "duration_ms": 159454,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
+      "duration_ms": 158759,
+      "name": "1969 - Conrad",
+      "url": "https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W"
-      },
-      "artists": [
-        {
-          "name": "Pool",
-          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "We Wake Up In The Garden",
         "url": "https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190000,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Power of Denial",
-        "url": "https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT"
-      },
-      "artists": [
-        {
-          "name": "Pool",
-          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
-        }
-      ],
-      "duration_ms": 314020,
-      "name": "Power of Denial",
-      "url": "https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Calm Me Down",
         "url": "https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 197690,
       "name": "Sixth Gear",
       "url": "https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "Power of Denial",
+        "url": "https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "duration_ms": 314020,
+      "name": "Power of Denial",
+      "url": "https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "20 Something",
-        "url": "https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ"
-      },
-      "artists": [
-        {
-          "name": "Pool",
-          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 203421,
       "name": "Divine",
       "url": "https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
+        "name": "20 Something",
+        "url": "https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Demos 2004-2008",
-        "url": "https://open.spotify.com/album/78GRcDIvVdv5UgzsWFFrSR"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 105874,
-      "name": "Always Like This (Demo)",
-      "url": "https://open.spotify.com/track/5QnnUPcjIMTUpIrU4qwAf6"
-    },
-    {
-      "added_at": "2024-03-28 23:00:00",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
+        "name": "Demos 2004-2008",
+        "url": "https://open.spotify.com/album/78GRcDIvVdv5UgzsWFFrSR"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Always Like This (Demo)",
+      "url": "https://open.spotify.com/track/5QnnUPcjIMTUpIrU4qwAf6"
+    },
+    {
+      "added_at": "2024-03-28 23:00:00",
+      "album": {
         "name": "Take Me Out",
         "url": "https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS"
+        "name": "What Were You Hoping to Find?",
+        "url": "https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 202310,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG"
+      "duration_ms": 225613,
+      "name": "What Were You Hoping to Find?",
+      "url": "https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7"
     },
     {
       "added_at": "2024-03-28 23:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-28 23:00:00",
       "album": {
-        "name": "What Were You Hoping to Find?",
-        "url": "https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp"
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
         }
       ],
-      "duration_ms": 225613,
-      "name": "What Were You Hoping to Find?",
-      "url": "https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7"
+      "duration_ms": 202310,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG"
     },
     {
       "added_at": "2024-03-28 23:00:00",

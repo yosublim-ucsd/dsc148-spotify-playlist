@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-317 songs - 19 hr 0 min
+318 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,11 +234,12 @@
 | [Rollin'](https://open.spotify.com/track/07qt4S3jLW6yIx5vNtRpvj) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Eli Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Departure](https://open.spotify.com/album/4HpqV8YH4vqpn24vKwZyzo) | 3:15 | 2021-12-10 | 2022-07-28 |
 | [Rollin' \(with Eli Mac\)](https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Departure](https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5) | 3:15 | 2022-08-05 | 2024-04-19 |
 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 | 2021-12-10 |  |
+| [Rush Hour \(with Bryce Vine\)](https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Rush Hour \(with Bryce Vine\)](https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi) | 3:08 | 2024-05-10 |  |
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-07-06 | 2024-04-19 |
 | [Santeria](https://open.spotify.com/track/6cJqlSO19vsfCsH1FeFI35) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 3:03 | 2024-03-05 |  |
 | [Satisfied](https://open.spotify.com/track/0dE7c9rhBuEahVmYVYuooI) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Satisfied](https://open.spotify.com/album/2CqyHQWIDvcL6SsuDhDl7J) | 3:16 | 2021-12-10 | 2022-07-29 |
 | [Serotonin](https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Serotonin](https://open.spotify.com/album/6h9Kly7pr9XLMHfx3cVc2x) | 3:01 | 2021-12-10 | 2022-06-22 |
-| [Set In Stone \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Set In Stone \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy) | 3:12 | 2023-06-07 |  |
+| [Set In Stone \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Set In Stone \(with Jared Watson of Dirty Heads\)](https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy) | 3:12 | 2023-06-07 | 2024-05-12 |
 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 | 2021-12-10 |  |
 | [Setting Out for the Sun](https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [Spencer Thomson](https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw) | [Setting Out for the Sun](https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm) | 4:30 | 2024-03-05 |  |
 | [Shine](https://open.spotify.com/track/6MJxu3pi5nLCA87DQef9RO) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Shine](https://open.spotify.com/album/0NDHm6f1dH5sVMBo9sYZk5) | 3:06 | 2021-12-10 |  |

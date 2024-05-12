@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 30870,
+  "num_followers": 30877,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Get You The Moon (feat. Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Get You The Moon (feat. Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Get You The Moon (feat. Sn\u00f8w)",
+        "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Get You The Moon (feat. Sn\u00f8w)",
+      "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "RUNNING.",
-        "url": "https://open.spotify.com/album/3pLyNj3mU1VLB96ygWzMIk"
+        "name": "hurts to love you",
+        "url": "https://open.spotify.com/album/3Qt3dygxXdL8mMz0JsTAmd"
       },
       "artists": [
         {
-          "name": "Alf the Great",
-          "url": "https://open.spotify.com/artist/2CHRX5BrfgKVIEWcH4Nsyh"
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
         }
       ],
-      "duration_ms": 195230,
-      "name": "RUNNING.",
-      "url": "https://open.spotify.com/track/7izJXzEXqckE3fzKIz9bSw"
+      "duration_ms": 177011,
+      "name": "hurts to love you",
+      "url": "https://open.spotify.com/track/4fYGtQT2HDz9K6I2j6sPiG"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2255,18 +2255,18 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "hurts to love you",
-        "url": "https://open.spotify.com/album/3Qt3dygxXdL8mMz0JsTAmd"
+        "name": "RUNNING.",
+        "url": "https://open.spotify.com/album/3pLyNj3mU1VLB96ygWzMIk"
       },
       "artists": [
         {
-          "name": "Carla Wehbe",
-          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+          "name": "Alf the Great",
+          "url": "https://open.spotify.com/artist/2CHRX5BrfgKVIEWcH4Nsyh"
         }
       ],
-      "duration_ms": 177011,
-      "name": "hurts to love you",
-      "url": "https://open.spotify.com/track/4fYGtQT2HDz9K6I2j6sPiG"
+      "duration_ms": 195230,
+      "name": "RUNNING.",
+      "url": "https://open.spotify.com/track/7izJXzEXqckE3fzKIz9bSw"
     },
     {
       "added_at": "2024-03-25 09:59:40",

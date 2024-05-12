@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,448 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,488 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 11 | [يا نسمة خلي](https://open.spotify.com/track/1pod4oJ1ZWGBYKaiZJHUrm) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [يا نسمة خلي](https://open.spotify.com/album/2RQOFzVKkY4adgisGGAOr2) | 4:27 |
 | 12 | [يا شوق](https://open.spotify.com/track/5xD0wRpgRsC3yG1zU3OLq1) | [عبدالله الأهدل](https://open.spotify.com/artist/3uVHL0FRqyD1wVZNxxoqSg) | [يا شوق](https://open.spotify.com/album/1Pku1vAYRuVh774AhygjTj) | 3:34 |
 | 13 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
-| 14 | [ياحرامي](https://open.spotify.com/track/6i6tTxSVVyEuStYIU53KKy) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [يا مجرم يا حرامي](https://open.spotify.com/album/2xnxfz3WeV8pDuXY4DTjdA) | 3:05 |
+| 14 | [يا مجرم يا حرامي](https://open.spotify.com/track/6i6tTxSVVyEuStYIU53KKy) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [يا مجرم يا حرامي](https://open.spotify.com/album/2xnxfz3WeV8pDuXY4DTjdA) | 3:05 |
 | 15 | [Atmna Shoftak](https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Atmna Shoftak](https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF) | 2:52 |
 | 16 | [طلتك فالعيد](https://open.spotify.com/track/5VWFTABm43JZ7HU0OJecmz) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [طلتك فالعيد](https://open.spotify.com/album/7eSI9AMr3sMjCI76cpg9wK) | 4:11 |
 | 17 | [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 |

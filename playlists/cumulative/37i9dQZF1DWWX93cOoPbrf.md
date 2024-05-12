@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2024\. Michelle Maciel y Oscar Ortiz en portada.
 
-1,116 songs - 2 day 9 hr 16 min
+1,117 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [A Veces Me Acelero](https://open.spotify.com/track/7nOIaI6s21Tie0lQmu0lfv) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [A Veces Me Acelero](https://open.spotify.com/album/2gAKw1ufXAC4JOQ9EkDNGx) | 2:36 | 2023-02-17 | 2023-03-11 |
 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 | 2024-01-19 | 2024-03-02 |
 | [AGDREZ](https://open.spotify.com/track/3tvrBMdrl9M5kFjvTCs4m3) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [AGDREZ](https://open.spotify.com/album/3NttwP3MLtQPtEPofkqDn9) | 2:25 | 2023-11-17 | 2023-11-25 |
+| [Agradecido](https://open.spotify.com/track/3emqFgMGjOCaFjbgNsQ4rS) | [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4), [Dani G](https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq) | [Agradecido](https://open.spotify.com/album/7vayl5gyvmVJk7uaGtEEoT) | 3:17 | 2024-05-10 |  |
 | [Aguas Turbulentas](https://open.spotify.com/track/290Ug0y2nZJ8bamtgu435i) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aguas Turbulentas](https://open.spotify.com/album/69wLMt4yFfuHuueICXyo44) | 2:16 | 2022-07-22 | 2022-09-03 |
 | [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2022-10-14 | 2023-01-21 |
 | [Ahí Les Encargo](https://open.spotify.com/track/4r09yGOCBWiE53hrocKEk7) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Grupo Sin Rumbo](https://open.spotify.com/artist/2mpqANx94jc63KBSG9R4K4) | [Ahí Les Encargo](https://open.spotify.com/album/2zxqhFZBBP9SFath4z65pd) | 2:47 | 2024-03-29 |  |

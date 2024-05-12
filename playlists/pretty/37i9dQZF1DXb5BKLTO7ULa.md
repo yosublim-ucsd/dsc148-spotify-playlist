@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Siggy & D1ns 🚗
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,418 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,436 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [F.O.M.O.](https://open.spotify.com/track/6Lzd2arjqUFyDn1SOtbHkQ) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [F.O.M.O.](https://open.spotify.com/album/3zq1bFfj1aozZz1TyKMewE) | 2:48 |
 | 66 | [Een Crush Op \(Roxy\)](https://open.spotify.com/track/59UIvPQ0x9vla5Eibmz08O) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Een Crush Op \(Roxy\)](https://open.spotify.com/album/0RRtK7q8zc6NyoejgFPrtJ) | 2:03 |
 | 67 | [Time Will Tell](https://open.spotify.com/track/6XhwSh89lYobx3M5LE8vHO) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Time Will Tell](https://open.spotify.com/album/3PbDdReywktWEnHMcU7TF4) | 4:04 |
-| 68 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:01 |
+| 68 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 |
 | 69 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 |
 | 70 | [Kill The Itch](https://open.spotify.com/track/5LnuCLFbSthhuip0ytSJfi) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Kill The Itch](https://open.spotify.com/album/2zJTTInYGeoD79lAKOZnWX) | 2:51 |
 | 71 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 82 | [Pandapunten](https://open.spotify.com/track/0TvoB574iZgDZ8uef7zMo4) | [Jeppe](https://open.spotify.com/artist/4vtc7NzqkXY1XFs2qRUPky) | [Pandapunten](https://open.spotify.com/album/2BuiVjTVtKSRESAOFZL3c4) | 2:32 |
 | 83 | [Dooset Daram](https://open.spotify.com/track/1GFpxuBvfCaAyNGOpi268s) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/0BgQ0iwMzHikdGjK2rHwFI) | 2:48 |
 | 84 | [Purpose](https://open.spotify.com/track/57Dm9WDx9tD5FTtLxqdRAp) | [Lotte Walda](https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6) | [Purpose](https://open.spotify.com/album/584aFZC1tcr8edBg07KEL4) | 2:41 |
-| 85 | [Head Lost](https://open.spotify.com/track/4QmhO8SrFK5UoPZp0nA6pi) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [SXCHA](https://open.spotify.com/artist/2KNvEKI8I6hD4LxvfkV3QK) | [Head Lost](https://open.spotify.com/album/3ZBvZhSYd0jxzjhsJh1bMS) | 2:51 |
+| 85 | [Head Lost](https://open.spotify.com/track/4QmhO8SrFK5UoPZp0nA6pi) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Sxcha](https://open.spotify.com/artist/11LKt4jtGtuoCUnGLARZOF) | [Head Lost](https://open.spotify.com/album/3ZBvZhSYd0jxzjhsJh1bMS) | 2:51 |
 | 86 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
 | 87 | [Shake, Shake](https://open.spotify.com/track/7nJYRfu1VrUDHSXr34m2Mj) | [THAMES](https://open.spotify.com/artist/0l83GTJMwwB89s5Y9iDmPt) | [Shake, Shake](https://open.spotify.com/album/2MYwCF2tnS33Y4TKM5IuPV) | 2:12 |
 | 88 | [screw loose](https://open.spotify.com/track/1AsTELn6ckYv7KpfwR8vpV) | [Call It Off](https://open.spotify.com/artist/1xeXoARn56ShS6syoZcdFR) | [screw loose](https://open.spotify.com/album/4pyeZQGKvUcJHnfhPthHy7) | 2:56 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 94 | [Bad Met Me Girls](https://open.spotify.com/track/7lTSV0kwYuloAUjJq0LYsy) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq) | [Bad Met Me Girls](https://open.spotify.com/album/1WVKNsVrOFWQGbY7aWVBIy) | 2:32 |
 | 95 | [Slokje](https://open.spotify.com/track/0Q2eBh8AeEp6N7gYEMxgXA) | [NIEMAND](https://open.spotify.com/artist/45Wf0l1kVk2wWrHe1z7pEX) | [Slokje](https://open.spotify.com/album/66nheVwKsOCM2XqhH4p44J) | 2:32 |
 | 96 | [Lavera](https://open.spotify.com/track/7ggzuUDg0D0I4H5hJNRmL4) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Lavera](https://open.spotify.com/album/543dTmWZ3hA0GncoBFrgRC) | 2:41 |
-| 97 | [Need You Right Here](https://open.spotify.com/track/2iY0LQXnafGAeoKb4syeZ6) | [DINA](https://open.spotify.com/artist/1uQe87XogdfYIUaAWax6D8), [Luigino](https://open.spotify.com/artist/1N7ounz07hoXmgZWFH5cum) | [Good Morning](https://open.spotify.com/album/6gVhkvNKMT9EDJwXFOovKK) | 3:31 |
+| 97 | [Need You Right Here](https://open.spotify.com/track/2iY0LQXnafGAeoKb4syeZ6) | [DINA](https://open.spotify.com/artist/1uQe87XogdfYIUaAWax6D8), [Luigino](https://open.spotify.com/artist/2pf8jC4zgC3QZeWx0FFA3i) | [Good Morning](https://open.spotify.com/album/6gVhkvNKMT9EDJwXFOovKK) | 3:31 |
 | 98 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
 | 99 | [Famous Lost Words](https://open.spotify.com/track/2S0MUuVffwTvpr0O4yJPBk) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Famous Lost Words](https://open.spotify.com/album/5O44irhdWBy5r8QBW4hzS1) | 2:13 |
 | 100 | [Quality Pints](https://open.spotify.com/track/2gzR9HTEv8wOiaOuJcYwsS) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Quality Pints](https://open.spotify.com/album/6xDXc50MhkzkXi3rEDlocd) | 2:18 |

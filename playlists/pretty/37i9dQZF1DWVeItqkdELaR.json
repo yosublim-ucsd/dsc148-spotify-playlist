@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 106014,
+  "num_followers": 106020,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 187636,
       "name": "Quer Voar",
       "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp"
-      },
-      "artists": [
-        {
-          "name": "Nininho Vaz Maia",
-          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 159115,
       "name": "C\u00ea N\u00e3o Tem No\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp"
+      },
+      "artists": [
+        {
+          "name": "Nininho Vaz Maia",
+          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP"
     },
     {
       "added_at": "2023-08-29 17:00:51",

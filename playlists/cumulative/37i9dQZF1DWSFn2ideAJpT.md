@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-65 songs - 3 hr 18 min
+71 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 | 2023-07-13 |  |
 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 | 2023-07-13 | 2023-12-01 |
 | [Clear Thoughts 963 Hz](https://open.spotify.com/track/6U6bqFochoIv5csr5r98Gk) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Clear Thoughts 963 Hz](https://open.spotify.com/album/4N2Sj7ptvj0cuKxaarrFXk) | 2:30 | 2023-07-13 |  |
+| [Cloudland Meditation 963 Hz](https://open.spotify.com/track/1voYfiVkjfnlSZkL5F5cN7) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Cloudland Meditation 963 Hz](https://open.spotify.com/album/4HWGEX0udBWkhxZqGVkvLJ) | 3:23 | 2024-05-11 |  |
 | [Crown](https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:00 | 2023-07-13 |  |
 | [Crown Chakra](https://open.spotify.com/track/7e4VVEtuJaR31tAihmuASY) | [J.S\. Epperson](https://open.spotify.com/artist/6TszRl42IkrELc7p9a611Y) | [Splendor \(432hz Chakra Meditations\)](https://open.spotify.com/album/5zq3f6Cdg9rDBXnx6WwvsH) | 9:00 | 2023-07-13 | 2023-12-01 |
 | [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2023-07-13 | 2023-12-01 |
@@ -46,8 +47,9 @@
 | [Crown Chakra Singing Bowl](https://open.spotify.com/track/3rGpsgObsOHHO5pCG6t4r6) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:30 | 2023-07-13 |  |
 | [Crown Solfeggio 963 Hz](https://open.spotify.com/track/7EFfT9fSZNRjHHHOMaVpkJ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:50 | 2023-11-30 |  |
 | [Deep Energy Cleansing 963 Hz](https://open.spotify.com/track/0rux7MpkP12CtygdwsQqcr) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Deep Energy Cleansing](https://open.spotify.com/album/1qPqbBL3EzSDOI7eJGbzpj) | 2:50 | 2023-07-13 |  |
+| [Dissolving Tension 963 Hz](https://open.spotify.com/track/06bjoMmEMTXh2Xv5Xp7Acu) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Dissolving Tension 963 Hz](https://open.spotify.com/album/4jfmV4UmZum9mhBTXuo4Jw) | 3:24 | 2024-05-11 |  |
 | [Divine Hemispheres 963 Hz](https://open.spotify.com/track/3lnR4q4hog4TLdisyEXS97) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Divine Hemispheres 963 Hz](https://open.spotify.com/album/4B9ApONvomSvUlR6lIiNEo) | 2:55 | 2023-07-13 |  |
-| [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-03-13 |  |
+| [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-03-13 | 2024-05-12 |
 | [Golden Intuition 963Hz](https://open.spotify.com/track/0HFNgMACGjYIen6R3vf4dk) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Golden Intuition 963Hz](https://open.spotify.com/album/6OvmLeuNefIkVJ879kpoc6) | 3:06 | 2023-07-13 |  |
 | [Harmonizing Crown Chakra](https://open.spotify.com/track/4bWp3WpPKS92o4hoWLsRjH) | [Vincent de Carsenti](https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs) | [All the Ways of God \(Meditative Music\)](https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD) | 1:04 | 2023-07-13 | 2023-12-01 |
 | [Higher Self 963 Hz](https://open.spotify.com/track/36c9hZ9vpMyKbHbg8geYvL) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:16 | 2023-07-13 |  |
@@ -67,8 +69,12 @@
 | [settledown](https://open.spotify.com/track/3BI9RpTqlOwDWtd07DwwTG) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [eight gates](https://open.spotify.com/album/4Am2qvDvSMGEsezSLsUH0z) | 2:43 | 2023-07-13 |  |
 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 | 2023-07-13 |  |
 | [Solfeggio Frequencies 963 Hz](https://open.spotify.com/track/2gHFh7SkAwBy3ORnk3TCqv) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [963 Hz Returning to Oneness](https://open.spotify.com/album/4sOv6RfJastljQWgYeLFzW) | 2:38 | 2023-07-13 |  |
+| [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 | 2024-05-11 |  |
 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2023-07-13 |  |
+| [Taking Time \- 963 Hz](https://open.spotify.com/track/2evSXLOTpNdEAPIYKthWny) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Taking Time \- 963 Hz](https://open.spotify.com/album/6gWgxZt7OpnflNuI9wRDko) | 2:46 | 2024-05-11 |  |
 | [The Sun Rises 963 Hz](https://open.spotify.com/track/17PJlpabKuibnvTzwaku34) | [Tina Cirdan](https://open.spotify.com/artist/2Z6i464SdZrhdL6jUtjW6p) | [The Sun Rises 963 Hz](https://open.spotify.com/album/2yW0YdtOgYfI6Rar2lMzRc) | 2:48 | 2023-07-13 | 2023-12-01 |
+| [Unburdened Mind 963 Hz](https://open.spotify.com/track/5FNporQDCglKMUeQZEvGVm) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Unburdened Mind 963 Hz](https://open.spotify.com/album/3vGdOe2dqcsJuUpZPCnuVy) | 2:40 | 2024-05-11 |  |
+| [Unfolding Light 963 Hz](https://open.spotify.com/track/06NWigNtwotY9EsIuBoNl9) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Unfolding Light 963 Hz](https://open.spotify.com/album/5o2R2PpEs5WfNRaipVWSHJ) | 2:54 | 2024-05-11 |  |
 | [Unrushed](https://open.spotify.com/track/4W6T0dEvuRxi9FE5SrqVwI) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 3:17 | 2023-07-13 |  |
 | [Vast and Blue](https://open.spotify.com/track/4vPn1w8F2RVZWL1RJW7nu4) | [Gloaming Days](https://open.spotify.com/artist/5ZiQ5zqmQTnqqWqbHRBm2W) | [Vast and Blue](https://open.spotify.com/album/6dZY0ClK1TwoV7ISsnepfk) | 2:21 | 2023-07-13 |  |
 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 | 2023-07-13 |  |

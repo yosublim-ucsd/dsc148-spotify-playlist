@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,170 likes - 110 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,196 likes - 110 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 83 | [Dance The Darkness Away](https://open.spotify.com/track/0t05AN9nV8nwA0hPMN6pYC) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Dance The Darkness Away](https://open.spotify.com/album/6yWMLOpfECgJ4ZYCQnOb8S) | 3:21 |
 | 84 | [Raze the Bar](https://open.spotify.com/track/35rrbssZ9Bqm3jk7E9uVmo) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Raze the Bar](https://open.spotify.com/album/2dgQcPmMYnsuscr2YbLQex) | 3:05 |
 | 85 | [Vanen](https://open.spotify.com/track/36rBbIrh23n0Xx231brVaI) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Vanen](https://open.spotify.com/album/4c63wesTJUIhilYI7uUvSt) | 3:09 |
-| 86 | [Suicide Thoughts](https://open.spotify.com/track/48ZCUvG20vdGCHInM2jMlH) | [Unge Beirut](https://open.spotify.com/artist/1EpffIj09UqFpiBvtO2F31), [Oz](https://open.spotify.com/artist/4V8XJXRjr4oIG1vaaJSHSY) | [Fra Midtøstens Paris](https://open.spotify.com/album/5iAT62xm67ZOIwsBkTr5Nq) | 3:06 |
+| 86 | [Suicide Thoughts](https://open.spotify.com/track/48ZCUvG20vdGCHInM2jMlH) | [Unge Beirut](https://open.spotify.com/artist/1EpffIj09UqFpiBvtO2F31), [Oz](https://open.spotify.com/artist/4okuYKoXnApqQebWH99ZCa) | [Fra Midtøstens Paris](https://open.spotify.com/album/5iAT62xm67ZOIwsBkTr5Nq) | 3:06 |
 | 87 | [Lever Kun For I Kveld](https://open.spotify.com/track/14JpNBLBJ0XWRqmgAQXrQa) | [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p), [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe) | [Lever Kun For I Kveld](https://open.spotify.com/album/25PVUnc3GClfJ4QhBubw4Q) | 2:26 |
 | 88 | [Lær mæ å dans](https://open.spotify.com/track/3GeqtzmZhPEhmYXKNrzwnl) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Tårer i en blomstereng](https://open.spotify.com/album/0sdCloogu48RpIiuCdUiKg) | 2:47 |
 | 89 | [Birds & Honey](https://open.spotify.com/track/2LqT8xmeZFdEetLcSHx9Fo) | [P\-Flow](https://open.spotify.com/artist/1JmG7XnrUj8rRjilgiBifF) | [Birds & Honey](https://open.spotify.com/album/7p55Y8vrB3Nk8Qjg05eO50) | 3:14 |

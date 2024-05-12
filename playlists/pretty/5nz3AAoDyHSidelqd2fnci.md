@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 38 min 14 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 39 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ignition](https://open.spotify.com/track/50tVIVCKbRHn0wUvvWHkh5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade \(Special Edition\)](https://open.spotify.com/album/0xfsWTrOdJ5SeROGwx981O) | 3:54 |
-| 2 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
-| 3 | [Molinos De Viento](https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La Leyenda De La Mancha](https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7) | 4:11 |
-| 4 | [STRANGER](https://open.spotify.com/track/3kCldWYIhSy8kEvAWo1VJm) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [STRANGER](https://open.spotify.com/album/6gSBxqPuN6AXr7fex6doay) | 2:27 |
-| 5 | [All I Need](https://open.spotify.com/track/24YMfPZROqG0FGrxXSUcpR) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:05 |
-| 6 | [Cello](https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 1:33 |
-| 7 | [Bohemian Rhapsody \- Live Aid](https://open.spotify.com/track/7xHATAMD7ezTZGYsNAMr5R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 2:27 |
-| 8 | [Black Box Messiah](https://open.spotify.com/track/3jMLV1tx7XJmpruB2u0tDB) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Pandoras Pinata](https://open.spotify.com/album/35QqILuoqqywpmYbx3DfF1) | 2:57 |
-| 9 | [So You Win Again](https://open.spotify.com/track/1tMi57U5Nkk6qRZSNwbzQr) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:31 |
-| 10 | [Aces High](https://open.spotify.com/track/0M9DMRvqGZWKxg3DQtYEic) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder \(International Edition\)](https://open.spotify.com/album/55H8LerEv2RiQ219d9oPeA) | 4:27 |
-| 11 | [Sound the Alarm V\. 2.0](https://open.spotify.com/track/1Xqb2zJasoxaw93yAOe3g4) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Old Record](https://open.spotify.com/album/4ErCkgLzJv49m980DrsC19) | 1:48 |
-| 12 | [Como Caramelo De Limón](https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Valentin Alsina](https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC) | 2:09 |
+| 1 | [Message In A Bottle](https://open.spotify.com/track/0LhILIVhWTJz6eEsbEreZG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/5vLIfhDpTmdyQ0YrlnXzSr) | 4:48 |
+| 2 | [1000 Fucks Ago](https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP) | [Aria Lisslo](https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl) | [1000 Fucks Ago](https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT) | 3:04 |
+| 3 | [La Paga](https://open.spotify.com/track/6jIM7iXk79zneuOOkxur3A) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Taboo](https://open.spotify.com/artist/1dghBBsMBTzeLETedzesv5) | [Mi Sangre](https://open.spotify.com/album/6XSSTHK08ICCZdS5AEq95R) | 3:31 |
+| 4 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
+| 5 | [Breaking Their Hold](https://open.spotify.com/track/1UWG1jelSQUvLpq5PQKMOB) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/46yRqBsLmCPBMumrBCY3kq) | 1:11 |
+| 6 | [Murder Mitten](https://open.spotify.com/track/0j1E4FGWRYsDIEbPxErZmf) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Phases](https://open.spotify.com/album/4TCSHfQpGu3VE1LRjcxp9f) | 4:03 |
+| 7 | [An Alternative to Disappointment](https://open.spotify.com/track/0RYQHQ5r3rIIKELy8lCoyQ) | [Aristide Massaccesi](https://open.spotify.com/artist/2aZERf6CrirzjPOyW9nW63) | [I Never Fall Apart Because I Never Fall Together](https://open.spotify.com/album/7C04d1tbK7cu4BP3Yr7MRz) | 3:27 |
+| 8 | [Crooked Young](https://open.spotify.com/track/1do4LtVHFwn6uaIKspj6Pb) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Deluxe Edition\)](https://open.spotify.com/album/4dhfdOEUI4tfqwdgouFTQA) | 3:34 |
+| 9 | [Refuse / Resist \- Instrumental Version](https://open.spotify.com/track/18vUmg5HJJsZeg42cgb9db) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Amplified \- A Decade Of Reinventing The Cello](https://open.spotify.com/album/7uKToMV32Ew1AJ9r6mvwno) | 3:11 |
+| 10 | [Los Angeles Is Burning](https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 3:23 |
+| 11 | [Tu Pan](https://open.spotify.com/track/59TX085bJLIiXKJ9EoW7Jb) | [Los Mentas](https://open.spotify.com/artist/0gt2Xy6uSRTFTWYrHOHx82) | [Taguaras Forever](https://open.spotify.com/album/2Tq5MiwvSbU3GCQVJPJfvY) | 2:59 |
+| 12 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 
-Snapshot ID: `AAAAbwIwi+fIjyIqqch8N9KRUNskUF8k`
+Snapshot ID: `AAAAcEooSDuvizd8J3DB989AHayFx2wp`

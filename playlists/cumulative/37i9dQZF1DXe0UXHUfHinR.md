@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-739 songs - 2 day 10 hr 4 min
+740 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [I Try](https://open.spotify.com/track/1ynhiM8AOkAFbK4BGBiYQg) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4mWblXjBpl7QjsjcVGq0hT) | 4:17 | 2024-03-20 |  |
 | [I Want To Talk About You](https://open.spotify.com/track/51SEkcIzdhHMwJkPkMmRzd) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [シーナリィ](https://open.spotify.com/album/5Uny0mkKiVGDat7H6SNDyS) | 6:32 | 2022-10-27 |  |
 | [I Was So Young, And You Were So Beautiful](https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Plays George Gershwin: The American Soul](https://open.spotify.com/album/7LZCmy2ZlEGnnYBxnvmCdo) | 3:54 | 2022-10-27 |  |
+| [I Wish I Knew](https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:50 | 2024-03-20 |  |
 | [I Wish You Love \- 2004 Remastered/Remixed](https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:00 | 2022-10-27 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:31 | 2022-10-27 |  |
 | [I'll Know](https://open.spotify.com/track/2OQiiPnoC7h2v3UprQa3zP) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 5:12 | 2022-12-22 | 2023-04-10 |
@@ -561,7 +562,7 @@
 | [Song for Ellis](https://open.spotify.com/track/4Uecyf82f85MdvnGLA4SWE) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:25 | 2023-08-23 |  |
 | [Song For Fraser](https://open.spotify.com/track/6WzTc2F3x6kJ4jJC2Fasqt) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Becoming \(Music from the Netflix Original Documentary\)](https://open.spotify.com/album/2ndDhPpR5sSsbtlJtsXCqi) | 2:20 | 2022-10-27 |  |
 | [Song For My Father](https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:18 | 2022-10-27 |  |
-| [Soul Eyes](https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Coltrane \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z) | 5:23 | 2023-02-15 |  |
+| [Soul Eyes](https://open.spotify.com/track/2h1o6yFR9Gjh8DqHwTy3M9) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Coltrane \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/10wMCm14OKokkMLfrOeF6Z) | 5:23 | 2023-02-15 | 2024-05-12 |
 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 | 2022-10-27 |  |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 | 2024-03-20 |  |
 | [Spain](https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Light As A Feather](https://open.spotify.com/album/2b53ZhXIiCGr3rPTYkpVeF) | 9:50 | 2022-10-27 |  |

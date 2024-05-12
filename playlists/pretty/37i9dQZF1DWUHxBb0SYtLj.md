@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Margherita Vicario
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,792 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,796 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 15 | [Fiammiferi](https://open.spotify.com/track/0iiV6F1qukb44kG2Tqx92J) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s), [cecilia](https://open.spotify.com/artist/0qfUD8we2TpzNAttGn5PL1) | [Fiammiferi](https://open.spotify.com/album/5Y04cuOYTqfn9qO0lMsHru) | 3:06 |
 | 16 | [Verso Casa](https://open.spotify.com/track/23mocQ2xxsFmktFFHdqfBh) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Verso Casa](https://open.spotify.com/album/3wmRFgx7Lr0YeUDBrEz5Qx) | 3:00 |
 | 17 | [comme se fa \(feat\. Caffellatte\)](https://open.spotify.com/track/3USrR85Bd4aB8n9AjgbBG8) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [comme se fa \(feat\. Caffellatte\)](https://open.spotify.com/album/3mMQxzZ03CZ1AJCLpweDGr) | 2:37 |
-| 18 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
+| 18 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
 | 19 | [Ritornerò](https://open.spotify.com/track/3IdhQHYSJvvpOwMVqPaSh0) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Ritornerò](https://open.spotify.com/album/27sySXNFsQ4vTDIyeWLSpc) | 2:48 |
 | 20 | [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 |
 | 21 | [Niente come te](https://open.spotify.com/track/1UF0avM3gYfFttKAexuKVH) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Niente come te](https://open.spotify.com/album/6LmlhLhKeWpDgzzQ6IO2F7) | 2:53 |

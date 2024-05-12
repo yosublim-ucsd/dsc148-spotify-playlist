@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Yaya Bey
 
-1,170 songs - 2 day 14 hr 1 min
+1,171 songs - 2 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2 Much Pride \(Interlude\)](https://open.spotify.com/track/0jC4hSRcgcIN8qcfSN7Wkf) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [The Interludes](https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7) | 2:16 | 2023-10-27 | 2024-02-24 |
 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 | 2023-03-24 | 2023-07-22 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-06-18 | 2022-07-16 |
-| [2000](https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [310917](https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F) | 2:48 | 2024-03-15 |  |
+| [2000](https://open.spotify.com/track/30buPDSZ65uTtIooKhU4cu) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [310917](https://open.spotify.com/album/6t14DeK1x8c9BpvpTaEL0F) | 2:48 | 2024-03-15 | 2024-05-12 |
 | [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 | 2023-10-19 |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 | 2024-01-20 |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-08-13 |
@@ -1159,6 +1159,7 @@
 | [X\-Rated \(feat\. Benny The Butcher\)](https://open.spotify.com/track/4XbTG98iWToBSfPrnd1sYB) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [X\-Rated \(feat\. Benny The Butcher\)](https://open.spotify.com/album/0YwprYa1UzKLlS3J2nlcPF) | 3:51 | 2022-05-20 | 2022-06-11 |
 | [Xtasy](https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Xtasy](https://open.spotify.com/album/4zH7FPMFwa1Q1D1e9ZP3lV) | 2:58 | 2022-05-20 | 2022-08-14 |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2022-09-16 | 2023-04-29 |
+| [XXX](https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [XXX](https://open.spotify.com/album/4cFpJm5EasHk1JXLQJlAbL) | 2:38 | 2024-05-10 |  |
 | [YOGA](https://open.spotify.com/track/4Sp0JZpae4D08l3E6gV1D8) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 3:11 | 2021-04-30 | 2022-01-10 |
 | [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 |  |
 | [You](https://open.spotify.com/track/7HyEVTcgQdkHGEvR565bTt) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [You](https://open.spotify.com/album/446ZiXI32FxjZZd9OBsdca) | 4:06 | 2022-04-01 | 2022-04-13 |

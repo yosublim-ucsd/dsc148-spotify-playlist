@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-474 songs - 21 hr 10 min
+478 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alana Kane](https://open.spotify.com/track/3ppjtvIsZZKhpqE9Kum87O) | [Sepia Tapes](https://open.spotify.com/artist/3PuHZwsr0txnw9NMq6b1kT) | [Alana Kane](https://open.spotify.com/album/1tsjznN93sGCO8veCY0GC7) | 1:55 | 2022-05-27 | 2023-07-29 |
 | [All Day, Everyday](https://open.spotify.com/track/5kZwvkt4TEvZ1uCzN6QTO4) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Underthoughts](https://open.spotify.com/album/5gk4FCDZZxwsVThU8ojzWi) | 3:29 | 2023-01-20 |  |
 | [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 | 2022-12-16 |  |
+| [All of the Things](https://open.spotify.com/track/0S8UQK5REKlicvcodwJFUu) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [All of the things](https://open.spotify.com/album/2J1j0tgQoPNMME5gYZ4t3V) | 3:40 | 2024-05-11 |  |
 | [altitude](https://open.spotify.com/track/1KZmXcYMuLJgYV9uCbu04D) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [altitude](https://open.spotify.com/album/7GEhaT2jgkwaE5TrAGw13P) | 2:41 | 2021-11-10 | 2023-01-21 |
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-10 | 2022-07-08 |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 | 2023-02-10 |
@@ -92,6 +93,7 @@
 | [Couple Lattes](https://open.spotify.com/track/01RxJZ9GhysTABL6fB5KpC) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Bodies of Water](https://open.spotify.com/album/5mu4aOQFavVQ1gfbZGepkt) | 2:40 | 2021-11-10 | 2022-09-24 |
 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 | 2021-11-10 | 2022-10-14 |
 | [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 | 2022-09-02 |
+| [Crystal Moon](https://open.spotify.com/track/4kRjqExrlXSA5I5fdRhEfh) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Crystal Moon](https://open.spotify.com/album/2o6KOdVqmEo9gimssxoO84) | 3:05 | 2024-05-11 |  |
 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 | 2022-02-10 |  |
 | [Daisy\-Chain](https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Daisy\-Chain](https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt) | 2:10 | 2022-09-16 |  |
 | [Dancing With Ghosts](https://open.spotify.com/track/2oRtlVAnhakWxItbGeopID) | [J Gov](https://open.spotify.com/artist/5PhC3eQ7MXDtQK6PhcuoTx) | [A Good Place To Hide](https://open.spotify.com/album/2INkfFj1vBZsdDRWImey95) | 3:16 | 2022-04-05 |  |
@@ -378,6 +380,7 @@
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-01-21 | 2023-07-29 |
 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 | 2023-01-13 |  |
 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 | 2022-12-16 |  |
+| [Skyscraper](https://open.spotify.com/track/0UhUdLPU2Cc83Udv7BPJrg) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Skyscraper](https://open.spotify.com/album/4ku8cmTs6kpHiT8jFNdjkV) | 2:22 | 2024-05-11 |  |
 | [sleeping bird](https://open.spotify.com/track/4zH9TP3m7xkfltbL3Vlaix) | [Whatevr.](https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [sleeping bird](https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5) | 1:45 | 2022-05-10 | 2023-07-29 |
 | [Sleepy](https://open.spotify.com/track/72lefppJV4GNMzknCilJzd) | [BoW](https://open.spotify.com/artist/0UYWqGl6QTZCJizQty7kFI) | [Night Sky](https://open.spotify.com/album/63ysIA8671nsKzVD90fFwa) | 2:01 | 2022-01-21 |  |
 | [slidetrue](https://open.spotify.com/track/6cCO2dCy6CHt4III6cGep8) | [slidetrue](https://open.spotify.com/artist/4Oq8o8jhgkLjQ9NucCooSY) | [slidetrue](https://open.spotify.com/album/1AAdHgpindiS49ByNr2Js4) | 2:08 | 2022-10-07 |  |
@@ -443,6 +446,7 @@
 | [tranqui:lo](https://open.spotify.com/track/3Ttl1GUMPsOHKrM9sGTbMB) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [tranqui:lo](https://open.spotify.com/album/2q9UZqdJnGHRKMECJrD6tQ) | 2:36 | 2023-03-31 |  |
 | [Transparency](https://open.spotify.com/track/4FITePahtXRtlC4VXbl7b2) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Transparency](https://open.spotify.com/album/624fKqZVSU5Ontdjnyfpa0) | 2:22 | 2022-10-07 |  |
 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 | 2021-11-10 | 2023-02-25 |
+| [Tuned Waves](https://open.spotify.com/track/37jLgzm51lwSc2C1Ibg1JC) | [Paradise Delay](https://open.spotify.com/artist/2LC89if4mekjoDOmUqTOoM) | [Tuned Waves](https://open.spotify.com/album/3RDYb0TLR02WZbWmhX7dJM) | 2:07 | 2024-05-11 |  |
 | [Turn Around](https://open.spotify.com/track/5Ve1NjjsG20hqnxfPzzyP0) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Turn Around](https://open.spotify.com/album/3uJwBAA2N0m67HsWPMQVIS) | 2:36 | 2022-05-10 |  |
 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 | 2021-11-10 | 2022-07-08 |
 | [Two Hearts](https://open.spotify.com/track/5hWW36eJzKuEKBDLtEra0X) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Two Hearts](https://open.spotify.com/album/2iorJIfNkV19a4oBwfEPOb) | 2:01 | 2022-07-08 |  |

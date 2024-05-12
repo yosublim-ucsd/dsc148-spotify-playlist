@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "1000 Fucks Ago",
+        "url": "https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT"
+      },
+      "artists": [
+        {
+          "name": "Aria Lisslo",
+          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "1000 Fucks Ago",
+      "url": "https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP"
+    },
+    {
+      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/5NL0MCTSbQtO13G62ofWAf"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 267612,
       "name": "Aces High",
       "url": "https://open.spotify.com/track/0M9DMRvqGZWKxg3DQtYEic"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 185026,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/24YMfPZROqG0FGrxXSUcpR"
@@ -688,6 +706,24 @@
       "duration_ms": 206956,
       "name": "Amor a distancia",
       "url": "https://open.spotify.com/track/5N1lE0e19I5Ypwvfs0ezBc"
+    },
+    {
+      "album": {
+        "name": "I Never Fall Apart Because I Never Fall Together",
+        "url": "https://open.spotify.com/album/7C04d1tbK7cu4BP3Yr7MRz"
+      },
+      "artists": [
+        {
+          "name": "Aristide Massaccesi",
+          "url": "https://open.spotify.com/artist/2aZERf6CrirzjPOyW9nW63"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "An Alternative to Disappointment",
+      "url": "https://open.spotify.com/track/0RYQHQ5r3rIIKELy8lCoyQ"
     },
     {
       "album": {
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 177280,
       "name": "Black Box Messiah",
       "url": "https://open.spotify.com/track/3jMLV1tx7XJmpruB2u0tDB"
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 147840,
       "name": "Bohemian Rhapsody - Live Aid",
       "url": "https://open.spotify.com/track/7xHATAMD7ezTZGYsNAMr5R"
@@ -1820,6 +1856,24 @@
       "duration_ms": 219053,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT"
+    },
+    {
+      "album": {
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/46yRqBsLmCPBMumrBCY3kq"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71733,
+      "name": "Breaking Their Hold",
+      "url": "https://open.spotify.com/track/1UWG1jelSQUvLpq5PQKMOB"
     },
     {
       "album": {
@@ -2390,7 +2444,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 93746,
       "name": "Cello",
       "url": "https://open.spotify.com/track/2xuMKDZ3RJj0CWpKSReVpm"
@@ -2722,7 +2776,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 129506,
       "name": "Como Caramelo De Lim\u00f3n",
       "url": "https://open.spotify.com/track/0DHmFQwguPKszh1Mt4mfv9"
@@ -2906,6 +2960,24 @@
       "duration_ms": 243080,
       "name": "Crazy - LP Edit",
       "url": "https://open.spotify.com/track/4kPtKY0eOZcxfehet2aiYK"
+    },
+    {
+      "album": {
+        "name": "Sempiternal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4dhfdOEUI4tfqwdgouFTQA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214955,
+      "name": "Crooked Young",
+      "url": "https://open.spotify.com/track/1do4LtVHFwn6uaIKspj6Pb"
     },
     {
       "album": {
@@ -6660,7 +6732,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 234680,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/50tVIVCKbRHn0wUvvWHkh5"
@@ -7409,6 +7481,28 @@
     },
     {
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/6XSSTHK08ICCZdS5AEq95R"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Taboo",
+          "url": "https://open.spotify.com/artist/1dghBBsMBTzeLETedzesv5"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/6jIM7iXk79zneuOOkxur3A"
+    },
+    {
+      "album": {
         "name": "De Camino Pa' la Cima (Reloaded 2.0)",
         "url": "https://open.spotify.com/album/4vOIqeCmrntK338zBN4qkK"
       },
@@ -7867,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
+    },
+    {
+      "album": {
         "name": "Clics Modernos",
         "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
       },
@@ -7882,6 +7994,24 @@
       "duration_ms": 208093,
       "name": "Los Dinosaurios",
       "url": "https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "album": {
@@ -8004,7 +8134,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
@@ -8443,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Sting And The Police",
+        "url": "https://open.spotify.com/album/5vLIfhDpTmdyQ0YrlnXzSr"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/0LhILIVhWTJz6eEsbEreZG"
+    },
+    {
+      "album": {
         "name": "Metal",
         "url": "https://open.spotify.com/album/6U2v2SbOnKQJ63ndG9FYT7"
       },
@@ -8634,7 +8782,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 251681,
       "name": "Molinos De Viento",
       "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
@@ -8776,6 +8924,24 @@
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/4TCSHfQpGu3VE1LRjcxp9f"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "Murder Mitten",
+      "url": "https://open.spotify.com/track/0j1E4FGWRYsDIEbPxErZmf"
     },
     {
       "album": {
@@ -10839,6 +11005,24 @@
     },
     {
       "album": {
+        "name": "Amplified - A Decade Of Reinventing The Cello",
+        "url": "https://open.spotify.com/album/7uKToMV32Ew1AJ9r6mvwno"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Refuse / Resist - Instrumental Version",
+      "url": "https://open.spotify.com/track/18vUmg5HJJsZeg42cgb9db"
+    },
+    {
+      "album": {
         "name": "Life In Cartoon Motion",
         "url": "https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox"
       },
@@ -12076,7 +12260,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 271426,
       "name": "So You Win Again",
       "url": "https://open.spotify.com/track/1tMi57U5Nkk6qRZSNwbzQr"
@@ -12274,7 +12458,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 108920,
       "name": "Sound the Alarm V. 2.0",
       "url": "https://open.spotify.com/track/1Xqb2zJasoxaw93yAOe3g4"
@@ -12570,7 +12754,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 147186,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/3kCldWYIhSy8kEvAWo1VJm"
@@ -14533,6 +14717,24 @@
     },
     {
       "album": {
+        "name": "Taguaras Forever",
+        "url": "https://open.spotify.com/album/2Tq5MiwvSbU3GCQVJPJfvY"
+      },
+      "artists": [
+        {
+          "name": "Los Mentas",
+          "url": "https://open.spotify.com/artist/0gt2Xy6uSRTFTWYrHOHx82"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Tu Pan",
+      "url": "https://open.spotify.com/track/59TX085bJLIiXKJ9EoW7Jb"
+    },
+    {
+      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/3s7abfHktH3ljR7fAXPZPp"
       },
@@ -16236,6 +16438,28 @@
       "duration_ms": 144632,
       "name": "\u00d3leo de Mujer Con Sombrero",
       "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "album": {
+        "name": "\u2605SLEEPY\u2605",
+        "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134437,
+      "name": "\u2605SLEEPY\u2605",
+      "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
     },
     {
       "album": {

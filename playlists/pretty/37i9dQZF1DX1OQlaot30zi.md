@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA e Lazza, Geolier, Don Joe, Ele A e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,991 likes - 85 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,030 likes - 85 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 28 | [CLAP](https://open.spotify.com/track/69fSWmNpHYANjhjIAzuVuS) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [CLAP](https://open.spotify.com/album/7lPIywafr4xHly98THAoWQ) | 2:17 |
 | 29 | [MILANO, linea quattro](https://open.spotify.com/track/3M0zVFuPllXyzBvk1nARj7) | [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T) | [MEZZI](https://open.spotify.com/album/6NULVFxAsYWRwn0YbEimNM) | 2:40 |
 | 30 | [INT’A BUFERA](https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INT’A BUFERA](https://open.spotify.com/album/3jM7GBHjZrU0BqbeaYIRZ7) | 2:59 |
-| 31 | [BUGIE](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
+| 31 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
 | 32 | [ANIMA freestyle \#1](https://open.spotify.com/track/54TRLndviRvejAynFA6Ozk) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [Anima Freestyle](https://open.spotify.com/album/3GPp3mt9fMBqoWKxygTdZ4) | 1:04 |
 | 33 | [MOTARD](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [MOTARD](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 |
 | 34 | [ascoltala sotto le stelle](https://open.spotify.com/track/4GKsoTfNzI1BgFU2g3WR3W) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [ascoltala sotto le stelle](https://open.spotify.com/album/3TDwJb4ZiUP64OjAwvw2UK) | 1:36 |
-| 35 | [LA MIA STORIA](https://open.spotify.com/track/0kOkLxf7bT1pnJe4mygyRv) | [Dus](https://open.spotify.com/artist/54LIWVBCwda0QB6bP1QKkF) | [LA MIA STORIA](https://open.spotify.com/album/25v9363mbKlA6V6oudgvwK) | 3:22 |
+| 35 | [LA MIA STORIA](https://open.spotify.com/track/0kOkLxf7bT1pnJe4mygyRv) | [DUS](https://open.spotify.com/artist/4gA9W1mk1xvTmxyLJsNfEY) | [LA MIA STORIA](https://open.spotify.com/album/25v9363mbKlA6V6oudgvwK) | 3:22 |
 | 36 | [OKKE OKKE](https://open.spotify.com/track/0HLEICEJB4UJNdwq3wBb74) | [Ryker](https://open.spotify.com/artist/2djZEaVqBszRWQXVTeSZts) | [OKKE OKKE](https://open.spotify.com/album/4hLmpZ2IDo8ngyNK7DNfxQ) | 2:09 |
 | 37 | [CENACOLO](https://open.spotify.com/track/5OJlCr0G5eo21RSyl4UMo9) | [Abro](https://open.spotify.com/artist/1QwI9tc3RkEkApPlyiWMEo) | [CENACOLO](https://open.spotify.com/album/7qjWt8Z89P7GHUvsoqAIVe) | 2:19 |
 | 38 | [L'ALTRO](https://open.spotify.com/track/5B3O3h2kIGnG4LWg3Z5jeM) | [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9) | [L'ALTRO](https://open.spotify.com/album/14eFG4PLl6DuXSXBX7rWZY) | 2:46 |

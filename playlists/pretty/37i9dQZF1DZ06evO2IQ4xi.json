@@ -1,12 +1,12 @@
 {
-  "description": "This Is Doechii. Los temas esenciales, todos en una lista.",
-  "num_followers": 9444,
+  "description": "This is Doechii. The essential tracks, all in one playlist.",
+  "num_followers": 9452,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAADhUj5Jr9sSXG2tLYgSkR67",
+  "snapshot_id": "Zj1jgAAAAABy0o5qaXCQhVCJWavLfNnS",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
       "duration_ms": 204094,
       "name": "Alter Ego (with JT)",
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "added_at": null,
@@ -143,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spookie Coochie",
-        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 168620,
-      "name": "Spookie Coochie",
-      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -179,6 +183,22 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spookie Coochie",
+        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 168620,
+      "name": "Spookie Coochie",
+      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
     },
     {
       "added_at": null,
@@ -231,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+        "name": "Stressed",
+        "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
       },
       "artists": [
         {
@@ -240,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 120058,
-      "name": "Shit",
-      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
+      "duration_ms": 183687,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
     },
     {
       "added_at": null,
@@ -279,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Shit",
+      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -295,26 +331,6 @@
       "duration_ms": 201528,
       "name": "Girls Night Out (with Doechii)",
       "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
       "artists": [
         {
@@ -472,13 +488,13 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Jst Ray",
-          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+          "name": "Leo Conoza",
+          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Bitches Be (with Jst Ray)",
-      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+      "duration_ms": 192000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
     },
     {
       "added_at": null,
@@ -515,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Leo Conoza",
-          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porches",
         "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
       },
@@ -555,6 +551,22 @@
       "duration_ms": 315074,
       "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
       "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 277463,
+      "name": "Pms",
+      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     },
     {
       "added_at": null,
@@ -587,22 +599,6 @@
       "duration_ms": 156036,
       "name": "God",
       "url": "https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 277463,
-      "name": "Pms",
-      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     }
   ],
   "unique_name": "This Is Doechii",

@@ -4,7 +4,7 @@
 
 > 
 
-779 songs - 1 day 15 hr 52 min
+780 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Steppas Freestyle \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/2FHC2xTzANdprKYAwehB68) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [The Book of Eli](https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a) | 2:32 | 2022-12-02 |  |
 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 | 2022-07-07 |  |
 | [Stick Talk](https://open.spotify.com/track/78QYknG6pQNfq0ORmiO77L) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/1tnOSlYijF9sA0qIpumE10) | 2:51 | 2023-03-19 |  |
+| [Stickin And Movin](https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Stickin And Movin](https://open.spotify.com/album/50yCR96sx5poUVluZCgH6O) | 2:47 | 2024-05-11 |  |
 | [Still Runnin \(feat\. Meek Mill\)](https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:53 | 2023-10-10 |  |
 | [Still Serving](https://open.spotify.com/track/6m6Oy3F6GG0zRwH03rWmTv) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:51 | 2022-12-07 |  |
 | [Still Trappin'](https://open.spotify.com/track/1lw4FrPr3Y8R7Q1Mro2TMe) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 2:52 | 2022-05-25 |  |

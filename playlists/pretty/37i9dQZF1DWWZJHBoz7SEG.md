@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Puras rolitas para celebrar con mamá en su día 🥰 \(menos la primera, le va a dar el patatús\) Uzielito Mix, Yeri Mua y El Bogueto en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,933 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,136 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [GDL](https://open.spotify.com/track/3SZ0KQJWzFwqAEEOUz34Rv) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [GDL](https://open.spotify.com/album/0gRleK1TX3po4MIvEIwVa2) | 2:22 |
 | 19 | [ALV \- Remix](https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ALV \(Remix\)](https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x) | 2:57 |
 | 20 | [Los Bandidos No Lloramos \(feat\. Tennessee Beats & Gogo Mix\) \- Remix](https://open.spotify.com/track/7x8ZDizNvdRjIsizvoUqbX) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Nando Cruz Mx](https://open.spotify.com/artist/1QbX8qcYdD3PbAgjopMkAg), [Gogo Mix](https://open.spotify.com/artist/4YRXJwvjGleQizGYqCPygM), [Tennessee Beats](https://open.spotify.com/artist/15Q7fFJ6GvBeEY1F4BiBir) | [Los Bandidos No Lloramos \(feat\. Tennessee Beats & Gogo Mix\) \[Remix\]](https://open.spotify.com/album/3HY6usyWifjavEJc0Sb5B2) | 2:56 |
-| 21 | [COMUNA 3](https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [COMUNA 3](https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B) | 2:34 |
+| 21 | [COMUNA 3](https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [The Rude Boyz](https://open.spotify.com/artist/0AtX4f2oUVTM8YzRMyIrbq) | [COMUNA 3](https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B) | 2:34 |
 | 22 | [PUEBLO DE MEDALLO](https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 3:28 |
 | 23 | [NO HAY VATO PERFECTO](https://open.spotify.com/track/662XIU1PFVPp3XNm9V3q6q) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [NO HAY VATO PERFECTO](https://open.spotify.com/album/44rDXElV3sJNq0zaFBpnvg) | 3:20 |
 | 24 | [El Morro](https://open.spotify.com/track/6jhfk1e3W7P1KFbuF8ul3Q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Morro](https://open.spotify.com/album/1dmmA8Z2niZfgem6PIcl76) | 2:53 |

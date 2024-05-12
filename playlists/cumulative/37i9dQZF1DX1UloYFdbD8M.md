@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-183 songs - 12 hr 36 min
+184 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ajitha Hare](https://open.spotify.com/track/5y3BFVnC2N2gdDYE6kcpVb) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Rathnamala](https://open.spotify.com/album/5uS5xlxpWnizHbPhgX2KHD) | 2:54 | 2022-06-23 |  |
 | [Akalukayo](https://open.spotify.com/track/6CSDfk6mx4IFbDIu5WKzH5) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Once Upon A Blue Moon](https://open.spotify.com/album/5eGRajC0k09pDYoUKBDfBy) | 4:46 | 2022-06-23 |  |
 | [Akshara Nagari \(Kottayam Anthem\)](https://open.spotify.com/track/69yzHRHQUaFbUZIy6OB0ou) | [Xcro](https://open.spotify.com/artist/7oSfvcQRkVViXu1ptM20nz), [BEN](https://open.spotify.com/artist/3qAfqLu9KXPhiZlWS1gJ4Y) | [Akshara Nagari](https://open.spotify.com/album/3wHs2JP7aNZafv5uAjsT1Q) | 2:32 | 2023-05-08 | 2023-07-28 |
+| [Alayazhikal](https://open.spotify.com/track/2l9ZlzdLl0MXWn2Ta8l4XS) | [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Alayazhikal](https://open.spotify.com/album/2SNAYYRDwzMK62yDLB0net) | 3:59 | 2024-05-11 |  |
 | [Anpu Kanmanikku](https://open.spotify.com/track/4ngocq0ZIMziNjVuwqW74U) | [Nithinraj](https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD) | [Anpu Kanmanikku](https://open.spotify.com/album/10z0lBBhYJmbjUuVN4ZvVp) | 3:49 | 2023-06-26 | 2023-07-28 |
 | [Anthinilavin](https://open.spotify.com/track/3F7J8kh9Eee6groFjPboaQ) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb) | [Anthinilavin](https://open.spotify.com/album/3mN268bF3zWXvA2ZGm2jod) | 4:12 | 2023-01-18 | 2024-02-15 |
 | [Anuraaga Nadhiye](https://open.spotify.com/track/79nkULYN6ypZaEg1Qp1KJR) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD), [Arun Das](https://open.spotify.com/artist/2kzTPxeqBkLaVHFzv8rkjq) | [Anuraaga Nadhiye](https://open.spotify.com/album/3WDmo4n1ghuTVvdrQ16hDY) | 5:32 | 2023-11-21 | 2024-02-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: CHANMIN(\ucc2c\ubbfc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465729,
+  "num_followers": 465749,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
         "name": "naps!",
         "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -499,38 +499,6 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "Chum",
-        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Chum",
-      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
-      },
-      "artists": [
-        {
-          "name": "THORNAPPLE",
-          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
       },
@@ -551,6 +519,38 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
+        "name": "Chum",
+        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Chum",
+      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -567,18 +567,26 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "Again, Spring Days",
-        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
+        },
+        {
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        },
+        {
+          "name": "hiko",
+          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
         }
       ],
-      "duration_ms": 226559,
-      "name": "Let's Meet In Spring",
-      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
+      "duration_ms": 205720,
+      "name": "Half Asleep (feat. Peakboy, hiko)",
+      "url": "https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -599,34 +607,18 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "\ub354 \ud32c 2ROUND Part.1",
-        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+        "name": "Again, Spring Days",
+        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
         }
       ],
-      "duration_ms": 236578,
-      "name": "\uba85\ub3d9\ucf5c\ub9c1",
-      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+      "duration_ms": 226559,
+      "name": "Let's Meet In Spring",
+      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -643,6 +635,22 @@
       "duration_ms": 294396,
       "name": "It's been a while",
       "url": "https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -683,42 +691,18 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
       },
       "artists": [
         {
-          "name": "Otis Lim",
-          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
-        },
-        {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
-        },
-        {
-          "name": "hiko",
-          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
         }
       ],
-      "duration_ms": 205720,
-      "name": "Half Asleep (feat. Peakboy, hiko)",
-      "url": "https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-05-10 09:09:36",
       "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 231386,
       "name": "Peanut butter Sandwich",
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
+    },
+    {
+      "added_at": "2024-05-10 09:09:36",
+      "album": {
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
+      },
+      "artists": [
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2024-05-10 09:09:36",
@@ -851,22 +867,6 @@
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
-    },
-    {
-      "added_at": "2024-05-10 09:09:36",
-      "album": {
-        "name": "Love in TV World",
-        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 243022,
-      "name": "Love in TV World",
-      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

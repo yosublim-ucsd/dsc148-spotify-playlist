@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. El Novio de M\u00e9xico en portada.",
-  "num_followers": 533990,
+  "num_followers": 534067,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "El Equilibrio De Los Jaguares",
-        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "El Equilibrio De Los Jaguares",
+        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Brujeria",
-        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Ya Tus Amigos",
-      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Tres-D",
         "url": "https://open.spotify.com/album/74vmH4UpHZolSYKsHa0qns"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 160893,
       "name": "Ja, Ja, Ja",
       "url": "https://open.spotify.com/track/00YFVZpB91oVB7wIwEUiZ8"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/4ZqaEinw6S5AKHtHJDOjtm"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Ya Tus Amigos",
+      "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Me Quieres Cotorrear",
-      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Rock Milenium",
         "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 167226,
       "name": "Paquita Disco",
       "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Me Quieres Cotorrear",
+      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Babel",
-        "url": "https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb"
-      },
-      "artists": [
-        {
-          "name": "Santa Sabina",
-          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Piel De Banqueta",
         "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 179973,
       "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
       "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb"
+      },
+      "artists": [
+        {
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb"
     },
     {
       "added_at": "2023-11-10 18:31:01",

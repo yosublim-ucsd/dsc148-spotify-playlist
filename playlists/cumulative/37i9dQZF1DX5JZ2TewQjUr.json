@@ -4077,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "fusion flow",
+        "url": "https://open.spotify.com/album/5AgqJ1dz6117KjqNJrsPnI"
+      },
+      "artists": [
+        {
+          "name": "rainbow road",
+          "url": "https://open.spotify.com/artist/0FPrXCcP8ijnZlYvKHkSlp"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165547,
+      "name": "great!! (i'm just going with the flow)",
+      "url": "https://open.spotify.com/track/401H3Y9xWYzY5eAxt7Dpau"
+    },
+    {
+      "album": {
         "name": "Guaranteed",
         "url": "https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV"
       },

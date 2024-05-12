@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Ele A in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,176 likes - 57 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,178 likes - 57 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 35 | [Mission](https://open.spotify.com/track/0R03LI0Gkxi9FO7G9Y8g1B) | [Youngpreem](https://open.spotify.com/artist/66vN9tUO5vWp9TQUrhbFn5) | [Mission](https://open.spotify.com/album/5DRIvRK3jvaPBg8hkDSbyM) | 2:27 |
 | 36 | [Regionale \(feat\. Disme\)](https://open.spotify.com/track/4P8Jdoeq2JvtZJXJnqW5B8) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Regionale \(feat\. Disme\)](https://open.spotify.com/album/41AVJvVTeRc0yK3iJkZrZ8) | 2:32 |
 | 37 | [Bandolero fuma static \(feat\. Fre\_nky\)](https://open.spotify.com/track/5e9e6wuEf5nvj4hT9ZzQ1m) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [BDM Mixtape Vol\. 1](https://open.spotify.com/album/69Wwgurz8xPbkxqwwqKUSG) | 2:54 |
-| 38 | [BUGIE](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
+| 38 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
 | 39 | [20 Anni \(feat\. Silent Bob\)](https://open.spotify.com/track/7EasyPWcoQlYlBuD3xULpL) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [20 Anni \(feat\. Silent Bob\)](https://open.spotify.com/album/4RNz1Uiv4jbhkN24paHZEV) | 2:52 |
 | 40 | [MEGL SI TE NE VAI](https://open.spotify.com/track/2JZzFtd3VZxAK20ClppIWC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Ceru167](https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3) | [MEGL SI TE NE VAI](https://open.spotify.com/album/615Z0bLHxe5sfOWbn07nkQ) | 2:18 |
 | 41 | [2 THE TOP \(feat\. Justinowusu\)](https://open.spotify.com/track/25EfgHjpWSf7Y30p8gUdvM) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Justinowusu](https://open.spotify.com/artist/7uNbiEsTlT5AmPdLr4Trab) | [2 THE TOP](https://open.spotify.com/album/7bFPHeW6o9j2X3FNfETKrh) | 2:41 |

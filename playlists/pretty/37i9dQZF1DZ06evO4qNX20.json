@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 298269,
+  "num_followers": 298382,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjwSAAAAAACAz7hvDnExsjpnmNYf83pT",
+  "snapshot_id": "Zj1jgAAAAABP/5HNxmnTN6ShU31puPia",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
-        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 226603,
-      "name": "Tino Quintero",
-      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
+      "duration_ms": 219997,
+      "name": "Coquio Castro",
+      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
     },
     {
       "added_at": null,
@@ -487,6 +491,22 @@
       "duration_ms": 190450,
       "name": "Carta De Luto",
       "url": "https://open.spotify.com/track/1Z3kGH4Gr3QHeEjloB4GHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
+        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Tino Quintero",
+      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
     },
     {
       "added_at": null,

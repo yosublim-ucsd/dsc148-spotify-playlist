@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,319 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,815 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 28 | [Vem de flecha](https://open.spotify.com/track/7rII7hWYrJwU4MoVHmRsdY) | [DJ DIDI](https://open.spotify.com/artist/1cLuhjj5kHz8fabsZllDWJ), [Dj Rayan](https://open.spotify.com/artist/2SN0sv6jL9pWPYIgcWgb2a), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Vem de flecha](https://open.spotify.com/album/2NrcAgJjWRyBEN5oLbWrCQ) | 2:59 |
 | 29 | [Mega do Trava 04](https://open.spotify.com/track/3Ll8HJuVPX6DZscdGcSkGb) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf) | [Mega do Trava 04](https://open.spotify.com/album/0W6hZWWRuBXZIdX17Ttsmu) | 1:52 |
 | 30 | [Mega do Egito](https://open.spotify.com/track/2r8QwmAdzDwsDlLA4FgtdH) | [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6), [Mc Jessica do escadão](https://open.spotify.com/artist/5GL61oWz7b59KKnJfzlgrC), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx) | [Mega do Egito](https://open.spotify.com/album/53WgoGN1r6SHYXswxUg0hE) | 2:49 |
-| 31 | [Vou Fazer Meu Golzinho de Puteiro](https://open.spotify.com/track/12DszOyU8REG5GdgI12WEs) | [DJ PERTUBADO](https://open.spotify.com/artist/16RrFZwuMzmgcFIs3oXDwu), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM) | [Vou Fazer Meu Golzinho de Puteiro](https://open.spotify.com/album/24tm5S9Det8dxb1j12SG3e) | 2:33 |
+| 31 | [Vou Fazer Meu Golzinho de Puteiro](https://open.spotify.com/track/12DszOyU8REG5GdgI12WEs) | [DJ PERTUBADO](https://open.spotify.com/artist/16RrFZwuMzmgcFIs3oXDwu), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l) | [Vou Fazer Meu Golzinho de Puteiro](https://open.spotify.com/album/24tm5S9Det8dxb1j12SG3e) | 2:33 |
 | 32 | [Não Foi na Hidromassagem](https://open.spotify.com/track/4qqhNR8D0UWJIb7iW2hlj6) | [Mc Kn bh](https://open.spotify.com/artist/3AQ1JsAyzlFsoolfLh7IYi), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Não Foi na Hidromassagem](https://open.spotify.com/album/1G3YLAX8PSKGc71kY0mVhP) | 2:05 |
 | 33 | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js) | [Dj Alexandre Borges](https://open.spotify.com/artist/0ocK4YeIBhnVN0TwlB0qNj), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Na Sua Vida Eu Sou o Problema](https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl) | 2:41 |
 | 34 | [Ela Não Presta](https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:46 |

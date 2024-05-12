@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,757 likes - 130 songs - 7 hr 20 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,757 likes - 135 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,10 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 128 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 |
 | 129 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 |
 | 130 | [Wide Awake](https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Wide Awake](https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B) | 4:08 |
+| 131 | [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 |
+| 132 | [Cyberlink 2XL](https://open.spotify.com/track/3zm1AL45YbT0aP5aKxqlfK) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Zoee](https://open.spotify.com/artist/4ah1FGJr1ISh6DUmYFivSo) | [Cyberlink 2XL](https://open.spotify.com/album/3D0rK92K21C2tCirId7pT0) | 2:55 |
+| 133 | [Limosina](https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Limosina](https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O) | 2:03 |
+| 134 | [USE ME](https://open.spotify.com/track/1Bm2rN43nD3zuRZvpyq2vR) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [USE ME](https://open.spotify.com/album/3p1sSOGpCL5G1kDomhAlVi) | 4:00 |
+| 135 | [Without](https://open.spotify.com/track/6cfxLLMqy1bvqY9kq7ov72) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Without](https://open.spotify.com/album/0g9penjadXkiEYfXgKrkyf) | 2:20 |
 
-Snapshot ID: `AAApxEUckON1d3di78JhIIvQh7FIkEoU`
+Snapshot ID: `AAApyTOF0usYV0+rRrmdhDs6n2f0K93U`

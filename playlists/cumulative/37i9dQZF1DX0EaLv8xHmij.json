@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 131555,
       "name": "Contradi\u00e7\u00f5es 2",
       "url": "https://open.spotify.com/track/3koz2yyr1EVPcmilasUNcX"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-12",
       "duration_ms": 211211,
       "name": "DRAMA!",
       "url": "https://open.spotify.com/track/7q31Gp7qSGOoxkGwWHUIfB"
@@ -5341,6 +5341,32 @@
     },
     {
       "album": {
+        "name": "Quem Sempre Teve Tudo Nunca Vai Entender",
+        "url": "https://open.spotify.com/album/74GaGdc29jGaedDAw0uuIB"
+      },
+      "artists": [
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        },
+        {
+          "name": "Lotvs",
+          "url": "https://open.spotify.com/artist/5G9HY28LECjSJTTAbmxYrR"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pen\u00faltimo Bom Malandro",
+      "url": "https://open.spotify.com/track/3Se3i6ukqzxdDIQFEqOVy8"
+    },
+    {
+      "album": {
         "name": "Perigoso & Po\u00e9tico",
         "url": "https://open.spotify.com/album/1jwDa3vCAWxuQSZgoBi5zc"
       },
@@ -5750,6 +5776,32 @@
       "duration_ms": 209738,
       "name": "RADDIM",
       "url": "https://open.spotify.com/track/7G2aB7ZtZLuO27F92BHF6J"
+    },
+    {
+      "album": {
+        "name": "Rct Foi Bom",
+        "url": "https://open.spotify.com/album/1bx384w51nixzW67BYg1Ke"
+      },
+      "artists": [
+        {
+          "name": "Hate Rct",
+          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
+        },
+        {
+          "name": "queronemsabe",
+          "url": "https://open.spotify.com/artist/6f9JkorbAuANVLCt0mLHJ5"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        }
+      ],
+      "date_added": "2024-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Rct Foi Bom",
+      "url": "https://open.spotify.com/track/4bfWPLPGjttd73ipFecZ9Y"
     },
     {
       "album": {

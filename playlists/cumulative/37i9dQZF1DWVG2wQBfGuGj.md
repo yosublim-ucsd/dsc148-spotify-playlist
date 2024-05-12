@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-232 songs - 11 hr 43 min
+239 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 | 2023-05-05 |  |
 | [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 | 2024-01-19 |  |
 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 | 2023-05-05 |  |
+| [Black Marble](https://open.spotify.com/track/3oYW5P4NaLNrSE9v53Ji8J) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Black Marble](https://open.spotify.com/album/0NccCDgXrNk2WYvDZ0V5mV) | 2:19 | 2024-05-11 |  |
 | [Blinking Floor](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Blinking Floor](https://open.spotify.com/album/0MoM280Dkta6Et0q8SxNiZ) | 3:31 | 2023-05-26 |  |
 | [Bloom](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Bloom](https://open.spotify.com/album/0mA04kcJvcmKdF2vmFBidO) | 3:05 | 2023-05-05 |  |
 | [BLUE LIGHTS](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [BLUE LIGHTS](https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc) | 2:21 | 2024-02-27 |  |
@@ -79,6 +80,7 @@
 | [Elixir](https://open.spotify.com/track/0PhaLtoRmcupcDmm3HEh5r) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Elixir](https://open.spotify.com/album/1ZiUjhQZe8sGtxP74Zrn7d) | 2:25 | 2023-12-01 |  |
 | [End of Story](https://open.spotify.com/track/5EdLzVEBvZgxGgxZviMvGk) | [IBBIZ](https://open.spotify.com/artist/2NdwSYVe4Jeia8NWr2Rb14) | [End of Story](https://open.spotify.com/album/1me7BXh024dO5wsWukirT4) | 2:39 | 2023-11-14 |  |
 | [endless cup](https://open.spotify.com/track/4sdtDC5geKrZHoVqyx5bBA) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [endless cup](https://open.spotify.com/album/1AHdwERDExWS6MCKxtQ3gb) | 3:23 | 2023-05-05 |  |
+| [Falling Water](https://open.spotify.com/track/5E3DLRQIcZtrdnEgbQYjAu) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [Falling Water](https://open.spotify.com/album/4Ui3N4ZsgYmcgn1ayip1uF) | 2:09 | 2024-05-11 |  |
 | [Feel Decent](https://open.spotify.com/track/61zOivEMvcyCoymnvBVPy5) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 3](https://open.spotify.com/album/53uc38DjJTTD6JG1EcQJym) | 3:45 | 2023-08-04 |  |
 | [Final Countdown Again](https://open.spotify.com/track/459AusJgWuTqzeyBP2OocC) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Final Countdown Again](https://open.spotify.com/album/63A7o3OeGaTmDasRKdooK5) | 3:14 | 2023-05-05 |  |
 | [finders keepers](https://open.spotify.com/track/7zOCuC0lIMGoTP8z0xUluv) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [finders keepers](https://open.spotify.com/album/4YegljCmxI9QhS0wbG7ns9) | 2:55 | 2023-05-05 |  |
@@ -112,6 +114,7 @@
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2023-05-05 |  |
 | [Just Waiting 4 You](https://open.spotify.com/track/0VVMvXcchR5HUWRU0zefNs) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Just Waiting 4 You](https://open.spotify.com/album/7zXB7RZJadDzIWRW7dmRd4) | 3:20 | 2023-09-22 |  |
 | [Kaah](https://open.spotify.com/track/4G2CdDwJAQhZsbEJyHOqk7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ramo / Kaah](https://open.spotify.com/album/3x4v1MsJDziEVciqG9n2Dp) | 5:07 | 2023-05-05 |  |
+| [Kai](https://open.spotify.com/track/3Qia0ukLn1LglhZroKmFVv) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Kai](https://open.spotify.com/album/6PstW6HSHy3QUPFbm3fImR) | 6:22 | 2024-05-11 |  |
 | [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 | 2023-09-01 |  |
 | [Kanoa](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kanoa](https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq) | 2:38 | 2023-09-15 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 | 2024-04-19 |
@@ -122,6 +125,7 @@
 | [lemon fizz](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [lemon fizz](https://open.spotify.com/album/1m3oksAD7JdxrYonH8fK13) | 3:14 | 2023-05-05 |  |
 | [Lemons](https://open.spotify.com/track/11IzqMJ35o5H3MxMEk6vyo) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Lemons](https://open.spotify.com/album/3UpVqSPtkUCsfILr2H2t9C) | 3:05 | 2023-05-05 |  |
 | [Let It Ride](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [Let It Ride](https://open.spotify.com/album/1smvijwgTKDpqpagdamITk) | 2:04 | 2024-02-13 |  |
+| [life's medicine](https://open.spotify.com/track/1tfRVmhzPklFBqISXoyHRX) | [PeachPuff](https://open.spotify.com/artist/5GSiEiqF4H8J4yr33wNbM6) | [life's medicine](https://open.spotify.com/album/7J3BOF0ppMIl2rUI72J0BI) | 3:13 | 2024-05-11 |  |
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2023-05-05 |  |
 | [Linares](https://open.spotify.com/track/1BIpsZXO7zxplZmyVzNzDv) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Linares](https://open.spotify.com/album/0Sf4NmiFpMfZePoY3lCq5y) | 2:46 | 2023-08-18 |  |
 | [Lobster Bib](https://open.spotify.com/track/0aRC0W5zVWricDxM2s98La) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Lobster Bib](https://open.spotify.com/album/3L6WszZQcbzwxzjnaIsxwn) | 2:57 | 2023-06-23 |  |
@@ -139,6 +143,7 @@
 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2023-05-05 |  |
 | [Moments](https://open.spotify.com/track/79FNpQWkuGVlwhp6lv9VyF) | [Zach Baker](https://open.spotify.com/artist/4SadLoynVcpRHr8gXb3mg1) | [Moments](https://open.spotify.com/album/4SyF0ZSP8m4u5qBpD6RXxe) | 2:59 | 2024-02-13 |  |
 | [Mont Boron](https://open.spotify.com/track/13HLMMi5C7M6B7HX3kZSmg) | [Nina Walton](https://open.spotify.com/artist/5w84I7vnbQeeVtEdR451j5) | [Mont Boron](https://open.spotify.com/album/4merpizOlILvHqO0ArbQtC) | 2:06 | 2024-02-27 |  |
+| [Moonrise](https://open.spotify.com/track/0RdkCGBL9C1kQqegWFnzl9) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Moonrise](https://open.spotify.com/album/5G5BowJqb6cdADiO4bTmTQ) | 3:33 | 2024-05-11 |  |
 | [Mr\. Panucci](https://open.spotify.com/track/7hfOaefFJ0qzZw2NcEqA4z) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Mr\. Panucci](https://open.spotify.com/album/0IhLZK0AiG2k9S0arqumQO) | 2:33 | 2023-06-23 |  |
 | [my only](https://open.spotify.com/track/0PuEySwuDjWltm1hJfDLf9) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [my only](https://open.spotify.com/album/2nyllF9zZIJQYDFBAubiqk) | 2:41 | 2023-05-05 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2023-05-05 |  |
@@ -147,6 +152,7 @@
 | [Nightshades](https://open.spotify.com/track/5cHFlXHVw6KdQVoW4j6YxX) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Nightshades](https://open.spotify.com/album/1T8jSLIFEoPZ6ZGK1wDG0B) | 2:52 | 2023-05-05 |  |
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2023-05-05 |  |
 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 | 2023-07-07 |  |
+| [Ocean Bloom](https://open.spotify.com/track/2tCNch4OfhyBdWkHQJ0w6B) | [Noiseway](https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb) | [Ocean Bloom](https://open.spotify.com/album/4vqiyVU2MGKpdWTmXYFOqN) | 2:31 | 2024-05-11 |  |
 | [Old Prophecies](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Old Prophecies](https://open.spotify.com/album/1jo42bHLmo4IPXiPIHxpNP) | 3:14 | 2023-05-05 |  |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 | 2023-09-16 |
 | [On My Mind](https://open.spotify.com/track/5RogUAvw4QbdvzrCWjO8NJ) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/1m20IgKUICY4cmLMBFdtxX) | 2:27 | 2023-10-20 |  |
@@ -175,6 +181,7 @@
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2023-05-05 |  |
 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 | 2023-05-05 |  |
 | [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 | 2023-07-07 |  |
+| [Sartorius](https://open.spotify.com/track/2ANndvXKayTN5yla7pc32a) | [DJ Daidol](https://open.spotify.com/artist/15ORgKLuv7SVSdIlAyfMTs) | [Sartorius](https://open.spotify.com/album/4edaSzGIl7o516jm8XMi5N) | 2:48 | 2024-05-11 |  |
 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 | 2023-08-19 |
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 | 2023-12-02 |
