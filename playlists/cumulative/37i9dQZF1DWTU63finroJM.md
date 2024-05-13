@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,406 songs - 3 day 5 hr 29 min
+1,407 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [3:01am](https://open.spotify.com/track/0Ou5YCTpsk5rZoe3d8ihrO) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [3:01am](https://open.spotify.com/album/1xoWprZRhecJvQk5xssnkk) | 4:10 | 2022-03-24 | 2022-04-19 |
 | [77](https://open.spotify.com/track/1rildoiQBPBeoAHuP84tYb) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [77](https://open.spotify.com/album/7zRM9Szm1EgOBzKWXRnIZU) | 0:44 | 2022-03-24 | 2022-08-02 |
 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-10-27 | 2024-05-04 |
+| [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-05-03 |  |
 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-07 | 2024-05-04 |
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
@@ -56,7 +57,7 @@
 | [AI BIET](https://open.spotify.com/track/7oakQhQtktqkdRCY7au6xQ) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [AI BIET](https://open.spotify.com/album/3nkdUxsbC7jn2A7j27sHY2) | 2:57 | 2022-03-24 | 2022-06-20 |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2022-09-30 | 2023-05-31 |
 | [Al Punto de Sal](https://open.spotify.com/track/2wbCWSEma9xL0QU1pYHhHU) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4) | [Al Punto de Sal](https://open.spotify.com/album/50uiNwnoIllQuMMCQYd7TP) | 2:58 | 2022-09-08 | 2023-05-31 |
-| [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 | 2024-04-19 |  |
+| [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 | 2024-04-19 | 2024-05-13 |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2023-09-08 | 2023-10-14 |
 | [Algo Más](https://open.spotify.com/track/2Nu6wSCiR6W9Z7r9En79ML) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Algo Más](https://open.spotify.com/album/4EsB7A89kaCi7bVHBrs3Jf) | 3:00 | 2022-03-24 | 2022-04-13 |
 | [Alive](https://open.spotify.com/track/2K5PuNGkdskwGFAKNrNNBA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Alive](https://open.spotify.com/album/4vvqE8p4XzrFbS2mdAgihc) | 3:11 | 2022-04-07 | 2022-06-30 |

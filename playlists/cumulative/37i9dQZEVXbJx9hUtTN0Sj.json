@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 179923,
       "name": "Before The Party's Over",
       "url": "https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 120000,
       "name": "BUNKER/PREROLL",
       "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 145057,
       "name": "Casa - Arabic Version",
       "url": "https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 139360,
       "name": "Figa De Guin\u00e9",
       "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 334760,
       "name": "Friendly Pressure - Into The Sunshine Mix",
       "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
@@ -2806,6 +2806,24 @@
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
+        "name": "Grito",
+        "url": "https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL"
+      },
+      "artists": [
+        {
+          "name": "iolanda",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176447,
+      "name": "Grito",
+      "url": "https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s"
     },
     {
       "album": {
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
@@ -3921,7 +3939,7 @@
     },
     {
       "album": {
-        "name": "La noia",
+        "name": "la noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
       },
       "artists": [
@@ -3932,9 +3950,9 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 189124,
-      "name": "La noia",
+      "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
@@ -4324,6 +4342,24 @@
       "duration_ms": 168023,
       "name": "lil' freak",
       "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
+    },
+    {
+      "album": {
+        "name": "Lithe Fall Back",
+        "url": "https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs"
+      },
+      "artists": [
+        {
+          "name": "Shugoazy",
+          "url": "https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129516,
+      "name": "Lithe Fall Back",
+      "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
     },
     {
       "album": {
@@ -7038,7 +7074,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 180333,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"
@@ -7104,6 +7140,24 @@
       "duration_ms": 141639,
       "name": "Think U The Shit (Fart)",
       "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
+    },
+    {
+      "album": {
+        "name": "Tiryakinim",
+        "url": "https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199821,
+      "name": "Tiryakinim",
+      "url": "https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1"
     },
     {
       "album": {
@@ -8246,7 +8300,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"

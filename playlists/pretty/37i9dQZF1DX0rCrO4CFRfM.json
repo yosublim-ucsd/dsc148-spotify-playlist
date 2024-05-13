@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 975568,
+  "num_followers": 975712,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "Teenage Dirtbag 2020 / Mope",
         "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 272975,
       "name": "Teenage Dirtbag (Acoustic)",
       "url": "https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": "2024-01-12 17:59:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-12 17:59:36",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
-    },
-    {
-      "added_at": "2024-01-12 17:59:36",
-      "album": {
         "name": "My Heart Will Always Be the B-Side to My Tongue",
         "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 192133,
       "name": "Grand Theft Autumn / Where Is Your Boy - Acoustic",
       "url": "https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs"
+    },
+    {
+      "added_at": "2024-01-12 17:59:36",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2024-01-12 17:59:36",

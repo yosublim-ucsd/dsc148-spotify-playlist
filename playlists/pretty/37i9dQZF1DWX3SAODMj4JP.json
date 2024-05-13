@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 139739,
+  "num_followers": 139768,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
         "name": "S\u00f3 Tenho a Ti",
         "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "comigo",
-        "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 293018,
-      "name": "comigo",
-      "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -323,6 +303,22 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
@@ -339,18 +335,22 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+        "name": "comigo",
+        "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
+      "duration_ms": 293018,
+      "name": "comigo",
+      "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "III (Studio Sessions)",
         "url": "https://open.spotify.com/album/34C8jcy3TMTrrq0m07CYPX"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 351771,
       "name": "Highs & Lows - Acoustic",
       "url": "https://open.spotify.com/track/5g4kuydmePUJAMYGNACvRy"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Meu Repouso",
-        "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
-      },
-      "artists": [
-        {
-          "name": "Fabio Sampaio",
-          "url": "https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N"
-        },
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 258749,
-      "name": "Meu Repouso",
-      "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 241840,
       "name": "Claro e Certo",
       "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Meu Repouso",
+        "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
+      },
+      "artists": [
+        {
+          "name": "Fabio Sampaio",
+          "url": "https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N"
+        },
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 258749,
+      "name": "Meu Repouso",
+      "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Olhar de Longe",
         "url": "https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 212354,
       "name": "Olhar de Longe",
       "url": "https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Aben\u00e7oada",
         "url": "https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189919,
       "name": "Aben\u00e7oada",
       "url": "https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
         "name": "Descansar em Ti",
         "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
       },
       "artists": [
         {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
         }
       ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -1031,6 +1031,22 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-04-26 03:45:13",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
         "name": "Pra Viver Project",
         "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 341142,
       "name": "Ent\u00e3o Vem",
       "url": "https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD"
-    },
-    {
-      "added_at": "2024-04-26 03:45:13",
-      "album": {
-        "name": "O Banquete",
-        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
-      },
-      "artists": [
-        {
-          "name": "O Bairro Novo",
-          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "Corpo I",
-      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
     },
     {
       "added_at": "2024-04-26 03:45:13",
@@ -1167,6 +1151,22 @@
       "duration_ms": 303071,
       "name": "Cora\u00e7\u00e3o de Aprendiz",
       "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "added_at": "2024-04-26 03:45:13",
+      "album": {
+        "name": "O Banquete",
+        "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
+      },
+      "artists": [
+        {
+          "name": "O Bairro Novo",
+          "url": "https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "Corpo I",
+      "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
     },
     {
       "added_at": "2024-04-26 03:45:13",

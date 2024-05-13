@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-127 songs - 8 hr 41 min
+128 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |
 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 | 2023-03-03 |  |
 | [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 | 2023-03-03 |  |
+| [Completamente Enamorado](https://open.spotify.com/track/38z0QYf0EQZZrJIPJ3JQ7h) | [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Antología, Vol\. 1](https://open.spotify.com/album/7hzxFuZcD5pQ0osuJnReD9) | 4:34 | 2023-10-05 |  |
 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 | 2023-03-03 | 2024-04-19 |
 | [Con Quien Te Olvido](https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [Hecho y Derecho](https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6) | 3:28 | 2023-03-03 |  |
 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 | 2023-03-03 |  |
@@ -114,7 +115,7 @@
 | [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 | 2023-03-03 |  |
 | [Sufriendo por Tu Amor](https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:11 | 2023-05-29 |  |
 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 | 2023-03-03 |  |
-| [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 |  |
+| [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 | 2024-05-13 |
 | [Tatuaje](https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:35 | 2023-03-03 |  |
 | [Te Amo y Te Amaré](https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Princesita Mía](https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z) | 6:31 | 2023-03-03 |  |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 | 2023-03-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. La Esmeralda en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,962 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,975 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 3 | [V](https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN) | [Valeria Canavati](https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb) | [V](https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw) | 2:37 |
 | 4 | [Camino](https://open.spotify.com/track/0419zrFCGlfLFBj73b9jXP) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Camino](https://open.spotify.com/album/07UeBYQqVZ84ieMaL8h7Yw) | 3:10 |
 | 5 | [Tasmania](https://open.spotify.com/track/55dOfbCMfALGDSI8e8HWhN) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Tasmania](https://open.spotify.com/album/7DgPVNfr6xKejQTGSXYyu8) | 3:09 |
-| 6 | [Más Que Reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más Que Reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
+| 6 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 7 | [OBVIO](https://open.spotify.com/track/1lCM4FssMdZTyh8wBl7YyO) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [OBVIO](https://open.spotify.com/album/3pqTvrcPeWeXOWq35WSIFq) | 2:10 |
 | 8 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:13 |
 | 9 | [Quasimodo](https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Quasimodo](https://open.spotify.com/album/6qmaa1ZoiZpVHFPhgzYhaX) | 2:05 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 23 | [Esquirlas](https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb), [Montebel](https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV) | [Esquirlas](https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi) | 3:40 |
 | 24 | [Todxs lxs cuerpxs](https://open.spotify.com/track/31QL88tRXrt1HauyNoyxs4) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [KEVS](https://open.spotify.com/artist/7raTkac2KWLDPLyqBS0kqj) | [Todxs lxs cuerpxs](https://open.spotify.com/album/6FUGcy9fgsWJBJQeDhkr9g) | 2:33 |
 | 25 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
-| 26 | [Bendecida $ Afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida $ Afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 |
+| 26 | [Bendecida $ afortunada](https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Bendecida $ afortunada](https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID) | 2:39 |
 | 27 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |
 | 28 | [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 |
 | 29 | [Bailando sola aquí](https://open.spotify.com/track/0D96NjDhig43Wvk52gCnUB) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vida](https://open.spotify.com/album/1bBox3a6smu3GUT5ldNDST) | 4:04 |

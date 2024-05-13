@@ -2814,10 +2814,28 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/1PT8hWQvl2gRO1JhDcSUqN"
+    },
+    {
+      "album": {
+        "name": "Come back to me",
+        "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "Come back to me",
+      "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
     },
     {
       "album": {
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -10688,6 +10706,28 @@
       "duration_ms": 239845,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
       "album": {

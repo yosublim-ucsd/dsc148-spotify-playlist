@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
-  "num_followers": 282852,
+  "num_followers": 282921,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 219530,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
         "name": "\u5fc3\u5909\u308f\u308a",
         "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 186293,
       "name": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero",
       "url": "https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 219530,
-      "name": "\u30b7\u30b0\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1031,22 +1031,6 @@
       "duration_ms": 86280,
       "name": "\u3059\u3054\u3044\u901f\u3055",
       "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
-        "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
-        "url": "https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 247532,
-      "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
-      "url": "https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1095,6 +1079,22 @@
       "duration_ms": 246759,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
+        "url": "https://open.spotify.com/album/3tkhavBgGRtizTkPKxT9dd"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 247532,
+      "name": "\u5e78\u305b\u306e\u305f\u3081\u306b\u751f\u304d\u3066\u3044\u308b\u3060\u3051\u3055",
+      "url": "https://open.spotify.com/track/3yEMRcaCkM7UgEpOSKZpcM"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
+        "name": "Pepperoni Quattro",
+        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
         "name": "\u5927\u56e3\u5186",
         "url": "https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "Pepperoni Quattro",
-        "url": "https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "\u30b9\u30bf\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
         "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
-        "url": "https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 217820,
-      "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
-      "url": "https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "LOVE ROCKETS",
         "url": "https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
+        "url": "https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 217820,
+      "name": "\u30c9\u30e9\u30a4\u30d6\u30fb\u30de\u30a4\u30fb\u30a4\u30c7\u30a2",
+      "url": "https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
-        "name": "\u30d1\u30ec\u30fc\u30c9 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh"
-      },
-      "artists": [
-        {
-          "name": "Yojiro Noda",
-          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
-        }
-      ],
-      "duration_ms": 288586,
-      "name": "\u306a\u307f\u3057\u3050\u3055",
-      "url": "https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
         "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
         "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
+        "name": "\u30d1\u30ec\u30fc\u30c9 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "duration_ms": 288586,
+      "name": "\u306a\u307f\u3057\u3050\u3055",
+      "url": "https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST"
       },
@@ -1567,22 +1567,6 @@
       "duration_ms": 238586,
       "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
       "url": "https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SONGS",
-      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
     },
     {
       "added_at": "2024-05-07 15:06:14",
@@ -1603,6 +1587,38 @@
     {
       "added_at": "2024-05-07 15:06:14",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
+        "name": "miss you",
+        "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 223269,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
+    },
+    {
+      "added_at": "2024-05-07 15:06:14",
+      "album": {
         "name": "cult grass stars",
         "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"
-    },
-    {
-      "added_at": "2024-05-07 15:06:14",
-      "album": {
-        "name": "The Devil In Me",
-        "url": "https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu"
-      },
-      "artists": [
-        {
-          "name": "DIR EN GREY",
-          "url": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
-        }
-      ],
-      "duration_ms": 263413,
-      "name": "The Devil In Me",
-      "url": "https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2"
     }
   ],
   "unique_name": "Big in Japan",

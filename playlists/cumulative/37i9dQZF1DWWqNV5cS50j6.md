@@ -4,7 +4,7 @@
 
 > ?! ft\. Tommy Richman
 
-1,673 songs - 3 day 8 hr 28 min
+1,674 songs - 3 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 | 2022-07-08 | 2022-10-13 |
 | [Centauri](https://open.spotify.com/track/2soNYlAgFhZ5o0p04xjcj3) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 2:35 | 2022-10-25 | 2022-10-29 |
 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-24 | 2023-03-02 |
+| [Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 2](https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX) | 2:02 | 2024-05-10 |  |
 | [Chandelier](https://open.spotify.com/track/5H8jHmABa01Y7RSL8tejgh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Chandelier](https://open.spotify.com/album/5KFOZx4trm0m4BPQ2HzrZ1) | 3:09 | 2021-08-06 | 2021-09-03 |
 | [Change My Mind](https://open.spotify.com/track/5sL7LWGCUUEcP4gLBkFW3N) | [White Cliffs](https://open.spotify.com/artist/4zsCw7u83qsLLbUhbsnsci) | [Change My Mind](https://open.spotify.com/album/0m0LWNxHQAYvcViMZO9V0O) | 2:00 | 2023-05-19 | 2023-07-22 |
 | [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 | 2023-01-01 |
@@ -559,7 +560,7 @@
 | [Ghosts](https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV) | 3:00 | 2024-03-29 | 2024-04-27 |
 | [Ghosts](https://open.spotify.com/track/7hwDYSEPIrr5GO9Loxuk7E) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 3:00 | 2024-03-29 | 2024-04-19 |
 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-02-27 | 2024-03-15 |
-| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 | 2024-05-13 |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:34 | 2024-01-09 | 2024-04-19 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2024-01-24 |

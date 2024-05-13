@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: The Plot In You",
-  "num_followers": 924666,
+  "num_followers": 924741,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "nights",
         "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Dreamlike",
-        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 208645,
-      "name": "Dreamlike",
-      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Veil Walker",
         "url": "https://open.spotify.com/album/0D3npTMNQR9o5wFdvVZfHd"
       },
@@ -1167,6 +1135,22 @@
       "duration_ms": 216002,
       "name": "Veil Walker",
       "url": "https://open.spotify.com/track/6Bvf6VZZ2AeQsZOv1qa1jt"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Dreamlike",
+        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 208645,
+      "name": "Dreamlike",
+      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1199,6 +1183,22 @@
       "duration_ms": 239934,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Red Wine And Discontent",
-        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
-      },
-      "artists": [
-        {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
-        }
-      ],
-      "duration_ms": 213710,
-      "name": "Red Wine And Discontent",
-      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "A Crooked Melody",
         "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 235835,
       "name": "A Crooked Melody",
       "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Red Wine And Discontent",
+        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Red Wine And Discontent",
+      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1347,6 +1347,22 @@
       "duration_ms": 199127,
       "name": "Cursed To Remember",
       "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "Don\u2019t Look Away",
+      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1527,22 +1543,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "DIGITAL PARANOIA 2052",
-        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
+        "name": "Horror Domain",
+        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        },
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
         }
       ],
-      "duration_ms": 252136,
-      "name": "mutant.",
-      "url": "https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O"
+      "duration_ms": 180840,
+      "name": "Horror Domain",
+      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1563,18 +1575,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Horror Domain",
-        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
+        "name": "DIGITAL PARANOIA 2052",
+        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
       "artists": [
         {
-          "name": "Foreign Hands",
-          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Horror Domain",
-      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
+      "duration_ms": 252136,
+      "name": "mutant.",
+      "url": "https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q"
-      },
-      "artists": [
-        {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
-        }
-      ],
-      "duration_ms": 187791,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "The Fear Of Letting Go",
         "url": "https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy"
       },
@@ -1627,6 +1627,38 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "duration_ms": 187791,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "The Pact",
+        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "The Pact",
+      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w"
       },
@@ -1639,22 +1671,6 @@
       "duration_ms": 241800,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "feel something new",
-        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
-      },
-      "artists": [
-        {
-          "name": "Grayscale Season",
-          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "It Consumes Me",
-      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "The Pact",
-        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
+        "name": "feel something new",
+        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
       },
       "artists": [
         {
-          "name": "Revnoir",
-          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+          "name": "Grayscale Season",
+          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
         }
       ],
-      "duration_ms": 217500,
-      "name": "The Pact",
-      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
+      "duration_ms": 204076,
+      "name": "It Consumes Me",
+      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1743,6 +1759,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 222571,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "24 Thorns (feat. Kane Gelaznik)",
         "url": "https://open.spotify.com/album/4bfvIJJyrUPTR0sZuwcS7Y"
       },
@@ -1763,22 +1795,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Dark Waves",
-        "url": "https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 222571,
-      "name": "Dark Waves",
-      "url": "https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "God Under Fingernails",
         "url": "https://open.spotify.com/album/1Q4UfATj3O0UhjFoAXmpId"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 175000,
       "name": "God Under Fingernails",
       "url": "https://open.spotify.com/track/6rTiRiuhMjowousSPe4Bhu"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Vol. 2",
-        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "Don\u2019t Look Away",
-      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "there is a place for me on earth",
-        "url": "https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO"
-      },
-      "artists": [
-        {
-          "name": "Defocus",
-          "url": "https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "don't let it hurt me",
-      "url": "https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Hymn Of Decay",
         "url": "https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 292789,
       "name": "Hymn Of Decay",
       "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "there is a place for me on earth",
+        "url": "https://open.spotify.com/album/52Ztezv5THlWDf73gDjERO"
+      },
+      "artists": [
+        {
+          "name": "Defocus",
+          "url": "https://open.spotify.com/artist/4lqszvqBsOjOq4MItmZlsU"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "don't let it hurt me",
+      "url": "https://open.spotify.com/track/3ZhgL4UrPX2vUL9ryRtvZh"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Our Brand Is Chaos",
+        "url": "https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 275420,
+      "name": "Our Brand Is Chaos",
+      "url": "https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1919,6 +1935,22 @@
       "duration_ms": 328015,
       "name": "Faking It",
       "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "duration_ms": 195356,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1955,22 +1987,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4bvg3nL0coX5h6n9zjFnco"
-      },
-      "artists": [
-        {
-          "name": "Ankor",
-          "url": "https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/1eHwmfsLxs3IYQFh4l2Dad"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Charlatan Blues",
         "url": "https://open.spotify.com/album/1Vi35tOTTsguu9lCV8wzUn"
       },
@@ -1983,6 +1999,22 @@
       "duration_ms": 217862,
       "name": "Charlatan Blues",
       "url": "https://open.spotify.com/track/4YF3uT6Fx2QDfmoNj9u1C9"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4bvg3nL0coX5h6n9zjFnco"
+      },
+      "artists": [
+        {
+          "name": "Ankor",
+          "url": "https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/1eHwmfsLxs3IYQFh4l2Dad"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -2027,22 +2059,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Our Brand Is Chaos",
-        "url": "https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 275420,
-      "name": "Our Brand Is Chaos",
-      "url": "https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Violent Joy",
         "url": "https://open.spotify.com/album/55Kv93b3BrRFBzwADP6Xo7"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 227314,
       "name": "UNG\u00d8D",
       "url": "https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Resilient",
-        "url": "https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124"
-      },
-      "artists": [
-        {
-          "name": "We Were Giants",
-          "url": "https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz"
-        }
-      ],
-      "duration_ms": 261272,
-      "name": "Resilient",
-      "url": "https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9"
     }
   ],
   "unique_name": "The Core",

@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: The Plot In You
 
-912 songs - 2 day 8 hr 54 min
+913 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-07-13 | 2022-07-23 |
 | [Burden Pt\. 2 \(feat\. Ben Duerr\)](https://open.spotify.com/track/1yOIXuOyRGaKIFVDxdeBBx) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [Somehow // Somewhere](https://open.spotify.com/album/1WPvBepmgRMfPwpqLggBjH) | 3:55 | 2021-12-17 | 2022-01-15 |
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2021-12-17 | 2022-01-22 |
+| [Burn](https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Burn](https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ) | 3:15 | 2024-05-10 |  |
 | [Bury My Flame](https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Bury My Flame](https://open.spotify.com/album/2xbuGSzEAtxnR8mv2lci00) | 3:40 | 2022-02-11 | 2022-05-06 |
 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 | 2023-06-30 | 2023-08-19 |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2022-07-08 |
@@ -669,7 +670,7 @@
 | [Renegades](https://open.spotify.com/track/0tm8cNgXGRRwPur5q8qdUg) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Renegades](https://open.spotify.com/album/6CK1Dz5AfmgecgPtPyoaKL) | 3:42 | 2022-03-18 | 2022-05-21 |
 | [Resentment Always Simmers](https://open.spotify.com/track/1YoD30xA6djOwx65bUSgPc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Resentment is Always Seismic \- a final throw of Throes](https://open.spotify.com/album/59yT36yNUZcv2iY84QvUP1) | 4:16 | 2022-07-13 | 2022-07-15 |
 | [Reshape Me](https://open.spotify.com/track/4lr08jZqpZ2duhBuIcFoky) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Reshape Me](https://open.spotify.com/album/3dQ31D349hGROq281dT6yg) | 3:43 | 2021-12-17 | 2022-02-18 |
-| [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 |  |
+| [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 | 2024-05-13 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |

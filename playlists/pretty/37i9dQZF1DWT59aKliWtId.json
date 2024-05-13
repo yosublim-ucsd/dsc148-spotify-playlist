@@ -1,6 +1,6 @@
 {
   "description": "a high-quality alternative blend ft. Marcus King",
-  "num_followers": 104309,
+  "num_followers": 104326,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Find Your People",
         "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Right Back to It",
-        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Don\u2019t Wanna Love U",
         "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 209418,
       "name": "Don\u2019t Wanna Love U",
       "url": "https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Fox Hunt",
+        "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Fox Hunt",
+      "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Fox Hunt",
-        "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Fox Hunt",
-      "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Love Of A Girl",
+        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Love Of A Girl",
+      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Digging In The Dirt",
         "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 324436,
       "name": "Digging In The Dirt",
       "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Love Of A Girl",
-        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Love Of A Girl",
-      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Impressively Average",
         "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 173736,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Keep Going",
         "url": "https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 248640,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 173736,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Impossible House",
-        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 275614,
-      "name": "Impossible House",
-      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 235293,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/6PcY1Htlz2gw2rsZAnvMnl"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Impossible House",
+        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 275614,
+      "name": "Impossible House",
+      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Another good year for the roses",
         "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 334754,
       "name": "Another good year for the roses",
       "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Wild Days",
         "url": "https://open.spotify.com/album/0p7Ovi78Z8SEfl7easPLF3"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 219349,
       "name": "Wild Days",
       "url": "https://open.spotify.com/track/4J1zHD22PDW4Jdw6XYXs28"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
     },
     {
       "added_at": "2024-04-05 04:00:00",

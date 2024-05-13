@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 124545,
+  "num_followers": 124539,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 189954,
       "name": "Oye",
       "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Milenario, Vol. 3",
-        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -375,6 +355,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 191772,
       "name": "Todo el Mundo Necesita un Beso",
       "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -439,6 +423,22 @@
       "duration_ms": 280266,
       "name": "La Canoa Ranchaa",
       "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
         "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 364617,
       "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
       "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Sorbito De Champagne",
+      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
         "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Ramiro Y Joche",
+          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
         }
       ],
-      "duration_ms": 211133,
-      "name": "Sorbito De Champagne",
-      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
+      "duration_ms": 305950,
+      "name": "La Due\u00f1a de Mi Suerte",
+      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -791,22 +807,6 @@
       "duration_ms": 157866,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Y Joche",
-          "url": "https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1"
-        }
-      ],
-      "duration_ms": 305950,
-      "name": "La Due\u00f1a de Mi Suerte",
-      "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -847,6 +847,22 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Traicionera - Digitally Remastered Original",
+      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -919,22 +935,6 @@
       "duration_ms": 216293,
       "name": "Qu\u00e9 Voy a Hacer Sin Ti",
       "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Traicionera - Digitally Remastered Original",
-      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Rescatando los \u00c9xitos Originales de Long Play",
         "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 207566,
       "name": "Plegaria",
       "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Esta Navidad No Es Mia",
+      "url": "https://open.spotify.com/track/0ZnZT0eGVzK6OiTjtAtRBw"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Mis Mejores \u00c9xitos",
         "url": "https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 176273,
       "name": "La Paloma Guarumera",
       "url": "https://open.spotify.com/track/16bOQUi9cs6bb08VWDoH7U"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Esta Navidad No Es Mia",
-      "url": "https://open.spotify.com/track/0ZnZT0eGVzK6OiTjtAtRBw"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "16 \u00c9xitos de Navidad y A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF"
+        "name": "\u00c9xitos Gabriel Romero",
+        "url": "https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb"
       },
       "artists": [
         {
-          "name": "Guillermo Buitrago",
-          "url": "https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p"
-        },
-        {
-          "name": "Los Trovadores de Baru",
-          "url": "https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP"
+          "name": "Gabriel Romero",
+          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
         }
       ],
-      "duration_ms": 150410,
-      "name": "V\u00edspera de A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y"
+      "duration_ms": 194730,
+      "name": "Av\u00e9 Pa Ve",
+      "url": "https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

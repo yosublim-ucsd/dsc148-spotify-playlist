@@ -1,12 +1,12 @@
 {
-  "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 378828,
+  "description": "This is Sade. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 378967,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACC6sWk8glL1jeobcmxAECU",
+  "snapshot_id": "Zj61AAAAAACnQhP5tKZOcFBQ7syXLh0f",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 283426,
-      "name": "I Will Be Your Friend",
-      "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
+      "duration_ms": 378733,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 378733,
-      "name": "Cherry Pie",
-      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
+      "duration_ms": 283426,
+      "name": "I Will Be Your Friend",
+      "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
     },
     {
       "added_at": null,

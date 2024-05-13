@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 221626,
       "name": "Antes Que Ver El Sol",
       "url": "https://open.spotify.com/track/0BJdpD3m8414QOj8iqFYMR"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "So Far: The Best of Sin\u00e9ad O'Connor",
+        "url": "https://open.spotify.com/album/0NEqYqkLFoLgsRlfIS3xoV"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/6QYH8cjdC23Qt2HT4UtycH"
+    },
+    {
+      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -4474,6 +4492,24 @@
       "duration_ms": 209893,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj"
+    },
+    {
+      "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/0MkGuzsKsFxKDEooicDO4X"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188238,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/3zb856RMKFjdvWre0TKcmA"
     },
     {
       "album": {

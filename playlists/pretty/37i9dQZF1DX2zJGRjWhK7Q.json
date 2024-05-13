@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 194108,
+  "num_followers": 194228,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
       "duration_ms": 386306,
       "name": "La Rueda",
       "url": "https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2024-03-19 14:38:10",
@@ -195,22 +179,18 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
       "artists": [
         {
           "name": "El Gran Combo De Puerto Rico",
           "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
         }
       ],
-      "duration_ms": 290456,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2024-03-19 14:38:10",
@@ -351,6 +331,26 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 290456,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
         "name": "Hecho y Derecho (Doin' It Right)",
         "url": "https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
         "name": "Plante Bandera",
         "url": "https://open.spotify.com/album/3m28lC1sNHIdKpRAswcoU5"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 231944,
       "name": "Sigue Tu Camino",
       "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2024-03-19 14:38:10",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 370640,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 333920,
       "name": "El Pito (I'll Never Go Back to Georgia)",
       "url": "https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 370640,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-03-19 14:38:10",
@@ -675,38 +675,6 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "The Latin Soul Man",
-        "url": "https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626826,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
         "name": "Asalto Navide\u00f1o Deluxe Edition",
         "url": "https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo"
       },
@@ -727,6 +695,22 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
+        "name": "The Latin Soul Man",
+        "url": "https://open.spotify.com/album/5eJb5vJaEkFhyYYnPeIltG"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/3eBkq0Q62N2CXuJzoC0ZyE"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 318800,
       "name": "Siempre Alegre",
       "url": "https://open.spotify.com/track/6otJXrhINqJosHnDwFtGj2"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626826,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
     },
     {
       "added_at": "2024-03-19 14:38:10",

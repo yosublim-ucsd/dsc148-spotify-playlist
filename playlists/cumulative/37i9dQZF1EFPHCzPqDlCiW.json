@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/5hmhIJQOtTfAncnrg6lZv3"
       },

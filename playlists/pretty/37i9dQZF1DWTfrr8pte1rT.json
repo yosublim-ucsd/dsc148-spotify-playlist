@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 326802,
+  "num_followers": 326857,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -979,22 +963,6 @@
       "duration_ms": 300916,
       "name": "Shivering",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "Good F**King Music",
-        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 206433,
-      "name": "Good F**King Music",
-      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1019,6 +987,38 @@
       "duration_ms": 201600,
       "name": "Kneel Before Me",
       "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Good F**King Music",
+        "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 206433,
+      "name": "Good F**King Music",
+      "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "Wouldn\u2019t Change A Thing",
         "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
       },
@@ -1211,42 +1231,22 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         },
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Onyx",
-        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 259401,
-      "name": "Our Fire",
-      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Out Of Options (feat. midwxst)",
         "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 156500,
       "name": "Out Of Options (feat. midwxst)",
       "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
+        "name": "Never Change (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
       },
       "artists": [
         {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 162856,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
+      "duration_ms": 268915,
+      "name": "Never Change - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Never Change (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/7oIr0bLgBlxMScTiaVlU3K"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
       },
       "artists": [
         {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
         }
       ],
-      "duration_ms": 268915,
-      "name": "Never Change - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
+      "duration_ms": 162856,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1815,42 +1815,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "MY MASOCHISTIC MIND",
-        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "I am a Machine",
-      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Enemy Brain Entertainment Suite",
         "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
@@ -1863,6 +1827,22 @@
       "duration_ms": 251511,
       "name": "Enemy Brain",
       "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "MY MASOCHISTIC MIND",
+        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "I am a Machine",
+      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1883,6 +1863,26 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Angst - RMX by twocolors",
+      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2051,26 +2071,6 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Angst - RMX by twocolors",
-      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/6P1n6t28uJ48tzyKUIsbel"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 238378,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/6Nd0zIgpwa1W1faRldX6n8"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 284137,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/6P1n6t28uJ48tzyKUIsbel"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 238378,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/6Nd0zIgpwa1W1faRldX6n8"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Eyes Wide Shut",
-        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Black Velvet",
         "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
       },
@@ -2335,6 +2315,26 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP"
       },
@@ -2347,26 +2347,6 @@
       "duration_ms": 198000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "HEADCASE",
-        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "HEADCASE",
-      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2387,6 +2367,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "HEADCASE",
+        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "HEADCASE",
+      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
     },
     {
       "added_at": "2024-05-10 17:26:40",

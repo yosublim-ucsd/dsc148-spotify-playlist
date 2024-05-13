@@ -4237,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Rick(y)",
+        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122366,
+      "name": "Here Comes the Moon",
+      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
+    },
+    {
+      "album": {
         "name": "highschool",
         "url": "https://open.spotify.com/album/1QupMGsA571ZOoZUa6nWjU"
       },
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 165177,
       "name": "lost a friend",
       "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"

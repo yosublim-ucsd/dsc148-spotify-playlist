@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 375646,
+  "num_followers": 375747,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "TABU.",
         "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 191200,
       "name": "Tell Me Why - Maddix Remix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -779,30 +779,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Would I Lie To You",
-        "url": "https://open.spotify.com/album/7F8t51dGpDj5QaGoqWXMRU"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "HYPER BOYZ",
-          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
-        }
-      ],
-      "duration_ms": 122848,
-      "name": "Would I Lie To You",
-      "url": "https://open.spotify.com/track/2TzmzknUmcesfodpvJ28KT"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
       },
@@ -847,6 +823,30 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Would I Lie To You",
+        "url": "https://open.spotify.com/album/7F8t51dGpDj5QaGoqWXMRU"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "HYPER BOYZ",
+          "url": "https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o"
+        }
+      ],
+      "duration_ms": 122848,
+      "name": "Would I Lie To You",
+      "url": "https://open.spotify.com/track/2TzmzknUmcesfodpvJ28KT"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -871,6 +871,30 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -911,30 +935,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 237928,
       "name": "9mm",
       "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Round Round",
         "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
       },
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 216592,
       "name": "Europatr\u00e4ume",
       "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Fire To The Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Fire To The Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Voodoo People",
         "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Love Is A Drug",
-        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
       },
@@ -1623,18 +1603,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+        "name": "Love Is A Drug",
+        "url": "https://open.spotify.com/album/0GopSmATK0Dk4PN7KDskBJ"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
         }
       ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+      "duration_ms": 200625,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1787,30 +1787,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/2Y1f7HHvMKNui3YIwwpsfA"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "New Beat Order",
-          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
-        },
-        {
-          "name": "ROXANA",
-          "url": "https://open.spotify.com/artist/3sRbZQpyLlQ59jpaW9weYm"
-        }
-      ],
-      "duration_ms": 122482,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1MlFhweLjtHC35E3u0AjtW"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Gimme The Word",
         "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
       },
@@ -1835,22 +1811,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/2Y1f7HHvMKNui3YIwwpsfA"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
         },
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "ROXANA",
+          "url": "https://open.spotify.com/artist/3sRbZQpyLlQ59jpaW9weYm"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+      "duration_ms": 122482,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1MlFhweLjtHC35E3u0AjtW"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1871,6 +1851,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Better Than Gold",
         "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
       },
@@ -1887,26 +1887,6 @@
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "AVAO",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1947,26 +1927,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Satellite (Tweekacore Remix)",
-        "url": "https://open.spotify.com/album/3pHZPSyb1HuyDVDPBVNX28"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl"
       },
       "artists": [
         {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tweekacore",
-          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
         }
       ],
-      "duration_ms": 221854,
-      "name": "Satellite - Tweekacore Remix",
-      "url": "https://open.spotify.com/track/1FSZYa6qb0Is7SBxu3Psyi"
+      "duration_ms": 188571,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1991,6 +1967,30 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Satellite (Tweekacore Remix)",
+        "url": "https://open.spotify.com/album/3pHZPSyb1HuyDVDPBVNX28"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tweekacore",
+          "url": "https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj"
+        }
+      ],
+      "duration_ms": 221854,
+      "name": "Satellite - Tweekacore Remix",
+      "url": "https://open.spotify.com/track/1FSZYa6qb0Is7SBxu3Psyi"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Bass Down Low",
         "url": "https://open.spotify.com/album/0ZVzN0Kj0vgK7EjVRUusVz"
       },
@@ -2007,26 +2007,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Bouncing Ball",
-        "url": "https://open.spotify.com/album/0KbRzjlCzX7w8yiMmPnOEq"
+        "name": "Bouncy (Bass Test)",
+        "url": "https://open.spotify.com/album/6kYy8qyQtnZRbKK7lKeXXm"
       },
       "artists": [
         {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
         },
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "Morty Simmons",
+          "url": "https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst"
         },
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "David Jay",
+          "url": "https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Bouncing Ball",
-      "url": "https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY"
+      "duration_ms": 116162,
+      "name": "Bouncy (Bass Test)",
+      "url": "https://open.spotify.com/track/4F6b8D0ZNdni5shVRTlwWy"
     }
   ],
   "unique_name": "Bass Explosion",

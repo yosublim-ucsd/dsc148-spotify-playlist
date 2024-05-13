@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-524 songs - 1 day 12 hr 23 min
+525 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 | 2023-12-30 |  |
 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 | 2023-12-30 |  |
 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 | 2023-12-30 |  |
-| [I Decide \(Made Popular By Lindsay Lohan\) \[Karaoke Version\]](https://open.spotify.com/track/4klhTTQKQeGro7N3kosvV7) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Pop Female Hits 4](https://open.spotify.com/album/2vD12yloW6UAn87z71W0qg) | 3:10 | 2023-12-30 |  |
+| [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 | 2024-05-12 |  |
+| [I Decide \(Made Popular By Lindsay Lohan\) \[Karaoke Version\]](https://open.spotify.com/track/4klhTTQKQeGro7N3kosvV7) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Pop Female Hits 4](https://open.spotify.com/album/2vD12yloW6UAn87z71W0qg) | 3:10 | 2023-12-30 | 2024-05-13 |
 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 | 2023-12-30 |  |
 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 | 2023-12-30 |  |
 | [I Didn't Want To Need You](https://open.spotify.com/track/1YkQGGaaE5Qqes82meBdOi) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:09 | 2023-12-30 |  |

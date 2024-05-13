@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
+    },
+    {
+      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 412631,
       "name": "The Whole Thing",
       "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"

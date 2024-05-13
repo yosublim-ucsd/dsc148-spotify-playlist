@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: IMANU
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 488 likes - 101 songs - 5 hr 42 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 488 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 98 | [i think you're cool \- IMANU x QUIET BISON Remix](https://open.spotify.com/track/6Ko6GXJn6zUyCShnmAw7Ym) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Catching Z's \(Remixes\)](https://open.spotify.com/album/0CygLCVwl4VC9uDvlO6snH) | 3:35 |
 | 99 | [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 |
 | 100 | [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 |
-| 101 | [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 |
 
-Snapshot ID: `AAADq5cqk9xxI8AfMyGRRZDbIgqUM74N`
+Snapshot ID: `AAADripzi6NJZDanFqwLJtJ/PLonW0WV`

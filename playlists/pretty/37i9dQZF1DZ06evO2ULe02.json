@@ -1,13 +1,29 @@
 {
-  "description": "This is Aidan Bissett. De mest popul\u00e6re numre i \u00e9n playliste.",
-  "num_followers": 728,
+  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "num_followers": 729,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAADT2FfIca5jXjQJEyBlfZGT",
+  "snapshot_id": "Zj61AAAAAAA9hHyXpz1FWizmjuey4dE+",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
+    },
     {
       "added_at": null,
       "album": {
@@ -199,22 +215,6 @@
       "duration_ms": 171938,
       "name": "I Can't Be Your Friend",
       "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grocery Store Girl",
-        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163983,
-      "name": "Grocery Store Girl",
-      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
     },
     {
       "added_at": null,

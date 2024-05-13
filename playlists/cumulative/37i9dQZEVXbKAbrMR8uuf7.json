@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 82546,
       "name": "AY LILY",
       "url": "https://open.spotify.com/track/2Uy02BhDtNxdHZy24vZiiJ"
@@ -6277,6 +6277,40 @@
     },
     {
       "album": {
+        "name": "Diabla (Remix)",
+        "url": "https://open.spotify.com/album/18F9XljbyIWIs0wewJ5D0s"
+      },
+      "artists": [
+        {
+          "name": "Xavi The Destroyer",
+          "url": "https://open.spotify.com/artist/39e9M8JyGYz1NzelCM8uHG"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Deezy X",
+          "url": "https://open.spotify.com/artist/2OcIcvA5jHbKqgmOknCPkM"
+        },
+        {
+          "name": "JEYYFF",
+          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331763,
+      "name": "Diabla - Remix",
+      "url": "https://open.spotify.com/track/0FraKCXzuteblMZEcWdOtZ"
+    },
+    {
+      "album": {
         "name": "Dembow Code",
         "url": "https://open.spotify.com/album/1LNUcuGlhITuNqzDDaGvqu"
       },
@@ -7626,7 +7660,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -12800,7 +12834,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -17360,7 +17394,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 99310,
       "name": "NO ME LA SUBE",
       "url": "https://open.spotify.com/track/1d8HSZPvRjWJ1LZARZMu3o"
@@ -17974,7 +18008,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
@@ -21558,7 +21592,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
@@ -27778,7 +27812,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"

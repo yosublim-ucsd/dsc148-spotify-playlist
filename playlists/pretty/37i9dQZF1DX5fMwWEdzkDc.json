@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14486,
+  "num_followers": 14479,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "Freestyle 3",
+        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "freestyle",
+          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 280026,
+      "name": "Y (Please Tell Me Why)",
+      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -175,34 +175,18 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Freestyle 3",
-        "url": "https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "freestyle",
-          "url": "https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 280026,
-      "name": "Y (Please Tell Me Why)",
-      "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -287,6 +271,22 @@
       "duration_ms": 208773,
       "name": "Hot Issue",
       "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "SO COOL",
-        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201273,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "SO COOL",
+        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201273,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "S.E.S. - The 1st Album",
-        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "(\u2032Cause) I\u2032m Your Girl",
-      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 218653,
       "name": "Girls On Top",
       "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "S.E.S. - The 1st Album",
+        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "(\u2032Cause) I\u2032m Your Girl",
+      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Ames Room",
+        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
+      },
+      "artists": [
+        {
+          "name": "Supreme Team",
+          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
+        },
+        {
+          "name": "Young Jun",
+          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
+        }
+      ],
+      "duration_ms": 263079,
+      "name": "Then Then Then",
+      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 200556,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Ames Room",
-        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
-      },
-      "artists": [
-        {
-          "name": "Supreme Team",
-          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
-        },
-        {
-          "name": "Young Jun",
-          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
-        }
-      ],
-      "duration_ms": 263079,
-      "name": "Then Then Then",
-      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 245159,
+      "name": "I drink again",
+      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 217626,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 245159,
-      "name": "I drink again",
-      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Master`s sun OST",
-        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 244126,
-      "name": "Touch love",
-      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "MIRACLE - The 2.5th Album",
         "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212960,
       "name": "VALENTI",
       "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Master`s sun OST",
+        "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 244126,
+      "name": "Touch love",
+      "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1267,38 +1267,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "To My Boyfriend",
-      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 272662,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Mc The Max - Solitude Love\u2026",
         "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 358870,
       "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
       "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "To My Boyfriend",
+      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1331,6 +1315,38 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 272662,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1363,22 +1379,6 @@
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-04-04 20:14:22",
       "album": {
-        "name": "Shady Girl",
-        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "Shady Girl",
-      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
@@ -1607,22 +1591,6 @@
       "duration_ms": 251194,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2024-04-04 20:14:22",
-      "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2024-04-04 20:14:22",
@@ -1643,6 +1611,38 @@
       "duration_ms": 238628,
       "name": "LOVE119 (feat. MC Mong)",
       "url": "https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "Shady Girl",
+        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "Shady Girl",
+      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
+    },
+    {
+      "added_at": "2024-04-04 20:14:22",
+      "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

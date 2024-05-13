@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 176 | [Better](https://open.spotify.com/track/4W1HsvmcGtusNPyqdVOqaV) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 4:40 |
 | 177 | [Lyrical Healing](https://open.spotify.com/track/6QkRTkarDVgHf2WGGcmU5g) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 1:16 |
 | 178 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
-| 179 | [824](https://open.spotify.com/track/0ZkkO40Ze87SQeINoly4s4) | [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [OMGRONNY](https://open.spotify.com/album/5WwaSQFmjzYtrKksqaLjjX) | 3:30 |
-| 180 | [Alcantara](https://open.spotify.com/track/7Efz4qL6h9FeVh8lf77Mvi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:07 |
+| 179 | [Alcantara](https://open.spotify.com/track/7Efz4qL6h9FeVh8lf77Mvi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:07 |
+| 180 | [824](https://open.spotify.com/track/0ZkkO40Ze87SQeINoly4s4) | [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [OMGRONNY](https://open.spotify.com/album/5WwaSQFmjzYtrKksqaLjjX) | 3:30 |
 | 181 | [Insecurities](https://open.spotify.com/track/6TptBrPCJpE40HGqdZEqyt) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:26 |
 | 182 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 |
 | 183 | [Awkward Groove](https://open.spotify.com/track/5AweRwX4JImp2GDZrJuRlG) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:33 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 211 | [Electric Prince](https://open.spotify.com/track/41HHyPT2sSZGMfcAMWkSQ1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:23 |
 | 212 | [The Prince Lives](https://open.spotify.com/track/2l6kKeJ6hBG1lwcFzdeoR1) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:30 |
 | 213 | [Reste en vie \- fragile](https://open.spotify.com/track/20eyfLl6Qib62ljOowPA6O) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Facile x Fragile \(Version deluxe\)](https://open.spotify.com/album/7BcRdUtUhuDpvyOsv1a4lF) | 3:13 |
-| 214 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
-| 215 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
+| 214 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
+| 215 | [A Burnt Prince](https://open.spotify.com/track/4F2d8yjpbqoKCbGgJDnEgZ) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 0:51 |
 | 216 | [Dear Boy](https://open.spotify.com/track/47LToA6rpfFwwMu7npAwWd) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:05 |
 | 217 | [Never Want to Leave](https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 2:34 |
 | 218 | [Love Me Back](https://open.spotify.com/track/3TkWlPbDAl2LbYIQMgHT3B) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Opia](https://open.spotify.com/album/1ZzzTOX2ZFiGjaEdy1e1F6) | 2:49 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbRFGwAAAACedKr05qraEhIgApGc6K+a`
+Snapshot ID: `AbRKuwAAAAD2KNtCtif3DsWiXxHmHUwT`

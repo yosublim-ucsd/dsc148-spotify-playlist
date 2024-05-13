@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 212774,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
@@ -6356,6 +6356,24 @@
       "duration_ms": 193866,
       "name": "The In Between",
       "url": "https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO"
+    },
+    {
+      "album": {
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
     },
     {
       "album": {

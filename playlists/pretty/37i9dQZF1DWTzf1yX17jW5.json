@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 8789,
+  "num_followers": 8803,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -115,38 +115,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191959,
-      "name": "CYBERTRUCK",
-      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "jersey luv",
         "url": "https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr"
       },
@@ -207,38 +175,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "DO IT AGAIN (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -255,6 +191,54 @@
       "duration_ms": 213206,
       "name": "DO IT AGAIN (feat. 2Rare)",
       "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "CYBERTRUCK",
+      "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -299,6 +283,22 @@
       "duration_ms": 147499,
       "name": "Quiz\u00e1s, Tal Vez",
       "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1163,26 +1163,18 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Beat it Up 2k23",
-        "url": "https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n"
+        "name": "Jersey Club Movie",
+        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
       },
       "artists": [
         {
-          "name": "DJ Difficult",
-          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
-        },
-        {
-          "name": "A.B.E",
-          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
-        },
-        {
-          "name": "Slice ThaHitMaker",
-          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         }
       ],
-      "duration_ms": 225175,
-      "name": "Beat it Up 2k23",
-      "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
+      "duration_ms": 97342,
+      "name": "Jersey Club Movie",
+      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1215,18 +1207,26 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Jersey Club Movie",
-        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
+        "name": "Beat it Up 2k23",
+        "url": "https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n"
       },
       "artists": [
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "DJ Difficult",
+          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
+        },
+        {
+          "name": "A.B.E",
+          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
+        },
+        {
+          "name": "Slice ThaHitMaker",
+          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
         }
       ],
-      "duration_ms": 97342,
-      "name": "Jersey Club Movie",
-      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
+      "duration_ms": 225175,
+      "name": "Beat it Up 2k23",
+      "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Love You",
-        "url": "https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn"
-      },
-      "artists": [
-        {
-          "name": "Curly J",
-          "url": "https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl"
-        }
-      ],
-      "duration_ms": 146834,
-      "name": "Love You",
-      "url": "https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Real Hips 2",
         "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 131200,
       "name": "Real Hips 2",
       "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn"
+      },
+      "artists": [
+        {
+          "name": "Curly J",
+          "url": "https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl"
+        }
+      ],
+      "duration_ms": 146834,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv"
     },
     {
       "added_at": "2023-12-01 14:44:59",

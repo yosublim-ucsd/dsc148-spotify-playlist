@@ -9078,7 +9078,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 178800,
       "name": "Doktor - Torz",
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
@@ -10402,7 +10402,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -10726,7 +10726,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -19811,6 +19811,24 @@
     },
     {
       "album": {
+        "name": "Lithe Fall Back",
+        "url": "https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs"
+      },
+      "artists": [
+        {
+          "name": "Shugoazy",
+          "url": "https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129516,
+      "name": "Lithe Fall Back",
+      "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
+    },
+    {
+      "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
       },
@@ -26405,6 +26423,24 @@
     },
     {
       "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Oxyg\u00e8ne, Pt. 4",
+      "url": "https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf"
+    },
+    {
+      "album": {
         "name": "Z domu pre\u010d",
         "url": "https://open.spotify.com/album/6GF09AaEstPX33aviryMnt"
       },
@@ -28196,7 +28232,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 121600,
       "name": "Povedz Pre\u010do",
       "url": "https://open.spotify.com/track/5HEeGbBXtViveCqXlr4mBa"
@@ -35174,7 +35210,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 179473,
       "name": "Teresa & Maria",
       "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"
@@ -37950,7 +37986,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"

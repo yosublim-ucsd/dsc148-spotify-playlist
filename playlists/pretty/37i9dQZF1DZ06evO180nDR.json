@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 27418,
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
+  "num_followers": 27444,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAADrFDGe6iNEhcsG8BFjaK7r",
+  "snapshot_id": "Zj61AAAAAACedlEZSX3BaTJWnIHu5Kzw",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Coquette",
+        "url": "https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 142469,
+      "name": "Tu Coquette",
+      "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 177260,
       "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
       "url": "https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Coquette",
-        "url": "https://open.spotify.com/album/2nzgoe1ec0d2nZt5fkU44o"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 142469,
-      "name": "Tu Coquette",
-      "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DE 8 A 5",
         "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 194477,
       "name": "De 8 A 5",
       "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.H.C. (En Vivo)",
-        "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "T.H.C. - En Vivo",
-      "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mercedes Cuadradita (En Vivo)",
         "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 155280,
       "name": "La Mercedes Cuadradita (En Vivo)",
       "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T.H.C. (En Vivo)",
+        "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "T.H.C. - En Vivo",
+      "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 288655,
+  "num_followers": 288689,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "For LP Fans Only",
         "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 115280,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+        "name": "Songs Of Our Soil",
+        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 123373,
-      "name": "Saddle Tramp",
-      "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
+      "duration_ms": 107280,
+      "name": "Five Feet High and Rising",
+      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Songs Of Our Soil",
-        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 107280,
-      "name": "Five Feet High and Rising",
-      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Johnny Horton'S Greatest Hits",
         "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 151626,
       "name": "The Battle Of New Orleans",
       "url": "https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 123373,
+      "name": "Saddle Tramp",
+      "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 117080,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Don't Take Your Guns to Town",
-      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Don't Take Your Guns to Town",
+      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
-        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "If You've Got the Money I've Got the Time",
-      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -571,34 +555,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
+        "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
-        "name": "Bobby Helms Sings To My Special Angel",
-        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
+      "duration_ms": 179306,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -623,18 +591,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Kitty Wells",
-        "url": "https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Making Believe - 1955 Single Version",
-      "url": "https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6"
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -651,6 +619,38 @@
       "duration_ms": 137106,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Kitty Wells",
+        "url": "https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Making Believe - 1955 Single Version",
+      "url": "https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Blue, Blue Day",
-      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
         "name": "Gotta Travel On: The Very Best Of Billy Grammar",
         "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
       "artists": [
         {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 130893,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+      "duration_ms": 113240,
+      "name": "Blue, Blue Day",
+      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 167906,
       "name": "Alabama Jubilee",
       "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "The Best Of Jean Shepard",
+        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
+      "duration_ms": 146866,
+      "name": "Forgive Me, John",
+      "url": "https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Best Of Jean Shepard",
-        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
       "artists": [
         {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 146866,
-      "name": "Forgive Me, John",
-      "url": "https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk"
+      "duration_ms": 179600,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 179600,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
+      "duration_ms": 192960,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "How's the World Treating You",
-      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "How's the World Treating You",
+      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
     },
     {
       "added_at": "2024-03-18 20:17:22",

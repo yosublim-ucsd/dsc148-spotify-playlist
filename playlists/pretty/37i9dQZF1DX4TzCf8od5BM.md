@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,929 likes - 172 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,937 likes - 172 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SuperKitties Theme Song](https://open.spotify.com/track/10wEHhCfKOvywm46uMm2Jr) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 2:07 |
-| 2 | [Ariel \(Theme Song\) \- From "Disney Junior Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Junior Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 |
+| 2 | [Ariel \(Theme Song\) \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Jr\. Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 |
 | 3 | [Best Day Ever](https://open.spotify.com/track/5xuJWkruuozU1po4XJ8V2M) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Charged](https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB) | 2:36 |
 | 4 | [Feelin' Good](https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Feelin' Good](https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc) | 3:03 |
 | 5 | [Playdate with Winnie the Pooh Theme Song \- Extended Version](https://open.spotify.com/track/1GwsHc97qkn9BSW1LqymzU) | [Playdate with Winnie the Pooh \- Cast](https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Playdate with Winnie the Pooh](https://open.spotify.com/album/3k2GcBUHvasbNlBr0qeBQW) | 2:02 |

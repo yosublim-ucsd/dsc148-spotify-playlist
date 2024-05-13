@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-26",
-  "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
+  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
   "name": "This Is My Chemical Romance",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 272906,
       "name": "DESTROYA",
       "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 246720,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"

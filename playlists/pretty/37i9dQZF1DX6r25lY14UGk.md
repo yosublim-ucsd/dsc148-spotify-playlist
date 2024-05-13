@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,012 likes - 186 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,078 likes - 186 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Great Day on CoComelon Lane \- Songs From the Netflix Series](https://open.spotify.com/track/26l8C2Awi4ECGIUk20EBMY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 2 \(Songs From the Netflix Series\)](https://open.spotify.com/album/1AAYsCyNTbVHgQMVYatIIf) | 3:26 |
 | 2 | [Perfect Night](https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Perfect Night](https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp) | 2:40 |
 | 3 | [Over the Deep Blue Sea](https://open.spotify.com/track/2VXz1S8wFArP5OuvyVhUEW) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Songs From Caitie's Classroom, Vol\. 4](https://open.spotify.com/album/1MC2oc1Rumf0sSeegUGZvW) | 2:20 |
-| 4 | [Ariel \(Theme Song\) \- From "Disney Junior Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Junior Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 |
+| 4 | [Ariel \(Theme Song\) \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Jr\. Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 |
 | 5 | [I Can't Wiggle My Nose](https://open.spotify.com/track/5bzNUisQ3etdJJwkptikIT) | [Judi Cranston](https://open.spotify.com/artist/2N2v15qhPA6Hxe3gwCgY0B) | [I Can't Wiggle My Nose](https://open.spotify.com/album/0fsbozwaokIQp7tVyJpL4P) | 1:36 |
 | 6 | [Sunny Day \(Come and Play With Me\)](https://open.spotify.com/track/73fEHe5tfU3aXBNQHjugOP) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [Sunny Day \(Come and Play With Me\)](https://open.spotify.com/album/4AFXU4JtA5uKIQn2CCPB8m) | 2:26 |
 | 7 | [Pineapple People](https://open.spotify.com/track/1l1KEQISk3IXWk1kbSmdvI) | [The Vegetable Plot](https://open.spotify.com/artist/25obYieOVBceEUnI5t5Jih) | [Pineapple People](https://open.spotify.com/album/2UCriQfncFhcz5jrgDCnLv) | 3:46 |

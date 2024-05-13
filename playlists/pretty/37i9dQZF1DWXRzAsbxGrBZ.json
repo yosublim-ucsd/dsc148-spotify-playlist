@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 53800,
+  "num_followers": 53915,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        }
+      ],
+      "duration_ms": 373592,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
         "name": "Queen (Dan Kye Remix)",
         "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 327894,
       "name": "Queen - Dan Kye Remix",
       "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
-      },
-      "artists": [
-        {
-          "name": "Fatso 98",
-          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
-        }
-      ],
-      "duration_ms": 373592,
-      "name": "HER",
-      "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
         "name": "4 The Wolves",
         "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 399661,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -351,6 +351,54 @@
       "duration_ms": 353701,
       "name": "You've Been Missing Me",
       "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
+        "name": "Can't Give Up Now (EarfulSoul)",
+        "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+        },
+        {
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        }
+      ],
+      "duration_ms": 446646,
+      "name": "Can't Give Up Now (feat. EarfulSoul)",
+      "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -431,30 +479,6 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
       },
@@ -527,6 +551,26 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
+        "name": "Little Me",
+        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 437415,
+      "name": "Little Me - Extended Mix",
+      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
         "name": "Usangikhumbula (Fka Mash Glitch Dub)",
         "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
       },
@@ -551,22 +595,22 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Little Me",
-        "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
       "artists": [
         {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
         },
         {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
         }
       ],
-      "duration_ms": 437415,
-      "name": "Little Me - Extended Mix",
-      "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -591,50 +635,6 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
-      },
-      "artists": [
-        {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
-        },
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        }
-      ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
-        "name": "Can't Give Up Now (EarfulSoul)",
-        "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "Poizen",
-          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
-        },
-        {
-          "name": "Earful Soul",
-          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
-        }
-      ],
-      "duration_ms": 446646,
-      "name": "Can't Give Up Now (feat. EarfulSoul)",
-      "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
-      },
-      "artists": [
-        {
-          "name": "The Groove Experience",
-          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
-        },
-        {
-          "name": "Aiyon",
-          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
-        }
-      ],
-      "duration_ms": 417600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
         "name": "From Blak With Love",
         "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Falling outta love often",
-        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
       "artists": [
         {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+          "name": "The Groove Experience",
+          "url": "https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2"
         },
         {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+          "name": "Aiyon",
+          "url": "https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr"
         }
       ],
-      "duration_ms": 261428,
-      "name": "Falling outta love often - Radio Edit",
-      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
+      "duration_ms": 417600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -803,6 +783,26 @@
       "duration_ms": 465288,
       "name": "Those Times",
       "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
+        "name": "Falling outta love often",
+        "url": "https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 261428,
+      "name": "Falling outta love often - Radio Edit",
+      "url": "https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
+        "name": "Timeless Tales Ep",
+        "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
+      },
+      "artists": [
+        {
+          "name": "The AquaBlendz",
+          "url": "https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA"
+        }
+      ],
+      "duration_ms": 398275,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-05-10 06:30:41",
       "album": {
-        "name": "Timeless Tales Ep",
-        "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
-      },
-      "artists": [
-        {
-          "name": "The AquaBlendz",
-          "url": "https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA"
-        }
-      ],
-      "duration_ms": 398275,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
         "name": "The Inglourious",
         "url": "https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X"
       },
@@ -943,6 +943,26 @@
       "duration_ms": 399986,
       "name": "The Inglourious",
       "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+    },
+    {
+      "added_at": "2024-05-10 06:30:41",
+      "album": {
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
+        }
+      ],
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
     },
     {
       "added_at": "2024-05-10 06:30:41",
@@ -987,30 +1007,6 @@
       "duration_ms": 281606,
       "name": "Dlali Namba - Original Mix",
       "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
-    },
-    {
-      "added_at": "2024-05-10 06:30:41",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
-      },
-      "artists": [
-        {
-          "name": "Black Villain",
-          "url": "https://open.spotify.com/artist/3CUEUOOinhiFpSHYUNB43W"
-        },
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        },
-        {
-          "name": "Lunga SA",
-          "url": "https://open.spotify.com/artist/5wr1vRS4fvNtOEG1S4zEAQ"
-        }
-      ],
-      "duration_ms": 412631,
-      "name": "The Whole Thing",
-      "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
     }
   ],
   "unique_name": "Deep House Session",

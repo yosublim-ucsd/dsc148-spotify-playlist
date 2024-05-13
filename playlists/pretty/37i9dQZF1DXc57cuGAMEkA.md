@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE, Post Malone, Ice Spice,  SEKAI NO OWARI and more! cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,332 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,451 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

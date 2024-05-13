@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
 
-297 songs - 16 hr 50 min
+298 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 | 2023-02-26 |  |
 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 | 2022-09-05 | 2023-02-07 |
 | [Nusrat](https://open.spotify.com/track/2YQNdxjJRl7AY9Xx76lkna) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/1L6vJZTwWfVV2ZEkVKy7sY) | 4:26 | 2022-09-01 | 2022-09-06 |
+| [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-12 |  |
 | [obsessive](https://open.spotify.com/track/0TxjLkMYm98aKVcpRsu2ux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [obsessive](https://open.spotify.com/album/4ULtY8eKrBarUAA4qKaS58) | 2:52 | 2022-05-20 | 2022-07-16 |
 | [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 3:12 | 2022-05-20 | 2022-07-16 |
 | [Open Door](https://open.spotify.com/track/2525hFocawLjp4pl2dNaYl) | [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly) | [Open Door](https://open.spotify.com/album/0kz2KBoateX8kykLZO8RRc) | 3:00 | 2022-09-01 | 2022-11-03 |

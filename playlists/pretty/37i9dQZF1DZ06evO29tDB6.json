@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 131524,
+  "num_followers": 131562,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAB/r+7EJkAfmURux5H1khH0",
+  "snapshot_id": "Zj61AAAAAABpbngZRTN5uDxZCXTf8Ldw",
   "tracks": [
     {
       "added_at": null,
@@ -611,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin de siglo",
-        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "No hay pedo",
-      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "Mi chava no me comprende",
-      "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -663,22 +631,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chavo De Onda",
-        "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
       "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 209578,
-      "name": "Chavo De Onda",
-      "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
+      "duration_ms": 263200,
+      "name": "Mi chava no me comprende",
+      "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "No hay pedo",
+      "url": "https://open.spotify.com/track/3QmdK0SjnJLCXno7J3nzTO"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 259053,
       "name": "Chilangolandia",
       "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chavo De Onda",
+        "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Chavo De Onda",
+      "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Blues del Diablo y la Enfermedad",
         "url": "https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 267500,
       "name": "El Blues del Diablo y la Enfermedad",
       "url": "https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "El maldito ritmo",
+      "url": "https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m"
     }
   ],
   "unique_name": "This Is El Tri",

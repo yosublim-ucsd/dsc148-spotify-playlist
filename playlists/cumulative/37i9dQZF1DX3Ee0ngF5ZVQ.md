@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-618 songs - 1 day 12 hr 50 min
+619 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Never Again One More Time](https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Never Again One More Time](https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR) | 2:58 | 2024-03-01 |  |
 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 | 2021-12-17 | 2022-03-19 |
 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 | 2021-12-17 | 2022-01-08 |
+| [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 | 2024-05-10 |  |
 | [Nothin' to Lose \(But the Lonely\)](https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC) | [Texwestus](https://open.spotify.com/artist/4DQpyVVZCzvcELZZR4jASN) | [Nothing to Lose](https://open.spotify.com/album/2fIeS90l8Ksy21cQ9l1yWc) | 3:44 | 2021-12-17 | 2022-07-14 |
 | [Nothing But Love Songs](https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing But Love Songs](https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK) | 3:45 | 2022-07-29 | 2022-10-25 |
 | [Nothing No More](https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW) | [Nothing No More](https://open.spotify.com/album/0yJqJ8of9DVX60BsRP1qEf) | 3:12 | 2023-07-07 | 2023-08-26 |
@@ -444,7 +445,7 @@
 | [She Can't Be Found](https://open.spotify.com/track/6T02bf5qIAVf8AndP9x2Ud) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [She Can't Be Found](https://open.spotify.com/album/6Ldm3L4Aa6YD5IiJfTc79l) | 4:27 | 2023-07-07 | 2023-08-14 |
 | [She Don't](https://open.spotify.com/track/1fgNH6vN7i4Ofp6uxuVHzH) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [She Don't](https://open.spotify.com/album/4zQKvIO2kVpQFZhFBuXc7k) | 3:11 | 2023-02-24 | 2023-05-27 |
 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 | 2022-04-01 | 2023-09-02 |
-| [She'll Always Be](https://open.spotify.com/track/4d5v4HxtGr4J3eaX7KpByN) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She'll Always Be](https://open.spotify.com/album/3eouDqZk9yvyHiRTaUbl8c) | 3:14 | 2024-01-05 |  |
+| [She'll Always Be](https://open.spotify.com/track/4d5v4HxtGr4J3eaX7KpByN) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [She'll Always Be](https://open.spotify.com/album/3eouDqZk9yvyHiRTaUbl8c) | 3:14 | 2024-01-05 | 2024-05-13 |
 | [She’s Gonna Leave a Mark](https://open.spotify.com/track/2fWOsqaXh731kdtBF0SVFI) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [She’s Gonna Leave a Mark](https://open.spotify.com/album/3wSOuUweC1sMEbYiLP7dBQ) | 3:09 | 2021-12-17 | 2022-07-27 |
 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 | 2022-02-04 |  |
 | [Ship Faced](https://open.spotify.com/track/25u4pZIIX2jwe3xt9mJ7qL) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Ship Faced](https://open.spotify.com/album/3BnpLDcuk99cHosNZ5HCjr) | 3:45 | 2022-07-22 | 2022-07-26 |

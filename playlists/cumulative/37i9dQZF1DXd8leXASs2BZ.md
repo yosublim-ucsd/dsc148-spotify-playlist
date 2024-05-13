@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと6日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kohjiya
+> 【POPYOURSまであと5日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: taro
 
-428 songs - 19 hr 53 min
+429 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Zoomer](https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Golden Virginia](https://open.spotify.com/album/7M5Gqvf6GFk7C8rMpIBqid) | 2:54 | 2023-12-07 | 2024-02-21 |
 | [¥¥](https://open.spotify.com/track/5sU6hVfKv4Dp7uZfKuEQzJ) | [Staxx T](https://open.spotify.com/artist/1GRuzVYie982wZplKsEH71), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [¥¥](https://open.spotify.com/album/23qqjBtscKee388KL9EaAy) | 3:32 | 2024-04-24 |  |
 | [±](https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [TORiO](https://open.spotify.com/album/0Fb6tnrpnyeOjKYVlWSDKj) | 2:57 | 2023-12-07 | 2024-04-10 |
+| [いい感じ](https://open.spotify.com/track/3q2z6sxUzmk6UA5IzA9uOu) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [いい感じ](https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd) | 2:41 | 2024-05-12 |  |
 | [かかってこい](https://open.spotify.com/track/3hxxNZevvcy6DVYliyNgiK) | [PAZU](https://open.spotify.com/artist/5JoowYOfIQTHsYWHu68O6q) | [LIVE IN YAMADA](https://open.spotify.com/album/3ARpKk257vA0zEzybcN4DB) | 2:39 | 2024-04-16 |  |
 | [どうでもいいかもね](https://open.spotify.com/track/5WkrqCGgSmTKGo7NYim4yo) | [J.Peter](https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg) | [どうでもいいかもね](https://open.spotify.com/album/5sFsKUsXoDbI9BhUJ6VNvW) | 1:58 | 2024-04-16 |  |
 | [はじまり](https://open.spotify.com/track/7rwUoZOOd2BdXKLVVLivuq) | [さよならGOODVIBRATION](https://open.spotify.com/artist/1sq0xWw6UczynlAaJrsiIy) | [はじまり](https://open.spotify.com/album/2O2y83KzYQ5haSzJ5WL6MD) | 2:10 | 2024-04-16 | 2024-05-01 |

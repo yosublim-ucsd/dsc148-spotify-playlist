@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 80355,
+  "num_followers": 80420,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "Sumthin' Sumthin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "Sumthin' Sumthin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Back To Love (Deluxe Version)",
         "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
       },
@@ -215,38 +231,6 @@
       "duration_ms": 166440,
       "name": "Free",
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -287,6 +271,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -299,38 +299,6 @@
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Ben L'Oncle Soul",
-        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Soulman - New English Version",
-      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man Of The Universe",
-      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -371,18 +339,34 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+        "name": "Ben L'Oncle Soul",
+        "url": "https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
         }
       ],
-      "duration_ms": 415742,
-      "name": "...Til the Cops Come Knockin' - Remastered 2021",
-      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+      "duration_ms": 222466,
+      "name": "Soulman - New English Version",
+      "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man Of The Universe",
+      "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -415,6 +399,22 @@
       "duration_ms": 273893,
       "name": "Cornbread, Fish & Collard Greens",
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 415742,
+      "name": "...Til the Cops Come Knockin' - Remastered 2021",
+      "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 213192,
       "name": "Blue Magic (Waikiki)",
       "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "I've Got A Right",
-      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 260506,
       "name": "Just The Two Of Us",
       "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "I've Got A Right",
+      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 226290,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
-      },
-      "artists": [
-        {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 241346,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2C5KLdNvduql2CBS2w1DYq"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+      },
+      "artists": [
+        {
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/39wzkLXh3LZypQmWATLZ7j"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Soul of a Woman",
         "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
       },
@@ -1319,30 +1335,6 @@
       "duration_ms": 176560,
       "name": "Come and Be a Winner",
       "url": "https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        },
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Things We Do for Love",
-      "url": "https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp"
     },
     {
       "added_at": "2024-03-08 13:51:25",

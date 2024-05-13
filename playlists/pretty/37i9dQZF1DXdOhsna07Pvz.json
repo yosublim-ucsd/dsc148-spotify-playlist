@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 73752,
+  "num_followers": 73795,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "A volta de Secos & Molhados",
+        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 127840,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "A volta de Secos & Molhados",
-        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -95,22 +95,6 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Sete Desejos",
-        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "La Belle De Jour",
-      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -159,6 +143,22 @@
       "duration_ms": 205945,
       "name": "Bixinho",
       "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Sete Desejos",
+        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "La Belle De Jour",
+      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -271,6 +255,38 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -307,22 +323,6 @@
       "duration_ms": 247533,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Que Falta Voc\u00ea Me Faz",
-        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Samba da B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Marisa Monte MM (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Lenda das Sereias, Rainha do Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
-        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Voc\u00ea N\u00e3o Entende Nada",
-      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "2 \u00e9 Demais",
         "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 267960,
       "name": "Pintura \u00edntima - Compacto",
       "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Marisa Monte MM (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Lenda das Sereias, Rainha do Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
+        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Voc\u00ea N\u00e3o Entende Nada",
+      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -555,6 +555,22 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -695,22 +679,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Marina Rock Lima",
         "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 248480,
       "name": "\u00c0 Francesa",
       "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Gal Tropical",
         "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 226000,
       "name": "Meu Nome \u00c9 Gal",
       "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
-        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
-      },
-      "artists": [
-        {
-          "name": "Los Sebosos Postizos",
-          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
-      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Leci Brand\u00e3o",
         "url": "https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204520,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
+        "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
+      },
+      "artists": [
+        {
+          "name": "Los Sebosos Postizos",
+          "url": "https://open.spotify.com/artist/6J3woQCTe8Tk7APW7vjy4H"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Minha Teimosia, uma Arma pra Te Conquistar",
+      "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
     },
     {
       "added_at": "2022-09-22 18:13:04",

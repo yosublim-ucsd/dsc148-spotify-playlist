@@ -26982,7 +26982,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 133721,
       "name": "push up bra",
       "url": "https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc"
@@ -27258,7 +27258,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 201071,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
@@ -30895,6 +30895,24 @@
     },
     {
       "album": {
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/46YSscOoOedZeU4vytYnjq"
       },
@@ -32914,6 +32932,24 @@
       "duration_ms": 195782,
       "name": "Take My Picture",
       "url": "https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe"
+    },
+    {
+      "album": {
+        "name": "everything and nothing",
+        "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140638,
+      "name": "take the hit",
+      "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
     },
     {
       "album": {

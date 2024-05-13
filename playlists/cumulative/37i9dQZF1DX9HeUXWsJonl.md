@@ -4,12 +4,12 @@
 
 > Les hits tunisiens du moment\. Cover: Samara
 
-202 songs - 12 hr 21 min
+203 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000 Ktab](https://open.spotify.com/track/7nFKjqixWVbTMk1qR9OfD6) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [2000 Ktab](https://open.spotify.com/album/28S3HWqbXgop9MG2XcC5Ur) | 3:25 | 2023-05-24 |  |
-| [22](https://open.spotify.com/track/3A9NZWQXiNufaUBbApEXpC) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [22](https://open.spotify.com/album/2oc2RuCw3M5Q1278SEBncH) | 4:07 | 2024-01-29 |  |
+| [22](https://open.spotify.com/track/3A9NZWQXiNufaUBbApEXpC) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [22](https://open.spotify.com/album/2oc2RuCw3M5Q1278SEBncH) | 4:07 | 2024-01-29 | 2024-05-13 |
 | [3allamni Ellil](https://open.spotify.com/track/1RBZj4TSUCsaIdapBU8wOv) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui) | [3allamni Ellil](https://open.spotify.com/album/2p0a7Xcqk98IW1QgHqSiuy) | 3:26 | 2021-12-10 | 2022-11-08 |
 | [3arbouch](https://open.spotify.com/track/01CJo2bZ28t0rtcWxmfGfw) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [3arbouch](https://open.spotify.com/album/1xlz69ZMzryJjXvdJnpy0H) | 3:04 | 2021-12-10 | 2022-07-12 |
 | [3ayech Lili \- عايش ليلي](https://open.spotify.com/track/2bWjhCbfeguEp2hSXvYB5l) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [3ayech Lili \(عايش ليلي\)](https://open.spotify.com/album/7K50LbLo6SdxQx0uuw9khz) | 3:22 | 2023-01-08 | 2023-02-02 |
@@ -159,6 +159,7 @@
 | [Sidi El Houwari](https://open.spotify.com/track/7ewNKUWihyy5DWQQESwjPc) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Sidi El Houwari](https://open.spotify.com/album/7MRuqMWZGwhuZ1417n7B1n) | 3:56 | 2022-02-07 | 2022-11-08 |
 | [Snini](https://open.spotify.com/track/0HfJiW1HlCPHwYhhHBstki) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Snini](https://open.spotify.com/album/3aL9zVG5FgHl8hAj5njI78) | 4:07 | 2024-05-07 |  |
 | [Sob Enta](https://open.spotify.com/track/2UuSF6Y0Q9UINkprnG48Xn) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Mista6012](https://open.spotify.com/artist/5PXOzFTQg0XX5f8uS20cY3), [MC Rai](https://open.spotify.com/artist/5FofUhu7YJLPwRP5I5xAKq), [Wiem Yahia](https://open.spotify.com/artist/4LOXLGzjdPXGPQbGwbQXxd) | [Sob Enta](https://open.spotify.com/album/0nxxlzddE6ODOSqiXPNJdK) | 3:31 | 2022-05-26 | 2022-07-12 |
+| [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-12 |  |
 | [Soukara](https://open.spotify.com/track/4E9W5CF1SVwRrYX8xZ7H2x) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Soukara](https://open.spotify.com/album/0cdBTS4wd4T2k7Bwpw1eP0) | 4:10 | 2022-03-31 | 2024-02-13 |
 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 | 2023-01-17 | 2023-06-28 |
 | [Soussa By Night](https://open.spotify.com/track/0On8JF0aSbrhCupnZohkK6) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Soussa By Night](https://open.spotify.com/album/1Ui86A2Tw5RJ4nvnCVg4HO) | 3:24 | 2021-12-10 | 2022-06-30 |

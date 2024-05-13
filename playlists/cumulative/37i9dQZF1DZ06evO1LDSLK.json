@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
+  "description": "This Is Iggy Pop. Los temas esenciales, todos en una lista.",
   "name": "This Is Iggy Pop",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 253493,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 433357,
       "name": "Dum Dum Boys",
       "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Private Hell",
+      "url": "https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71"
+    },
+    {
+      "album": {
         "name": "Soft Machine",
         "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
       },
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 253893,
       "name": "Strung Out Johnny",
       "url": "https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0"

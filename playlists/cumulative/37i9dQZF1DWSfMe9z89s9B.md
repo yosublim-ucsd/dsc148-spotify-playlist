@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Yaya Bey
 
-1,171 songs - 2 day 14 hr 4 min
+1,172 songs - 2 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 | 2022-04-01 | 2022-04-14 |
 | [FWB](https://open.spotify.com/track/5dE1yfno7uUJW5cCylWmUE) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [FWB](https://open.spotify.com/album/18vjT0utRs7VsrTHoBtJuK) | 3:22 | 2021-03-19 | 2022-07-13 |
 | [FWM](https://open.spotify.com/track/7aJwamBFV2pjHTXUnlDgZb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/19yDmZ6XifuMc31QkkmRVl) | 3:16 | 2021-03-19 | 2022-04-16 |
-| [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 | 2023-11-03 |  |
+| [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 | 2023-11-03 | 2024-05-13 |
 | [Garage Rooftop](https://open.spotify.com/track/1dekstoglmqX3fq3K42sux) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 4:24 | 2021-03-19 | 2022-07-20 |
 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-23 | 2022-10-22 |
 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 | 2022-09-23 | 2023-07-29 |
@@ -943,6 +943,7 @@
 | [Sputnik](https://open.spotify.com/track/12PiiW8Kbvjl8P64KI8rCD) | [Bobby Earth](https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8) | [PARTY AT THE IVORY TOWER](https://open.spotify.com/album/0DdcPRidAseNvSmaUOZaRj) | 3:37 | 2022-08-12 | 2022-08-20 |
 | [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 |  |
 | [Starting To Get To You](https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Starting To Get To You](https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO) | 2:41 | 2022-04-01 | 2022-04-12 |
+| [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 | 2024-05-10 |  |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-07-24 | 2023-01-14 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 | 2022-06-10 | 2023-01-14 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-07-23 | 2022-07-29 |

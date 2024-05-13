@@ -2,7 +2,7 @@
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This is The Orb\. The essential tracks, all in one playlist.
+> This Is The Orb\. Los temas esenciales, todos en una lista.
 
 145 songs - 17 hr 9 min
 
@@ -98,7 +98,7 @@
 | [Perpetual Dawn](https://open.spotify.com/track/34Oyuo4A14MRdn8auc0cix) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:32 | 2022-05-29 |  |
 | [Pervitin \- Empire Culling & The Hemlock Stone Version](https://open.spotify.com/track/6KCulEFcEZ0LvPfWul3n7T) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 4:10 | 2022-06-16 | 2023-06-28 |
 | [Pi \- \(Part 1\) / LP Version](https://open.spotify.com/track/1hr9JC0qtmMwrYpN5oyZge) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 1:05 | 2022-05-29 |  |
-| [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 |  |
+| [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 | 2023-11-10 | 2024-05-13 |
 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/2rm1cOR9ahlk0710wwuCAD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 6:13 | 2023-04-30 | 2023-11-11 |
 | [Pillow Fight @ Shag Mountain](https://open.spotify.com/track/76ZZNFBRTnnGH0Ye81SEnJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 7:31 | 2022-05-29 | 2022-10-08 |
 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 | 2022-05-29 |  |
@@ -150,7 +150,7 @@
 | [Whippersnapper](https://open.spotify.com/track/7rdyq9m8vsIAl883vVwh7a) | [OSS](https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Enter the Kettle](https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod) | 5:44 | 2023-03-11 | 2023-03-22 |
 | [White River Junction](https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 9:36 | 2022-05-29 | 2022-10-09 |
 | [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7MFKi0xmbDLArsmWCgLFlz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 7:40 | 2023-04-29 | 2023-11-11 |
-| [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7qYJvPxO7N9W88KAeIZExC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 7:40 | 2023-11-10 | 2024-05-11 |
+| [why can you be in two places at once, when you can’t be anywhere at all \- where’s gary mix](https://open.spotify.com/track/7qYJvPxO7N9W88KAeIZExC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 7:40 | 2023-11-10 |  |
 | [Wireless MK2](https://open.spotify.com/track/7xF48L0fjSDWAlZxsY5Et6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 5:41 | 2022-05-29 | 2024-04-13 |
 | [Wish I Had a Pretty Dog](https://open.spotify.com/track/6Uum9KIYa73OLiFZDRUWPZ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:04 | 2022-05-29 | 2022-10-30 |
 

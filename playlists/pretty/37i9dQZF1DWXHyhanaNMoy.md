@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Priceless
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,243 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,306 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 8 | [Beetje Fout \(Remix\) \(feat\. D\-Double & Latifah\)](https://open.spotify.com/track/7s626ea0E22HNxmFaYKQ7k) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Beetje Fout \(Remix\) \(feat\. D\-Double & Latifah\)](https://open.spotify.com/album/72pJdLSeB1DtgdQ3dSv3CI) | 2:35 |
 | 9 | [Done With Me](https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Done With Me](https://open.spotify.com/album/3O0i0NCY5Cm1r3gJJPWc8a) | 3:17 |
 | 10 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
-| 11 | [Badman](https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Badman](https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5) | 2:31 |
+| 11 | [Badman Anthem](https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Badman Anthem](https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5) | 2:31 |
 | 12 | [Tiffany](https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/0DHt2wzzyU2VHGLDjlAuVs) | 2:50 |
 | 13 | [ANTONI ANTONI](https://open.spotify.com/track/1is22v0wd43nx93pyNopTg) | [ASHI](https://open.spotify.com/artist/0UGCSjBTzOrOIl5Yng2wHr), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [ANTONI ANTONI](https://open.spotify.com/album/0pKw0LiqXPX5uawfPIFjrT) | 2:04 |
 | 14 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 |

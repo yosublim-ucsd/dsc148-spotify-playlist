@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a> & <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-1,006 songs - 2 day 1 hr 33 min
+1,007 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Keep Me In Mind](https://open.spotify.com/track/7p3TkSvTIa9tMlT6awhVOW) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Lundi](https://open.spotify.com/artist/6cOf6nkxpLLsqobENwhnXb), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Keep Me In Mind](https://open.spotify.com/album/57a9XZkansK75OAXhRHyyE) | 3:02 | 2021-12-11 | 2022-04-29 |
 | [keep that light on.](https://open.spotify.com/track/1aU0zvTi5t7p7tJIlN1T75) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [keep that light on.](https://open.spotify.com/album/4Zwr0KOOK38f4Jn16ZrRtL) | 3:06 | 2022-10-29 | 2022-12-20 |
 | [Keep Your Word \(feat\. Mariah Anae\)](https://open.spotify.com/track/6jTl8ASbM9j4Ap0lpIIt8t) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Mariah Anae](https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1) | [Keep Your Word \(feat\. Mariah Anae\)](https://open.spotify.com/album/5UNgujIkRKoxVua3v2MF7Q) | 4:05 | 2021-12-11 | 2022-04-25 |
-| [KEEPER](https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8) | [Amar](https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [KEEPER](https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV) | 3:58 | 2024-02-09 |  |
+| [KEEPER](https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8) | [Amar](https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [KEEPER](https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV) | 3:58 | 2024-02-09 | 2024-05-13 |
 | [keyboard warriors.](https://open.spotify.com/track/7FD8cL7vYQmrqdCm9ZIbBJ) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [keyboard warriors.](https://open.spotify.com/album/3ex58oVyuYisrq8HurOf7W) | 2:36 | 2022-09-16 | 2022-10-01 |
 | [KIDS](https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [KIDS](https://open.spotify.com/album/4A3mlvuOmU0a0avddEvRmh) | 2:13 | 2022-04-29 | 2022-08-07 |
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2022-02-27 | 2022-08-07 |
@@ -537,6 +537,7 @@
 | [Low Low](https://open.spotify.com/track/5IZd4atvkV9LZqHWztkwfS) | [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly), [Justcallmedt](https://open.spotify.com/artist/7EHTupr4wX3dZxNZTMS83R) | [Low Low](https://open.spotify.com/album/3Iuued0HKMaAWywo1bKpkn) | 3:14 | 2021-12-11 | 2022-01-21 |
 | [M.I.A](https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [M.I.A](https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP) | 3:42 | 2022-08-06 | 2023-01-28 |
 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 | 2022-11-11 | 2023-12-16 |
+| [Made Me Better](https://open.spotify.com/track/07fgLSXRZJMSvTrmczvsT4) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Made Me Better](https://open.spotify.com/album/2tMeXNPO63FcqPheuyxnjK) | 2:32 | 2024-05-10 |  |
 | [Make It Alright](https://open.spotify.com/track/6INDyfmhqhJfAxWi84O6al) | [SAINT](https://open.spotify.com/artist/0TA3tF7JmKckxwD869HhEs), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Here At Last](https://open.spotify.com/album/2QBuw9lsZA3bOQfBzQx7dz) | 4:50 | 2021-12-11 | 2022-05-28 |
 | [MAKE IT MAKE SENSE](https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [MAKE IT MAKE SENSE](https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5) | 2:45 | 2022-04-29 | 2022-08-07 |
 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 | 2024-02-09 | 2024-02-24 |

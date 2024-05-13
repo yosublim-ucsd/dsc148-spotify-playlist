@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 447866,
+  "num_followers": 448546,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAB13Q0UAz3buXltlJv6Oke5",
+  "snapshot_id": "Zj61AAAAAACaHaCIaRSmlHXFxC5JO7BY",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo Patr\u00f3n",
-        "url": "https://open.spotify.com/album/4ymTuJ84CKaHgqxP8BElM0"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Santo Patr\u00f3n",
-      "url": "https://open.spotify.com/track/2aejtdTxSKhsCkT51Wixhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El Radio Un Cochinero (Remix)",
         "url": "https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 215125,
       "name": "En El Radio Un Cochinero (Remix)",
       "url": "https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santo Patr\u00f3n",
+        "url": "https://open.spotify.com/album/4ymTuJ84CKaHgqxP8BElM0"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Santo Patr\u00f3n",
+      "url": "https://open.spotify.com/track/2aejtdTxSKhsCkT51Wixhm"
     },
     {
       "added_at": null,

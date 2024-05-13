@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFHdCJiQTW4YT?si=1f331731fe084475">Wrabel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 497 likes - 43 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 43 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

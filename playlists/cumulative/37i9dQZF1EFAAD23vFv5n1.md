@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 30 min
+95 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Filippo Leroy](https://open.spotify.com/track/19PVhId3pxPm0FA6QJXyoa) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:03 | 2024-04-29 |  |
 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 | 2024-04-29 |  |
 | [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-05-04 |  |
-| [Fossi come te](https://open.spotify.com/track/4z9uPOAzOmvrvK2myXTBvx) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Fossi come te](https://open.spotify.com/album/2lxg3drmCXXmZxVcDKRr1P) | 3:03 | 2024-04-29 |  |
+| [Fossi come te](https://open.spotify.com/track/4z9uPOAzOmvrvK2myXTBvx) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Fossi come te](https://open.spotify.com/album/2lxg3drmCXXmZxVcDKRr1P) | 3:03 | 2024-04-29 | 2024-05-13 |
+| [Fossi come te](https://open.spotify.com/track/5pafOHmAwdomCxamPvH4Rv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/3JzyaYeVAQhbiq3ALmlneb) | 3:03 | 2024-05-12 |  |
 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 | 2024-04-29 |  |
 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 |  |
 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 | 2024-04-29 |  |

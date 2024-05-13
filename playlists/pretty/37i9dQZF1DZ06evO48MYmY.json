@@ -1,12 +1,12 @@
 {
-  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 327967,
+  "description": "This is Simon & Garfunkel. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 328027,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAB3pDEi2O7agNNPA2weeS/w",
+  "snapshot_id": "Zj61AAAAAABR9S12PO/Uc7ZWyfcyJv6X",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "The Sun Is Burning",
-      "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 150560,
       "name": "A Most Peculiar Man",
       "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "The Sun Is Burning",
+      "url": "https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live 1969",
         "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191066,
       "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
       "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq"
     },
     {
       "added_at": null,

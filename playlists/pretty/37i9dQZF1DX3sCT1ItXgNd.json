@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Aitana",
-  "num_followers": 961566,
+  "num_followers": 961619,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-05-06 10:22:50",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
-    },
-    {
-      "added_at": "2024-05-06 10:22:50",
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "added_at": "2024-05-06 10:22:50",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-05-06 10:22:50",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-05-06 10:22:50",
       "album": {
-        "name": "Los Lugares Donde Ir\u00e1s",
-        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        },
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Los Lugares Donde Ir\u00e1s",
-      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
-    },
-    {
-      "added_at": "2024-05-06 10:22:50",
-      "album": {
         "name": "Bahamas",
         "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 223728,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+    },
+    {
+      "added_at": "2024-05-06 10:22:50",
+      "album": {
+        "name": "Los Lugares Donde Ir\u00e1s",
+        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        },
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Los Lugares Donde Ir\u00e1s",
+      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
     },
     {
       "added_at": "2024-05-06 10:22:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-06 10:22:50",
       "album": {
-        "name": "ES SOLO M\u00daSICA",
-        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 173741,
-      "name": "Desconocido",
-      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
-    },
-    {
-      "added_at": "2024-05-06 10:22:50",
-      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/4DnvHbATghPcy74q4jdFtR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 207666,
       "name": "Roma",
       "url": "https://open.spotify.com/track/400MKqqBq8rsrKSk2l4bgZ"
+    },
+    {
+      "added_at": "2024-05-06 10:22:50",
+      "album": {
+        "name": "ES SOLO M\u00daSICA",
+        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 173741,
+      "name": "Desconocido",
+      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
     },
     {
       "added_at": "2024-05-06 10:22:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-06 10:22:50",
       "album": {
-        "name": "Coraz\u00f3n Quemado",
-        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 185473,
-      "name": "Coraz\u00f3n Quemado",
-      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
-    },
-    {
-      "added_at": "2024-05-06 10:22:50",
-      "album": {
         "name": "Contacto Cero",
         "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 176226,
       "name": "Te echo de -",
       "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
+    },
+    {
+      "added_at": "2024-05-06 10:22:50",
+      "album": {
+        "name": "Coraz\u00f3n Quemado",
+        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 185473,
+      "name": "Coraz\u00f3n Quemado",
+      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
     },
     {
       "added_at": "2024-05-06 10:22:50",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-05-06 10:22:50",
       "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2024-05-06 10:22:50",
+      "album": {
         "name": "Menamorao (demo)",
         "url": "https://open.spotify.com/album/6FH3E3d1GYsCSvNglmlkzh"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2024-05-06 10:22:50",
-      "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2024-05-06 10:22:50",

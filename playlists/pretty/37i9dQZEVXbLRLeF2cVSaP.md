@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,200 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,222 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ЗАХОТЕЛ](https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr) | [НАВЕРНОЕ ПОЭТ](https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop), [ЯКОРЪ](https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt), [EVEN CUTE](https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0) | [СДЕЛАНО В РОССИИ!](https://open.spotify.com/album/4axbg5ljK6uBRLchAwQvpq) | 1:39 |
 | 50 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 
-Snapshot ID: `LdLYGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdQpmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

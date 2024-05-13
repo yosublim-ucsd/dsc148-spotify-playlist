@@ -1,33 +1,13 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49459,
+  "num_followers": 49461,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACM2HA1vgYAQ1mxz4kXFhq/",
+  "snapshot_id": "Zj61AAAAAACVV0sheTCcRxr1ybfGMAC7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cherry (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 152511,
-      "name": "Cherry (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
     {
       "added_at": null,
       "album": {
@@ -688,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 181587,
-      "name": "Maple",
-      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
+      "duration_ms": 206618,
+      "name": "A Belle to Remember",
+      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
     },
     {
       "added_at": null,
@@ -704,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 206618,
-      "name": "A Belle to Remember",
-      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
+      "duration_ms": 181587,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Hombres G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xExRS)
 
-> This Is Hombres G\. Los temas esenciales, todos en una lista.
+> This is Hombres G\. The essential tracks, all in one playlist.
 
 67 songs - 4 hr 13 min
 

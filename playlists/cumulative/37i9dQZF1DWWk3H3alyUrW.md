@@ -4,7 +4,7 @@
 
 > Enjoy these songs while you eat.
 
-61 songs - 4 hr 3 min
+62 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ferahfeza Saz Semaisi \(Udi Serif Muhittin Targan\)](https://open.spotify.com/track/73SURSA7uBw0tNjZl7gvXI) | [Murat Aydemir, Derya Turkan](https://open.spotify.com/artist/5m4mYys97lQHLjpLQIiDrz) | [Ahenk, Turkish Classical Music](https://open.spotify.com/album/06MEo3CVEIk5PSPN514A46) | 4:25 | 2023-03-19 |  |
 | [Fikrimin İnce Gülü](https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:11 | 2023-03-19 |  |
 | [Gnossienne No.1](https://open.spotify.com/track/0xiM8EA89dvymLKODbtVjC) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Dönmez Yol](https://open.spotify.com/album/2OYUQsKSOglrXK0UNyAX8k) | 4:39 | 2023-03-19 | 2024-04-19 |
+| [Gnossienne No.1](https://open.spotify.com/track/22moT6T8yDX2GVT7iOScH8) | [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB) | [Dönmez Yol](https://open.spotify.com/album/3GQQ3AcV66VGhqhro78UTc) | 4:39 | 2023-03-19 |  |
 | [Hasret](https://open.spotify.com/track/7Hw2XpM0HJsVhNo5btPUzH) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Mystical Garden](https://open.spotify.com/album/73CSRi65ZZf33cxA1Krs6B) | 8:55 | 2023-03-19 |  |
 | [Hicaz Peşrev](https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:33 | 2023-03-19 |  |
 | [Hicazkar Peşrevi](https://open.spotify.com/track/4wMMqnw9FAJRIgWSIK1iYP) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 2:22 | 2023-03-19 |  |
@@ -37,7 +38,7 @@
 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 | 2023-03-19 | 2024-04-19 |
 | [Marche Ottomane \(Manuscrit Cantemir 209\)](https://open.spotify.com/track/1wXOi2qUArR725Uus18T7O) | [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0), [Yurdal Tokcan](https://open.spotify.com/artist/0Vvmhc3Nuu2DawzJH0f7Nv), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV), [Hakan Gungor](https://open.spotify.com/artist/3ScxPTyycMLMXvTe2JzhEV), [Fahrettin Yarkın](https://open.spotify.com/artist/58YpcqLI09AJc9AJBJvy0N), [Nedyalko Nedyalkov](https://open.spotify.com/artist/3I0TotMwCGXtosKrxX9fKq), [Dimitri Psonis](https://open.spotify.com/artist/7Jdmn8Ovjqu1GUh8ks7O1l), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Pedro Estevan](https://open.spotify.com/artist/6ugueoNf9gzuJfiTu8zaxm), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Balkan \- Honey and Blood](https://open.spotify.com/album/7611agcoUANM4XKhxnvgJg) | 4:02 | 2023-03-19 |  |
 | [Nihavend Saz Semaisi](https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:47 | 2023-03-19 |  |
-| [Nikriz Sirto](https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:20 | 2023-03-19 |  |
+| [Nikriz Sirto](https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:20 | 2023-03-19 | 2024-05-13 |
 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 | 2023-03-19 |  |
 | [Rast Methal](https://open.spotify.com/track/6GaNkUOxQtTPuvuNrSc1Zm) | [Refik Fersan](https://open.spotify.com/artist/7Go3wwVD6FZ6erRNm9CvWT) | [The Golden Horn Production](https://open.spotify.com/album/7FeShPklJxlvqxidL96GDa) | 5:31 | 2023-03-19 |  |
 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 | 2023-03-19 |  |

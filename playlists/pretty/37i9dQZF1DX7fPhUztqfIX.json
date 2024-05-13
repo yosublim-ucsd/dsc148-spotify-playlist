@@ -1,6 +1,6 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 125706,
+  "num_followers": 125743,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+        "name": "Christ Be Magnified",
+        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 526890,
-      "name": "Champion - Live",
-      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
+      "duration_ms": 302011,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -219,18 +215,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ Be Magnified",
-        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 302011,
-      "name": "Christ Be Magnified",
-      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
+      "duration_ms": 526890,
+      "name": "Champion - Live",
+      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -463,22 +463,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Holy Water (Church Sessions)",
-        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 464809,
-      "name": "Holy Water - Church Sessions",
-      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -499,18 +495,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+        "name": "Holy Water (Church Sessions)",
+        "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+      "duration_ms": 464809,
+      "name": "Holy Water - Church Sessions",
+      "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fire in My Bones",
-        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Fire in My Bones",
-      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 311406,
       "name": "Calm the Storm (Live)",
       "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fire in My Bones",
+        "url": "https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Fire in My Bones",
+      "url": "https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "We Have The Name",
         "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 346591,
       "name": "How High",
       "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -975,18 +975,34 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All Of Us (All Praise) [Live]",
-        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
       "artists": [
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 386906,
-      "name": "All Praise - Live",
-      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1007,22 +1023,6 @@
       "duration_ms": 265518,
       "name": "Another In The Fire - Studio",
       "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "King Jesus",
         "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 414698,
       "name": "King Jesus - Live",
       "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Start With Me",
+        "url": "https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "duration_ms": 259459,
+      "name": "Start With Me",
+      "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Lord You Have My Heart (feat. Martin Smith)",
         "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 288386,
       "name": "Found",
       "url": "https://open.spotify.com/track/3S9QiEXE0wFkFnUTny7BUf"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Start With Me",
-        "url": "https://open.spotify.com/album/1T6yyl1bWzpwrRjyPGYQgg"
-      },
-      "artists": [
-        {
-          "name": "Grace City",
-          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
-        },
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 259459,
-      "name": "Start With Me",
-      "url": "https://open.spotify.com/track/1Sy9CvTLBYvPKqbnSBsn8w"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/11XGl4rNchRFrsiFO2yYM1"
-      },
-      "artists": [
-        {
-          "name": "The Church Will Sing",
-          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
-        }
-      ],
-      "duration_ms": 345710,
-      "name": "Nothing But The Blood (Live)",
-      "url": "https://open.spotify.com/track/3PdUCd6MSSC6v7VLKSQvys"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Don't Have To Lose Heart",
         "url": "https://open.spotify.com/album/7vqpxG4YjgXFbAo6N44ztu"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 354597,
       "name": "You Don't Have To Lose Heart",
       "url": "https://open.spotify.com/track/3k93RGV4kxdGmW4ePXu9zm"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/11XGl4rNchRFrsiFO2yYM1"
+      },
+      "artists": [
+        {
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        }
+      ],
+      "duration_ms": 345710,
+      "name": "Nothing But The Blood (Live)",
+      "url": "https://open.spotify.com/track/3PdUCd6MSSC6v7VLKSQvys"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2111,6 +2111,30 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "You Have Our Yes",
+        "url": "https://open.spotify.com/album/3WuYOgqPrsI5NzpkoOlKw5"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Marc James",
+          "url": "https://open.spotify.com/artist/6XxucmTRmm8kDKBqiblWbk"
+        },
+        {
+          "name": "Cathy Burton",
+          "url": "https://open.spotify.com/artist/34ejTUpXgcgk63yNgmOspG"
+        }
+      ],
+      "duration_ms": 245455,
+      "name": "You Have Our Yes",
+      "url": "https://open.spotify.com/track/5jMUhnHjsMzSYoxoPcKCG4"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Wake Up, O Sleeper",
         "url": "https://open.spotify.com/album/4WYBP3xg1IGa1bUoz2pTE1"
       },
@@ -2159,30 +2183,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Have Our Yes",
-        "url": "https://open.spotify.com/album/3WuYOgqPrsI5NzpkoOlKw5"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Marc James",
-          "url": "https://open.spotify.com/artist/6XxucmTRmm8kDKBqiblWbk"
-        },
-        {
-          "name": "Cathy Burton",
-          "url": "https://open.spotify.com/artist/34ejTUpXgcgk63yNgmOspG"
-        }
-      ],
-      "duration_ms": 245455,
-      "name": "You Have Our Yes",
-      "url": "https://open.spotify.com/track/5jMUhnHjsMzSYoxoPcKCG4"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1sFP4DJCtsBmBriNTkhwFw"
       },
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Revive My Wonder",
-        "url": "https://open.spotify.com/album/12eIf9yEajqBV1rGJxGPWF"
-      },
-      "artists": [
-        {
-          "name": "Ascent Project",
-          "url": "https://open.spotify.com/artist/4r1FGzKdQcTiDDPesf9x7Z"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Love Left a Mark",
-      "url": "https://open.spotify.com/track/1wJut5kpvRUXbT6aMKy776"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/370VnJWsAov87B7lNIBEuE"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 368893,
       "name": "Hold Nothing Back",
       "url": "https://open.spotify.com/track/5P74lYXOvPRJLefZkGNsQk"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Revive My Wonder",
+        "url": "https://open.spotify.com/album/12eIf9yEajqBV1rGJxGPWF"
+      },
+      "artists": [
+        {
+          "name": "Ascent Project",
+          "url": "https://open.spotify.com/artist/4r1FGzKdQcTiDDPesf9x7Z"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Love Left a Mark",
+      "url": "https://open.spotify.com/track/1wJut5kpvRUXbT6aMKy776"
     },
     {
       "added_at": "2021-06-12 04:00:40",

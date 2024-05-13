@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
+  "description": "This is Rodr\u00edguez. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Rodr\u00edguez",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 152346,
       "name": "Crucify Your Mind",
       "url": "https://open.spotify.com/track/2Xn7NadvZ56D0B2D7x2CSL"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 355040,
       "name": "Ecuador",
       "url": "https://open.spotify.com/track/4pdARdDcofXEGh29NYoo98"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 205680,
       "name": "I Think Of You",
       "url": "https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 154240,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 156013,
       "name": "Like Janis",
       "url": "https://open.spotify.com/track/6inwNRiGXUCjuPdEvW0ygq"
@@ -416,10 +416,28 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 229413,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201826,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r0CBy"

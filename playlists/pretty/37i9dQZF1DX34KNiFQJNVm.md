@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Ryan SP com Luan Pereira e MC PH, Jonas Esticado com Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,482 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,883 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 24 | [Do Sofá de Casa](https://open.spotify.com/track/4z8D0HSuCWrZq9D0fsu7QC) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Amor Clandestino](https://open.spotify.com/album/7mu0qvLFhKjeZabBNPqTIh) | 3:25 |
 | 25 | [Meu Tudo \- Ao Vivo](https://open.spotify.com/track/2eeLGKeR5jBPzZYELftV05) | [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs), [Lipe](https://open.spotify.com/artist/5o5FyNNE0t0tnWYyZR4FV5) | [O Game \(Ao Vivo\)](https://open.spotify.com/album/5o5RzBfBYR5jBzIpkyQwJq) | 3:13 |
 | 26 | [Meu Anjo](https://open.spotify.com/track/55hdt9atyabpR1isrVW0H7) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Meu Anjo](https://open.spotify.com/album/64RCamPMW0E89XEV81ExhZ) | 4:09 |
-| 27 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:19 |
+| 27 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 |
 | 28 | [Prata](https://open.spotify.com/track/2sOvuDxLamSIUFYztPAadB) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Prata](https://open.spotify.com/album/4AKcYw6MdkS7Zbxhc7pnvo) | 2:05 |
 | 29 | [Insensatez](https://open.spotify.com/track/3NmyWO0sCF8eOwMZWvwtpF) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Insensatez](https://open.spotify.com/album/145pWKr3SGJ1qDiN4q5XCx) | 3:40 |
 | 30 | [Favorita](https://open.spotify.com/track/1zPy2KRs81Q9cMYk4Af0Nt) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Favorita](https://open.spotify.com/album/3MJDoytxcr3vWaW4eEGShp) | 2:25 |

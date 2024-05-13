@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Eugenia Quevedo.",
-  "num_followers": 703410,
+  "num_followers": 703662,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 181538,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Nominado",
         "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
       },
@@ -655,62 +675,6 @@
       "duration_ms": 168648,
       "name": "Por Qu\u00e9 Ser\u00e1",
       "url": "https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 181538,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Si Fuera Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 207843,
-      "name": "Si Fuera Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Libertad Provisoria",
-        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Libertad Provisoria",
-      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -751,6 +715,42 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Si Fuera Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 207843,
+      "name": "Si Fuera Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Libertad Provisoria",
+        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Libertad Provisoria",
+      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/1hQBXJutHCdaGDGZ2rz7xw"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 183775,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/5Aor1ESdLs6CGeq2n4mq5i"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -799,62 +819,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 344280,
-      "name": "Amor Clasificado",
-      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "200 Copas",
-        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 237738,
-      "name": "200 Copas",
-      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Te Suena?",
         "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
@@ -883,6 +847,42 @@
       "duration_ms": 185844,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "200 Copas",
+        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 237738,
+      "name": "200 Copas",
+      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 344280,
+      "name": "Amor Clasificado",
+      "url": "https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1007,34 +1007,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 143544,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 143544,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 178431,
       "name": "Ya No Llora - En Vivo",
       "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 373773,
       "name": "El Federal",
       "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Somos lo Que Fuimos (Remix)",
-        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
-      },
-      "artists": [
-        {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 233287,
-      "name": "Somos lo Que Fuimos - Remix",
-      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Somos lo Que Fuimos (Remix)",
+        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 233287,
+      "name": "Somos lo Que Fuimos - Remix",
+      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 208906,
       "name": "Amor Infiel",
       "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1311,6 +1295,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Provenza / Te Felicito / Despechao",
+        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "duration_ms": 362817,
+      "name": "Provenza / Te Felicito / Despechao",
+      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "La Original",
         "url": "https://open.spotify.com/album/01E8diO3XePswf3m9fUOaC"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Provenza / Te Felicito / Despechao",
-        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 362817,
-      "name": "Provenza / Te Felicito / Despechao",
-      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -1451,6 +1451,42 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1491,26 +1527,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1523,26 +1539,6 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "No Dire Que Si",
-        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        },
-        {
-          "name": "Pia Ka",
-          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "No Dire Que Si",
-      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1579,34 +1575,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "No Dire Que Si",
+        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "A la mitad",
-        "url": "https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ"
-      },
-      "artists": [
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Pia Ka",
+          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
         }
       ],
-      "duration_ms": 118083,
-      "name": "A la mitad",
-      "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
+      "duration_ms": 213920,
+      "name": "No Dire Que Si",
+      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1647,22 +1631,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/0HzyU2gL1sMMkkkJwiE5YH"
+        "name": "A la mitad",
+        "url": "https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ"
       },
       "artists": [
         {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        },
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0XVsiJUIo8kvErfwsNJQwH"
+      "duration_ms": 118083,
+      "name": "A la mitad",
+      "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1687,18 +1667,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0HzyU2gL1sMMkkkJwiE5YH"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+      "duration_ms": 159306,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0XVsiJUIo8kvErfwsNJQwH"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Un Nuevo Tiempo",
         "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
@@ -1767,30 +1767,6 @@
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "El Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
-        },
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 174292,
-      "name": "El Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1831,18 +1807,46 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng"
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
       "artists": [
         {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 174292,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
     }
   ],
   "unique_name": "100% Cuarteto",

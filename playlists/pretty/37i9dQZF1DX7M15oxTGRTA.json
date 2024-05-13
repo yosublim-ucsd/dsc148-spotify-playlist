@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 129954,
+  "num_followers": 130084,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Perfect Angel",
         "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -331,22 +347,6 @@
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Rock Me Tonight",
         "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
       },
@@ -479,22 +463,6 @@
       "duration_ms": 284119,
       "name": "You Are My Lady",
       "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -535,6 +503,38 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Extension of a Man",
         "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 202066,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -583,22 +599,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "You Put A Move On My Heart",
+      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Rope A Dope Style",
         "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
       },
@@ -863,6 +883,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 290186,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
       },
@@ -879,42 +915,6 @@
       "duration_ms": 200840,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 373266,
-      "name": "You Put A Move On My Heart",
-      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 290186,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/1FTTvj9l6mTje8JVg1Tthk"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 287933,
       "name": "Running In And Out Of My Life",
       "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
-      },
-      "artists": [
-        {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Num Para\u00edso",
-      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Operator Please Put Me Through",
         "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
       },
@@ -1443,6 +1427,38 @@
       "duration_ms": 101150,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+      },
+      "artists": [
+        {
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Num Para\u00edso",
+      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Ben",
         "url": "https://open.spotify.com/album/3ptDrRzgad76DCVrxtC555"
       },
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "The Essential Teddy Pendergrass",
         "url": "https://open.spotify.com/album/6yTiY5jSYTygHkG4PkSIMv"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 337133,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1aXzEVoWEr1bfZbUINnkv1"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2023-09-14 19:15:58",

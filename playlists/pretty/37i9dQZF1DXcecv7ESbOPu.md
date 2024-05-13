@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,708 likes - 125 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,870 likes - 125 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [JAPPHANSGUZZMUSIK \(feat\. BBC Flash\)](https://open.spotify.com/track/5ACJJMeIbHRfBjAaYWAcY1) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [BBC Flash](https://open.spotify.com/artist/2TwTlHYaUtmikCyKn5mU5r) | [JAPPHANSGUZZMUSIK \(feat\. BBC Flash\)](https://open.spotify.com/album/7f0tMAc7OYu6U9mkEKFDB4) | 3:10 |
 | 100 | [Psychic](https://open.spotify.com/track/2Hqvszyc7DJdZGA21RjnV4) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Psychic](https://open.spotify.com/album/2Y3GW3vGTrUOFGpxndhQjz) | 2:29 |
 | 101 | [Down](https://open.spotify.com/track/5CuLjDzqnoL5z3AvGWkWh7) | [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Down](https://open.spotify.com/album/6YWbIU11cfOqyHMeNGiQZo) | 2:51 |
-| 102 | [Kungar & drottningar](https://open.spotify.com/track/19ERXfc61wGlxhbZaOYSRo) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Kungar & drottningar](https://open.spotify.com/album/2aC0npvuHkDn4hRQCdnKKH) | 2:36 |
+| 102 | [Kungar & Drottningar](https://open.spotify.com/track/19ERXfc61wGlxhbZaOYSRo) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Kungar & Drottningar](https://open.spotify.com/album/2aC0npvuHkDn4hRQCdnKKH) | 2:36 |
 | 103 | [stuck](https://open.spotify.com/track/4iRxmWiqENZpVrmLCCuSet) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [stuck](https://open.spotify.com/album/3GrrxcBgbNRyWmLgKmLQfT) | 2:43 |
 | 104 | [Serenity](https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Serenity](https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF) | 2:42 |
 | 105 | [ALPHABET OF ABSENCE](https://open.spotify.com/track/14kt8b9noarrRSenI47hqd) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [ALPHABET OF ABSENCE](https://open.spotify.com/album/31e64QekCvModZNxKKivlB) | 3:23 |

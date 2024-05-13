@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 766834,
+  "num_followers": 766893,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "A Banda Mais Bonita da Cidade",
         "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 254520,
       "name": "Voc\u00ea me faz t\u00e3o bem",
       "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "love leve",
-        "url": "https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 167443,
-      "name": "love leve",
-      "url": "https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+        "name": "love leve",
+        "url": "https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+      "duration_ms": 167443,
+      "name": "love leve",
+      "url": "https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -879,6 +859,26 @@
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "As Super Novas",
-        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Quando A Chuva Passar",
-      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Silva Canta Marisa",
         "url": "https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195400,
       "name": "Beija Eu",
       "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "As Super Novas",
+        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Quando A Chuva Passar",
+      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
       },
@@ -1059,22 +1043,6 @@
       "duration_ms": 213573,
       "name": "Um certo algu\u00e9m",
       "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1099,6 +1067,38 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "ME PERCO",
-        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
-      },
-      "artists": [
-        {
-          "name": "uma P\u00f3voas",
-          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
-        },
-        {
-          "name": "Filipe Freire",
-          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
-        }
-      ],
-      "duration_ms": 200318,
-      "name": "ME PERCO",
-      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+        "name": "ME PERCO",
+        "url": "https://open.spotify.com/album/53KGBkfWHJumvJVSt7DT1H"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "uma P\u00f3voas",
+          "url": "https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx"
+        },
+        {
+          "name": "Filipe Freire",
+          "url": "https://open.spotify.com/artist/4Asuo4mtyUcQrrgjvnLt2X"
         }
       ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+      "duration_ms": 200318,
+      "name": "ME PERCO",
+      "url": "https://open.spotify.com/track/5DYOxJzVYTUmKNTz6xiA7c"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 269322,
       "name": "Deixa o Cora\u00e7\u00e3o Falar",
       "url": "https://open.spotify.com/track/0tPgb75mRXhU8Pc6I6NiZW"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
-        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1515,18 +1483,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
+        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 217431,
       "name": "Eu Me Lembro (feat. Silva)",
       "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ouro",
         "url": "https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 186400,
       "name": "Minha Flor Meu Beb\u00ea",
       "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
     },
     {
       "added_at": "2024-05-10 03:00:00",

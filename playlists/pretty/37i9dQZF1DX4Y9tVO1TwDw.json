@@ -1,6 +1,6 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 7075,
+  "num_followers": 7077,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "LOBA Vol. I",
         "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 239780,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
       "url": "https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2024-01-29 17:19:17",

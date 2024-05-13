@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 224882,
+  "num_followers": 224939,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Magic Touch: An Anthology",
-        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "All-Time Greatest Hits & More 1959-1965",
         "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
       },
@@ -175,34 +159,18 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "The Magic Touch: An Anthology",
+        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+      "duration_ms": 157760,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -239,6 +207,22 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -255,6 +239,38 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 155053,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -295,22 +311,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -323,38 +323,6 @@
       "duration_ms": 176493,
       "name": "Oh What A Nite",
       "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -391,6 +359,22 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
         "name": "Barbara-Ann",
         "url": "https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB"
       },
@@ -419,6 +403,54 @@
       "duration_ms": 136400,
       "name": "Gee",
       "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -471,22 +503,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "For Cool Grandkids Everywhere",
         "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 156266,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Little Girl of Mine",
-      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "Greatest Hits: From The Beginning",
         "url": "https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+      "duration_ms": 192106,
+      "name": "Little Girl of Mine",
+      "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -611,6 +595,22 @@
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 106760,
+      "name": "Hey Senorita",
+      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
     },
     {
       "added_at": "2024-04-05 12:55:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "Collectors Gold Series",
-        "url": "https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4"
-      },
-      "artists": [
-        {
-          "name": "The Jive Five",
-          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "My True Story - Digitally Remastered",
-      "url": "https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "The Dubs Meet The Shells",
         "url": "https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
+        "name": "Collectors Gold Series",
+        "url": "https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4"
+      },
+      "artists": [
+        {
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "My True Story - Digitally Remastered",
+      "url": "https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
         "name": "20 Best of Doo Wop",
         "url": "https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-04-05 12:55:15",
       "album": {
-        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 130892,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
-    },
-    {
-      "added_at": "2024-04-05 12:55:15",
-      "album": {
         "name": "Little Joe and The Thrillers: The Extended Play Collection",
         "url": "https://open.spotify.com/album/5tdMgZwgDbuHXlMR20mgva"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 148932,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/6ry1RZr2O3f1SziP3Vs6kJ"
+    },
+    {
+      "added_at": "2024-04-05 12:55:15",
+      "album": {
+        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 130892,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 5931,
+  "num_followers": 5934,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAB9XYEaGFZnJ82taXS6fIjP",
+  "snapshot_id": "Zj61AAAAAADQ2oR0ANBDQembrf+EUPcX",
   "tracks": [
     {
       "added_at": null,
@@ -60,7 +60,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "url": "https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 170986,
-      "name": "Pa'Yo",
-      "url": "https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/2WNk8DyPt90Qki3j1ZJGhH"
     },
     {
       "added_at": null,
@@ -128,7 +128,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/2WNk8DyPt90Qki3j1ZJGhH"
+      "duration_ms": 170986,
+      "name": "Pa'Yo",
+      "url": "https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 181933,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/2YKyj18wo1O8WOZVOs1PJ6"
+      "duration_ms": 164093,
+      "name": "El Huerfanito",
+      "url": "https://open.spotify.com/track/1GNazkIFj7nPl9NfzO2f6V"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 164093,
-      "name": "El Huerfanito",
-      "url": "https://open.spotify.com/track/1GNazkIFj7nPl9NfzO2f6V"
+      "duration_ms": 181933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/2YKyj18wo1O8WOZVOs1PJ6"
     },
     {
       "added_at": null,

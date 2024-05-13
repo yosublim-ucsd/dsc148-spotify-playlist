@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6193,
+  "num_followers": 6195,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACbhilLg3zQA0nqv36SsQMx",
+  "snapshot_id": "Zj61AAAAAAA26R+HkQk2oWkvG12EzoYi",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 174813,
-      "name": "Blue And Lonesome - Single Version",
-      "url": "https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2"
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
+      "duration_ms": 173013,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+      "duration_ms": 121306,
+      "name": "Crazy Mixed Up World - Alternate Take",
+      "url": "https://open.spotify.com/track/1mzIGcHiEagCiaLKb4YIvM"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
@@ -412,9 +432,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Ah'w Baby",
-      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
       "added_at": null,
@@ -443,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Make It Alright",
-      "url": "https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -471,6 +475,26 @@
       "duration_ms": 185560,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
     },
     {
       "added_at": null,
@@ -524,9 +548,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Last Boogie",
-      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
+      "duration_ms": 201853,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2"
     },
     {
       "added_at": null,
@@ -587,28 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 160186,
-      "name": "Joliet Blues",
-      "url": "https://open.spotify.com/track/28AUjQQLabQ80nRG37TnOF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Walter",
-        "url": "https://open.spotify.com/album/4A3npjd6hsbOuRZPgO6oKp"
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
       "artists": [
         {
@@ -616,25 +620,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/2m4yIr7L9DAgO22xaYnPDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Come Back Baby",
-      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
+      "duration_ms": 150666,
+      "name": "Last Boogie",
+      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
     },
     {
       "added_at": null,
@@ -659,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -668,9 +656,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Driftin'",
-      "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
+      "duration_ms": 165560,
+      "name": "Shake Dancer",
+      "url": "https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq"
     },
     {
       "added_at": null,

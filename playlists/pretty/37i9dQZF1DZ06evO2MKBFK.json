@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 611878,
+  "num_followers": 611886,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAABlkic63iJKhaX0kwZG8R11",
+  "snapshot_id": "Zj61AAAAAABem1g7PE+dkVCcX5oh2mQz",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me Goodbye",
+        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "This Love (G-Dragon Solo)",
-      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BigBang First Single",
         "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 238293,
       "name": "We belong together",
       "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "This Love (G-Dragon Solo)",
+      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigbang 03",
         "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 218618,
       "name": "Forever With U (Feat. Park Bom)",
       "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "A Fool Of Tears",
-      "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 213640,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "A Fool Of Tears",
+      "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 224320,
       "name": "What Is Right",
       "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

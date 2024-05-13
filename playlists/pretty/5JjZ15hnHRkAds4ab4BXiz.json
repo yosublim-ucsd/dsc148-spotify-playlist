@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAABNDQ2MxU+xVwuNE5vDpuDxJ8ufCeR",
+  "snapshot_id": "AAABPgaTN4ERAmU9w1UB8z4y3AjGZsu8",
   "tracks": [
     {
       "added_at": "2023-11-12 18:47:04",
@@ -3751,6 +3751,166 @@
       "duration_ms": 172160,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1OXGJ7jRok4c3KBnIYkuwH"
+    },
+    {
+      "added_at": "2024-05-12 15:43:23",
+      "album": {
+        "name": "Fast Animals",
+        "url": "https://open.spotify.com/album/6sKy9KhjloDKHcoyfY8UgZ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Fast Animals",
+      "url": "https://open.spotify.com/track/4zVBpwpegumZ9inLiyBar1"
+    },
+    {
+      "added_at": "2024-05-12 16:34:50",
+      "album": {
+        "name": "Future Present Past",
+        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 264724,
+      "name": "Threat of Joy",
+      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
+    },
+    {
+      "added_at": "2024-05-12 16:44:36",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Selfless",
+      "url": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
+    },
+    {
+      "added_at": "2024-05-12 17:06:47",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 351786,
+      "name": "Ode To The Mets",
+      "url": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"
+    },
+    {
+      "added_at": "2024-05-12 17:31:19",
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Ain't Got Nobody",
+      "url": "https://open.spotify.com/track/4JBE4ggkT3luTNIMWp5xB1"
+    },
+    {
+      "added_at": "2024-05-12 17:32:51",
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Back To The Shack",
+      "url": "https://open.spotify.com/track/2nHBtnVx09rfgFVJk1uWqN"
+    },
+    {
+      "added_at": "2024-05-12 18:18:39",
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Eulogy For A Rock Band",
+      "url": "https://open.spotify.com/track/3msdwzJ1HKDpq2wCSLth2O"
+    },
+    {
+      "added_at": "2024-05-12 18:23:02",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Planet Telex",
+      "url": "https://open.spotify.com/track/37JISltgxizbDAyNEEqkTY"
+    },
+    {
+      "added_at": "2024-05-12 18:26:53",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "The Bends",
+      "url": "https://open.spotify.com/track/7oDFvnqXkXuiZa1sACXobj"
+    },
+    {
+      "added_at": "2024-05-12 18:56:33",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     }
   ],
   "unique_name": "Ballads",

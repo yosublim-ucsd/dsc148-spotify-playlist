@@ -5408,7 +5408,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 128431,
       "name": "Belong Together (Sped Up)",
       "url": "https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4"
@@ -14582,7 +14582,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -14818,7 +14818,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 287248,
       "name": "fantasmas",
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
@@ -26697,6 +26697,24 @@
     },
     {
       "album": {
+        "name": "Lithe Fall Back",
+        "url": "https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs"
+      },
+      "artists": [
+        {
+          "name": "Shugoazy",
+          "url": "https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129516,
+      "name": "Lithe Fall Back",
+      "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
+    },
+    {
+      "album": {
         "name": "Little Bit Better",
         "url": "https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV"
       },
@@ -34948,7 +34966,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
@@ -44756,7 +44774,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 178626,
       "name": "The Chicken in Black",
       "url": "https://open.spotify.com/track/6rb2YiWI5xJCPs1XfFz3Xz"

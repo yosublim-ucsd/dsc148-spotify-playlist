@@ -1,6 +1,6 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5643,
+  "num_followers": 5655,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "El Amor Que Merecemos",
         "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
       },
@@ -195,18 +179,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 157499,
-      "name": "D\u00c1KITI \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -223,6 +207,22 @@
       "duration_ms": 179834,
       "name": "Mi Secreto",
       "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+        "name": "Una Vida Buena",
+        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
+      "duration_ms": 130000,
+      "name": "Una Vida Buena",
+      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
       },
@@ -343,22 +327,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -371,6 +339,38 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -395,38 +395,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "D\u00edas Negros",
         "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
@@ -443,6 +411,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Nacarile",
         "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 174080,
       "name": "(Escap\u00e1ndome) de m\u00ed",
       "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 211474,
-      "name": "Otra Noche en L.A.",
-      "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Letra Pa' tu Coco",
         "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 212453,
       "name": "Live This One",
       "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 211474,
+      "name": "Otra Noche en L.A.",
+      "url": "https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Me Saben a Miel",
         "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 161739,
       "name": "Tu Nunca Has Sentido",
       "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Dama",
-        "url": "https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Dama",
-      "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Los Perros Van Al Cielo",
+        "url": "https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 195474,
+      "name": "Los Perros Van Al Cielo",
+      "url": "https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Lo Sencillo",
         "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 210031,
       "name": "Dulce Estar",
       "url": "https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Cromo Rx",
-        "url": "https://open.spotify.com/album/3OcN1wJzLicnPchmWYfGy3"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "La Pastilla de Tus Sue\u00f1os, Pt. 2",
-      "url": "https://open.spotify.com/track/2PMWOU2BJCJRbFQtuuNsTE"
     }
   ],
   "unique_name": "Indie Boricua",

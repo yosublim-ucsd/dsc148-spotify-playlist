@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 146553,
       "name": "AKRI TU ERE UN XULO",
       "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
@@ -436,6 +436,28 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "album": {
+        "name": "Cuentos",
+        "url": "https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192630,
+      "name": "Cuentos",
+      "url": "https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ"
     },
     {
       "album": {

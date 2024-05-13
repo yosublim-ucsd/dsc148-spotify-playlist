@@ -1,6 +1,6 @@
 {
   "description": "Tz da Coronel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 340317,
+  "num_followers": 340442,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,46 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Samba de Malandro",
+        "url": "https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "duration_ms": 300842,
+      "name": "Samba de Malandro",
+      "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Diz A\u00ed Qual \u00e9 o Plano?",
         "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
       },
@@ -147,46 +187,6 @@
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Samba de Malandro",
-        "url": "https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Mc Piedro",
-          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        }
-      ],
-      "duration_ms": 300842,
-      "name": "Samba de Malandro",
-      "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -755,6 +755,58 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Avisa L\u00e1, Pt. 4",
+        "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
+      },
+      "artists": [
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 445000,
+      "name": "Avisa L\u00e1, Pt. 4",
+      "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Vou Querer De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
         "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
       },
@@ -819,22 +871,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -883,42 +919,6 @@
       "duration_ms": 209141,
       "name": "da lua",
       "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Avisa L\u00e1, Pt. 4",
-        "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
-      },
-      "artists": [
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 445000,
-      "name": "Avisa L\u00e1, Pt. 4",
-      "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Sorte (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Vai Valer A Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Vai Valer A Pena - Ao Vivo",
-      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Turma no Quintal EP4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4yFnfmKpSeqs5nCYv9OY58"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        }
-      ],
-      "duration_ms": 184622,
-      "name": "Gola\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2vvWv4e4PfXCUzsL9CuGzi"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Energia Benzadeus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
       },
@@ -1363,34 +1343,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Fuga No Radar",
-        "url": "https://open.spotify.com/album/2IAqtFNQpGeIv7NQfAm5bP"
+        "name": "Turma no Quintal EP4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4yFnfmKpSeqs5nCYv9OY58"
       },
       "artists": [
         {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         },
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
         }
       ],
-      "duration_ms": 348571,
-      "name": "Fuga No Radar",
-      "url": "https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E"
+      "duration_ms": 184622,
+      "name": "Gola\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2vvWv4e4PfXCUzsL9CuGzi"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1431,6 +1399,38 @@
       "duration_ms": 361411,
       "name": "Quebradas 2",
       "url": "https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Fuga No Radar",
+        "url": "https://open.spotify.com/album/2IAqtFNQpGeIv7NQfAm5bP"
+      },
+      "artists": [
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 348571,
+      "name": "Fuga No Radar",
+      "url": "https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E"
     }
   ],
   "unique_name": "AMPLIFIKA",

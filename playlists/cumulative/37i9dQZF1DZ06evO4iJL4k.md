@@ -2,7 +2,7 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret。アーティストの代表曲をひとつのプレイリストに。
+> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
 
 74 songs - 4 hr 43 min
 

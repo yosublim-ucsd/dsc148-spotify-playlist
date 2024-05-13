@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 159186,
+  "num_followers": 159248,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 168512,
+      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 236506,
       "name": "A Lovely Night",
       "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 168512,
-      "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
       ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -439,6 +423,22 @@
       "duration_ms": 239706,
       "name": "One More Kiss, Dear",
       "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Allied (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249946,
       "name": "Sing Sing Sing",
       "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 186666,
       "name": "La Dolce Vita / La Bella Malinconica",
       "url": "https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167666,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "The Thomas Crown Affair",
         "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 141240,
       "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
       "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "Rounders (Music From The Miramax Motion Picture)",
         "url": "https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "You've Got Mail",
         "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Like Wild",
-        "url": "https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt"
-      },
-      "artists": [
-        {
-          "name": "Ray Anthony & His Orchestra",
-          "url": "https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "The Hokey Pokey - Bonus Tracks",
-      "url": "https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "The Hustler (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 112913,
       "name": "Main Theme (Stop And Go)",
       "url": "https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Like Wild",
+        "url": "https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt"
+      },
+      "artists": [
+        {
+          "name": "Ray Anthony & His Orchestra",
+          "url": "https://open.spotify.com/artist/5QW6Fuf8rC85McLea15MaK"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "The Hokey Pokey - Bonus Tracks",
+      "url": "https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1595,6 +1595,22 @@
       "duration_ms": 181000,
       "name": "Tu Vuo' Fa L'Americano - Vocal",
       "url": "https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Midnight in Paris (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
+      },
+      "artists": [
+        {
+          "name": "Claude Luter et son orchestre",
+          "url": "https://open.spotify.com/artist/7vyl7IFdeAHggtnfN0qU7w"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Si Tu Vois Ma M\u00e8re",
+      "url": "https://open.spotify.com/track/7CCM17v5YFXAV7fR35UfkA"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1723,22 +1739,6 @@
       "duration_ms": 38200,
       "name": "I Cried For You (Now It's Your Turn To Cry Over Me) - Pt. 1",
       "url": "https://open.spotify.com/track/3X381HDSNNeaLs8KBk1G9G"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "Midnight in Paris (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
-      },
-      "artists": [
-        {
-          "name": "Claude Luter et son orchestre",
-          "url": "https://open.spotify.com/artist/7vyl7IFdeAHggtnfN0qU7w"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Si Tu Vois Ma M\u00e8re",
-      "url": "https://open.spotify.com/track/7CCM17v5YFXAV7fR35UfkA"
     },
     {
       "added_at": "2024-03-20 14:47:57",

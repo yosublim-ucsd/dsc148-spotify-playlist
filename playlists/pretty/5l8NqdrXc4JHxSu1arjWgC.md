@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,322 likes - 693 songs - 1 day 22 hr 36 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,326 likes - 697 songs - 1 day 22 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -701,5 +701,9 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 691 | [Hateful \- Remastered](https://open.spotify.com/track/2FNsNZjUQg3bhx5dWW0pRs) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 2:43 |
 | 692 | [Tried And True](https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 4:02 |
 | 693 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 |
+| 694 | [The One](https://open.spotify.com/track/4Vx8R95QgJdPOuXrGXc15G) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Songs for the General Public](https://open.spotify.com/album/381lBGx4kn8ilgZWuvuDre) | 2:26 |
+| 695 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
+| 696 | [Kicking Up A Fuss](https://open.spotify.com/track/0AyKKF4K1lV33LtP40tYlV) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:16 |
+| 697 | [The Last Rotation Of Earth](https://open.spotify.com/track/07MmMkkxvMpcc9uvfjj46i) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:09 |
 
-Snapshot ID: `AAAGtDeoJeZKg6cXILLyCNww4vgQWV1x`
+Snapshot ID: `AAAGtbBumNhz4a9zHxtKyGOygT46XrH3`

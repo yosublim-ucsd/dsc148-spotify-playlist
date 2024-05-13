@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "Amazing (feat. Eirik N\u00e6ss)",
+        "url": "https://open.spotify.com/album/1NckPl4n269Ri2fM8BRqIa"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146061,
+      "name": "Amazing (feat. Eirik N\u00e6ss)",
+      "url": "https://open.spotify.com/track/5a8Rh9IBjH644id95G6SNN"
+    },
+    {
+      "album": {
         "name": "American Psycho",
         "url": "https://open.spotify.com/album/4VN9CiIqNbahM974oIIBIk"
       },
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 218584,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
@@ -6612,7 +6634,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 378360,
       "name": "Jubel - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT"
@@ -13832,6 +13854,32 @@
       "duration_ms": 176346,
       "name": "Tripping Off",
       "url": "https://open.spotify.com/track/5JdhojQ6h2Cy2t6uH5jPAa"
+    },
+    {
+      "album": {
+        "name": "Triste Serenata (feat. French Braids)",
+        "url": "https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Triste Serenata (feat. French Braids)",
+      "url": "https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf"
     },
     {
       "album": {

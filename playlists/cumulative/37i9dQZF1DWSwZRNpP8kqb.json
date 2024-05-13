@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Guanuqueando",
+        "url": "https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB"
+      },
+      "artists": [
+        {
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259874,
+      "name": "Guanuqueando",
+      "url": "https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa"
+    },
+    {
+      "album": {
         "name": "Canto de Nadie",
         "url": "https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE"
       },
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 189040,
       "name": "Quisiera Amarte Menos",
       "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"

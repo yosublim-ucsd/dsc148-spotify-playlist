@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,521 likes - 71 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,627 likes - 71 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 53 | [The Lost Cities](https://open.spotify.com/track/2Eb5pVOvZhjxjEaamfb0Cp) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/6KKEaPQTMT37QYyqSMIJ3x) | 2:20 |
 | 54 | [Desert Hideout](https://open.spotify.com/track/0UMo22CzNzglVuQypNq3E5) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:29 |
 | 55 | [Zion](https://open.spotify.com/track/2QLu8c1L4Sr3HwQez9GVdc) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:36 |
-| 56 | [Nocturne in C Sharp](https://open.spotify.com/track/4UAJf6d48Q6dBzgbC5pjya) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Robin Smith](https://open.spotify.com/artist/2FGezmANSFpsGzBoLoIa9I), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:33 |
+| 56 | [Chopin: Nocturne in C Sharp](https://open.spotify.com/track/4UAJf6d48Q6dBzgbC5pjya) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Robin Smith](https://open.spotify.com/artist/2FGezmANSFpsGzBoLoIa9I), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:33 |
 | 57 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 |
 | 58 | [Blue Spectre](https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2) | [Xin Feng](https://open.spotify.com/artist/0ecuDdIS1AQoyl0xVnR9hL) | [Blue Spectre](https://open.spotify.com/album/5ngAAECyfrWU5LKcM2vdlq) | 1:48 |
 | 59 | [Among the Clouds](https://open.spotify.com/track/6RMZYwjAH5CVJriToCDuZ7) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Among the Clouds](https://open.spotify.com/album/4HcRsA5pd3BqTGUKWoxSv0) | 3:00 |

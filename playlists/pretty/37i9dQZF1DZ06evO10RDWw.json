@@ -1,12 +1,12 @@
 {
-  "description": "This is Saosin. The essential tracks, all in one playlist.",
-  "num_followers": 6937,
+  "description": "This is Saosin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 6939,
   "original_name": "This Is Saosin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAD2VgM1RJidwXFvWzrdtzg/",
+  "snapshot_id": "Zj61AAAAAAA47GYHUphn7qBk75zTN2cc",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Grey",
-        "url": "https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD"
+        "name": "Seven / Pitiful (Live)",
+        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Love Maker",
-      "url": "https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3"
+      "duration_ms": 197888,
+      "name": "Pitiful - Live",
+      "url": "https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven / Pitiful (Live)",
-        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 197888,
-      "name": "Pitiful - Live",
-      "url": "https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j"
+      "duration_ms": 197626,
+      "name": "Love Maker",
+      "url": "https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3"
     }
   ],
   "unique_name": "This Is Saosin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,440 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,484 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 13 | [Imputati \(feat\. Emis Killa\)](https://open.spotify.com/track/3ARfNckt7RhPitskCY5vQk) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:14 |
 | 14 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 15 | [Doppia Personalità](https://open.spotify.com/track/6tFtSEKQN6WHRhfhZfABKD) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:55 |
-| 16 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 |
+| 16 | [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1) | 4:11 |
 | 17 | [Nato Per Questo \(feat\. Marracash\)](https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:46 |
 | 18 | [Quadrato \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9) | [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Sedicinoni](https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV) | 2:56 |
 | 19 | [PARTICOLARI SPORCHI](https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:47 |

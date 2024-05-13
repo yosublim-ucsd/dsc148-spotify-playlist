@@ -4,7 +4,7 @@
 
 > 
 
-693 songs - 1 day 22 hr 36 min
+697 songs - 1 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Everything You’ve Come To Expect](https://open.spotify.com/track/01M9XvRcT8hEOf6NOLBHew) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:13 | 2019-04-07 |  |
 | [Evil Hearted You](https://open.spotify.com/track/0Kq2cLjU0ldwA4akyovSgm) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Planet of Sound](https://open.spotify.com/album/2RszNBztaNHz6XzSHVbXl5) | 2:38 | 2019-07-18 |  |
 | [Exactly Where I'm At](https://open.spotify.com/track/42WCGd8b9J771EyHBxpxwP) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [White Pepper](https://open.spotify.com/album/6xHEzpqk0yDUt2uuodhWqF) | 4:31 | 2019-03-17 |  |
+| [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2024-05-13 |  |
 | [Face of the Sun](https://open.spotify.com/track/28XQE0GsoQjExSZUwfQxgr) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [Night of the Worm Moon](https://open.spotify.com/album/5oDzGyAIUNhEE9UaV7Upng) | 3:29 | 2020-01-23 |  |
 | [Falling Down](https://open.spotify.com/track/3Gy1tNeogQ28BpgSBU7i7u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Falling Down \- EP](https://open.spotify.com/album/0OSzN9fDs305Kt9Bxy7sKr) | 4:29 | 2020-09-17 |  |
 | [Fat Old Sun](https://open.spotify.com/track/5qlckstqDQ2RskL0SJsDYx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Atom Heart Mother](https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY) | 5:23 | 2020-05-08 |  |
@@ -302,6 +303,7 @@
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2019-02-18 |  |
 | [Keep It Hid](https://open.spotify.com/track/2ckCEdqefxdVVw3T7tPHoo) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/1aS3ouxrqC2xAjR5LJku6M) | 3:39 | 2019-04-24 |  |
 | [Keep On Dreamin'](https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 4:26 | 2023-01-18 |  |
+| [Kicking Up A Fuss](https://open.spotify.com/track/0AyKKF4K1lV33LtP40tYlV) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:16 | 2024-05-13 |  |
 | [King Of The World](https://open.spotify.com/track/0ZxWG91nxZcCsEUd6ykc6i) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/3VwMlhrc3Z0YON3UNV0VSC) | 5:00 | 2019-12-19 |  |
 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 | 2020-11-02 |  |
 | [Kubes](https://open.spotify.com/track/3foEWcAlqsJDApq7ad0SAy) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:43 | 2020-01-21 |  |
@@ -585,6 +587,7 @@
 | [The Hardest Button To Button](https://open.spotify.com/track/5vVwPth7ccUHil5wsUG7ky) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS) | 3:32 | 2019-06-10 |  |
 | [The Importance of Being Idle](https://open.spotify.com/track/4SXgXYFbk3nmLVnWlxFZnx) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe the Truth](https://open.spotify.com/album/17ey4RhKTF2sqtr88d6Qfg) | 3:39 | 2020-03-30 |  |
 | [The Internet of Love \(That Way\)](https://open.spotify.com/track/10FFk6OGMIKbpUe89cTEAg) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:56 | 2019-07-04 |  |
+| [The Last Rotation Of Earth](https://open.spotify.com/track/07MmMkkxvMpcc9uvfjj46i) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:09 | 2024-05-13 |  |
 | [The Loneliest Guy](https://open.spotify.com/track/7A386IH2FpucZ15XeJ59k2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Reality](https://open.spotify.com/album/04bKxe1Y7WFw4yrDPlmswG) | 4:11 | 2019-11-01 |  |
 | [The Lord Of Lightning](https://open.spotify.com/track/0HYEaFggiXBR6COdSS4OuP) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder Of The Universe](https://open.spotify.com/album/61ZDWEphPwgz6Hzmt6ZK8y) | 5:07 | 2018-11-29 |  |
 | [The Lost Chord \(feat\. Leee John\)](https://open.spotify.com/track/5jDIIpm38XbdvvSt4oilcI) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Leee John](https://open.spotify.com/artist/4FyDcMx1NsTjaQuj8kGfm4) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 4:03 | 2020-10-28 |  |
@@ -593,6 +596,7 @@
 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 | 2020-07-16 |  |
 | [The Mole From The Ministry \- 2001 Mix](https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 5:58 | 2022-12-16 |  |
 | [The Motel](https://open.spotify.com/track/2KhnA8nG3tGcGhYoN7FKbF) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [1\. Outside \(The Nathan Adler Diaries: A Hyper Cycle\) \[Expanded Edition\]](https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q) | 6:50 | 2020-10-16 |  |
+| [The One](https://open.spotify.com/track/4Vx8R95QgJdPOuXrGXc15G) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Songs for the General Public](https://open.spotify.com/album/381lBGx4kn8ilgZWuvuDre) | 2:26 | 2024-05-13 |  |
 | [The One I Love \- Remastered 2012](https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:17 | 2019-09-20 |  |
 | [The Pink Phantom \(feat\. Elton John and 6LACK\)](https://open.spotify.com/track/2qNsvDflYHGxWIBDKXyB5g) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Song Machine Episode 7](https://open.spotify.com/album/6Q7UcRmIOmzGpXkMzyWYkN) | 4:13 | 2020-10-01 |  |
 | [The Poison Tree](https://open.spotify.com/track/1QfeZxMrapvHtqYZhBfF9M) | [The Good, the Bad & the Queen](https://open.spotify.com/artist/6iy8nrBbtL57i4eUttHTww) | [Merrie Land](https://open.spotify.com/album/3OCV0CcPqayHyPUqtjWcOT) | 3:42 | 2018-11-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 35510,
+  "num_followers": 35513,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAABUIRIfS+bQ+7Vd4QJ2RDfx",
+  "snapshot_id": "Zj61AAAAAAANYh32ss0Sz5bSUjU4o1/g",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
       "duration_ms": 223320,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 169171,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
     },
     {
       "added_at": null,
@@ -418,27 +438,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Lightning Riders",
-      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
+        },
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
         }
       ],
-      "duration_ms": 248413,
-      "name": "Jump on My Shoulders",
-      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
+      "duration_ms": 222266,
+      "name": "Mayday!!! Fiesta Fever",
+      "url": "https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6"
     },
     {
       "added_at": null,
@@ -459,6 +467,22 @@
       "duration_ms": 174320,
       "name": "Disco Body Parts (feat. AWOLNATION)",
       "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Jump on My Shoulders",
+      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
     },
     {
       "added_at": null,
@@ -486,31 +510,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Mayday!!! Fiesta Fever",
-      "url": "https://open.spotify.com/track/5gpy4Oseu0soMumuSJi7B6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
+      "duration_ms": 230586,
+      "name": "Lightning Riders",
+      "url": "https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg"
     },
     {
       "added_at": null,
@@ -531,6 +535,22 @@
       "duration_ms": 215849,
       "name": "flagpole sitta",
       "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,
@@ -664,17 +684,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        },
-        {
-          "name": "Conor Mason",
-          "url": "https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 241609,
-      "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
-      "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
+      "duration_ms": 211445,
+      "name": "Alone Again (Naturally)[feat. Midland]",
+      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
     },
     {
       "added_at": null,
@@ -740,13 +756,17 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        },
+        {
+          "name": "Conor Mason",
+          "url": "https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET"
         }
       ],
-      "duration_ms": 211445,
-      "name": "Alone Again (Naturally)[feat. Midland]",
-      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
+      "duration_ms": 241609,
+      "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
+      "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
     },
     {
       "added_at": null,

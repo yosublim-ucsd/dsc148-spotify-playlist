@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Kei Linch & Nanpa Básico
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,321 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,324 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
-| 2 | [Más Que Reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más Que Reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
+| 2 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 3 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 |
 | 4 | [AIR](https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL) | [AIR](https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr) | 2:59 |
 | 5 | [Oriente](https://open.spotify.com/track/1m7420tu0giLnbu2LQ98y0) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Fiallo](https://open.spotify.com/artist/6E2JHtKCvri7P7vWK7CzCc), [Munozzz](https://open.spotify.com/artist/5pF08t8ERA9GuK5dvnC1oB), [Barrasdereptil](https://open.spotify.com/artist/4KPi82w20lGQ5ndqNxkZ4k) | [Oriente](https://open.spotify.com/album/3Ff4w8X4dQwai5Lg8IFDOA) | 4:36 |

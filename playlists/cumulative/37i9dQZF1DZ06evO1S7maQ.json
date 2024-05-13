@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
+  "description": "This Is Bruce Springsteen. Los temas esenciales, todos en una lista.",
   "name": "This Is Bruce Springsteen",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 269920,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 215426,
       "name": "Downbound Train",
       "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 245840,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 240146,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 288720,
       "name": "Thunder Road",
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 347600,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu"

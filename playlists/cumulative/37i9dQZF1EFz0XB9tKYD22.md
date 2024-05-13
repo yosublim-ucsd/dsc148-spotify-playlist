@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-313 songs - 18 hr 40 min
+314 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,13 +212,14 @@
 | [Ruthless](https://open.spotify.com/track/6iZepxS1TSrveHleqp64dN) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Ruthless](https://open.spotify.com/album/3JB817SHWS8yoeLRCXGCVA) | 3:37 | 2024-02-27 |  |
 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 | 2024-02-27 |  |
 | [Say Goodbye](https://open.spotify.com/track/1tGijUW6yXsHb5W7YEfMi2) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Unbroken](https://open.spotify.com/album/1hrK4uDbw0YkGgL8bshsoH) | 3:46 | 2024-02-27 |  |
-| [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 | 2024-02-27 |  |
+| [See You Next Summer](https://open.spotify.com/track/4UHcW6UABWfi7GwFI5jBcS) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Tennessee Truth](https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8) | 2:37 | 2024-05-12 |  |
+| [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 | 2024-02-27 | 2024-05-13 |
 | [She Don’t Know](https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:29 | 2024-02-27 |  |
 | [Shotgun Rider](https://open.spotify.com/track/3LbvNFkqDTrE1liGMmZBDL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Sundown Heaven Town](https://open.spotify.com/album/39ZUc3Efz2TH8RbPeDTMOB) | 3:55 | 2024-02-27 |  |
 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 | 2024-02-27 |  |
 | [Simple Life](https://open.spotify.com/track/7jp5yLTwHNJL9awtdZf2Br) | [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Dress Rehearsal](https://open.spotify.com/album/4AT9vMMfL9ZqvgoNfr1UYe) | 3:49 | 2024-02-27 |  |
 | [Sky Full Of Stars](https://open.spotify.com/track/7is31jFJdTZyB1T5f5sWyK) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Sky Full Of Stars](https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR) | 3:37 | 2024-02-27 |  |
-| [Sleep Tonight](https://open.spotify.com/track/7CWKY0ttIoSaVtMd5k1Fjv) | [Midday Sun](https://open.spotify.com/artist/0bQMioo9WhAMfZ5RHwBGqi) | [Walkin' In the Sun: Smooth Country Pop Hits](https://open.spotify.com/album/2HzDVqLBEkBPwZ3T7KWmD6) | 4:16 | 2024-02-27 |  |
+| [Sleep Tonight](https://open.spotify.com/track/7CWKY0ttIoSaVtMd5k1Fjv) | [Midday Sun](https://open.spotify.com/artist/0bQMioo9WhAMfZ5RHwBGqi) | [Walkin' In the Sun: Smooth Country Pop Hits](https://open.spotify.com/album/2HzDVqLBEkBPwZ3T7KWmD6) | 4:16 | 2024-02-27 | 2024-05-13 |
 | [Sleep Tonight](https://open.spotify.com/track/3HBC5iUDIpBiKPCZ5a7x2F) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:02 | 2024-02-27 |  |
 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 | 2024-02-27 |  |
 | [Snow Angels](https://open.spotify.com/track/21njih53CXaONbPGPk3bV0) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Snow Angels](https://open.spotify.com/album/5kdonEbtYbMZygqep7rECA) | 3:46 | 2024-02-27 |  |

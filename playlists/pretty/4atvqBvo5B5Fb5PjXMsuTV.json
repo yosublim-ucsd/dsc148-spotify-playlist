@@ -6,8 +6,32 @@
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIRkxjRaHVn5LT6Jv/NXL85TB68UUo",
+  "snapshot_id": "AAAISNmMGs1+P2WkzQucs9Ah77fimKsm",
   "tracks": [
+    {
+      "added_at": "2024-05-12 10:01:46",
+      "album": {
+        "name": "HEAT STICK",
+        "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "HEAT STICK",
+      "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
     {
       "added_at": "2024-05-11 22:02:00",
       "album": {
@@ -415,26 +439,6 @@
       "duration_ms": 193562,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/5kNNalR2uZHvdbGD6K1hF7"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Claw Machine",
-        "url": "https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP"
-      },
-      "artists": [
-        {
-          "name": "Sloppy Jane",
-          "url": "https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Claw Machine",
-      "url": "https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc"
     }
   ],
   "unique_name": "NEW SINGLES RELEASES | UPDATED 12 MAY",

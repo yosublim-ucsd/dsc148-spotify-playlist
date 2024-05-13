@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66055,
+  "num_followers": 66122,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Love Me, Please Love Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
-      },
-      "artists": [
-        {
-          "name": "Sandie Shaw",
-          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Puppet On A String",
-      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Rise Like A Phoenix",
         "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 181989,
       "name": "Rise Like A Phoenix",
       "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Love Me, Please Love Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15"
+      },
+      "artists": [
+        {
+          "name": "Sandie Shaw",
+          "url": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Puppet On A String",
+      "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "La La Love",
-        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "La La Love",
-      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 179786,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "La La Love",
+        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "La La Love",
+      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Essential",
-        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Je t'adore - Eurovision Mix",
-      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "J'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sahara Euro Edition",
-        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
       },
       "artists": [
         {
-          "name": "Sarbel",
-          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 180386,
-      "name": "Yassou Maria",
-      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
+      "duration_ms": 182000,
+      "name": "Je t'adore - Eurovision Mix",
+      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -647,6 +631,22 @@
       "duration_ms": 175000,
       "name": "Lipstick - Radio Edit",
       "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sahara Euro Edition",
+        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
+      },
+      "artists": [
+        {
+          "name": "Sarbel",
+          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Yassou Maria",
+      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
-      },
-      "artists": [
-        {
-          "name": "Ira Losco",
-          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
         "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
       },
@@ -759,38 +743,6 @@
       "duration_ms": 184157,
       "name": "J'aime la vie - Eurovision 1986",
       "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Ding Dong!",
-        "url": "https://open.spotify.com/album/68w0MsT47MMzq28AJ3bedc"
-      },
-      "artists": [
-        {
-          "name": "Krista Siegfrids",
-          "url": "https://open.spotify.com/artist/5bqU2hCGu9WZW4HfKiNH39"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -811,18 +763,50 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Precious",
-        "url": "https://open.spotify.com/album/6OeH9eSf6GOu9sreWGDwlo"
+        "name": "Walk On Water",
+        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
       },
       "artists": [
         {
-          "name": "Precious",
-          "url": "https://open.spotify.com/artist/0ZhPS80sMbmVgzOkMPKNpn"
+          "name": "Ira Losco",
+          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
         }
       ],
-      "duration_ms": 178533,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/04JxhBP7tjz5tWrcUKisdY"
+      "duration_ms": 185720,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Ding Dong!",
+        "url": "https://open.spotify.com/album/68w0MsT47MMzq28AJ3bedc"
+      },
+      "artists": [
+        {
+          "name": "Krista Siegfrids",
+          "url": "https://open.spotify.com/artist/5bqU2hCGu9WZW4HfKiNH39"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Grand Prix - Greatest Hits",
+        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
+      },
+      "artists": [
+        {
+          "name": "The Eurosingers",
+          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
+        }
+      ],
+      "duration_ms": 181355,
+      "name": "A-Ba-Ni-Bi - 1978, Israel",
+      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -843,18 +827,34 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Grand Prix - Greatest Hits",
-        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
       },
       "artists": [
         {
-          "name": "The Eurosingers",
-          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
         }
       ],
-      "duration_ms": 181355,
-      "name": "A-Ba-Ni-Bi - 1978, Israel",
-      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
+      "duration_ms": 183093,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/6OeH9eSf6GOu9sreWGDwlo"
+      },
+      "artists": [
+        {
+          "name": "Precious",
+          "url": "https://open.spotify.com/artist/0ZhPS80sMbmVgzOkMPKNpn"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/04JxhBP7tjz5tWrcUKisdY"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Echoes (International Special Edition)",
-        "url": "https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU"
-      },
-      "artists": [
-        {
-          "name": "Anggun",
-          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Echo (You and I)",
-      "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
+        "name": "Echoes (International Special Edition)",
+        "url": "https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU"
       },
       "artists": [
         {
-          "name": "Anna Sahlene",
-          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
+          "name": "Anggun",
+          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Runaway - Bonus Track",
-      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
+      "duration_ms": 183520,
+      "name": "Echo (You and I)",
+      "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -987,22 +971,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "We Are the Winners",
-        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
-      },
-      "artists": [
-        {
-          "name": "LT United",
-          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "We Are the Winners - Original Version",
-      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Moustache (Eurovision 2014)",
         "url": "https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7"
       },
@@ -1015,6 +983,38 @@
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Take Me to Your Heaven",
+      "url": "https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "We Are the Winners",
+        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
+      },
+      "artists": [
+        {
+          "name": "LT United",
+          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "We Are the Winners - Original Version",
+      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Verona",
-        "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
       },
       "artists": [
         {
-          "name": "Laura",
-          "url": "https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS"
-        },
-        {
-          "name": "KOIT TOOME",
-          "url": "https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc"
+          "name": "Anna Sahlene",
+          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
         }
       ],
-      "duration_ms": 182548,
-      "name": "Verona - Eurovision 2017 - Estonia",
-      "url": "https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD"
+      "duration_ms": 172666,
+      "name": "Runaway - Bonus Track",
+      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6"
+        "name": "Verona",
+        "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
       },
       "artists": [
         {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+          "name": "Laura",
+          "url": "https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS"
+        },
+        {
+          "name": "KOIT TOOME",
+          "url": "https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc"
         }
       ],
-      "duration_ms": 183773,
-      "name": "Take Me to Your Heaven",
-      "url": "https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU"
+      "duration_ms": 182548,
+      "name": "Verona - Eurovision 2017 - Estonia",
+      "url": "https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD"
     },
     {
       "added_at": "2023-05-05 17:20:54",

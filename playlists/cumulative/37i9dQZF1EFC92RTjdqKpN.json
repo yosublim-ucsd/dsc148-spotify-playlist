@@ -2838,10 +2838,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 200173,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/37leo8A4Eq90uulEHnShOP"
+    },
+    {
+      "album": {
+        "name": "Where Does This Door Go (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/5gkGnVQ1XAW0Ee2aZSAGkC"
     },
     {
       "album": {

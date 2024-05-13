@@ -1,6 +1,6 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 81968,
+  "num_followers": 82002,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Worship Journal (Live)",
         "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
       },
@@ -127,6 +143,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -147,22 +179,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "One Nation Under God",
         "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 418261,
       "name": "It's Yours",
       "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Worth Fighting For (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 419413,
-      "name": "I'll Just Say Yes - Live",
-      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Worth Fighting For (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 419413,
+      "name": "I'll Just Say Yes - Live",
+      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Work It Out (Live)",
         "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 320955,
       "name": "Work It Out - Live",
       "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Nobody Like You Lord (Radio Edit - Live)",
-        "url": "https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ"
-      },
-      "artists": [
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 244736,
-      "name": "Nobody Like You Lord - Radio Edit - Live",
-      "url": "https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+        "name": "Nobody Like You Lord (Radio Edit - Live)",
+        "url": "https://open.spotify.com/album/3qQk8UYKGkjp91yl799gWJ"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
         }
       ],
-      "duration_ms": 320093,
-      "name": "That's What I Believe",
-      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
+      "duration_ms": 244736,
+      "name": "Nobody Like You Lord - Radio Edit - Live",
+      "url": "https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -571,38 +571,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Experience",
-        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 465933,
-      "name": "Open My Heart - Live",
-      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 338894,
-      "name": "Intentional - Live",
-      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
         "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "The Experience",
+        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 465933,
+      "name": "Open My Heart - Live",
+      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 243453,
       "name": "Celebrate - Live",
       "url": "https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Already Won (Live)",
-        "url": "https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211884,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Sessions - EP",
         "url": "https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 249176,
       "name": "Maintain (feat. Chantae Cann) (Live)",
       "url": "https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Already Won (Live)",
+        "url": "https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 211884,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU"
     }
   ],
   "unique_name": "Gospel Live",

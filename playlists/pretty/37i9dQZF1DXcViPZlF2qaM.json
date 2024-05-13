@@ -1,6 +1,6 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 59167,
+  "num_followers": 59222,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
-      "added_at": "2022-04-04 18:08:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "DELIRIO DE GRANDEZA",
-      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
-    },
-    {
       "added_at": "2022-02-18 18:49:36",
       "album": {
         "name": "Laura Itandehui",
@@ -175,6 +159,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2022-04-04 18:08:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "DELIRIO DE GRANDEZA",
+      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
       "added_at": "2024-01-11 03:47:29",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Sicod\u00e9licos",
+        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Guajira Sicod\u00e9lica",
+      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+    },
+    {
       "added_at": "2023-04-01 01:18:58",
       "album": {
         "name": "Liit",
@@ -229,20 +245,20 @@
       "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-02-11 00:27:46",
       "album": {
-        "name": "Sicod\u00e9licos",
-        "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
       },
       "artists": [
         {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Guajira Sicod\u00e9lica",
-      "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -259,22 +275,6 @@
       "duration_ms": 130493,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
-    },
-    {
-      "added_at": "2022-02-11 00:27:46",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-02-17 23:02:00",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
     },
     {
-      "added_at": "2022-12-20 21:43:10",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Salvavidas de hielo",
@@ -375,6 +359,22 @@
       "duration_ms": 183293,
       "name": "Fried Neck Bones And Some Home Fries",
       "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
+    },
+    {
+      "added_at": "2022-12-20 21:43:10",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+    },
+    {
       "added_at": "2023-05-25 23:09:45",
       "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
@@ -671,22 +687,6 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
-    },
-    {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
     },
     {
       "added_at": "2022-09-02 06:00:17",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
       "added_at": "2023-04-01 01:18:58",
       "album": {
         "name": "Perlas & Conchas",
@@ -791,6 +775,22 @@
       "duration_ms": 177889,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
+    },
+    {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
     },
     {
       "added_at": "2022-01-21 18:59:13",
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
-      "added_at": "2022-04-01 20:16:53",
+      "added_at": "2022-06-02 20:34:36",
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+        "name": "Quisiera Ser",
+        "url": "https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+      "duration_ms": 237858,
+      "name": "Quisiera Ser",
+      "url": "https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -873,20 +873,36 @@
       "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
-      "added_at": "2022-06-02 20:34:36",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Quisiera Ser",
-        "url": "https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9"
+        "name": "Perlas & Conchas",
+        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
         }
       ],
-      "duration_ms": 237858,
-      "name": "Quisiera Ser",
-      "url": "https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA"
+      "duration_ms": 294112,
+      "name": "Agradezco",
+      "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
+    },
+    {
+      "added_at": "2022-04-01 20:16:53",
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -903,22 +919,6 @@
       "duration_ms": 372093,
       "name": "No Hay Problema",
       "url": "https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Perlas & Conchas",
-        "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
-        }
-      ],
-      "duration_ms": 294112,
-      "name": "Agradezco",
-      "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
     },
     {
       "added_at": "2022-09-26 22:10:29",
@@ -993,26 +993,6 @@
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
     },
     {
-      "added_at": "2023-09-05 00:10:18",
-      "album": {
-        "name": "Afrodiaspora",
-        "url": "https://open.spotify.com/album/33P899lSs20h8BEWTKskCv"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        },
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 278786,
-      "name": "Plena y Bomba (feat. Calle 13)",
-      "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Echando pa'lante",
@@ -1031,6 +1011,26 @@
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
+    },
+    {
+      "added_at": "2023-09-05 00:10:18",
+      "album": {
+        "name": "Afrodiaspora",
+        "url": "https://open.spotify.com/album/33P899lSs20h8BEWTKskCv"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        },
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 278786,
+      "name": "Plena y Bomba (feat. Calle 13)",
+      "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
     },
     {
       "added_at": "2021-10-16 00:59:30",

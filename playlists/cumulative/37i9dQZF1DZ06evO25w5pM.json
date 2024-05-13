@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Deuter. The essential tracks, all in one playlist.",
+  "description": "This Is Deuter. Los temas esenciales, todos en una lista.",
   "name": "This Is Deuter",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 406586,
       "name": "Moon-Silvered Clouds",
       "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 625760,
       "name": "Seashell",
       "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"

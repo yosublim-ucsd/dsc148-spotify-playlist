@@ -4,7 +4,7 @@
 
 > summer is beginning to peek through 📷 Devon Cole
 
-2,043 songs - 4 day 6 hr 51 min
+2,045 songs - 4 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1443,7 +1443,7 @@
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-09-25 | 2021-08-21 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 |  |
-| [push up bra](https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [push up bra](https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY) | 2:13 | 2024-03-08 |  |
+| [push up bra](https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [push up bra](https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY) | 2:13 | 2024-03-08 | 2024-05-13 |
 | [Put It All On Me](https://open.spotify.com/track/3d7QNPRDr5N4HniovDgQAG) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/64xTStyvtAH3LhUtSk5qkY) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-01-25 | 2022-01-08 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 | 2023-10-01 |
@@ -1457,7 +1457,7 @@
 | [R.I.P\. to the Club](https://open.spotify.com/track/6CWNl44T4rUI6KsbKJNA10) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [R.I.P\. to the Club](https://open.spotify.com/album/4Gvuo7jc2LcXCJFlH5Oqb3) | 2:24 | 2022-03-18 | 2022-07-16 |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 | 2021-02-25 | 2021-03-19 |
 | [Rain](https://open.spotify.com/track/1L1x0IlfPWHTMBexd7tNMP) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Rain](https://open.spotify.com/album/5MDXhKHebA7Uc5dGGUYYGv) | 3:11 | 2023-06-30 | 2023-07-15 |
-| [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-12 |  |
+| [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-12 | 2024-05-13 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-21 |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 |  |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2021-12-17 | 2022-01-29 |
@@ -1655,6 +1655,7 @@
 | [Sometimes Things Just Fall Apart](https://open.spotify.com/track/3xijzRdlKYMuEQDVZTYlg9) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Sometimes Things Just Fall Apart](https://open.spotify.com/album/1fvnFri7WMDayZLb9iF5pM) | 2:39 | 2020-06-29 | 2021-10-27 |
 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 | 2023-01-06 | 2023-01-28 |
 | [sorry for how i left it](https://open.spotify.com/track/30Z9kSLiHee3no8ckTxuWM) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [sorry for how i left it](https://open.spotify.com/album/3sKzLrZETMJMk0asQBKdPY) | 2:34 | 2021-08-19 | 2021-11-19 |
+| [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-10 |  |
 | [SOS](https://open.spotify.com/track/4DizoOSuzZebR7NfH5ZHAG) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [SOS](https://open.spotify.com/album/46YSscOoOedZeU4vytYnjq) | 2:55 | 2020-08-11 | 2021-11-08 |
 | [sound off](https://open.spotify.com/track/5nCWUq99mmY6yMzcxSBU1o) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [sound off](https://open.spotify.com/album/78fvUggdmI7wpbma4KhqVo) | 1:39 | 2021-02-26 | 2021-11-19 |
 | [Space Ghost Coast To Coast](https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:07 | 2020-08-20 | 2021-03-23 |
@@ -1762,6 +1763,7 @@
 | [Take Me \(feat\. Mariana Thielen\)](https://open.spotify.com/track/3kxH7rqUBK8uYOyfIuWT7z) | [OLYK](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Obregon](https://open.spotify.com/artist/1vtKD9ZxSt9XvgyIdHcggA), [Mariana Thielen](https://open.spotify.com/artist/0GtFla0QWHLRngoms5a9Kt) | [Take Me \(Ft\. Mariana Thielen\)](https://open.spotify.com/album/6w19wyQRVTArL7xsHRO31l) | 3:34 | 2019-05-26\* | 2019-06-15 |
 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-18 | 2023-01-28 |
 | [Take My Picture](https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Bummer](https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz) | 3:15 | 2022-10-28 | 2022-11-12 |
+| [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 |  |
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2021-03-07 | 2021-10-13 |
 | [Talk \- Disclosure VIP](https://open.spotify.com/track/3uXHSf9sSIpOJWuC1H8DiU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk \(Disclosure VIP\)](https://open.spotify.com/album/3zKB8eOzx6nPOnKUf0A4CS) | 4:33 | 2019-05-26\* | 2021-03-19 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-17 |

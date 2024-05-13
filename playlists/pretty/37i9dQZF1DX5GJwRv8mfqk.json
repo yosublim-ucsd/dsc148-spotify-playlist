@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 116993,
+  "num_followers": 117091,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -231,38 +231,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Tu Postura",
-      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Siempre Te Voy A Querer",
-      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
@@ -315,6 +283,38 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Siempre Te Voy A Querer",
+      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "La Pregunta del Mill\u00f3n",
         "url": "https://open.spotify.com/album/2aXc82vWmLxSKj44zEgshL"
       },
@@ -331,18 +331,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+        "name": "Borracho de Cochera",
+        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 214253,
-      "name": "T\u00fa Me Ca\u00edste del Cielo",
-      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
+      "duration_ms": 186408,
+      "name": "Borracho de Cochera",
+      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Vas A Estar Bien",
+      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -363,18 +379,66 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Borracho de Cochera",
-        "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 186408,
-      "name": "Borracho de Cochera",
-      "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
+      "duration_ms": 214253,
+      "name": "T\u00fa Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Nos Divertimos Logrando Lo Imposible",
+        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256790,
+      "name": "No Vamos a Funcionar",
+      "url": "https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "El Que Se Enamora Pierde",
+      "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -411,54 +475,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Vas A Estar Bien",
-      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Nos Divertimos Logrando Lo Imposible",
-        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256790,
-      "name": "No Vamos a Funcionar",
-      "url": "https://open.spotify.com/track/3BSAZyAWGvGG6wGMJxpCAq"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -471,38 +487,6 @@
       "duration_ms": 216013,
       "name": "Cuando Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/2uMQxOPITUivAkAYrR02Br"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 226125,
-      "name": "Y Com\u00f3 Te Olvido",
-      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -523,8 +507,24 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Historia De Mis Manos",
-        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Y Com\u00f3 Te Olvido",
+      "url": "https://open.spotify.com/track/5w82rZqavReI9SCNUHufi6"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
       "artists": [
         {
@@ -532,9 +532,25 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 140453,
-      "name": "El Que Se Enamora Pierde",
-      "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+      "duration_ms": 253053,
+      "name": "Esta Vez Soy Yo",
+      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -635,6 +651,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Con Toda La Fuerza",
         "url": "https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ"
       },
@@ -667,22 +699,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Esta Vez Soy Yo",
-      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Vida A Mi Modo",
         "url": "https://open.spotify.com/album/4H3riGmrFHA3TWfz4Vp9hY"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194343,
       "name": "De tanto Que Te Di",
       "url": "https://open.spotify.com/track/6iHvR8Se4EThLbFQUylvSY"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Como Quiera Sigo Vivo",
-        "url": "https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Como Quiera Sigo Vivo",
-      "url": "https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Se Ve Que Te Hago Falta",
         "url": "https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL"
       },
@@ -763,18 +747,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Moneda Sigue En El Aire",
-        "url": "https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G"
+        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
       },
       "artists": [
         {
-          "name": "Banda La Misma Tierra",
-          "url": "https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Tenemos Algo En Com\u00fan",
-      "url": "https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1"
+      "duration_ms": 196000,
+      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Como Quiera Sigo Vivo",
+        "url": "https://open.spotify.com/album/0ii8CYwGpHWZOyedXhUuML"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 179604,
+      "name": "Como Quiera Sigo Vivo",
+      "url": "https://open.spotify.com/track/4J6eF2qMnUFg0fgunRFBcC"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "La Moneda Sigue En El Aire",
+        "url": "https://open.spotify.com/album/6au0XTsCm7ZzJdpXS6LL6G"
+      },
+      "artists": [
+        {
+          "name": "Banda La Misma Tierra",
+          "url": "https://open.spotify.com/artist/3qduLYuB55rWHxlQgpLzQA"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Tenemos Algo En Com\u00fan",
+      "url": "https://open.spotify.com/track/16RSl0EuMTq2t7JN2tZUP1"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 192124,
       "name": "No Te R\u00edas",
       "url": "https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 240384,
+      "name": "El Amor De Antes",
+      "url": "https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "El Heredero Mayor",
         "url": "https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 207660,
       "name": "Mentiras Piadosas",
       "url": "https://open.spotify.com/track/6ax70PvaSA1s2jxDH2iXoh"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 240384,
-      "name": "El Amor De Antes",
-      "url": "https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "El Dedo En La Boca",
-      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -1051,6 +1035,38 @@
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "El Dedo En La Boca",
+      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Por Si Te Interesa",
+        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Por Si Te Interesa",
+      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Por Si Te Interesa",
-        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
+        "name": "El Anticuado",
+        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
       },
       "artists": [
         {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 164053,
-      "name": "Por Si Te Interesa",
-      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
+      "duration_ms": 244727,
+      "name": "El Anticuado",
+      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Anticuado",
-        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 244727,
-      "name": "El Anticuado",
-      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/0pQR2T6VftJykRHPAUkYsI"
       },
@@ -1199,38 +1199,6 @@
       "duration_ms": 189633,
       "name": "Estoy Listo",
       "url": "https://open.spotify.com/track/4FYj4bZIMhRDfnxZXXTDyk"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Empiernada Con la Soledad",
-      "url": "https://open.spotify.com/track/4gGp4dvzJmSvl8YKdGUsFd"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Bajo La Misma Luna",
-      "url": "https://open.spotify.com/track/4eGSrENFHAieXpWWhGDkZq"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1263,6 +1231,38 @@
       "duration_ms": 193558,
       "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Ranchera",
       "url": "https://open.spotify.com/track/7hAjEDGw4ejftFFPKe7LoT"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Bajo La Misma Luna",
+      "url": "https://open.spotify.com/track/4eGSrENFHAieXpWWhGDkZq"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Empiernada Con la Soledad",
+      "url": "https://open.spotify.com/track/4gGp4dvzJmSvl8YKdGUsFd"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "No Vales Un Peso",
-      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 148453,
       "name": "Vida Sinaloense",
       "url": "https://open.spotify.com/track/6cFImFKRSjUcz3paXEEtTP"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "No Vales Un Peso",
+      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Te Volver\u00eda A Elegir",
-        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 148186,
       "name": "Gente Batallosa",
       "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
     },
     {
       "added_at": "2022-05-25 16:50:02",

@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6515,
+  "num_followers": 6513,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
+        "name": "Some Day in the 21century",
+        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Some Day in the 21century",
+      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "Some Day in the 21century",
-        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Some Day in the 21century",
-      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 217026,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Sing-a-song",
-      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -743,34 +727,18 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 150000,
-      "name": "icanttellUeverything",
-      "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "Visible World",
-        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
-      },
-      "artists": [
-        {
-          "name": "Fishingirls",
-          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
-        }
-      ],
-      "duration_ms": 192274,
-      "name": "Tutorial",
-      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
+      "duration_ms": 170906,
+      "name": "Sing-a-song",
+      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -807,6 +775,38 @@
       "duration_ms": 245400,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "icanttellUeverything",
+      "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Visible World",
+        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
+      },
+      "artists": [
+        {
+          "name": "Fishingirls",
+          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
+        }
+      ],
+      "duration_ms": 192274,
+      "name": "Tutorial",
+      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214906,
       "name": "You and I in this hard day",
       "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
     },
     {
       "added_at": "2024-03-27 05:51:44",

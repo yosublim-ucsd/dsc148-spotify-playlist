@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 188108,
       "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 194005,
       "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
       "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH"
@@ -3720,10 +3720,28 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/1PT8hWQvl2gRO1JhDcSUqN"
+    },
+    {
+      "album": {
+        "name": "Come back to me",
+        "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "Come back to me",
+      "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
     },
     {
       "album": {
@@ -19664,6 +19682,40 @@
       "duration_ms": 81951,
       "name": "\u01b0ng qu\u00e1 ch\u1eebng",
       "url": "https://open.spotify.com/track/2ZJTmYNOA8k21yUtLXJG57"
+    },
+    {
+      "album": {
+        "name": "\u1ed4 Qu\u1ef7",
+        "url": "https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2"
+      },
+      "artists": [
+        {
+          "name": "DMT",
+          "url": "https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "summerdayy",
+          "url": "https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt"
+        },
+        {
+          "name": "Rocky CDE",
+          "url": "https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251812,
+      "name": "\u1ed4 Qu\u1ef7",
+      "url": "https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD"
     },
     {
       "album": {

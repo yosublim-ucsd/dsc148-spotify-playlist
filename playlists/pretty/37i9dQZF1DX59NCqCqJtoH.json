@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1190456,
+  "num_followers": 1190446,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "Don't Want A Love Song",
@@ -295,6 +279,22 @@
       "duration_ms": 183333,
       "name": "Don't Want A Love Song",
       "url": "https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Notes From A Wrist",
-        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Notes From A Wrist",
-      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 279306,
       "name": "Pictures of Us",
       "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
     },
     {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Hang In There",
+        "url": "https://open.spotify.com/album/3Yv6aDkU6nqTl9nUNc5UDX"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Hang In There",
+      "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "I Can't Hate You",
@@ -517,20 +533,24 @@
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hang In There",
-        "url": "https://open.spotify.com/album/3Yv6aDkU6nqTl9nUNc5UDX"
+        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 237266,
-      "name": "Hang In There",
-      "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
+      "duration_ms": 207509,
+      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -563,26 +583,6 @@
       "duration_ms": 240841,
       "name": "Poetic Vulgarity",
       "url": "https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
-      },
-      "artists": [
-        {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "is your bedroom ceiling bored? (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 142940,
       "name": "i'd rather be alone",
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 166389,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1221,6 +1221,22 @@
       "url": "https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7"
     },
     {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Why Did I Laugh Anyway",
+        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 189311,
+      "name": "Why Did I Laugh Anyway",
+      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "why didn't you call???",
@@ -1283,6 +1299,22 @@
       "duration_ms": 160675,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Rick(y)",
+        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 122366,
+      "name": "Here Comes the Moon",
+      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1407,6 +1439,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "southview",
         "url": "https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki"
       },
@@ -1463,18 +1511,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+        "name": "FRIENDS KEEP SECRETS 2",
+        "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+      "duration_ms": 290466,
+      "name": "Care (with Omar Apollo)",
+      "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1495,26 +1547,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "FRIENDS KEEP SECRETS 2",
-        "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Care (with Omar Apollo)",
-      "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
       },
@@ -1527,22 +1559,6 @@
       "duration_ms": 186686,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "hurt people",
-        "url": "https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 143700,
-      "name": "hurt people",
-      "url": "https://open.spotify.com/track/49bYOKCM7bc4rgtxh0hxLg"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1563,6 +1579,38 @@
       "duration_ms": 184663,
       "name": "hit the road",
       "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "hurt people",
+        "url": "https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 143700,
+      "name": "hurt people",
+      "url": "https://open.spotify.com/track/49bYOKCM7bc4rgtxh0hxLg"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-10-16 20:29:38",
@@ -1595,22 +1643,6 @@
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1647,38 +1679,6 @@
       "duration_ms": 256519,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Why Did I Laugh Anyway",
-        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 189311,
-      "name": "Why Did I Laugh Anyway",
-      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 165177,
-      "name": "lost a friend",
-      "url": "https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR"
     }
   ],
   "unique_name": "idk.",

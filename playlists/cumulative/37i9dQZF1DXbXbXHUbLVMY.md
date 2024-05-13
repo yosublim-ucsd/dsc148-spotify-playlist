@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-170 songs - 7 hr 21 min
+171 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 |  |
 | [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 | 2024-04-19 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2024-01-10 |
-| [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 |  |
+| [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2024-05-13 |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
 | [Beige](https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:59 | 2024-04-27 |  |
 | [BELLA](https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:24 | 2024-03-21 | 2024-04-23 |
@@ -32,6 +32,7 @@
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 | 2023-09-28 |  |
 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 | 2023-09-21 |  |
+| [BMW](https://open.spotify.com/track/2l8XWsOestNZcFsJSneX7G) | [CashFlow](https://open.spotify.com/artist/5euM8vD0PtLqD65z7yLaav), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BMW](https://open.spotify.com/album/7azNhxbtvYEnQwz0Xtxm8Z) | 2:21 | 2024-05-09 |  |
 | [bob bob bob](https://open.spotify.com/track/53jaspN1dZhlBK4MioH1iX) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 2:43 | 2023-11-09 | 2023-12-09 |
 | [BODY](https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [ifrapluto](https://open.spotify.com/artist/6DDyKBj86C24FkwrjEPE0B) | [BODY](https://open.spotify.com/album/1GIESGxRLnPgv4D37y1qDN) | 2:23 | 2023-09-21 | 2023-10-13 |
 | [BONANZA](https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [BONANZA](https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH) | 2:27 | 2023-11-09 |  |
@@ -74,7 +75,7 @@
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
 | [Hanterar](https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:25 | 2024-02-08 | 2024-03-22 |
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-09-21 |  |
-| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 | 2024-05-08 |
+| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 |  |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-11-09 |  |
 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2024-01-11 |  |
 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 | 2023-09-21 |  |
@@ -146,7 +147,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2024-01-04 | 2024-02-09 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-12 | 2023-11-18 |
-| [Slipp](https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Slipp](https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By) | 2:59 | 2024-03-07 |  |
+| [Slipp](https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Slipp](https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By) | 2:59 | 2024-03-07 | 2024-05-13 |
 | [Slipp deg løs](https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Slipp deg løs](https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K) | 2:03 | 2023-11-09 | 2024-02-09 |
 | [Snop](https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b) | [MEST ELSKET & Hatet](https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4) | 3:13 | 2024-01-18 | 2024-02-19 |
 | [SOLDAT](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 | 2023-09-21 |  |

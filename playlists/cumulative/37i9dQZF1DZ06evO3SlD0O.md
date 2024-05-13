@@ -2,7 +2,7 @@
 
 ### [This Is Los Traileros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SlD0O)
 
-> This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Traileros Del Norte\. Los temas esenciales, todos en una lista.
 
 91 songs - 4 hr 24 min
 

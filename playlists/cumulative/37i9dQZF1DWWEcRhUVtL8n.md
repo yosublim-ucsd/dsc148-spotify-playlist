@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,853 songs - 4 day 1 hr 40 min
+1,854 songs - 4 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1080,6 +1080,7 @@
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-07-19 | 2022-04-14 |
 | [Metamorphosis](https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 4:30 | 2023-11-06 | 2024-05-11 |
 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 | 2022-05-13 | 2022-10-18 |
+| [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 | 2024-05-10 |  |
 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 | 2024-03-15 |  |
 | [MIA](https://open.spotify.com/track/31qUvtwOcX1OW4rTblwOcy) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [MIA](https://open.spotify.com/album/5OaiKNTvYpTMJIAj4mgATt) | 2:44 | 2021-10-02 | 2022-04-12 |
 | [MICHELLE](https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk) | [G Luné](https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0) | [MICHELLE](https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1) | 2:34 | 2022-04-11 | 2022-04-26 |
@@ -1535,7 +1536,7 @@
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 | 2024-04-26 |
 | [Stayaway \- Now, Now Remix](https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Stayaway \(Now, Now Remix\)](https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV) | 3:19 | 2020-10-16 | 2021-10-12 |
 | [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2024-02-09 | 2024-02-29 |
-| [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 |  |
+| [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 | 2024-05-13 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-11-07 |  |
 | [Still Here](https://open.spotify.com/track/5NRFBtaNmTV0F9NaPwhOL2) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Still Here](https://open.spotify.com/album/4rWzxxuZF4Yox7buaxMM6I) | 3:34 | 2021-02-22 | 2021-05-27 |
 | [Still In Love](https://open.spotify.com/track/4nI5nW9MYQ1Sqf9oSotmla) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Still In Love](https://open.spotify.com/album/7ohMD9pTi6zTMLAGlo1Ldy) | 2:57 | 2021-02-22 | 2021-05-26 |

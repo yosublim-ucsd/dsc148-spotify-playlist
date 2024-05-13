@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60480,
+  "num_followers": 60484,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Ms. Poli Sci",
-        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Ms. Poli Sci",
-      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Colin",
-        "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 219567,
-      "name": "Colin",
-      "url": "https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Right Here, For Now",
         "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 180933,
       "name": "Right Here, for Now",
       "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Colin",
+        "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 219567,
+      "name": "Colin",
+      "url": "https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Jesus At The Gay Bar",
-        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
-      },
-      "artists": [
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 207875,
-      "name": "Always Got The Love",
-      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 181443,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 207875,
+      "name": "Always Got The Love",
+      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Coup De Gr\u00e2ce",
-        "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
-      },
-      "artists": [
-        {
-          "name": "Dugong Jr",
-          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
-        },
-        {
-          "name": "IJALE",
-          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
-        }
-      ],
-      "duration_ms": 223908,
-      "name": "Coup De Gr\u00e2ce",
-      "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 203806,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Coup De Gr\u00e2ce",
+        "url": "https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        },
+        {
+          "name": "IJALE",
+          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
+        }
+      ],
+      "duration_ms": 223908,
+      "name": "Coup De Gr\u00e2ce",
+      "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
     }
   ],
   "unique_name": "Pool Party (2)",

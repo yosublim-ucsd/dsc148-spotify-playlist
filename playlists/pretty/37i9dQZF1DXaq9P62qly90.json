@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12764,
+  "num_followers": 12765,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Sacred Sound",
         "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 216476,
       "name": "Give Thanks (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "I Was Just Leaving",
         "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "You Ain't Going Nowhere",
         "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
       },
@@ -351,6 +367,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "You're It!",
         "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
       },
@@ -363,22 +395,6 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -407,22 +423,6 @@
       "duration_ms": 197166,
       "name": "Change The World",
       "url": "https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -479,38 +479,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "The Fruitful Darkness",
         "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Burn Right Through",
         "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2024-03-25 16:49:10",

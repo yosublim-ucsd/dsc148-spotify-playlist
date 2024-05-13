@@ -2,7 +2,7 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This Is Danny Felix\. Los temas esenciales, todos en una lista.
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
 71 songs - 3 hr 55 min
 
@@ -48,7 +48,7 @@
 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 | 2024-01-29 |  |
 | [La Vida Es Un Carnaval \(Live\)](https://open.spotify.com/track/3qsJZt81pdlzRBN3uT1bRH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:46 | 2024-03-27 | 2024-05-05 |
 | [Los Andares De Alfredo](https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Migueles De Miguel Montoya](https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns) | [Los Andares De Alfredo](https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi) | 3:01 | 2024-01-29 |  |
-| [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 | 2024-01-29 | 2024-05-12 |
+| [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 | 2024-01-29 |  |
 | [LVR](https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LVR](https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd) | 2:52 | 2024-01-29 |  |
 | [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2024-01-29 |  |
 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 | 2024-01-29 |  |
@@ -77,7 +77,7 @@
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |
 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 | 2024-01-29 |  |
 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 | 2024-01-29 |  |
-| [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 | 2024-01-29 |  |
+| [Zombie](https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Zombie](https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1) | 3:17 | 2024-01-29 | 2024-05-13 |
 | [¿Con Quién?](https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:54 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

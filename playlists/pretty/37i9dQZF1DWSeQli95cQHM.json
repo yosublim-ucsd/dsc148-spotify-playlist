@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11471,
+  "num_followers": 11473,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rita Lee & Roberto - Classix Remix Vol. III",
-        "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        },
-        {
-          "name": "Tessuto",
-          "url": "https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 421463,
-      "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
-      "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -155,18 +147,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+        "name": "Rita Lee & Roberto - Classix Remix Vol. III",
+        "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        },
+        {
+          "name": "Tessuto",
+          "url": "https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk"
         }
       ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+      "duration_ms": 421463,
+      "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
+      "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "mate & morra",
         "url": "https://open.spotify.com/album/2sAvfIryVuCAbCIcewxEOq"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 216237,
       "name": "mate & morra",
       "url": "https://open.spotify.com/track/6cVw5WnMUCIhFawrGlDo8Z"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "ALGO",
         "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 352099,
       "name": "Algo 2",
       "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -511,38 +511,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
-      },
-      "artists": [
-        {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
-        }
-      ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Kin Sharuba",
-        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 469695,
-      "name": "Kin Sharuba",
-      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -579,6 +547,38 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+        }
+      ],
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Kin Sharuba",
+        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
+      },
+      "artists": [
+        {
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
+        }
+      ],
+      "duration_ms": 469695,
+      "name": "Kin Sharuba",
+      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Maytrea",
         "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
       },
@@ -611,26 +611,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ch\u00e1 de trombeta",
-        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
       "artists": [
         {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
         },
         {
-          "name": "Fel C",
-          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
-        },
-        {
-          "name": "Bica",
-          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Ch\u00e1 de trombeta",
-      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -655,22 +651,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+        "name": "Ch\u00e1 de trombeta",
+        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
       "artists": [
         {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
         },
         {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Bica",
+          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
         }
       ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+      "duration_ms": 420000,
+      "name": "Ch\u00e1 de trombeta",
+      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Our Spacial Place",
         "url": "https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 483006,
       "name": "Incarne",
       "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
     },
     {
       "added_at": "2023-11-10 03:03:00",

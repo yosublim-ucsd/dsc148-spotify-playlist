@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > febem dropou aqla la e É AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,892 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,883 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:19 |
+| 1 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 |
 | 2 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
 | 3 | [Prata](https://open.spotify.com/track/2sOvuDxLamSIUFYztPAadB) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Prata](https://open.spotify.com/album/4AKcYw6MdkS7Zbxhc7pnvo) | 2:05 |
 | 4 | [Sensação de Liberdade](https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Rocco](https://open.spotify.com/artist/06NDDonUGSC7qknse3ZpoP) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:58 |

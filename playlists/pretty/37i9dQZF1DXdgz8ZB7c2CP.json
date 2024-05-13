@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 766554,
+  "num_followers": 766594,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -543,30 +543,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Rumble",
-        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -591,22 +567,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "zero experience",
-        "url": "https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0"
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
       "artists": [
         {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "DJ Ss",
-          "url": "https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 167441,
-      "name": "rampage",
-      "url": "https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2"
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -651,6 +631,26 @@
       "duration_ms": 206210,
       "name": "Selfish Soul - ODESZA Remix",
       "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "zero experience",
+        "url": "https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "DJ Ss",
+          "url": "https://open.spotify.com/artist/6hCo4lPE8hHJydoluW7luI"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "rampage",
+      "url": "https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "leavemealone (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 179441,
       "name": "leavemealone - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5tJGW8Wbfyb1TrRjMc8mCc"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
-      },
-      "artists": [
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164451,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "GLOW (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 150225,
-      "name": "GLOW (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Swing King",
         "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 269286,
       "name": "Swing King",
       "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "GLOW (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 150225,
+      "name": "GLOW (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "I'm Not Giving Up (with MEMBA)",
-        "url": "https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        }
-      ],
-      "duration_ms": 160964,
-      "name": "I'm Not Giving Up (with MEMBA)",
-      "url": "https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "I'm Not Giving Up (with MEMBA)",
+        "url": "https://open.spotify.com/album/3qUJFohjpTS1AFCI1124Bd"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "duration_ms": 160964,
+      "name": "I'm Not Giving Up (with MEMBA)",
+      "url": "https://open.spotify.com/track/471OWwLdgRbmyRoWXKBXYk"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Chromatically",
+        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Chromatically",
+      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "How High",
         "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 185142,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Chromatically",
-        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
-      },
-      "artists": [
-        {
-          "name": "Haywyre",
-          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Chromatically",
-      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
-        "url": "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 184919,
-      "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
-      "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "wishing well",
         "url": "https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9"
       },
@@ -1895,30 +1871,26 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI"
+        "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
+        "url": "https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA"
       },
       "artists": [
         {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         },
         {
-          "name": "CARLIE",
-          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
         },
         {
-          "name": "Kiss the Moon",
-          "url": "https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k"
-        },
-        {
-          "name": "Stutters",
-          "url": "https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         }
       ],
-      "duration_ms": 300677,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c"
+      "duration_ms": 184919,
+      "name": "Blow The Roof (with Kasbo & EVAN GIIA)",
+      "url": "https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1947,18 +1919,30 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Dream / Last Day On Earth",
-        "url": "https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "CARLIE",
+          "url": "https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE"
+        },
+        {
+          "name": "Kiss the Moon",
+          "url": "https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k"
+        },
+        {
+          "name": "Stutters",
+          "url": "https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx"
         }
       ],
-      "duration_ms": 195484,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"
+      "duration_ms": 300677,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1979,6 +1963,26 @@
       "duration_ms": 132134,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "look at me but through me",
+        "url": "https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "caught up",
+      "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
     }
   ],
   "unique_name": "creamy",

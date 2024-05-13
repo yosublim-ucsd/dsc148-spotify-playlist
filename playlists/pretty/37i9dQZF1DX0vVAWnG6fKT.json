@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 144461,
+  "num_followers": 144482,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow",
-          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
-        }
-      ],
-      "duration_ms": 165453,
-      "name": "The Golden Rocket",
-      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Can The Circle Be Unbroken: Country Music's First Family",
         "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
@@ -267,34 +267,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Hank Snow",
+          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+      "duration_ms": 165453,
+      "name": "The Golden Rocket",
+      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -315,18 +299,34 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
+      "duration_ms": 129133,
+      "name": "Cool Water",
+      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 129133,
-      "name": "Cool Water",
-      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Mule Train",
+      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
         "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
@@ -623,34 +639,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Mule Train",
-      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+      "duration_ms": 172586,
+      "name": "Anytime - Remastered",
+      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Anytime - Remastered",
-      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "Nippers 50's-Vol.1",
+        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Pee Wee King & His Golden West Cowboys",
+          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 180560,
+      "name": "Slow Poke",
+      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Nippers 50's-Vol.1",
-        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
       },
       "artists": [
         {
-          "name": "Pee Wee King & His Golden West Cowboys",
-          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Slow Poke",
-      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -859,22 +859,6 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "One Kiss Too Many",
-      "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "The Legend of Merle Travis",
+        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Steel Guitar Rag",
+      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "Presenting Al Dexter",
         "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Legend of Merle Travis",
-        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Steel Guitar Rag",
-      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
+      "duration_ms": 138000,
+      "name": "One Kiss Too Many",
+      "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Pistol Packin' Mama - The Best Of Al Dexter",
-        "url": "https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 163056,
-      "name": "Too Late To Worry, Too Blue To Cry",
-      "url": "https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Filipino Baby",
         "url": "https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 166026,
       "name": "Filipino Baby",
       "url": "https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Stars Of The Midnight Range",
-      "url": "https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Pistol Packin' Mama - The Best of Al Dexter",
+        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "Everybody Stomp - Rag Time",
         "url": "https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 172800,
       "name": "Sioux city sue",
       "url": "https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Stars Of The Midnight Range",
+      "url": "https://open.spotify.com/track/4VBC10x8gSghWkdJQ6Ygwl"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Pistol Packin' Mama - The Best of Al Dexter",
-        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/3ADMy0SgWASJ7tRcWimwl1"
       },
       "artists": [
         {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 169795,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/2cBvzEpULwlad4RaXbcIiw"
     }
   ],
   "unique_name": "40s Country",

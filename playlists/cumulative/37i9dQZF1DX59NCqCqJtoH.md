@@ -4,7 +4,7 @@
 
 > We hear you.
 
-673 songs - 1 day 9 hr 21 min
+674 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Heathers](https://open.spotify.com/track/182cdDTn18w690fru2aXvp) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Heathers](https://open.spotify.com/album/1poyOzNthR4GFP81cnQcgK) | 2:37 | 2021-04-02 | 2022-07-29 |
 | [Hell](https://open.spotify.com/track/6UCKAo1KXnjFHj8RMXlZe5) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [X Lovers](https://open.spotify.com/album/27kVxlpAqWst74ENn5oBKq) | 3:19 | 2022-06-10 | 2022-08-25 |
 | [Her](https://open.spotify.com/track/2bhGi80TGwIPIIqre8J3uB) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 2:29 | 2021-10-26 | 2022-04-19 |
+| [Here Comes the Moon](https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Rick\(y\)](https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn) | 2:02 | 2024-05-10 |  |
 | [highschool](https://open.spotify.com/track/4zsYVlQE4mCI6eyKRYJ0db) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [highschool](https://open.spotify.com/album/1QupMGsA571ZOoZUa6nWjU) | 2:32 | 2021-04-02 | 2022-05-08 |
 | [hit the road](https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [hit the road](https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53) | 3:04 | 2023-04-26 |  |
 | [Holding The Man](https://open.spotify.com/track/2B2ASdxMKAPkBPPNPi9JqI) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Holding The Man](https://open.spotify.com/album/1ij2oIx65jkW8IUwqeVchx) | 3:03 | 2021-04-02 | 2022-07-29 |
@@ -373,7 +374,7 @@
 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 | 2021-04-02 | 2022-07-29 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-03-29 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 | 2021-04-02 | 2022-07-29 |
-| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 |  |
+| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 | 2024-05-13 |
 | [Lost and Found](https://open.spotify.com/track/1yc79H1wfOV63IKhF7e5OF) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Lost and Found](https://open.spotify.com/album/32jPsEofo7cB4RJ5ggzcJU) | 2:36 | 2021-04-02 | 2022-04-12 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |

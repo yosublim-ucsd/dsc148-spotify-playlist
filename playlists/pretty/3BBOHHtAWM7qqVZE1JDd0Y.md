@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3BBOHHtAWM7qqVZE1JDd0Y.md) - [plain]
 
 > Music I've been enjoying lately  \- <a href="https://www.instagram.com/kidnapmusic/">Instagram</a>
 
-[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,235 likes - 35 songs - 2 hr 35 min
+[kidnapkid](https://open.spotify.com/user/kidnapkid) - 2,236 likes - 35 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

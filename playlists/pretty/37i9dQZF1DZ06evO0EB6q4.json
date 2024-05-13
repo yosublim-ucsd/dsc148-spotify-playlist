@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 212035,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 212130,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAAwtytZ8Zxn1M36YXh4sUEn",
+  "snapshot_id": "Zj61AAAAAAC/4B5ZubOF6spZolkdkXkh",
   "tracks": [
     {
       "added_at": null,
@@ -27,7 +27,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Que Reales",
+        "name": "M\u00e1s que reales",
         "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
       },
       "artists": [
@@ -41,7 +41,7 @@
         }
       ],
       "duration_ms": 204146,
-      "name": "M\u00e1s Que Reales",
+      "name": "M\u00e1s que reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
@@ -191,18 +191,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+        "name": "Contra Todo Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
       "artists": [
         {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
         }
       ],
-      "duration_ms": 198656,
-      "name": "Ya para Que",
-      "url": "https://open.spotify.com/track/6peU8VUsIPzFrM9zTl2KpK"
+      "duration_ms": 189098,
+      "name": "Volvernos a Amar",
+      "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
     },
     {
       "added_at": null,
@@ -231,26 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra Todo Pron\u00f3stico",
-        "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
       "artists": [
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
         }
       ],
-      "duration_ms": 189098,
-      "name": "Volvernos a Amar",
-      "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
+      "duration_ms": 198656,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/6peU8VUsIPzFrM9zTl2KpK"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo Tu",
       "url": "https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 172768,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 172768,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y"
     },
     {
       "added_at": null,

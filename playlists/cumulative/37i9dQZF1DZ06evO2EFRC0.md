@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2EFRC0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2EFRC0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2EFRC0)
 
-### [This is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
+### [This Is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
 
-> This is Marcos Witt\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Marcos Witt\. The essential tracks, all in one playlist.
 
 70 songs - 5 hr 50 min
 

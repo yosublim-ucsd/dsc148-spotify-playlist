@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is curated by Ryan Savitski from One Step Closer
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,781 likes - 19 songs - 1 hr 0 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,782 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -589,7 +589,7 @@
     },
     {
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:04 Caf\u00e9 Parade",
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a04 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA"
       },
       "artists": [
@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 247573,
       "name": "Delicious Delivery",
       "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 276026,
       "name": "Eternal Fantasia",
       "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 295400,
       "name": "LIVE in your SMILE",
       "url": "https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 256338,
       "name": "\u904b\u547d\u5149\u5e74",
       "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"

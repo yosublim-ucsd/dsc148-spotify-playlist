@@ -1,13 +1,29 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. cassyette",
-  "num_followers": 696621,
+  "num_followers": 696880,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1VcAAAAAAV8s2cHjTwqd/jyIWY67Hp",
+  "snapshot_id": "ZkEDvQAAAADibHpIvdfVCzTv2MFjlL+T",
   "tracks": [
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
+    },
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
@@ -55,22 +71,6 @@
       "duration_ms": 132053,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Cathexis",
-        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183741,
-      "name": "Doomsday Blue",
-      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "added_at": "2024-05-09 23:00:00",

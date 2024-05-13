@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-308 songs - 16 hr 33 min
+309 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 | 2022-07-25 |  |
 | [discohaze](https://open.spotify.com/track/4YgVBS3Luml2OojggaH3wB) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [discohaze](https://open.spotify.com/album/6HCRhuwnHBysEH7b6DSqau) | 3:21 | 2022-06-06 | 2022-07-20 |
 | [Do You Love Me](https://open.spotify.com/track/1rbjic9uKr1p6nxnjLDHN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Do You Love Me](https://open.spotify.com/album/3KmwObuD2kb4XcuUnMJkQ7) | 2:24 | 2022-06-06 | 2022-07-29 |
+| [Don't Miss You](https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Don't Miss You](https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ) | 1:52 | 2024-05-13 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-07-25 |  |
 | [Don't Wanna Die Young](https://open.spotify.com/track/12DdKDIwU5Nf2dVC0XYAKt) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Don't Wanna Die Young](https://open.spotify.com/album/3bJEvgpuUOJJwuKzaZpGZA) | 3:05 | 2022-06-06 | 2022-06-11 |
 | [Done for Me \(feat\. Kehlani\)](https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:00 | 2023-02-13 | 2024-04-19 |
@@ -115,7 +116,7 @@
 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 | 2023-05-01 | 2024-04-19 |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-06-06 | 2022-07-29 |
 | [Help!](https://open.spotify.com/track/7KNis2aC2opA2tTDwKkWyb) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Gentle Bones](https://open.spotify.com/album/0JqCrGLylHkHEEe5hkYzSW) | 2:46 | 2022-06-06 | 2022-07-29 |
-| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2024-05-06 |  |
+| [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2024-05-06 | 2024-05-13 |
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2024-03-04 | 2024-04-19 |
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-27 |  |
 | [Holiday](https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t) | [Summer Will End](https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY) | [Holiday](https://open.spotify.com/album/2xIW65knjZO5DBlsTBFiHl) | 2:47 | 2023-12-25 | 2024-01-01 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Hay Babies",
-  "num_followers": 40635,
+  "num_followers": 40637,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Pub Royal",
-        "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
       "artists": [
         {
-          "name": "Les Cowboys Fringants",
-          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 436524,
-      "name": "La fin du show",
-      "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
+      "duration_ms": 134000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -267,18 +267,38 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
+        "name": "Pub Royal",
+        "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
+      "duration_ms": 436524,
+      "name": "La fin du show",
+      "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -299,22 +319,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "RSQ3",
-        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
-      },
-      "artists": [
-        {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
-        }
-      ],
-      "duration_ms": 138585,
-      "name": "RSQ3",
-      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "V\u00e9suve",
         "url": "https://open.spotify.com/album/5jZXNkPD1Y4p6oeai8LNBM"
       },
@@ -327,6 +331,22 @@
       "duration_ms": 265920,
       "name": "V\u00e9suve",
       "url": "https://open.spotify.com/track/01lAjzyIDUiIUDX0mBJtMC"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "RSQ3",
+        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "duration_ms": 138585,
+      "name": "RSQ3",
+      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -363,26 +383,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Plus fort.",
-        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
-      },
-      "artists": [
-        {
-          "name": "Bekar",
-          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Finalement",
-      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Marina",
         "url": "https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp"
       },
@@ -395,26 +395,6 @@
       "duration_ms": 174989,
       "name": "Marina",
       "url": "https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Fractur\u00e9",
-        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
-      },
-      "artists": [
-        {
-          "name": "Rimkus",
-          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 238474,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -439,22 +419,42 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Longue Vie",
-        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+        "name": "Plus fort.",
+        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 121333,
-      "name": "Longue Vie",
-      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
+      "duration_ms": 204986,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Fractur\u00e9",
+        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
+      },
+      "artists": [
+        {
+          "name": "Rimkus",
+          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 238474,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -479,38 +479,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
-        }
-      ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+      "duration_ms": 121333,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -531,22 +515,38 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
         }
       ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -563,26 +563,6 @@
       "duration_ms": 157281,
       "name": "Kulule",
       "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Bushi Tape 3",
-        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
-      },
-      "artists": [
-        {
-          "name": "BU$HI",
-          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Oc\u00e9ane",
-      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -611,22 +591,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "AMBITION II",
-        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+        "name": "Bushi Tape 3",
+        "url": "https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "BU$HI",
+          "url": "https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K"
         },
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 163133,
-      "name": "ENCORE (feat. Rsko)",
-      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
+      "duration_ms": 184360,
+      "name": "Oc\u00e9ane",
+      "url": "https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -647,6 +627,46 @@
       "duration_ms": 125868,
       "name": "COMMERCE",
       "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "AMBITION II",
+        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "ENCORE (feat. Rsko)",
+      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "JOE PESCI",
+        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Inso Le V\u00e9ritable",
+          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "JOE PESCI",
+      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -703,38 +723,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "JOE PESCI",
-        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         },
         {
-          "name": "Inso Le V\u00e9ritable",
-          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 199411,
-      "name": "JOE PESCI",
-      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -759,38 +763,38 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "GO GO GO (Feat. Josman)",
-        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
+        "name": "rentrer chez moi",
+        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
         }
       ],
-      "duration_ms": 148877,
-      "name": "GO GO GO (Feat. Josman)",
-      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
+      "duration_ms": 219773,
+      "name": "rentrer chez moi",
+      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
     },
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "SUR LE CHEMIN (Phase 3)",
-        "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
+        "name": "Confidences",
+        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 174928,
-      "name": "45",
-      "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
+      "duration_ms": 128197,
+      "name": "Confidences",
+      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -815,6 +819,58 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "SUR LE CHEMIN (Phase 3)",
+        "url": "https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 174928,
+      "name": "45",
+      "url": "https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "GO GO GO (Feat. Josman)",
+        "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 148877,
+      "name": "GO GO GO (Feat. Josman)",
+      "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Nothing Personal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 178122,
+      "name": "Nothing Personal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "T'oublier",
         "url": "https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t"
       },
@@ -827,26 +883,6 @@
       "duration_ms": 207335,
       "name": "T'oublier",
       "url": "https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Quill\u00e9",
-        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 180107,
-      "name": "Quill\u00e9",
-      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -867,38 +903,6 @@
       "duration_ms": 152666,
       "name": "PCC",
       "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Dis-toi que c'est la vie",
-        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 147405,
-      "name": "Dis-toi que c'est la vie",
-      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Cramer",
-        "url": "https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        }
-      ],
-      "duration_ms": 209767,
-      "name": "Cramer",
-      "url": "https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

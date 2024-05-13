@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 149489,
+  "num_followers": 149540,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Kenotic Metanoia",
+        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
+      },
+      "artists": [
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "State of Me",
+      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 313790,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Kenotic Metanoia",
-        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
-      },
-      "artists": [
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "State of Me",
-      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Eulogies",
-        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
         }
       ],
-      "duration_ms": 166575,
-      "name": "Weight of Glory",
-      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "End of the World (feat. Disciple)",
         "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+        "name": "Eulogies",
+        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
       "artists": [
         {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+      "duration_ms": 166575,
+      "name": "Weight of Glory",
+      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -415,6 +399,22 @@
       "duration_ms": 201851,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+      },
+      "artists": [
+        {
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+        }
+      ],
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -467,6 +467,22 @@
       "duration_ms": 194298,
       "name": "Faith Over Fear",
       "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -535,8 +551,24 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
@@ -544,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -583,22 +615,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -679,22 +695,6 @@
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 258706,
       "name": "The Shelter",
       "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Real Emotion",
         "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
       "artists": [
         {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -923,6 +907,22 @@
       "duration_ms": 239552,
       "name": "Burn Back the Sun",
       "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+      },
+      "artists": [
+        {
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
-      },
-      "artists": [
-        {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
-        }
-      ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "The Seventh Seal",
         "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 214728,
       "name": "The Seventh Seal (feat. Ulf Christiansson)",
       "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 376119,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Anger",
-        "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 376119,
-      "name": "Anger",
-      "url": "https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Blood On Me",
         "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "We Never Die",
-        "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
+        "name": "Narrow Road",
+        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
       },
       "artists": [
         {
-          "name": "Paradise Now",
-          "url": "https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB"
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
         }
       ],
-      "duration_ms": 215986,
-      "name": "We Never Die",
-      "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
+      "duration_ms": 275555,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "We Never Die",
+        "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
+      },
+      "artists": [
+        {
+          "name": "Paradise Now",
+          "url": "https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "We Never Die",
+      "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "feel nothing.",
         "url": "https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 197647,
       "name": "feel nothing.",
       "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4"
-      },
-      "artists": [
-        {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
-        }
-      ],
-      "duration_ms": 260232,
-      "name": "Melancholy Machines",
-      "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 260232,
+      "name": "Melancholy Machines",
+      "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Apology",
         "url": "https://open.spotify.com/album/2yzZZwf1oXZvHwGOY2cgs9"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Narrow Road",
-        "url": "https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "See No Evil, Hear No Evil",
         "url": "https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23"
       },
@@ -1463,6 +1463,26 @@
       "duration_ms": 294249,
       "name": "See No Evil, Hear No Evil",
       "url": "https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Think of Me",
+        "url": "https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        },
+        {
+          "name": "4th Point",
+          "url": "https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL"
+        }
+      ],
+      "duration_ms": 223623,
+      "name": "Think of Me",
+      "url": "https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1579,42 +1599,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Think of Me",
-        "url": "https://open.spotify.com/album/46NMUaEPuQdNjX3dJPexqt"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        },
-        {
-          "name": "4th Point",
-          "url": "https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL"
-        }
-      ],
-      "duration_ms": 223623,
-      "name": "Think of Me",
-      "url": "https://open.spotify.com/track/2n8PXB9sQMIuo91MQ6KACy"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Finish Line (feat. Adam Gontier)",
         "url": "https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3"
     },
     {
       "added_at": "2024-05-10 04:01:29",

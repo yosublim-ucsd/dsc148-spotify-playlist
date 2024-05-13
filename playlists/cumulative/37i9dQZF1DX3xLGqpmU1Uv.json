@@ -838,7 +838,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 162840,
       "name": "La Hiedra Venenosa",
       "url": "https://open.spotify.com/track/67tL3C4baNQ3FqnUz0vn8p"
@@ -1138,6 +1138,24 @@
       "duration_ms": 98615,
       "name": "Oh! No",
       "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
+    },
+    {
+      "album": {
+        "name": "16 Exitos Baladas - Alberto Vazquez",
+        "url": "https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "Olvidalo",
+      "url": "https://open.spotify.com/track/29ppwye8wuZJMUUYWGAts7"
     },
     {
       "album": {

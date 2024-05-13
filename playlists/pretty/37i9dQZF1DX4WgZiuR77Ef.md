@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,144 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,158 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 48 | [Come Back Down](https://open.spotify.com/track/5TiLs9x1VjxxE3rwP3HdL2) | [Talia Keys](https://open.spotify.com/artist/4iHUosZ808WyllYm9bMaqX) | [Come Back Down](https://open.spotify.com/album/3okZtkZ8GIXDc1AfrTnjRY) | 4:12 |
 | 49 | [You Can Make It](https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj), [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [You Can Make It](https://open.spotify.com/album/0BfA48bRpjxdeqpTAH1x9l) | 3:41 |
 | 50 | [Got to Get Me a Job](https://open.spotify.com/track/5UYk7jxOtM326xeLj4EQ3Y) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Got to Get Me a Job](https://open.spotify.com/album/2OkojON734ucUnTW8k8Lpv) | 2:50 |
-| 51 | [Good As It Gets Anymore](https://open.spotify.com/track/3PMcmP6Zc38ZH9tUHjG9ps) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw) | [Good As It Gets Anymore](https://open.spotify.com/album/5vFFSTw2zxCeFE7ebm8qTY) | 3:41 |
+| 51 | [Good As It Gets Anymore](https://open.spotify.com/track/3PMcmP6Zc38ZH9tUHjG9ps) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw), [Kevin Mckinney](https://open.spotify.com/artist/5liMGD7JwjhNYK4aToU4kI), [George Porter Jr.](https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Good As It Gets Anymore](https://open.spotify.com/album/5vFFSTw2zxCeFE7ebm8qTY) | 3:41 |
 | 52 | [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 |
 | 53 | [Celebrations](https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY), [Fusion Funk Foundation](https://open.spotify.com/artist/6Lw21oFES51b7oYLLSbPfF) | [Celebrations](https://open.spotify.com/album/7scmghC0RGnIWGsDwUftiV) | 5:12 |
 | 54 | [Invisible Soldier](https://open.spotify.com/track/1WenvysTB5ACpxBXFOnUuo) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Invisible Soldier](https://open.spotify.com/album/3fLlTrT4kAYkHxMQBhzxuw) | 3:53 |

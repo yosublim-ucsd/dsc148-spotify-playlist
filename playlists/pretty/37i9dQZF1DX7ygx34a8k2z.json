@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 221102,
+  "num_followers": 221245,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
       "artists": [
         {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 322040,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l"
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -751,6 +735,22 @@
       "duration_ms": 212888,
       "name": "The Hardest Button to Button",
       "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Pleased to Meet Me (Expanded)",
         "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+        "name": "Hello Nasty (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        },
+        {
+          "name": "Miho Hatori",
+          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
         }
       ],
-      "duration_ms": 276640,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
+      "duration_ms": 180373,
+      "name": "I Don't Know - Remastered 2009",
+      "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Hello Nasty (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        },
-        {
-          "name": "Miho Hatori",
-          "url": "https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 180373,
-      "name": "I Don't Know - Remastered 2009",
-      "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
+      "duration_ms": 276640,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "First Band On The Moon (Remastered)",
-        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 259872,
-      "name": "Iron Man",
-      "url": "https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Regretfully Yours",
         "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 166800,
       "name": "Sucked Out",
       "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "First Band On The Moon (Remastered)",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 259872,
+      "name": "Iron Man",
+      "url": "https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Is This Desire?",
-        "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Is This Desire?",
-      "url": "https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 211000,
       "name": "Galaxie / Hello, Goodbye",
       "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Feed the Tree",
+      "url": "https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN"
     }
   ],
   "unique_name": "Thrifted",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 42815,
+  "num_followers": 42819,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
-      },
-      "artists": [
-        {
-          "name": "Peace and Love",
-          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
-        }
-      ],
-      "duration_ms": 305597,
-      "name": "We Got the Power",
-      "url": "https://open.spotify.com/track/5oT6RhkT5lEFpFWYe0s3aS"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 210720,
       "name": "Chavo de onda",
       "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "duration_ms": 305597,
+      "name": "We Got the Power",
+      "url": "https://open.spotify.com/track/5oT6RhkT5lEFpFWYe0s3aS"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Santana (III)",
-        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "No One to Depend On",
-      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4NSvAvBOp5PjYeIRYmOJsW"
       },
@@ -463,6 +447,38 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Santana (III)",
+        "url": "https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "No One to Depend On",
+      "url": "https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
-      },
-      "artists": [
-        {
-          "name": "Peace and Love",
-          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Peace and Love",
-      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Regreso al Origen",
         "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 180226,
       "name": "Acapulco Dorado",
       "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
-        "name": "Volumen I",
-        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
-      },
-      "artists": [
-        {
-          "name": "Nahuatl",
-          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Tiempo Perdido",
-      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -687,18 +655,34 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+        "name": "Volumen I",
+        "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
       "artists": [
         {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
         }
       ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+      "duration_ms": 281773,
+      "name": "Tiempo Perdido",
+      "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2"
+      },
+      "artists": [
+        {
+          "name": "Peace and Love",
+          "url": "https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Peace and Love",
+      "url": "https://open.spotify.com/track/4Ngt4pSPtlMWOpuNkdRotF"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -715,38 +699,6 @@
       "duration_ms": 113266,
       "name": "Pobre Nina",
       "url": "https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Nada Nos Detendr\u00e1",
-      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 173356,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -783,34 +735,82 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
-        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
       "artists": [
         {
-          "name": "Los Monjes",
-          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
         }
       ],
-      "duration_ms": 125982,
-      "name": "Mi Mami Dijo",
-      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
     },
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Baby, Don't Let Me",
-        "url": "https://open.spotify.com/album/6sqWKQdhUsiksa4gXVRcdF"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
       "artists": [
         {
-          "name": "La Division Del Norte",
-          "url": "https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p"
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
         }
       ],
-      "duration_ms": 301139,
-      "name": "Baby, Don't Let Me",
-      "url": "https://open.spotify.com/track/3TAQxgTxSMaznFC1MHa0Xd"
+      "duration_ms": 173356,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Monster A Go-Go: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 1)",
+        "url": "https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "Nati Bati Yi",
+      "url": "https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Nada Nos Detendr\u00e1",
+      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Volumen II",
+        "url": "https://open.spotify.com/album/3hYovPMqkpuPJTyC8CQBLS"
+      },
+      "artists": [
+        {
+          "name": "Nahuatl",
+          "url": "https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K"
+        }
+      ],
+      "duration_ms": 577053,
+      "name": "La Pobreza",
+      "url": "https://open.spotify.com/track/74xLbMcYBC6nCn4KU7WS8i"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

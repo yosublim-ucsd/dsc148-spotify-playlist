@@ -1,6 +1,6 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1130038,
+  "num_followers": 1130042,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Tiny Moves",
         "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 258000,
       "name": "Dream",
       "url": "https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -791,38 +791,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Lover, Please Stay",
-      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "What's Love (feat. MUNA)",
         "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Lover, Please Stay",
+      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 143686,
-      "name": "Kiss City",
-      "url": "https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 262000,
       "name": "Flashed Junk Mind",
       "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 143686,
+      "name": "Kiss City",
+      "url": "https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Want You Like That",
-      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
     },
     {
       "added_at": "2024-02-09 20:08:05",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-09 20:08:05",
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting On You)",
+      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2024-02-09 20:08:05",
+      "album": {
         "name": "reckless driving (feat. Ben Kessler)",
         "url": "https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 216333,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE"
-    },
-    {
-      "added_at": "2024-02-09 20:08:05",
-      "album": {
-        "name": "Gooey",
-        "url": "https://open.spotify.com/album/6DpPctloXGrodIm8fZg7hn"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1oSuscBj84xVHVhFZOnMXF"
     }
   ],
   "unique_name": "You & Me",

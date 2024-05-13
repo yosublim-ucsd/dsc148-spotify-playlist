@@ -4,7 +4,7 @@
 
 > 
 
-1,354 songs - 3 day 2 hr 31 min
+1,356 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [I Know You Like It](https://open.spotify.com/track/3dIrZ1BLv4Imy9OwYQwB9C) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [System Overload](https://open.spotify.com/artist/2AlQBkucn6HkL30qRmyOmW) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 1:57 | 2022-09-09 |  |
 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 | 2023-06-26 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/4SuMB4zYiQod44r2Q1kXLq) | [Toxin](https://open.spotify.com/artist/26RTam2yuuEEPEOUacIT8o), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [i like the way you kiss me](https://open.spotify.com/album/0KXdKUrHPtsRDZuQ7VWb3j) | 2:56 | 2024-05-03 |  |
+| [I Like The Way You Kiss Me \- Uptempo Edit](https://open.spotify.com/track/1Q4Ndw21wSor4ZAY7ycAmz) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [I Like The Way You Kiss Me \(Uptempo Edit\)](https://open.spotify.com/album/5VVaAnzdPdLIA8A2CKI8Xt) | 2:39 | 2024-05-12 |  |
 | [I Love It](https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [I Love It](https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK) | 2:09 | 2024-04-09 |  |
 | [I Wanna Live](https://open.spotify.com/track/57jMN6YemUojabtxDUm9JI) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [I Wanna Live](https://open.spotify.com/album/2uC5gLWEn11uheW0003mHm) | 2:25 | 2024-04-09 |  |
 | [I Was On Pills](https://open.spotify.com/track/0LDbDL0J1FzUJHTpuXRPSj) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:27 | 2022-08-23 |  |
@@ -1353,6 +1354,7 @@
 | [You Can't See](https://open.spotify.com/track/5Tj5sDDsR87XVuaiikHW3q) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [You Can't See](https://open.spotify.com/album/2ZQTb4VFMoElqmzHbPLycj) | 4:01 | 2023-03-31 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/04t2rESw6up8F0zPRKsD5t) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:19 | 2022-08-23 |  |
 | [You Got My Lovin' \- Extrended Mix](https://open.spotify.com/track/2nCnqncBb1UpTmmpS4Exng) | [Ryan Ganar](https://open.spotify.com/artist/4UXRCbEezbN48hApgmJond) | [You Got My Lovin'](https://open.spotify.com/album/5RdW0nG7JGDh1bUYDIQvHg) | 4:26 | 2022-02-17 |  |
+| [YOU LIKE TO MOVE IT?](https://open.spotify.com/track/0a3OY8RJtxD50MBtPIBLdb) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN), [thedolarbil](https://open.spotify.com/artist/4FWCbWedjUPZymoJ1xmPSh) | [YOU LIKE TO MOVE IT?](https://open.spotify.com/album/6teylFgvMQveVLHiaNgiA0) | 1:44 | 2024-05-12 |  |
 | [You Remind Me](https://open.spotify.com/track/2iOJy7OPFt37NwPW3eVIgs) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [You Remind Me](https://open.spotify.com/album/46KjtBkJWrva321fovmw7P) | 3:02 | 2024-02-07 |  |
 | [You Rock!](https://open.spotify.com/track/4N4p3fRbjCwrJhGcB5UH3e) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [You Rock!](https://open.spotify.com/album/377IgxpXlja6hMirxNA02i) | 3:02 | 2023-03-25 |  |
 | [Your Betrayal](https://open.spotify.com/track/0S8sprtAdgAdyEBahV2WFK) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Your Betrayal](https://open.spotify.com/album/1xIL1EQT68QZIPdn7FLrbD) | 2:22 | 2023-10-06 |  |

@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-406 songs - 1 day 20 hr 37 min
+407 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bholay Bhalay](https://open.spotify.com/track/0t3iSgsJGGTmBRjd6U4doi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:42 | 2022-03-23 | 2022-07-29 |
 | [Bibi Sanam Janem](https://open.spotify.com/track/6zKJUZJDyf2pbiYjStBvKh) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:13 | 2022-03-23 |  |
 | [Billo](https://open.spotify.com/track/3jBcqTC9xDmmd07xPbOPnt) | [Abrar Ul Haq](https://open.spotify.com/artist/0t5FYih5qVOZiPO6P6O3H6) | [Billo](https://open.spotify.com/album/1wnCbGprns25Eb3LUFicIy) | 5:50 | 2022-03-23 | 2022-07-28 |
-| [Bo Giyam](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 | 2022-03-23 |  |
+| [Bo Giyam](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 | 2022-03-23 | 2024-05-13 |
 | [Bol](https://open.spotify.com/track/1duKMLHT2Zgs17ssrtx902) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 5:58 | 2022-03-23 | 2024-01-11 |
 | [Bolay](https://open.spotify.com/track/7MvqWEX8jOr68uebuOgpOF) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 2:57 | 2022-03-23 | 2022-07-24 |
 | [Bone Shaker](https://open.spotify.com/track/6wftRnQMCFRTiFR3CA70r7) | [Usman Riaz](https://open.spotify.com/artist/52ua72K0vOhSHquqITmoNU) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 4:23 | 2022-03-23 | 2022-07-14 |
@@ -279,6 +279,7 @@
 | [Nindiya Ke Paar](https://open.spotify.com/track/5Isbp1BnXMuILEOBjOa0fq) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:46 | 2022-03-23 |  |
 | [Nindiya Re](https://open.spotify.com/track/2lu2I74iWYw4ikUYP5a6PE) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 5:01 | 2022-03-23 |  |
 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 | 2022-03-23 | 2024-04-19 |
+| [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-12 |  |
 | [Pahelian \- Live](https://open.spotify.com/track/4NRnPcMpF8Fkwwu7uWVxyK) | [Mauj](https://open.spotify.com/artist/4Pn5ISg7KFD5a66qYETIRA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 4:14 | 2022-03-23 | 2022-07-20 |
 | [Paimona](https://open.spotify.com/track/1k8K8Bzicj42Y109zIWKGv) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 4:43 | 2022-03-23 |  |
 | [Paisay Da Nasha](https://open.spotify.com/track/3HGWfAthym1zsmD0lAvrDJ) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 3:34 | 2022-03-23 |  |

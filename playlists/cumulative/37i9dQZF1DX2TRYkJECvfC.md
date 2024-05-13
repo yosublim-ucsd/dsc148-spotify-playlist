@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-516 songs - 1 day 20 hr 6 min
+517 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2021-12-08 | 2022-11-17 |
 | [The Same](https://open.spotify.com/track/5fSvk20cTpQHrHWRpolpoS) | [Roudeep](https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F) | [The Same](https://open.spotify.com/album/49v28uTWCrCRvNutWSBf6Q) | 4:48 | 2021-12-08 | 2023-01-06 |
 | [The Sound of Neptune](https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [You Want](https://open.spotify.com/album/7AnDUzKjjnPvrxoN2ZOkQL) | 5:28 | 2022-01-14 | 2022-07-26 |
+| [the things that bring me joy](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [the things that bring me joy](https://open.spotify.com/album/3JVhoz6UJv6hrpRtPXtdJh) | 2:59 | 2024-05-10 |  |
 | [The Truth](https://open.spotify.com/track/01NrsdUMQkpY9GZCc7ZFyu) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [The Truth / The Fall](https://open.spotify.com/album/5WCue7zGHg6BFgkffeYG00) | 3:23 | 2023-05-26 |  |
 | [The Truth](https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:42 | 2022-02-21 | 2023-07-01 |
 | [The Void](https://open.spotify.com/track/2JOYpIShg9829y8rYwdsu6) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Another Land EP](https://open.spotify.com/album/5JsOZyOdxcQtlL0GEzJaPq) | 4:54 | 2023-05-05 | 2023-08-29 |
@@ -509,7 +510,7 @@
 | [Whole Lotta Groove](https://open.spotify.com/track/569WHNKLrlhueTZsAiegDm) | [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz) | [Whole Lotta Groove](https://open.spotify.com/album/7MkCIDc5iDwz5IPEvjdavy) | 6:32 | 2021-12-08 | 2024-03-04 |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/3pMT96h7pwJMsRGsXwpyVU) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Why So Blue? \(Radio Edit\)](https://open.spotify.com/album/34Bdpya8LJbNANnDDmlfXq) | 2:58 | 2023-01-06 | 2023-04-05 |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Dance Now, Cry Later](https://open.spotify.com/album/0b6miPcQIohCUYRmRjUFia) | 2:58 | 2021-12-08 | 2022-07-29 |
-| [Wiki](https://open.spotify.com/track/00Cdpcr2mFfXQymRHcUbKa) | [Eclectic](https://open.spotify.com/artist/3klwGTu5cujiOnQbpjv0KA) | [Wiki](https://open.spotify.com/album/5PaCRYzfxWtRq9D8yhQETX) | 3:08 | 2024-04-12 |  |
+| [Wiki](https://open.spotify.com/track/00Cdpcr2mFfXQymRHcUbKa) | [Eclectic](https://open.spotify.com/artist/3klwGTu5cujiOnQbpjv0KA) | [Wiki](https://open.spotify.com/album/5PaCRYzfxWtRq9D8yhQETX) | 3:08 | 2024-04-12 | 2024-05-13 |
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-12-08 | 2023-08-12 |
 | [Wonder](https://open.spotify.com/track/5fnoZCg3VQjKYgx0J0uWA6) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Wonder](https://open.spotify.com/album/4pAPLq8ge3ifacEFJigqug) | 3:40 | 2023-12-15 |  |
 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 | 2021-12-08 | 2022-11-17 |

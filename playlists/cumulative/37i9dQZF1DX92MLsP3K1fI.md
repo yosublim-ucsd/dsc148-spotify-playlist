@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! KURT en portada.
 
-294 songs - 14 hr 49 min
+295 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/track/4ZHYOSuMJVhx5fnlGI6GGZ) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Mis Amigos Opinan Lo Mismo \(Este Volumen Pide Outro\)](https://open.spotify.com/album/460OjAPOiQCNlu5VvQySCZ) | 1:28 | 2023-08-25 | 2024-01-27 |
 | [Mis Impulsos Sobre Ti](https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mis Impulsos Sobre Ti](https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu) | 4:02 | 2023-11-17 | 2024-04-07 |
 | [MISS XV x 2](https://open.spotify.com/track/2grZPV3t9Mm420oyJXtTLz) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [MISS XV x 2](https://open.spotify.com/album/6NAoM8SewAHPxWPTTVSfKr) | 3:10 | 2022-02-04 | 2022-07-28 |
-| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 |  |
+| [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 | 2022-06-28 | 2024-05-13 |
 | [Mojito](https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Mojito](https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk) | 2:53 | 2022-02-04 | 2022-11-01 |
 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 | 2022-02-04 | 2023-05-15 |
 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 | 2024-02-16 | 2024-04-13 |
@@ -280,6 +280,7 @@
 | [Tocadisco](https://open.spotify.com/track/4EHmxvWLRYYK9VcXedYeTZ) | [Vanne Amador](https://open.spotify.com/artist/104g0NH5g4cfEog7gpQ9M9) | [Tocadisco](https://open.spotify.com/album/5sVZx0Bzu8oHMToJsmzNrG) | 2:35 | 2022-06-15 | 2022-08-20 |
 | [Toda Todita](https://open.spotify.com/track/0Qjfz512GDWmgLlcejnC0l) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y), [Maria Bernal](https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3), [Lucía Covarrubias](https://open.spotify.com/artist/1PkahVFP71A6sk6Ww0ZSi1) | [Toda Todita](https://open.spotify.com/album/4DHEuNlX1ECEc7eYhK2Dun) | 2:52 | 2022-02-04 | 2022-07-27 |
 | [Todo Pasa](https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Todo Pasa](https://open.spotify.com/album/5NFSYdBSEnJdxC3j6gD1Vo) | 2:57 | 2022-02-04 | 2022-07-29 |
+| [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-10 |  |
 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 | 2023-07-28 | 2024-02-09 |
 | [Tra](https://open.spotify.com/track/443PZH5mjxvjZe2E06fbg6) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Tra](https://open.spotify.com/album/4wfQvS4UCW5pEDtUh97Wpi) | 2:02 | 2022-08-19 | 2023-02-24 |
 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 | 2024-04-26 | 2024-05-04 |

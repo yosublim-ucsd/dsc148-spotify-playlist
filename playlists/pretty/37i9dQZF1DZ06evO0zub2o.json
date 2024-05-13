@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 281813,
+  "num_followers": 281854,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAB2xb6FiPqSj7gOmayBCouk",
+  "snapshot_id": "Zj61AAAAAAAF6mHQxUolwqv8w8qeCX0l",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piss",
+        "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 262328,
+      "name": "Piss",
+      "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 160960,
       "name": "Hellbound",
       "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 229015,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 311083,
-      "name": "Immortally Insane",
-      "url": "https://open.spotify.com/track/7icuG5KBzs7UEBd8WuDler"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Southern Trendkill",
         "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 311083,
+      "name": "Immortally Insane",
+      "url": "https://open.spotify.com/track/7icuG5KBzs7UEBd8WuDler"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
+      "duration_ms": 224693,
+      "name": "We'll Grind That Axe for a Long Time",
+      "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
     },
     {
       "added_at": null,
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 224693,
-      "name": "We'll Grind That Axe for a Long Time",
-      "url": "https://open.spotify.com/track/1vIWmTJEagdqfcrVe5MIKl"
+      "duration_ms": 197533,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
     },
     {
       "added_at": null,

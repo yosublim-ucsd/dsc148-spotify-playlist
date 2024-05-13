@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "\u3010POPYOURS\u307e\u3067\u3042\u30686\u65e5\u3011Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
+  "description": "\u3010POPYOURS\u307e\u3067\u3042\u30685\u65e5\u3011Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: taro",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -8316,6 +8316,24 @@
       "duration_ms": 177914,
       "name": "\u00b1",
       "url": "https://open.spotify.com/track/72VqxxCtgZPGSnQbO1qzZx"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3044\u611f\u3058",
+        "url": "https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd"
+      },
+      "artists": [
+        {
+          "name": "taro",
+          "url": "https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "\u3044\u3044\u611f\u3058",
+      "url": "https://open.spotify.com/track/3q2z6sxUzmk6UA5IzA9uOu"
     },
     {
       "album": {

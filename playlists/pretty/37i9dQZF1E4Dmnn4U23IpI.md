@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [Radio The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Timecop1983, Kalax and more
+> Con FM\-84, Timecop1983, Kalax y más
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,517 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,528 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 21 | [Deep Blue](https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 3:57 |
 | 22 | [Somewhere in This City](https://open.spotify.com/track/2KTLz5nTACcUHuvGygMK1G) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 4:14 |
 | 23 | [Wild Ones](https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:28 |
-| 24 | [So Far from Home](https://open.spotify.com/track/5fAvWbyvGXzcWZYBkvC5OL) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 3:32 |
+| 24 | [Coco](https://open.spotify.com/track/5Dg7xffxFbW9J9gwpzYtn2) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 3:52 |
 | 25 | [The Mountain](https://open.spotify.com/track/5TxotO7jpRFwG1dR1suT7G) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:24 |
 | 26 | [Vampires](https://open.spotify.com/track/1K0urJwRWgKsdufGEdkXP7) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 5:17 |
 | 27 | [Never Live Without You](https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 3:54 |
-| 28 | [Summer Love](https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Summer Love](https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd) | 3:35 |
+| 28 | [Bad Dream Baby](https://open.spotify.com/track/5GQyYSGz8bymILpekzEy7L) | [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Bad Dream Baby](https://open.spotify.com/album/1Wii6am038MI8SRIoovpqr) | 5:15 |
 | 29 | [Don't Want to Change Your Mind](https://open.spotify.com/track/7ucGNqzzbSh6wEpfOxTyaZ) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:27 |
-| 30 | [Coco](https://open.spotify.com/track/5Dg7xffxFbW9J9gwpzYtn2) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Electric Dreams](https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP) | 3:52 |
-| 31 | [Shadows](https://open.spotify.com/track/61QO7Fn6yFM6Ek3TFO6C0O) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o) | 6:27 |
+| 30 | [Firewall](https://open.spotify.com/track/0lZqONtjkea7wUGONJbbYo) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Lisa Marie Perkins](https://open.spotify.com/artist/0VvELCFnlmbHZWuY7KoYRF) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 4:11 |
+| 31 | [Explorers](https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:16 |
 | 32 | [Fly for Your Life](https://open.spotify.com/track/2eTHgWvYYunxgqYKqNOuZD) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:39 |
-| 33 | [Only When It's Dark](https://open.spotify.com/track/05auOjVROFlChSRdINOGUr) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Sentimental](https://open.spotify.com/album/2n7yk5MepcS82A75Co2qKv) | 5:07 |
-| 34 | [Bad Dream Baby](https://open.spotify.com/track/5GQyYSGz8bymILpekzEy7L) | [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Bad Dream Baby](https://open.spotify.com/album/1Wii6am038MI8SRIoovpqr) | 5:15 |
+| 33 | [I'm a Believer](https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 5:11 |
+| 34 | [Summer Love](https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Summer Love](https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd) | 3:35 |
 | 35 | [Goodbye](https://open.spotify.com/track/6LoQkCFWTaYHyz2ii3MlYv) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Clive Farrington](https://open.spotify.com/artist/5BulqEEYHetl6mqOkTbdGv) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:03 |
-| 36 | [Explorers](https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:16 |
-| 37 | [I'm a Believer](https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 5:11 |
-| 38 | [Firewall](https://open.spotify.com/track/0lZqONtjkea7wUGONJbbYo) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Lisa Marie Perkins](https://open.spotify.com/artist/0VvELCFnlmbHZWuY7KoYRF) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 4:11 |
-| 39 | [Midnight FM](https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Midnight FM](https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le) | 3:58 |
-| 40 | [The Drone Racing League](https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:41 |
-| 41 | [Memories](https://open.spotify.com/track/4c37fNeMZH98oIqGYVGF0o) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 6:19 |
+| 36 | [Shadows](https://open.spotify.com/track/61QO7Fn6yFM6Ek3TFO6C0O) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o) | 6:27 |
+| 37 | [Midnight FM](https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Midnight FM](https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le) | 3:58 |
+| 38 | [The Drone Racing League](https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 4:41 |
+| 39 | [So Far from Home](https://open.spotify.com/track/5fAvWbyvGXzcWZYBkvC5OL) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 3:32 |
+| 40 | [Long Island](https://open.spotify.com/track/1lMjZqCXMgLFCtyW3oYmIY) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Kaye Kiernan](https://open.spotify.com/artist/6oqTN3xSzKg4nRiYoEZD7m) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 3:46 |
+| 41 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 |
 | 42 | [Arcade Summer](https://open.spotify.com/track/6Vy3rIRe1ANhRLm6vL1nGB) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 3:59 |
 | 43 | [The Driver](https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [The Night Hour](https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt) | [Thanks in Advance](https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe) | 4:06 |
-| 44 | [Long Island](https://open.spotify.com/track/1lMjZqCXMgLFCtyW3oYmIY) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm), [Kaye Kiernan](https://open.spotify.com/artist/6oqTN3xSzKg4nRiYoEZD7m) | [Retropolis](https://open.spotify.com/album/6ZraDhNRpjPMOexSsLctD3) | 3:46 |
-| 45 | [We Were Young](https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [All Night \(Deluxe Edition\)](https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR) | 3:38 |
-| 46 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 |
-| 47 | [Dark All Day](https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Tim Cappello](https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:27 |
+| 44 | [Woken Furies](https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:07 |
+| 45 | [In Love](https://open.spotify.com/track/0XpKc2COn2AyhAFWCUVD8Z) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 4:52 |
+| 46 | [Memories](https://open.spotify.com/track/4c37fNeMZH98oIqGYVGF0o) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 6:19 |
+| 47 | [Only When It's Dark](https://open.spotify.com/track/05auOjVROFlChSRdINOGUr) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Sentimental](https://open.spotify.com/album/2n7yk5MepcS82A75Co2qKv) | 5:07 |
 | 48 | [Everything](https://open.spotify.com/track/24hghyOlo1dTQ9sv2wufpk) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:20 |
-| 49 | [In Love](https://open.spotify.com/track/0XpKc2COn2AyhAFWCUVD8Z) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 4:52 |
-| 50 | [Interspace](https://open.spotify.com/track/4sZ3hUbwzxGo2ERNoekmzI) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Interspace](https://open.spotify.com/album/72fxvL27SI7AYnbGAn6Iss) | 5:23 |
+| 49 | [We Were Young](https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [All Night \(Deluxe Edition\)](https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR) | 3:38 |
+| 50 | [Don't Give Up \- The Midnight Remix](https://open.spotify.com/track/2LqFe2b7ukUf2T4UlL6Fg3) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Don't Give Up \(The Midnight Remix\)](https://open.spotify.com/album/39AyS3AwUgr06llLE82Er3) | 4:12 |
 
-Snapshot ID: `ZkAfGAAAAAC6wSLVCxrhPhiN1nto/wwW`
+Snapshot ID: `ZkFdmwAAAACEwgyB5iml60YkN5hQLvOm`

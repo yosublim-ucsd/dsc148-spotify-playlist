@@ -4835,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Chained Up",
+      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
+    },
+    {
+      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/5KFOZx4trm0m4BPQ2HzrZ1"
       },
@@ -10622,7 +10640,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"

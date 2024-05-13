@@ -4,7 +4,7 @@
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-457 songs - 1 day 5 hr 22 min
+458 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 | 2021-12-15 | 2022-04-18 |
 | [Love Generation \- Radio Edit](https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [La Saga Des Hits](https://open.spotify.com/album/7sImJdd7WylHtF8yCjIvzu) | 3:27 | 2021-12-15 | 2022-07-24 |
 | [Love Really Hurts Without You](https://open.spotify.com/track/0nlVsRpZgsOZi0BFfzHSL9) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Here You Are: The Best of Billy Ocean](https://open.spotify.com/album/5ciu3GM6WiMGBOSbQKgc5z) | 2:58 | 2021-12-15 | 2022-04-21 |
+| [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 | 2023-09-08 |  |
 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2022-01-05 | 2024-04-29 |
 | [Love Shack \- Edit](https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Love Shack \(Edit\) / Channel Z](https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy) | 4:17 | 2022-03-23 | 2022-04-20 |
 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/7jOuIhMrkiKj7bvYhRqaym) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Low \(feat\. T\-Pain\)](https://open.spotify.com/album/61XDGdDOPP4mTC76DvFpwq) | 3:50 | 2022-01-05 | 2022-07-29 |
@@ -386,7 +387,7 @@
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2022-11-07 |  |
 | [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 | 2023-01-25 |  |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2022-03-23 |  |
-| [Talk Dirty \(feat\. 2 Chainz\)](https://open.spotify.com/track/5l3CML2OnzfNs5RfVgbcLt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 2:57 | 2021-12-15 |  |
+| [Talk Dirty \(feat\. 2 Chainz\)](https://open.spotify.com/track/5l3CML2OnzfNs5RfVgbcLt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 2:57 | 2021-12-15 | 2024-05-13 |
 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 | 2022-09-23 | 2024-05-09 |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2021-12-15 | 2022-11-21 |
 | [Telephone](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 3:40 | 2021-12-15 | 2021-12-24 |

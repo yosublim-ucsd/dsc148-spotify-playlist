@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Of Greetings And Goodbyes",
+      "url": "https://open.spotify.com/track/1PzXACkaohcYjcWTZx4lWR"
+    },
+    {
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"

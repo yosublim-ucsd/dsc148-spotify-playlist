@@ -2021,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "look at me but through me",
+        "url": "https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Hailes",
+          "url": "https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "caught up",
+      "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0"
       },
@@ -3504,7 +3526,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 195484,
       "name": "Dream",
       "url": "https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe"

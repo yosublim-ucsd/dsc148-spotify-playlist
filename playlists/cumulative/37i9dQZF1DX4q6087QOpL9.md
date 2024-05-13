@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-250 songs - 1 day 3 hr 16 min
+251 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Stand \(feat\. Cor.Ece\) \- Edit](https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv) | [Stand \(feat\. Cor.Ece\)](https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf) | 3:02 | 2024-01-31 |  |
 | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\) \- Whiplash and Turner Vocal Mix](https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Darryl D'Bonneau](https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw) | [Stop Playing With My Mind \(feat\. Darryl D'Bonneau\)](https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6) | 9:26 | 2022-09-13 | 2023-09-07 |
 | [Straight From The Heart \- Moplen Remix](https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP) | [Loose Change](https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF), [Moplen](https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk) | [Straight From The Heart \(Moplen Remix\)](https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F) | 8:39 | 2024-03-06 |  |
+| [Stronger \- Extended Club Mix](https://open.spotify.com/track/2qdq50vSvWSQZ6jGj94pCX) | [Cafe 432](https://open.spotify.com/artist/08kPo64mjRoqiJVmzl1Wic), [Hannah Khemoh](https://open.spotify.com/artist/0I2kjxFQfKN3h34FA2CLZg) | [Stronger](https://open.spotify.com/album/43KImeFr6rTLyqwSXPFVPu) | 6:10 | 2024-04-18 |  |
 | [Stuck](https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Power Soul](https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO) | 4:48 | 2022-09-13 |  |
 | [Swimming Places](https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Defected Presents House Masters: DJ Gregory & Julien Jabre](https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr) | 10:42 | 2022-09-13 |  |
 | [Take a Stand \- Blaze Shelter Mix](https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [The Best of Blaze, Vol\. 2 \- Hubert Street](https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ) | 6:53 | 2022-09-13 | 2023-11-08 |
@@ -255,7 +256,7 @@
 | [Yellow](https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [The Kerri Chandler Collection](https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg) | 7:24 | 2022-09-13 | 2024-03-04 |
 | [You Are In My System \- Club Mix](https://open.spotify.com/track/63IgbFgnPSWCQWzyH3ipAs) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv) | [You Are In My System](https://open.spotify.com/album/1vHPZvaSQUUFNbrt1fHVWS) | 3:05 | 2023-09-14 | 2024-03-01 |
 | [You Bring Joy \- Radio Edit](https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [You Bring Joy](https://open.spotify.com/album/1tc5XtUJoVoMT4e5RR2Vmx) | 3:28 | 2024-04-11 |  |
-| [You Give Good Love \(Jay\-J's Mouton Studios Dub\)](https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a) | [Kathy Brown](https://open.spotify.com/artist/2O9ymvknHdVSA0OSAbVJmD) | [You Give Good Love](https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe) | 6:37 | 2022-09-13 |  |
+| [You Give Good Love \(Jay\-J's Mouton Studios Dub\)](https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a) | [Kathy Brown](https://open.spotify.com/artist/2O9ymvknHdVSA0OSAbVJmD) | [You Give Good Love](https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe) | 6:37 | 2022-09-13 | 2024-05-13 |
 | [You're In My System \- Original Mix](https://open.spotify.com/track/0ttcT1gEVaUy0Sat4jqnnd) | [Kelvin Sylvester](https://open.spotify.com/artist/0Gu9M2zSKGD9dvnFrnu3Xw), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [You're In My System](https://open.spotify.com/album/1Scs2iEwQ3DrCW5JzYJ091) | 5:51 | 2023-08-31 | 2023-09-15 |
 | [Your Heaven \(I Can Feel It\) \[feat\. Pearl Mae\] \- Micky More & Andy Tee Remix](https://open.spotify.com/track/1G8PgtgyZYWyqugtGn5FMM) | [Urban Blues Project](https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH), [Mother Of Pearl](https://open.spotify.com/artist/0QqLIcbgwdQ9Rp9lXWJoDF), [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Pearl Mae](https://open.spotify.com/artist/7pV7Fy2kFeVe9DDUqQ2O3N) | [Your Heaven \(I Can Feel It\) \[feat\. Pearl Mae\] \[Micky More & Andy Tee Remix\]](https://open.spotify.com/album/3gqqc6MFqovyEdVQWUYCWg) | 3:32 | 2024-03-06 |  |
 

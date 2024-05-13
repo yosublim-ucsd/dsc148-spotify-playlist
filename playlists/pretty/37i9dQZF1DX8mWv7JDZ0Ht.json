@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: PRISCILLA, P\u00e9ricles",
-  "num_followers": 433416,
+  "num_followers": 433425,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 207110,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 207110,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "n\u00f3sdois",
-        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
       },
       "artists": [
         {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 163815,
-      "name": "Juntin",
-      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+      "duration_ms": 216154,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "n\u00f3sdois",
+        "url": "https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 163815,
+      "name": "Juntin",
+      "url": "https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Pelo mundo",
         "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 216154,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Deixa o Cora\u00e7\u00e3o Falar",
+        "url": "https://open.spotify.com/album/4if3vrrDdIEneH5mNijjvn"
+      },
+      "artists": [
+        {
+          "name": "Rock in Rio Dia Brasil",
+          "url": "https://open.spotify.com/artist/28tpBvLYAATwcqiUxkQRkp"
+        }
+      ],
+      "duration_ms": 269322,
+      "name": "Deixa o Cora\u00e7\u00e3o Falar",
+      "url": "https://open.spotify.com/track/0tPgb75mRXhU8Pc6I6NiZW"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Deixa o Cora\u00e7\u00e3o Falar",
-        "url": "https://open.spotify.com/album/4if3vrrDdIEneH5mNijjvn"
-      },
-      "artists": [
-        {
-          "name": "Rock in Rio Dia Brasil",
-          "url": "https://open.spotify.com/artist/28tpBvLYAATwcqiUxkQRkp"
-        }
-      ],
-      "duration_ms": 269322,
-      "name": "Deixa o Cora\u00e7\u00e3o Falar",
-      "url": "https://open.spotify.com/track/0tPgb75mRXhU8Pc6I6NiZW"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Vida Normal",
+        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 173804,
+      "name": "Vida Normal",
+      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 141452,
       "name": "Planeta Para",
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Vida Normal",
-        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 173804,
-      "name": "Vida Normal",
-      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "o futuro j\u00e1 est\u00e1 acontecendo",
         "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
       },
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Existe Amor Aqui",
+        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
+      },
+      "artists": [
+        {
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
+        }
+      ],
+      "duration_ms": 199681,
+      "name": "Sem Me Preocupar",
+      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -1119,6 +1135,26 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Tenta",
+        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        },
+        {
+          "name": "Annalu",
+          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Tenta",
+      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1147,26 +1183,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Tenta",
-        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        },
-        {
-          "name": "Annalu",
-          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Tenta",
-      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Duas da Manh\u00e3",
         "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cad\u00ea Voc\u00ea",
-        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 160008,
-      "name": "Cad\u00ea Voc\u00ea",
-      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
@@ -1279,6 +1247,22 @@
       "duration_ms": 172268,
       "name": "V\u00e1 Com Deus",
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cad\u00ea Voc\u00ea",
+        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 160008,
+      "name": "Cad\u00ea Voc\u00ea",
+      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 216988,
       "name": "Diante dos Olhos",
       "url": "https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-05-10 03:00:00",

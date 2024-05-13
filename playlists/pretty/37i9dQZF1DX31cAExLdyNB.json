@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 66819,
+  "num_followers": 66830,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -347,18 +343,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 263926,
       "name": "Eleuthera - Catching Flies Remix",
       "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -835,26 +835,6 @@
       "duration_ms": 224353,
       "name": "Vine Hasta Marte",
       "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -927,6 +907,26 @@
       "duration_ms": 192000,
       "name": "6\u00ba",
       "url": "https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "FIXXI\u00d3N",
-        "url": "https://open.spotify.com/album/4wa2jkm7yOAXCR70ZrLj74"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "FIXXI\u00d3N",
-      "url": "https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/57fdApG6bFRgvE2b5nZbh8"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "FIXXI\u00d3N",
+        "url": "https://open.spotify.com/album/4wa2jkm7yOAXCR70ZrLj74"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 187348,
+      "name": "FIXXI\u00d3N",
+      "url": "https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Ed\u00e9n",
         "url": "https://open.spotify.com/album/6C3AAFYwOUqOHA8HNmizA9"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Might Forgive You / Tkm",
         "url": "https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 252727,
       "name": "A qui\u00e9n le importa - Latin Pride Version by Juan Sueiro",
       "url": "https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 195913,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "Si T\u00fa Me Nombras",
+      "url": "https://open.spotify.com/track/7MVXjuvdvYWSMhlIfOOdQQ"
+    },
+    {
+      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -1514,6 +1532,24 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/31FQspjo54Q66HPdSceOtm"
     },
     {
       "album": {

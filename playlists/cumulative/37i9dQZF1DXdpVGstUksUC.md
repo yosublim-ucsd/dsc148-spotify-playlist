@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-337 songs - 1 day 8 hr 26 min
+338 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Automatic Fantastic](https://open.spotify.com/track/4KB6xBP5eIlgH2rEhCbGNA) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/4RKRXZ4ez0w6Lr23CMT9YE) | 6:55 | 2021-11-30 | 2022-07-29 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 | 2022-08-26 |  |
+| [Beneath the Rose](https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath the Rose](https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL) | 5:34 | 2024-05-10 |  |
 | [Beneath the Rose](https://open.spotify.com/track/2Wfrylq2ghMGoqaOvVDr6O) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 5:34 | 2023-10-06 | 2024-04-19 |
 | [Beneath the Rose](https://open.spotify.com/track/3bP0OkELWHoDUn3tHvqcfY) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 5:34 | 2023-09-15 | 2023-11-11 |
 | [Beneath the Rose](https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath The Rose](https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k) | 5:34 | 2023-07-21 | 2023-09-19 |
@@ -79,7 +80,7 @@
 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 |  |
 | [Desert Cruiser](https://open.spotify.com/track/3IjeShSHRTVoWJdDDncVse) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/1kMiNWC1GGs8kbTcJWnLo4) | 7:29 | 2021-11-30 | 2022-07-29 |
 | [Desert Cruiser](https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV) | 7:29 | 2023-03-22 | 2024-04-19 |
-| [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 | 2022-04-28 | 2024-05-11 |
+| [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 | 2022-04-28 |  |
 | [Desert God](https://open.spotify.com/track/61zZe6nTfoyRsuIwMg3DR8) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/4p0VY8aORNcSS8i7sXZUkE) | 5:16 | 2021-11-30 | 2022-07-27 |
 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 | 2023-03-10 | 2024-04-19 |
 | [Devil At Your Heels](https://open.spotify.com/track/55sRqwQUnHzq3olWwNj6kO) | [Plainride](https://open.spotify.com/artist/2NDj8i2isAwlLIRGlNWsCh) | [Return Of The Jackalope](https://open.spotify.com/album/4JUtyjs4vGEjIhhiUfLpaN) | 6:29 | 2021-11-30 | 2022-01-17 |
@@ -169,7 +170,7 @@
 | [Last Living Dinosaur](https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Berlin](https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu) | 4:05 | 2024-04-18 |  |
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 | 2023-09-19 |
 | [Last Word](https://open.spotify.com/track/0e0SA8QXA85qkGhLPOD0Rr) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 6:17 | 2023-09-15 | 2023-11-11 |
-| [Last Word](https://open.spotify.com/track/2wG8wBzNKfDaNaLu3gTIw7) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/2lApef7JDh3V6ofKx9OffZ) | 6:17 | 2024-02-09 |  |
+| [Last Word](https://open.spotify.com/track/2wG8wBzNKfDaNaLu3gTIw7) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/2lApef7JDh3V6ofKx9OffZ) | 6:17 | 2024-02-09 | 2024-05-13 |
 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-10-06 | 2024-04-19 |
 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 | 2022-01-14 |  |
 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 |  |
@@ -198,7 +199,7 @@
 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 | 2022-03-17 |  |
 | [My Cosmic Love](https://open.spotify.com/track/4VXKVP6YhEjxKeNyJACEiv) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Vol\. II](https://open.spotify.com/album/79TWEKv6fzjnmfTw5OKVRz) | 4:45 | 2022-02-14 | 2022-04-21 |
 | [My Everything](https://open.spotify.com/track/7fa5wGIhTt9VTOVUID8aqs) | [John Garcia](https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8) | [My Everything](https://open.spotify.com/album/7BhnTcuoW88fqT1ePpvTYe) | 3:36 | 2021-11-30 | 2022-07-19 |
-| [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 | 2021-11-30 |  |
+| [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 | 2021-11-30 | 2024-05-13 |
 | [Negasonic Teenage Warhead](https://open.spotify.com/track/39M82JuLd0Fe6w62q0zPMF) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 4:27 | 2023-10-06 | 2024-04-19 |
 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 | 2024-02-09 |  |
 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 | 2022-08-25 |  |

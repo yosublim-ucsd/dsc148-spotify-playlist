@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,173 likes - 198 songs - 9 hr 52 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,171 likes - 198 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 184 | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi) | 2:30 |
 | 185 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 |
 | 186 | [Secrets In The Dark](https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Secrets In The Dark](https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM) | 5:16 |
-| 187 | [Crank That](https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Crank That](https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0) | 2:36 |
+| 187 | [Crank That](https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit) | [Pickle](https://open.spotify.com/artist/0DfaVJKXexxXCcgGOaAH6f) | [Crank That](https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0) | 2:36 |
 | 188 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 |
 | 189 | [Bueno](https://open.spotify.com/track/6vVPwFyG1i2cGbkooigqDM) | [Jora](https://open.spotify.com/artist/2AMvbDOcox78jmmgQN5UfX) | [Bueno](https://open.spotify.com/album/0CJtRHuxVxPmjvb6E3pau5) | 3:36 |
 | 190 | [High As F\*ck](https://open.spotify.com/track/5IRj8IqTJ6EWTItKthvE47) | [Cody Chase](https://open.spotify.com/artist/11Rj7CAcqgC6BQylgzF8Di) | [High As F\*ck](https://open.spotify.com/album/3hW7IDz0QN3QNjOXO3GzqA) | 3:06 |

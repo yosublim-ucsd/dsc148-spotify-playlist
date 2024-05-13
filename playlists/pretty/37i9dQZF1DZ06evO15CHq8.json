@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 572364,
+  "num_followers": 572579,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAALkFzk1y7ni6bmuNV9HYLH",
+  "snapshot_id": "Zj61AAAAAACt1U5aazQY10A4MLoZLpbz",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Lte",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHAMELESS $UICIDE",
         "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 166420,
       "name": "Six Lines, Two Dragons, and a Messiah",
       "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Lte",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,

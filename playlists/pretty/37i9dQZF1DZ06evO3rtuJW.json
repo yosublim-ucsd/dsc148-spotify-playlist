@@ -1,12 +1,12 @@
 {
-  "description": "This is G Herbo. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 32504,
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
+  "num_followers": 32507,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAABJEBaW1lo/896y4XMiHPIL",
+  "snapshot_id": "Zj61AAAAAAAvKRXBqFUDdBZFD2vHN+vD",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,30 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
     },
     {
       "added_at": null,
@@ -515,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 214344,
+      "name": "Honestly (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plenty",
         "url": "https://open.spotify.com/album/4MZXuEnQWt8bpqTRCpPOyY"
       },
@@ -547,46 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swervo",
-        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Honestly (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -607,6 +615,22 @@
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -759,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4GOD II",
-        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 139541,
-      "name": "Skeme (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Cause Y'all Waited 2",
         "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
@@ -795,6 +799,26 @@
       "duration_ms": 174266,
       "name": "Chiraq Demons (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4GOD II",
+        "url": "https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 139541,
+      "name": "Skeme (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6ds1oPJafnw3gDfjjJj1Aq"
     },
     {
       "added_at": null,
@@ -907,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
         }
       ],
-      "duration_ms": 164992,
-      "name": "Letter to My Love",
-      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
+      "duration_ms": 163480,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH"
     },
     {
       "added_at": null,
@@ -939,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swervo",
-        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
         }
       ],
-      "duration_ms": 163480,
-      "name": "Focused",
-      "url": "https://open.spotify.com/track/1jUz3W4cXv56omhrUacbwH"
+      "duration_ms": 164992,
+      "name": "Letter to My Love",
+      "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
     },
     {
       "added_at": null,
@@ -1031,26 +1055,6 @@
       "duration_ms": 223045,
       "name": "One in the Head",
       "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me vs. Me",
-        "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Chicago to Memphis (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS"
     }
   ],
   "unique_name": "This Is G Herbo",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Grafiteh
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,180 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,193 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Insensatez](https://open.spotify.com/track/3NmyWO0sCF8eOwMZWvwtpF) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Insensatez](https://open.spotify.com/album/145pWKr3SGJ1qDiN4q5XCx) | 3:40 |
 | 2 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
-| 3 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:19 |
+| 3 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 |
 | 4 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
 | 5 | [Meu Mundo](https://open.spotify.com/track/3d5frcLx9xmqL5Lhz1pbhl) | [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Jonas Pheer](https://open.spotify.com/artist/2sraMeyJ8p9hSo2gXo4Rd8) | [Meu Mundo](https://open.spotify.com/album/2y8oKmdHzge4JD7zPB9ueG) | 1:54 |
 | 6 | [Eu Mermo](https://open.spotify.com/track/34E4gKoSSeSyUoSizdaDRP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [R.Muñoz](https://open.spotify.com/artist/3G3NEjL0kEhipEEDKWzZcP) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:32 |

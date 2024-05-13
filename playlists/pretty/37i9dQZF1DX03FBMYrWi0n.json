@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Alix Fernz",
-  "num_followers": 4572,
+  "num_followers": 4575,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Mourir Demain",
-        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+        "name": "Choses Sauvages",
+        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
       },
       "artists": [
         {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
         }
       ],
-      "duration_ms": 207922,
-      "name": "Mourir Demain",
-      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+      "duration_ms": 157827,
+      "name": "La valse des trottoirs",
+      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -287,18 +287,34 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Choses Sauvages",
-        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 157827,
-      "name": "La valse des trottoirs",
-      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Trou d'eau",
+      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -331,22 +347,6 @@
       "duration_ms": 211920,
       "name": "Cantalou",
       "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
-      },
-      "artists": [
-        {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Trou d'eau",
-      "url": "https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "blood pareil",
-        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -791,6 +775,54 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 286826,
+      "name": "La hi\u00e9rarchill",
+      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "blood pareil",
+        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+      },
+      "artists": [
+        {
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
@@ -823,50 +855,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
         }
       ],
-      "duration_ms": 286826,
-      "name": "La hi\u00e9rarchill",
-      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
-      },
-      "artists": [
-        {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Le feu",
-        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 231358,
-      "name": "Le feu",
-      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
       },
       "artists": [
         {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
         }
       ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 233708,
       "name": "Romantisme",
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
-      },
-      "artists": [
-        {
-          "name": "Plants and Animals",
-          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
-        }
-      ],
-      "duration_ms": 343160,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "O\u00f9 est?",
         "url": "https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 271696,
       "name": "O\u00f9 est?",
       "url": "https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
+      },
+      "artists": [
+        {
+          "name": "Plants and Animals",
+          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+        }
+      ],
+      "duration_ms": 343160,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
     },
     {
       "added_at": "2024-05-10 04:00:00",

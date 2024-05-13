@@ -1,12 +1,12 @@
 {
   "description": "This is Labi Siffre. The essential tracks, all in one playlist.",
-  "num_followers": 7499,
+  "num_followers": 7502,
   "original_name": "This Is Labi Siffre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAADCyt4WSw62/+x07Vcq+9N4",
+  "snapshot_id": "Zj61AAAAAADuyB/ZztXXQBPYwsIcQLNY",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
       },
       "artists": [
         {
           "name": "Labi Siffre",
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        },
+        {
+          "name": "Kevin W. Smith",
+          "url": "https://open.spotify.com/artist/44FqOyGC5ba51jR91sP5TC"
         }
       ],
-      "duration_ms": 85146,
-      "name": "When I'm on My Own You Are on My Mind",
-      "url": "https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i"
+      "duration_ms": 337493,
+      "name": "(Something Inside) So Strong",
+      "url": "https://open.spotify.com/track/2z8PSS00q39tUuVjYfTO67"
     },
     {
       "added_at": null,
@@ -103,6 +107,22 @@
       "duration_ms": 246866,
       "name": "Cannock Chase",
       "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 85146,
+      "name": "When I'm on My Own You Are on My Mind",
+      "url": "https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i"
     },
     {
       "added_at": null,
@@ -139,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 31853,
-      "name": "You're Lovely",
-      "url": "https://open.spotify.com/track/7qFAzYTQlj9WXS4QitMgQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crying, Laughing, Loving, Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
@@ -167,6 +171,22 @@
       "duration_ms": 284480,
       "name": "My Song",
       "url": "https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 31853,
+      "name": "You're Lovely",
+      "url": "https://open.spotify.com/track/7qFAzYTQlj9WXS4QitMgQ6"
     },
     {
       "added_at": null,
@@ -203,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Rocking Chair",
-      "url": "https://open.spotify.com/track/53qn0116gOP48ns8zcr0sL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crying, Laughing, Loving, Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
@@ -231,6 +235,22 @@
       "duration_ms": 75346,
       "name": "'Till Forever",
       "url": "https://open.spotify.com/track/7vVywc6HuOtPzwdMkSxhI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/53qn0116gOP48ns8zcr0sL"
     },
     {
       "added_at": null,
@@ -267,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Talkabout",
-      "url": "https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crying, Laughing, Loving, Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
@@ -295,6 +299,22 @@
       "duration_ms": 236986,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Talkabout",
+      "url": "https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb"
     },
     {
       "added_at": null,
@@ -331,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 237693,
-      "name": "Nothing in the World Like Love",
-      "url": "https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crying, Laughing, Loving, Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
@@ -359,6 +363,22 @@
       "duration_ms": 174960,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/6VBoIw0kxcNgXDwNOTNXKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "Nothing in the World Like Love",
+      "url": "https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE"
     },
     {
       "added_at": null,
@@ -484,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/4HdfaXQLyzdMNICNmalvuV"
+      "duration_ms": 193660,
+      "name": "Why Did You Go, Why Did You Leave Me?",
+      "url": "https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA"
     },
     {
       "added_at": null,
@@ -548,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 193660,
-      "name": "Why Did You Go, Why Did You Leave Me?",
-      "url": "https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA"
+      "duration_ms": 160893,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/4HdfaXQLyzdMNICNmalvuV"
     },
     {
       "added_at": null,
@@ -603,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Labi Siffre (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+        "name": "Labi Siffre",
+        "url": "https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz"
       },
       "artists": [
         {
@@ -612,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 155133,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh"
+      "duration_ms": 193880,
+      "name": "I Don't Know What's Happened to the Kids Today",
+      "url": "https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG"
     },
     {
       "added_at": null,
@@ -667,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Labi Siffre",
-        "url": "https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz"
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
       },
       "artists": [
         {
@@ -676,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 193880,
-      "name": "I Don't Know What's Happened to the Kids Today",
-      "url": "https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG"
+      "duration_ms": 155133,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh"
     },
     {
       "added_at": null,
@@ -791,22 +811,6 @@
       "duration_ms": 141013,
       "name": "River",
       "url": "https://open.spotify.com/track/0HnXiX7QmVMg3BmkUkWeUx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Oh Me Oh My Mr. City Goodbye",
-      "url": "https://open.spotify.com/track/0ShZJapZjeO03agphzZOyI"
     }
   ],
   "unique_name": "This Is Labi Siffre",

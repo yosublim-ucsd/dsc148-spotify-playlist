@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 162973,
       "name": "Atr\u00e1s Do Trio El\u00e9trico",
       "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 166400,
       "name": "Massa Real",
       "url": "https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 233466,
       "name": "Nobre Vagabundo",
       "url": "https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF"
@@ -1038,6 +1038,24 @@
       "duration_ms": 235240,
       "name": "Pedra De Responsa",
       "url": "https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV"
+    },
+    {
+      "album": {
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Pegando Fogo",
+      "url": "https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR"
     },
     {
       "album": {

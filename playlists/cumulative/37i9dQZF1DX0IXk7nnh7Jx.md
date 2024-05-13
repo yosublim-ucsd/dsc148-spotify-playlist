@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-525 songs - 1 day 7 hr 9 min
+526 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Patience](https://open.spotify.com/track/5PpSZdf23I1YK3qmmQgDjq) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Patience](https://open.spotify.com/album/0hwkfiwySqJlvVs45QXt8b) | 3:38 | 2023-04-07 | 2023-08-05 |
 | [Patient & Kind](https://open.spotify.com/track/4XUHPTauQpSLCeGIzRGIR3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Patient & Kind](https://open.spotify.com/album/1ibfHJeOfj4wBtSBgy5JuG) | 4:57 | 2023-11-03 | 2024-01-27 |
 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 | 2023-08-04 |  |
+| [Peace Over Anxiety](https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Peace Over Anxiety](https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC) | 3:34 | 2024-05-10 |  |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-02-19 | 2023-08-05 |
 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 | 2020-12-18 | 2023-02-19 |
 | [Person of Peace](https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw) | [PKYB](https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ) | [Person of Peace](https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC) | 2:59 | 2023-12-15 |  |
@@ -354,7 +355,7 @@
 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 | 2023-02-19 | 2023-12-02 |
 | [Poison](https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Poison](https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk) | 2:51 | 2023-02-19 | 2023-11-04 |
 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 | 2024-01-26 |  |
-| [Pray](https://open.spotify.com/track/0AcGzTpohxYqE0y2vn8vwy) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Pray](https://open.spotify.com/album/7vUvBevQvFFcFJhLN2VNnM) | 3:04 | 2024-05-10 |  |
+| [Pray](https://open.spotify.com/track/0AcGzTpohxYqE0y2vn8vwy) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Pray](https://open.spotify.com/album/7vUvBevQvFFcFJhLN2VNnM) | 3:04 | 2024-05-10 | 2024-05-13 |
 | [Pray For Me](https://open.spotify.com/track/6CinFilifLHPP711UIiMfH) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Pray For Me](https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ) | 3:44 | 2023-11-03 |  |
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
 | [Prove My Love](https://open.spotify.com/track/6eV7yJ3eD4U3LJUAyOEBuF) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Prove My Love](https://open.spotify.com/album/2wAY9M3jmw7ftEiExGTzQv) | 3:58 | 2023-02-24 | 2023-04-09 |

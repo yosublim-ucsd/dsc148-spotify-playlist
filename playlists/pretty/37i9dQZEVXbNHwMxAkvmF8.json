@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71196,
+  "num_followers": 71192,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LdLYGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LdQpmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -85,87 +85,7 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Tiara",
-        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Tiara",
-      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "kapu",
-      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Doktor - Torz",
-      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "\u00dagy Hiszem",
-      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -181,7 +101,39 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "kapu",
+      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -209,7 +161,7 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -229,23 +181,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 199183,
+      "name": "\u00dagy Hiszem",
+      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -261,43 +213,55 @@
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Sz\u00e9kelykapu",
-      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
+      "duration_ms": 178800,
+      "name": "Doktor - Torz",
+      "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -317,39 +281,7 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Lithe Fall Back",
-        "url": "https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs"
-      },
-      "artists": [
-        {
-          "name": "Shugoazy",
-          "url": "https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm"
-        }
-      ],
-      "duration_ms": 129516,
-      "name": "Lithe Fall Back",
-      "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
@@ -369,27 +301,59 @@
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "G\u00c1Z",
-        "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         },
         {
-          "name": "Jaber",
-          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
         }
       ],
-      "duration_ms": 185333,
-      "name": "G\u00c1Z",
-      "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
+      "duration_ms": 170000,
+      "name": "Sz\u00e9kelykapu",
+      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -409,59 +373,23 @@
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "Lithe Fall Back",
+        "url": "https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Shugoazy",
+          "url": "https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+      "duration_ms": 129516,
+      "name": "Lithe Fall Back",
+      "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "tartarosz",
-      "url": "https://open.spotify.com/track/1xPqR1twZKzVvHeVtP9wmN"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
@@ -481,71 +409,7 @@
       "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 153818,
-      "name": "Need U - Puha",
-      "url": "https://open.spotify.com/track/2jWn2D8Xs7gmmDU0valnfO"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "mariana.\u00e1rok",
-      "url": "https://open.spotify.com/track/0fBK1og2qGc1vSdEln0sFs"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 132105,
-      "name": "yukata",
-      "url": "https://open.spotify.com/track/72CToGLjHS2QsMOiUYY89j"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -565,43 +429,231 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+        "name": "G\u00c1Z",
+        "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Nem vagyok rosszul",
-        "url": "https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U"
-      },
-      "artists": [
-        {
-          "name": "Misshmusic",
-          "url": "https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         },
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+          "name": "Jaber",
+          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nem vagyok rosszul",
-      "url": "https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV"
+      "duration_ms": 185333,
+      "name": "G\u00c1Z",
+      "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "tartarosz",
+      "url": "https://open.spotify.com/track/1xPqR1twZKzVvHeVtP9wmN"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "mariana.\u00e1rok",
+      "url": "https://open.spotify.com/track/0fBK1og2qGc1vSdEln0sFs"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 153818,
+      "name": "Need U - Puha",
+      "url": "https://open.spotify.com/track/2jWn2D8Xs7gmmDU0valnfO"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 132105,
+      "name": "yukata",
+      "url": "https://open.spotify.com/track/72CToGLjHS2QsMOiUYY89j"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "PLAYB\u00c1NIA",
+        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 124273,
+      "name": "BAGIRA",
+      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "R\u00e9t",
+        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "R\u00e9t",
+      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "cipoe",
+        "url": "https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 207162,
+      "name": "cipoe",
+      "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Gengetek ellen",
+      "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
@@ -621,7 +673,63 @@
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Boldogtalans\u00e1g",
+        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 186091,
+      "name": "Boldogtalans\u00e1g",
+      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "3korty",
+      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -649,39 +757,7 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Boldogtalans\u00e1g",
-        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 186091,
-      "name": "Boldogtalans\u00e1g",
-      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "cipoe",
-        "url": "https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 207162,
-      "name": "cipoe",
-      "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
@@ -692,48 +768,12 @@
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 169795,
-      "name": "Gengetek ellen",
-      "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
+      "duration_ms": 138883,
+      "name": "Kitart\u00e1st",
+      "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 124273,
-      "name": "BAGIRA",
-      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -749,87 +789,7 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "R\u00e9t",
-        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 179234,
-      "name": "R\u00e9t",
-      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "EZER NAP",
-        "url": "https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 158325,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "viadal",
-      "url": "https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "M\u00e9g nem",
         "url": "https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW"
@@ -849,7 +809,43 @@
       "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "Nem vagyok rosszul",
+        "url": "https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U"
+      },
+      "artists": [
+        {
+          "name": "Misshmusic",
+          "url": "https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nem vagyok rosszul",
+      "url": "https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -865,42 +861,30 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 138883,
-      "name": "Kitart\u00e1st",
-      "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
-    },
-    {
-      "added_at": "2024-05-11 09:40:45",
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-05-11 09:40:45",
+      "added_at": "2024-05-12 09:56:47",
       "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
       },
       "artists": [
         {
@@ -908,9 +892,29 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 193398,
-      "name": "3korty",
-      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
+      "duration_ms": 185454,
+      "name": "viadal",
+      "url": "https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW"
+    },
+    {
+      "added_at": "2024-05-12 09:56:47",
+      "album": {
+        "name": "EZER NAP",
+        "url": "https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 158325,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
     }
   ],
   "unique_name": "Top 50 - Hungary",

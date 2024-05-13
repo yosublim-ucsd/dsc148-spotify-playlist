@@ -1,12 +1,12 @@
 {
-  "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 11359,
+  "description": "This is Bratty. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 11366,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAADqHO3ZogUejnBTzL/bxS+5",
+  "snapshot_id": "Zj61AAAAAABPrPxbbB3NtR6DFKlCc10j",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy en Auto",
-        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
       "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 178686,
-      "name": "Voy en Auto",
-      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+      "duration_ms": 238533,
+      "name": "Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
     },
     {
       "added_at": null,
@@ -475,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "Voy en Auto",
+        "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
       "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+      "duration_ms": 178686,
+      "name": "Voy en Auto",
+      "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
     },
     {
       "added_at": null,

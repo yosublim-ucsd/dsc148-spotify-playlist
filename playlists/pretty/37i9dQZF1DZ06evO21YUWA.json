@@ -1,12 +1,12 @@
 {
-  "description": "This Is Harold Budd. Los temas esenciales, todos en una lista.",
-  "num_followers": 5065,
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "num_followers": 5066,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAADPSwEeRVq41ldusxk08fWn",
+  "snapshot_id": "Zj61AAAAAACZR+DtUTMqiVk3Lzkvtdl3",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Eugene Bowen",
+          "url": "https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 89813,
+      "name": "Steal Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -63,26 +87,6 @@
       "duration_ms": 292213,
       "name": "Against The Sky - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Above Chiangmai - Remastered 2004",
-      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
     },
     {
       "added_at": null,
@@ -119,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Above Chiangmai - Remastered 2004",
+      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -135,26 +159,6 @@
       "duration_ms": 236746,
       "name": "A Stream With Bright Fish - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 133706,
-      "name": "The Chill Air - Remastered 2004",
-      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -195,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -211,26 +235,6 @@
       "duration_ms": 261560,
       "name": "Lost In The Humming Air - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
     },
     {
       "added_at": null,
@@ -275,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "The Plateaux Of Mirror - Remastered 2004",
+      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -291,26 +315,6 @@
       "duration_ms": 177600,
       "name": "Their Memories - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 389133,
-      "name": "An Arc Of Doves - Remastered 2004",
-      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
       "added_at": null,
@@ -355,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -371,26 +395,6 @@
       "duration_ms": 148293,
       "name": "An Echo Of Night - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/1PoRGnn6KqdOnY22gBVrzw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "First Light - Remastered 2004",
-      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
     },
     {
       "added_at": null,
@@ -431,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 426533,
+      "name": "First Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -451,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
-        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -487,6 +491,22 @@
       "duration_ms": 249933,
       "name": "Eyes Are Mosaics",
       "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Widows Charm",
+      "url": "https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw"
     },
     {
       "added_at": null,
@@ -515,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Widows Charm",
-      "url": "https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalon Sutra (2013 Remaster)",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -540,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 118720,
-      "name": "Porcelain Ginger - 2013 Remaster",
-      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
+      "duration_ms": 458400,
+      "name": "Little Heart - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
     },
     {
       "added_at": null,
@@ -608,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 458400,
-      "name": "Little Heart - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
+      "duration_ms": 118720,
+      "name": "Porcelain Ginger - 2013 Remaster",
+      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
     },
     {
       "added_at": null,
@@ -628,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 100106,
-      "name": "Momentary Architecture",
-      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -696,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+      "duration_ms": 100106,
+      "name": "Momentary Architecture",
+      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
     },
     {
       "added_at": null,
@@ -804,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 222760,
-      "name": "The Belles of Saint Andrew",
-      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     },
     {
       "added_at": null,
@@ -880,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+      "duration_ms": 222760,
+      "name": "The Belles of Saint Andrew",
+      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
     },
     {
       "added_at": null,
@@ -903,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "She is My Weakness",
-      "url": "https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -939,6 +923,26 @@
       "duration_ms": 207746,
       "name": "Avenue of Shapes",
       "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     }
   ],
   "unique_name": "This Is Harold Budd",

@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 267560,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/30X8uXiLDYneS0MuQY2H6n"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
@@ -820,6 +820,24 @@
       "duration_ms": 222453,
       "name": "Re-Education (Through Labor)",
       "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
+    },
+    {
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 214053,
       "name": "Sooner Or later",
       "url": "https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 139133,
       "name": "State Of The Union",
       "url": "https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 204160,
       "name": "Talking To Ourselves",
       "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"

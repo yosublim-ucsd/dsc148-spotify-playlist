@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 259667,
+  "num_followers": 259704,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAAq8Ixp32C9HEe+28mTpugM",
+  "snapshot_id": "Zj61AAAAAAAjPFejqTefXhkirf7ESnZ3",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
       "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+      "duration_ms": 469026,
+      "name": "Eu Navegarei",
+      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
     },
     {
       "added_at": null,
@@ -215,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
       "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 469026,
-      "name": "Eu Navegarei",
-      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
+      "duration_ms": 629133,
+      "name": "Tu \u00e9s Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
     },
     {
       "added_at": null,

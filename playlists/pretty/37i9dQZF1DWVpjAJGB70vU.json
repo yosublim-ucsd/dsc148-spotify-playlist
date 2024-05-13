@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: Toby Keith",
-  "num_followers": 1823113,
+  "num_followers": 1824151,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Carrying Your Love With Me",
         "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 179600,
+      "name": "Every Light In The House",
+      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Every Light In The House",
-      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 256066,
       "name": "I Can Still Make Cheyenne",
       "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
+        "name": "I Will Stand",
+        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "She's Got It All",
+      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
         "name": "The Way That I Am",
         "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 172200,
       "name": "Be My Baby Tonight",
       "url": "https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "I Will Stand",
-        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "She's Got It All",
-      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1203,6 +1203,38 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -1215,38 +1247,6 @@
       "duration_ms": 188840,
       "name": "Life's a Dance",
       "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1315,34 +1315,34 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1375,22 +1375,6 @@
       "duration_ms": 198440,
       "name": "Party Crowd",
       "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
         "name": "Too Cold At Home",
         "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "One Way Ticket (Because I Can)",
-      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Be Good At It",
         "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 202533,
       "name": "We Danced Anyway",
       "url": "https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "One Way Ticket (Because I Can)",
+      "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1911,18 +1911,34 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+        "name": "The Tractors",
+        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
       },
       "artists": [
         {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+          "name": "The Tractors",
+          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+      "duration_ms": 236466,
+      "name": "Baby Likes To Rock It",
+      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1943,18 +1959,18 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "The Tractors",
-        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
       "artists": [
         {
-          "name": "The Tractors",
-          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Baby Likes To Rock It",
-      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -1971,22 +1987,6 @@
       "duration_ms": 227640,
       "name": "No Doubt About It",
       "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 210866,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2024-03-05 21:47:39",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-03-05 21:47:39",
       "album": {
-        "name": "Extremes",
-        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "That's My Story",
-      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
-    },
-    {
-      "added_at": "2024-03-05 21:47:39",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+    },
+    {
+      "added_at": "2024-03-05 21:47:39",
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "That's My Story",
+      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
     },
     {
       "added_at": "2024-03-05 21:47:39",

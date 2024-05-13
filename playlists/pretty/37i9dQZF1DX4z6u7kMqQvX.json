@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106095,
+  "num_followers": 106105,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "ReconoceR",
         "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 147933,
       "name": "Ligera Love",
       "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Ey",
-        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
-      },
-      "artists": [
-        {
-          "name": "Barco",
-          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
-        }
-      ],
-      "duration_ms": 197191,
-      "name": "Ey",
-      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
       },
@@ -1583,22 +1567,6 @@
       "duration_ms": 135942,
       "name": "C\u00f3mo olvidar",
       "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
-        "name": "Cu\u00e1ntas Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cu\u00e1ntas Veces M\u00e1s",
-      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1619,6 +1587,38 @@
       "duration_ms": 246133,
       "name": "Nosotros Dos",
       "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Ey",
+        "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
+      },
+      "artists": [
+        {
+          "name": "Barco",
+          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
+        }
+      ],
+      "duration_ms": 197191,
+      "name": "Ey",
+      "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Cu\u00e1ntas Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cu\u00e1ntas Veces M\u00e1s",
+      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
+        "name": "t\u00e1ctica",
+        "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 143557,
+      "name": "t\u00e1ctica",
+      "url": "https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
         "name": "Ojos de Planeta",
         "url": "https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 195604,
       "name": "Ojos de Planeta",
       "url": "https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
-        "name": "t\u00e1ctica",
-        "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
-      },
-      "artists": [
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 143557,
-      "name": "t\u00e1ctica",
-      "url": "https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm"
     },
     {
       "added_at": "2024-05-10 17:32:55",

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-718 songs - 1 day 15 hr 40 min
+719 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-16 | 2023-07-22 |
 | [catalyst](https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:36 | 2023-07-21 | 2023-08-05 |
 | [Catastrophe](https://open.spotify.com/track/3oLZiWvHJqrH648J0NK3LL) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Catastrophe](https://open.spotify.com/album/2GYBDC76X4FFH4zP2gTqZL) | 3:40 | 2024-04-11 | 2024-04-26 |
+| [caught up](https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [look at me but through me](https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb) | 4:13 | 2024-05-08 |  |
 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-19 | 2023-09-16 |
 | [Chakra](https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [All Glows](https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q) | 4:08 | 2021-08-06 | 2023-02-11 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-05 | 2023-12-14 |
@@ -178,7 +179,7 @@
 | [Downside Up](https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 3:36 | 2023-10-05 | 2024-03-22 |
 | [Downside Up](https://open.spotify.com/track/60i6Dj3T1oYGq7aMvUbmO6) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Downside Up](https://open.spotify.com/album/7LX9A3dWjHEqxSCgQYcdaP) | 3:36 | 2023-08-11 | 2023-10-08 |
 | [Dr\. Phil](https://open.spotify.com/track/2XJZf6npI2jDpM6vUpZ8rL) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [Dr\. Phil](https://open.spotify.com/album/3vmxLKxwiqXaXZc59T9BeP) | 3:23 | 2023-06-09 | 2023-07-25 |
-| [Dream](https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Dream / Last Day On Earth](https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8) | 3:15 | 2024-04-11 |  |
+| [Dream](https://open.spotify.com/track/7fk4gASnt2lIZUGD8TDKRe) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Dream / Last Day On Earth](https://open.spotify.com/album/0IYG39hpQ9aeK5ycRnbuW8) | 3:15 | 2024-04-11 | 2024-05-13 |
 | [Dream You Better](https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Dream You Better](https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1) | 1:53 | 2023-10-05 | 2024-03-02 |
 | [Dream You Better](https://open.spotify.com/track/7M2sXW3H1X2ON6oVtmyN21) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Dream You Better](https://open.spotify.com/album/6FUVg8wiP30XkdTrt5I9jz) | 1:53 | 2024-04-04 | 2024-04-19 |
 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 | 2023-05-26 | 2023-12-14 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACPH5x9PklQL2YFcckL96sk",
+  "snapshot_id": "Zj61AAAAAAA5xvp5hWh6IPrK9JtxNY3b",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
+      "duration_ms": 161600,
+      "name": "Mr. Clean",
+      "url": "https://open.spotify.com/track/0lFRuSSXio2yWeSBbw2Gis"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 161600,
-      "name": "Mr. Clean",
-      "url": "https://open.spotify.com/track/0lFRuSSXio2yWeSBbw2Gis"
+      "duration_ms": 167533,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/1Dsb0L3HuBIn11cO5MauJE"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Kemp",
-      "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+      "duration_ms": 206080,
+      "name": "Kemp",
+      "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Black Eye",
-      "url": "https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 176453,
       "name": "Ray",
       "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/4pzwZoV0TGAByCLxlt2QCe"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Farewell My Hell",
-      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 127000,
       "name": "Boring Planet",
       "url": "https://open.spotify.com/track/3OQfwNOhDOodlqBYixpc3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Farewell My Hell",
+      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "The Melancholy Connection",
+        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 184960,
-      "name": "Man Or Mouse",
-      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+      "duration_ms": 204760,
+      "name": "E20 Norr",
+      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melancholy Connection",
-        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 204760,
-      "name": "E20 Norr",
-      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
+      "duration_ms": 184960,
+      "name": "Man Or Mouse",
+      "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
     },
     {
       "added_at": null,

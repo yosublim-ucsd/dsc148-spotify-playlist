@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 46007,
+  "num_followers": 46019,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAAA5rF76r2loy0DwrKvmcjGj",
+  "snapshot_id": "Zj61AAAAAAAzG4bwL9J5KbQgDJQgdOuL",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Ap\u00e1rtame Esta Noche",
+      "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
+        "name": "Triunfador",
+        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Ap\u00e1rtame Esta Noche",
-      "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
+      "duration_ms": 172805,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 174706,
       "name": "En La Misma Cama - Dueto Con El Chapo",
       "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Triunfador",
-        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 172805,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
     },
     {
       "added_at": null,

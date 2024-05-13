@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Siggy & D1ns 🚗
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,436 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,448 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 34 | [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 |
 | 35 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 |
 | 36 | [All This Time](https://open.spotify.com/track/4tOeOhFXge6qusP97j6d17) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [All This Time](https://open.spotify.com/album/1dGFmbHDDtxGEG07U03ieN) | 2:51 |
-| 37 | [Badman](https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Badman](https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5) | 2:31 |
+| 37 | [Badman Anthem](https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Badman Anthem](https://open.spotify.com/album/76YbtnHG2Ona7XpIH8iQQ5) | 2:31 |
 | 38 | [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 |
 | 39 | [Still The Same \(feat\. Eves Laurent\)](https://open.spotify.com/track/5k0GicQBI3GthKAGtIqVZt) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Eagle Vision](https://open.spotify.com/album/51kEJQUtYEmR544wN8cNmt) | 2:31 |
 | 40 | [Anime](https://open.spotify.com/track/4TRAU4fDm8mqq9dDYIggCa) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Anime](https://open.spotify.com/album/56Iw5IpajmiEBINCNEYZtJ) | 4:32 |

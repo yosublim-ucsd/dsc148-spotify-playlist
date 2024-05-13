@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 133261,
+  "num_followers": 133287,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACtoIEqyfjCs7JHpuUfJ9kD",
+  "snapshot_id": "Zj61AAAAAAAD3XMyJU8udyFoa0kU1S2g",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00f3ga",
+        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oral (Olof Dreijer Remix)",
         "url": "https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 321800,
       "name": "Oral - Olof Dreijer Remix",
       "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J\u00f3ga",
-        "url": "https://open.spotify.com/album/3dGUvbnWtfcmXLXHtty0pG"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "J\u00f3ga",
-      "url": "https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
         "url": "https://open.spotify.com/album/45HMht7xfaJqcFgS3o6g1m"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 224827,
       "name": "Ovule (feat. Shygirl) [Sega Bodega Remix]",
       "url": "https://open.spotify.com/track/2WMS4GaMShMxX5yl7VVFK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-165 songs - 10 hr 33 min
+166 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aquellos Diciembres](https://open.spotify.com/track/0j6PkTxrRbuQfWvFNSflkw) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Cinco Pa' las Doce](https://open.spotify.com/album/2OwJBijbad5wVfwakh3Rqj) | 3:16 | 2023-12-20 |  |
 | [Aquí Está El Bobo](https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs) | [Éxitos De Siempre](https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR) | 3:15 | 2023-11-15 | 2024-02-09 |
 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 | 2023-12-05 | 2024-01-29 |
+| [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 | 2023-12-20 |  |
 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 | 2023-11-09 |  |
 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 | 2023-11-09 | 2024-04-09 |
 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 | 2023-12-20 |  |
@@ -171,7 +172,7 @@
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 | 2023-12-20 |  |
 | [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/2Px53AqxDfgxdNcq8t6Y09) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 | 2023-12-20 |  |
 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2023-11-09 | 2024-04-19 |
-| [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 | 2023-12-20 |  |
+| [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 | 2023-12-20 | 2024-05-13 |
 | [Zúmbalo](https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:25 | 2023-11-09 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1695767,
+  "num_followers": 1696128,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "The Silence In Black and White - Re-Issue",
         "url": "https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+      "duration_ms": 228146,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Colourmeinkindness",
         "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "The Downfall Of Us All",
-      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 220026,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "The Downfall Of Us All",
+      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149640,
       "name": "False Pretense",
       "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -523,6 +523,22 @@
       "duration_ms": 233266,
       "name": "Swing, Swing",
       "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -571,22 +587,6 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Smile In Your Sleep",
-      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Boys Like Girls",
         "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Smile In Your Sleep",
+      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Translating the Name",
         "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 230426,
       "name": "All That I've Got",
       "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "The Lonesome Crowded West",
+        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "The Lonesome Crowded West",
-        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
       },
       "artists": [
         {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Polar Opposites",
-      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "L.G. FUAD",
+      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
         "name": "J.A.C.K.",
         "url": "https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 197760,
       "name": "How You Love Me Now",
       "url": "https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "L.G. FUAD",
-      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Anywhere but Here",
         "url": "https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 203293,
       "name": "Bruised and Scarred",
       "url": "https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Summer Bones",
-        "url": "https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh"
-      },
-      "artists": [
-        {
-          "name": "Hit The Lights",
-          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "Fucked up Kids",
-      "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Mean Everything To Nothing",
         "url": "https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 229706,
       "name": "Lucky Denver Mint",
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Summer Bones",
+        "url": "https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh"
+      },
+      "artists": [
+        {
+          "name": "Hit The Lights",
+          "url": "https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "Fucked up Kids",
+      "url": "https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1"
     },
     {
       "added_at": "2024-01-26 17:11:01",

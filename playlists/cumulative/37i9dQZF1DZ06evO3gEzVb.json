@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
+  "description": "This Is Daddy Lumba. Los temas esenciales, todos en una lista.",
   "name": "This Is Daddy Lumba",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 310666,
       "name": "Aben Wo Aha",
       "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+    },
+    {
+      "album": {
+        "name": "Bubra",
+        "url": "https://open.spotify.com/album/5ES10MtwAoKPQ49cLh2RBd"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Ateaa Tina",
+          "url": "https://open.spotify.com/artist/5qo4spmGN6Q2HkxdxOTlWx"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317560,
+      "name": "Adaka Tea",
+      "url": "https://open.spotify.com/track/2VJTJNreZHXBP5ObBNskOj"
     },
     {
       "album": {
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 357825,
       "name": "Yemfa Odo",
       "url": "https://open.spotify.com/track/4F65ejGFmJcmQwR3lxwr2i"

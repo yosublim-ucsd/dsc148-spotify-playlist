@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-95 songs - 11 hr 51 min
+96 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angelina](https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 8:06 | 2021-12-28 | 2023-12-18 |
 | [Angelina \(feat\. NaakMusiQ & Mondli Ngcobo\)](https://open.spotify.com/track/0E22prrkBRLjXHHonYrWbS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 8:06 | 2023-12-17 |  |
 | [Arise And Shine](https://open.spotify.com/track/4xE4nImgVAFtSADMkupgvm) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:29 | 2022-01-08 | 2022-02-25 |
+| [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 | 2024-05-13 |  |
 | [Buya](https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 8:35 | 2022-02-23 | 2022-11-03 |
 | [Buya](https://open.spotify.com/track/7xZj6OXBXA274dQUMnbU06) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 8:35 | 2022-11-02 | 2023-12-14 |
 | [Buya \- Loco Dice Kliptown Love Remix](https://open.spotify.com/track/7JDFf5fWpR9bhpk7UGjpiy) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 7:04 | 2021-12-28 | 2022-02-24 |
@@ -83,7 +84,7 @@
 | [Stimela \(Coal Train\) \- Black Coffee Remix](https://open.spotify.com/track/5zc9sDB5u1KGA1CF8ej2gY) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 7:32 | 2022-04-16 | 2022-07-25 |
 | [Stuck In Your Love](https://open.spotify.com/track/0XKk5tVNAR4gGxwhc8SAcV) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 7:05 | 2021-12-28 | 2023-12-19 |
 | [Stuck In Your Love \(feat\. Azola\)](https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Azola](https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:05 | 2023-12-18 |  |
-| [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 | 2021-12-28 |  |
+| [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 | 2021-12-28 | 2024-05-13 |
 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 | 2021-12-31 |  |
 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 | 2021-12-29 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-10 |  |

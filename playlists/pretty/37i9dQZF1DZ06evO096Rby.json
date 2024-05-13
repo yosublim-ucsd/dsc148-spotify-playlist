@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. Die belangrikste snitte, alles in een speellys.",
-  "num_followers": 31040,
+  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
+  "num_followers": 31091,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jgAAAAACQJ0bqqodYPXp+wEnLcHjH",
+  "snapshot_id": "Zj61AAAAAAAUHdepYYHKzX3embd+2V27",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 156130,
       "name": "Pensaron Que No Podia",
       "url": "https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
     },
     {
       "added_at": null,

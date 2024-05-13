@@ -1,6 +1,6 @@
 {
   "description": "Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Yo-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.",
-  "num_followers": 308102,
+  "num_followers": 308092,
   "original_name": "Relaxing Classical",
   "owner": {
     "name": "Filtr UK",
@@ -110,10 +110,14 @@
         {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         }
       ],
       "duration_ms": 169720,
-      "name": "Rhapsody on a Theme of Paganini",
+      "name": "Rachmaninoff: Rhapsody on a Theme of Paganini",
       "url": "https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4"
     },
     {
@@ -367,17 +371,21 @@
     {
       "added_at": "2024-05-10 11:13:35",
       "album": {
-        "name": "Song to the Moon (from Rusalka)",
+        "name": "Dvor\u00e1k: Song to the Moon (from Rusalka)",
         "url": "https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf"
       },
       "artists": [
         {
           "name": "HAUSER",
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         }
       ],
       "duration_ms": 385106,
-      "name": "Song to the Moon (from Rusalka)",
+      "name": "Dvor\u00e1k: Song to the Moon (from Rusalka)",
       "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"
     },
     {

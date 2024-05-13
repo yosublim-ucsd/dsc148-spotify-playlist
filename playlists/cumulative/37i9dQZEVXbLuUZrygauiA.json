@@ -5829,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/3Lz4uqn0OvbBvwhmxtB1gS"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Canto A La Madre - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/0ON1eJLbEYcRAP6ofjUw0r"
+    },
+    {
+      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 120018,
       "name": "Cierre Rkt",
       "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
@@ -9290,7 +9308,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
@@ -14480,7 +14498,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 168648,
       "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
       "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
@@ -19930,7 +19948,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/7B7HM8ZdsnhmRWc2HlzmzK"
@@ -30450,7 +30468,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 183213,
       "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"

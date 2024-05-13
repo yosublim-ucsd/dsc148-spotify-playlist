@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 681466,
+  "num_followers": 681628,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 321840,
-      "name": "You're a Woman",
-      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 281813,
       "name": "Bakerman",
       "url": "https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 321840,
+      "name": "You're a Woman",
+      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369693,
+      "name": "Material Girl - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Freeez Frame! - The Best of Freeez",
         "url": "https://open.spotify.com/album/04S99UxdngAfYMS40yjcld"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 525493,
       "name": "I.O.U. - 12\" Version",
       "url": "https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Baker Street",
-        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
-      },
-      "artists": [
-        {
-          "name": "Undercover",
-          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Baker Street - Extended Mix",
-      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Baker Street",
+        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
+      },
+      "artists": [
+        {
+          "name": "Undercover",
+          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Baker Street - Extended Mix",
+      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "So Many Men",
         "url": "https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 494466,
       "name": "So Many Men, So Little Time",
       "url": "https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369693,
-      "name": "Material Girl - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Running In The Family (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 374386,
       "name": "Running In The Family - Extended Version",
       "url": "https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Virgin - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -559,6 +575,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Cruel Summer - Extended Version",
+      "url": "https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Westside 25th Anniversary",
         "url": "https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2"
       },
@@ -591,38 +623,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Cruel Summer - Extended Version",
-      "url": "https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Virgin - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Best Remixes",
         "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 427480,
       "name": "Blue Monday ('88) - 12\" Version",
       "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hunting High and Low (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 505093,
-      "name": "The Sun Always Shines on T.V. - Extended Version",
-      "url": "https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Hunting High and Low (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 505093,
+      "name": "The Sun Always Shines on T.V. - Extended Version",
+      "url": "https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Reputation & Rarities",
         "url": "https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 431760,
       "name": "In Private - 12\" Version",
       "url": "https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Tell It to My Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 405280,
-      "name": "Tell It to My Heart - Club Mix",
-      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 397533,
       "name": "Sunshine Reggae - 12\" Version",
       "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Tell It to My Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 405280,
+      "name": "Tell It to My Heart - Club Mix",
+      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
-        }
-      ],
-      "duration_ms": 363760,
-      "name": "C'est la ouate - Extended Version",
-      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+        }
+      ],
+      "duration_ms": 363760,
+      "name": "C'est la ouate - Extended Version",
+      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "90125 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
@@ -967,6 +967,30 @@
       "duration_ms": 422693,
       "name": "Owner of a Lonely Heart - Extended Remix",
       "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Boxed",
+        "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 319480,
+      "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
+      "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -999,30 +1023,6 @@
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Boxed",
-        "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
-      },
-      "artists": [
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 319480,
-      "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
-      "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 306155,
-      "name": "Vamos a la Playa - 1983 Maxi",
-      "url": "https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "High Energy",
         "url": "https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 471026,
       "name": "High Energy (Extended Version)",
       "url": "https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 306155,
+      "name": "Vamos a la Playa - 1983 Maxi",
+      "url": "https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD"
     },
     {
       "added_at": "2024-02-06 15:45:26",

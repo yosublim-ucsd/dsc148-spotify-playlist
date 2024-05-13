@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Lily Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,240 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,393 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 94 | [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 |
 | 95 | [Cowboy Kind of Love](https://open.spotify.com/track/0ZWDipzWCRrSqaZZ9aUlEF) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:03 |
 | 96 | [First Place \(feat\. Little Big Town\)](https://open.spotify.com/track/5FuVTa6sG9FBw80ddVjVOF) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Damascus](https://open.spotify.com/album/0VZCWi3C9oARyCsoZKCMhg) | 3:08 |
-| 97 | [After We Broke Up \- feat\. Frawley](https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [After We Broke Up \(feat\. Frawley\)](https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n) | 2:49 |
+| 97 | [After We Broke Up](https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [After We Broke Up](https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n) | 2:49 |
 | 98 | [Matchmaker](https://open.spotify.com/track/1RJVjtwF6vfw0CF1HIHrlY) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Matchmaker](https://open.spotify.com/album/1Y2OkBKU0Im7RiZeb7imrp) | 2:44 |
 | 99 | [Running Out Of Time](https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 3:30 |
 | 100 | [Heartbreak King](https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Heartbreak King](https://open.spotify.com/album/1HyRowYp3Pvrt8PYcomgpp) | 3:33 |

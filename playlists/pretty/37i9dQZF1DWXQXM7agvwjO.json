@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: CHANKA (Hong Kong)",
-  "num_followers": 95969,
+  "num_followers": 96000,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 283079,
       "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
       "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -951,22 +951,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
       },
       "artists": [
         {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         },
         {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "WDYS",
         "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 144835,
       "name": "WDYS",
       "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "I'm Blessed",
-        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "I'm Blessed",
-      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "MARKERS AND SUCH PENS FLASHDISKS",
         "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 210322,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
         "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 159617,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1263,6 +1279,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "LOVERs ATLAS",
+        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 196977,
+      "name": "WANDERLUST",
+      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
         "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
       },
@@ -1291,38 +1323,6 @@
       "duration_ms": 177214,
       "name": "\u4e00\u500b\u773c\u795e",
       "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "LOVERs ATLAS",
-        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 196977,
-      "name": "WANDERLUST",
-      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "WELL DONE",
-        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 159617,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "favourite jeans",
-        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
+        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
       },
       "artists": [
         {
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 208461,
-      "name": "favourite jeans",
-      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+      "duration_ms": 130666,
+      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "favourite jeans",
+        "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 208461,
+      "name": "favourite jeans",
+      "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
         "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
       },
@@ -1527,6 +1527,26 @@
       "duration_ms": 221688,
       "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
       "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "POWER ANDRE 99",
+        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 375729,
+      "name": "Tik Tak Tok (feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1563,26 +1583,6 @@
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "POWER ANDRE 99",
-        "url": "https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1"
-      },
-      "artists": [
-        {
-          "name": "Silica Gel",
-          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
-        },
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        }
-      ],
-      "duration_ms": 375729,
-      "name": "Tik Tak Tok (feat. So!YoON!)",
-      "url": "https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "Wanna be my",
-        "url": "https://open.spotify.com/album/5m6JuppdsIQmydayDNDk4c"
-      },
-      "artists": [
-        {
-          "name": "LambC",
-          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
-        }
-      ],
-      "duration_ms": 187922,
-      "name": "Wanna be my",
-      "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 186400,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "Wanna be my",
+        "url": "https://open.spotify.com/album/5m6JuppdsIQmydayDNDk4c"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "duration_ms": 187922,
+      "name": "Wanna be my",
+      "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
     },
     {
       "added_at": "2024-05-09 16:00:00",

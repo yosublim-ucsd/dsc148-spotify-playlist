@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 4322,
+  "num_followers": 4326,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "AAAGtDeoJeZKg6cXILLyCNww4vgQWV1x",
+  "snapshot_id": "AAAGtbBumNhz4a9zHxtKyGOygT46XrH3",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -11231,6 +11231,70 @@
       "duration_ms": 187956,
       "name": "Human Crime",
       "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
+    },
+    {
+      "added_at": "2024-05-13 01:01:02",
+      "album": {
+        "name": "Songs for the General Public",
+        "url": "https://open.spotify.com/album/381lBGx4kn8ilgZWuvuDre"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4Vx8R95QgJdPOuXrGXc15G"
+    },
+    {
+      "added_at": "2024-05-13 01:01:02",
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "added_at": "2024-05-13 01:01:02",
+      "album": {
+        "name": "The Last Rotation Of Earth",
+        "url": "https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR"
+      },
+      "artists": [
+        {
+          "name": "BC Camplight",
+          "url": "https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "Kicking Up A Fuss",
+      "url": "https://open.spotify.com/track/0AyKKF4K1lV33LtP40tYlV"
+    },
+    {
+      "added_at": "2024-05-13 01:01:02",
+      "album": {
+        "name": "The Last Rotation Of Earth",
+        "url": "https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR"
+      },
+      "artists": [
+        {
+          "name": "BC Camplight",
+          "url": "https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Last Rotation Of Earth",
+      "url": "https://open.spotify.com/track/07MmMkkxvMpcc9uvfjj46i"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

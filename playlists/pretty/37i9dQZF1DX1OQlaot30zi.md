@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA e Lazza, Geolier, Don Joe, Ele A e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,030 likes - 85 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,055 likes - 85 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

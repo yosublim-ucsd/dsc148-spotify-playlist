@@ -448,10 +448,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-13",
       "duration_ms": 230649,
       "name": "Everything That Rises",
       "url": "https://open.spotify.com/track/4a0Ilq1skteEcXiZieqIBR"
+    },
+    {
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7"
     },
     {
       "album": {

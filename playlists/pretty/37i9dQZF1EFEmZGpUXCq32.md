@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 81 | [Prayer](https://open.spotify.com/track/1ctOqrmjxmJTy8nZhJxFq5) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Bishop Carlton Pearson](https://open.spotify.com/artist/6rXCRf0IiimPocIkaVPaSE) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 1:56 |
 | 82 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 |
 | 83 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 |
-| 84 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 |
-| 85 | [Shoutin Music](https://open.spotify.com/track/3zvHWHUDaEu8Z8jv1OIZHT) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 2:26 |
+| 84 | [Shoutin Music](https://open.spotify.com/track/3zvHWHUDaEu8Z8jv1OIZHT) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 2:26 |
+| 85 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 |
 | 86 | [Where'd You Go](https://open.spotify.com/track/0UzISy5ELKspiS6I80xd6J) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
 | 87 | [Glory to God](https://open.spotify.com/track/2hfBqK3ysDWYxtS1nnQ46v) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Judith Christie McAllister](https://open.spotify.com/artist/7AdFvL0MQCUf6B4nRKXY0U) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:19 |
 | 88 | [I'm On Your Side](https://open.spotify.com/track/63GXuiQfdUGDhEXEXuV9id) | [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Brand New](https://open.spotify.com/album/5YALaUtpVJLkSs1oga600L) | 5:03 |
 | 89 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 90 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbRE4gAAAABZZ327lQ4Rswqd5cnMOz1f`
+Snapshot ID: `AbRKwwAAAACS/a3RQoj0G6gN1Wth+FMd`

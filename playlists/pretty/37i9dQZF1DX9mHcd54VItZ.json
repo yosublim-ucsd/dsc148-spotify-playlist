@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=G8Yjoqa-Q16QIr7V7Zklcw\">Zo\u00e9</a>",
-  "num_followers": 18046,
+  "num_followers": 18062,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -93,6 +93,42 @@
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 118603,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Stardust Galaxies",
+        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Push Me to the Floor",
+      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+    },
+    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Vanfokkingtasties Akoesties",
@@ -115,22 +151,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Stardust Galaxies",
-        "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
-      },
-      "artists": [
-        {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Push Me to the Floor",
-      "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -143,22 +163,6 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
-      },
-      "artists": [
-        {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -177,24 +181,20 @@
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
-      "added_at": "2024-05-09 22:00:00",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "ROLE MODEL",
-        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
       "artists": [
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
         }
       ],
-      "duration_ms": 118603,
-      "name": "ROLE MODEL",
-      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2024-05-03 06:46:20",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV"
     },
     {
-      "added_at": "2024-03-29 05:27:40",
-      "album": {
-        "name": "Langs Die Straat",
-        "url": "https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj"
-      },
-      "artists": [
-        {
-          "name": "Juan Griffith",
-          "url": "https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN"
-        }
-      ],
-      "duration_ms": 211578,
-      "name": "Langs Die Straat",
-      "url": "https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "I'm On My Way",
@@ -779,6 +763,22 @@
       "duration_ms": 188213,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG"
+    },
+    {
+      "added_at": "2024-03-29 05:27:40",
+      "album": {
+        "name": "Langs Die Straat",
+        "url": "https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj"
+      },
+      "artists": [
+        {
+          "name": "Juan Griffith",
+          "url": "https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN"
+        }
+      ],
+      "duration_ms": 211578,
+      "name": "Langs Die Straat",
+      "url": "https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5"
     },
     {
       "added_at": "2024-02-29 22:00:00",

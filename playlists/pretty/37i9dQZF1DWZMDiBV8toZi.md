@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Kalisway
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 27 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 27 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

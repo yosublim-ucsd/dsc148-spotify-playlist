@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-158 songs - 8 hr 19 min
+159 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Broken Love](https://open.spotify.com/track/2sru5unW8B5KguId0rGVA0) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Jay Tastic](https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG) | [Broken Love](https://open.spotify.com/album/7loqEPn2MK5ckcn3SMGghh) | 2:36 | 2024-01-05 | 2024-01-26 |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-09 | 2024-03-02 |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-23 | 2024-04-09 |
+| [California \- JR Ellison Mix](https://open.spotify.com/track/6JLiMZkORLbOVGjhXkYkbo) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd), [JR Ellison](https://open.spotify.com/artist/1JB3V4gaOjnAp6YyWO5NZ0) | [Daybreak](https://open.spotify.com/album/3ygQNdznGE9Er4wsCBWFjy) | 3:13 | 2024-05-12 |  |
 | [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 | 2022-12-20 | 2024-05-03 |
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-12-20 | 2023-10-24 |
 | [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 | 2023-10-14 |
@@ -118,7 +119,7 @@
 | [Plein air](https://open.spotify.com/track/41dazLpdMmO7Kr0yQCotfn) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49), [Hannah Young](https://open.spotify.com/artist/02Vjcy8yd6eHu8QMYNMIAf) | [Plein air](https://open.spotify.com/album/5Z2vbeJm4nv74ZctGS0HyS) | 2:45 | 2022-12-20 |  |
 | [Polar](https://open.spotify.com/track/26928XsDiGoSxtYvrGGccl) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Polar](https://open.spotify.com/album/7MlDY9XBpz12WgZP8mG4fI) | 4:21 | 2023-03-03 | 2023-05-13 |
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2022-12-20 | 2023-02-04 |
-| [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 | 2024-01-25 |  |
+| [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 | 2024-01-25 | 2024-05-13 |
 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 | 2022-12-20 | 2023-12-23 |
 | [Running In A Dream](https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x) | 4:29 | 2023-12-01 |  |
 | [Save Me](https://open.spotify.com/track/3VGjvg0zqD6dh24TzJlo7l) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Save Me](https://open.spotify.com/album/7puwo6jAXZxJX5DSWC0GvA) | 2:35 | 2023-10-05 | 2024-01-06 |

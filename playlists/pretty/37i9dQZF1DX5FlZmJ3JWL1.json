@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 760246,
+  "num_followers": 760341,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-04-10 16:10:33",
       "album": {
+        "name": "Love Vibration",
+        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 180487,
+      "name": "Love Vibration",
+      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
+    },
+    {
+      "added_at": "2024-04-10 16:10:33",
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 154838,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
-    },
-    {
-      "added_at": "2024-04-10 16:10:33",
-      "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2024-04-10 16:10:33",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-04-10 16:10:33",
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2024-04-10 16:10:33",
+      "album": {
         "name": "River Flows in You",
         "url": "https://open.spotify.com/album/2Jh2pGXG4o5yVr7YxpucGT"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
-    },
-    {
-      "added_at": "2024-04-10 16:10:33",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2024-04-10 16:10:33",
@@ -891,30 +891,6 @@
     {
       "added_at": "2024-04-10 16:10:33",
       "album": {
-        "name": "The Way I Like It",
-        "url": "https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u"
-      },
-      "artists": [
-        {
-          "name": "dj tani",
-          "url": "https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "The Way I Like It",
-      "url": "https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm"
-    },
-    {
-      "added_at": "2024-04-10 16:10:33",
-      "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
+    },
+    {
+      "added_at": "2024-04-10 16:10:33",
+      "album": {
+        "name": "The Way I Like It",
+        "url": "https://open.spotify.com/album/1NVxMrGf1whPetnRrQXI5u"
+      },
+      "artists": [
+        {
+          "name": "dj tani",
+          "url": "https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "The Way I Like It",
+      "url": "https://open.spotify.com/track/5ybpVGn3epiwjD9CdaJyqm"
     },
     {
       "added_at": "2024-04-10 16:10:33",

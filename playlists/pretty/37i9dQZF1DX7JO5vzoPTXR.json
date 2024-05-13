@@ -1,13 +1,221 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c\">Alysa Vanderheym</a>",
-  "num_followers": 70627,
+  "description": "Songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff?si=1ScuKID7TOqVHP4NtLFEHQ\">Kelli-Leigh</a>",
+  "num_followers": 70661,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zg2IcQAAAACBKteiVNjK13/yIumr25M5",
+  "snapshot_id": "ZkFXxAAAAADp4m4q4o5pq4uFsMiKz5r0",
   "tracks": [
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Silence Is Loud",
+        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/6c21bVRfGC8IOXvQVQ2UTb"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Anyone I Want (Flava D Remix)",
+        "url": "https://open.spotify.com/album/6iIzb7K84jMU6j1JzGPQpe"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Anyone I Want - Flava D Remix",
+      "url": "https://open.spotify.com/track/3yKfXgsfIxtTvJYIBea3o1"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Don't Let It Stop",
+        "url": "https://open.spotify.com/album/5SNweEWlo0pIpMMgBtSAoU"
+      },
+      "artists": [
+        {
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 146107,
+      "name": "Don't Let It Stop",
+      "url": "https://open.spotify.com/track/3xH49rV1s1gcLjv88SdAcp"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Songs In The Key Of Internet",
+        "url": "https://open.spotify.com/album/5xHwBoACmq0b17EhEFHCeU"
+      },
+      "artists": [
+        {
+          "name": "Rachel K Collier",
+          "url": "https://open.spotify.com/artist/0hWL8sffP07PbVm5ilnf1o"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "I Wish You Well",
+      "url": "https://open.spotify.com/track/1exuw4eDWzIGOUF1OrtvrU"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Don't Understand",
+        "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Don't Understand",
+      "url": "https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Queen's Gambit",
+        "url": "https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC"
+      },
+      "artists": [
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        },
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Queen's Gambit",
+      "url": "https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Perpetua",
+        "url": "https://open.spotify.com/album/3BMOjUesezVlT2aGLuKMAq"
+      },
+      "artists": [
+        {
+          "name": "Ali Stone",
+          "url": "https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv"
+        }
+      ],
+      "duration_ms": 259755,
+      "name": "Perpetua",
+      "url": "https://open.spotify.com/track/6PM57DpY05uvyrJ8QT2zGy"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "No More Tears",
+        "url": "https://open.spotify.com/album/2ZeYpugE1qeuINYjRzRaei"
+      },
+      "artists": [
+        {
+          "name": "Naomi Kimpenu",
+          "url": "https://open.spotify.com/artist/3k86tPTadNVbaxe89rFo1C"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/3zHbzeovM5WNhP08wxJegN"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "ROOM (DEMOS)",
+        "url": "https://open.spotify.com/album/4Vh5vfq0gt8IHMgKwOOwy5"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 106202,
+      "name": "sad song",
+      "url": "https://open.spotify.com/track/5fNVTDiCA91srt8Afu7DCW"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "LUCKY",
+        "url": "https://open.spotify.com/album/3e7mUsmKa3rreO68maS1Kx"
+      },
+      "artists": [
+        {
+          "name": "MAY",
+          "url": "https://open.spotify.com/artist/2x2XcuR2lkrJHzDjnYZIk5"
+        }
+      ],
+      "duration_ms": 228170,
+      "name": "LUCKY",
+      "url": "https://open.spotify.com/track/1L9G21KaqCywQdTVMKu3Fh"
+    },
+    {
+      "added_at": "2024-05-12 23:59:00",
+      "album": {
+        "name": "High Off This (Remixes)",
+        "url": "https://open.spotify.com/album/25uAwymcG1kgVUJjowwsMg"
+      },
+      "artists": [
+        {
+          "name": "Emmavie",
+          "url": "https://open.spotify.com/artist/30SZetOBMEael27tboxz7f"
+        }
+      ],
+      "duration_ms": 232028,
+      "name": "High Off This",
+      "url": "https://open.spotify.com/track/7k71m4zA8wS1y773xGE6RE"
+    },
     {
       "added_at": "2024-04-03 00:01:00",
       "album": {
@@ -435,22 +643,6 @@
     {
       "added_at": "2024-03-01 09:10:17",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/1cvSGyb6pfK5wyBrpQ0Moc"
-      },
-      "artists": [
-        {
-          "name": "Josie Beth",
-          "url": "https://open.spotify.com/artist/0tx30QHS1hiavYhtFV2PQE"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/1ed0Rw1gfRm52dWsGhJFpQ"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -467,34 +659,18 @@
     {
       "added_at": "2024-03-01 09:10:17",
       "album": {
-        "name": "DOWN 2 EARTH",
-        "url": "https://open.spotify.com/album/5hex99Indqa3PADdOOFmDi"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 162111,
-      "name": "RAGGA",
-      "url": "https://open.spotify.com/track/2b12amwDh2479qd4d56HvG"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "voldemort",
-        "url": "https://open.spotify.com/album/3gFvSRrNAGtJqHaZ8Yt2xm"
-      },
-      "artists": [
-        {
-          "name": "Eva Snyder",
-          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "voldemort",
-      "url": "https://open.spotify.com/track/0DWvRCLSFFNFtN4VQnueiI"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-12-06 05:00:00",
@@ -515,170 +691,6 @@
       "duration_ms": 219207,
       "name": "Love Me In Chapters II",
       "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Luv Like",
-        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 186025,
-      "name": "Luv Like",
-      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-04-03 00:01:00",
-      "album": {
-        "name": "Give Me Vogue",
-        "url": "https://open.spotify.com/album/0p0DW65rytEjBbP3UqHahD"
-      },
-      "artists": [
-        {
-          "name": "Dionne",
-          "url": "https://open.spotify.com/artist/4XHiRwvgzQ1bIhZtfdhdNk"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Golden Boy",
-      "url": "https://open.spotify.com/track/7puqViht1t1uMzI17A4UaO"
-    },
-    {
-      "added_at": "2024-03-01 09:10:17",
-      "album": {
-        "name": "happy im",
-        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "happy im",
-      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/4Zwd5fCBJNaleuzzXK1eBS"
-      },
-      "artists": [
-        {
-          "name": "LO LA",
-          "url": "https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/6iR9CU3z6Kwn1saPuJxIZj"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "I've Made Mistakes",
-        "url": "https://open.spotify.com/album/0D6TevsmnsuGE3rUgPMnAj"
-      },
-      "artists": [
-        {
-          "name": "teddy<3",
-          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
-        },
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        }
-      ],
-      "duration_ms": 260991,
-      "name": "I've Made Mistakes",
-      "url": "https://open.spotify.com/track/1tV3FthY6AyomujuaAxEFg"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "The Hell We Made",
-        "url": "https://open.spotify.com/album/6imhY5Rk6CxdCIXoQIDP7a"
-      },
-      "artists": [
-        {
-          "name": "Dresage",
-          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/5OBdvD40QVMlHWONtOUUVr"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Denver",
-        "url": "https://open.spotify.com/album/1gLV0r2aZoTLbGADaGuzhP"
-      },
-      "artists": [
-        {
-          "name": "Liv Miraldi",
-          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Denver",
-      "url": "https://open.spotify.com/track/17lzfz6X01zjK7gt07o3PR"
-    },
-    {
-      "added_at": "2023-12-06 05:00:00",
-      "album": {
-        "name": "Figure of 8",
-        "url": "https://open.spotify.com/album/4bZARxXUqwelwoJqfRZRvI"
-      },
-      "artists": [
-        {
-          "name": "Natalie Shay",
-          "url": "https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ"
-        }
-      ],
-      "duration_ms": 191063,
-      "name": "Figure of 8",
-      "url": "https://open.spotify.com/track/5y6BzS7flAK8m8c9sM23LG"
-    },
-    {
-      "added_at": "2024-04-03 16:48:49",
-      "album": {
-        "name": "RECOVER",
-        "url": "https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 161540,
-      "name": "RECOVER",
-      "url": "https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw"
     }
   ],
   "unique_name": "Created by Women",

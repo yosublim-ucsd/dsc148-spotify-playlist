@@ -4,7 +4,7 @@
 
 > Updated daily, with the latest popular singles!
 
-232 songs - 12 hr 50 min
+233 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Charlie Chaplin Ate My Son](https://open.spotify.com/track/3Sl9f6fSRnSGqeR1KXCrUq) | [Billy Cobb](https://open.spotify.com/artist/1jIl0sLvlOzGpT2RqPBfyE) | [Charlie Chaplin Ate My Son](https://open.spotify.com/album/63m66lhJxLFySOGRjBMAjX) | 3:00 | 2024-05-06 | 2024-05-09 |
 | [Chevy Tahoe](https://open.spotify.com/track/0CLiYWy7oPUicVElT0woQH) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Chevy Tahoe](https://open.spotify.com/album/783jGL2koLrnwiC0yPWqy2) | 2:27 | 2024-05-02 | 2024-05-04 |
 | [City Lights](https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/02BmWPTStBXitd8WJkbWQA) | 4:20 | 2024-05-02 | 2024-05-04 |
-| [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 | 2024-05-10 |  |
+| [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 | 2024-05-10 | 2024-05-13 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-05-08 | 2024-05-10 |
 | [Collarbone](https://open.spotify.com/track/6qA0GWhhaEPPb3I4EVMWye) | [Sparks The Rescue](https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL) | [Collarbone](https://open.spotify.com/album/041wXYMzljiGi2d8y2ObKX) | 3:22 | 2024-04-28 | 2024-05-01 |
 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 | 2024-04-27 | 2024-05-01 |
@@ -105,6 +105,7 @@
 | [guardian](https://open.spotify.com/track/4lm8Yub4q6Tc1U8nBHnp87) | [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY), [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [guardian](https://open.spotify.com/album/7EPcsutcoS80QtOzM2fI4L) | 4:25 | 2024-05-11 |  |
 | [Hatchet](https://open.spotify.com/track/5giQHyWEKuZa19kxW3AqTb) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Hatchet](https://open.spotify.com/album/3xvqkNzjRAh1O50FjapuJh) | 2:19 | 2024-04-26 | 2024-04-27 |
 | [Headrush](https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Headrush](https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX) | 2:50 | 2024-05-10 | 2024-05-12 |
+| [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 | 2024-05-12 |  |
 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 | 2024-05-03 | 2024-05-08 |
 | [Hollywouldn't](https://open.spotify.com/track/1FeNJM6iuGtnoNVqvoIRQA) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Hollywouldn't](https://open.spotify.com/album/5nMD0LZaLjeh9yaqQbLurW) | 2:55 | 2024-05-10 |  |
 | [Honolulu](https://open.spotify.com/track/2pYreBBGE8sWlLH12UMfTt) | [Da$H](https://open.spotify.com/artist/6xFrZbce9KH5APjBe4QVNa) | [DOUBLE A\-SIDE: VOL.8](https://open.spotify.com/album/2LjhXvI32wAJNLCk6YlN8K) | 2:45 | 2024-05-09 | 2024-05-11 |

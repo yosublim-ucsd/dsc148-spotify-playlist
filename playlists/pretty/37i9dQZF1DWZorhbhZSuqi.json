@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f Lana Del Rey",
-  "num_followers": 14228,
+  "num_followers": 14255,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 235988,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 338053,
+      "name": "Frou-frou Foxes in Midsummer Fires",
+      "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "Barrow",
         "url": "https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V"
       },
@@ -927,18 +943,34 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 175644,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Part III",
+      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -959,38 +991,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 338053,
-      "name": "Frou-frou Foxes in Midsummer Fires",
-      "url": "https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 175644,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 231786,
       "name": "Only When I",
       "url": "https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Part III",
-      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Parallelograms",
-        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
-      },
-      "artists": [
-        {
-          "name": "Linda Perhacs",
-          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
-        }
-      ],
-      "duration_ms": 157346,
-      "name": "Hey, Who Really Cares",
-      "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "Music Under the Mountain",
         "url": "https://open.spotify.com/album/0ZlUNNuBAM8wOpJU7OkIYZ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 215864,
       "name": "Music Under the Mountain",
       "url": "https://open.spotify.com/track/6XgsKSk9ez4vWUNjJ8Z4ty"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Parallelograms",
+        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
+      },
+      "artists": [
+        {
+          "name": "Linda Perhacs",
+          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
+        }
+      ],
+      "duration_ms": 157346,
+      "name": "Hey, Who Really Cares",
+      "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
+        "name": "Both Ways Open Jaws",
+        "url": "https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja"
+      },
+      "artists": [
+        {
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Dust It Off",
+      "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
         "name": "MOOMINVALLEY (Official Soundtrack)",
         "url": "https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 291106,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
-        "name": "Both Ways Open Jaws",
-        "url": "https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Dust It Off",
-      "url": "https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe"
     },
     {
       "added_at": "2024-05-07 00:40:46",

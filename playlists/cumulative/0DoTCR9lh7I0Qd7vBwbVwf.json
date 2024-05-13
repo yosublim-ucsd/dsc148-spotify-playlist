@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "Early Blooming",
+        "url": "https://open.spotify.com/album/6VezKxovuak2i6gSgjHa7y"
+      },
+      "artists": [
+        {
+          "name": "Heart Memories",
+          "url": "https://open.spotify.com/artist/0ZDGW2qk1TjhOJ68hjUquX"
+        },
+        {
+          "name": "Lifted LoFi",
+          "url": "https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108193,
+      "name": "Early Blooming",
+      "url": "https://open.spotify.com/track/5Mgst9ZjtoY4T0qchbTByK"
+    },
+    {
+      "album": {
         "name": "Nebulous Tranquility",
         "url": "https://open.spotify.com/album/306eNwTaqKJzsnxxZXdcGD"
       },
@@ -1538,6 +1560,24 @@
       "duration_ms": 116315,
       "name": "Jazz Vibes",
       "url": "https://open.spotify.com/track/0RgCYIFbXzkJdeM5eSUauK"
+    },
+    {
+      "album": {
+        "name": "Just Drift Away",
+        "url": "https://open.spotify.com/album/5IzBOgZ6fuxVE4XKpjnFsw"
+      },
+      "artists": [
+        {
+          "name": "Gerold Kukulenz Chillin' Beats",
+          "url": "https://open.spotify.com/artist/2hPvqPJauAXU8f6u8GpuXo"
+        }
+      ],
+      "date_added": "2024-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148874,
+      "name": "Just Drift Away",
+      "url": "https://open.spotify.com/track/1Rhf0RDABQnJSfxlSK1u1B"
     },
     {
       "album": {

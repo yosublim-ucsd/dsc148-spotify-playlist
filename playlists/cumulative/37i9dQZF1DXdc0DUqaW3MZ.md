@@ -4,7 +4,7 @@
 
 > 
 
-375 songs - 22 hr 31 min
+376 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
 | [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 | 2022-06-20 | 2023-05-24 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
-| [Alone](https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Alone](https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb) | 2:18 | 2024-04-04 |  |
+| [Alone](https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Alone](https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb) | 2:18 | 2024-04-04 | 2024-05-13 |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
 | [Anyone Around](https://open.spotify.com/track/15fzONpuDzch5temggfVIv) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All the Time](https://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA) | 2:49 | 2022-06-20 | 2022-11-13 |
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2021-12-07 | 2022-07-29 |
@@ -302,6 +302,7 @@
 | [Run \- Gelka Remix](https://open.spotify.com/track/323vCZcxCExSrNDfxe4Scy) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run \(Gelka Remix\)](https://open.spotify.com/album/15neb2JEHQOgIPgijRArt2) | 4:08 | 2022-04-11 | 2022-04-16 |
 | [S.A.D](https://open.spotify.com/track/2tdEGV3mQJ3qhGYD0KIlaB) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [S.A.D](https://open.spotify.com/album/0bBGzAua73MV43eiD6l5SE) | 3:20 | 2022-04-11 | 2022-04-15 |
 | [safe](https://open.spotify.com/track/3SUG6RZt3dSRM9jqJe460Z) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [zero](https://open.spotify.com/album/42rdDg3nul8w1TIhDFsRgx) | 3:28 | 2021-12-07 | 2022-07-29 |
+| [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 | 2024-04-04 |  |
 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 | 2022-04-11 | 2022-10-28 |
 | [See Through](https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [See Through](https://open.spotify.com/album/2kXgvPzC5fX5kbbRChFOWl) | 3:31 | 2024-04-04 |  |
 | [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2021-12-07 | 2022-04-20 |

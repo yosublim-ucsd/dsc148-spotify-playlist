@@ -2,7 +2,7 @@
 
 ### [This Is Buddy Guy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1i8qVD)
 
-> This is Buddy Guy\. The essential tracks, all in one playlist.
+> This is: Buddy Guy\. Alle wichtigen Tracks in einer Playlist.
 
 111 songs - 8 hr 12 min
 
@@ -55,7 +55,7 @@
 | [I Love the Life I Live](https://open.spotify.com/track/5p529gnH10F0ZSUmLCny0P) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Singer](https://open.spotify.com/album/0BpycVTcJp8DG1YansP89d) | 2:45 | 2023-07-10 | 2023-09-26 |
 | [I Put a Spell On You \(feat\. Carlos Santana\)](https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:04 | 2022-08-05 | 2024-05-12 |
 | [I Smell A Rat](https://open.spotify.com/track/567qPkLuj3z5rouyu5ZcQC) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Stone Crazy](https://open.spotify.com/album/1olv8nxTRKYNDUhDJlUfbG) | 9:13 | 2022-08-05 | 2023-02-12 |
-| [I Smell Trouble](https://open.spotify.com/track/4sVhMHu4CkQ8G9HKitmWfU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slippin' In](https://open.spotify.com/album/4vPx0GEomsLo0KStLprAZ2) | 3:16 | 2023-09-09 | 2024-05-12 |
+| [I Smell Trouble](https://open.spotify.com/track/4sVhMHu4CkQ8G9HKitmWfU) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Slippin' In](https://open.spotify.com/album/4vPx0GEomsLo0KStLprAZ2) | 3:16 | 2023-09-09 |  |
 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 | 2023-08-19 |  |
 | [I've Got A Feeling](https://open.spotify.com/track/20JNbLWxTgdL2fbpSMYPdA) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 4:01 | 2022-10-04 | 2022-10-13 |
 | [I've Got A Right To Love My Woman](https://open.spotify.com/track/17E130U5fvS7rbMrVnbanP) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live At The Checkerboard Lounge \- Chicago 1979](https://open.spotify.com/album/3uU8G6JPjc63efWkuJLHNb) | 9:11 | 2022-08-13 | 2022-08-15 |
@@ -70,7 +70,7 @@
 | [Mary Ann](https://open.spotify.com/track/6aENAvyxfR6LU8KPg5jnUV) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 3:11 | 2024-01-13 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:32 | 2022-08-05 |  |
 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 | 2024-05-01 |  |
-| [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 | 2022-08-05 |  |
+| [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 | 2022-08-05 | 2024-05-13 |
 | [Midnight Train \(feat\. Jonny Lang\)](https://open.spotify.com/track/3zhWfTjCmrfcYTZy7C4OaD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:20 | 2022-08-05 |  |
 | [Miss Ida B](https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 6:24 | 2022-08-05 |  |
 | [Miss You \- 2023 Mix](https://open.spotify.com/track/0uBk2amcbjkFvzcfwOPGGW) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Miss You \(2023 Mix\)](https://open.spotify.com/album/0HEo96Rd2BGGXsqWP1UYp6) | 3:20 | 2023-11-10 | 2023-12-22 |
