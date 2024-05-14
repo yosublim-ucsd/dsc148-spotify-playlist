@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-1,004 songs - 1 day 16 hr 56 min
+1,005 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 | 2023-06-24 |
 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 | 2024-04-03 |  |
 | [talk.](https://open.spotify.com/track/0MQ1IFCxXMXD56f5mkUPav) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [talk.](https://open.spotify.com/album/3ulwoPmi0kXzUbOvGuRn8l) | 2:15 | 2024-02-02 |  |
+| [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-13 |  |
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-25 | 2023-06-02 |
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-05-06 |
 | [TANGO](https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [TANGO](https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh) | 1:59 | 2024-01-12 | 2024-02-24 |

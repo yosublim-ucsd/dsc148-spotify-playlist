@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 230881,
+  "num_followers": 231042,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Strongest",
         "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 191021,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "SPIN BACK!",
-        "url": "https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "SPIN BACK!",
-      "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "VICIOUS CYCLE",
         "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "SPIN BACK!",
+        "url": "https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "SPIN BACK!",
+      "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/3RX8fvorgRlQfdbYRlVzrl"
       },
@@ -823,42 +823,6 @@
       "duration_ms": 130321,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/3CEr4pMBuYsQBiGneXlDTB"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "What Are We Waiting For? (Gregatron Remix)",
-        "url": "https://open.spotify.com/album/4uH31kFJI6iLJogC6gQHJ4"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Gregatron",
-          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "What Are We Waiting For? (Gregatron Remix)",
-      "url": "https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Winners Side",
-        "url": "https://open.spotify.com/album/4WBc9bRR0iA7o5e7dPnOqP"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 194299,
-      "name": "Winners Side",
-      "url": "https://open.spotify.com/track/5G3owEcniITWFSLvNMxLOd"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -879,6 +843,42 @@
       "duration_ms": 184500,
       "name": "In The Light",
       "url": "https://open.spotify.com/track/4NTtsz3d37EUTpqEJVKGus"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Winners Side",
+        "url": "https://open.spotify.com/album/4WBc9bRR0iA7o5e7dPnOqP"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 194299,
+      "name": "Winners Side",
+      "url": "https://open.spotify.com/track/5G3owEcniITWFSLvNMxLOd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "What Are We Waiting For? (Gregatron Remix)",
+        "url": "https://open.spotify.com/album/4uH31kFJI6iLJogC6gQHJ4"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Gregatron",
+          "url": "https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "What Are We Waiting For? (Gregatron Remix)",
+      "url": "https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -955,8 +955,8 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Signing Bonus",
-        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 159998,
-      "name": "Tables Turned",
-      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+        "name": "Signing Bonus",
+        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+      "duration_ms": 159998,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Full Metal",
-        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Kay Sade",
-          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Full Metal",
-      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "RIVALS",
         "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 187118,
       "name": "RIVALS",
       "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Full Metal",
+        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kay Sade",
+          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Full Metal",
+      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
+      },
+      "artists": [
+        {
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
       },
       "artists": [
         {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
-      },
-      "artists": [
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Free Indeed",
         "url": "https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13"
       },
@@ -1815,6 +1815,22 @@
       "duration_ms": 187135,
       "name": "Free Indeed",
       "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1839,22 +1855,6 @@
       "duration_ms": 215693,
       "name": "Love It Here - Remix",
       "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2024-03-20 10:50:51",

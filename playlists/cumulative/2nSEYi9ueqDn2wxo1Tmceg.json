@@ -6957,6 +6957,28 @@
     },
     {
       "album": {
+        "name": "I Forget (Richard X Remixes)",
+        "url": "https://open.spotify.com/album/1FYt31PDTU0mBGnRbwIJC2"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Richard x",
+          "url": "https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346255,
+      "name": "I Forget - Richard X's Ihmisliigatyyli Remix",
+      "url": "https://open.spotify.com/track/1NaAATQvwsSdIy6CdHo8iT"
+    },
+    {
+      "album": {
         "name": "Iechyd Da",
         "url": "https://open.spotify.com/album/6ucqrUvJaIMZTdPnvW4fxQ"
       },

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Şehinşah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,954 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,000 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SUİKAST MEVSİMİ](https://open.spotify.com/track/1UwqT7LDL8rarnQxiLu4DZ) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [IKARUS](https://open.spotify.com/album/1zkZPiKRqqVJPKIqap3SU8) | 2:28 |
-| 2 | [Süzülerek](https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [DÖNMEK İÇİN EVE](https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O) | 3:36 |
-| 3 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
-| 4 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
+| 2 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
+| 3 | [Süzülerek](https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [DÖNMEK İÇİN EVE](https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O) | 3:36 |
+| 4 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
 | 5 | [anlatamam](https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [anlatamam](https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf) | 2:02 |
-| 6 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
+| 6 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 | 7 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
-| 8 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
+| 8 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
 | 9 | [neptün](https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [taycan v1](https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W) | 2:44 |
 | 10 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 |
 | 11 | [Galaktik](https://open.spotify.com/track/4HD2JqwQtTI1zrHHA8dOAc) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Ölüm](https://open.spotify.com/album/46IfShPkpXO3MrHkv6jQNW) | 2:36 |
 | 12 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 |
-| 13 | [Giderim](https://open.spotify.com/track/0uGvVYlbjieugHG7ANUj5k) | [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Uni\-Q](https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf) | [Giderim](https://open.spotify.com/album/0tAlX5pl15ZPHPdKWx8uBf) | 2:52 |
-| 14 | [SULU SULU](https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [IMPARATOR pt.1](https://open.spotify.com/album/4KHZ9YcyFDWH4DVro6EKjo) | 2:37 |
-| 15 | [Koyu Siyah](https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Doruk Erester](https://open.spotify.com/artist/3CwnAZ3czmquojmi4X3OKp) | [Koyu Siyah](https://open.spotify.com/album/3e1pH4DC88DXopF9Tk1rvi) | 4:46 |
+| 13 | [SULU SULU](https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [IMPARATOR pt.1](https://open.spotify.com/album/4KHZ9YcyFDWH4DVro6EKjo) | 2:37 |
+| 14 | [Koyu Siyah](https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Doruk Erester](https://open.spotify.com/artist/3CwnAZ3czmquojmi4X3OKp) | [Koyu Siyah](https://open.spotify.com/album/3e1pH4DC88DXopF9Tk1rvi) | 4:46 |
+| 15 | [Giderim](https://open.spotify.com/track/0uGvVYlbjieugHG7ANUj5k) | [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Uni\-Q](https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf) | [Giderim](https://open.spotify.com/album/0tAlX5pl15ZPHPdKWx8uBf) | 2:52 |
 | 16 | [Say Goodbye 2.0 \(feat\. Motive & Yung Kafa & Kücük Efendi\)](https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [Say Goodbye 2.0 \(feat\. Motive & Yung Kafa & Kücük Efendi\)](https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5) | 3:30 |
 | 17 | [Uykularından Ol](https://open.spotify.com/track/7aNDRqnslAhK2dWE0jMwTA) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Uykularından Ol](https://open.spotify.com/album/4o4qCzi4KJTqJmVUMuIfN3) | 3:05 |
 | 18 | [Derman](https://open.spotify.com/track/18IoeLnGXejbIRlZTa2uS6) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71), [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [Bipolar](https://open.spotify.com/album/1cP8GzByLANV3jDbPT2zGc) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `Zj05UAAAAACqynD9lPov658SHUAW1Bsg`
+Snapshot ID: `ZkHOmgAAAABs/IryegttELefZyGg3+67`

@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Hold On, We're Going Home",
+        "url": "https://open.spotify.com/album/2dajwlAFBFqyze4RO0HDw0"
+      },
+      "artists": [
+        {
+          "name": "Wasted Glitter",
+          "url": "https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177881,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/1eLUU187vZjd2hzWgNxOb4"
+    },
+    {
+      "album": {
         "name": "Homesick (Lo-Fi)",
         "url": "https://open.spotify.com/album/24SAyo6rBVmV13Ga0dFIxT"
       },

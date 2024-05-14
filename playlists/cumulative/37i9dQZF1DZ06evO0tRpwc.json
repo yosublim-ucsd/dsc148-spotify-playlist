@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 145024,
       "name": "Personagem",
       "url": "https://open.spotify.com/track/4sN879tIJhd7i88yBxQlnH"
@@ -1162,6 +1162,24 @@
       "duration_ms": 320760,
       "name": "Ru\u00eddos",
       "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo: Sessions",
+        "url": "https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318002,
+      "name": "Sala",
+      "url": "https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu"
     },
     {
       "album": {

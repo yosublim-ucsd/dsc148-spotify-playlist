@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,033 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,226 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Stormy Weather](https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:10 |
 | 80 | [The Very Thought Of You](https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 4:16 |
 | 81 | [The Look Of Love](https://open.spotify.com/track/6ERQqdIkr7Rp4tt52Eep6r) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Very Best Of Diana Krall \(UK Version\)](https://open.spotify.com/album/73DrrvGY20s9bAAejnJ1s7) | 4:41 |
-| 82 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
-| 83 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
+| 82 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
+| 83 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 | 84 | [Misty](https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [4 Beautiful Jazz Divas \(40 Tracks Remastered\)](https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR) | 3:02 |
 | 85 | [My Funny Valentine](https://open.spotify.com/track/5tPdH3Qm9exYGRUG0vUrr7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Hits](https://open.spotify.com/album/7IfeIgmH2s46g1RhK0wfEw) | 3:51 |
 

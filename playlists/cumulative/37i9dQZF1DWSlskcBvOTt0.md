@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-660 songs - 2 day 13 hr 2 min
+661 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Chaque Fois](https://open.spotify.com/track/4egICwEusGUJsGEaTwGscm) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Chaque Fois](https://open.spotify.com/album/4wyqLUE8pvyn1epJLJsiaJ) | 7:30 | 2021-04-21 | 2022-07-27 |
 | [Children](https://open.spotify.com/track/6iMyAaTKUoVOWSr4o0vESO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Children](https://open.spotify.com/album/4NH7dyo0xKA0Tw19ZIeeYR) | 4:35 | 2023-12-01 | 2024-05-11 |
 | [Children Of 95](https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Children Of 95](https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv) | 5:57 | 2023-09-22 | 2023-11-21 |
-| [Church Lady](https://open.spotify.com/track/51yWqSMUy8v8VgyEAFQ7bd) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Danil Wright](https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA) | [Church Lady](https://open.spotify.com/album/0es3nutsWIhKHheM8JCeZA) | 3:34 | 2024-04-19 |  |
+| [Church Lady](https://open.spotify.com/track/51yWqSMUy8v8VgyEAFQ7bd) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Danil Wright](https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA) | [Church Lady](https://open.spotify.com/album/0es3nutsWIhKHheM8JCeZA) | 3:34 | 2024-04-19 | 2024-05-14 |
 | [CIRCLES \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [CIRCLES \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6) | 5:21 | 2023-01-20 | 2023-04-19 |
 | [Clareou](https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tato](https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Clareou](https://open.spotify.com/album/5SuLjjAbyRUaaaIuB5wZmv) | 3:02 | 2024-04-19 |  |
 | [Closing Doors \- Edit](https://open.spotify.com/track/72kB1jI3G6H3zv33Qwmmhe) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Closing Doors / Burgundy](https://open.spotify.com/album/5covQ2LXbpXw98ICHdjMq9) | 3:48 | 2021-10-01 | 2022-04-21 |
@@ -296,6 +296,7 @@
 | [Karibu](https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV) | 4:02 | 2024-04-19 |  |
 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 | 2024-04-05 | 2024-04-19 |
 | [Kasiope](https://open.spotify.com/track/3hfnMokIzmWVCXRXqW0xr9) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 1](https://open.spotify.com/album/4tiqT5zI8ffiv5QNDGTOzl) | 7:46 | 2024-04-19 |  |
+| [Kasmir](https://open.spotify.com/track/2stHaQ7GPKOkfM2WOeBYvr) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Kasmir](https://open.spotify.com/album/1hlBAsU7SOBpU2gN6hb1Ig) | 4:30 | 2024-05-10 |  |
 | [Katoa](https://open.spotify.com/track/438xLWbd5HkLpGn2d8rl5X) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Katoa](https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx) | 4:29 | 2022-05-24 | 2022-07-29 |
 | [Kedobi](https://open.spotify.com/track/6YYzX3QAelqBKZUaJlGnAY) | [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Kedobi](https://open.spotify.com/album/4vSiktL7qOOyYpu2pj3812) | 6:45 | 2021-04-30 | 2022-07-28 |
 | [Keya](https://open.spotify.com/track/7aWFnpijG4mmsxt3JArLPC) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Keya](https://open.spotify.com/album/22BI3KDK331rMMJDc7gkDj) | 6:08 | 2021-05-07 | 2022-07-29 |

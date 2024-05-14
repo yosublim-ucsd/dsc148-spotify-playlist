@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 795288,
+  "num_followers": 795449,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ac\u00fastico Jota Quest",
         "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pra Me Refazer",
-        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 215116,
-      "name": "Pra Me Refazer",
-      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -527,6 +507,42 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Pra Me Refazer",
+        "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 215116,
+      "name": "Pra Me Refazer",
+      "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -559,22 +575,6 @@
       "duration_ms": 208470,
       "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
       "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
-      },
-      "artists": [
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
         }
       ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 219728,
       "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
       "artists": [
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
+      "duration_ms": 205640,
+      "name": "BOSSA (feat. P\u00e9ricles)",
+      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -795,6 +799,22 @@
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -847,26 +867,6 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "BOSSA (feat. P\u00e9ricles)",
-      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 146560,
       "name": "Eu n\u00e3o t\u00f4 bem",
       "url": "https://open.spotify.com/track/05SC9r9wlESAkkxWhzv2aL"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Logo agora",
-        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Logo agora",
-      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Tribalistas Ao Vivo",
         "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 273727,
       "name": "Vilarejo - Ao Vivo",
       "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Abrigo",
         "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 223773,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+        "name": "Lanca Perfume E Outras Manias",
+        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
       },
       "artists": [
         {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
         }
       ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+      "duration_ms": 314240,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Lanca Perfume E Outras Manias",
-        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
         }
       ],
-      "duration_ms": 314240,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM"
-      },
-      "artists": [
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        }
-      ],
-      "duration_ms": 203662,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Real / Surreal (Deluxe)",
         "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 170706,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM"
+      },
+      "artists": [
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 203662,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8"
     }
   ],
   "unique_name": "Cafezinho",

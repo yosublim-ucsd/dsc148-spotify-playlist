@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,779 songs - 10 day 16 hr 57 min
+6,780 songs - 10 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1690,6 +1690,7 @@
 | [Dunes o Dunes](https://open.spotify.com/track/6GdkMZ4wfNzisiJn8zotE7) | [reeperzehn](https://open.spotify.com/artist/4a82agD9myWV4ibEAtxROd) | [Dunes o Dunes](https://open.spotify.com/album/0kYVNUHMrz06YEs2jH49zG) | 2:13 | 2020-11-05 | 2021-10-20 |
 | [Dusk](https://open.spotify.com/track/3JrAC5rdyvLUJq5XMbZ3Zp) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dusk \| Promises](https://open.spotify.com/album/1FLI0D0LmF17hBC2VXbSx3) | 2:26 | 2022-06-03 | 2022-09-30 |
 | [Dusk](https://open.spotify.com/track/0Qpz1xMQHPosxi02PjkWV6) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dusk](https://open.spotify.com/album/2g1nSJCrqwwWkGobR3UE45) | 2:09 | 2019-11-29 | 2021-07-29 |
+| [Dusk Cruise](https://open.spotify.com/track/05amXskabrMv7lgIMbrWNI) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Dusk Cruise](https://open.spotify.com/album/73OBJyp6SsS4yT4rJLGOHR) | 2:32 | 2024-05-10 |  |
 | [Dust](https://open.spotify.com/track/4m1FwVSBYIYTPC7aBX51Q5) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY) | [Dust & Dewdrops](https://open.spotify.com/album/7Fmi3qtArVd1mnWHCunMAd) | 1:39 | 2022-09-09 | 2022-12-09 |
 | [Dust & Sparkles](https://open.spotify.com/track/4Luprz2j3NKRjiEcajDK6E) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Dust & Sparkles](https://open.spotify.com/album/4XY5ByryG4cSTaXpXzwqQb) | 1:58 | 2022-12-02 | 2024-04-27 |
 | [Dust Off](https://open.spotify.com/track/7wrnd72doJ1pKj24WEhVMF) | [Moqita](https://open.spotify.com/artist/2ezmheGjqcQYkczSc2v2pU) | [Dust Off](https://open.spotify.com/album/0ELZquT1AevBvIBuljukKD) | 4:19 | 2022-09-02 | 2022-12-03 |
@@ -2478,7 +2479,7 @@
 | [Hang Loose](https://open.spotify.com/track/4jwXx580p2tsO19EywSSlR) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Hang Loose](https://open.spotify.com/album/06zJqgMECLRqz4OEA91B4m) | 1:33 | 2021-12-03 | 2022-06-17 |
 | [hangover](https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [hangover](https://open.spotify.com/album/6k7G39ATeXkoPjsU3rAEZ8) | 1:49 | 2021-10-20 | 2022-04-24 |
 | [hangry](https://open.spotify.com/track/4GU46iZWHndN09EAKtMwxY) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Lungo](https://open.spotify.com/album/4CVIWFPS70RKI45LRbxbXg) | 2:08 | 2022-02-25 | 2022-09-30 |
-| [Happiness](https://open.spotify.com/track/4d2jKMTkXOmIInN3aOkQ7B) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Happiness](https://open.spotify.com/album/2bwkDNzN9jhgbXHboVle5U) | 2:11 | 2024-05-10 |  |
+| [Happiness](https://open.spotify.com/track/4d2jKMTkXOmIInN3aOkQ7B) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Happiness](https://open.spotify.com/album/2bwkDNzN9jhgbXHboVle5U) | 2:11 | 2024-05-10 | 2024-05-14 |
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2021-09-04 | 2022-04-08 |
 | [Happy Dragon](https://open.spotify.com/track/1WfBbBnXqbFae0dpAptnyJ) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Happy Dragon](https://open.spotify.com/album/7AsmUaFQs8jsDVxmn8KlEZ) | 2:00 | 2022-09-23 | 2022-11-21 |
 | [Happy Dragon](https://open.spotify.com/track/1ddxtN7cnMF06kdqZ7syg1) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Happy Dragon](https://open.spotify.com/album/18ep8yrGelJRfTrndQAEaw) | 2:00 | 2022-11-18 | 2023-01-07 |

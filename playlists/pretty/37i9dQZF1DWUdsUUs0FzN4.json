@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Malilla en portada ",
-  "num_followers": 18805,
+  "num_followers": 18809,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -635,30 +635,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "Tiki",
         "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
@@ -731,6 +707,30 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
         "name": "L-Gante: RKT SESSIONS #1",
         "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 168293,
       "name": "\u00d1ero Session 3",
       "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -847,66 +867,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "MAMI CHAKALOSA",
         "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
       },
@@ -927,38 +887,22 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "Gato \u00d1ero",
-        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 175090,
-      "name": "Gato \u00d1ero",
-      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
-        "name": "A POKA LUZ",
-        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "A POKA LUZ",
-      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -983,6 +927,42 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
         "name": "Azote",
         "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 117068,
       "name": "Azote",
       "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "Podemos Repetirlo",
         "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 185281,
       "name": "DDD (Don Dimadon)",
       "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Piripituchy",
+        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Piripituchy",
+      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
         "name": "POLVO ROSA (feat. Snow Tha Product)",
         "url": "https://open.spotify.com/album/4BmqaWWrg22IiW5UTeWeyK"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 228657,
       "name": "POLVO ROSA (feat. Snow Tha Product)",
       "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -1671,30 +1671,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "BYK",
-        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Santana the Golden Boy",
-          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "BYK",
-      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -1715,6 +1691,30 @@
       "duration_ms": 162493,
       "name": "Barby Bellaka",
       "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "BYK",
+        "url": "https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Santana the Golden Boy",
+          "url": "https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "BYK",
+      "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "Que Le Den",
-        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Rey Pirin",
-          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Que Le Den",
-      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "Perro",
         "url": "https://open.spotify.com/album/2MyAcxF2NMKaz6YEpgZ5oB"
       },
@@ -1871,6 +1847,30 @@
       "duration_ms": 288666,
       "name": "Perro",
       "url": "https://open.spotify.com/track/1nCaAzzJF2ah2AnBwD1qIx"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Que Le Den",
+        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
+      },
+      "artists": [
+        {
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Que Le Den",
+      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
     },
     {
       "added_at": "2024-05-10 18:11:33",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2024-05-10 18:11:33",
       "album": {
-        "name": "Admitelo",
-        "url": "https://open.spotify.com/album/3LdHBkXvJz1PUuvWnsnPBC"
-      },
-      "artists": [
-        {
-          "name": "Morrow",
-          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "Admitelo",
-      "url": "https://open.spotify.com/track/7ENlIXtlT858b2qgntZ0Qm"
-    },
-    {
-      "added_at": "2024-05-10 18:11:33",
-      "album": {
         "name": "SUELTA SOLTERA",
         "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 152727,
       "name": "SUELTA SOLTERA",
       "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
+    },
+    {
+      "added_at": "2024-05-10 18:11:33",
+      "album": {
+        "name": "Admitelo",
+        "url": "https://open.spotify.com/album/3LdHBkXvJz1PUuvWnsnPBC"
+      },
+      "artists": [
+        {
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Admitelo",
+      "url": "https://open.spotify.com/track/7ENlIXtlT858b2qgntZ0Qm"
     },
     {
       "added_at": "2024-05-10 18:11:33",

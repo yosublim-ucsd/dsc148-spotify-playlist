@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Alby Ydo2",
+        "url": "https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37"
+      },
+      "artists": [
+        {
+          "name": "Masri",
+          "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141494,
+      "name": "Alby Ydo2",
+      "url": "https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r"
+    },
+    {
+      "album": {
         "name": "Aleb Fel Dafater",
         "url": "https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV"
       },
@@ -2082,6 +2104,24 @@
       "duration_ms": 246000,
       "name": "Bahebek Tab3an",
       "url": "https://open.spotify.com/track/7LFeJfAOjhKsCs3UwxkH2R"
+    },
+    {
+      "album": {
+        "name": "Bahlam",
+        "url": "https://open.spotify.com/album/4YGoGgUA9CLgusQ8atAVi0"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223785,
+      "name": "Bahlam",
+      "url": "https://open.spotify.com/track/6CDcDRNj8we1YWU5ZRJK9F"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 180923,
+  "num_followers": 181006,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Gab Rhome",
-          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
       },
@@ -791,18 +771,38 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "When Everything Was New",
-        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Gab Rhome",
+          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
         }
       ],
-      "duration_ms": 267481,
-      "name": "When Everything Was New",
-      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
+      "duration_ms": 216500,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Fall Between The Cracks",
+        "url": "https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 226703,
+      "name": "Fall Between The Cracks",
+      "url": "https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Fall Between The Cracks",
-        "url": "https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV"
+        "name": "When Everything Was New",
+        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
       },
       "artists": [
         {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 226703,
-      "name": "Fall Between The Cracks",
-      "url": "https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD"
+      "duration_ms": 267481,
+      "name": "When Everything Was New",
+      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
     },
     {
       "added_at": "2024-05-10 14:41:32",

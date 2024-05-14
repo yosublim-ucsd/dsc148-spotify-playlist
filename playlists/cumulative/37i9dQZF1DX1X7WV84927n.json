@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/7LSrxbVhOWsjqpMdXTdb8f"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200300,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/3KDrWt9Ll6G0x1xCGHng6d"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/473EymkgPRlNPrNULlRcau"
       },
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 258325,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"

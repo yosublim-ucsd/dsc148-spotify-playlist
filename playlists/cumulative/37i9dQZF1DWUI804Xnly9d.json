@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 171486,
       "name": "Jaaney Do",
       "url": "https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx"
@@ -5238,6 +5238,24 @@
       "duration_ms": 185000,
       "name": "Sheher",
       "url": "https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV"
+    },
+    {
+      "album": {
+        "name": "Shikayatein",
+        "url": "https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg"
+      },
+      "artists": [
+        {
+          "name": "Abhimanyu Sharma",
+          "url": "https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283100,
+      "name": "Shikayatein",
+      "url": "https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr"
     },
     {
       "album": {

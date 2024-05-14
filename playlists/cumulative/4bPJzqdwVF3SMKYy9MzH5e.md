@@ -4,7 +4,7 @@
 
 > 
 
-1,893 songs - 4 day 6 hr 8 min
+1,898 songs - 4 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2021-08-05 |  |
 | [2nd Hand](https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:03 | 2021-08-05 |  |
 | [3 Musketeers](https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t), [ppcocaine](https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw) | [3 Musketeers](https://open.spotify.com/album/21x636uz6Wlo6T5ets8bek) | 2:46 | 2021-08-05 |  |
+| [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 |  |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-08-05 |  |
@@ -588,6 +589,7 @@
 | [Fighter](https://open.spotify.com/track/7oMVBM1xAwavu697KyBQUY) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Cheeseburger Family / Fighter](https://open.spotify.com/album/45WofTIygcH2QIJq07lMy1) | 4:04 | 2021-08-05 |  |
 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 | 2022-02-04 |  |
 | [Fingerbib](https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:48 | 2022-02-04 |  |
+| [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 | 2024-05-13 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2021-08-05 |  |
 | [Fireprayer](https://open.spotify.com/track/5mNT4J2phEjHgpLlS1bj73) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [kiCK iiiii](https://open.spotify.com/album/1uhyYU7DFiHgW4czDH2FIb) | 3:54 | 2022-02-18 |  |
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2021-08-05 |  |
@@ -1506,6 +1508,7 @@
 | [SNOWCONE](https://open.spotify.com/track/00P1RGdQvHcyuW1ililPdI) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [SNOWCONE](https://open.spotify.com/album/3Del8qWfHR6uzAng6of9Mn) | 2:35 | 2021-08-05 |  |
 | [So Dry](https://open.spotify.com/track/6uQ8vrt2KMukwfvN1F2PXL) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:02 | 2021-08-05 |  |
 | [So Tired](https://open.spotify.com/track/4fasAxIqoqvtdnFhWMT0VT) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [So Tired](https://open.spotify.com/album/6sywus58Du86aS8MRqi8SC) | 3:22 | 2022-07-10 |  |
+| [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [So What If I'm A Freak](https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ) | 2:26 | 2024-05-13 |  |
 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 | 2021-08-05 |  |
 | [Sober to Death](https://open.spotify.com/track/7pYzA1LYJ7Yo0cAegxi4nz) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 5:03 | 2022-02-04 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-08-05 |  |
@@ -1624,6 +1627,7 @@
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2021-08-05 |  |
 | [Territorial Pissings](https://open.spotify.com/track/4zZh3CwOCWGjxxfXNocAOe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 2:22 | 2021-08-05 |  |
 | [text me back](https://open.spotify.com/track/0WdMRbjB45q2Rl7FTZ5Q5n) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [VIRTUAL DEATH 9 5](https://open.spotify.com/album/3wgQAnJoHQ7BfEZsH2mTQD) | 1:07 | 2022-02-04 |  |
+| [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-05-14 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-08-05 |  |
 | [Thank You for the Venom](https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:41 | 2021-08-05 |  |
 | [That I Miss You](https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [That I Miss You](https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF) | 2:20 | 2022-09-18 |  |
@@ -1750,6 +1754,7 @@
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2023-12-26 |  |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2024-03-20 |  |
 | [UNBREAKABLE](https://open.spotify.com/track/3rcW5osqGbwP1KUdAhtkBF) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [UNBREAKABLE](https://open.spotify.com/album/48PMOYTHYgM6vuiy0JiJQb) | 2:55 | 2021-11-14 |  |
+| [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-05-13 |  |
 | [Undercover Agents](https://open.spotify.com/track/7Mr7iSIDm5CnZ5b3DIPQO5) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 4:30 | 2021-08-05 |  |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2022-10-01 |  |
 | [UNISIL](https://open.spotify.com/track/0oRzcIZcW4oB2K2XfB2Uky) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [UNISIL](https://open.spotify.com/album/7lQaDQVfZphQDGCi8Vu1Y0) | 2:06 | 2021-11-14 |  |

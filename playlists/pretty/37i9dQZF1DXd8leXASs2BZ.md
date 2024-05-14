@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと5日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: taro
+> 【POPYOURSまであと4日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: JAKEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,542 likes - 103 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,556 likes - 103 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [いい感じ](https://open.spotify.com/track/3q2z6sxUzmk6UA5IzA9uOu) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [いい感じ](https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd) | 2:41 |
+| 1 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 |
 | 2 | [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 |
 | 3 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
-| 4 | [DREAMIN’ BOI ISSUE](https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 2:46 |
-| 5 | [Swag](https://open.spotify.com/track/3lc4wRpHe4BsM8kSkrfoyv) | [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB) | [”The Mixtape”](https://open.spotify.com/album/2pvB77LnWsX2BCzG9vN3Wy) | 2:41 |
-| 6 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
-| 7 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 |
+| 4 | [いい感じ](https://open.spotify.com/track/3q2z6sxUzmk6UA5IzA9uOu) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [いい感じ](https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd) | 2:41 |
+| 5 | [DREAMIN’ BOI ISSUE](https://open.spotify.com/track/5PpLPAdZGMQ5eMzwwC5HoQ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 2:46 |
+| 6 | [Swag](https://open.spotify.com/track/3lc4wRpHe4BsM8kSkrfoyv) | [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB) | [”The Mixtape”](https://open.spotify.com/album/2pvB77LnWsX2BCzG9vN3Wy) | 2:41 |
+| 7 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
 | 8 | [s2000](https://open.spotify.com/track/4o5e4C8yItyb107bggqWfe) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [s2000](https://open.spotify.com/album/3HZopZsgwsotS6jhQeNsUa) | 2:42 |
 | 9 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
 | 10 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 102 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 103 | [Erika](https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Fear](https://open.spotify.com/album/5ULXcHka7ie9hbyZmIReC3) | 3:35 |
 
-Snapshot ID: `ZkDZcAAAAADtdpbEf0cjbUvvysIRJT/Y`
+Snapshot ID: `ZkIq8AAAAAB2s1fJHhnHGgDyRIm0Legl`

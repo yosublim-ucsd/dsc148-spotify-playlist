@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-385 songs - 19 hr 50 min
+386 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 | 2023-11-03 | 2023-11-11 |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-11-03 | 2023-11-11 |
 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 | 2023-12-08 | 2024-01-13 |
+| [Little Foot Big Foot \(feat\. Young Nudy\)](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-13 |  |
 | [Long Time](https://open.spotify.com/track/1MMdXq70ClBuySp9BBn0P6) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Long Time](https://open.spotify.com/album/7IT9Nz4ukJZB5vWnx3WL0d) | 3:48 | 2023-11-03 | 2023-11-25 |
 | [Lose Me Too](https://open.spotify.com/track/6v588XewELMxOECYe2Hyig) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Lose Me Too](https://open.spotify.com/album/3RefMIz84KfrcdStL6A5N7) | 3:24 | 2024-02-02 | 2024-02-17 |
 | [Lost In Paradise](https://open.spotify.com/track/2F7w7kDFmUuMtyTR3TyLVC) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Moonlight](https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka) | 2:36 | 2024-02-02 | 2024-02-17 |

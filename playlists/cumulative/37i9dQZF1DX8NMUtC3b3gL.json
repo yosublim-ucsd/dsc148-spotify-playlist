@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "amaryllis",
+        "url": "https://open.spotify.com/album/09Rq7YRvuDcgbA6TIEIGLn"
+      },
+      "artists": [
+        {
+          "name": "jpegdonn",
+          "url": "https://open.spotify.com/artist/1CiD9BpiNWQ6XzwQ1z2LLw"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "amaryllis",
+      "url": "https://open.spotify.com/track/0t4obMUizYRn6ui2nDk6nD"
+    },
+    {
+      "album": {
         "name": "ambar",
         "url": "https://open.spotify.com/album/6nQPUOURWtXUUBqZpdKw9q"
       },
@@ -648,6 +666,24 @@
       "duration_ms": 222037,
       "name": "Artifacts",
       "url": "https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF"
+    },
+    {
+      "album": {
+        "name": "Away from Home",
+        "url": "https://open.spotify.com/album/36IP2eLXnaTKHw9KBbBkEN"
+      },
+      "artists": [
+        {
+          "name": "flwrz",
+          "url": "https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141375,
+      "name": "Away from Home",
+      "url": "https://open.spotify.com/track/37bo8gV7ZEXkHonzp0uLxB"
     },
     {
       "album": {
@@ -3629,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "helping",
+        "url": "https://open.spotify.com/album/5UPCj1ScUMngMW2UAfJuYp"
+      },
+      "artists": [
+        {
+          "name": "Hula Hoops",
+          "url": "https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140495,
+      "name": "helping",
+      "url": "https://open.spotify.com/track/0LD3EBEUNRwNYEEtnYfZVz"
+    },
+    {
+      "album": {
         "name": "Hiber Nation",
         "url": "https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN"
       },
@@ -4104,6 +4158,28 @@
       "duration_ms": 169230,
       "name": "just let go",
       "url": "https://open.spotify.com/track/7btoampX4TCsFEw4Q7KZRS"
+    },
+    {
+      "album": {
+        "name": "Kalamos",
+        "url": "https://open.spotify.com/album/1TdGSHKyi7QNr0a7OVOTT4"
+      },
+      "artists": [
+        {
+          "name": "Drips Zacheer",
+          "url": "https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN"
+        },
+        {
+          "name": "Soulvibe Cuts",
+          "url": "https://open.spotify.com/artist/37qQan0WPQj9vb2GQLYG6M"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127894,
+      "name": "Kalamos",
+      "url": "https://open.spotify.com/track/7uHaPTyjST0BX8ftqLzMqq"
     },
     {
       "album": {
@@ -6729,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "Sea Breeze",
+        "url": "https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156626,
+      "name": "Sea Breeze",
+      "url": "https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP"
+    },
+    {
+      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/0FGJhpYTovyNwXoxUnvf3G"
       },
@@ -7739,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "Memories Fade",
+        "url": "https://open.spotify.com/album/6xy1UZaJLQx3TugF3i0AUU"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Sunbeams",
+      "url": "https://open.spotify.com/track/2Ocxcmy2bNgQDZGdeXHoWK"
+    },
+    {
+      "album": {
         "name": "sunburn",
         "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
       },
@@ -7775,6 +7887,36 @@
     },
     {
       "album": {
+        "name": "Sundew",
+        "url": "https://open.spotify.com/album/4xWQSV1KUuvABJPGJ9KvUS"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Otaam",
+          "url": "https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0"
+        },
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "Dubillard",
+          "url": "https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226764,
+      "name": "Sundew",
+      "url": "https://open.spotify.com/track/6PRi7RcZU3P0atYsV6WVmx"
+    },
+    {
+      "album": {
         "name": "sunny day dreaming",
         "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
       },
@@ -7790,6 +7932,28 @@
       "duration_ms": 174621,
       "name": "sunny day dreaming",
       "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
+    },
+    {
+      "album": {
+        "name": "Sunrise / Radiance",
+        "url": "https://open.spotify.com/album/1DeExeJUt9ZIo4KpL3hSRC"
+      },
+      "artists": [
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118817,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4uaP7h80XL1YP2vjpZNETc"
     },
     {
       "album": {
@@ -8558,7 +8722,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 183333,
       "name": "toneHUG",
       "url": "https://open.spotify.com/track/3AD1MgwJWGEmKQ0CquSs8a"
@@ -9072,6 +9236,28 @@
       "duration_ms": 166600,
       "name": "We See Things As We Are",
       "url": "https://open.spotify.com/track/3Io7sO23I8hffeNCslqvQh"
+    },
+    {
+      "album": {
+        "name": "What Future Holds",
+        "url": "https://open.spotify.com/album/4EE3MfrH8lHPzf0nSQ0i1I"
+      },
+      "artists": [
+        {
+          "name": "Picture Talk",
+          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
+        },
+        {
+          "name": "Lucifurr",
+          "url": "https://open.spotify.com/artist/1DFuldQROQAcq0eNiilcUm"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "What Future Holds",
+      "url": "https://open.spotify.com/track/6QrEYx4MYDtbp23g283En0"
     },
     {
       "album": {

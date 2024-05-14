@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392053,
+      "name": "Ali Aoudy",
+      "url": "https://open.spotify.com/track/6Az0LHqk4GTaoa9fJJ37Ll"
+    },
+    {
+      "album": {
         "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 312840,
       "name": "Sambadio (Acoustic)",
       "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"

@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -1770,6 +1770,24 @@
       "duration_ms": 103413,
       "name": "Flashbacks",
       "url": "https://open.spotify.com/track/3bdScpFTyK2ZQBWbobMwJP"
+    },
+    {
+      "album": {
+        "name": "FLOR",
+        "url": "https://open.spotify.com/album/5yk2soT6ZFBvWZlmp4aJSZ"
+      },
+      "artists": [
+        {
+          "name": "Izev",
+          "url": "https://open.spotify.com/artist/344idpcQy9hTDDAI3JciL5"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "FLOR",
+      "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
     },
     {
       "album": {

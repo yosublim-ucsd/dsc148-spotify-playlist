@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13888,
+  "num_followers": 13890,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -131,42 +131,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Cuatro 44",
-        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Cuatro 44",
-      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
-      },
-      "artists": [
-        {
-          "name": "Valeria Canavati",
-          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
-        }
-      ],
-      "duration_ms": 157037,
-      "name": "V",
-      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "No Somos Iguales",
         "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
       },
@@ -187,6 +151,42 @@
       "duration_ms": 186250,
       "name": "No Somos Iguales",
       "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
+      },
+      "artists": [
+        {
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+        }
+      ],
+      "duration_ms": 157037,
+      "name": "V",
+      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Cuatro 44",
+        "url": "https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Cuatro 44",
+      "url": "https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Ni Con Money",
         "url": "https://open.spotify.com/album/4VTP9EUl9ssmAHgxCJuAxA"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-        "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -575,6 +575,22 @@
       "duration_ms": 213940,
       "name": "T\u00e9 Con Miel",
       "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -695,22 +711,6 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "El Humito",
-        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "El Humito",
-      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Ol\u00e9",
         "url": "https://open.spotify.com/album/4burORupgjRcxfrI56pZiS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 163910,
       "name": "Ol\u00e9",
       "url": "https://open.spotify.com/track/6AAGQWXAB7MQhbZBsvfJEh"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
       },
       "artists": [
         {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
         },
         {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
         }
       ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "EL POINT",
-        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
       },
       "artists": [
         {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
         },
         {
-          "name": "B Noize",
-          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "EL POINT",
-      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Sanchez",
-          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "La Pelicula",
-      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -1495,6 +1471,30 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Una Mente Maestra",
+        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "duration_ms": 139242,
+      "name": "Una Mente Maestra",
+      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Lucifer",
         "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 267558,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Una Mente Maestra",
-        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Blanco",
-          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
-        }
-      ],
-      "duration_ms": 139242,
-      "name": "Una Mente Maestra",
-      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1955,30 +1955,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Rimas Femeninas",
         "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
       },
@@ -2007,6 +1983,30 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Taylor Made",
         "url": "https://open.spotify.com/album/0zCaVVJMvOS2d2F2NfTXYP"
       },
@@ -2031,22 +2031,18 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Confesi\u00f3n De Ares",
-        "url": "https://open.spotify.com/album/4oOMnE6deOaL9jEzQC6He7"
+        "name": "Dejarte Ir",
+        "url": "https://open.spotify.com/album/5OYnIBzVXNJUPb34RP6jnc"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Jotabit",
-          "url": "https://open.spotify.com/artist/7s0Tx8JpyEnFRfuwEqSmpy"
+          "name": "Free Stayla",
+          "url": "https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj"
         }
       ],
-      "duration_ms": 295611,
-      "name": "Confesi\u00f3n De Ares",
-      "url": "https://open.spotify.com/track/4tSK5q7WPL60ju8voIKF5l"
+      "duration_ms": 248780,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/3cWxlNfcUWXlIU76nyMDhE"
     }
   ],
   "unique_name": "Rimas Frescas ",

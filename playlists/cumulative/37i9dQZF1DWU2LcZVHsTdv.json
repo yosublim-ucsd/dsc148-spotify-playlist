@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/3yQurpLao3IeGaFAeNwFSL"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rossell",
+          "url": "https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230534,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5k9omCR4ATUBmm2ZYtuXlh"
+    },
+    {
+      "album": {
         "name": "Be A Light",
         "url": "https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2"
       },

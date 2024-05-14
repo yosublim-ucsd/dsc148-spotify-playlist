@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Dehd
 
-1,849 songs - 4 day 3 hr 14 min
+1,850 songs - 4 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,6 +1162,7 @@
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-21 | 2023-06-10 |
 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-02-24 | 2023-05-06 |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-03-31 | 2023-05-13 |
+| [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 | 2024-05-13 |  |
 | [Otherside](https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Otherside](https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy) | 3:46 | 2022-11-04 | 2023-01-14 |
 | [Otherside](https://open.spotify.com/track/5ZGrAvSbS9qOEphpjwn3Aj) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood: Acts III & IV](https://open.spotify.com/album/3KmnHNMnB13nkKbOx7jqv2) | 3:42 | 2022-10-21 | 2022-12-01 |
 | [Otherside](https://open.spotify.com/track/766xHIE1Ut9IBZ9c4iPq1K) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:42 | 2022-11-25 | 2022-12-17 |

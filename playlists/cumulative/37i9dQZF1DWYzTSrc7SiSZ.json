@@ -2239,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
+      },
+      "artists": [
+        {
+          "name": "Chill Akiles",
+          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188176,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
+    },
+    {
+      "album": {
         "name": "La Vida en Rosa",
         "url": "https://open.spotify.com/album/4UoTOkoxOm0DWB2fh3W65x"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"

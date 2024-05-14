@@ -2,7 +2,7 @@
 
 ### [This Is Ulices Chaidez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu)
 
-> This is Ulices Chaidez\. The essential tracks, all in one playlist.
+> This is Ulices Chaidez\. Todos os maiores hits em uma só playlist.
 
 80 songs - 4 hr 19 min
 

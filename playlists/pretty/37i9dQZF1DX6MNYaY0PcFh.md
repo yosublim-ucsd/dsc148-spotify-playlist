@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,228 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,262 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 22 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
 | 23 | [Lean On U](https://open.spotify.com/track/26L3AY8of95gl70zbMS47C) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Nothing Without Your Love](https://open.spotify.com/album/421tY7OWB0RLpSCLe5Xdaq) | 4:04 |
 | 24 | [Is What It Is](https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Is What It Is](https://open.spotify.com/album/7DE2X6ZVhSp0QXxxyMmZTr) | 4:29 |
-| 25 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 |
-| 26 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 |
+| 25 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 |
+| 26 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 |
 | 27 | [Want Me](https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI), [Sophia Violet](https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV) | [Want Me](https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ) | 2:41 |
 | 28 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
 | 29 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |

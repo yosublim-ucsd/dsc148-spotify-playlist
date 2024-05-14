@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 151702,
       "name": "jumpstart",
       "url": "https://open.spotify.com/track/7LV0TisqbubR9CgnflZemg"
@@ -5238,6 +5238,24 @@
       "duration_ms": 208830,
       "name": "Sorry Sorry",
       "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+    },
+    {
+      "album": {
+        "name": "Spacecraft",
+        "url": "https://open.spotify.com/album/7In1R8xbSoSzu5Z0w9NGO3"
+      },
+      "artists": [
+        {
+          "name": "Tobias Arbo",
+          "url": "https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211773,
+      "name": "Spacecraft",
+      "url": "https://open.spotify.com/track/3elO36mVEKK6gGLyrkfKE8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:4ysmSq2N7badobfVT6YZ82">Gobs</a> giver dig fuld pop på New Music Friday☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,347 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,353 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

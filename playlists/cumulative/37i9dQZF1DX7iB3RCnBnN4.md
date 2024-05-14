@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Nickelback
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: Cardi B
 
 688 songs - 1 day 17 hr 50 min
 

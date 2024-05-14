@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kayode
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,145 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Pedro leva Kairê à quadra](https://open.spotify.com/track/4dWDSi8DpkCrkkrSJvLWSl) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [$tevan](https://open.spotify.com/artist/3gJGfQQsEdGrBJozEb2y0i) | [Recolhimento](https://open.spotify.com/album/7z9EQQRt1tACIbOVftwVRg) | 2:52 |
 | 75 | [7 Velas](https://open.spotify.com/track/3O0Psgcf7AQXoYfgqp9c7K) | [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px), [monog](https://open.spotify.com/artist/6w2v8qBcnzlbxgspiEvHPA), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [7 Velas](https://open.spotify.com/album/1Z17IlMM1tKTqlKM8qQL2V) | 2:09 |
 
-Snapshot ID: `Zj7fbAAAAACYUJHmEV0mZ2RJDhNWfcS6`
+Snapshot ID: `ZkJpjwAAAABEJzb0xz2etMH/hwSaP54B`

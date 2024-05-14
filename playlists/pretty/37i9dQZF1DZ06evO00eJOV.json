@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35243,
+  "num_followers": 35245,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAACVrlnN7Gd5fwaRspqpeV0D",
+  "snapshot_id": "ZkAGgAAAAADp3sQWSU/CdH/CNwZ6dvDQ",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/68RV0HNYnbkrztSe9sBZ1W"
+      "duration_ms": 220360,
+      "name": "Nomakanjani",
+      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Nomakanjani",
-      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
+      "duration_ms": 233266,
+      "name": "Istraight Le Ndaba",
+      "url": "https://open.spotify.com/track/7qoPu9OMcp56rieRncfF6J"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Istraight Le Ndaba",
-      "url": "https://open.spotify.com/track/7qoPu9OMcp56rieRncfF6J"
+      "duration_ms": 237026,
+      "name": "Too Late For Mama",
+      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Too Late For Mama",
-      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
     },
     {
       "added_at": null,
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 321960,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -491,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "Ntsware - Ndibambe",
-      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malibongwe",
         "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "Ntsware - Ndibambe",
+      "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ag Shame Lovey",
         "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
+      "duration_ms": 321960,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
     },
     {
       "added_at": null,
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Jiva",
-      "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
+      "duration_ms": 275960,
+      "name": "Soon And Very Soon - 99 Remix",
+      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
     },
     {
       "added_at": null,
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331497,
-      "name": "Good Black Woman",
-      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
+      "duration_ms": 256533,
+      "name": "Ngeke Umconfirm",
+      "url": "https://open.spotify.com/track/60x01dD48MK74ivENAzXxf"
     },
     {
       "added_at": null,
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 275960,
-      "name": "Soon And Very Soon - 99 Remix",
-      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+      "duration_ms": 307333,
+      "name": "Jiva",
+      "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 290266,
       "name": "Hamba Sathane",
       "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331497,
+      "name": "Good Black Woman",
+      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 291640,
       "name": "Somlandela",
       "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,

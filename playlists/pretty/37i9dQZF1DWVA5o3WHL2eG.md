@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,920 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,927 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 |
 | 14 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |
 | 15 | [Okay](https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Okay](https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1) | 2:49 |
-| 16 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
-| 17 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 16 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 17 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
 | 18 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
 | 19 | [Nikes](https://open.spotify.com/track/2fKA1WxKe21pQ5o9sh5DKM) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Nikes](https://open.spotify.com/album/5HdAHnEZK7KpND5QeFkm22) | 2:15 |
 | 20 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
 | 31 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
 | 32 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
-| 33 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
-| 34 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
-| 35 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
-| 36 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
-| 37 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
-| 38 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
-| 39 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
+| 33 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
+| 34 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
+| 35 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 36 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
+| 37 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
+| 38 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
+| 39 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
 | 40 | [MOMENT](https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [MOMENT](https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP) | 4:08 |
 | 41 | [Poetry](https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Poetry \(for the scorned and lonely\)](https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL) | 2:47 |
 | 42 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |

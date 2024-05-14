@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181375,
+  "num_followers": 181410,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Rompiendo",
-        "url": "https://open.spotify.com/album/0ikfluHlNd2jx7kLJ01Mtp"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Rompiendo",
-      "url": "https://open.spotify.com/track/67Ykm1OX2dKXh5W9jwPB8a"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Why Do We Fear Still?",
         "url": "https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 162000,
       "name": "Para La Wifey :)",
       "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Rompiendo",
+        "url": "https://open.spotify.com/album/0ikfluHlNd2jx7kLJ01Mtp"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Rompiendo",
+      "url": "https://open.spotify.com/track/67Ykm1OX2dKXh5W9jwPB8a"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Eleva Tu Alma",
+        "url": "https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Eleva Tu Alma",
+      "url": "https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Guiame",
         "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 201600,
       "name": "Paz",
       "url": "https://open.spotify.com/track/4AtzxpEuteSD6NkZ8ZfAde"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Eleva Tu Alma",
-        "url": "https://open.spotify.com/album/341uNJDUClwb5EOHWOjkW5"
-      },
-      "artists": [
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Eleva Tu Alma",
-      "url": "https://open.spotify.com/track/5pZuCKXUjx3u3dP1c2eJH8"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Un Call",
         "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 214400,
       "name": "Un Call",
       "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+      },
+      "artists": [
+        {
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "No Te Creo",
+        "url": "https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "duration_ms": 196424,
+      "name": "No Te Creo",
+      "url": "https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Formula 1",
         "url": "https://open.spotify.com/album/1Uc6lMxxI20pdTFG5GiJg2"
       },
@@ -1935,26 +1951,6 @@
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Manos en el aire (Remix)",
-        "url": "https://open.spotify.com/album/2E1UPeb6D2QByHeEH52Bsl"
-      },
-      "artists": [
-        {
-          "name": "Zelote El Rabakanda",
-          "url": "https://open.spotify.com/artist/5KTntGyT7yudVsG4WI5NKI"
-        },
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 177281,
-      "name": "Manos en el aire (Remix)",
-      "url": "https://open.spotify.com/track/4ywj45xfKm0Y97mgBehyPN"
     }
   ],
   "unique_name": "Flow Cristiano",

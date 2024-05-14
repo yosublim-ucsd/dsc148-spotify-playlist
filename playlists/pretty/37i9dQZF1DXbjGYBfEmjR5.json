@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 320021,
+  "num_followers": 320124,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Found You (feat. Benjamin Ingrosso)",
         "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 152195,
       "name": "I Found You (feat. Benjamin Ingrosso)",
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 228597,
-      "name": "Breaking Away",
-      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Dance Dance Cochayuyo!",
         "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 167889,
       "name": "Dance Dance Cochayuyo!",
       "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 228597,
+      "name": "Breaking Away",
+      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 157500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Showa",
+        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 140483,
+      "name": "Showa",
+      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "SAILORWAVE II",
         "url": "https://open.spotify.com/album/6BFdIbkDxDijg3utkOyEZB"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Showa",
-        "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 140483,
-      "name": "Showa",
-      "url": "https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 303148,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "VTEC",
+        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 243167,
+      "name": "VTEC",
+      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1495,26 +1515,6 @@
       "duration_ms": 230163,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "VTEC",
-        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        },
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 243167,
-      "name": "VTEC",
-      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "\u541bKimi (You Came Along)",
-      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Your Secrets",
         "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 240526,
       "name": "Your Secrets",
       "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "\u541bKimi (You Came Along)",
+      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Wa Ha Ha (Iden Kai Remix)",
-        "url": "https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38"
-      },
-      "artists": [
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
-        },
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Wa Ha Ha (Iden Kai Remix)",
-      "url": "https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "\u9055\u3046",
         "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
       },
@@ -1695,6 +1675,22 @@
       "duration_ms": 153449,
       "name": "\u9055\u3046",
       "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+      },
+      "artists": [
+        {
+          "name": "BAD4ALL",
+          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
     },
     {
       "added_at": "2023-07-18 02:21:29",

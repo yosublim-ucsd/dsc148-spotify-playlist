@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. SAIKO",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Gonzy",
   "name": "PEGAO",
   "tracks": [
     {
@@ -2361,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "COMUNA 3",
+        "url": "https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "The Rude Boyz",
+          "url": "https://open.spotify.com/artist/0AtX4f2oUVTM8YzRMyIrbq"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154128,
+      "name": "COMUNA 3",
+      "url": "https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT"
+    },
+    {
+      "album": {
         "name": "El Hombre",
         "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
       },
@@ -2514,7 +2536,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 192000,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
@@ -4964,7 +4986,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
@@ -10696,6 +10718,28 @@
       "duration_ms": 140586,
       "name": "Su Payita (Gramos)",
       "url": "https://open.spotify.com/track/2WPFpC4oQxjBpSgsCoQrCf"
+    },
+    {
+      "album": {
+        "name": "Suano",
+        "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137264,
+      "name": "Suano",
+      "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
     },
     {
       "album": {

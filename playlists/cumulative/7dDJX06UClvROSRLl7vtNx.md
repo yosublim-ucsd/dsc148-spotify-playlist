@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-345 songs - 15 hr 8 min
+346 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Diamond](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Diamond](https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz) | 2:16 | 2024-03-18 |  |
 | [Dizzy](https://open.spotify.com/track/2EGuz29TPdPFV40QsFo0hP) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Noxxia](https://open.spotify.com/artist/1yTxofaXhlhAG82AO55Atu), [Philip Jax](https://open.spotify.com/artist/4S9KVaizGGux3RLHsIgcm6) | [Dizzy](https://open.spotify.com/album/3Neq7HYDQDDJ0DOpzddNXr) | 2:33 | 2024-04-07 | 2024-04-16 |
 | [Dollar Dream \[Lucas Estrada Edit\]](https://open.spotify.com/track/28ECYkjyVDGCurbUoCctVe) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Couché](https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl), [Polar Notes](https://open.spotify.com/artist/7rgyMpZgczDhkLWiykajQb), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Dollar Dream \[Lucas Estrada Edit\]](https://open.spotify.com/album/5CszA1bpHOuimE5VWw2Efj) | 2:38 | 2023-09-22 | 2024-04-15 |
+| [Don't Look Down](https://open.spotify.com/track/3PFwjTXeqg76QcdZep1jmz) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Don't Look Down](https://open.spotify.com/album/1Kp2JeEVHM9KmeQJHY5s6m) | 2:45 | 2024-05-13 |  |
 | [Down](https://open.spotify.com/track/7AHCNmBI4SZdrhYxPLBWOP) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Down](https://open.spotify.com/album/2U50dkgIGQOGeNWCRZYvVA) | 2:09 | 2023-11-26 |  |
 | [Drag Me Down \- Masove Remix](https://open.spotify.com/track/5ziSP5i9oWEkvjPmJfmPB6) | [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8), [Kasper Juul](https://open.spotify.com/artist/09qLJAC6XDikDesDujWEQb), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Drag Me Down \(Masove Remix\)](https://open.spotify.com/album/3wyjhR9QR44DY3cO6JbvlN) | 2:54 | 2023-09-22 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK) | [FMTM](https://open.spotify.com/artist/59rzq7zL5EJrmwWLPzDb0e), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Dusk Till Dawn](https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A) | 2:50 | 2024-05-04 |  |

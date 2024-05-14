@@ -1,13 +1,29 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 165531,
+  "num_followers": 165968,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zg/S8AAAAADVDA+VHDplD8tIDoWgI3mi",
+  "snapshot_id": "ZkHWkAAAAAD0HzaOK+mnPHZYciQKtDoz",
   "tracks": [
+    {
+      "added_at": "2024-05-13 09:00:00",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF"
+    },
     {
       "added_at": "2024-04-05 10:31:12",
       "album": {

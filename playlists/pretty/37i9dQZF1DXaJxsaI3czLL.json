@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 130106,
+  "num_followers": 130125,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "THE UNION",
-        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         },
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 286366,
-      "name": "Twinkle Stars",
-      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -735,22 +731,26 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         },
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 286366,
+      "name": "Twinkle Stars",
+      "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "\u5b63\u7bc0\u306e\u97f3",
         "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 242432,
       "name": "\u5b63\u7bc0\u306e\u97f3",
       "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 244666,
       "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u524d\u3078",
-        "url": "https://open.spotify.com/album/1i08uVsbsJOmn2JSOSFD4C"
+        "name": "\u30aa\u30fc\u30c9\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/1KNGxRMePtlPslrdAJiSnI"
       },
       "artists": [
         {
-          "name": "KUCHIRORO",
-          "url": "https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA"
-        },
-        {
-          "name": "the band apart",
-          "url": "https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf"
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 111720,
-      "name": "\u3042\u3044\u307e\u3044",
-      "url": "https://open.spotify.com/track/7A41wAX25NxFHKCu290lsz"
+      "duration_ms": 128216,
+      "name": "\u30aa\u30fc\u30c9\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/0pr2F8Oj6xp4CXtUPeo09a"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u30aa\u30fc\u30c9\u30d6\u30eb",
-        "url": "https://open.spotify.com/album/1KNGxRMePtlPslrdAJiSnI"
+        "name": "\u524d\u3078",
+        "url": "https://open.spotify.com/album/1i08uVsbsJOmn2JSOSFD4C"
       },
       "artists": [
         {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "KUCHIRORO",
+          "url": "https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA"
+        },
+        {
+          "name": "the band apart",
+          "url": "https://open.spotify.com/artist/6g7JH6zxP3JTfg7i8bZwbf"
         }
       ],
-      "duration_ms": 128216,
-      "name": "\u30aa\u30fc\u30c9\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/0pr2F8Oj6xp4CXtUPeo09a"
+      "duration_ms": 111720,
+      "name": "\u3042\u3044\u307e\u3044",
+      "url": "https://open.spotify.com/track/7A41wAX25NxFHKCu290lsz"
     },
     {
       "added_at": "2024-03-05 17:56:07",

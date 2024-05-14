@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Octavio Cuadras en portada.
 
-411 songs - 21 hr 41 min
+412 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aguanta Corazón](https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Fantasma Sin Limites](https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575) | 2:53 | 2023-07-14 | 2024-05-04 |
 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 | 2022-09-23 | 2023-01-28 |
 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 | 2022-03-29 |  |
-| [Ahí Que Quede](https://open.spotify.com/track/7i5VakAPG7WCqxi2j6Q0Bp) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Corona de Nietos](https://open.spotify.com/artist/4c1DFUyPa87iyajxNMWGJM) | [Ahí Que Quede](https://open.spotify.com/album/2patU8CXSMYxyXBnr7rTcz) | 3:15 | 2024-04-09 |  |
+| [Ahí Que Quede](https://open.spotify.com/track/7i5VakAPG7WCqxi2j6Q0Bp) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Corona de Nietos](https://open.spotify.com/artist/4c1DFUyPa87iyajxNMWGJM) | [Ahí Que Quede](https://open.spotify.com/album/2patU8CXSMYxyXBnr7rTcz) | 3:15 | 2024-04-09 | 2024-05-14 |
 | [Aliado del Tiempo \(En Vivo\)](https://open.spotify.com/track/36ZVMBFTdFgYcdLM2SjPVZ) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [En Vivo Desde Caborca Vol\. 1](https://open.spotify.com/album/326vwM0vaMEyCPOgjHv2hm) | 4:10 | 2022-07-01 | 2022-07-29 |
 | [Amarga Derrota](https://open.spotify.com/track/4u3bRZ5eFIN8aBn24bY9Vc) | [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Recordando A Ariel Camacho](https://open.spotify.com/album/1JyOsRYJDGaKhYtPMAaYns) | 3:19 | 2022-07-01 | 2022-07-25 |
 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-01-20 |  |
@@ -318,6 +318,7 @@
 | [Quiero Presumirte](https://open.spotify.com/track/6soqRrsiWygH5gSzTCHbDl) | [Picassoo](https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja) | [Quiero Presumirte](https://open.spotify.com/album/3X7xLaoYlXGMViA8dpa9DJ) | 4:02 | 2023-12-22 |  |
 | [Quién Se Apunta](https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Quién Se Apunta](https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO) | 3:13 | 2022-05-13 | 2023-12-02 |
 | [Quién Te Entiende](https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado](https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V) | 3:22 | 2021-12-27 |  |
+| [Qué Desilusión](https://open.spotify.com/track/19qzjZ43tFAHOabr9v9CDC) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Qué Desilusión](https://open.spotify.com/album/6Ru7j5KsLxJXZqFLejg8F6) | 3:52 | 2024-05-03 |  |
 | [Rayas En La Cara](https://open.spotify.com/track/3WxrfhDdNCHEy8ofNFSqsf) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [Rayas En La Cara](https://open.spotify.com/album/50ZfxOvxBmSABVkVLYDSDv) | 2:54 | 2022-04-22 | 2022-11-04 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2023-12-01 |  |
 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 | 2023-06-30 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: IVE",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: ZEROBASEONE",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 162373,
       "name": "Birth",
       "url": "https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 193277,
       "name": "Fancy - Spotify Singles",
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
@@ -2438,6 +2438,24 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "album": {
+        "name": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
+        "url": "https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170197,
+      "name": "Fatal Trouble",
+      "url": "https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe"
     },
     {
       "album": {
@@ -2510,6 +2528,24 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/5l0tiblGbN8dPTREqlWsB2"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "Feel the POP",
+      "url": "https://open.spotify.com/track/1K3Jlfhut0c38mq6EH2yTE"
     },
     {
       "album": {
@@ -5164,7 +5200,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 184373,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/3Tziht6IfkIFSHCwsTFAhr"
@@ -7540,6 +7576,24 @@
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF"
     },
     {
       "album": {

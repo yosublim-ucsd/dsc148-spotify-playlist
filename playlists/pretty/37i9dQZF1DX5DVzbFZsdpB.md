@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 9 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 9 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

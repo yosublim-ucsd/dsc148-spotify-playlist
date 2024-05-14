@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 154227,
+  "num_followers": 154258,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Tiago",
-      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 164956,
       "name": "Libre",
       "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Tiago",
+      "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
-      },
-      "artists": [
-        {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 233813,
       "name": "\u00c0 nos h\u00e9ros du quotidien",
       "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Les feux d'artifice",
+        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Un jour au mauvais endroit",
+      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 191786,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/4AjFKHMK0aT5RH5bDarR0f"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "Les feux d'artifice",
-        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 294173,
-      "name": "Un jour au mauvais endroit",
-      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -891,18 +907,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+        "name": "G\u00e9ant",
+        "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
       },
       "artists": [
         {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+          "name": "Saule",
+          "url": "https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34"
+        },
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+      "duration_ms": 205253,
+      "name": "Dusty Men - French Version",
+      "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -935,26 +955,6 @@
       "duration_ms": 281373,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "G\u00e9ant",
-        "url": "https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7"
-      },
-      "artists": [
-        {
-          "name": "Saule",
-          "url": "https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34"
-        },
-        {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Dusty Men - French Version",
-      "url": "https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "La femme chocolat",
-        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ruiz",
-          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "La femme chocolat",
-      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -1051,6 +1035,38 @@
       "duration_ms": 448906,
       "name": "Gigi l'amoroso",
       "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La Zizanie",
+        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Rue de la Paix",
+      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "La femme chocolat",
+        "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "La femme chocolat",
+      "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1071,22 +1087,6 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "La Zizanie",
-        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
-      },
-      "artists": [
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Rue de la Paix",
-      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Lilicub",
         "url": "https://open.spotify.com/album/54kmwLOLsXJQxGG1GwAUOj"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 235466,
       "name": "Voyage en Italie",
       "url": "https://open.spotify.com/track/5FmknnkNLdiGeDndWfuxON"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     },
     {
       "added_at": "2024-03-11 10:01:59",

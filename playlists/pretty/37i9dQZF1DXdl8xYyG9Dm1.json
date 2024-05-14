@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=P_hQxbrsQ_2BiMszZLQp2A\"> ODUMODUBLVCK</a>",
-  "num_followers": 150825,
+  "num_followers": 150939,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -255,8 +255,8 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
       "artists": [
         {
@@ -264,17 +264,13 @@
           "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -431,8 +427,8 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
       "artists": [
         {
@@ -440,13 +436,17 @@
           "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 235102,
-      "name": "Last Week",
-      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -971,6 +971,30 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+      },
+      "artists": [
+        {
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Bigger (feat. Olamide & Nas)",
+      "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
         "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
         "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Bigger (feat. Olamide & Nas)",
-      "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Sharp Shooter",
-        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        }
-      ],
-      "duration_ms": 150079,
-      "name": "SHARP SHOOTER",
-      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 186240,
       "name": "The Views",
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Sharp Shooter",
+        "url": "https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "duration_ms": 150079,
+      "name": "SHARP SHOOTER",
+      "url": "https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Penny",
         "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 183529,
       "name": "Penny",
       "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 193207,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
     },
     {
       "added_at": "2024-05-10 00:01:00",

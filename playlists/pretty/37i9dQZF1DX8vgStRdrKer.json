@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
-  "num_followers": 9108,
+  "num_followers": 9127,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -457,42 +457,6 @@
       "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "All Things Are Possible (Live)",
-        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Great Grace Music",
-          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "All Things Are Possible (Live)",
-      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -515,6 +479,42 @@
       "duration_ms": 172035,
       "name": "Altar (Hosanna)",
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "All Things Are Possible (Live)",
+        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "All Things Are Possible (Live)",
+      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 142978,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Angel",
@@ -695,6 +679,22 @@
       "duration_ms": 90022,
       "name": "Let Us Go",
       "url": "https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 142978,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -757,20 +757,20 @@
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
+      "added_at": "2024-03-15 00:01:00",
       "album": {
-        "name": "Diamant",
-        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
+        "name": "Jesus To The City, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
       },
       "artists": [
         {
-          "name": "Isaac M",
-          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
         }
       ],
-      "duration_ms": 178059,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
+      "duration_ms": 186480,
+      "name": "Jeso O Ntekane (Reprise) - Live",
+      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
       "added_at": "2024-03-29 00:01:00",
@@ -789,20 +789,20 @@
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
+      "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Jesus To The City, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU"
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX"
       },
       "artists": [
         {
-          "name": "Mmuso Worship",
-          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+          "name": "Isaac M",
+          "url": "https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26"
         }
       ],
-      "duration_ms": 186480,
-      "name": "Jeso O Ntekane (Reprise) - Live",
-      "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
+      "duration_ms": 178059,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "En Toi",
-        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
-      },
-      "artists": [
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        }
-      ],
-      "duration_ms": 193417,
-      "name": "En Toi",
-      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
-    },
-    {
       "added_at": "2024-05-03 00:01:00",
       "album": {
         "name": "Like a Baby (Special Version)",
@@ -875,6 +859,22 @@
       "duration_ms": 169278,
       "name": "Like a Baby - Special Version",
       "url": "https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "En Toi",
+        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
+      },
+      "artists": [
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+        }
+      ],
+      "duration_ms": 193417,
+      "name": "En Toi",
+      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
     },
     {
       "added_at": "2024-02-16 00:01:00",

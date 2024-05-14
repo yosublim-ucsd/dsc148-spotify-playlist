@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,788 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,900 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 119 | [BORN TO BE A REBEL](https://open.spotify.com/track/7u6dDlR3OW1Z1lfkfw5zJR) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [BORN TO BE A REBEL \(feat\. Last Word\)](https://open.spotify.com/album/3wggJZUcikdKhjbPx3WADY) | 3:08 |
 | 120 | [Let Me Love You](https://open.spotify.com/track/6r2XJ4GuCkUVX3Jb3XSOzU) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU) | [Let Me Love You](https://open.spotify.com/album/0fAVJyzfy7Tt4VBeWH3EYT) | 2:56 |
 
-Snapshot ID: `Zj1HYAAAAABoMPrqVUeUPHlGMm//tLCt`
+Snapshot ID: `ZkHGHgAAAACFvv1GbmFs1RAtgsaWC9gV`

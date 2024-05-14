@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31242,
+  "num_followers": 31245,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 124096,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "INTO THE COCOON",
         "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 240960,
       "name": "BALTIMORE",
       "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
-      },
-      "artists": [
-        {
-          "name": "Gianni Lee",
-          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
-        },
-        {
-          "name": "Tunji Ige",
-          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
-        },
-        {
-          "name": "Andrea Valle",
-          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
       },
@@ -1639,6 +1615,30 @@
       "duration_ms": 113493,
       "name": "Period",
       "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
+      },
+      "artists": [
+        {
+          "name": "Gianni Lee",
+          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
+        },
+        {
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+        },
+        {
+          "name": "Andrea Valle",
+          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "sunscreen",
+        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 247236,
+      "name": "sunscreen",
+      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/6XReRYAylbP5hECgFIAC8A"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "FIJI WATER",
+        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
+      },
+      "artists": [
+        {
+          "name": "MONEYONYOURMIND",
+          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FIJI WATER",
+      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bedroom DJ Remixes",
         "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 243720,
       "name": "Holding It Together",
       "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "FIJI WATER",
-        "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
-      },
-      "artists": [
-        {
-          "name": "MONEYONYOURMIND",
-          "url": "https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FIJI WATER",
-      "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
     },
     {
       "added_at": "2024-01-26 05:00:00",

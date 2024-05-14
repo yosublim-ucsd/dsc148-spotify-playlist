@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,743 likes - 575 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,744 likes - 575 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,8 +290,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 280 | [Saint](https://open.spotify.com/track/5jpmtUd2KEApQdmIPrCNIw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:20 |
 | 281 | [When I Was Tealby Abbey \- Stereo Mix](https://open.spotify.com/track/4NdfWmWp4zLdDu4R7FXwF4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 2:36 |
 | 282 | [Snookeroo](https://open.spotify.com/track/0d6ejWRow4vk6DnLqi6mHu) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Goodnight Vienna](https://open.spotify.com/album/6HuHvPC7L7MiJgkqpZlmH4) | 3:29 |
-| 283 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 |
-| 284 | [All That I'm Allowed \(I'm Thankful\)](https://open.spotify.com/track/4BGm0moYOGolRz97B93HrH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:52 |
+| 283 | [All That I'm Allowed \(I'm Thankful\)](https://open.spotify.com/track/4BGm0moYOGolRz97B93HrH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:52 |
+| 284 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 |
 | 285 | [The Emperor's New Clothes](https://open.spotify.com/track/4iQbhtTEwrM2qfbaJlUe7I) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:28 |
 | 286 | [Easier To Walk Away](https://open.spotify.com/track/1QEDuRCXGqUwkhg2Wp1wKU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 |
 | 287 | [Walk of Shame](https://open.spotify.com/track/7byHhHTTpN8FKSFlqb5yhf) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [No Time For Rest](https://open.spotify.com/album/4IY0k3z5JHzC3j5P4Nkt6D) | 3:52 |
@@ -309,8 +309,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 299 | [Into The Old Man's Shoes](https://open.spotify.com/track/4UhrY4619OAy9Kg76Bdrli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 4:17 |
 | 300 | [Shine On Through](https://open.spotify.com/track/6alVOFBQtlXKUnkvpLkVsE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:45 |
 | 301 | [Grimsby \- Remastered 1995](https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:46 |
-| 302 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 |
-| 303 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 302 | [Princess \- Remastered 2003](https://open.spotify.com/track/4CXqTPvtAyxH7YnRvxloDr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:55 |
+| 303 | [It's Me That You Need](https://open.spotify.com/track/6fprMrT0pdkqjmuWQsMqDo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:04 |
 | 304 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 |
 | 305 | [The Captain and The Kid](https://open.spotify.com/track/1dUO9PDSYxb1UERmWYycPi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:01 |
 | 306 | [I've Seen The Saucers \- Remastered 1995](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 |
@@ -425,8 +425,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 415 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 416 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 |
 | 417 | [The Scaffold](https://open.spotify.com/track/3RiHICh0pAvLGTluo12D5V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:18 |
-| 418 | [Madness](https://open.spotify.com/track/7jOu8dOL0lRL8E1y8Zwe4V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 5:53 |
-| 419 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 418 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 419 | [Madness](https://open.spotify.com/track/7jOu8dOL0lRL8E1y8Zwe4V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 5:53 |
 | 420 | [Suit Of Wolves](https://open.spotify.com/track/7mvK7JHc1fOVs7HLVP3fwV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:48 |
 | 421 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 |
 | 422 | [I Stop And I Breathe](https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:39 |
@@ -477,8 +477,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 467 | [Better Together](https://open.spotify.com/track/7nsaLraV9CGza3tqX73iPP) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:29 |
 | 468 | [Tell Me What The Papers Say](https://open.spotify.com/track/1sMtrL5rMP6Qp7wyAQDH9T) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:40 |
 | 469 | [I Cry At Night](https://open.spotify.com/track/7MAVmdpMgE9CtQ4jIIQNfw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:16 |
-| 470 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
-| 471 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 470 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 471 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 |
 | 472 | [Flinstone Boy](https://open.spotify.com/track/7KPwwzMF2VqRLgtPKP2KVh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:13 |
 | 473 | [Li'l 'Frigerator](https://open.spotify.com/track/4qCzeQdIDQbGOhc6nUsdKC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:37 |
 | 474 | [Take Me Back](https://open.spotify.com/track/0uuY1ugGRma1cHJicmi6Ja) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:51 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbRKtAAAAACsSYTIsT+tZ5Mf7m3sjP5+`
+Snapshot ID: `AbRQVAAAAAB4oS7gBsGxJWcdDMtVHguC`

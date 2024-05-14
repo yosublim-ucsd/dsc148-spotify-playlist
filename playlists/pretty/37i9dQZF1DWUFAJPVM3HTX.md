@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=2khTaVjqRgusz1BA7\_IgQw"> Kenji </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,991 likes - 200 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,037 likes - 200 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,163 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,188 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 8 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
 | 9 | [Ta Tudo Bem Speedplug \- Versão Alternativa](https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ), [deadpeace](https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA) | [Luq Speed Vision](https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J) | 1:42 |
 | 10 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
-| 11 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |
-| 12 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
+| 11 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
+| 12 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |
 | 13 | [Subzero \(Speed Plug\)](https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB) | [Caeljugz](https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw) | [Subzero \(Speed Plug\)](https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI) | 2:05 |
 | 14 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
 | 15 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |

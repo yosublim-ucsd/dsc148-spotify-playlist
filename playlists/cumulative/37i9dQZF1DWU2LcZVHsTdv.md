@@ -4,7 +4,7 @@
 
 > Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
 
-240 songs - 14 hr 44 min
+241 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 | 2022-01-28 |  |
 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 | 2024-05-10 |  |
 | [Back To Jesus](https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Back To Jesus](https://open.spotify.com/album/65QXI5NEq8bjTjzbdET0gK) | 3:14 | 2023-06-23 |  |
+| [Back to You](https://open.spotify.com/track/5k9omCR4ATUBmm2ZYtuXlh) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Back to You](https://open.spotify.com/album/3yQurpLao3IeGaFAeNwFSL) | 3:50 | 2024-05-13 |  |
 | [Be A Light](https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be A Light](https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2) | 2:53 | 2021-12-10 |  |
 | [Beat Up Bible](https://open.spotify.com/track/5R7TAOPx2H0ImjCkdb4PXR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:35 | 2021-12-10 |  |
 | [Because He Lives](https://open.spotify.com/track/4dvtl2lwkAvRF58oDzHCjZ) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Because He Lives](https://open.spotify.com/album/5le9OqZy28NXnXNlpalXJ4) | 4:13 | 2023-12-15 |  |

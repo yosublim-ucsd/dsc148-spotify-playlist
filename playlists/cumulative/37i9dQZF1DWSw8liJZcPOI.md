@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-491 songs - 1 day 9 hr 58 min
+492 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl), [Valente Bertelli](https://open.spotify.com/artist/7kbDeufcUnqAmbShMeEnAC) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 | 2021-11-10 |  |
 | [acceptances](https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [acceptances](https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ) | 3:18 | 2022-03-14 |  |
 | [Ae Fond Kiss](https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF) | [Trad\. arr\. Mhairi Hall](https://open.spotify.com/artist/3kcnHRIJVuqGHete5dwvkL), [Mhairi Hall](https://open.spotify.com/artist/7rUCuF3Bcy29nwnnX1xAuf) | [Ae Fond Kiss](https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx) | 3:39 | 2021-02-13 |  |
+| [Afterglow 1](https://open.spotify.com/track/0xyHUTjskuVNDfjBlFw8FS) | [Tom Adams](https://open.spotify.com/artist/16iuZANRzcO9KStBcMkeAC) | [Golden Waves](https://open.spotify.com/album/79J3trGmuxnwmkvgGC6LT6) | 2:32 | 2024-05-10 |  |
 | [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 | 2021-12-10 | 2022-07-28 |
 | [Agape](https://open.spotify.com/track/3pmjcsSMoIlKYYNc7BK0bG) | [Kevin Scott Davis](https://open.spotify.com/artist/7aVSFlFtPWfpMvELFDXWlB), [Asia Dojnikowska](https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/6vNxKWNqLIjOS4mVu2RmMh) | 5:06 | 2024-01-05 | 2024-04-01 |
 | [Air to Breath](https://open.spotify.com/track/00qqEAAQJkVK7gw8vlJMC2) | [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Air to Breath](https://open.spotify.com/album/7zc8Fz7Tdw9VryEZzkBPre) | 4:42 | 2020-12-04 | 2020-12-11 |
@@ -166,7 +167,7 @@
 | [Fairytail](https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Fairytail](https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I) | 2:50 | 2020-10-21 |  |
 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 | 2023-05-05 |  |
 | [Fantasia Opening](https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Fantasia Opening](https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX) | 3:46 | 2024-04-12 |  |
-| [Fata Morgana](https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Herdís Stefánsdóttir](https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb) | [The Essex Serpent \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ) | 2:03 | 2024-04-12 |  |
+| [Fata Morgana](https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Herdís Stefánsdóttir](https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb) | [The Essex Serpent \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ) | 2:03 | 2024-04-12 | 2024-05-14 |
 | [Fight to Make It Up](https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe) | [Takénobu](https://open.spotify.com/artist/0gnKKarIUyBnDcORsbOdeY) | [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8) | 5:42 | 2020-10-20\* | 2022-05-12 |
 | [Final Parade](https://open.spotify.com/track/0GP4AxKX6DvTOuTZI0s1p6) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Mya](https://open.spotify.com/album/7oyU81vvHM7QOb5zty1fc3) | 2:23 | 2020-10-21 | 2021-01-15 |
 | [Fjögur píanó](https://open.spotify.com/track/4NUtQw0LdpKMcjGAb3LmwH) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN) | 7:50 | 2020-12-04 | 2020-12-11 |

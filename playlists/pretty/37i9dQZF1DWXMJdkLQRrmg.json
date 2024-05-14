@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 333611,
+  "num_followers": 333648,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
         "name": "Crooked Shadows",
         "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2024-01-16 15:01:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Waking up (Acoustic)",
-      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
         "name": "Hard To Be Alone",
         "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 182053,
       "name": "Hard To Be Alone",
       "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 225099,
+      "name": "Waking up (Acoustic)",
+      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
     },
     {
       "added_at": "2024-01-16 15:01:27",

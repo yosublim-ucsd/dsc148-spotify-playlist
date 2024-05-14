@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,710 songs - 3 day 4 hr 1 min
+1,712 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 | 2023-10-02 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2021-05-12 | 2022-04-23 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-02-09 | 2023-11-14 |
+| [Future 未来](https://open.spotify.com/track/7l9kf2CXBDtvOMIRB23H5N) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Future 未来](https://open.spotify.com/album/003NKRkJ0GM6m6VY5kSEkF) | 3:16 | 2024-05-13 |  |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2021-08-12 | 2023-01-10 |
 | [Gaze](https://open.spotify.com/track/2XeZi7qwChzLOt32tsoPXV) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 | 2019-05-26\* | 2020-09-15 |
 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 | 2020-05-26 | 2020-10-06 |
@@ -928,6 +929,7 @@
 | [Motion](https://open.spotify.com/track/4N0rvnoyl9WnxBUDgkYgKZ) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [SMM: Context](https://open.spotify.com/album/6wnAFp6Q1eobEPpT2izr1e) | 2:28 | 2019-05-26\* | 2019-08-13 |
 | [Movement](https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Movement](https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf) | 2:54 | 2022-04-14 | 2023-03-21 |
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2021-08-05 | 2022-09-13 |
+| [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-13 |  |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2021-11-11 | 2023-03-14 |
 | [Mrs\. Smith](https://open.spotify.com/track/5smg7I3dlFezDBYjLY2f0S) | [Rebour](https://open.spotify.com/artist/07AOkfzIUWrlyGI6HuvwYn) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 1:47 | 2019-05-26\* | 2020-09-01 |
 | [Mrs.Kelley](https://open.spotify.com/track/5hhkyNKosVpT0IkLcbkCx9) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [Mrs.Kelley](https://open.spotify.com/album/4ufUPx9RtrSmPr8nUSlr8T) | 2:28 | 2020-03-31 | 2020-08-04 |

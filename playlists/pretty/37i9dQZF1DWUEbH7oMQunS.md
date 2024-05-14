@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,838 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,854 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 45 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
 | 46 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
 | 47 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
-| 48 | [What You Paid For](https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [What You Paid For](https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw) | 4:09 |
-| 49 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
+| 48 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
+| 49 | [What You Paid For](https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [What You Paid For](https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw) | 4:09 |
 | 50 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
 | 51 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |
 | 52 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |

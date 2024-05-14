@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-266 songs - 14 hr 22 min
+267 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [La Difícil](https://open.spotify.com/track/6fNJm8sYmCBbmkKpKgTReA) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:38 | 2022-05-20 | 2022-10-28 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2022-05-20 | 2024-05-11 |
 | [La Luna](https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Renacer Pt\. 1](https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva) | 2:28 | 2022-05-20 |  |
+| [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 | 2024-05-10 |  |
 | [La Vida en Rosa](https://open.spotify.com/track/2MBYMHjtOPxVtZxaKbQYxc) | [Pantera Blue](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/4UoTOkoxOm0DWB2fh3W65x) | 2:08 | 2022-05-20 | 2022-07-29 |
 | [La Vida en Rosa](https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP) | 2:08 | 2022-07-11 | 2024-04-19 |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-05-20 |  |
@@ -189,7 +190,7 @@
 | [Pan con mantequilla](https://open.spotify.com/track/41tDpgy8FXbhRM11sQRvfw) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Pan con mantequilla](https://open.spotify.com/album/3eQmuh5v2y6amoPbYEIfCB) | 3:04 | 2024-05-03 |  |
 | [Para Qué Sufrir](https://open.spotify.com/track/2t7rS8BHF5TmnBR5PmnnSU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 3:46 | 2022-05-20 | 2022-10-28 |
 | [Para Siempre](https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Para Siempre](https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI) | 4:00 | 2022-05-20 | 2022-10-28 |
-| [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 | 2022-10-27 |  |
+| [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 | 2022-10-27 | 2024-05-14 |
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-05-20 | 2022-10-14 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 | 2022-10-28 |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2022-05-20 |  |

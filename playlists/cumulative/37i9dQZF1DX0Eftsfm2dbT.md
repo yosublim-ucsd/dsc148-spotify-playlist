@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POPYOURSまであと5日】J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX, JP THE WAVY
+> 【POPYOURSまであと4日】J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: guca owl
 
 711 songs - 1 day 12 hr 45 min
 

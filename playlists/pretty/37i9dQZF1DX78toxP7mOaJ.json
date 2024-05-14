@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Action/Adventure",
-  "num_followers": 142935,
+  "num_followers": 142976,
   "original_name": "Fresh Finds Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zjr4wAAAAACzc5KpaHX36QseWDa9ZDpm",
+  "snapshot_id": "ZkJK1AAAAAA+0jdMoYYd1D7GAr5DNqcu",
   "tracks": [
     {
       "added_at": "2024-05-08 04:00:00",
@@ -171,6 +171,54 @@
     {
       "added_at": "2024-05-08 04:00:00",
       "album": {
+        "name": "Self-destructor",
+        "url": "https://open.spotify.com/album/36n5CV0n4NVyeJiIjPxkOn"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 285386,
+      "name": "Self-destructor",
+      "url": "https://open.spotify.com/track/5HeivWMgipA2LeBHrUhEip"
+    },
+    {
+      "added_at": "2024-05-13 17:16:04",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/4lTbFn2sXX0s94c15wQGQ1"
+      },
+      "artists": [
+        {
+          "name": "Talking Points",
+          "url": "https://open.spotify.com/artist/0HOOEubA7zC2e5UXtKHNyG"
+        }
+      ],
+      "duration_ms": 257374,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/7HQHTxc7F8k0fnlQMiaMna"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
+        "name": "It Makes Me Think of You",
+        "url": "https://open.spotify.com/album/3BH1pK6fFuDZZVLxXDBsAz"
+      },
+      "artists": [
+        {
+          "name": "Chelsea King",
+          "url": "https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "It Makes Me Think of You",
+      "url": "https://open.spotify.com/track/3JyGawjc2ObAyGB6eSqlSL"
+    },
+    {
+      "added_at": "2024-05-08 04:00:00",
+      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/4Dt1kK5lKHWDmYCGG9mKGa"
       },
@@ -215,38 +263,6 @@
       "duration_ms": 179000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2WZbZXFmpm2kK3t6OzttqX"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "It Makes Me Think of You",
-        "url": "https://open.spotify.com/album/3BH1pK6fFuDZZVLxXDBsAz"
-      },
-      "artists": [
-        {
-          "name": "Chelsea King",
-          "url": "https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "It Makes Me Think of You",
-      "url": "https://open.spotify.com/track/3JyGawjc2ObAyGB6eSqlSL"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Self-destructor",
-        "url": "https://open.spotify.com/album/36n5CV0n4NVyeJiIjPxkOn"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 285386,
-      "name": "Self-destructor",
-      "url": "https://open.spotify.com/track/5HeivWMgipA2LeBHrUhEip"
     },
     {
       "added_at": "2024-05-08 04:00:00",

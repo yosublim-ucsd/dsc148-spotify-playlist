@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 147089,
       "name": "Fora de Si - Ao Vivo",
       "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 164141,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
@@ -812,6 +812,28 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gabby Moura",
+          "url": "https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140703,
+      "name": "Me Arrepender - Ao Vivo",
+      "url": "https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT"
     },
     {
       "album": {

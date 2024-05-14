@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-724 songs - 1 day 17 hr 45 min
+725 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-05 | 2022-09-17 |
+| [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-05-13 |  |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dancing With Myself](https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Dancing With Myself](https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00) | 2:43 | 2024-03-06 |  |
@@ -161,7 +162,7 @@
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
 | [Don't Speak](https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Don't Speak](https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr) | 4:00 | 2024-04-01 |  |
-| [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 | 2024-02-22 |  |
+| [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 | 2024-02-22 | 2024-05-14 |
 | [Doorman](https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Doorman](https://open.spotify.com/album/6YPPtqhN5yMSXIt7py2808) | 3:37 | 2024-04-19 |  |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 326857,
+  "num_followers": 326910,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
       },
@@ -1351,26 +1351,6 @@
       "duration_ms": 129776,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "Buried Beneath You",
-        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Buried Beneath You",
-      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1399,22 +1379,42 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "Buried Beneath You",
+        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         },
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 211013,
+      "name": "Buried Beneath You",
+      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1435,6 +1435,26 @@
       "duration_ms": 259401,
       "name": "Our Fire",
       "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1479,26 +1499,6 @@
       "duration_ms": 268915,
       "name": "Never Change - Sullivan King Remix",
       "url": "https://open.spotify.com/track/0SmsBon58vD8QskC1l18TQ"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1791,6 +1791,38 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
+        "name": "MY MASOCHISTIC MIND",
+        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "I am a Machine",
+      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
+      },
+      "artists": [
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -1815,38 +1847,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Enemy Brain Entertainment Suite",
-        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 251511,
-      "name": "Enemy Brain",
-      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "MY MASOCHISTIC MIND",
-        "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "I am a Machine",
-      "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
       },
@@ -1863,26 +1863,6 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1907,6 +1887,26 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Brunt",
-        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Nosphere",
-          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Brunt",
-      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Broken String",
         "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
       },
@@ -2031,22 +2011,22 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
+        "name": "Brunt",
+        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         },
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Nosphere",
+          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Angst - RMX by twocolors",
-      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
+      "duration_ms": 205241,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2071,6 +2051,26 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Angst - RMX by twocolors",
+      "url": "https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM"
     },
     {
       "added_at": "2024-05-10 17:26:40",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2024-05-10 17:26:40",
       "album": {
-        "name": "HEADCASE",
-        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "HEADCASE",
-      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
-    },
-    {
-      "added_at": "2024-05-10 17:26:40",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
       },
@@ -2407,6 +2387,26 @@
       "duration_ms": 222400,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
+    },
+    {
+      "added_at": "2024-05-10 17:26:40",
+      "album": {
+        "name": "HEADCASE",
+        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "HEADCASE",
+      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
     },
     {
       "added_at": "2024-05-10 17:26:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 50 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 3:47 |
 | 51 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `Zj5rMAAAAAByxJ+oE/HTtPTd5OoocE11`
+Snapshot ID: `ZkJqUgAAAACGbLmoTLKgNeYxSlSiLcii`

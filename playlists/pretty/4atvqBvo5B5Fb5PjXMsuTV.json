@@ -1,13 +1,205 @@
 {
   "description": "Updated daily, with the latest popular singles!",
-  "num_followers": 77,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 12 MAY",
+  "num_followers": 76,
+  "original_name": "NEW SINGLES RELEASES | UPDATED 14 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAISNmMGs1+P2WkzQucs9Ah77fimKsm",
+  "snapshot_id": "AAAITh67tH6Lu/jhlY1NW6KOpW7GSsiT",
   "tracks": [
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "Wednesday Afternoon",
+        "url": "https://open.spotify.com/album/43xJu9O3OvpJsxfLerJhIZ"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 219023,
+      "name": "Wednesday Afternoon",
+      "url": "https://open.spotify.com/track/71QuZsn6oeJz1hV8TOQQLJ"
+    },
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "Gunsmif",
+        "url": "https://open.spotify.com/album/3I1tjuKTVsY4Wt2d0rVM1U"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 111060,
+      "name": "Gunsmif",
+      "url": "https://open.spotify.com/track/5fe0xUQfEAYE45XwN0h2wC"
+    },
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "my mother's jeans",
+        "url": "https://open.spotify.com/album/0C2BwfDGlcTj9Zzjy1dpE4"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "my mother's jeans",
+      "url": "https://open.spotify.com/track/4MGlsmB32OMWBdOX5qcVrV"
+    },
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/05JoK0jxL5RzOMro967Xpx"
+      },
+      "artists": [
+        {
+          "name": "Edward Skeletrix",
+          "url": "https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS"
+        }
+      ],
+      "duration_ms": 95657,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/41Eyl93uSxpPze9qTAZfRH"
+    },
+    {
+      "added_at": "2024-05-13 22:02:11",
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Black & Whites",
+      "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
+    },
+    {
+      "added_at": "2024-05-13 10:02:09",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
+    },
+    {
+      "added_at": "2024-05-13 10:02:09",
+      "album": {
+        "name": "Lonely With Our Love",
+        "url": "https://open.spotify.com/album/1Ok9yuSPTt1TGlKAeXjheL"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 208823,
+      "name": "Lonely With Our Love",
+      "url": "https://open.spotify.com/track/3Vzzah8uuoNYXRXtKFu9Zr"
+    },
+    {
+      "added_at": "2024-05-13 10:02:09",
+      "album": {
+        "name": "Powerhouse",
+        "url": "https://open.spotify.com/album/04tNMIbxEhy30gC5Hto1Fw"
+      },
+      "artists": [
+        {
+          "name": "The Crosses",
+          "url": "https://open.spotify.com/artist/6D17hQGUXucuETbTL69BOR"
+        }
+      ],
+      "duration_ms": 229301,
+      "name": "Powerhouse",
+      "url": "https://open.spotify.com/track/4QO0ltRbThORPwFTGC0Snb"
+    },
+    {
+      "added_at": "2024-05-13 10:02:09",
+      "album": {
+        "name": "Blur My Memory",
+        "url": "https://open.spotify.com/album/1CzJzus4zgnwjfksYKCop6"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 159626,
+      "name": "Blur My Memory",
+      "url": "https://open.spotify.com/track/0xTodmdnb8ShqovneD0GEy"
+    },
+    {
+      "added_at": "2024-05-13 10:02:09",
+      "album": {
+        "name": "When I Came Inside Her I Said Oogie Boogie",
+        "url": "https://open.spotify.com/album/4t71QRlRjhZFq61qZcsSmH"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "When I Came Inside Her I Said Oogie Boogie",
+      "url": "https://open.spotify.com/track/7luhVyypn9sZK6DTsoIKRx"
+    },
     {
       "added_at": "2024-05-12 10:01:46",
       "album": {
@@ -259,188 +451,8 @@
       "duration_ms": 210600,
       "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
       "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/4pfs6RS2T9Ic6GbtXFmpNN"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 214964,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "SLIMEY AS IT GET",
-        "url": "https://open.spotify.com/album/7Bwrixg9LjeiLD4jLeaJzL"
-      },
-      "artists": [
-        {
-          "name": "Joey Trap",
-          "url": "https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce"
-        }
-      ],
-      "duration_ms": 221631,
-      "name": "SLIMEY AS IT GET",
-      "url": "https://open.spotify.com/track/61EoAy5pbk0cDpzy4jPlKi"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7JDOLtvLcfMd1vZy6IoxnQ"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 224429,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Hollywouldn't",
-        "url": "https://open.spotify.com/album/5nMD0LZaLjeh9yaqQbLurW"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 175488,
-      "name": "Hollywouldn't",
-      "url": "https://open.spotify.com/track/1FeNJM6iuGtnoNVqvoIRQA"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Break My Rules",
-        "url": "https://open.spotify.com/album/2Igl6wWMOmW2P668FCzkRQ"
-      },
-      "artists": [
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 117176,
-      "name": "Break My Rules",
-      "url": "https://open.spotify.com/track/7rkUu52XSU9Re5sJeTQOCz"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Eulogy",
-        "url": "https://open.spotify.com/album/6lq4DFt4YV2EKRVDbJh88H"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/4ifohupUuOuCxTZvVtbMAL"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "ily too",
-        "url": "https://open.spotify.com/album/5RmJQQ9YKpMmWLDqiNF6cy"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 113617,
-      "name": "ily too",
-      "url": "https://open.spotify.com/track/4oJnq0OMrEMgOa2PTRg7wX"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "CONGRATS..",
-        "url": "https://open.spotify.com/album/7BflQj016xxapmR1uw9iiR"
-      },
-      "artists": [
-        {
-          "name": "GFOTY",
-          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
-        }
-      ],
-      "duration_ms": 138107,
-      "name": "CONGRATS..",
-      "url": "https://open.spotify.com/track/7H9ZowmMW9TeRAKkKVFfMl"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 204121,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
-    },
-    {
-      "added_at": "2024-05-10 22:02:32",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/7xynuAcGDWXgvjcIq3uapq"
-      },
-      "artists": [
-        {
-          "name": "Jace June",
-          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/5kNNalR2uZHvdbGD6K1hF7"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 12 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 14 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

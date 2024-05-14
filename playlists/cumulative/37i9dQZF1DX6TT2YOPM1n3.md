@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to current Pakistani Hits\. 🇵🇰 Cover: Asim Azhar
+> Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
 
 147 songs - 9 hr 32 min
 

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Erasmo Carlos",
-  "num_followers": 343560,
+  "num_followers": 343547,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ao Arrepio da Lei",
         "url": "https://open.spotify.com/album/1UwTMohdeycHtJFsRJ4nCY"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 187934,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "4M\u00e3os - Lado A",
-        "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "George Israel",
-          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
-        }
-      ],
-      "duration_ms": 189787,
-      "name": "Em cada pra sempre",
-      "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 150394,
       "name": "Cheguei pra ficar",
       "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "4M\u00e3os - Lado A",
+        "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "George Israel",
+          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
+        }
+      ],
+      "duration_ms": 189787,
+      "name": "Em cada pra sempre",
+      "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Caminho de Quem Passa",
-        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 208572,
-      "name": "Caminho de Quem Passa",
-      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "O Vento",
         "url": "https://open.spotify.com/album/40Rsk68l9BWUbTqlbZKJH7"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 214992,
       "name": "O Vento",
       "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Caminho de Quem Passa",
+        "url": "https://open.spotify.com/album/3hJ9Rtzuf4ztcJi2lO5plu"
+      },
+      "artists": [
+        {
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
+        }
+      ],
+      "duration_ms": 208572,
+      "name": "Caminho de Quem Passa",
+      "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Estado Febril",
+        "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
+      },
+      "artists": [
+        {
+          "name": "Bruna Alimonda",
+          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
+        }
+      ],
+      "duration_ms": 182765,
+      "name": "Me Beija Na Rua",
+      "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Transborda",
         "url": "https://open.spotify.com/album/5cHD61LinisVOeEBAUsRvX"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 177674,
       "name": "Transborda",
       "url": "https://open.spotify.com/track/3YyiXT3hT1SgyrO7sJESE4"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Estado Febril",
-        "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
-      },
-      "artists": [
-        {
-          "name": "Bruna Alimonda",
-          "url": "https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng"
-        }
-      ],
-      "duration_ms": 182765,
-      "name": "Me Beija Na Rua",
-      "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
     },
     {
       "added_at": "2024-05-10 03:00:00",

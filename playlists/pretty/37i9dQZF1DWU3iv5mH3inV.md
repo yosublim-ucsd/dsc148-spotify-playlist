@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: Bb trickz y Kevin AMF
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,176 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,356 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 |
+| 1 | [Soy la Más Mala de España](https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Soy la Más Mala de España](https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM) | 1:50 |
 | 2 | [LA LECHE MATERNA](https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [LA LECHE MATERNA](https://open.spotify.com/album/4WubZiMwYY62xswcYmd8TO) | 3:04 |
 | 3 | [PA' QUE BAILES](https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [NEW AIR'S](https://open.spotify.com/album/3HUCThS7hjZsAsWhDdhGeU) | 1:48 |
 | 4 | [Cara De Q](https://open.spotify.com/track/4oUupKOJFy5blYAsV9BZ0g) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Cara De Q](https://open.spotify.com/album/6AvznJjWEIwmrXZgyDjQy8) | 2:24 |
-| 5 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
-| 6 | [Soy la Más Mala de España](https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Soy la Más Mala de España](https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM) | 1:50 |
-| 7 | [2 Pa 2](https://open.spotify.com/track/1D7brc9ipy7YtRZ9U5aWn1) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [2 Pa 2](https://open.spotify.com/album/3s4xJl3aoZdCRzRzRKLQAY) | 2:19 |
-| 8 | [Tetere](https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tetere](https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m) | 1:57 |
-| 9 | [La Cara Tatuada](https://open.spotify.com/track/2aTrjrPsNa3NtGtKMNc6Cw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Cara Tatuada](https://open.spotify.com/album/5atij5G5g1Yy8qB0koZnv2) | 2:30 |
-| 10 | [Pitoleo](https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi) | [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Pitoleo](https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu) | 1:48 |
-| 11 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
-| 12 | [PILA D CUERO](https://open.spotify.com/track/1evHuVvlijZAdCUHAG7ASm) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [PILA D CUERO](https://open.spotify.com/album/1BvuRAGSIYOWrN0W58FsRu) | 2:54 |
-| 13 | [Entone](https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Entone](https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB) | 1:42 |
+| 5 | [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 |
+| 6 | [2 Pa 2](https://open.spotify.com/track/1D7brc9ipy7YtRZ9U5aWn1) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [2 Pa 2](https://open.spotify.com/album/3s4xJl3aoZdCRzRzRKLQAY) | 2:19 |
+| 7 | [Tetere](https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tetere](https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m) | 1:57 |
+| 8 | [La Cara Tatuada](https://open.spotify.com/track/2aTrjrPsNa3NtGtKMNc6Cw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Cara Tatuada](https://open.spotify.com/album/5atij5G5g1Yy8qB0koZnv2) | 2:30 |
+| 9 | [Pitoleo](https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi) | [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Pitoleo](https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu) | 1:48 |
+| 10 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
+| 11 | [PILA D CUERO](https://open.spotify.com/track/1evHuVvlijZAdCUHAG7ASm) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [PILA D CUERO](https://open.spotify.com/album/1BvuRAGSIYOWrN0W58FsRu) | 2:54 |
+| 12 | [Entone](https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Entone](https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB) | 1:42 |
+| 13 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 | 14 | [Ma Buena](https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Ma Buena](https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6) | 2:32 |
 | 15 | [El Te Dio](https://open.spotify.com/track/74E2L10UCNdtKbm3Ykecds) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [El Te Dio](https://open.spotify.com/album/1p8qr1mwJbHFJlWXk51Xzs) | 2:17 |
 | 16 | [Lo Leo](https://open.spotify.com/track/6HC8YpEQBTX9jUYNtztymL) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Ricko](https://open.spotify.com/artist/6iMwEtMtogBXXnBUOowaIj), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Lo Leo](https://open.spotify.com/album/5r2vagQRqvu11rnr8XMppq) | 2:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 79 | [Peligroso](https://open.spotify.com/track/6JW8gnL90HaPyOfsVXDFsv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Peligroso](https://open.spotify.com/album/2EEmVpRA0Q60viHH3BYBKW) | 2:03 |
 | 80 | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF) | 2:37 |
 
-Snapshot ID: `Zj+EawAAAABKXaPcedH7JxtcYbh8TEoy`
+Snapshot ID: `ZkJq+gAAAACghbqZASM95uykD7us341d`

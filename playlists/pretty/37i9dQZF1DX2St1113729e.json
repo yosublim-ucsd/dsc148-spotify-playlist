@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Mar\u00eda Escarmiento",
-  "num_followers": 216711,
+  "num_followers": 216691,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/2Dx9w16GgrNC9Elh1sENiv"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "Staggr",
+          "url": "https://open.spotify.com/artist/6A11NuiwiG0h9xky3bbW1g"
+        }
+      ],
+      "duration_ms": 118330,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/4fZjL6UwWDpr2ZduW7HELH"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Gracias (Tengo To)",
         "url": "https://open.spotify.com/album/12CI5qYw83SINrgrs49UeI"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Millions",
-        "url": "https://open.spotify.com/album/2Dx9w16GgrNC9Elh1sENiv"
-      },
-      "artists": [
-        {
-          "name": "Kill Eva",
-          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
-        },
-        {
-          "name": "Staggr",
-          "url": "https://open.spotify.com/artist/6A11NuiwiG0h9xky3bbW1g"
-        }
-      ],
-      "duration_ms": 118330,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/4fZjL6UwWDpr2ZduW7HELH"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "JaJaJa",
+        "url": "https://open.spotify.com/album/39kaEp4VG6LaV4l6q2ZMvF"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "JaJaJa",
+      "url": "https://open.spotify.com/track/5YXkLwZyPzf5D9YlG0L5NM"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/4suwfyDcrOtqw5pP1V2G72"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 112587,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4T958ebkKEF3atCY2zn3hB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "JaJaJa",
-        "url": "https://open.spotify.com/album/39kaEp4VG6LaV4l6q2ZMvF"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "JaJaJa",
-      "url": "https://open.spotify.com/track/5YXkLwZyPzf5D9YlG0L5NM"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Fuera de CTRL",
-        "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
-      },
-      "artists": [
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        },
-        {
-          "name": "Albert Rei",
-          "url": "https://open.spotify.com/artist/3Ys59AxzZx9UN6o6Q9yyw3"
-        }
-      ],
-      "duration_ms": 157971,
-      "name": "Fuera de CTRL",
-      "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "DOPPELG\u00c4NGER",
         "url": "https://open.spotify.com/album/7zLhKR5GnDdZmDCUWMFOAf"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 186162,
       "name": "DOPPELG\u00c4NGER",
       "url": "https://open.spotify.com/track/7jVNSRCBRFzrsNSExaWomq"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Fuera de CTRL",
+        "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
+      },
+      "artists": [
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "Albert Rei",
+          "url": "https://open.spotify.com/artist/3Ys59AxzZx9UN6o6Q9yyw3"
+        }
+      ],
+      "duration_ms": 157971,
+      "name": "Fuera de CTRL",
+      "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -943,42 +943,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "MYLOVEMYLOVE",
-        "url": "https://open.spotify.com/album/31ky1vexdnfugnK89JteJM"
-      },
-      "artists": [
-        {
-          "name": "Juliett.",
-          "url": "https://open.spotify.com/artist/24Pzb29mhh82I8N3b8nJxi"
-        },
-        {
-          "name": "ThePauSing",
-          "url": "https://open.spotify.com/artist/7pqkBxRJvj8NfGe8yDOXIQ"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "MYLOVEMYLOVE",
-      "url": "https://open.spotify.com/track/63qXWotY7UFD70tVGk2g71"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "FINA Y ELEGANTA",
-        "url": "https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "FINA Y ELEGANTA",
-      "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Sefirot",
         "url": "https://open.spotify.com/album/7dYlNgFh5Z31syVgrABpU6"
       },
@@ -995,6 +959,26 @@
       "duration_ms": 167865,
       "name": "Sefirot",
       "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "MYLOVEMYLOVE",
+        "url": "https://open.spotify.com/album/31ky1vexdnfugnK89JteJM"
+      },
+      "artists": [
+        {
+          "name": "Juliett.",
+          "url": "https://open.spotify.com/artist/24Pzb29mhh82I8N3b8nJxi"
+        },
+        {
+          "name": "ThePauSing",
+          "url": "https://open.spotify.com/artist/7pqkBxRJvj8NfGe8yDOXIQ"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "MYLOVEMYLOVE",
+      "url": "https://open.spotify.com/track/63qXWotY7UFD70tVGk2g71"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 168727,
       "name": "venier_rmx165bpm",
       "url": "https://open.spotify.com/track/11pm3TTl9Fi6d0RaCwpzFT"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "FINA Y ELEGANTA",
+        "url": "https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "FINA Y ELEGANTA",
+      "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
-        "url": "https://open.spotify.com/album/0UIFvo5u6XQcpaqolhRKq2"
-      },
-      "artists": [
-        {
-          "name": "marsal",
-          "url": "https://open.spotify.com/artist/0pkxapeJYS2mENP1lATzgB"
-        },
-        {
-          "name": "Pr\u00f6z",
-          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
-        }
-      ],
-      "duration_ms": 123771,
-      "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
-      "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "AUTOBOICOT",
         "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 125991,
       "name": "GRIS",
       "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
+        "url": "https://open.spotify.com/album/0UIFvo5u6XQcpaqolhRKq2"
+      },
+      "artists": [
+        {
+          "name": "marsal",
+          "url": "https://open.spotify.com/artist/0pkxapeJYS2mENP1lATzgB"
+        },
+        {
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
+        }
+      ],
+      "duration_ms": 123771,
+      "name": "\u00a1qu\u00e9 asco! adultos bes\u00e1ndose",
+      "url": "https://open.spotify.com/track/2dAlgjNcpogvpbs3H9MXXv"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "irl.angel",
-        "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
-      },
-      "artists": [
-        {
-          "name": "conan kid",
-          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "irl.angel",
-      "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "irl.angel",
+        "url": "https://open.spotify.com/album/4uimyncVGULggwcpJHlAOC"
+      },
+      "artists": [
+        {
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
+        }
+      ],
+      "duration_ms": 113600,
+      "name": "irl.angel",
+      "url": "https://open.spotify.com/track/0BGC0CP8fHM2rVKZDwNrZL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1415,22 +1415,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "NO PIDO TANTO",
-        "url": "https://open.spotify.com/album/6Pj4PKFV3cTAyLIW28Warq"
+        "name": "2 perdices",
+        "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
       },
       "artists": [
         {
-          "name": "Sanzzz",
-          "url": "https://open.spotify.com/artist/1vVjd1HIXSvhQKsRfCLg18"
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
         },
         {
-          "name": "JCC",
-          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "BLNCO",
+          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
         }
       ],
-      "duration_ms": 139800,
-      "name": "NO PIDO TANTO",
-      "url": "https://open.spotify.com/track/0EgJpYLEW3HH9AF34cAOJg"
+      "duration_ms": 150795,
+      "name": "2 perdices",
+      "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1463,26 +1467,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "2 perdices",
-        "url": "https://open.spotify.com/album/6Sam76k7K4MD0bh4wEIEpY"
+        "name": "NO PIDO TANTO",
+        "url": "https://open.spotify.com/album/6Pj4PKFV3cTAyLIW28Warq"
       },
       "artists": [
         {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+          "name": "Sanzzz",
+          "url": "https://open.spotify.com/artist/1vVjd1HIXSvhQKsRfCLg18"
         },
         {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
-        },
-        {
-          "name": "BLNCO",
-          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
+          "name": "JCC",
+          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
         }
       ],
-      "duration_ms": 150795,
-      "name": "2 perdices",
-      "url": "https://open.spotify.com/track/4hKgioVmJ74290mQLo70vb"
+      "duration_ms": 139800,
+      "name": "NO PIDO TANTO",
+      "url": "https://open.spotify.com/track/0EgJpYLEW3HH9AF34cAOJg"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Estrella De La Noche",
+        "url": "https://open.spotify.com/album/21uXi8TrDnKuCRARfnia6G"
+      },
+      "artists": [
+        {
+          "name": "Imperial Blxndie",
+          "url": "https://open.spotify.com/artist/7yLoYQcZVkMgie2CvjpuT1"
+        },
+        {
+          "name": "Iced Coffeeboy",
+          "url": "https://open.spotify.com/artist/37vyOCKaeLQZKGtMd8iadR"
+        }
+      ],
+      "duration_ms": 185460,
+      "name": "Estrella De La Noche",
+      "url": "https://open.spotify.com/track/3GGd933RB3nS915oezHTJl"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/1lKue1jVBIqOQ97rhSNLj7"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 141098,
       "name": "L\u00cdNEA CIRCULAR",
       "url": "https://open.spotify.com/track/238o7UQJIXaXU2BZ2hYEfb"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Estrella De La Noche",
-        "url": "https://open.spotify.com/album/21uXi8TrDnKuCRARfnia6G"
-      },
-      "artists": [
-        {
-          "name": "Imperial Blxndie",
-          "url": "https://open.spotify.com/artist/7yLoYQcZVkMgie2CvjpuT1"
-        },
-        {
-          "name": "Iced Coffeeboy",
-          "url": "https://open.spotify.com/artist/37vyOCKaeLQZKGtMd8iadR"
-        }
-      ],
-      "duration_ms": 185460,
-      "name": "Estrella De La Noche",
-      "url": "https://open.spotify.com/track/3GGd933RB3nS915oezHTJl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pens\u00e1ndome",
-        "url": "https://open.spotify.com/album/2MKYc17O6RhT3yAWNDl6sX"
-      },
-      "artists": [
-        {
-          "name": "Kusiak",
-          "url": "https://open.spotify.com/artist/3a0ofSBfBR6VOIqBfMOXxj"
-        }
-      ],
-      "duration_ms": 134825,
-      "name": "Pens\u00e1ndome",
-      "url": "https://open.spotify.com/track/2AiGm6VVvbuTdymHIXgD3R"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "tamagotchi",
         "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
       },
@@ -1939,6 +1923,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Pens\u00e1ndome",
+        "url": "https://open.spotify.com/album/2MKYc17O6RhT3yAWNDl6sX"
+      },
+      "artists": [
+        {
+          "name": "Kusiak",
+          "url": "https://open.spotify.com/artist/3a0ofSBfBR6VOIqBfMOXxj"
+        }
+      ],
+      "duration_ms": 134825,
+      "name": "Pens\u00e1ndome",
+      "url": "https://open.spotify.com/track/2AiGm6VVvbuTdymHIXgD3R"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "FLOR",
+        "url": "https://open.spotify.com/album/5yk2soT6ZFBvWZlmp4aJSZ"
+      },
+      "artists": [
+        {
+          "name": "Izev",
+          "url": "https://open.spotify.com/artist/344idpcQy9hTDDAI3JciL5"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "FLOR",
+      "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "ESA MISMA NOCHE",
         "url": "https://open.spotify.com/album/38ug1znZkPNjuLCrGCv2Xq"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 153630,
       "name": "ESA MISMA NOCHE",
       "url": "https://open.spotify.com/track/1XL0v02xUZoMji1JxpeyI5"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "AnKur",
-        "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
-      },
-      "artists": [
-        {
-          "name": "Jaunx",
-          "url": "https://open.spotify.com/artist/4vipzfP6wRvnEAvVaeIt1h"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "AnKur",
-      "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
     }
   ],
   "unique_name": "helium",

@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Digital Diva EP",
+        "url": "https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251711,
+      "name": "Digital Diva",
+      "url": "https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD"
+    },
+    {
+      "album": {
         "name": "Dilla 4 Life",
         "url": "https://open.spotify.com/album/4PluePNnDFKZ4KrDZUJYze"
       },
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 318709,
       "name": "Pau - Bella Boo Remix",
       "url": "https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB"

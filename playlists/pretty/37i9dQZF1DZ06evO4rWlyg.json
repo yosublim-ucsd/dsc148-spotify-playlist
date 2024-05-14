@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 133287,
+  "description": "This is Bj\u00f6rk. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 133301,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAAD3XMyJU8udyFoa0kU1S2g",
+  "snapshot_id": "ZkAGgAAAAAA0QHIVB4vOZ1nxH3/rQCxL",
   "tracks": [
     {
       "added_at": null,
@@ -592,7 +592,7 @@
       "added_at": null,
       "album": {
         "name": "Bastards",
-        "url": "https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw"
+        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
       },
       "artists": [
         {
@@ -600,13 +600,13 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         },
         {
-          "name": "Matthew Herbert",
-          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
         }
       ],
-      "duration_ms": 37000,
-      "name": "Sacrifice Reprise - Matthew Herbert's Pins and Needles Mix",
-      "url": "https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5"
+      "duration_ms": 399080,
+      "name": "Crystalline - Omar Souleyman Remix",
+      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
       "duration_ms": 146200,
       "name": "Batabid",
       "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
     },
     {
       "added_at": null,
@@ -651,28 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Kasimyn",
-          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
-        }
-      ],
-      "duration_ms": 259064,
-      "name": "Fossora",
-      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bastards",
-        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
+        "url": "https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw"
       },
       "artists": [
         {
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         },
         {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
         }
       ],
-      "duration_ms": 399080,
-      "name": "Crystalline - Omar Souleyman Remix",
-      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
+      "duration_ms": 37000,
+      "name": "Sacrifice Reprise - Matthew Herbert's Pins and Needles Mix",
+      "url": "https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5"
     },
     {
       "added_at": null,

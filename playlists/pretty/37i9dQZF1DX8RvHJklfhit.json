@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 177946,
+  "num_followers": 177990,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 253984,
-      "name": "Nydia",
-      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 253984,
+      "name": "Nydia",
+      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ambar Bossa Nova - Spotify Singles",
-      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ambar Bossa Nova - Spotify Singles",
+      "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Nada Personal",
         "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 281960,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Nena <3",
-        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
-      },
-      "artists": [
-        {
-          "name": "Julienne Ramos",
-          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nena <3",
-      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "And Ever.",
         "url": "https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 175440,
       "name": "And Ever.",
       "url": "https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Nena <3",
+        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
+      },
+      "artists": [
+        {
+          "name": "Julienne Ramos",
+          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nena <3",
+      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Colores Paganos",
+        "url": "https://open.spotify.com/album/4vnX5IssItnysn23jh72Wj"
+      },
+      "artists": [
+        {
+          "name": "TOURISTA",
+          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
+        }
+      ],
+      "duration_ms": 204585,
+      "name": "Explotar Contigo",
+      "url": "https://open.spotify.com/track/20ErAhgNBROUWr8GM4q47f"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Monta\u00f1as",
         "url": "https://open.spotify.com/album/0gizu7kvF4DvPNTVByCADF"
       },
@@ -1587,38 +1619,6 @@
       "duration_ms": 288091,
       "name": "Monta\u00f1as",
       "url": "https://open.spotify.com/track/1soSCtYHS2YEZZmumQhXtJ"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "American Spirits",
-      "url": "https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/5S5S5oiwdGS4ppgXmF2w0V"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S"
+        "name": "Un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 204036,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39"
+      "duration_ms": 167386,
+      "name": "Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0"
     }
   ],
   "unique_name": "Latin Indie Classics",

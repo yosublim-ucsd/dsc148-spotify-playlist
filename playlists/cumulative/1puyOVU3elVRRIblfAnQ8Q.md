@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-139 songs - 8 hr 9 min
+141 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Feel This Way](https://open.spotify.com/track/2s9fS0BJCjluUwZqYljM7R) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Yianna](https://open.spotify.com/artist/051lz9ZMNShdpFP1uQtd9m) | [Feel This Way](https://open.spotify.com/album/196fDVj2YoME2w9185WRNb) | 3:27 | 2023-08-28 | 2023-11-09 |
 | [Feel Ur Touch](https://open.spotify.com/track/2AyS9W5k9vsU6FHHNACWd8) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:21 | 2024-01-26 |  |
 | [Fingertips](https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Sky M.](https://open.spotify.com/artist/0jf2HjwY0PCybGRjkz0qXS) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:17 | 2023-11-08 |  |
+| [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-13 |  |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-10 |  |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-04-05 |  |
 | [Flow](https://open.spotify.com/track/1jiPHdx1jxAHxkdWVrmIMY) | [Audioscribe](https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:24 | 2024-01-26 | 2024-02-10 |
@@ -139,6 +140,7 @@
 | [Too Hot To Touch](https://open.spotify.com/track/1ToRXp4PipYcrtHZEsBpU7) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Too Hot To Touch](https://open.spotify.com/album/6ncPlSvBt0Kv9gUoJ44dZn) | 3:47 | 2023-02-12 | 2023-11-09 |
 | [Touch](https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Touch](https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g) | 3:40 | 2023-12-08 | 2024-01-27 |
 | [Touch](https://open.spotify.com/track/3PFu4xwQHn7xYDGmdGrvF5) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:40 | 2024-01-26 | 2024-02-10 |
+| [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 | 2024-05-13 |  |
 | [Turn The Tide](https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Turn The Tide](https://open.spotify.com/album/1dKucMNWwvFT9BCl5Mts2g) | 3:06 | 2023-09-20 | 2024-01-27 |
 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 | 2023-01-11 | 2023-11-09 |
 | [Wait For The Drop \- VIP Edit](https://open.spotify.com/track/5uvI0luawv5HFWSivNzsqM) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Bayer & Waits](https://open.spotify.com/artist/4LxDwZT1giWKjg3sHqfSiS) | [Wait For The Drop](https://open.spotify.com/album/1TLclb9gc0pMUgSjiCiuCc) | 3:00 | 2024-04-05 |  |

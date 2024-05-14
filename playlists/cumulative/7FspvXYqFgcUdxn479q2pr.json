@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "album": {
         "name": "Timmy Trumpet's SINPHONY No. 2",
         "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
       },
@@ -322,6 +340,24 @@
       "duration_ms": 214884,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi"
+    },
+    {
+      "album": {
+        "name": "From Paris To Berlin",
+        "url": "https://open.spotify.com/album/0qJdKpljt9DfkUrtsMuSrG"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "From Paris To Berlin",
+      "url": "https://open.spotify.com/track/4npIZEyL6aqIsIcp3zCE7j"
     },
     {
       "album": {

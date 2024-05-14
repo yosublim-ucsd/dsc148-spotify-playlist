@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 66596,
+  "num_followers": 66614,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAA4qU8KVkUWQ6SabSFoz0Wt",
+  "snapshot_id": "ZkAGgAAAAAAjA6xGY5MtKUFFDFpCyLzn",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carm\u00edn",
-        "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
+        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
       "artists": [
         {
-          "name": "Yoru",
-          "url": "https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 178036,
-      "name": "Carm\u00edn",
-      "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
+      "duration_ms": 334378,
+      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
     },
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Carm\u00edn",
+        "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
       "artists": [
+        {
+          "name": "Yoru",
+          "url": "https://open.spotify.com/artist/5Hbzj3FeAKHQMRZN3HfUwZ"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 362920,
-      "name": "Toque de Queda",
-      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
+      "duration_ms": 178036,
+      "name": "Carm\u00edn",
+      "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
     },
     {
       "added_at": null,
@@ -711,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
       "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 334378,
-      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+      "duration_ms": 362920,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
     },
     {
       "added_at": null,

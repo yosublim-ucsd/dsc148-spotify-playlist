@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > Congratulations to the winner of Eurovision Song Contest 2024 \- Nemo 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,685 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,763 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 36 | [In the Middle](https://open.spotify.com/track/5ViF3hsL0iwD7jhh5JB2Ip) | [Natalia Barbu](https://open.spotify.com/artist/6dICPcKkYBBS4lW6TdxUQr) | [In the Middle](https://open.spotify.com/album/560gPARoBrtx4oQhrVj6KH) | 2:58 |
 | 37 | [Scared of Heights](https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Scared of Heights](https://open.spotify.com/album/1xY1K8eiKsbZPUcSAr9epd) | 3:03 |
 
-Snapshot ID: `Zj/4NgAAAAA1W00z0Pe/Bvs7WJmom1oZ`
+Snapshot ID: `ZkHIxgAAAACz61n1HqlPQmQ7FM+M0RQ/`

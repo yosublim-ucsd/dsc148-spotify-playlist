@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 146764,
       "name": "Brommers Kieken",
       "url": "https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 229760,
       "name": "Friendly Pressure - Into The Sunshine Edit",
       "url": "https://open.spotify.com/track/2u1KZIchGsTN0Beas9mlaU"
@@ -2827,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5PNQ7iKtpLse2jFL08W7RQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiow",
+          "url": "https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/7fVAHsZmHuSu4dVHVmRQf8"
+    },
+    {
+      "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
       },
@@ -3068,10 +3086,28 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 191368,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG"
+      },
+      "artists": [
+        {
+          "name": "Dons",
+          "url": "https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171817,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi"
     },
     {
       "album": {
@@ -3496,7 +3532,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
@@ -3732,7 +3768,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -4204,7 +4240,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
@@ -4356,7 +4392,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 129516,
       "name": "Lithe Fall Back",
       "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
@@ -4723,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Essentiels",
+        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
+    },
+    {
+      "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
         "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
       },
@@ -4914,6 +4968,24 @@
       "duration_ms": 160439,
       "name": "Mwaki - Ti\u00ebsto's VIP Mix",
       "url": "https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/54NfArLaY7lyO3x0D5G5RX"
+      },
+      "artists": [
+        {
+          "name": "Prinsess Jorge",
+          "url": "https://open.spotify.com/artist/6f2aOoKCFhLJLEJqZKyf7j"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr"
     },
     {
       "album": {
@@ -7424,6 +7496,24 @@
     {
       "album": {
         "name": "Ulveham",
+        "url": "https://open.spotify.com/album/2JUURbJ2d1rCQRayCepXnv"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ulveham",
+      "url": "https://open.spotify.com/track/4Fo5QwbxjpNKW191lHQhnm"
+    },
+    {
+      "album": {
+        "name": "Ulveham",
         "url": "https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ"
       },
       "artists": [
@@ -7572,7 +7662,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"

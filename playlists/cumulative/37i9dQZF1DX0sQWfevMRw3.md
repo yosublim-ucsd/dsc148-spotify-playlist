@@ -4,7 +4,7 @@
 
 > SOM EN NORRLÄNDSK SAMURAI MED ETTAN LÖS OCH PEPPARSPRAJ!!
 
-1,087 songs - 1 day 21 hr 51 min
+1,088 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-12-16 | 2022-08-26 |
 | [STICK HÄRIFRÅN](https://open.spotify.com/track/74khAKLq8ztv6q7FX6sZMB) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [STICK HÄRIFRÅN](https://open.spotify.com/album/0iIkoi0q2xP2adB4qZ11cs) | 2:42 | 2023-09-21 | 2023-09-29 |
 | [Still A Little Drunk](https://open.spotify.com/track/3SOQ14DyWRQ7s9t9dL12DA) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Unge Lama](https://open.spotify.com/artist/17FU6Qmo3DRxs1xxyxbUOd) | [Still A Little Drunk](https://open.spotify.com/album/6cOBOGmh27tznzxvioDuGm) | 2:49 | 2021-12-16 | 2022-04-22 |
+| [Stockholm](https://open.spotify.com/track/0MEKMPpviMgGWIZs52KkIj) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Stockholm](https://open.spotify.com/album/0cXExYR1ith2MNTZwzD5Yf) | 2:37 | 2024-05-13 |  |
 | [STORSTADSPOJK](https://open.spotify.com/track/6ibUwkcnHR9CopzegQm5VG) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [STORSTADSPOJK](https://open.spotify.com/album/3NpwIgTpxrzmbom2iiasY4) | 2:06 | 2023-09-07 | 2023-09-22 |
 | [STORT PAKET](https://open.spotify.com/track/50LZkveL9nIL0srGAhWZ0k) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [STORT PAKET](https://open.spotify.com/album/0b155dAEvcRpOlJvAwMdqV) | 2:22 | 2023-12-08 | 2024-01-02 |
 | [STRIPPA I DITT VARDAGSRUM](https://open.spotify.com/track/4xIvjr1p5yzXJoDU6vCal3) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [STRIPPA I DITT VARDAGSRUM](https://open.spotify.com/album/2XdAdkpS7wOlWDlYaXPU93) | 1:52 | 2022-12-01 | 2023-05-05 |

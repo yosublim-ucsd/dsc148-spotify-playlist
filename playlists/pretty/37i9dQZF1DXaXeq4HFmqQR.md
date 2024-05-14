@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,476 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,477 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 47 | [Te Solté](https://open.spotify.com/track/6CGzjSgRvW7kJEb1a0vWaY) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Te Solté](https://open.spotify.com/album/54tdI3PTq41uaeMje6QvCU) | 3:04 |
 | 48 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 |
 | 49 | [REGINA](https://open.spotify.com/track/4f3jEQxoxh9mkffm3wOMUS) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [REGINA](https://open.spotify.com/album/0pvKUrFFlArbUjCq7oHzKl) | 2:31 |
-| 50 | [Loco](https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 2:58 |
+| 50 | [Lo decidí yo](https://open.spotify.com/track/25Lcl6vHgZxzmnMw4FCAj6) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/59dIckHfS1m5AVBA3urboQ) | 4:05 |
 
 Snapshot ID: `ZjzpmAAAAADbVOcvUzFaJhAwubbt0KLE`

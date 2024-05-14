@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Mon amour" de Slimane est le Grand Hit de la semaine\. Allez la France 🇫🇷 !
+> "Mon amour" de Slimane est le Grand Hit de la semaine.
 
 137 songs - 7 hr 8 min
 

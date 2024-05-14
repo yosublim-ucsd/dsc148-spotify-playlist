@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,619 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,623 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 20 | [Bury the Light](https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [Devil May Cry 5 Special Edition Vergil\`s Rebirth Sound Selection](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 9:40 |
 | 21 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
 | 22 | [追求 〜追いつめないと](https://open.spotify.com/track/0RFqcEz2UQkBccRilC278S) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [逆転裁判4 オリジナル・サウンドトラック](https://open.spotify.com/album/3haM8GP0d5GVapGEwxyH2O) | 1:49 |
-| 23 | [X vs ZERO](https://open.spotify.com/track/3teAU91RucnMgiFsh0JkhE) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [ロックマンX5 サウンド コレクション](https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp) | 2:43 |
-| 24 | [Saudade](https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [バイオハザード RE:2 オリジナル・サウンドトラック](https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I) | 4:18 |
+| 23 | [Saudade](https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [バイオハザード RE:2 オリジナル・サウンドトラック](https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I) | 4:18 |
+| 24 | [X vs ZERO](https://open.spotify.com/track/3teAU91RucnMgiFsh0JkhE) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [ロックマンX5 サウンド コレクション](https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp) | 2:43 |
 | 25 | [Theme of Guile](https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [ストリートファイターV オリジナル・サウンドトラック \(アーケードエディション\)](https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4) | 4:12 |
 | 26 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
 | 27 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 42 | [Ripples in the Calm](https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 2:22 |
 | 43 | [Crimson Cloud](https://open.spotify.com/track/6WVbHvEVWVnAYNwZs650NN) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ) | [Devil May Cry 5 Special Edition Vergil\`s Rebirth Sound Selection](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 4:49 |
 | 44 | [Shinsekai](https://open.spotify.com/track/3qtJwRxouqm1kQD9UWsNvS) | [Chikara Aoshima](https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx) | [深世海 Into the Depths Hidden Tracks](https://open.spotify.com/album/59rgd3dLtg9YLDBBjGDO3F) | 4:13 |
-| 45 | [プロローグ](https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
-| 46 | [Running Through The Cyber World \- カプチューン ver.](https://open.spotify.com/track/3P6oQWmXoqBLmsCWHl31mC) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/31hNCIMIio8mB9c9yOGFKJ) | 4:07 |
+| 45 | [Running Through The Cyber World \- カプチューン ver.](https://open.spotify.com/track/3P6oQWmXoqBLmsCWHl31mC) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/31hNCIMIio8mB9c9yOGFKJ) | 4:07 |
+| 46 | [プロローグ](https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
 | 47 | [Metamorphosis](https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 スペシャル・サウンドトラック](https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ) | 5:38 |
 | 48 | [上田合戦](https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [戦国BASARA 15th Anniversary BEST](https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5) | 1:47 |
 | 49 | [生命ある者へ](https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター3 \(tri\-\) オリジナル・サウンドトラック](https://open.spotify.com/album/34a2F897NiFXJry79ahuz3) | 3:09 |

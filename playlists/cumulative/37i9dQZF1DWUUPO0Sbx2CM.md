@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-409 songs - 22 hr 46 min
+410 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Be the Light \(Radio Edit\)](https://open.spotify.com/track/62O09SIJyoBvEEvI8XnJtl) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Be the Light \(Radio Edit\)](https://open.spotify.com/album/3gRP24p18Mq0q31FsvZiBi) | 3:33 | 2021-10-31 | 2022-06-06 |
 | [Beautiful Chaos](https://open.spotify.com/track/0WnYgsf5qsiIoRArSrelF9) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Beautiful Chaos](https://open.spotify.com/album/6pZR3NDVJRHuPQbgDoBLnU) | 3:06 | 2021-10-31 | 2022-07-29 |
 | [Best Friends](https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-10-31 | 2023-02-08 |
-| [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 | 2023-02-07 |  |
+| [Best Thing](https://open.spotify.com/track/6i8iihyXeNhdGKOuNDzxPX) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing](https://open.spotify.com/album/6BxrkMTKzYiMOKVs3EHziH) | 2:32 | 2023-02-07 | 2024-05-14 |
 | [Better King](https://open.spotify.com/track/1PRMBi6xAuwLFU48bm6sLh) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 2:56 | 2021-10-31 | 2023-02-08 |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Bigger](https://open.spotify.com/track/0LBzNdxVmIuQ6ooIHSYEud) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [No Greater Love](https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg) | 3:21 | 2021-10-31 | 2022-07-27 |
@@ -272,6 +272,7 @@
 | [Neighbour](https://open.spotify.com/track/0jrDmug9eevza5OnEarhgA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Neighbour](https://open.spotify.com/album/18PYzr8erZvttOU0Sxzypo) | 4:02 | 2021-10-31 | 2022-07-23 |
 | [Never Alone](https://open.spotify.com/track/4dICKgIXzuGEwxR4kGVJE7) | [Jarrell](https://open.spotify.com/artist/0d7ouMJirSXhVV9t1TPPTg), [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Never Alone](https://open.spotify.com/album/4YzlS3oLlsuxPGlhbG3KiP) | 3:09 | 2021-10-31 | 2022-07-27 |
 | [Never Alone \- HAGEN Remix](https://open.spotify.com/track/0lVDC3D80Am7wolIu7eZ5R) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [João Reiz](https://open.spotify.com/artist/150Xvf0KngyPDrlFidRbzr), [HAGEN](https://open.spotify.com/artist/5sNiOisnOxzmvejSav3iwT) | [Never Alone \(Remixes\)](https://open.spotify.com/album/3NK97Fg1eJpC3D5myzxuv3) | 2:51 | 2021-10-31 | 2022-04-25 |
+| [NEVER FELT SO GOOD](https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [NEVER FELT SO GOOD](https://open.spotify.com/album/1EKGO8s7zRK7OG2xOMUOjN) | 2:19 | 2024-05-10 |  |
 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 | 2021-10-31 | 2023-02-08 |
 | [Never Let You Go](https://open.spotify.com/track/62EtLxtWiFrC8H5FlE9LJZ) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Never Let You Go](https://open.spotify.com/album/4dbd6NycdGZZeJZm7LebU8) | 3:22 | 2021-10-31 | 2022-07-28 |
 | [Never Let You Go \- Live](https://open.spotify.com/track/6g3zF52ZzbTL3eu7lxxsoQ) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Never Let You Go \(Live\)](https://open.spotify.com/album/31uCVtaauPQ6UTKwmKcrEH) | 3:53 | 2021-10-31 | 2022-07-25 |

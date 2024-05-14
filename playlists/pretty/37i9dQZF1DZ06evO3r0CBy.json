@@ -1,12 +1,12 @@
 {
-  "description": "This is Rodr\u00edguez. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 37484,
+  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
+  "num_followers": 37488,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAABQLbMQBEm9gghru0LBvzwM",
+  "snapshot_id": "ZkAGgAAAAACuB1mm9bhTP5hkSxXFfL3g",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,29 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 124653,
-      "name": "Silver Words?",
-      "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+      "duration_ms": 205680,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 355040,
+      "name": "Ecuador",
+      "url": "https://open.spotify.com/track/4pdARdDcofXEGh29NYoo98"
     },
     {
       "added_at": null,
@@ -59,6 +79,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "Silver Words?",
+      "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Record Store Day 7\"",
         "url": "https://open.spotify.com/album/6ssxScXjJlSttC1JE0n7Mp"
       },
@@ -71,6 +123,22 @@
       "duration_ms": 213146,
       "name": "I'm Gonna Live Till I Die - Recorded Live at The Triple Door, Seattle, June 23, 2009",
       "url": "https://open.spotify.com/track/1fa9thKzMq5TmeUs1OJaRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Can't Get Away",
+      "url": "https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM"
     },
     {
       "added_at": null,
@@ -107,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Can't Get Away",
-      "url": "https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rodriguez Rocks: Live In Australia",
         "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },
@@ -135,6 +187,22 @@
       "duration_ms": 200713,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Street Boy",
+      "url": "https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW"
     },
     {
       "added_at": null,
@@ -167,22 +235,6 @@
       "duration_ms": 147880,
       "name": "Halfway Up The Stairs",
       "url": "https://open.spotify.com/track/3g9vVwKpMzMsMa9t4u1WgT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Street Boy",
-      "url": "https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW"
     },
     {
       "added_at": null,
@@ -295,38 +347,6 @@
       "duration_ms": 182601,
       "name": "Just One of Those Things",
       "url": "https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming From Reality",
-        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "To Whom It May Concern",
-      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
     }
   ],
   "unique_name": "This Is Rodr\u00edguez",

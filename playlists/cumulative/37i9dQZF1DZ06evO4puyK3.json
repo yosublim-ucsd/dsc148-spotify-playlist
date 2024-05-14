@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
   "name": "This Is Gloria Groove",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 192012,
       "name": "Catuaba",
       "url": "https://open.spotify.com/track/7DN5QOaEBUQcBRwGkzEwVC"
@@ -538,6 +538,24 @@
       "duration_ms": 40446,
       "name": "FUTURO FLUXO",
       "url": "https://open.spotify.com/track/6ga16g9fDMr5fw3r8de3a4"
+    },
+    {
+      "album": {
+        "name": "O Proceder",
+        "url": "https://open.spotify.com/album/5XTZWBCTHa0OfY7NswzqVK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36393,
+      "name": "Gay (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/0dbFwD7jW3oskI4Ifxlc1r"
     },
     {
       "album": {
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 559903,
       "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
       "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 140400,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/2ZADgxHqVDEw98QQA4qCVa"

@@ -2,9 +2,9 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
 
-140 songs - 15 hr 40 min
+141 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 | 2023-11-10 | 2023-12-14 |
 | [Freedom \- Live](https://open.spotify.com/track/0pqpxYdXsCtr4Y6NSP5XkK) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 5:20 | 2023-05-27 | 2023-06-16 |
 | [Glory and Honor \- Live](https://open.spotify.com/track/2VnwRGiEw2SeTngorS7baF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 7:24 | 2023-06-05 | 2023-07-28 |
-| [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 | 2024-02-15 |  |
+| [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 | 2024-02-15 | 2024-05-14 |
 | [Glory Hallelujah \(feat\. Marc Britt, Juanita Contee & Mav City Gospel Choir\)](https://open.spotify.com/track/0CWWp9H73xWHC9Jxr9HKXZ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Marc Britt](https://open.spotify.com/artist/7d6Y21mEawoZK7cVQrIHcv), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 4:45 | 2023-04-02 | 2024-02-02 |
 | [Go Tell It \- Live](https://open.spotify.com/track/0oKdlttjRY9EcHctt9Axx2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 7:23 | 2024-01-24 | 2024-01-27 |
 | [Go Tell It \- Live](https://open.spotify.com/track/5vgL21D2JHQgHQlzmfM8cB) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 7:23 | 2023-11-10 | 2024-01-15 |
@@ -108,6 +108,7 @@
 | [Shift This Place](https://open.spotify.com/track/2p4c4LzwQDQB7vWGTQCXmB) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 4:25 | 2024-01-14 | 2024-04-01 |
 | [Shift This Place](https://open.spotify.com/track/4DpG8THfiN5O5DqoZZpg5E) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 4:25 | 2023-05-09 | 2023-09-16 |
 | [Spirit of God \- Live](https://open.spotify.com/track/6eusWdCP7AoqckgTPHGV02) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 8:09 | 2023-08-27 | 2023-08-31 |
+| [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 | 2024-05-14 |  |
 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 | 2023-04-02 |  |
 | [That Great Name \(feat\. Benita Jones\)](https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:30 | 2023-04-02 | 2024-02-05 |
 | [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 | 2024-04-01 |  |

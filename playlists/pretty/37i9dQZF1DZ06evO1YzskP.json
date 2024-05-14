@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23609,
+  "num_followers": 23625,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAAB86aw6AIQO6vk+cYx5ScM",
+  "snapshot_id": "ZkAGgAAAAACXD/GSJaT2JAbF0dgWfy5x",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 165213,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ"
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B"
+      "duration_ms": 165213,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Modo Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
+        "name": "Finta De Fresitas",
+        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Instruxion",
-          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
         }
       ],
-      "duration_ms": 111666,
-      "name": "Al Modo Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
+      "duration_ms": 175866,
+      "name": "Finta De Fresitas",
+      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
     },
     {
       "added_at": null,
@@ -871,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finta De Fresitas",
-        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
+        "name": "Al Modo Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Finta De Fresitas",
-      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
+      "duration_ms": 111666,
+      "name": "Al Modo Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
     },
     {
       "added_at": null,

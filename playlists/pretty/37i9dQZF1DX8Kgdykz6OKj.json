@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1275977,
+  "num_followers": 1276465,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
-        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
-        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193721,
-      "name": "Menthol (Live) - Spotify Ten Version",
-      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
+        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
+        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193721,
+      "name": "Menthol (Live) - Spotify Ten Version",
+      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 135529,
       "name": "It's Nice Outside",
       "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
+        "name": "The FEEL",
+        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
+      },
+      "artists": [
+        {
+          "name": "RC & The Gritz",
+          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
+        }
+      ],
+      "duration_ms": 141220,
+      "name": "The Feel",
+      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
-        "name": "The FEEL",
-        "url": "https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO"
-      },
-      "artists": [
-        {
-          "name": "RC & The Gritz",
-          "url": "https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d"
-        }
-      ],
-      "duration_ms": 141220,
-      "name": "The Feel",
-      "url": "https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
-        "name": "FORKS ON THE ROAD",
-        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Daniel Son",
-          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
-        },
-        {
-          "name": "Faiza",
-          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
-        }
-      ],
-      "duration_ms": 183887,
-      "name": "FORKS ON THE ROAD",
-      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
         "name": "YHWH is LOVE",
         "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
+        "name": "FORKS ON THE ROAD",
+        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "duration_ms": 183887,
+      "name": "FORKS ON THE ROAD",
+      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
     },
     {
       "added_at": "2024-05-06 17:52:17",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-05-06 17:52:17",
       "album": {
-        "name": "MIDST",
-        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 160236,
-      "name": "MIDST",
-      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
-    },
-    {
-      "added_at": "2024-05-06 17:52:17",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/2fmuNIYhWvhlYocZZJgMl7"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 188571,
       "name": "i don\u2019t mind",
       "url": "https://open.spotify.com/track/57CL8B4evdteoj7aIkzEZc"
+    },
+    {
+      "added_at": "2024-05-06 17:52:17",
+      "album": {
+        "name": "MIDST",
+        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 160236,
+      "name": "MIDST",
+      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
     },
     {
       "added_at": "2024-05-06 17:52:17",

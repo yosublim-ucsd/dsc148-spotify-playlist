@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YOOK SUNGJAE\(육성재\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-8,601 songs - 20 day 14 hr 59 min
+8,605 songs - 20 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2223,6 +2223,7 @@
 | [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 | 2024-01-08 | 2024-03-14 |
 | [FAST CAR](https://open.spotify.com/track/0TQaONVVeqCZo3jxPIPcVl) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [FAST CAR](https://open.spotify.com/album/3SQ7gbz9AkWT751cyw0IPx) | 3:01 | 2022-09-06 | 2022-10-15 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-07 | 2023-09-05 |
+| [Fatal Trouble](https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 2:50 | 2024-05-13 |  |
 | [FATHER](https://open.spotify.com/track/27CYNg9ZVJnIDypaUxz98C) | [Lil FISH](https://open.spotify.com/artist/4NscsdzXTfV7e5jDFSmod7) | [FATHER](https://open.spotify.com/album/69engxn6soEzhcNjNuDpCU) | 3:33 | 2023-01-09 | 2023-02-01 |
 | [Father's Dream](https://open.spotify.com/track/35HHegewuM9qXFSYuTJdOP) | [:DamDam](https://open.spotify.com/artist/4seLMF0adEzUclc01hjzBH) | [Father's Dream](https://open.spotify.com/album/3SriTgAPTc3F376cd6WA2p) | 3:35 | 2022-11-06 | 2022-12-22 |
 | [Favorite](https://open.spotify.com/track/02qdS2zq2LYGkSOr3Q7gMm) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Favorite](https://open.spotify.com/album/2rnENdTyCUxjhDyHQ6VibS) | 3:24 | 2023-09-14 | 2023-10-02 |
@@ -2243,6 +2244,7 @@
 | [Feel My Rhythm \- Orchestra Version](https://open.spotify.com/track/7af1aCD9kJBI8YOCSh87lr) | [Seoul Philharmonic Orchestra](https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7) | [Feel My Rhythm \(Orchestra Version\)](https://open.spotify.com/album/1HOaPVpRI3AHhrQt9Kdr30) | 4:17 | 2022-07-01 | 2022-07-07 |
 | [Feel so good](https://open.spotify.com/track/2N6Sf7zENnpltAb0LgY6xn) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gongzza, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2WMCIxUpPYulkVWLTu1ghK) | 3:10 | 2022-05-09 | 2022-05-18 |
 | [Feel So High \(Feat\. OVCOCO, Donutman\)](https://open.spotify.com/track/4x846xNCEKLkd3KBxPUhFa) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Idiot Soul](https://open.spotify.com/album/0lN4CT6oldsHlrKSGzxfhF) | 3:07 | 2023-07-17 | 2023-08-10 |
+| [Feel the POP](https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM) | 2:56 | 2024-05-13 |  |
 | [Feel Your Lips](https://open.spotify.com/track/4AZvVYNrHgyYfGeGSEdgl8) | [Cosmic Chips](https://open.spotify.com/artist/1nA6r4dLkNn1lxXuc61eAj) | [Groove Circuit](https://open.spotify.com/album/43gyFrc3DAx2JhkrE4LDDU) | 4:00 | 2023-11-10 | 2023-11-18 |
 | [feelight!](https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj) | 3:05 | 2022-06-23 | 2022-07-05 |
 | [Feeling](https://open.spotify.com/track/7H4X19ofIhtgsNzGss2ebd) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Feeling](https://open.spotify.com/album/4EM7pzU5tvYNKIUquIFWGX) | 3:33 | 2022-05-17 | 2022-05-31 |
@@ -4560,6 +4562,7 @@
 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-03 | 2022-12-22 |
 | [midnight sun](https://open.spotify.com/track/1tqUzxik2ooGA5HI0gIUPd) | [제인팝](https://open.spotify.com/artist/5jgN5gWbwm24kZfkKpbha7) | [midnight sun](https://open.spotify.com/album/4SR44954mdbfI5tSIwE7a9) | 3:54 | 2022-05-13 | 2022-05-28 |
 | [MIKE CHECK](https://open.spotify.com/track/6BtUaMmfZiciC685X4v8RZ) | [Posadic](https://open.spotify.com/artist/2Pe5hROLBx2lHpYl9Z4tCG) | [MR\. WHITE](https://open.spotify.com/album/4rDLSMrzWjNeg3gSAJBGvP) | 2:15 | 2022-06-27 | 2022-07-05 |
+| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-05-13 |  |
 | [Milky Way](https://open.spotify.com/track/5RYpad3ubdagRtdVYEdL0a) | [CHA NI](https://open.spotify.com/artist/5CkSzZ7j5s834Mli7DFITf), [HWI YOUNG](https://open.spotify.com/artist/33AKNSK4a6ue4IWvjojOCP), [Kang Min Ah](https://open.spotify.com/artist/5MZTWrQwgdCFcPyWAhzI3L) | [MIRACLE \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/5pMpUnwxHETgmJnEsfxLWH) | 3:25 | 2022-06-13 | 2022-06-19 |
 | [Milky Way](https://open.spotify.com/track/0tcHOtvXH2UQfiQTlzyqdb) | [Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [BEYOND THE MOON](https://open.spotify.com/album/5HrCpcIjq1TNz0WovjshuI) | 4:26 | 2023-04-26 | 2023-06-20 |
 | [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 | 2022-06-22 | 2022-07-05 |
@@ -6682,6 +6685,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2023-08-10 |
 | [Super Star](https://open.spotify.com/track/0kyGwQwAXrKo5wxoMWva1j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2), [Original Broadway Cast of KPOP](https://open.spotify.com/artist/6I2l37l0O5gjtj4dphiPST) | [Super Star](https://open.spotify.com/album/2F5VQ6qg0vWViic8rSFJ6p) | 4:09 | 2023-03-17 | 2023-04-02 |
 | [SUPERJUMP\_HARDCORE](https://open.spotify.com/track/3akkgujcJyCp7Azl99UXbJ) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [SUPERJUMP\_HARDCORE](https://open.spotify.com/album/1drGkRpm3BXaOlUMGecGeA) | 3:33 | 2024-04-15 | 2024-05-10 |
+| [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-13 |  |
 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 | 2023-10-10 | 2023-11-11 |
 | [SUPERSTAR](https://open.spotify.com/track/600ClyYoICsYgbrI5LUOgM) | [Woolenciah](https://open.spotify.com/artist/75q8VXGfnNUXiNjKRAQF1Q) | [SUPERSTAR](https://open.spotify.com/album/6iLZ4xQo9KJAAk5gmOpLQk) | 3:12 | 2023-03-28 | 2023-05-03 |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-27 | 2024-05-01 |

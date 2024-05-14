@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 60740,
+  "num_followers": 60796,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAACiuuiTZWki4Ovv/wJxBFd9",
+  "snapshot_id": "ZkAGgAAAAACyaugmNUuHmh2eB1EaFMIl",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 204709,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GO HOME W U (WITH LAINEY WILSON)",
         "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 227400,
       "name": "GO HOME W U (WITH LAINEY WILSON)",
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 204709,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Friends (feat. Lainey Wilson)",
-        "url": "https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "More Than Friends (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comin' To Your City (ESPN College Gameday)",
         "url": "https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 103111,
       "name": "Comin' To Your City - ESPN College Gameday",
       "url": "https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than Friends (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "More Than Friends (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM"
     },
     {
       "added_at": null,

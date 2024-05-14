@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 110389,
+  "num_followers": 110542,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 342857,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 245624,
       "name": "Yumi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Shut Down",
+        "url": "https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183524,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Shut Down",
-        "url": "https://open.spotify.com/album/4Kiw2ugFK4kfgfsPgGjJ32"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/523wSycZHBw4R3qjCZl9qM"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1103,22 +1103,6 @@
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 187200,
       "name": "Sorry (with Madonna) - Miss Monique Remix",
       "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Head In The Ocean",
-        "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
-      },
-      "artists": [
-        {
-          "name": "FoundSound",
-          "url": "https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "Head In The Ocean",
-      "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
         "name": "Seraph",
         "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 249600,
       "name": "Seraph",
       "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
+        "name": "Head In The Ocean",
+        "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
+      },
+      "artists": [
+        {
+          "name": "FoundSound",
+          "url": "https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Head In The Ocean",
+      "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "All That Matters (Artbat Remix)",
+        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Troels Abrahamsen",
+          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 529920,
+      "name": "All That Matters - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Sweet Moment",
         "url": "https://open.spotify.com/album/1LWFT40HDxPlJrDLDhGQ7q"
       },
@@ -1447,26 +1471,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "All That Matters (Artbat Remix)",
-        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+        "name": "Welcome The Night",
+        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
       },
       "artists": [
         {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
         },
         {
-          "name": "Troels Abrahamsen",
-          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 529920,
-      "name": "All That Matters - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
+      "duration_ms": 198407,
+      "name": "Welcome The Night",
+      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1507,26 +1527,6 @@
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Welcome The Night",
-        "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
-      },
-      "artists": [
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 198407,
-      "name": "Welcome The Night",
-      "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 203738,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Delete Time",
         "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 218709,
       "name": "Delete Time",
       "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 203738,
-      "name": "Intuition",
-      "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -2083,22 +2083,18 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "FLORAL",
-        "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        },
-        {
-          "name": "CAY (DE)",
-          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 269120,
-      "name": "FLORAL",
-      "url": "https://open.spotify.com/track/424p6UywhA810uXc7zr6N4"
+      "duration_ms": 412505,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -2123,18 +2119,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
-        "name": "Pegasus",
-        "url": "https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV"
+        "name": "FLORAL",
+        "url": "https://open.spotify.com/album/2ZpTiLH2CUPC9QUpwgW9DY"
       },
       "artists": [
         {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "CAY (DE)",
+          "url": "https://open.spotify.com/artist/2ug2jpxDeOgYfYleeYzg2K"
         }
       ],
-      "duration_ms": 412505,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
+      "duration_ms": 269120,
+      "name": "FLORAL",
+      "url": "https://open.spotify.com/track/424p6UywhA810uXc7zr6N4"
     },
     {
       "added_at": "2024-05-08 22:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2024-05-08 22:00:00",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 203155,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+    },
+    {
+      "added_at": "2024-05-08 22:00:00",
+      "album": {
         "name": "Enter Machina (widerberg Remix)",
         "url": "https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 198870,
       "name": "Enter Machina - widerberg Remix",
       "url": "https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z"
-    },
-    {
-      "added_at": "2024-05-08 22:00:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 203155,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
     },
     {
       "added_at": "2024-05-08 22:00:00",

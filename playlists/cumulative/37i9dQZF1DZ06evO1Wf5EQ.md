@@ -2,7 +2,7 @@
 
 ### [This Is Carlos Rafael Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Wf5EQ)
 
-> This Is Carlos Rafael Rivera\. Los temas esenciales, todos en una lista.
+> This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
 52 songs - 1 hr 33 min
 

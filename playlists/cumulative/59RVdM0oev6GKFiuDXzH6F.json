@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Amanecida",
+        "url": "https://open.spotify.com/album/6OgsKSPKoiESyv58MrTJxj"
+      },
+      "artists": [
+        {
+          "name": "Taao",
+          "url": "https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k"
+        },
+        {
+          "name": "Mr. Wilson",
+          "url": "https://open.spotify.com/artist/54X7AMGcwAWFpngMGlc2jt"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275624,
+      "name": "Amanecida",
+      "url": "https://open.spotify.com/track/1VgMz97YYZNFHYdvxTqDQy"
+    },
+    {
+      "album": {
         "name": "Aphrodisiac (feat. Ilaria.)",
         "url": "https://open.spotify.com/album/2Lgp2PvTWkSPbtlU9weBmm"
       },
@@ -1717,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/5BCbs3ZSxmcYxkfTl2z4Wm"
+      },
+      "artists": [
+        {
+          "name": "Kane Lane",
+          "url": "https://open.spotify.com/artist/2KWJ2YqKKO6hhoNH3V1Lz2"
+        },
+        {
+          "name": "LVGA",
+          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/2j90IClfPd8UpgE6eKquxr"
+    },
+    {
+      "album": {
         "name": "Can't Miss",
         "url": "https://open.spotify.com/album/44zEa0I7Ns6Cl62Vhdx80y"
       },
@@ -2602,6 +2646,24 @@
       "duration_ms": 143124,
       "name": "Devil's Music",
       "url": "https://open.spotify.com/track/4MWVKlkh04WFrHPywkDLxl"
+    },
+    {
+      "album": {
+        "name": "Dig It Up",
+        "url": "https://open.spotify.com/album/08LHrJvwQOr8OPISQ3tm02"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "Dig It Up",
+      "url": "https://open.spotify.com/track/4zGAYCNnjVQSrnAHPTJxUT"
     },
     {
       "album": {
@@ -10724,6 +10786,24 @@
       "duration_ms": 170061,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf"
+    },
+    {
+      "album": {
+        "name": "Spicy",
+        "url": "https://open.spotify.com/album/2EUzRrwkRBJB58VLXzQjDe"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1FZI8uTVMRsSBvhLZ3N00W"
     },
     {
       "album": {

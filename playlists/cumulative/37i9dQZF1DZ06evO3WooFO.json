@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 249626,
       "name": "Adam's Song",
       "url": "https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 165373,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 143573,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 143893,
       "name": "Dumpweed",
       "url": "https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 165373,
       "name": "Dysentery Gary",
       "url": "https://open.spotify.com/track/0nGBoXoR5o9srQlP0BAZ1Y"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 171533,
       "name": "First Date",
       "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 203440,
       "name": "Mutt",
       "url": "https://open.spotify.com/track/3Q0yxw9mdycjnuORDvY5E6"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 186173,
       "name": "Reckless Abandon",
       "url": "https://open.spotify.com/track/4N9fFHRxns1B86F8YTneBz"
@@ -1246,6 +1246,24 @@
       "duration_ms": 209813,
       "name": "Remember To Forget Me",
       "url": "https://open.spotify.com/track/30zjD8uAoLLckluGf0PNV6"
+    },
+    {
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1BR1AEQSLXDNL9t7nP3xRp"
     },
     {
       "album": {
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 171600,
       "name": "The Rock Show",
       "url": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH"

@@ -9658,7 +9658,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 248901,
       "name": "Run",
       "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
@@ -13076,6 +13076,32 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "album": {
+        "name": "Where Is The Thunder? (NEIL FRANCES Remix)",
+        "url": "https://open.spotify.com/album/5SuXDCf6YDdym0oj4EYYSJ"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Ora the Molecule",
+          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Where Is The Thunder? - NEIL FRANCES Remix",
+      "url": "https://open.spotify.com/track/3qyYli3rlZeyzY4SHpMIox"
     },
     {
       "album": {

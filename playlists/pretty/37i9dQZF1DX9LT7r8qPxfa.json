@@ -1,6 +1,6 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 321851,
+  "num_followers": 321821,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 198373,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Vampire Weeknight",
         "url": "https://open.spotify.com/album/6tpPh09H0rTNtFsKCzNtfV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 204973,
       "name": "Vampire Weeknight",
       "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Thirstier",
-        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D"
       },
       "artists": [
         {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
         }
       ],
-      "duration_ms": 180180,
-      "name": "Big Leap",
-      "url": "https://open.spotify.com/track/1eqNt1BoMPOBPWa1IRut2r"
+      "duration_ms": 168175,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2kFyCHyFejiVShz10BILgU"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D"
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
       },
       "artists": [
         {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
         }
       ],
-      "duration_ms": 168175,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2kFyCHyFejiVShz10BILgU"
+      "duration_ms": 180180,
+      "name": "Big Leap",
+      "url": "https://open.spotify.com/track/1eqNt1BoMPOBPWa1IRut2r"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36"
-      },
-      "artists": [
-        {
-          "name": "Lizzie No",
-          "url": "https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Birthday Party",
-      "url": "https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/3MnInies0fUg0hmzYwELpo"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 313296,
       "name": "Golden",
       "url": "https://open.spotify.com/track/2WtZ0pGY93BnZfuGVenMb9"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36"
+      },
+      "artists": [
+        {
+          "name": "Lizzie No",
+          "url": "https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 195494,
-      "name": "Paula Collins",
-      "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Garden Dove",
         "url": "https://open.spotify.com/album/34eazCBah7uqLtj4wVOf3T"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 230066,
       "name": "Garden Dove",
       "url": "https://open.spotify.com/track/3wYl7lRiqN3Z685E7LuA6k"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 195494,
+      "name": "Paula Collins",
+      "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
     },
     {
       "added_at": "2023-10-13 19:48:40",

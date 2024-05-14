@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,725 likes - 59 songs - 3 hr 25 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,727 likes - 61 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 57 | [Asura](https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Asura](https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO) | 3:30 |
 | 58 | [The Deep](https://open.spotify.com/track/688MRabbIVRJRtZxef04Um) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [The Deep](https://open.spotify.com/album/7nIu62blO0Bq2jmFBMhiKp) | 3:02 |
 | 59 | [Ride 4 U](https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Ride 4 U](https://open.spotify.com/album/4JEE8pQukLtamlBB1aANRj) | 3:01 |
+| 60 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 |
+| 61 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
 
-Snapshot ID: `AAAW6sxQ/nI8UpS4jxcLZzudfdzMYSHj`
+Snapshot ID: `AAAW7IDH+JT6iwBr0KXOF0FeX9IR2tQA`

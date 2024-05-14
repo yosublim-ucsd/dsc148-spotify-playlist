@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39942,
+  "num_followers": 39969,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,26 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
+        "name": "Freunde finden / Devenir Amis",
+        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
       },
       "artists": [
         {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Fr\u00fchling, ich hab dich entdeckt!",
-      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+      "duration_ms": 170413,
+      "name": "Freunde finden / Devenir Amis",
+      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -727,6 +735,22 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Fr\u00fchling, ich hab dich entdeckt!",
+      "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -739,22 +763,6 @@
       "duration_ms": 95173,
       "name": "Bl\u00fcht ein Bl\u00fcmlein",
       "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Fr\u00fchlingsspa\u00df und Osterhas",
-        "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
-      },
-      "artists": [
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Bunte Blumen auf der Wiese",
-      "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -775,26 +783,18 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Freunde finden / Devenir Amis",
-        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
+        "name": "Fr\u00fchlingsspa\u00df und Osterhas",
+        "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
       },
       "artists": [
         {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
         }
       ],
-      "duration_ms": 170413,
-      "name": "Freunde finden / Devenir Amis",
-      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
+      "duration_ms": 146546,
+      "name": "Bunte Blumen auf der Wiese",
+      "url": "https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Horn",
-          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Fr\u00fchling!",
-      "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "Die 40 besten Fingerspiel-Lieder",
         "url": "https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
-        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
-      },
-      "artists": [
-        {
-          "name": "Martin G\u00f6th",
-          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
-        }
-      ],
-      "duration_ms": 107961,
-      "name": "So bunt ist die Fr\u00fchlingszeit",
-      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -915,18 +883,50 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Traditionelle Kinderlieder",
-        "url": "https://open.spotify.com/album/7jZ5EaEDOwMrXcBc8TE971"
+        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
+        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
       },
       "artists": [
         {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+          "name": "Martin G\u00f6th",
+          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
         }
       ],
-      "duration_ms": 100132,
-      "name": "Im M\u00e4rzen der Bauer",
-      "url": "https://open.spotify.com/track/0TvMafU339waUj547Wpujx"
+      "duration_ms": 107961,
+      "name": "So bunt ist die Fr\u00fchlingszeit",
+      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Horn",
+          "url": "https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Fr\u00fchling!",
+      "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Barfu\u00df",
+        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
+      },
+      "artists": [
+        {
+          "name": "Herr Jan",
+          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Barfu\u00df",
+      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

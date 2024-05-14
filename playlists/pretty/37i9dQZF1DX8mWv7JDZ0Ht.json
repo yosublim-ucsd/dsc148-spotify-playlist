@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: PRISCILLA, P\u00e9ricles",
-  "num_followers": 433425,
+  "num_followers": 433422,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "Mela\u00e7o",
+        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 163240,
+      "name": "Mela\u00e7o",
+      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -331,22 +335,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mela\u00e7o",
-        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
       },
       "artists": [
         {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Mela\u00e7o",
-      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 216154,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "FICA",
         "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 206781,
       "name": "FICA",
       "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 216154,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Tudo Vai Ser Como Deve Ser",
-        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Tudo Vai Ser Como Deve Ser",
-      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "o futuro j\u00e1 est\u00e1 acontecendo",
         "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
       },
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Sintomas de Saudade",
-        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
+        "name": "Tudo Vai Ser Como Deve Ser",
+        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 194478,
-      "name": "Sintomas de Saudade",
-      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
+      "duration_ms": 174339,
+      "name": "Tudo Vai Ser Como Deve Ser",
+      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Existe Amor Aqui",
+        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
+      },
+      "artists": [
+        {
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
+        }
+      ],
+      "duration_ms": 199681,
+      "name": "Sem Me Preocupar",
+      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
+        "name": "Sintomas de Saudade",
+        "url": "https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt"
       },
       "artists": [
         {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
+      "duration_ms": 194478,
+      "name": "Sintomas de Saudade",
+      "url": "https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW"
     },
     {
       "added_at": "2024-05-10 03:00:00",

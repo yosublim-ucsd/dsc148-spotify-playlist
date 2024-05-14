@@ -880,10 +880,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 309263,
       "name": "Hasta poder ver",
       "url": "https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x"
+    },
+    {
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309263,
+      "name": "Hasta Poder Ver",
+      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
     },
     {
       "album": {

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 191351,
       "name": "A Sunny Balcony",
       "url": "https://open.spotify.com/track/5rSmyGg1Dwpg8qehpIy89k"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 118433,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0IFEhrlRocuukXjcQ5szSW"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 128212,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 114418,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/4mnbKdnZmDBLd4yAQn6Eok"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 132640,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 139133,
       "name": "Deepmind",
       "url": "https://open.spotify.com/track/5ynxCqpiDWDFnZ02EuR4nm"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 111951,
       "name": "easel",
       "url": "https://open.spotify.com/track/1TqbZmrBR9n50ChWfJImcQ"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 164117,
       "name": "Forrest",
       "url": "https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 140000,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/5Z5vicNoRjhq7Tft22xSUb"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 119040,
       "name": "key time",
       "url": "https://open.spotify.com/track/6IrxzsAgT8DQl1dPsS8kx7"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 133818,
       "name": "kissing peach",
       "url": "https://open.spotify.com/track/2idwWicGcpqFg9AaFm5VgD"
@@ -1042,6 +1042,24 @@
       "duration_ms": 132470,
       "name": "Kofly",
       "url": "https://open.spotify.com/track/3EwuLwbkB22pnJWMbowZrq"
+    },
+    {
+      "album": {
+        "name": "la mota",
+        "url": "https://open.spotify.com/album/1d2iTTdPGWnILN5Ws2qNG7"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "la mota",
+      "url": "https://open.spotify.com/track/0sivic25urVINUpiYpvBrZ"
     },
     {
       "album": {
@@ -1611,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Sunday Mood",
+        "url": "https://open.spotify.com/album/13RtQFl4U2ydQq029emsCe"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sunday Mood",
+      "url": "https://open.spotify.com/track/7BkPUaGIWkLuNvsN83xiAp"
+    },
+    {
+      "album": {
         "name": "Sunset Boulevard",
         "url": "https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb"
       },
@@ -1680,6 +1716,24 @@
       "duration_ms": 159939,
       "name": "The Comeback Kid!",
       "url": "https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E"
+    },
+    {
+      "album": {
+        "name": "The In-Between",
+        "url": "https://open.spotify.com/album/49rfS5Npk5zp13Cf4slvio"
+      },
+      "artists": [
+        {
+          "name": "Phil Tyler",
+          "url": "https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6CX3oIVyqzcVKgkp8oIW9i"
     },
     {
       "album": {
@@ -2048,6 +2102,28 @@
       "duration_ms": 165000,
       "name": "Workit",
       "url": "https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy"
+    },
+    {
+      "album": {
+        "name": "Chilling Sakura",
+        "url": "https://open.spotify.com/album/0M0hL3vq8Hz5NXoHVluSq9"
+      },
+      "artists": [
+        {
+          "name": "Lofi Milk",
+          "url": "https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT"
+        },
+        {
+          "name": "Maho Fukami",
+          "url": "https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Yayoi",
+      "url": "https://open.spotify.com/track/687qOXFDGhkXO5RSJgMbNM"
     },
     {
       "album": {

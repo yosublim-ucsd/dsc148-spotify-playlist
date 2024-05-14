@@ -2,9 +2,9 @@
 
 ### [This Is Gustavo Santaolalla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848)
 
-> This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
+> This Is Gustavo Santaolalla\. Los temas esenciales, todos en una lista.
 
-76 songs - 3 hr 2 min
+77 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Creep](https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g), [Michael Hazlewood](https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI), [Colin Greenwood](https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS), [Jonathan Greenwood](https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9), [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH), [Thomas Yorke](https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO), [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:20 | 2023-08-31 |  |
 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 | 2023-08-31 | 2024-02-27 |
 | [De Ushuaia a La Quiaca \- 2024 Remaster](https://open.spotify.com/track/4vSbZNwBpZHYAyokxVme7J) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 2:50 | 2024-02-26 |  |
+| [Del Pago \- 2024 Remaster](https://open.spotify.com/track/5KsGluEh4MblJ078mjzbcB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 | 2024-05-14 |  |
 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 | 2024-03-02 | 2024-04-19 |
 | [Dream Of Higher Altitudes](https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nanga Parbat \(Original Soundtrack\)](https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa) | 1:15 | 2023-08-31 | 2024-05-11 |
 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 | 2023-08-31 |  |
@@ -74,7 +75,7 @@
 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 | 2023-08-31 |  |
 | [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 | 2023-08-31 |  |
 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 | 2024-01-10 | 2024-03-14 |
-| [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2023-08-31 |  |
+| [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2023-08-31 | 2024-05-14 |
 | [There Is No Girl](https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:05 | 2024-01-31 | 2024-02-13 |
 | [Thin Ice](https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Before the Flood \(Music from the Motion Picture\)](https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn) | 1:05 | 2023-08-31 | 2024-02-13 |
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-31 |  |

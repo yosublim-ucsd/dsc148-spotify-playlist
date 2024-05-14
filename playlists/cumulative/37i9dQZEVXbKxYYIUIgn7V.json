@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 209562,
       "name": "Always on the run",
       "url": "https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 119047,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG"
+      },
+      "artists": [
+        {
+          "name": "Dons",
+          "url": "https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171817,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -4391,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p"
+      },
+      "artists": [
+        {
+          "name": "Silia Kapsis",
+          "url": "https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178812,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy"
+    },
+    {
+      "album": {
         "name": "Liebe = Schmerz",
         "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
       },
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 129516,
       "name": "Lithe Fall Back",
       "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
@@ -5649,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "Fortune's child",
+        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut"
+    },
+    {
+      "album": {
         "name": "Pedestal (Eurovision version)",
         "url": "https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn"
       },
@@ -5722,7 +5776,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 114098,
       "name": "Pedro - Hardstyle",
       "url": "https://open.spotify.com/track/4falmUe7g0LzHxJMwhWk6q"
@@ -6058,7 +6112,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 190293,
       "name": "Renklensin",
       "url": "https://open.spotify.com/track/1d02igesB9DREknAVXRiBd"
@@ -7006,7 +7060,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
@@ -7064,7 +7118,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 166137,
       "name": "Superstar - Single Version",
       "url": "https://open.spotify.com/track/0DF0kZd5ze8v0IvyjQwqa2"
@@ -7437,6 +7491,24 @@
     },
     {
       "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"
+    },
+    {
+      "album": {
         "name": "The West Side Remix",
         "url": "https://open.spotify.com/album/0zfyaOqakTP2niVaivgzGx"
       },
@@ -7631,6 +7703,24 @@
     },
     {
       "album": {
+        "name": "Ulveham",
+        "url": "https://open.spotify.com/album/2JUURbJ2d1rCQRayCepXnv"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ulveham",
+      "url": "https://open.spotify.com/track/4Fo5QwbxjpNKW191lHQhnm"
+    },
+    {
+      "album": {
         "name": "Un monde parfait (Techno Mix)",
         "url": "https://open.spotify.com/album/7FHpbtVuYG0n3BcCOdK8An"
       },
@@ -7650,6 +7740,24 @@
       "duration_ms": 171021,
       "name": "Un monde parfait - Techno Mix",
       "url": "https://open.spotify.com/track/5yAJ48kDBWoggEg9GQhHlt"
+    },
+    {
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j"
     },
     {
       "album": {
@@ -8340,7 +8448,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 182090,
       "name": "\u00d6z\u00fcnl\u0259 Apar",
       "url": "https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs"

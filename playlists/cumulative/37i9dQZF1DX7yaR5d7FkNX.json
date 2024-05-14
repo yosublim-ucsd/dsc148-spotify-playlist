@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Astros",
+        "url": "https://open.spotify.com/album/3jGQw9Tu58SELgqLSWu208"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Astros",
+      "url": "https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt"
+    },
+    {
+      "album": {
         "name": "Gran Salto 1997-2014",
         "url": "https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 203454,
       "name": "De Verdad - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6W9UqX0GbQm78CCwaJtDn3"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 232283,
       "name": "EL FINAL",
       "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 238372,
       "name": "En efecto",
       "url": "https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl"
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 239346,
       "name": "Lo que Quieras de M\u00ed",
       "url": "https://open.spotify.com/track/2wLzfdCL6lVmUXySZlPVwa"
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 256437,
       "name": "Para\u00edsos Artificiales en el Liceu de Barcelona - En directo",
       "url": "https://open.spotify.com/track/5bNgYIEfOKjmW9LmTAOlii"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 185775,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/2JQPO4vEJXmwi0eCAc89J0"
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 147300,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
@@ -3244,6 +3262,28 @@
       "duration_ms": 270906,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
+    },
+    {
+      "album": {
+        "name": "Por Un Amor / Melodrama",
+        "url": "https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Por Un Amor",
+      "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
     },
     {
       "album": {
@@ -3521,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "Siento La Noche (Hale-Bopp, 1997)",
+        "url": "https://open.spotify.com/album/23t9rWllkrn5jQmAwlc2mu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        },
+        {
+          "name": "Rodrigo Guardiola",
+          "url": "https://open.spotify.com/artist/4GqajRF5SFfl0R9pDrEExP"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Siento La Noche (Hale-Bopp, 1997)",
+      "url": "https://open.spotify.com/track/6wYlkFiOhd35Q4dOloZXTu"
+    },
+    {
+      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -3766,7 +3828,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 194853,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH"

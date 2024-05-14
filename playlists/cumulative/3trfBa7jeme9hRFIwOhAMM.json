@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "My Vibe",
+        "url": "https://open.spotify.com/album/2ZJ7JBN87a8rQd8i2H5zdX"
+      },
+      "artists": [
+        {
+          "name": "Sndwave",
+          "url": "https://open.spotify.com/artist/2ZcjkxrtxJsDaGyRefueE1"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "My Vibe",
+      "url": "https://open.spotify.com/track/6IH9vIXCAfP0KYAkMDzR7X"
+    },
+    {
+      "album": {
         "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
@@ -2736,6 +2758,28 @@
       "duration_ms": 197007,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1oQcyICs4dnGG0rHMvaROt"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4OsS3plUSKaGgF8uNAEOd3"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        },
+        {
+          "name": "PENELOPE",
+          "url": "https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169860,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5RcKm382yYKCqRZvzR6obI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-517 songs - 1 day 20 hr 9 min
+518 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Desde el Underground](https://open.spotify.com/track/24k7TLEAWLGSdguQbvn2dW) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Desde el Underground](https://open.spotify.com/album/6J6K1kAIQ0DvimP5rF3HeX) | 3:33 | 2021-12-08 | 2023-01-06 |
 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 | 2021-12-08 | 2023-10-25 |
 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-12-08 |  |
+| [Digital Diva](https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Digital Diva EP](https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B) | 4:11 | 2024-05-10 |  |
 | [Dilla 4 Life](https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Dilla 4 Life](https://open.spotify.com/album/4PluePNnDFKZ4KrDZUJYze) | 4:26 | 2021-12-08 | 2022-07-26 |
 | [Dingane](https://open.spotify.com/track/1E66GmDYqz4CSEVDtFjcd3) | [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Dingane](https://open.spotify.com/album/2OaJteERKDVN4vXW7JJ5B8) | 4:10 | 2021-12-08 | 2023-05-06 |
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-12-08 | 2022-02-22 |
@@ -338,7 +339,7 @@
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-10-28 | 2023-06-18 |
 | [Passing Me By](https://open.spotify.com/track/2irEY0gvB7djriQOFTGFsq) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Darkside](https://open.spotify.com/album/1MEXNdnUKUN3H1cyleKxUH) | 6:13 | 2022-05-03 | 2022-11-17 |
-| [Pau \- Bella Boo Remix](https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [El Agua Es Profunda](https://open.spotify.com/artist/4ivbEFZIAFkf4xDd5g5t1F), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Pau \(Bella Boo Remix\)](https://open.spotify.com/album/6MjAU8LKv6GVTjNjDmjOZ3) | 5:18 | 2024-04-12 |  |
+| [Pau \- Bella Boo Remix](https://open.spotify.com/track/5fCqNBQMkXtjYc1y3yBZAB) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [El Agua Es Profunda](https://open.spotify.com/artist/4ivbEFZIAFkf4xDd5g5t1F), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Pau \(Bella Boo Remix\)](https://open.spotify.com/album/6MjAU8LKv6GVTjNjDmjOZ3) | 5:18 | 2024-04-12 | 2024-05-14 |
 | [Peaceful Groove](https://open.spotify.com/track/1ur4amXvk23LWTtEMSjlxt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5pogukTeYEaNxklDvrNqYl) | 3:31 | 2023-12-15 | 2024-04-19 |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-05-03 | 2023-12-16 |

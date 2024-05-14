@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276154,
+  "num_followers": 276162,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-10 03:03:00",
       "album": {
-        "name": "Shingaling Shingaling",
-        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Shingaling Shingaling",
-      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
-    },
-    {
-      "added_at": "2024-05-10 03:03:00",
-      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 144000,
       "name": "Turning Me Up (Hadal Ahbek)",
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
+    },
+    {
+      "added_at": "2024-05-10 03:03:00",
+      "album": {
+        "name": "Shingaling Shingaling",
+        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Shingaling Shingaling",
+      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
     },
     {
       "added_at": "2024-05-10 03:03:00",

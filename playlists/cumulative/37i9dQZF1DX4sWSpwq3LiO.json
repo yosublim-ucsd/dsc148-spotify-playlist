@@ -9373,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "Future \u672a\u6765",
+        "url": "https://open.spotify.com/album/003NKRkJ0GM6m6VY5kSEkF"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196556,
+      "name": "Future \u672a\u6765",
+      "url": "https://open.spotify.com/track/7l9kf2CXBDtvOMIRB23H5N"
+    },
+    {
+      "album": {
         "name": "Gaillardia",
         "url": "https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P"
       },
@@ -16638,6 +16656,24 @@
       "duration_ms": 126434,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF"
+    },
+    {
+      "album": {
+        "name": "Moving on",
+        "url": "https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172180,
+      "name": "Moving on",
+      "url": "https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE"
     },
     {
       "album": {

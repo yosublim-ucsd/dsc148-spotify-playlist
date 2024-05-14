@@ -2,9 +2,9 @@
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: De Beren Gieren
+> Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-207 songs - 17 hr 49 min
+209 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A l'ouest](https://open.spotify.com/track/3O0rGtMkFOXlH4Tkc4NcOU) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [A L'ouest](https://open.spotify.com/album/3o35QxHCAKcTNabPWcPCt4) | 4:03 | 2022-09-08 | 2024-03-15 |
 | [Absolution of a French Fry](https://open.spotify.com/track/2zab7PHAybogB0HTOkUAxv) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 5:31 | 2022-09-15 | 2023-04-14 |
 | [Absolution of a French Fry](https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Absolution Of A French Fry](https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX) | 5:31 | 2022-09-08 | 2022-09-25 |
+| [Abyssal Return](https://open.spotify.com/track/0gxWBwlSv39NPEmwAihCwf) | [Next.Ape](https://open.spotify.com/artist/2Vtc5shBiZL8XMF0sd9a4F), [Ben Wendel](https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca) | [Black Sand EP](https://open.spotify.com/album/0AyatE71czEl4s7DExbVq8) | 4:00 | 2024-05-13 |  |
 | [Abyssal Wandering](https://open.spotify.com/track/4NMNkomvSRGBmUc2ifC7kN) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Maelström](https://open.spotify.com/album/2tg20LGxMn7y2GW651dFDJ) | 6:42 | 2023-10-20 |  |
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 | 2023-03-03 |
 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
@@ -86,7 +87,7 @@
 | [Judy et Cie](https://open.spotify.com/track/0xfoPdEBXilQEYdgub4xGz) | [The Great Belgian Songbook](https://open.spotify.com/artist/2f7JS3Nx1CDwif5lgNV5ZF) | [Autumn Sessions](https://open.spotify.com/album/1vFIkhbRFFmtgMzooqTORJ) | 4:20 | 2022-09-08 |  |
 | [Karsilama](https://open.spotify.com/track/1IkoV81e6472xAB2geGiTO) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 4:36 | 2022-09-08 |  |
 | [Kervan](https://open.spotify.com/track/4Fwoj8XDiS2itAJ8DMzVLC) | [Kleptomatics](https://open.spotify.com/artist/36tb2IwdA6xFmYVxkL2uXT) | [Kleptomatics](https://open.spotify.com/album/3MRcsCRxIkSGGTflgA6wXQ) | 6:58 | 2022-09-08 | 2022-12-07 |
-| [Kintsugi](https://open.spotify.com/track/1LIpW35PEVnvCq6db7VvTm) | [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs), [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Kintsugi](https://open.spotify.com/album/3ItN6LrC8S7vbGwZ8iHAau) | 3:58 | 2022-09-08 |  |
+| [Kintsugi](https://open.spotify.com/track/1LIpW35PEVnvCq6db7VvTm) | [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs), [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Kintsugi](https://open.spotify.com/album/3ItN6LrC8S7vbGwZ8iHAau) | 3:58 | 2022-09-08 | 2024-05-14 |
 | [Kop Zonder Kip](https://open.spotify.com/track/1CGOSxHaSHN8cG2efDJFpN) | [Don Kapot](https://open.spotify.com/artist/3QCwWdOoSMhjrN2nA6rwwV) | [Kop Zonder Kip](https://open.spotify.com/album/7xgU4XsM3C3ZAjcFHXJdX8) | 4:46 | 2022-09-08 | 2023-04-14 |
 | [Kromme Kurk](https://open.spotify.com/track/3x3UxCpTt0ocOhEuOkhQPi) | [Karivaani Orkestra](https://open.spotify.com/artist/5wUrnWnYbXJQcTW5gvJwnL) | [Kromme Kurk](https://open.spotify.com/album/1hwJiws2NIMn20GBmzvPaO) | 3:58 | 2022-09-08 | 2022-09-30 |
 | [Lambda](https://open.spotify.com/track/2RpAIod9HRKhrTWd7bv1QU) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 2:37 | 2022-09-15 | 2023-04-06 |
@@ -134,6 +135,7 @@
 | [Papir Freedom](https://open.spotify.com/track/2nzwfCyZOhw8Svbc6h5Ams) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Papir Freedom](https://open.spotify.com/album/6ffk58AJ2lwlSylw02IYR6) | 4:25 | 2024-03-14 |  |
 | [Papir Freedom](https://open.spotify.com/track/6OzARRJLlPeRB2ICpY0ftR) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [What Eludes Us](https://open.spotify.com/album/17GR5WsqNpR9IKYquLCY4R) | 4:25 | 2024-03-28 | 2024-04-19 |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 | 2023-06-24 |
+| [Pepersaus](https://open.spotify.com/track/2qn64SGJqydjIOHVSsSf2m) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d) | [Yiri BOOM!](https://open.spotify.com/album/1FXXtgeV0hzZ0CQ60wvA7A) | 4:09 | 2024-05-13 |  |
 | [Photonic](https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc) | [H A S T](https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV) | [Ubi Sunt](https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW) | 3:32 | 2023-03-16 | 2024-04-19 |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 |  |
 | [Pickles](https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Mixmaster Menno](https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:03 | 2022-12-06 | 2024-03-15 |
@@ -173,7 +175,7 @@
 | [Stress Als Optie](https://open.spotify.com/track/2Vcy72JnCxieG9MoRALnRn) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 2:09 | 2022-09-08 | 2023-04-06 |
 | [Stroking The Furnace](https://open.spotify.com/track/5fTQXBZhD0PZVaje8ll9rD) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Stroking The Furnace](https://open.spotify.com/album/6UipgcX1ynmutMpMzi8RzL) | 4:01 | 2022-09-08 | 2023-10-07 |
 | [Stuck In The Well](https://open.spotify.com/track/3aoEE0W6jScrf7MbHeDXlI) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Lucid Lucia](https://open.spotify.com/album/0yl96Upj5HUFzdd8AzY0i4) | 3:59 | 2022-09-08 | 2023-04-14 |
-| [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 | 2022-09-08 |  |
+| [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 | 2022-09-08 | 2024-05-14 |
 | [Terra](https://open.spotify.com/track/47mb2nuSkGfwFFs6vIUaj0) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Buraq](https://open.spotify.com/album/6ECr1SbrqlO6LjzbTKUuXC) | 11:19 | 2023-03-23 | 2023-04-17 |
 | [Terra](https://open.spotify.com/track/49p4R37uHMMifLvIfAwb8X) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Terra](https://open.spotify.com/album/3KRzvDuX1dnsXmzyxF25lJ) | 11:19 | 2023-02-17 | 2023-03-26 |
 | [Terra](https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 11:19 | 2023-04-13 | 2024-03-15 |

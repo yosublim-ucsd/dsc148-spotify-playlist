@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Soziedad Alkoholika.",
-  "num_followers": 103443,
+  "num_followers": 103479,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Nuestra guerra",
-        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 305993,
-      "name": "Nuestra guerra",
-      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Ladr\u00f3n de Almas",
         "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Nuestra guerra",
+        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
+      },
+      "artists": [
+        {
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 305993,
+      "name": "Nuestra guerra",
+      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "Corona de Espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
       "artists": [
         {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Enemigo Publico",
-      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -743,6 +743,22 @@
       "duration_ms": 127480,
       "name": "Jimmy Jazz",
       "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Enemigo Publico",
+      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 192946,
       "name": "Empacho de Orfidal",
       "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 181707,
+      "name": "Infiltrados",
+      "url": "https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
-      },
-      "artists": [
-        {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Noche Molona",
         "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 178393,
       "name": "Noche Molona",
       "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
+      },
+      "artists": [
+        {
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+        "name": "S\u00edganle compadres",
+        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+          "name": "Kojon Prieto y los Huajolotes",
+          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
         }
       ],
-      "duration_ms": 181707,
-      "name": "Infiltrados",
-      "url": "https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s"
+      "duration_ms": 155533,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "S\u00edganle compadres",
-        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
-      },
-      "artists": [
-        {
-          "name": "Kojon Prieto y los Huajolotes",
-          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 266733,
       "name": "Ellos Dicen Mierda (Live)",
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Su Acierto",
-        "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 165739,
-      "name": "Su Acierto",
-      "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "He Visto",
         "url": "https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 208341,
       "name": "He Visto",
       "url": "https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Su Acierto",
+        "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 165739,
+      "name": "Su Acierto",
+      "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Debilidades del Estado",
-        "url": "https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Debilidades del Estado",
-      "url": "https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 252000,
       "name": "Y las que quedar\u00e1n",
       "url": "https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Debilidades del Estado",
+        "url": "https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Debilidades del Estado",
+      "url": "https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Cagaos",
         "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 157411,
       "name": "Cagaos",
       "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
+      },
+      "artists": [
+        {
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+        }
+      ],
+      "duration_ms": 227992,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
     },
     {
       "added_at": "2024-05-09 22:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "This is Paramore. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Paramore. The essential tracks, all in one playlist.",
   "name": "This Is Paramore",
   "tracks": [
     {
@@ -468,6 +468,24 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/74ABBu8osxqmuFOAKcWWpG"
+    },
+    {
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -776,7 +794,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 239173,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 220966,
       "name": "Never Let This Go",
       "url": "https://open.spotify.com/track/2itu79WbZhUCHX4jg0fyAd"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 212853,
       "name": "Rose-Colored Boy",
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
@@ -938,7 +956,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"

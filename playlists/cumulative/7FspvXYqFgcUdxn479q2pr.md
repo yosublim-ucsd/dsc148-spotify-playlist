@@ -4,10 +4,11 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-37 songs - 1 hr 48 min
+39 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-13 |  |
 | [Addicted To Rave](https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:49 | 2024-04-26 | 2024-05-03 |
 | [Afloja](https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Afloja](https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP) | 3:03 | 2024-04-26 | 2024-05-03 |
 | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ) | 2:55 | 2024-05-10 |  |
@@ -22,6 +23,7 @@
 | [Feel The Bass](https://open.spotify.com/track/5D6W1yN1aQUCLCyiglectq) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Feel The Bass](https://open.spotify.com/album/43Edl2tXhSxECWryf4fwoW) | 2:23 | 2024-05-10 |  |
 | [Flow](https://open.spotify.com/track/00qwQVVMQ70GLvVannxjy1) | [Fellow](https://open.spotify.com/artist/4NFas7PR42ELEaebwuHQ2a) | [Flow](https://open.spotify.com/album/7mN3ozCaA9tVdU07Mpo5xK) | 2:38 | 2024-05-03 | 2024-05-11 |
 | [For Me](https://open.spotify.com/track/4SY0Mb7wri1uAIFzSsukRi) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Undrwvter](https://open.spotify.com/artist/3zeOp42xdgvPHEtbIDxxMQ) | [For Me](https://open.spotify.com/album/1o6MUKYw0PrOtMNFLfnsid) | 3:34 | 2024-04-26 | 2024-05-11 |
+| [From Paris To Berlin](https://open.spotify.com/track/4npIZEyL6aqIsIcp3zCE7j) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A) | [From Paris To Berlin](https://open.spotify.com/album/0qJdKpljt9DfkUrtsMuSrG) | 2:52 | 2024-05-13 |  |
 | [Hold That Sucker Down](https://open.spotify.com/track/2lVyeLnWrbMhaZngI8CDY2) | [Covenants](https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ), [Angie Brown](https://open.spotify.com/artist/1T94SgNcfrWDaZMOqlgP8F) | [Hold That Sucker Down](https://open.spotify.com/album/6pIMRgbEbYSiqV54RR4ySw) | 3:06 | 2024-04-26 | 2024-05-03 |
 | [I Need A Dollar](https://open.spotify.com/track/1DSSrr7KE71Q9lWC6oAgNB) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [I Need A Dollar](https://open.spotify.com/album/7esA60BuZw6B5z23cFg5ag) | 2:23 | 2024-04-26 | 2024-05-11 |
 | [I Need A Dollar \(Dave Crusher Club Mix\)](https://open.spotify.com/track/6S1nm8biWPJNZ2oUdI1gr5) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Dave Crusher](https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F) | [I Need A Dollar \(Dave Crusher Club Mix\)](https://open.spotify.com/album/4e2LiymoF7u6vKpGE6xcjq) | 2:13 | 2024-05-10 |  |

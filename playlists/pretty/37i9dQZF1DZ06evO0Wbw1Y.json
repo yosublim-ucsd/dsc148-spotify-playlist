@@ -1,12 +1,12 @@
 {
-  "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28545,
+  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
+  "num_followers": 28548,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAABLRNbM2mblml/1ZOxgDY65",
+  "snapshot_id": "ZkAGgAAAAACwrQuO8ymati4pMMdoQiCi",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Me Duele",
-        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
+        "name": "Gracias (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT"
       },
       "artists": [
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        },
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 233755,
-      "name": "Cu\u00e1nto Me Duele",
-      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+      "duration_ms": 219880,
+      "name": "Duele (feat. Ventino)",
+      "url": "https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj"
     },
     {
       "added_at": null,
@@ -587,28 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/6pK8dM0NsFG6TFAtulkSPT"
-      },
-      "artists": [
-        {
-          "name": "Gemeliers",
-          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Duele (feat. Ventino)",
-      "url": "https://open.spotify.com/track/52AClUAz3QrSZA43YB6lTj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Dejo Entrar",
-        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+        "name": "Cu\u00e1nto Me Duele",
+        "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 192845,
-      "name": "Te Dejo Entrar",
-      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+      "duration_ms": 233755,
+      "name": "Cu\u00e1nto Me Duele",
+      "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
     },
     {
       "added_at": null,

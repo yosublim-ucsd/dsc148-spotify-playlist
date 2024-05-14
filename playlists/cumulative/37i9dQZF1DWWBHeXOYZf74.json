@@ -2486,6 +2486,28 @@
     {
       "album": {
         "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2g0KKIXBPUGx3zBdl2HUm9"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276316,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3h5OkeHNSAp7rChl8RgNGm"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
       "artists": [

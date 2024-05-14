@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-952 songs - 2 day 5 hr 50 min
+954 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Alby Ma3ak](https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alby Ma3ak](https://open.spotify.com/album/5MoX8FjhsUEt9AxbZ5RIki) | 3:35 | 2023-12-20 | 2024-01-27 |
 | [Alby Madas](https://open.spotify.com/track/769lMW5dJ1ooeFzWUlBlxI) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Alby Madas](https://open.spotify.com/album/1pFcWhghTl4YSWaDV4ViH3) | 4:47 | 2024-05-08 |  |
 | [Alby Mal](https://open.spotify.com/track/650iF0OtZ961Ke5fyDGSWU) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Alby Mal](https://open.spotify.com/album/7z5wd8YGBMgwfSHrexxuaJ) | 2:58 | 2023-12-29 | 2024-02-02 |
+| [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 | 2024-05-13 |  |
 | [Aleb Fel Dafater](https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Aleb Fel Dafater](https://open.spotify.com/album/6yF1BKku71kjth4L1WEMYV) | 5:06 | 2022-12-23 | 2023-02-15 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-16 | 2022-05-19 |
 | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/track/5s85Ha9iUpfjh4wB0yi7Ae) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/album/31pWCpj4AthQfLCkPvHezl) | 2:59 | 2023-08-20 | 2023-10-20 |
@@ -120,6 +121,7 @@
 | [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 | 2023-10-15 |
 | [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 | 2023-10-12 | 2024-01-12 |
 | [Bahebek Tab3an](https://open.spotify.com/track/7LFeJfAOjhKsCs3UwxkH2R) | [Esaf](https://open.spotify.com/artist/0nwERAZbDOU5tAEW9QdbVl) | [Bahebek Tab3an](https://open.spotify.com/album/4XXCpiUuZwHdDdf4i1GAgZ) | 4:06 | 2023-12-14 | 2024-01-26 |
+| [Bahlam](https://open.spotify.com/track/6CDcDRNj8we1YWU5ZRJK9F) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Bahlam](https://open.spotify.com/album/4YGoGgUA9CLgusQ8atAVi0) | 3:43 | 2024-05-13 |  |
 | [BALALA](https://open.spotify.com/track/1NJeSBBghUyNjT1ehBWJTe) | [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7), [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV) | [BALALA](https://open.spotify.com/album/3SJe8YpLuzHOPCkWXYmWS9) | 1:52 | 2023-12-07 | 2024-01-19 |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |

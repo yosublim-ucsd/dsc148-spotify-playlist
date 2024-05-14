@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 534909,
+  "num_followers": 534905,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
+      "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
+        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
       },
       "artists": [
         {
-          "name": "Bourvil",
-          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Salade de fruits",
-      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
+      "duration_ms": 201626,
+      "name": "La mer - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
-      "added_at": "2024-03-22 19:37:47",
+      "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
+        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
       },
       "artists": [
         {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+          "name": "Bourvil",
+          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
         }
       ],
-      "duration_ms": 201626,
-      "name": "La mer - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
+      "duration_ms": 195280,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "George Brassens: Douce France",
-        "url": "https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ"
+        "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
+        "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
       },
       "artists": [
         {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+          "name": "Fernandel",
+          "url": "https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Chanson pour l'Auvergnat",
-      "url": "https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7"
+      "duration_ms": 166240,
+      "name": "F\u00e9licie Aussi",
+      "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
-        "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
+        "name": "George Brassens: Douce France",
+        "url": "https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ"
       },
       "artists": [
         {
-          "name": "Fernandel",
-          "url": "https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN"
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
         }
       ],
-      "duration_ms": 166240,
-      "name": "F\u00e9licie Aussi",
-      "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
+      "duration_ms": 183133,
+      "name": "Chanson pour l'Auvergnat",
+      "url": "https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7"
     },
     {
       "added_at": "2024-03-22 19:37:47",

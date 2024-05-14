@@ -1,29 +1,13 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1060383,
+  "num_followers": 1060514,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAACGt4w8CCYUw4Zmh0XNV21a",
+  "snapshot_id": "ZkAGgAAAAACmz88ruRSF/p8na3hGOIt7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
     {
       "added_at": null,
       "album": {
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 228773,
-      "name": "Hearing Voices",
-      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 244960,
       "name": "Let It Die",
       "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 228773,
+      "name": "Hearing Voices",
+      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonic Highways",
         "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
       },
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 303813,
-      "name": "Walking After You",
-      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": null,
@@ -660,9 +628,25 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 257426,
-      "name": "Shame Shame",
-      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+      "duration_ms": 208706,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 303813,
+      "name": "Walking After You",
+      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Shame Shame",
+      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 245666,
       "name": "Alone + Easy Target",
       "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 310600,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 135573,
+      "name": "Up In Arms",
+      "url": "https://open.spotify.com/track/05TcC5ZN9rp8Glx8A9C2Nd"
     },
     {
       "added_at": null,

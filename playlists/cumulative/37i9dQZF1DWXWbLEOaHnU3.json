@@ -3525,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "Negev",
+        "url": "https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo"
+      },
+      "artists": [
+        {
+          "name": "Animato",
+          "url": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL"
+        },
+        {
+          "name": "Pettra",
+          "url": "https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Negev",
+      "url": "https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp"
+    },
+    {
+      "album": {
         "name": "Never Be The Same",
         "url": "https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas"
       },
@@ -4236,7 +4258,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 284571,
       "name": "Road to You",
       "url": "https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K"

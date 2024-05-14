@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 456243,
+  "num_followers": 456477,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+        "name": "George Strait's Greatest Hits, Volume Two",
+        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+      "duration_ms": 200826,
+      "name": "All My Ex's Live In Texas",
+      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "George Strait's Greatest Hits, Volume Two",
-        "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 200826,
-      "name": "All My Ex's Live In Texas",
-      "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
-      },
-      "artists": [
-        {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 194066,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+      },
+      "artists": [
+        {
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1524,17 +1508,17 @@
       "added_at": "2024-05-04 20:18:13",
       "album": {
         "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 134786,
-      "name": "Just Between You and Me",
-      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1551,6 +1535,22 @@
       "duration_ms": 138440,
       "name": "Blue Eyes Crying In the Rain",
       "url": "https://open.spotify.com/track/7ETtI1QTDcdI8yL55eXVOF"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
       "added_at": "2024-05-04 20:18:13",

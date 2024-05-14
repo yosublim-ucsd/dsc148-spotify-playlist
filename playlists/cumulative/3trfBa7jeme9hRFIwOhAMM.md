@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-214 songs - 10 hr 44 min
+216 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [MOVIN'](https://open.spotify.com/track/6n50RhUCJJq3Q3NAF11qyZ) | [Ricky West](https://open.spotify.com/artist/7oQmaTdhm1tysF3i4gJwog) | [MOVIN'](https://open.spotify.com/album/7vV3H0zMEEcT4kQOxwF708) | 3:12 | 2023-06-26 | 2023-08-03 |
 | [Mud Season](https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Mud Season](https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8) | 3:19 | 2024-04-19 |  |
 | [My Body](https://open.spotify.com/track/3Xa11anZWV00L8cB0dtJpL) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [My Body](https://open.spotify.com/album/1jhvdy1WLUr4L0sutlzutg) | 2:02 | 2023-12-11 | 2024-01-20 |
+| [My Vibe](https://open.spotify.com/track/6IH9vIXCAfP0KYAkMDzR7X) | [Sndwave](https://open.spotify.com/artist/2ZcjkxrtxJsDaGyRefueE1), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [My Vibe](https://open.spotify.com/album/2ZJ7JBN87a8rQd8i2H5zdX) | 3:24 | 2024-05-13 |  |
 | [NaNa Djon](https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [NaNa Djon](https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA) | 2:41 | 2023-07-31 | 2023-12-14 |
 | [Nirvana](https://open.spotify.com/track/0C2PDXjRIl5y6bqxewBXoL) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Jack Allenn](https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9) | [Nirvana](https://open.spotify.com/album/0LwjDsTpoKoTEK8ulfu9sI) | 2:09 | 2024-02-25 | 2024-03-23 |
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-12-14 |
@@ -139,6 +140,7 @@
 | [Out Of Control](https://open.spotify.com/track/588alKVRkW4dJJV5bMwhg4) | [Manaar](https://open.spotify.com/artist/17qSzNiZ5Dmp9NAE6f6CZe), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Out Of Control](https://open.spotify.com/album/4ltH8D77Dw3lqVsPLfvEwR) | 2:55 | 2024-05-03 |  |
 | [Outer Space \- JAWNS Remix](https://open.spotify.com/track/72TttvID6hkPfUrhHS5fDQ) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 4:30 | 2023-08-27 | 2023-12-14 |
 | [Oxygen](https://open.spotify.com/track/1oQcyICs4dnGG0rHMvaROt) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Oxygen](https://open.spotify.com/album/5gHPafzM3lVX2xlmjCZnYW) | 3:17 | 2024-04-19 |  |
+| [Paradise](https://open.spotify.com/track/5RcKm382yYKCqRZvzR6obI) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [PENELOPE](https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J) | [Paradise](https://open.spotify.com/album/4OsS3plUSKaGgF8uNAEOd3) | 2:49 | 2024-05-13 |  |
 | [Party In Miami \- Patrick M Remix](https://open.spotify.com/track/4lJky5mHFjn4ruOEw7nUpH) | [Outgang](https://open.spotify.com/artist/6jod8FpuOsUlGbzfJmctD6), [Yanik Coen](https://open.spotify.com/artist/0MnQ8m1U8JT36ixxg2ObzN), [Eday](https://open.spotify.com/artist/1DajAF38R7F2KDAzv8ztSh), [Patrick M](https://open.spotify.com/artist/1RccHciK3Gx68Yj5mlMeRV) | [Party In Miami \(The Remixes\)](https://open.spotify.com/album/31Wg5Bhdr0xaLinxAjmjYj) | 3:10 | 2023-06-30 | 2023-07-15 |
 | [Play This](https://open.spotify.com/track/48Z4yM1fpxcPNlplg4TLV6) | [Nessø](https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b), [COZE](https://open.spotify.com/artist/0CVGinSnFpDSMzwyIaeXpe) | [Play This](https://open.spotify.com/album/5CafRMGr7NziaPpmgzayl9) | 3:00 | 2024-01-13 | 2024-01-23 |
 | [Pop It](https://open.spotify.com/track/3gJpI3wAqMjVAQxkQJGfvo) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Fantasy / Pop It EP](https://open.spotify.com/album/3tjfDyo9rMk1DtFfyGPNjt) | 3:06 | 2023-09-20 | 2024-02-26 |

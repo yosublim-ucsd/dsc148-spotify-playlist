@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "A Perfect Distraction",
+        "url": "https://open.spotify.com/album/1nv5X3VtfBqUyeiAIptyHF"
+      },
+      "artists": [
+        {
+          "name": "Alkis Siokis",
+          "url": "https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123200,
+      "name": "A Perfect Distraction",
+      "url": "https://open.spotify.com/track/201YGNf6ZXFO6JMOAgwzk0"
+    },
+    {
+      "album": {
+        "name": "A Relaxing Path",
+        "url": "https://open.spotify.com/album/4dTGeJrUmywisTfcfXg8xp"
+      },
+      "artists": [
+        {
+          "name": "Jon Droulis",
+          "url": "https://open.spotify.com/artist/1SmwmdWkvYoC7dw13cEIbs"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "A Relaxing Path",
+      "url": "https://open.spotify.com/track/1iV191R6tNIUYEbXQYSzti"
+    },
+    {
+      "album": {
         "name": "A Winter with U",
         "url": "https://open.spotify.com/album/2EYPWseqviUX4HXAgNOmUC"
       },
@@ -461,6 +497,24 @@
     },
     {
       "album": {
+        "name": "arrival of sunrise",
+        "url": "https://open.spotify.com/album/4eC4Y5mRvicJOcHX6h150k"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138875,
+      "name": "arrival of sunrise",
+      "url": "https://open.spotify.com/track/4XNzfrexqHEUvePreTvU57"
+    },
+    {
+      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS"
       },
@@ -758,7 +812,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 111223,
       "name": "Birdlife",
       "url": "https://open.spotify.com/track/5U8kA1RQpLCfsbeAcFrXys"
@@ -1363,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Celestial City",
+        "url": "https://open.spotify.com/album/3v3ibme170mtwxSocEkTck"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "Celestial City",
+      "url": "https://open.spotify.com/track/32WixGrNaFmvysZFKBIo1E"
+    },
+    {
+      "album": {
         "name": "Changing Seasons",
         "url": "https://open.spotify.com/album/2NcPp6FVwy8E33QhS9Fxo9"
       },
@@ -1422,7 +1494,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 161013,
       "name": "Chi-town",
       "url": "https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ"
@@ -1610,7 +1682,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 116076,
       "name": "colors of a night",
       "url": "https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS"
@@ -1848,7 +1920,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 158571,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1KlHmKF2WqIjWvQ1anYvHh"
@@ -2566,7 +2638,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 129729,
       "name": "Exhibit A",
       "url": "https://open.spotify.com/track/7eSGgkpKap0NkmcsyX9DbN"
@@ -2740,7 +2812,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 85071,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/2gQmlDrCMN49X5E2tiKT5I"
@@ -2960,7 +3032,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 121453,
       "name": "forgotten technology",
       "url": "https://open.spotify.com/track/7aTgiXCztG1kPqqO5SgHAy"
@@ -2996,7 +3068,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 159069,
       "name": "FORWARD",
       "url": "https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs"
@@ -3126,7 +3198,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 116741,
       "name": "Friday Underground",
       "url": "https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO"
@@ -3184,6 +3256,24 @@
       "duration_ms": 148000,
       "name": "Garden Zoo",
       "url": "https://open.spotify.com/track/73O23xizU9YUdLDHF0iRJW"
+    },
+    {
+      "album": {
+        "name": "Gato Celeste",
+        "url": "https://open.spotify.com/album/2TWqFw5B7DrfA9BpUx21Qr"
+      },
+      "artists": [
+        {
+          "name": "Cielomoto",
+          "url": "https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Gato Celeste",
+      "url": "https://open.spotify.com/track/3syXa8GWS1J7MHzoBPdRql"
     },
     {
       "album": {
@@ -4110,7 +4200,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 120004,
       "name": "Jazz Has Many Faces",
       "url": "https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt"
@@ -4364,6 +4454,24 @@
       "duration_ms": 182000,
       "name": "koi pond",
       "url": "https://open.spotify.com/track/7v2WyuCp45BVlOhluOrvGL"
+    },
+    {
+      "album": {
+        "name": "Koishikawa",
+        "url": "https://open.spotify.com/album/4ZUvgTPRHxjxfetr10Jjpx"
+      },
+      "artists": [
+        {
+          "name": "Lemongrass",
+          "url": "https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Koishikawa",
+      "url": "https://open.spotify.com/track/6kw8TEu4ZPH0v87qod7I3J"
     },
     {
       "album": {
@@ -6225,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "Old Plate",
+        "url": "https://open.spotify.com/album/6cfIewvwQtVjb9lHe1FLQz"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122857,
+      "name": "Old Plate",
+      "url": "https://open.spotify.com/track/7b5SoWZyPIE4G82g5DXjRj"
+    },
+    {
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS"
       },
@@ -6384,7 +6510,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 120000,
       "name": "overcast",
       "url": "https://open.spotify.com/track/5HhaJtn3ilA7rjQHctEI1y"
@@ -7280,7 +7406,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 141360,
       "name": "roadtripp",
       "url": "https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt"
@@ -7490,7 +7616,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 148000,
       "name": "seedlings",
       "url": "https://open.spotify.com/track/4MKfOWEjeRQIkRsx9zpYih"
@@ -7580,7 +7706,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 85500,
       "name": "SimplyShtick",
       "url": "https://open.spotify.com/track/6A6TfXAAh1lqB63v0gVECk"
@@ -7995,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "spring clean",
+        "url": "https://open.spotify.com/album/3J2qO7hsbvyjBJ5sLeBeOz"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118125,
+      "name": "spring clean",
+      "url": "https://open.spotify.com/track/6qIDY6ypEHxlXPMnabAmvX"
+    },
+    {
+      "album": {
         "name": "Spring Morning",
         "url": "https://open.spotify.com/album/5TOK6EBCYfIGwyruXfliZy"
       },
@@ -8014,6 +8158,24 @@
       "duration_ms": 110769,
       "name": "Spring Morning",
       "url": "https://open.spotify.com/track/0xZdyUjuc5xqMppLL6bvMd"
+    },
+    {
+      "album": {
+        "name": "Spring Weather",
+        "url": "https://open.spotify.com/album/7ExofSUgGrqosTtli3tYYz"
+      },
+      "artists": [
+        {
+          "name": "Archipelia",
+          "url": "https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159164,
+      "name": "Spring Weather",
+      "url": "https://open.spotify.com/track/6BLVthKgS8dAHKjcsXT4pj"
     },
     {
       "album": {
@@ -8154,7 +8316,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 128970,
       "name": "Street Light",
       "url": "https://open.spotify.com/track/7jDnKToNs76wyPpZWI40s9"
@@ -8338,7 +8500,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 148361,
       "name": "Sunset Over Paris",
       "url": "https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK"
@@ -8522,6 +8684,24 @@
       "duration_ms": 179815,
       "name": "There is a New Beginning",
       "url": "https://open.spotify.com/track/0E1F9N1OMTTBIeNob0GjG7"
+    },
+    {
+      "album": {
+        "name": "Time to Leave",
+        "url": "https://open.spotify.com/album/6fDcJPTZaFhIEn7ddwssFt"
+      },
+      "artists": [
+        {
+          "name": "Kokta beats",
+          "url": "https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Time to Leave",
+      "url": "https://open.spotify.com/track/5mnyE3aeYUgg7LQf2MbQwG"
     },
     {
       "album": {
@@ -8940,7 +9120,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 145303,
       "name": "Un Poco M\u00e1s",
       "url": "https://open.spotify.com/track/3zfLOTXWuj9wbQADkr8EyB"

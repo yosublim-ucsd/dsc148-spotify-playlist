@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 455201,
+  "num_followers": 455359,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
-    },
-    {
       "added_at": "2022-10-05 01:25:40",
       "album": {
         "name": "Shine",
@@ -547,6 +531,22 @@
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
     },
     {
       "added_at": "2023-04-05 03:20:02",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
-      "added_at": "2023-06-02 01:45:44",
-      "album": {
-        "name": "Trouble / In My Head",
-        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 186528,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
-    },
-    {
       "added_at": "2022-12-07 04:54:47",
       "album": {
         "name": "Eat You Alive",
@@ -631,6 +615,22 @@
       "duration_ms": 190000,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
+    },
+    {
+      "added_at": "2023-06-02 01:45:44",
+      "album": {
+        "name": "Trouble / In My Head",
+        "url": "https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 186528,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
+      "added_at": "2023-03-22 17:53:19",
       "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
         }
       ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2023-03-22 17:53:19",
+      "added_at": "2022-01-26 18:13:44",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
       },
       "artists": [
         {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Feel The Pain / Fast Car",
         "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
       },
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-09-13 16:09:15",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
         }
       ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1171,22 +1187,6 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2023-08-31 18:57:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk"
-      },
-      "artists": [
-        {
-          "name": "Nnic",
-          "url": "https://open.spotify.com/artist/78RIY4A5dtJJVQvt51Q1ko"
-        }
-      ],
-      "duration_ms": 210089,
-      "name": "Pillars",
-      "url": "https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Last Year Was Weird, Vol. 3",
         "url": "https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk"
+      },
+      "artists": [
+        {
+          "name": "Nnic",
+          "url": "https://open.spotify.com/artist/78RIY4A5dtJJVQvt51Q1ko"
+        }
+      ],
+      "duration_ms": 210089,
+      "name": "Pillars",
+      "url": "https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1705,20 +1705,20 @@
       "url": "https://open.spotify.com/track/7gGObhepvI410Fys1avsdp"
     },
     {
-      "added_at": "2022-12-07 04:05:43",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Fallaway",
-        "url": "https://open.spotify.com/album/4x7g9rKQxdxzZIKoKImOka"
+        "name": "Church Girl",
+        "url": "https://open.spotify.com/album/4WKRD4zVR8HKA7RUfsFN2J"
       },
       "artists": [
         {
-          "name": "Molly McPhaul",
-          "url": "https://open.spotify.com/artist/2C6ewTAa9ZJKn6cltA1OnL"
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
         }
       ],
-      "duration_ms": 197763,
-      "name": "Fallaway",
-      "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
+      "duration_ms": 225800,
+      "name": "Church Girl",
+      "url": "https://open.spotify.com/track/3GzRJHWN4LeJBidyL4ktzh"
     }
   ],
   "unique_name": "Soft Office",

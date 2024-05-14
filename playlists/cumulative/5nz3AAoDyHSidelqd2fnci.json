@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 234760,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/2wmLiiSelOVhU0Hfb0R6EV"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 141687,
       "name": "Belong To The Wind",
       "url": "https://open.spotify.com/track/4p6yT9iFL3RHRBqcw5vWKM"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 173800,
       "name": "Beyond the Flames",
       "url": "https://open.spotify.com/track/6g1TT1XmmMHnBaPGTaEx4Q"
@@ -3309,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
+    },
+    {
+      "album": {
         "name": "Lucidity (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4zApuxmkizVW3LFcXaBiuz"
       },
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 240360,
       "name": "El Juego Comienza",
       "url": "https://open.spotify.com/track/2TDs6pFpnoIHwEaocZffAN"
@@ -4546,7 +4564,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 178706,
       "name": "Eyes Sewn Shut",
       "url": "https://open.spotify.com/track/5vski4MMCVczlFftIoiUiW"
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 239840,
       "name": "Filth Friends Unite",
       "url": "https://open.spotify.com/track/46muDjhBE7uR4nrka2zI1G"
@@ -5714,7 +5732,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 178331,
       "name": "grips",
       "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
@@ -6417,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "Ghost Empire",
+        "url": "https://open.spotify.com/album/4kACpEgRgdaF9x9j2czmez"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "I Am Ghost",
+      "url": "https://open.spotify.com/track/0JhpEpbEW40hqP4BUA3EUb"
+    },
+    {
+      "album": {
         "name": "Understanding What We've Grown to Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t"
       },
@@ -6772,6 +6808,24 @@
       "duration_ms": 204626,
       "name": "I'm With Stupid",
       "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+    },
+    {
+      "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/2tHCY2fDMi0NqeGZcAxNSc"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Ich will",
+      "url": "https://open.spotify.com/track/14NwRQ6fnnoSfjeaHRZqz1"
     },
     {
       "album": {
@@ -7208,6 +7262,24 @@
       "duration_ms": 234546,
       "name": "It's Far Better To Learn",
       "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
+    },
+    {
+      "album": {
+        "name": "Punk-O-Rama, Vol. 4",
+        "url": "https://open.spotify.com/album/2EvS4axm6uwyQ7EPvKznYT"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/65bPPISbpFMbUs1wTrrZvl"
     },
     {
       "album": {
@@ -8098,7 +8170,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 160546,
       "name": "Los Premios",
       "url": "https://open.spotify.com/track/3X0eCUA32BxqZvC9zulNew"
@@ -8242,7 +8314,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
@@ -10106,7 +10178,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 255373,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
@@ -11319,6 +11391,24 @@
     },
     {
       "album": {
+        "name": "Powerslave (1998 Remastered Edition)",
+        "url": "https://open.spotify.com/album/4hFcwazEjeg3gJEu0AuxM7"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 814466,
+      "name": "Rime Of The Ancient Mariner - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/3tEuFYWBimv6LeNS5lXBrx"
+    },
+    {
+      "album": {
         "name": "Rise: Ascension",
         "url": "https://open.spotify.com/album/4P2Fo2MQhNicCEm9IBQ2vA"
       },
@@ -11644,7 +11734,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT"
@@ -12325,6 +12415,24 @@
     },
     {
       "album": {
+        "name": "Almost Here",
+        "url": "https://open.spotify.com/album/1UFqUhgdLfxuV3AzVGlbOR"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/4VbxZbS5Vrwr8nnHCFBiXx"
+    },
+    {
+      "album": {
         "name": "Bad (Remastered)",
         "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
       },
@@ -12711,6 +12819,24 @@
     },
     {
       "album": {
+        "name": "A War You Cannot Win",
+        "url": "https://open.spotify.com/album/3VVs2qnb9jPpXovFsutxlb"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240920,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/6zGwD6rRn0lUsrtYGZdRil"
+    },
+    {
+      "album": {
         "name": "Stars (Collector's Edition)",
         "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
       },
@@ -12762,6 +12888,24 @@
       "duration_ms": 232520,
       "name": "Stay Together For The Kids",
       "url": "https://open.spotify.com/track/2uot2UE0ng9D9UEsmJINvR"
+    },
+    {
+      "album": {
+        "name": "Weihnachten mit Stubenmusik",
+        "url": "https://open.spotify.com/album/4LE9YClP0AlPnEdRuLuFM1"
+      },
+      "artists": [
+        {
+          "name": "Aschberger Stub'nmusi",
+          "url": "https://open.spotify.com/artist/5M3MRFh0QFFrPgKxZ57a1B"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Sternflock\u00b4n",
+      "url": "https://open.spotify.com/track/6gMmaDcfbaIWXCRgyMThpO"
     },
     {
       "album": {
@@ -14418,7 +14562,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 323226,
       "name": "The Unforgiven",
       "url": "https://open.spotify.com/track/3P8blD6srn2ia9ccmvSfyL"
@@ -14526,7 +14670,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 210253,
       "name": "This World Can't Tear Us Apart",
       "url": "https://open.spotify.com/track/21pxqehFlYtrVhA07y2lmv"
@@ -14974,6 +15118,24 @@
       "duration_ms": 310960,
       "name": "Twenty First Century Boy",
       "url": "https://open.spotify.com/track/4FxiAllpIaZMFIKHdAROWH"
+    },
+    {
+      "album": {
+        "name": "Requiem for the Indifferent",
+        "url": "https://open.spotify.com/album/6m5cjOrvFohtjwvKxM2YhJ"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302300,
+      "name": "Twin Flames (Soundtrack Version) [Bonus Track]",
+      "url": "https://open.spotify.com/track/16nmJgF767LxgEIg99UrCt"
     },
     {
       "album": {
@@ -15519,6 +15681,24 @@
     },
     {
       "album": {
+        "name": "A 30 a\u00f1os del Regreso",
+        "url": "https://open.spotify.com/album/1mE6NvJuFwOtz4rpipf1eA"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307301,
+      "name": "Vuelvo para vivir",
+      "url": "https://open.spotify.com/track/4bKaEsiREgX3qlzHbODy5W"
+    },
+    {
+      "album": {
         "name": "The Fallout (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/0RNvY7pXqrFB6zZXUS79tM"
       },
@@ -15984,7 +16164,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "When I Get Home You're So Dead",
       "url": "https://open.spotify.com/track/4ccr6FKdh8sfhnQWDGJDg5"

@@ -4,7 +4,7 @@
 
 > 
 
-25 songs - 2 hr 2 min
+26 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |
-| [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 |  |
+| [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 | 2024-05-13 |  |
+| [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 | 2024-05-14 |
 | [Learn How to Lose: Act 1](https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [A Mirror Brightly](https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ) | 4:20 | 2024-04-08 | 2024-05-03 |
 | [Out Among the Stars](https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Out Among The Stars](https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth) | 3:00 | 2024-05-02 | 2024-05-11 |
 | [Overnight](https://open.spotify.com/track/3qCCsX6mHrZkMIZfNNOqg5) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:11 | 2024-05-02 | 2024-05-11 |

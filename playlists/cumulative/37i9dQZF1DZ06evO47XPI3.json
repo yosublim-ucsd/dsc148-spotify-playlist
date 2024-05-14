@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Delfonics. The essential tracks, all in one playlist.",
+  "description": "This is The Delfonics\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is The Delfonics",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Can You Remember",
       "url": "https://open.spotify.com/track/4clRZa3BGHOFS52liFzwxK"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 272333,
       "name": "Delfonics Theme (How Could You)",
       "url": "https://open.spotify.com/track/2LukR1MpbneHgRKaqGh06v"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 204000,
       "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
       "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 161560,
       "name": "Everytime I See My Baby - Remastered",
       "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 166160,
       "name": "I'm Sorry - Remastered",
       "url": "https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "She Said Don't Love Me - Re-Recorded In Stereo",
       "url": "https://open.spotify.com/track/7DStyvLev0PltiDhNFv8PN"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 198573,
       "name": "Somebody Loves You - Remastered",
       "url": "https://open.spotify.com/track/7LQlozny7nxRh3ZbtyCKlU"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 168600,
       "name": "When You Get Right Down to It",
       "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX"

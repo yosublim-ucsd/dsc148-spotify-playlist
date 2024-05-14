@@ -2,9 +2,9 @@
 
 ### [Hardcore Gardening](https://open.spotify.com/playlist/37i9dQZF1DX1MVSQC9hUQf)
 
-> plant growth through extreme noise\. guided by horticulturist Chris Beardshaw\. Cover: <a href="https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73?si=e4de5425446846f3">GEL</a>
+> plant growth through extreme noise\. guided by horticulturist Chris Beardshaw.
 
-50 songs - 1 hr 59 min
+51 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 | 2024-04-26 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2024-04-26 |  |
 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 | 2024-04-26 |  |
-| [Not That Nice](https://open.spotify.com/track/2pSOZSpvdkJUcgxVQHZgeu) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Gang Called Speed](https://open.spotify.com/album/5ljbyvB849hG4T629j6mzB) | 2:41 | 2024-04-26 |  |
+| [Not That Nice](https://open.spotify.com/track/2pSOZSpvdkJUcgxVQHZgeu) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Gang Called Speed](https://open.spotify.com/album/5ljbyvB849hG4T629j6mzB) | 2:41 | 2024-04-26 | 2024-05-14 |
 | [OK? OK! OK? OK!](https://open.spotify.com/track/2mVEPVf5YF4hukVUWaorF7) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:11 | 2024-04-26 |  |
 | [Pave Paradise](https://open.spotify.com/track/2vFGzrdIhMQO0MN0NtlvBd) | [Have Heart](https://open.spotify.com/artist/6e0QWfEFmK6AguLy02mlqi) | [Songs To Scream At The Sun](https://open.spotify.com/album/2gTnAFbb7OMhCpyjB75vfM) | 1:47 | 2024-04-26 |  |
 | [Pleased to Meet You](https://open.spotify.com/track/4zWzMvaAqGlZoE4XPiP7xf) | [Trapped Under Ice](https://open.spotify.com/artist/2x48WoJGRLCpCWHEKXMZoB) | [Big Kiss Goodnight](https://open.spotify.com/album/58FEHERIbXVhRIIf8jXZUm) | 2:32 | 2024-04-26 |  |
 | [Primitive Desires](https://open.spotify.com/track/4kH7PEz8BvSWN7mRzeIuHv) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [Primitive Desires](https://open.spotify.com/album/52NqZOdiKJgqYT9KgbAGeS) | 1:03 | 2024-04-26 |  |
 | [Rat Race](https://open.spotify.com/track/1QrSJhDzAXI3Yhqmknya9c) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Rat Race](https://open.spotify.com/album/4CImqDK6CzZYrNVyMUn7TO) | 1:53 | 2024-04-26 |  |
 | [Ready to Fight \- From 10 Song 7 Inch EP 1982](https://open.spotify.com/track/1xbtzsYo8a6nAJgOURQP9T) | [Negative Approach](https://open.spotify.com/artist/1DijMV2W1I2CfGLcarzgav) | [Total Recall](https://open.spotify.com/album/54ebrK34aJ9bHYB6fCr2P0) | 1:02 | 2024-04-26 |  |
+| [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-13 |  |
 | [Reaper](https://open.spotify.com/track/1Z1gDW1hKjKM8HX3tmeKOq) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 1:38 | 2024-04-26 |  |
 | [Sailin' On](https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 1:55 | 2024-04-26 |  |
 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 | 2024-04-26 |  |

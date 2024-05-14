@@ -3365,6 +3365,28 @@
     },
     {
       "album": {
+        "name": "Monumental Beings",
+        "url": "https://open.spotify.com/album/3jrU9IYbZGVdhT41xuG0lt"
+      },
+      "artists": [
+        {
+          "name": "Sullee J",
+          "url": "https://open.spotify.com/artist/63skthknzk8hk09f9c7Q91"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207882,
+      "name": "Born With It",
+      "url": "https://open.spotify.com/track/0czhA8R4oo8wPnTnuZlcxi"
+    },
+    {
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },
@@ -9580,10 +9602,36 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 226876,
       "name": "Gauntlet",
       "url": "https://open.spotify.com/track/5lpsmXWgjHtE6Py1bBuqFR"
+    },
+    {
+      "album": {
+        "name": "Gauntlet",
+        "url": "https://open.spotify.com/album/3q3qSaoEaMa4LTj7MrSsJn"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "unJUST",
+          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226876,
+      "name": "Gauntlet",
+      "url": "https://open.spotify.com/track/7kNagdpxwMRJ7TYVlB880L"
     },
     {
       "album": {
@@ -9606,7 +9654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 208163,
       "name": "Geboren Damit",
       "url": "https://open.spotify.com/track/00y0iT9k62y0gB485VST2S"
@@ -13566,10 +13614,36 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 240130,
       "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
       "url": "https://open.spotify.com/track/3m9jjMhcXhUVQ6S7uL5qhQ"
+    },
+    {
+      "album": {
+        "name": "Wish Me Well 2 (Sped Up)",
+        "url": "https://open.spotify.com/album/20gKlQvrOioOcSjqECTNcV"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240130,
+      "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
+      "url": "https://open.spotify.com/track/6m2xmaqZYnZNrCAa4kctaM"
     },
     {
       "album": {
@@ -17237,6 +17311,40 @@
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 288551,
+      "name": "My Year",
+      "url": "https://open.spotify.com/track/7s4Ym7PpY5Cjh2RIvLJeLa"
+    },
+    {
+      "album": {
+        "name": "My Year",
+        "url": "https://open.spotify.com/album/0Gt6nUt5yUD3I92B94tlAX"
+      },
+      "artists": [
+        {
+          "name": "Da Beatminerz",
+          "url": "https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        },
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        },
+        {
+          "name": "Corey Glover",
+          "url": "https://open.spotify.com/artist/1q43UYqmrt3prvsBUfuRdr"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-05-14",
       "duration_ms": 288603,
       "name": "My Year",
       "url": "https://open.spotify.com/track/11V0MfxII1ZmRatxtz0OyD"

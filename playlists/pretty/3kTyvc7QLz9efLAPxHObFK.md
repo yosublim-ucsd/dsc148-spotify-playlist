@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,355 songs - 3 day 2 hr 32 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,364 songs - 3 day 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1363,5 +1363,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1353 | [Hold Us Down](https://open.spotify.com/track/5htleUIju1SDUJRmJGj67s) | [Heavy Damage](https://open.spotify.com/artist/3Jj06vceLZ9dBSvBdAEf1D), [Loner](https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry) | [Hold Us Down](https://open.spotify.com/album/4UemH2eTDByjz19uxLQQoB) | 2:08 |
 | 1354 | [YOU LIKE TO MOVE IT?](https://open.spotify.com/track/0a3OY8RJtxD50MBtPIBLdb) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN), [thedolarbil](https://open.spotify.com/artist/4FWCbWedjUPZymoJ1xmPSh) | [YOU LIKE TO MOVE IT?](https://open.spotify.com/album/6teylFgvMQveVLHiaNgiA0) | 1:44 |
 | 1355 | [I Like The Way You Kiss Me \- Uptempo Edit](https://open.spotify.com/track/1Q4Ndw21wSor4ZAY7ycAmz) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [I Like The Way You Kiss Me \(Uptempo Edit\)](https://open.spotify.com/album/5VVaAnzdPdLIA8A2CKI8Xt) | 2:39 |
+| 1356 | [Losing Myself](https://open.spotify.com/track/44TVlcRpIkotUdmGNwrCV9) | [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD), [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM) | [Losing Myself](https://open.spotify.com/album/1ApQWzEF2HsogRDUcBABBk) | 2:45 |
+| 1357 | [Celtic Drops](https://open.spotify.com/track/0LD4cuYHgWaIJ2886NlVUp) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [Ryhki](https://open.spotify.com/artist/2IMMb0hJM8lzWqltmNuk6q) | [Nothing after elysioИ](https://open.spotify.com/album/5cu6vomYYnJHiDCb7xwasV) | 3:05 |
+| 1358 | [STRANGE](https://open.spotify.com/track/0UINFkF74ewZiivJm8Aq2D) | [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [double\_u](https://open.spotify.com/artist/6ypQsI6CcqkmGwxdSNZWq8) | [STRANGE](https://open.spotify.com/album/2l7OL4H2vd89ngIkNBh5gk) | 2:17 |
+| 1359 | [First Kiss](https://open.spotify.com/track/5fCfMtRsk1Kt1vdIpL1gd2) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [First Kiss](https://open.spotify.com/album/1vqzv8lcAFHp8a3bypPlSz) | 2:53 |
+| 1360 | [HARD\-COREMATA \- HVS ver.](https://open.spotify.com/track/1pj171RxCE6ZaW4dTVIBXy) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [Matatabi Sound System](https://open.spotify.com/artist/2psvrZAUoHkWuM5KZAbwc5), [DJ NECOJITA](https://open.spotify.com/artist/5SWIqvJVbXytqkRg5ste4h), [Shinonome Interface](https://open.spotify.com/artist/1cYzRgYVdxIwCjYBYAh8U7), [blaxervant](https://open.spotify.com/artist/35iNXVtX6Joy1aRqgo7BaN) | [HiTNEX ViRTUAL SHiFTERZ](https://open.spotify.com/album/0ETNfFWDHqLq48n52CDFAg) | 3:09 |
+| 1361 | [Take Me](https://open.spotify.com/track/2iHV4dQy0ZYAql1dEtV3cu) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Kowloon](https://open.spotify.com/album/7IWkvEyBowUA1MN9ZMQg6n) | 3:16 |
+| 1362 | [Vivid Refrain](https://open.spotify.com/track/3Wef6xTwKY3JqqcS36P3vk) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Vivid Refrain](https://open.spotify.com/album/1LxdJKdW99pKA4711BS8UJ) | 3:49 |
+| 1363 | [Let me in the dark](https://open.spotify.com/track/6sdEgRMk7X2dZhp3vkL24M) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Empira](https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Armageddon](https://open.spotify.com/album/4gjJDTNDYQgBp9M7HzGSIv) | 3:43 |
+| 1364 | [Snake Pit](https://open.spotify.com/track/5GQRu63MroIMnM7DPH75Mi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:18 |
 
-Snapshot ID: `AAAFeORTgu2rE1+Yy2W9QaazZD+6s8Th`
+Snapshot ID: `AAAFgX2c8Xz85tFJKNojXcOE6HEleEye`

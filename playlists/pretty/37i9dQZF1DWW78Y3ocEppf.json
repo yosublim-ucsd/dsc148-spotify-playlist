@@ -1,6 +1,6 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43136,
+  "num_followers": 43132,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "NEGLIGENT",
-        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 204144,
-      "name": "NEGLIGENT",
-      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -487,6 +471,22 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "NEGLIGENT",
+        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 204144,
+      "name": "NEGLIGENT",
+      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Rebirth 3: The Party & The Bedroom",
-        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Love It Here",
         "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 213736,
       "name": "LMK",
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Rebirth 3: The Party & The Bedroom",
+        "url": "https://open.spotify.com/album/01bHZLLEGrQkliJecHJTmS"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1tGpqc786ulINUeRFK9iV4"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
-      },
-      "artists": [
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
-    },
-    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "7",
@@ -987,6 +971,22 @@
       "duration_ms": 198620,
       "name": "Luv To A Fck Song",
       "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/42ZpyhNWUTOm5J9ex6I7yF"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 159313,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/3cyVtGHoaRIWfrfqBItC9t"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Love Hate",
-        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 156309,
-      "name": "Love Hate",
-      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1247,6 +1231,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Hate",
+        "url": "https://open.spotify.com/album/6ReX2Hg53ItFexiCXSemhy"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 156309,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1nRAogZ7SjnSsExrkQrU4s"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1301,24 +1301,20 @@
       "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2023-09-01 04:55:52",
       "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
       },
       "artists": [
         {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Malaika Terry",
-          "url": "https://open.spotify.com/artist/5j4s3NQ1MYuJbswcZs6ncH"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 207123,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1341,20 +1337,24 @@
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/7lFrudJN1swTpUTt1QJCfQ"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Malaika Terry",
+          "url": "https://open.spotify.com/artist/5j4s3NQ1MYuJbswcZs6ncH"
         }
       ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+      "duration_ms": 207123,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2022-11-04 06:34:53",
       "album": {
         "name": "Satisfied",
@@ -1595,6 +1579,22 @@
       "duration_ms": 158661,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1761,24 +1761,20 @@
       "url": "https://open.spotify.com/track/7y1mzezUl5HfAvWYSs7Qu1"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Pusha Baby",
-        "url": "https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg"
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
       },
       "artists": [
         {
-          "name": "Teon Gibbs",
-          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 141375,
-      "name": "Pusha Baby",
-      "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
+      "duration_ms": 157976,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/2C0UG7bGDIRzatEp7OMqqm"
     }
   ],
   "unique_name": "Some Kinda Way",

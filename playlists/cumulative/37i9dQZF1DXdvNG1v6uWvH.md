@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-340 songs - 17 hr 53 min
+341 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 | 2024-04-26 | 2024-05-03 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-03 | 2024-05-10 |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-03 | 2024-05-10 |
-| [jumpstart](https://open.spotify.com/track/7LV0TisqbubR9CgnflZemg) | [ST\. NIKLAS](https://open.spotify.com/artist/7mxHelaegCfkVGFRBKzIQb) | [jumpstart](https://open.spotify.com/album/0aaofZbpeZ8DHOKoTU2ElT) | 2:31 | 2024-05-10 |  |
+| [jumpstart](https://open.spotify.com/track/7LV0TisqbubR9CgnflZemg) | [ST\. NIKLAS](https://open.spotify.com/artist/7mxHelaegCfkVGFRBKzIQb) | [jumpstart](https://open.spotify.com/album/0aaofZbpeZ8DHOKoTU2ElT) | 2:31 | 2024-05-10 | 2024-05-14 |
 | [Just Begun](https://open.spotify.com/track/45JMHnJVIpb8FqsWVpuclv) | [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC) | [Just Begun](https://open.spotify.com/album/4ZZzrnCCC8OZJWarFEln29) | 3:20 | 2024-04-26 | 2024-05-03 |
 | [Kerosene Dreams](https://open.spotify.com/track/2tHUKqdFCcrJ0xiC9SNOwb) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [A Guilty Heart Can Never Rest](https://open.spotify.com/album/7kUEQbqX1Kaf6oL2x046d6) | 3:05 | 2024-05-10 |  |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-03 | 2024-05-10 |
@@ -270,6 +270,7 @@
 | [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 | 2024-05-10 |  |
 | [Sommar](https://open.spotify.com/track/4i8A7mCUAK97rMDmmTCcDW) | [KUSK](https://open.spotify.com/artist/3fHqQO1LcGMWjAhvDSWl5Q) | [Sommar](https://open.spotify.com/album/5TpbJ6qgaxGgbloYyp3mFj) | 3:03 | 2024-05-10 | 2024-05-11 |
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-10 |  |
+| [Spacecraft](https://open.spotify.com/track/3elO36mVEKK6gGLyrkfKE8) | [Tobias Arbo](https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15) | [Spacecraft](https://open.spotify.com/album/7In1R8xbSoSzu5Z0w9NGO3) | 3:31 | 2024-05-10 |  |
 | [Spin Me Round](https://open.spotify.com/track/4MgX84B2zGTkyUMt31cB3i) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Spin Me Round](https://open.spotify.com/album/01RdH7Z0VmRNZnQsM7WAgV) | 2:26 | 2024-05-10 |  |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-03 | 2024-05-10 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-10 |  |

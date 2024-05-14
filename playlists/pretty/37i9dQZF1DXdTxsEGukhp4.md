@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Kaneee
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,488 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,531 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [居酒屋](https://open.spotify.com/track/27sWCidpvRQsFQUZmUHHLn) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [徳利](https://open.spotify.com/artist/3sbcL5Cfgo2VkJTvzaNvuY) | [Transform \-Charcoal side\-](https://open.spotify.com/album/4nXqGulRXqM99NDche7Qkt) | 3:14 |
 | 50 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
 
-Snapshot ID: `Zjzk8AAAAACC876xTjjYGjrYK7VEbYFT`
+Snapshot ID: `ZkGwAwAAAAD9DBz0l4/XviqpZf+/GmUF`

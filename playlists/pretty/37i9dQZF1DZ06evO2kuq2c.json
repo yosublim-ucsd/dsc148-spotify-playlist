@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 69619,
+  "num_followers": 69650,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAAY3veSKPZ6lG4p0+wgcTgY",
+  "snapshot_id": "ZkAGgAAAAACWdXpVgl6xKHqqkM5exqXn",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 241386,
-      "name": "These Colours Don't Run",
-      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+      "duration_ms": 198097,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -424,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 198097,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
+      "duration_ms": 232614,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
     },
     {
       "added_at": null,
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 232614,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
+      "duration_ms": 244614,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 244614,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
+      "duration_ms": 264706,
+      "name": "Hollow Crown",
+      "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
       "duration_ms": 259224,
       "name": "C.A.N.C.E.R",
       "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hollow Crown",
-        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "Hollow Crown",
-      "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
     },
     {
       "added_at": null,

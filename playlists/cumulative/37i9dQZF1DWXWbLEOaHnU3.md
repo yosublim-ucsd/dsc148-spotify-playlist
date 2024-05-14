@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-290 songs - 1 day 1 hr 29 min
+291 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [NAMAHA](https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [NAMAHA](https://open.spotify.com/album/3PfCixKb0AwioD7M8CJAjE) | 5:58 | 2022-04-15 | 2022-07-28 |
 | [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 | 2023-09-15 |
 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 | 2022-08-11 |  |
+| [Negev](https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp) | [Animato](https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL), [Pettra](https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D) | [Negev](https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo) | 8:00 | 2023-11-25 |  |
 | [Never Be The Same](https://open.spotify.com/track/2QOlkqwaKI6JHVoAFvyfnm) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D) | [Never Be The Same](https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas) | 4:51 | 2022-04-15 | 2022-04-23 |
 | [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 | 2022-08-30 |
 | [Obsession](https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS), [Tropic Sound](https://open.spotify.com/artist/1bgdt86bM98eGqdbZjww7H) | [Obsession](https://open.spotify.com/album/5zAgAIwAQeBPDIb7LPu9Tt) | 4:27 | 2022-04-22 | 2022-07-24 |
@@ -200,7 +201,7 @@
 | [remote flow dynamics](https://open.spotify.com/track/1AR79Gd3IRhRIQgR1Od96Y) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Remote Flow Dynamics](https://open.spotify.com/album/3Cw4XpDmekACMWQk6FG1sJ) | 4:12 | 2022-04-15 | 2022-04-21 |
 | [Rescue Remedy](https://open.spotify.com/track/40O6AD4vJI620KuFjAdWSV) | [Killerwatts](https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH), [Mandala \(UK\)](https://open.spotify.com/artist/7j2bx3162YIltBZRP4GZDF), [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Beautiful Chaos](https://open.spotify.com/album/2hIoFlyPVkXV3YnCjEQgQh) | 6:35 | 2023-11-10 | 2023-11-26 |
 | [Riot](https://open.spotify.com/track/6ITJJfjs52aEB6MVbGcmzc) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [Riot](https://open.spotify.com/album/7yVr8cUBPP4FC0yJpEzvSM) | 2:51 | 2022-07-28 | 2022-09-02 |
-| [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 | 2023-03-15 |  |
+| [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 | 2023-03-15 | 2024-05-14 |
 | [Rockafaster](https://open.spotify.com/track/6LLAMgc8Y8li44oDDxkFVi) | [Fatality](https://open.spotify.com/artist/4YQOU9GVYBYVJmdmGkDQh1), [Nable](https://open.spotify.com/artist/6cJETXA6eNEwW9ZAqahVf7), [Pop Dog](https://open.spotify.com/artist/5iXB0pbIJUKm3e8ECZ6iB3) | [Rockafaster](https://open.spotify.com/album/4bk9LRnHRukyV69zMS6LCR) | 4:58 | 2023-10-06 | 2023-10-28 |
 | [Sacred Space \- Original mix](https://open.spotify.com/track/4WgAzEQpYRXn7oyWG3Iu0H) | [Symbolic](https://open.spotify.com/artist/0oUwhzCzcC6VAaKSFG55U3) | [Sacred Space](https://open.spotify.com/album/1TddewzjqbWzIzJ7jcuZMp) | 7:26 | 2022-04-22 | 2022-07-26 |
 | [Safari](https://open.spotify.com/track/6Hy6Az0d1SFPAtN8iBZiIs) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [TERRA](https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l) | [Safari](https://open.spotify.com/album/1GxtaYGp8kJ6wc1RFDmUbW) | 6:10 | 2023-09-14 |  |

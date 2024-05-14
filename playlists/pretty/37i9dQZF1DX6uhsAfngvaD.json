@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 305834,
+  "num_followers": 305874,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
       "artists": [
         {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
         }
       ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 149443,
       "name": "baby\u2019s out of luck again",
       "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
-      "album": {
-        "name": "Standard Tuning",
-        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 264279,
-      "name": "Standard Tuning",
-      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "rest up",
@@ -835,6 +819,22 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2024-02-21 11:35:46",
+      "album": {
+        "name": "Standard Tuning",
+        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 264279,
+      "name": "Standard Tuning",
+      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Hyper-normal",
-        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
-      },
-      "artists": [
-        {
-          "name": "GRAZER",
-          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "Hyper-normal",
-      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Ethernity",
+        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Just Like Fireflies",
+      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1315,22 +1331,6 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Ethernity",
-        "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
-      },
-      "artists": [
-        {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Just Like Fireflies",
-      "url": "https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q"
     },
     {
       "added_at": "2023-07-21 10:37:28",

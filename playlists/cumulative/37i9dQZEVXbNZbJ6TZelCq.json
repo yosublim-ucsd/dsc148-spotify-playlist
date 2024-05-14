@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2240,6 +2240,28 @@
       "duration_ms": 134265,
       "name": "B 808 ZEN",
       "url": "https://open.spotify.com/track/2lS7WbiKOwkqiZJthZTdCB"
+    },
+    {
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p"
+      },
+      "artists": [
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
+        },
+        {
+          "name": "Alberto Guta",
+          "url": "https://open.spotify.com/artist/5GvO1pU9enFaGlqtEbqV2P"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d"
     },
     {
       "album": {
@@ -2966,7 +2988,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -8522,7 +8544,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 165432,
       "name": "E dela dela",
       "url": "https://open.spotify.com/track/1IBUq12lbIwykz7Rzyl6rf"
@@ -13572,7 +13594,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
@@ -16104,7 +16126,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 129516,
       "name": "Lithe Fall Back",
       "url": "https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm"
@@ -28757,6 +28779,24 @@
     },
     {
       "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
         "name": "The Heart Part 5",
         "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
       },
@@ -31244,7 +31284,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 188826,
       "name": "vulnerabil",
       "url": "https://open.spotify.com/track/3hRLmDd6CHoeOwONxtET87"

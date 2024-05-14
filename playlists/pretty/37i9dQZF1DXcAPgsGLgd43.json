@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 8186,
+  "num_followers": 9369,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1231,30 +1231,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
       },
       "artists": [
         {
-          "name": "Dmitri Saidi",
-          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
-        },
-        {
-          "name": "Chicks Luv Us",
-          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
-        },
-        {
-          "name": "BMW KENNY",
-          "url": "https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP"
-        },
-        {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         }
       ],
-      "duration_ms": 164307,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1283,18 +1271,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Dmitri Saidi",
+          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+        },
+        {
+          "name": "Chicks Luv Us",
+          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
+        },
+        {
+          "name": "BMW KENNY",
+          "url": "https://open.spotify.com/artist/3n6wgt7LmxAnT0XOHleQcP"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
         }
       ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+      "duration_ms": 164307,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Senta Relaxa",
-        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Senta Relaxa",
-      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 168750,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
+      },
+      "artists": [
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "DALE",
+        "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "duration_ms": 153288,
+      "name": "DALE",
+      "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Nicotina",
         "url": "https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 167906,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "DALE",
-        "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
-      },
-      "artists": [
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        },
-        {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
-        }
-      ],
-      "duration_ms": 153288,
-      "name": "DALE",
-      "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 200823,
       "name": "Adios",
       "url": "https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2024-04-19 04:00:00",

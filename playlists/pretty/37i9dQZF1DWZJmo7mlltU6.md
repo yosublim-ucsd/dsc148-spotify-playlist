@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Chezile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,421 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,441 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

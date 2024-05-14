@@ -6,7 +6,7 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqdwM1YhJM2gXt5VD2ukcPPcVVGTZO",
+  "snapshot_id": "AAAqeuQCG3u7zo2t8e6Vt4/fqgI17HXk",
   "tracks": [
     {
       "added_at": "2024-05-10 19:46:13",
@@ -183,6 +183,38 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2024-05-13 15:06:03",
+      "album": {
+        "name": "From Paris To Berlin",
+        "url": "https://open.spotify.com/album/0qJdKpljt9DfkUrtsMuSrG"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "From Paris To Berlin",
+      "url": "https://open.spotify.com/track/4npIZEyL6aqIsIcp3zCE7j"
+    },
+    {
+      "added_at": "2024-05-13 15:23:29",
+      "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     }
   ],
   "unique_name": "New Dance Music Friday",

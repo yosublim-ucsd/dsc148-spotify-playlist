@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Fly High",
+        "url": "https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI"
+      },
+      "artists": [
+        {
+          "name": "Me & My",
+          "url": "https://open.spotify.com/artist/4FD9joiv6N5yWEnxxbyC59"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 319493,
       "name": "I'm Gonna Get You - Original Flavour Mix",
       "url": "https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ"

@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Action/Adventure
 
-1,425 songs - 3 day 6 hr 29 min
+1,426 songs - 3 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Cupid](https://open.spotify.com/track/2mssmGNePpgWPNo4gCIIyR) | [Vero](https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD) | [Unsoothing Interior](https://open.spotify.com/album/3ZRFbuVErrmunomGZrrLZq) | 3:10 | 2022-11-30 | 2023-01-12 |
 | [Cupid](https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7) | [Vero](https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD) | [Cupid](https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q) | 3:10 | 2022-02-16 | 2022-05-05 |
 | [Cut My Hair](https://open.spotify.com/track/4QSZrsCZx4jAPNIMoUsq03) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Cut My Hair](https://open.spotify.com/album/7nl1z74jzZCRG7G1SC3fZo) | 2:51 | 2022-06-29 | 2022-07-28 |
+| [Cutting Ties](https://open.spotify.com/track/7HQHTxc7F8k0fnlQMiaMna) | [Talking Points](https://open.spotify.com/artist/0HOOEubA7zC2e5UXtKHNyG) | [Cutting Ties](https://open.spotify.com/album/4lTbFn2sXX0s94c15wQGQ1) | 4:17 | 2024-05-13 |  |
 | [Cylinders](https://open.spotify.com/track/17I5FjmxdcfWX9GYjsSkVJ) | [Dog Sport](https://open.spotify.com/artist/68RQxUCaZrjtIYlxk6mERg) | [Cylinders](https://open.spotify.com/album/5nXRuh4rwIUu7TySmM9oeE) | 3:21 | 2023-09-27 | 2024-02-01 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-07 | 2022-10-20 |
 | [Dallas](https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 6:02 | 2024-04-10 | 2024-04-19 |

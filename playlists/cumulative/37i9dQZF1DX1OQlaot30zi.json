@@ -56171,6 +56171,32 @@
     },
     {
       "album": {
+        "name": "PURO BOLLATE (feat. Hank & Goosie)",
+        "url": "https://open.spotify.com/album/2saf9gVQFXT5QD4DpjLnzR"
+      },
+      "artists": [
+        {
+          "name": "Loggia West Milano",
+          "url": "https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv"
+        },
+        {
+          "name": "Goosie",
+          "url": "https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI"
+        },
+        {
+          "name": "Hank Lutring",
+          "url": "https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "PURO BOLLATE (feat. Hank & Goosie)",
+      "url": "https://open.spotify.com/track/3wKJMez2V7ezokboWdGmtB"
+    },
+    {
+      "album": {
         "name": "Purosangue (feat. Shiva)",
         "url": "https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft"
       },

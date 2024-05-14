@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと5日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: taro
+> 【POPYOURSまであと4日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: JAKEN
 
 429 songs - 19 hr 56 min
 

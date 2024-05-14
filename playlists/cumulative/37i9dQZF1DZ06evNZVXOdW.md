@@ -2,7 +2,7 @@
 
 ### [This Is Arooj Aftab](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVXOdW)
 
-> This is Arooj Aftab\. The essential tracks, all in one playlist.
+> This Is Arooj Aftab\. Los temas esenciales, todos en una lista.
 
 47 songs - 5 hr 30 min
 

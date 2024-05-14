@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731262,
+  "num_followers": 731290,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Magnolia (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -771,6 +755,22 @@
       "duration_ms": 259920,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Early Morning Coffee Cups",
-        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
-      },
-      "artists": [
-        {
-          "name": "Jaimi Faulkner",
-          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Early Morning Coffee Cups",
-      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Cartoon People",
         "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 213539,
       "name": "Cartoon People",
       "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Early Morning Coffee Cups",
+        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
+      },
+      "artists": [
+        {
+          "name": "Jaimi Faulkner",
+          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Early Morning Coffee Cups",
+      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "The Only",
+        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 217167,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -1343,18 +1359,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Only",
-        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
+        "name": "To Build A Home (Versions)",
+        "url": "https://open.spotify.com/album/52bYfn1wSbaRAQKq0Ox3DW"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 217167,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
+      "duration_ms": 371320,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/6LK4QAJzm6wPWITxSftVhG"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1387,26 +1407,6 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "To Build A Home (Versions)",
-        "url": "https://open.spotify.com/album/52bYfn1wSbaRAQKq0Ox3DW"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 371320,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/6LK4QAJzm6wPWITxSftVhG"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Here Comes the Sun",
         "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
+      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
       "artists": [
         {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 314600,
-      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
-      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "White Picket Fence",
-        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
-      },
-      "artists": [
-        {
-          "name": "Fiona Harte",
-          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
-        }
-      ],
-      "duration_ms": 245342,
-      "name": "White Picket Fence",
-      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/7gqvBbOGDfAvjweUqnn5xg"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/3BFXgZr628FqwDP3pQCgvk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
+      },
+      "artists": [
+        {
+          "name": "Fiona Harte",
+          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Summer Clothes",
-        "url": "https://open.spotify.com/album/71eFxdkCuPOa2pkT8Zb0k4"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 137852,
-      "name": "Summer Clothes (Acoustic)",
-      "url": "https://open.spotify.com/track/3ldQn5GUmDqs0L4z4GORI6"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Albion",
         "url": "https://open.spotify.com/album/06qVI0EPrbAVuJkk5h0epR"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Down with You",
-        "url": "https://open.spotify.com/album/45hKNbuAcxCs4wzCYF2GBW"
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/71eFxdkCuPOa2pkT8Zb0k4"
       },
       "artists": [
         {
-          "name": "Tara Nome Doyle",
-          "url": "https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv"
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
         }
       ],
-      "duration_ms": 237686,
-      "name": "Down with You",
-      "url": "https://open.spotify.com/track/2C7qaqL7yHKc8KPac92MMC"
+      "duration_ms": 137852,
+      "name": "Summer Clothes (Acoustic)",
+      "url": "https://open.spotify.com/track/3ldQn5GUmDqs0L4z4GORI6"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2247,6 +2231,22 @@
       "duration_ms": 192933,
       "name": "Howl",
       "url": "https://open.spotify.com/track/5rpdyv7Vc3PzX3cWMuPQ3Y"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Down with You",
+        "url": "https://open.spotify.com/album/45hKNbuAcxCs4wzCYF2GBW"
+      },
+      "artists": [
+        {
+          "name": "Tara Nome Doyle",
+          "url": "https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv"
+        }
+      ],
+      "duration_ms": 237686,
+      "name": "Down with You",
+      "url": "https://open.spotify.com/track/2C7qaqL7yHKc8KPac92MMC"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "EPHRATA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 234326,
-      "name": "Blood Drive",
-      "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Without / Within",
         "url": "https://open.spotify.com/album/5yMPFIjnYwfGjxyFdY80HZ"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5hGhweoDb1rZalo01o87zm"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "EPHRATA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 234326,
+      "name": "Blood Drive",
+      "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
     }
   ],
   "unique_name": "Kaffeehausmusik",

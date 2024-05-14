@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-239 songs - 9 hr 45 min
+240 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hedwig's Theme](https://open.spotify.com/track/43bicEv5d8GUZJtI9U6fzb) | [samu2rai](https://open.spotify.com/artist/2uEs3ZkDHUeILirtWAtu8w) | [Hedwig's Theme](https://open.spotify.com/album/5NBVyABkoyIRs5kjS7B9Cn) | 2:07 | 2023-09-08 | 2023-10-05 |
 | [hey, soul sister](https://open.spotify.com/track/1qJgvV6WYN8pLieuY18ahM) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [hey, soul sister](https://open.spotify.com/album/7aIiJxjW2A9pkYvgljzADh) | 2:31 | 2022-11-11 |  |
 | [Hold On We're Going Home](https://open.spotify.com/track/6tUsyUdQkxT7diLVsIp33U) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Hold On We're Going Home](https://open.spotify.com/album/1ALfJ33fMEOetofYD5T2Wv) | 3:01 | 2023-11-17 |  |
+| [Hold On, We're Going Home](https://open.spotify.com/track/1eLUU187vZjd2hzWgNxOb4) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Hold On, We're Going Home](https://open.spotify.com/album/2dajwlAFBFqyze4RO0HDw0) | 2:57 | 2024-05-13 |  |
 | [Homesick \- Lo\-Fi Version](https://open.spotify.com/track/7rfIhDYdtx4PsEXF2VlzbW) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi) | [Homesick \(Lo\-Fi\)](https://open.spotify.com/album/24SAyo6rBVmV13Ga0dFIxT) | 2:50 | 2022-10-28 | 2023-09-08 |
 | [Hotel California \(Lofi Tune\)](https://open.spotify.com/track/2MsYbvZ0XqSeYLcMHg1gHr) | [vort vort](https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8) | [Hotel California \(Lofi Tune\)](https://open.spotify.com/album/0noN2xiFTC2PjMWejNHV41) | 2:44 | 2022-12-09 |  |
 | [Hotline Bling](https://open.spotify.com/track/4ZVanZJ1HJdxYd8ABLXGUM) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:09 | 2022-09-16 |  |

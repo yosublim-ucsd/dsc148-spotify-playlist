@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 193170,
       "name": "Col\u00e3s",
       "url": "https://open.spotify.com/track/77lB7uf85Wknz98WoSFAIo"
@@ -9367,6 +9367,24 @@
     },
     {
       "album": {
+        "name": "Grito",
+        "url": "https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL"
+      },
+      "artists": [
+        {
+          "name": "iolanda",
+          "url": "https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176447,
+      "name": "Grito",
+      "url": "https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s"
+    },
+    {
+      "album": {
         "name": "Groupies",
         "url": "https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi"
       },
@@ -10248,7 +10266,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -22379,6 +22397,24 @@
     },
     {
       "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -23190,7 +23226,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 161136,
       "name": "Tropa do Flamengo",
       "url": "https://open.spotify.com/track/6hSs4NAiWub47nULLBtUj1"
@@ -24448,7 +24484,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

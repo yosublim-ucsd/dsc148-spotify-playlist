@@ -1,12 +1,12 @@
 {
-  "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3327,
+  "description": "This Is Touch\u00e9 Amor\u00e9. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 3328,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAADSy5Hqo75btF96MzKDAa8v",
+  "snapshot_id": "ZkAGgAAAAABsF0gHb1FjYc3975N3ljye",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 66053,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
+      "duration_ms": 89106,
+      "name": "~",
+      "url": "https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 89106,
-      "name": "~",
-      "url": "https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0"
+      "duration_ms": 66053,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 102240,
-      "name": "Kerosene - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
+      "duration_ms": 177400,
+      "name": "To Write Content - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 177400,
-      "name": "To Write Content - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49"
+      "duration_ms": 102240,
+      "name": "Kerosene - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
     },
     {
       "added_at": null,

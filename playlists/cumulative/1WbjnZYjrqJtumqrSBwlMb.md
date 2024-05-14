@@ -4,7 +4,7 @@
 
 > Subjectively good music xx
 
-891 songs - 2 day 6 hr 44 min
+895 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-02-15 |  |
 | [Figure 8](https://open.spotify.com/track/5HTap7v6OqB7jPT5J2Z4um) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:28 | 2022-03-02 |  |
 | [Figure You Out](https://open.spotify.com/track/0KcRoQrbYUhsjUUFGaYIbl) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 3:04 | 2022-09-18 |  |
+| [Final Church](https://open.spotify.com/track/78sUOio7Q63zyraK2auLla) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-13 |  |
 | [Fire](https://open.spotify.com/track/7oHkit3F3vimtsBbnZkU0G) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 2:20 | 2021-10-22 |  |
 | [Fireside](https://open.spotify.com/track/4atMrAadB7dS8xn9vfk9PQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:01 | 2023-06-25 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-11-23 |  |
@@ -719,6 +720,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 | 2022-04-18 |  |
 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 | 2020-04-11 |  |
 | [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 3:35 | 2020-04-07 |  |
+| [Sweet Thang \(feat\. Summer Walker\)](https://open.spotify.com/track/5V7QNaunpviHGU1qustwbl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 7:05 | 2024-05-13 |  |
 | [Sycamore Girl](https://open.spotify.com/track/3ijXR4yXgN43eF54uK7oos) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:40 | 2022-09-04 |  |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2022-08-25 |  |
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-01-08 |  |
@@ -781,6 +783,7 @@
 | [The Sharpest Lives](https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:20 | 2022-05-24 |  |
 | [The Ultracheese](https://open.spotify.com/track/3PhbzvTllkq1rkULafc6ns) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:37 | 2020-02-24 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:42 | 2020-12-06 |  |
+| [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 | 2024-05-13 |  |
 | [The Void](https://open.spotify.com/track/2yg7MXp8nSPaf61HVkhEr3) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 5:25 | 2022-04-07 |  |
 | [The Wonder](https://open.spotify.com/track/4pMZgwTL354QFT6xIDLDif) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Wonder](https://open.spotify.com/album/4ne9DTCOTjZUQJGOrfMYv0) | 2:59 | 2023-06-19 |  |
 | [The World's First Ever Monster Truck Front Flip](https://open.spotify.com/track/5rqQTEIVK2PTuXU9GI2wT0) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:00 | 2020-02-24 |  |
@@ -803,6 +806,7 @@
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-28 |  |
 | [Time Has Come Again](https://open.spotify.com/track/4quZBn5FeJhJoucjer82IO) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:22 | 2021-04-06 |  |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2023-11-01 |  |
+| [To Be Hunted](https://open.spotify.com/track/7kjL0ldXgBwZ3xOzA0WHMD) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 4:14 | 2024-05-13 |  |
 | [To The Island \- Tame Impala Remix](https://open.spotify.com/track/5oY6OqGZYMENBeP3qNVsZI) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [To The Island \(Tame Impala Remix\)](https://open.spotify.com/album/1Q1oSbvgkLUIo4diiRAyLd) | 4:13 | 2021-04-08 |  |
 | [Toast](https://open.spotify.com/track/24T3pT2TQsqx9RN5US9ZeT) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 4:09 | 2022-04-06 |  |
 | [Tomorrow's Dust](https://open.spotify.com/track/666PdikRnUzdvjT9p5wWND) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 5:26 | 2020-02-13 |  |

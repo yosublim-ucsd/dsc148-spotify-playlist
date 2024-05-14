@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,608 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,654 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 74 | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0) | 3:17 |
 | 75 | [Show Off](https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Show Off](https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ) | 3:11 |
 
-Snapshot ID: `Zj1jRAAAAAAo7ryZvZvbfcsE1QxBeNP/`
+Snapshot ID: `ZkHajQAAAAC3+oCwPkiyfGo8hd0vDiQu`

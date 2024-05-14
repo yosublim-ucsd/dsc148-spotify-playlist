@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Listen to the finest Jazz made in Belgium. Cover: De Beren Gieren",
+  "description": "Listen to the finest Jazz made in Belgium. Cover: M.CHUZI",
   "name": "Belgo-Jazz",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 331853,
       "name": "Absolution of a French Fry",
       "url": "https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ"
+    },
+    {
+      "album": {
+        "name": "Black Sand EP",
+        "url": "https://open.spotify.com/album/0AyatE71czEl4s7DExbVq8"
+      },
+      "artists": [
+        {
+          "name": "Next.Ape",
+          "url": "https://open.spotify.com/artist/2Vtc5shBiZL8XMF0sd9a4F"
+        },
+        {
+          "name": "Ben Wendel",
+          "url": "https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240721,
+      "name": "Abyssal Return",
+      "url": "https://open.spotify.com/track/0gxWBwlSv39NPEmwAihCwf"
     },
     {
       "album": {
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 238840,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/1LIpW35PEVnvCq6db7VvTm"
@@ -2409,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Yiri BOOM!",
+        "url": "https://open.spotify.com/album/1FXXtgeV0hzZ0CQ60wvA7A"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249581,
+      "name": "Pepersaus",
+      "url": "https://open.spotify.com/track/2qn64SGJqydjIOHVSsSf2m"
+    },
+    {
+      "album": {
         "name": "Ubi Sunt",
         "url": "https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW"
       },
@@ -3178,7 +3218,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 245079,
       "name": "Swirl",
       "url": "https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6"

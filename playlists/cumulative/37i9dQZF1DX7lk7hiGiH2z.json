@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Barfu\u00df",
+        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
+      },
+      "artists": [
+        {
+          "name": "Herr Jan",
+          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Barfu\u00df",
+      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -3386,7 +3404,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 100132,
       "name": "Im M\u00e4rzen der Bauer",
       "url": "https://open.spotify.com/track/0TvMafU339waUj547Wpujx"

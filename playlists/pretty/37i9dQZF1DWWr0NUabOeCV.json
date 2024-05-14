@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-03-19 14:50:52",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 168098,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO"
+    },
+    {
+      "added_at": "2024-03-19 14:50:52",
+      "album": {
         "name": "Hear Me Now",
         "url": "https://open.spotify.com/album/6apmeAAgvzvhBKio8WYThf"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 192846,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON"
-    },
-    {
-      "added_at": "2024-03-19 14:50:52",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 168098,
-      "name": "Amor Narc\u00f3tico",
-      "url": "https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO"
     },
     {
       "added_at": "2024-03-19 14:50:52",

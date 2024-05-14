@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Subjectively good music xx
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 888 songs - 2 day 6 hr 33 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 892 songs - 2 day 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -896,5 +896,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 886 | [The Real World](https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Sheer Agony](https://open.spotify.com/artist/7rkVJB7ZekCLtOZ2PWD2mM) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:07 |
 | 887 | [Waiting for You](https://open.spotify.com/track/12bdwFDnyVWjk77wSQVoDK) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:20 |
 | 888 | [Why Did I Laugh Anyway](https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Why Did I Laugh Anyway](https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1) | 3:09 |
+| 889 | [To Be Hunted](https://open.spotify.com/track/7kjL0ldXgBwZ3xOzA0WHMD) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 4:14 |
+| 890 | [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 |
+| 891 | [Final Church](https://open.spotify.com/track/78sUOio7Q63zyraK2auLla) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 |
+| 892 | [Sweet Thang \(feat\. Summer Walker\)](https://open.spotify.com/track/5V7QNaunpviHGU1qustwbl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 7:05 |
 
-Snapshot ID: `AAAIIoLGthDFwJyGUTW3qwvopnMgBsVz`
+Snapshot ID: `AAAIJgbb90XDa0FAT9hDKP5UOLUg0rjn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,592 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,619 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 53 | [Alive](https://open.spotify.com/track/1obIvxPHitnip8ZhiLS6BF) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Oliwa](https://open.spotify.com/artist/1ah0QMzlKN8IKTcKhEn0aD) | [Alive](https://open.spotify.com/album/0omZq6Xm9bLNu8v7H5z2Nl) | 3:58 |
 | 54 | [Behind](https://open.spotify.com/track/6ydBCO7odHKV6OXZFVeo6f) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Behind](https://open.spotify.com/album/1Sw5mvbUeqDKjXhOkqc6CK) | 3:40 |
 | 55 | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [koby](https://open.spotify.com/artist/4Tn608IQ0ZuBKRxV0kDX02) | [Old T\-Shirt \(feat\. koby\)](https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb) | 3:39 |
-| 56 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
-| 57 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 |
+| 56 | [Something Has Changed](https://open.spotify.com/track/5ZHPjF87Mcry4c78EXOipS) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/7ydFVsXLNeGlXhoG6YLTAL) | 2:58 |
+| 57 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 |
 | 58 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 | 59 | [Atmosphere](https://open.spotify.com/track/35Q2DPpgCjiDJlkruwfTWe) | [Stalgia](https://open.spotify.com/artist/3rGhySBeli7RDNfKZjvvkr) | [Atmosphere](https://open.spotify.com/album/4AVvgfBcoPROiIEOe6Swht) | 2:15 |
 | 60 | [Holy Soul](https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 3:21 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 77 | [Rebound](https://open.spotify.com/track/5VhqfEogUz8FvBZrFK8I4M) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb), [Nick Hill](https://open.spotify.com/artist/3UcDmN34xqN0zyMFZkY3jk), [JANEVA](https://open.spotify.com/artist/6gmHQVzmcuzRTAv2fhjSfm) | [Rebound](https://open.spotify.com/album/4bxtB1niW98Y3wvuh46zWj) | 4:04 |
 | 78 | [Onlysmokecigsontheweekend](https://open.spotify.com/track/61sqEURvZ2rKQSo747y8RS) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ), [Chris Ryan](https://open.spotify.com/artist/1R4WQIk1hRYS6ilbFxg5Rx) | [Fun Like That](https://open.spotify.com/album/4jUIb0Ip7qgo3qmCef9nfW) | 2:28 |
 | 79 | [Home](https://open.spotify.com/track/62VYVWExRnkAmcbKTOvk1l) | [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Home](https://open.spotify.com/album/4n9GXR9Tu9o4SE0eGvTMfA) | 3:45 |
-| 80 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 |
-| 81 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 80 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
+| 81 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 |
 | 82 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 |
-| 83 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
-| 84 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
+| 83 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
+| 84 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
 | 85 | [Hurry Up and Crush Me](https://open.spotify.com/track/19TLY1W9XOTGwKAQQrraY6) | [Billy Fox](https://open.spotify.com/artist/6RTA0j2oMjC8mtNrl5jWRq) | [Hurry Up and Crush Me](https://open.spotify.com/album/1pD16UUNpHAGr9UnkzNMvH) | 3:26 |
 | 86 | [Answer \- Acoustic](https://open.spotify.com/track/7KfV9eTNVYH5XFgio1bpK0) | [The Hour](https://open.spotify.com/artist/3LB8xwjSksxdZoR6hnEqqv) | [Sons & Daughters \(Acoustic\)](https://open.spotify.com/album/1j01SCmbyG3wMEuzPFhk2K) | 2:47 |
 | 87 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 97 | [In Cold Blood](https://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [In Cold Blood](https://open.spotify.com/album/5zlu4KRhI3Ld9zOVBgXAEX) | 3:26 |
 | 98 | [Almost There](https://open.spotify.com/track/2WlEJqRXj37vtII3CTt2Hj) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [A Place We Know / Almost There](https://open.spotify.com/album/677phHoNKIklj64z6GuA5L) | 3:54 |
 | 99 | [Captivated](https://open.spotify.com/track/4215JgBYhwg7jUtfL4Nzkc) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Captivated](https://open.spotify.com/album/6cFedsjaaJ4Lx6D8g907YE) | 4:02 |
-| 100 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 |
+| 100 | [Never Gonna Forget](https://open.spotify.com/track/6L8TsPi5yzx9vlOohXf5ms) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget](https://open.spotify.com/album/5CR2vHFfGD8pHAfr4WR3Oo) | 3:19 |
 
-Snapshot ID: `ZgxRfwAAAADy9ATovcHbnXjiV4XvNmQx`
+Snapshot ID: `ZkJo0gAAAACFQyLy81n75+NAxffb5JUW`

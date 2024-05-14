@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1219404,
+  "num_followers": 1219538,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
-      },
-      "artists": [
-        {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
-        }
-      ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 252081,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
+      },
+      "artists": [
+        {
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
+        }
+      ],
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "Night Songs II",
+        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Moonlight Becomes You",
+      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "Night Songs II",
-        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Moonlight Becomes You",
-      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 396920,
       "name": "Time Alone",
       "url": "https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 229365,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2024-03-20 08:21:42",

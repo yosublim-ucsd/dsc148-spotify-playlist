@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-327 songs - 18 hr 34 min
+328 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
 | [Jaane Kyu](https://open.spotify.com/track/7qySY2915krbeg4qMs5viD) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Sutradhaar](https://open.spotify.com/album/5oMbGSVotj2qtZjGxnAvkc) | 3:03 | 2024-02-09 | 2024-03-05 |
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-10-07 |
-| [Jaaney Do](https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Azazul Haque](https://open.spotify.com/artist/6ciL4UaOFyMJPFcBUUSkhK) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:51 | 2024-04-15 |  |
+| [Jaaney Do](https://open.spotify.com/track/3MFKOURYXuKIFB4ilNApIx) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Azazul Haque](https://open.spotify.com/artist/6ciL4UaOFyMJPFcBUUSkhK) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:51 | 2024-04-15 | 2024-05-14 |
 | [Jaani Pehchani Si](https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB) | [Sanjay Das](https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE), [Karshni Nair](https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1), [Sankalp Kapur](https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq) | [Rainbow Rishta \(Original Series Soundtrack\)](https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1) | 2:02 | 2023-11-15 | 2024-02-07 |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 | 2023-11-18 |
 | [Jahaan](https://open.spotify.com/track/314WYPRxkUBdHhXPr9JRoF) | [Kanwar Aditya](https://open.spotify.com/artist/6qef5YT5ROaGFl93Utk36k), [Ira Mahajan](https://open.spotify.com/artist/3Yzt08KVu1j0Wx4p8Kn52C) | [Jahaan](https://open.spotify.com/album/1Ijev4uDju3xjEA77uKgxY) | 3:57 | 2024-01-19 |  |
@@ -266,6 +266,7 @@
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 |  |
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
+| [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 |  |
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |

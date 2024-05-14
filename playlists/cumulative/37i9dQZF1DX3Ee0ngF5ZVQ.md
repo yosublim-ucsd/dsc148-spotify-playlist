@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-619 songs - 1 day 12 hr 54 min
+620 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
 | [Desert Rose](https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Fair Weather Cowboy](https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI) | 3:23 | 2022-11-18 | 2023-01-17 |
+| [Desperate Company](https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Desperate Company](https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G) | 4:03 | 2024-05-10 |  |
 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 | 2023-09-15 | 2023-12-07 |
 | [Devil's Den](https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Devil's Den](https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv) | 3:52 | 2022-02-04 | 2022-03-19 |
 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 | 2023-09-08 |  |
@@ -309,7 +310,7 @@
 | [Know That by Now](https://open.spotify.com/track/1yL8k3wylADawLh7T5BzbO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Know That by Now](https://open.spotify.com/album/6tZ6olAlfKCuB3ZWr741LC) | 4:01 | 2022-09-23 | 2023-02-01 |
 | [Last American Summer](https://open.spotify.com/track/1yah3M7TFAlX4jc3Cpa1Op) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:51 | 2023-11-03 | 2024-04-19 |
 | [Last American Summer](https://open.spotify.com/track/75YFljzpMBKPICS0UhktL3) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Last American Summer](https://open.spotify.com/album/1ELbgyymPeozN3fYiKIZEJ) | 3:51 | 2023-06-30 | 2023-11-08 |
-| [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 |  |
+| [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 | 2023-06-09 | 2024-05-14 |
 | [Learnin' my Lesson](https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD), [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Learnin' my Lesson](https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn) | 3:07 | 2023-07-07 |  |
 | [Legends](https://open.spotify.com/track/3tMySztcJ2hrYLHOAXpCVc) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Legends](https://open.spotify.com/album/7fw5CcuAmxFL4eSwoDa69u) | 3:31 | 2022-10-28 | 2023-01-06 |
 | [Let Him In](https://open.spotify.com/track/1Ksas5Umdnh7rLfBhK4wNi) | [Seth Ward](https://open.spotify.com/artist/55kr1RaQ3UONiM6f2AzeHt) | [Let Him In](https://open.spotify.com/album/10Am8PcY3Z0DokMgDBmldJ) | 3:59 | 2021-12-17 | 2022-03-19 |

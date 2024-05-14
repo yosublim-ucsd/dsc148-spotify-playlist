@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60838,
+  "num_followers": 60854,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126000,
+  "num_followers": 126006,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASWW/81Iug0qo5/3URL4p6vFBAp0hw",
+  "snapshot_id": "AAASWySfV5fcLMLnEyrAKvyJnVikEoWs",
   "tracks": [
+    {
+      "added_at": "2024-05-13 14:39:07",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 201823,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM"
+    },
     {
       "added_at": "2024-05-10 13:50:42",
       "album": {
@@ -1171,26 +1187,6 @@
       "duration_ms": 189257,
       "name": "Rain Dance",
       "url": "https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG"
-    },
-    {
-      "added_at": "2024-02-22 18:05:04",
-      "album": {
-        "name": "Don't Wanna Know",
-        "url": "https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Case",
-          "url": "https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn"
-        },
-        {
-          "name": "Jake Neumar",
-          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Don't Wanna Know",
-      "url": "https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

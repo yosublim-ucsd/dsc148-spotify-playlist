@@ -17089,6 +17089,24 @@
     },
     {
       "album": {
+        "name": "Talking To The Sun",
+        "url": "https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79533,
+      "name": "Talking To The Sun",
+      "url": "https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw"
+    },
+    {
+      "album": {
         "name": "Tally (with Denzel Curry)",
         "url": "https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq"
       },

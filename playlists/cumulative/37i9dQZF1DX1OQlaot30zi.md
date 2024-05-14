@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di ANNA e Lazza, Geolier, Don Joe, Ele A e tanti altri.
 
-3,551 songs - 6 day 16 hr 14 min
+3,552 songs - 6 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2623,6 +2623,7 @@
 | [Puntini Freestyle](https://open.spotify.com/track/5c2EUmqdkkSJuQbtJfx6RT) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [DJ D Rock](https://open.spotify.com/artist/4Z7GzBUGDLUAHBlVZX3ukV) | [Puntini Freestyle](https://open.spotify.com/album/2H4HO5rbtgnKTlpwSjMfYM) | 2:11 | 2024-01-04 | 2024-01-19 |
 | [PUNTO ALLA LUNA](https://open.spotify.com/track/5Sba9nJuKXiEIGjTo4Qtlb) | [Dallas](https://open.spotify.com/artist/3y62fwW7yTM2jlOljmhgSs), [Andris Kors](https://open.spotify.com/artist/3KcNTn9VR6q97ywvrNE0Kg) | [PUNTO ALLA LUNA](https://open.spotify.com/album/0V5flniZ4GHdYiT6K0AmB3) | 2:35 | 2022-10-20 | 2022-10-28 |
 | [PURE STANOTTE](https://open.spotify.com/track/1wEfkFfZANBKfmNJB7Fgjj) | [DUNE VICE](https://open.spotify.com/artist/34fs3bz8un3aiNH6Y3QNPJ), [QWITE](https://open.spotify.com/artist/47EMZJyYPF2aFZ1KYmyHPz) | [PURE STANOTTE](https://open.spotify.com/album/5CfS78gwDxZVa83HwBIFPv) | 1:57 | 2023-02-24 | 2023-03-10 |
+| [PURO BOLLATE \(feat\. Hank & Goosie\)](https://open.spotify.com/track/3wKJMez2V7ezokboWdGmtB) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Goosie](https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI), [Hank Lutring](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh) | [PURO BOLLATE \(feat\. Hank & Goosie\)](https://open.spotify.com/album/2saf9gVQFXT5QD4DpjLnzR) | 2:17 | 2024-05-13 |  |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/album/6qFCy6Umhqty9GB7QThBft) | 2:50 | 2022-10-20 | 2022-10-25 |
 | [Purosangue \(feat\. Shiva\)](https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:50 | 2022-10-24 | 2022-11-18 |
 | [Push](https://open.spotify.com/track/0c3dkyiXHsl5DvEp33aGzU) | [Ramses Afro](https://open.spotify.com/artist/0BA9Z5ZuaS6LjEhj9Nkfvg) | [Push](https://open.spotify.com/album/6CbQx944aKtHlOrpiHdg8U) | 1:55 | 2024-02-22 | 2024-03-01 |

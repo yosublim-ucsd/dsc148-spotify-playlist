@@ -2,7 +2,7 @@
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This Is MC Cabelinho\. Los temas esenciales, todos en una lista.
+> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
 
 60 songs - 3 hr 58 min
 

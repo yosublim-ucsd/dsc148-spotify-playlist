@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-277 songs - 14 hr 21 min
+278 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Feeling Good](https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt) | [Feeling Good](https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs) | 3:26 | 2022-12-16 | 2023-06-19 |
 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-01-26 |  |
 | [Fire on the Mountain](https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Fire on the Mountain](https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp) | 2:40 | 2024-01-12 |  |
+| [FOR ME](https://open.spotify.com/track/5edbyuV4bKej1OkFQ2VeBK) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [FOR ME](https://open.spotify.com/album/3XpGWYn2E8gagmm8yIlPiQ) | 2:55 | 2024-05-10 |  |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-02-10 |  |
 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 | 2024-02-23 | 2024-04-27 |
 | [For Sure](https://open.spotify.com/track/2UyiKKnsU8R3ESFeFlBm78) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [For Sure](https://open.spotify.com/album/3HRHoRu4p6fZ6pms3uC8oC) | 6:28 | 2024-01-26 |  |
@@ -150,7 +151,7 @@
 | [Loved](https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Loved](https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE) | 3:08 | 2024-01-26 |  |
 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 | 2022-07-30 | 2023-08-08 |
 | [Make Sense](https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Edem Evangelist](https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH) | [Make Sense](https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy) | 3:24 | 2023-10-24 | 2024-02-24 |
-| [Mama](https://open.spotify.com/track/1cn2fIjzzrBmEW5pcL1bo1) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Mama](https://open.spotify.com/album/3KLDzeX3wOXUFH0Md8cNql) | 3:04 | 2024-05-03 |  |
+| [Mama](https://open.spotify.com/track/1cn2fIjzzrBmEW5pcL1bo1) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Mama](https://open.spotify.com/album/3KLDzeX3wOXUFH0Md8cNql) | 3:04 | 2024-05-03 | 2024-05-14 |
 | [Marvelous God](https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Marvelous God](https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut) | 3:53 | 2022-12-16 | 2024-01-13 |
 | [Masterpiece](https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Masterpiece](https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ) | 3:07 | 2023-11-17 |  |
 | [Matthew 6:33](https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Matthew 6:33](https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb) | 3:02 | 2023-10-24 |  |

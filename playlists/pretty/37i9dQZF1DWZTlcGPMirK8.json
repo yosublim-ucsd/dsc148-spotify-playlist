@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68337,
+  "num_followers": 68339,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Drinking From The Sun, Walking Under Stars Restrung",
         "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 236333,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "The Nosebleed Section",
+      "url": "https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
-      },
-      "artists": [
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9"
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
       "artists": [
         {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
         }
       ],
-      "duration_ms": 219640,
-      "name": "The Nosebleed Section",
-      "url": "https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ"
+      "duration_ms": 151133,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -455,18 +455,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+        "name": "Drinking From The Sun",
+        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
       "artists": [
         {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
+      "duration_ms": 226413,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -487,22 +491,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Drinking From The Sun",
-        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
       },
       "artists": [
         {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
         }
       ],
-      "duration_ms": 226413,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Love Monster",
         "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Feeler",
         "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 279520,
       "name": "So Beautiful - Single Version",
       "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB"
     },
     {
       "added_at": "2022-04-18 02:03:22",

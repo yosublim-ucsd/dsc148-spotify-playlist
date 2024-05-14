@@ -4,7 +4,7 @@
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-139 songs - 8 hr 22 min
+140 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 | 2022-12-14 | 2023-01-26 |
 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 | 2023-10-12 |  |
 | [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 | 2023-04-05 | 2023-11-28 |
+| [Tu Kya Jaane \- Parineeti's Cover Version](https://open.spotify.com/track/4EqdxKyap3pnJg1gjdpEHg) | [Parineeti Chopra](https://open.spotify.com/artist/0NuA9c4Q9jNHICuqBnsjVR), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tu Kya Jaane \- Parineeti's Cover Version](https://open.spotify.com/album/5nMEPWfBO1BUb6NzSL6baG) | 1:06 | 2024-05-13 |  |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2022-04-11 | 2023-01-05 |
 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 | 2022-04-11 |  |
 | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/0z0fbGkzbfeJQTvrCrelOl) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged Lofi \- Single](https://open.spotify.com/album/53gbAlbYkzqUKPQwwGV7Q8) | 2:27 | 2023-01-04 | 2023-01-26 |
@@ -146,6 +147,6 @@
 | [You're So Beautiful](https://open.spotify.com/track/78vh1SHHtT8MUZ2MUft4xG) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Haunted](https://open.spotify.com/album/5fGF8CMrFsj1zrF17UDYdB) | 4:28 | 2022-04-11 | 2023-04-06 |
 | [Zindagi](https://open.spotify.com/track/4sGY02mKdWHr7jYSioH9Kj) | [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg) | [Angry Indian Goddesses](https://open.spotify.com/album/2ZyfjBRfFARArdBEGTl9yC) | 4:20 | 2022-04-11 | 2023-04-06 |
 | [Zindagi](https://open.spotify.com/track/62k9DGI74T1Bc5pbOuvRsT) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:14 | 2022-04-11 | 2023-04-06 |
-| [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/track/34XwmkxzT4EYVipvIurcmu) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/album/4KzPcU5jbnfIEJfU05OiNV) | 3:00 | 2024-03-15 |  |
+| [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/track/34XwmkxzT4EYVipvIurcmu) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Zindagi Tere Naam \(Soul Version\) \[From "Yodha"\]](https://open.spotify.com/album/4KzPcU5jbnfIEJfU05OiNV) | 3:00 | 2024-03-15 | 2024-05-14 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

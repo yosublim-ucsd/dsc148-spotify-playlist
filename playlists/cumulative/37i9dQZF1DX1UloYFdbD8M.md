@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-184 songs - 12 hr 40 min
+186 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 |  |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |
 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 | 2022-12-27 |  |
+| [Pattam](https://open.spotify.com/track/1lpFHQZpVa4HmlVuAkd5zZ) | [Ashwin Bhaskar](https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF) | [Pattam](https://open.spotify.com/album/0yw12ah0RmYSYVZqObKylg) | 3:10 | 2024-05-13 |  |
 | [Pilleranu](https://open.spotify.com/track/0yf1E6IHDdHb3iDeJseptM) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 5:35 | 2024-01-15 | 2024-04-19 |
 | [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 |  |
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
@@ -181,6 +182,7 @@
 | [tum/njan](https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [tum/njan](https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz) | 4:08 | 2023-05-19 | 2024-02-19 |
 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 | 2023-07-27 |  |
 | [Uyaru](https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc) | [Ananthu Gopi](https://open.spotify.com/artist/5SaT26rmsIGokgh2ZpxNnd) | [Uyaru](https://open.spotify.com/album/0DGEz5m1xeGycBNgPgFvPY) | 3:24 | 2023-11-06 | 2024-01-04 |
+| [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 | 2024-05-13 |  |
 | [Vaanil Nila](https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME) | [Anusree Deepak](https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa) | [Vaanil Nila](https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ) | 3:56 | 2024-03-28 |  |
 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 | 2023-10-10 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |

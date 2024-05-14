@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,982 likes - 95 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,981 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 40 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
 | 41 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 |
 | 42 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 |
-| 43 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 |
+| 43 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
 | 44 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
-| 45 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 |
+| 45 | [Xtasis](https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Xtasis](https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe) | 3:23 |
 | 46 | [PARAISO](https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [TODO SOBRE LA NADA](https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9) | 3:32 |
 | 47 | [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 |
 | 48 | [Caribbean](https://open.spotify.com/track/6etFpoM9bw0PU094PMLGvL) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/6Mh5DKubjomT2XxaSMCILY) | 4:39 |
 | 49 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 |
 | 50 | [SUBTE LÍNEA B REWORK](https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [SUBTE LÍNEA B REWORK](https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s) | 4:03 |
-| 51 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
-| 52 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 |
+| 51 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 |
+| 52 | [Hay que venir al Sur](https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Hay que venir al Sur](https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC) | 3:48 |
 | 53 | [Un Dia de Verano](https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Un Dia de Verano](https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy) | 3:35 |
 | 54 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 |
 | 55 | [PARACETAMOL \(perdón x ser bella\)](https://open.spotify.com/track/0xu7SDYSQimMbBZ5dadrad) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [MUY MUCHO](https://open.spotify.com/album/07J3RchD8DscOvvyRPxT9A) | 2:34 |
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 92 | [Noche de Vampiros](https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Noche de Vampiros](https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n) | 3:05 |
 | 93 | [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 |
 | 94 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
-| 95 | [Trampa](https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM) | [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Trampa](https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL) | 3:03 |
+| 95 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 |
 
 Snapshot ID: `ZisYsAAAAACyiqZKV+Uwvfd+94MfhBdn`

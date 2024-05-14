@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 202960,
       "name": "Devil On Your Back",
       "url": "https://open.spotify.com/track/0sXG3AwAmMq4IlC0A5Tupj"
@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
+    },
+    {
+      "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 227266,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2"
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 300333,
       "name": "Wayward Angel",
       "url": "https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1"

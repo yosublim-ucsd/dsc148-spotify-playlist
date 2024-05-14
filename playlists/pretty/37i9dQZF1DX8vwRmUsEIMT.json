@@ -1,33 +1,13 @@
 {
   "description": "All the new music you need to hear right now. Cover: Charli XCX",
-  "num_followers": 541660,
+  "num_followers": 541673,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj3n7AAAAADjVT85OvmFneZpJgz8Ag6u",
+  "snapshot_id": "ZkJhSwAAAABGXS2uUpvdcmJDlqhghEtG",
   "tracks": [
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "36 Hours",
-        "url": "https://open.spotify.com/album/6SQj6gs15aBIcIYzTCQQVF"
-      },
-      "artists": [
-        {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
-        },
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        }
-      ],
-      "duration_ms": 181241,
-      "name": "3hree6ix Hours",
-      "url": "https://open.spotify.com/track/2PiXmXetO9n2zMockhRgKH"
-    },
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
@@ -47,6 +27,26 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
@@ -59,6 +59,26 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "36 Hours",
+        "url": "https://open.spotify.com/album/6SQj6gs15aBIcIYzTCQQVF"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "duration_ms": 181241,
+      "name": "3hree6ix Hours",
+      "url": "https://open.spotify.com/track/2PiXmXetO9n2zMockhRgKH"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -139,26 +159,6 @@
       "duration_ms": 126153,
       "name": "Gimmie A Light",
       "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2024-05-10 09:25:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,848 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,867 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 | 67 | [Arumbagi](https://open.spotify.com/track/467fG9ZpspbNnx2tU6IsCH) | [Deepan Chakravarthy](https://open.spotify.com/artist/6r7P5L1lGFToFz6vwDcGdT), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Enga Ooru Kavalkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oyNn5RvHxZDBD3f5FCwlB) | 4:26 |
 | 68 | [Naan Oru Sindhu](https://open.spotify.com/track/7j0OQZnHuZDRVhDoRE8sGX) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Sindhu Bhairavi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37SsRFr6G1BwC0G6gBio3Q) | 4:23 |
 | 69 | [Un Nenja Thottu Sollu](https://open.spotify.com/track/4pASa5bZEoPsFoA2YTt8ji) | [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Rajathi Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CUMZcymEySiKKbNxEG6nO) | 4:41 |
-| 70 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 |
-| 71 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 70 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |
+| 71 | [En Mana Vaanil](https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Kaasi](https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL) | 5:38 |
 | 72 | [Velli Kolusu](https://open.spotify.com/track/4EyeRk1dOx080LOSIIfdyC) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Pongi Varum Kaveri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RyeLVBcYJ4yBUWXQOU69M) | 4:23 |
 | 73 | [Vikram Vikram](https://open.spotify.com/track/6iUI6Hqb8AqWbE8KlpX5BS) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2e0ISrWjj9fJZnAKV6S0o5) | 4:14 |
 | 74 | [Netru Indha Neram \- From "Tick Tick Tick"](https://open.spotify.com/track/0Rx44khCijmY8IIbqp3G8Q) | [Latha Rajinikanth](https://open.spotify.com/artist/67IdTh70oe61DC4D7UYoll) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:19 |

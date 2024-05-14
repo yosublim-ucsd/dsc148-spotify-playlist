@@ -2,9 +2,9 @@
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This Is Ladysmith Black Mambazo\. Los temas esenciales, todos en una lista.
+> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-142 songs - 9 hr 27 min
+143 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0D9Bnm77CkYlzpZijEKFuy) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:51 | 2022-07-09 |  |
 | [Gnamale](https://open.spotify.com/track/7ry3Gw24g4C9BEm6MIQlN3) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 6:08 | 2022-06-17 |  |
 | [Hamba Uyosebenza](https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Nostalgic Moments](https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo) | 4:17 | 2022-09-10 |  |
-| [Hello My Baby](https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 3:09 | 2021-12-28 |  |
+| [Hello My Baby](https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 3:09 | 2021-12-28 | 2024-05-14 |
 | [Homeless](https://open.spotify.com/track/4X7XfP15mnFklhYeP7YMKw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites](https://open.spotify.com/album/5j95AoT8sEKEPEv3Hv1F4q) | 3:37 | 2021-12-28 | 2022-06-10 |
 | [Homeless \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 3:48 | 2021-12-28 |  |
 | [Homeless \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4YDjXXVSAKYEICaQPKKL5G) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 4:15 | 2022-10-12 | 2023-12-14 |
@@ -73,6 +73,7 @@
 | [Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\) vs\. Bang My Head \(feat\. Sia\) \- Listenin' Continuous Mix](https://open.spotify.com/track/0c6DmfwLYzO9ffTS6naWIs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [Nico Sereba](https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Vincent "Vinzy V" Dery](https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 2:52 | 2021-12-28 |  |
 | [Lindelani \(Get Ready\)](https://open.spotify.com/track/6v0yRITq81DVORW0Q9bJzb) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:54 | 2021-12-29 | 2022-10-13 |
 | [Long Walk to Freedom](https://open.spotify.com/track/02EXGQPmGLzg6FDzZUPRzH) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 5:15 | 2021-12-28 | 2023-06-15 |
+| [Lonile Ibandla Lakho \(Live\)](https://open.spotify.com/track/5zL5q7nW7JSnx9xVe4cylT) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Legendary In His Presence 2 \(Live\)](https://open.spotify.com/album/3KZbqrfhkl3ljwelGQRRKS) | 7:04 | 2024-05-14 |  |
 | [Love, Damini \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0KRrOQfFl8nQ4DuIAPnlYP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:22 | 2022-07-09 |  |
 | [Lullaby \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awake](https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC) | 2:32 | 2022-01-07 |  |
 | [Lungisa Indela Yakho](https://open.spotify.com/track/6ncrh9KIDer64Zp5mxRDMP) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:44 | 2021-12-28 | 2022-09-27 |

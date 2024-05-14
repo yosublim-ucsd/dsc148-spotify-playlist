@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to current Pakistani Hits\. 🇵🇰 Cover: Asim Azhar
+> Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,268 likes - 56 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,338 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 55 | [Tu Jaane Na](https://open.spotify.com/track/5vGiuYFSGekGLgbxhV1rD5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Best of Romance: Atif Aslam & Pritam](https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs) | 5:41 |
 | 56 | [FELONY \(feat\. Talhah Yunus, Calm & Faris Shafi\)](https://open.spotify.com/track/6ObdA7xmpxSmDCJ7zDmMH7) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:54 |
 
-Snapshot ID: `ZkDg1QAAAADNY3gS9mlZ3wH+u1YtYjwQ`
+Snapshot ID: `ZkGsVwAAAADPrqOs4teT88VIE4w9itGQ`

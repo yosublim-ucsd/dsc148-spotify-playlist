@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 6558,
+  "num_followers": 6560,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAA+z7uyRYi+fGeVnGdS1Wyw",
+  "snapshot_id": "ZkAGgAAAAAC8263bZmCJkfY0Cv5BP9hU",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
+      "duration_ms": 202143,
+      "name": "A.M.P.",
+      "url": "https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 202143,
-      "name": "A.M.P.",
-      "url": "https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM"
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm"
+      "duration_ms": 227840,
+      "name": "Deadly Dull",
+      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Vacant Home",
-      "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Vacant Home",
+      "url": "https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy"
     },
     {
       "added_at": null,

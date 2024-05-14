@@ -4,7 +4,7 @@
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Kes & Sean Paul
 
-163 songs - 8 hr 13 min
+164 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 | 2021-12-20 | 2022-11-12 |
 | [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-08-18 | 2022-11-13 |
 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 | 2023-05-15 |  |
+| [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 | 2024-05-03 |  |
 | [Cyah Hear Yuh](https://open.spotify.com/track/76Ff4Q7r70uxipHnRQXPuw) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Cyah Hear Yuh](https://open.spotify.com/album/5XIUT3SrYNoPr3tunp3nz2) | 3:37 | 2024-04-26 |  |
 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 | 2022-08-18 | 2024-05-04 |
 | [Deserve It](https://open.spotify.com/track/7CgPnaIjzpMpM5cbeJPKnI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:13 | 2022-03-18 | 2022-08-19 |
@@ -111,7 +112,7 @@
 | [Phases](https://open.spotify.com/track/7JJFetW98L6HbQKUpfonEA) | [Cay Hill](https://open.spotify.com/artist/38mpjHoNDQXVa1ElpD2Vhx) | [Phases](https://open.spotify.com/album/31yCyAzh4umNBJwyss0kLo) | 2:54 | 2021-12-20 | 2022-02-25 |
 | [Piana](https://open.spotify.com/track/1dts9tOA7h5in0W9ADk7DR) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/2vTffZefaNNkR5h2dW7EHP) | 3:41 | 2021-12-20 | 2022-07-29 |
 | [Piana](https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth LP](https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH) | 3:41 | 2022-03-18 | 2022-08-19 |
-| [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 | 2023-05-15 |  |
+| [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 | 2023-05-15 | 2024-05-14 |
 | [Pretty Ugly \(feat\. BEAM\)](https://open.spotify.com/track/2HOmIPMAkekoQHaIrtz64n) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Excuses, Pt\. I](https://open.spotify.com/album/0OyRptm9csE0EwSNZmxuZb) | 2:44 | 2021-12-20 | 2022-02-25 |
 | [Private Party](https://open.spotify.com/track/05UiZ7ArvwlF8pUK6Fccc6) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Private Party](https://open.spotify.com/album/0wMkh4QzzyQQE1IeZTMYza) | 3:24 | 2021-12-20 | 2022-02-25 |
 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 | 2022-08-18 | 2022-11-11 |

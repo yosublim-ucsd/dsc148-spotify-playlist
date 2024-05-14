@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Mustii
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Nemo
 
 1,181 songs - 2 day 15 hr 53 min
 

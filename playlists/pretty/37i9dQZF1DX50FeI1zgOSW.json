@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 10823,
+  "num_followers": 10866,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj3iBAAAAADAq1Rk/0R+iyv186O/JeOO",
+  "snapshot_id": "ZkG9ngAAAABd5/h9xpBa2cjWlhSDZYnp",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -101,6 +101,30 @@
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
     },
     {
+      "added_at": "2024-05-13 06:53:15",
+      "album": {
+        "name": "Kannurangu",
+        "url": "https://open.spotify.com/album/1irng2JUexiR93eT0cry3k"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Syed Subahan",
+          "url": "https://open.spotify.com/artist/3gQ8iee3y7UsGTMuhjzEuD"
+        },
+        {
+          "name": "Nalini Vittobane",
+          "url": "https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Kannurangu",
+      "url": "https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG"
+    },
+    {
       "added_at": "2024-05-03 05:40:22",
       "album": {
         "name": "VIDHI",
@@ -169,24 +193,40 @@
       "url": "https://open.spotify.com/track/5GzYUYPDYSrKUWtsCzwt0a"
     },
     {
-      "added_at": "2024-05-07 08:43:18",
+      "added_at": "2024-05-13 06:46:48",
       "album": {
-        "name": "Vaa Nee Vaa",
-        "url": "https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey"
+        "name": "Thoovaanam",
+        "url": "https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8"
       },
       "artists": [
         {
-          "name": "Kishawn",
-          "url": "https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0"
+          "name": "Vijay Paul",
+          "url": "https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po"
         },
         {
-          "name": "Cozzy",
-          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
+          "name": "Keerthana",
+          "url": "https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7"
         }
       ],
-      "duration_ms": 197720,
-      "name": "Vaa Nee Vaa",
-      "url": "https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk"
+      "duration_ms": 200573,
+      "name": "Thoovaanam",
+      "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
+    },
+    {
+      "added_at": "2024-05-13 06:50:28",
+      "album": {
+        "name": "Kadha",
+        "url": "https://open.spotify.com/album/5PyPUCuVfr3nEU6J77CIUK"
+      },
+      "artists": [
+        {
+          "name": "Hidden frequencies",
+          "url": "https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Kadha",
+      "url": "https://open.spotify.com/track/4COdb4AhMLCQ1dicezQ1BP"
     },
     {
       "added_at": "2024-04-26 11:33:07",
@@ -289,28 +329,24 @@
       "url": "https://open.spotify.com/track/0ACSHNzNI60yrSb0mJ5OjP"
     },
     {
-      "added_at": "2024-05-03 05:40:22",
+      "added_at": "2024-05-13 07:13:34",
       "album": {
-        "name": "Malare",
-        "url": "https://open.spotify.com/album/29nOM78m3iF0BIo9mviX9c"
+        "name": "LoveBHK",
+        "url": "https://open.spotify.com/album/7Mog9E9w8TZ5iVoVYTAosn"
       },
       "artists": [
         {
-          "name": "V. Sanjeev",
-          "url": "https://open.spotify.com/artist/116P1Hzh4SnY9KN2tAkAR2"
+          "name": "Kiran S Shankar",
+          "url": "https://open.spotify.com/artist/0ouznHZynuafFNiXYTnCCt"
         },
         {
-          "name": "Sikkil Gurucharan",
-          "url": "https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt"
-        },
-        {
-          "name": "Ramesh Ramamoorthy",
-          "url": "https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz"
+          "name": "Aswin Gopakumar",
+          "url": "https://open.spotify.com/artist/2LJyNI2fjaA6hUTlMSGRMo"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/1ZDiBP33aBD82QORUFDI88"
+      "duration_ms": 287498,
+      "name": "LoveBHK",
+      "url": "https://open.spotify.com/track/2MfIpKND74ODPk5Y7t94Z1"
     },
     {
       "added_at": "2024-05-10 08:59:48",
@@ -413,42 +449,6 @@
       "url": "https://open.spotify.com/track/2FarOeJIgevJf3XLK4AYOG"
     },
     {
-      "added_at": "2024-04-18 12:04:32",
-      "album": {
-        "name": "Unnodu Mattum",
-        "url": "https://open.spotify.com/album/28CXiWmKxQAnKhQvUoryzD"
-      },
-      "artists": [
-        {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Unnodu Mattum",
-      "url": "https://open.spotify.com/track/1mXQEOOevGsu0xg7J2PiDT"
-    },
-    {
-      "added_at": "2024-04-29 10:55:34",
-      "album": {
-        "name": "Roja Poo Mala",
-        "url": "https://open.spotify.com/album/5i62N7TBuOwbdjVPltBWAh"
-      },
-      "artists": [
-        {
-          "name": "Gana Gowtham",
-          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "Roja Poo Mala",
-      "url": "https://open.spotify.com/track/7jPBS4dd6Xma0a8GTf2JkA"
-    },
-    {
       "added_at": "2024-04-24 04:52:18",
       "album": {
         "name": "Malare",
@@ -471,6 +471,22 @@
       "duration_ms": 140306,
       "name": "Malare",
       "url": "https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW"
+    },
+    {
+      "added_at": "2024-05-13 06:50:28",
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5"
+      },
+      "artists": [
+        {
+          "name": "Sharan Musician",
+          "url": "https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR"
+        }
+      ],
+      "duration_ms": 102509,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
     },
     {
       "added_at": "2024-04-04 11:48:44",
@@ -527,26 +543,6 @@
       "duration_ms": 214770,
       "name": "Nile Nadiye",
       "url": "https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y"
-    },
-    {
-      "added_at": "2024-04-18 21:59:24",
-      "album": {
-        "name": "Kanmaniye",
-        "url": "https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp"
-      },
-      "artists": [
-        {
-          "name": "A.R Sai Shravanya",
-          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        }
-      ],
-      "duration_ms": 116842,
-      "name": "Kanmaniye",
-      "url": "https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1"
     },
     {
       "added_at": "2024-03-08 06:09:46",
@@ -647,26 +643,6 @@
       "duration_ms": 214344,
       "name": "Ek Ladka Ek Ladki",
       "url": "https://open.spotify.com/track/619Q4UvtstPPGeuKphAGss"
-    },
-    {
-      "added_at": "2024-03-28 09:09:00",
-      "album": {
-        "name": "Aval Thaan Perazhagi",
-        "url": "https://open.spotify.com/album/0z0CtrFoI7djxfGhnwOQ8m"
-      },
-      "artists": [
-        {
-          "name": "SreRam Anand",
-          "url": "https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm"
-        },
-        {
-          "name": "Keerthana Saravanan",
-          "url": "https://open.spotify.com/artist/3kHn8e6guQNgxN8rI4eejj"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Aval Thaan Perazhagi",
-      "url": "https://open.spotify.com/track/380aoQxGRw6CaOJTtPDHXo"
     },
     {
       "added_at": "2024-03-19 11:01:14",

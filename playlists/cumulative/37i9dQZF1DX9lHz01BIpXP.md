@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5\-3ltZAmQIajFl12I2zImA">Early B</a>
 
-137 songs - 7 hr 10 min
+138 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [Freaky Bra](https://open.spotify.com/track/1dCz3LcKE2cBA7TKZTi56M) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 2:56 | 2023-04-13 | 2023-04-21 |
 | [Ghetto Boi](https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK) | [Kulturegng](https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD) | [Ghetto Boi](https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw) | 2:03 | 2022-09-08 | 2023-09-29 |
 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 | 2022-09-08 |  |
-| [Grootman](https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:00 | 2022-09-08 |  |
+| [Grootman](https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:00 | 2022-09-08 | 2024-05-14 |
 | [Haartseer Naai](https://open.spotify.com/track/1o8sfR9JWRPgl2rwmiCaeR) | [King Burger](https://open.spotify.com/artist/1QOy8p4Pm8xxgw8EU4RjnP) | [Haartseer Naai](https://open.spotify.com/album/2Vap5cLVlsHvqI8ANAqmeg) | 3:06 | 2022-09-08 | 2022-12-02 |
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-12-09 |
+| [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 | 2024-05-13 |  |
 | [Hi Mitchell](https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Is Ekke Man](https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7) | 1:59 | 2023-02-09 | 2023-03-25 |
 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 | 2024-01-05 |  |
 | [HONNE](https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3) | [AlwaysTheSuspect](https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [HONNE](https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX) | 2:58 | 2024-02-15 |  |

@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Nothing Wrong",
+      "url": "https://open.spotify.com/track/1XgHX1RQSXq5yxfpxCSJiz"
+    },
+    {
+      "album": {
         "name": "Stay On My Side Tonight",
         "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 181306,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"

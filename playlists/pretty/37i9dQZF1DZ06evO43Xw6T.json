@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 88307,
+  "num_followers": 88754,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAADWUYBSf7LnB1eeLHi8uE27",
+  "snapshot_id": "ZkAGgAAAAABFm8aze7HosUaO7OutOcU3",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saquen Plan",
-        "url": "https://open.spotify.com/album/4nPFcIiGejgP1fjBlouRZ6"
-      },
-      "artists": [
-        {
-          "name": "David Ornelas",
-          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Saquen Plan",
-      "url": "https://open.spotify.com/track/0MmeB4RIogO44d1Nc4WUlD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saquen Plan",
+        "url": "https://open.spotify.com/album/4nPFcIiGejgP1fjBlouRZ6"
+      },
+      "artists": [
+        {
+          "name": "David Ornelas",
+          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Saquen Plan",
+      "url": "https://open.spotify.com/track/0MmeB4RIogO44d1Nc4WUlD"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete Ya",
-        "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 157336,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Torbellino",
         "url": "https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 211933,
       "name": "No Se Va Poder",
       "url": "https://open.spotify.com/track/1vt5uODSshLkJORqOluJ5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vete Ya",
+        "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 157336,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
     },
     {
       "added_at": null,

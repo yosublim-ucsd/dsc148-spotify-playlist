@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "plant growth through extreme noise. guided by horticulturist Chris Beardshaw. Cover: <a href=\"https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73?si=e4de5425446846f3\">GEL</a>\n",
+  "description": "plant growth through extreme noise. guided by horticulturist Chris Beardshaw. ",
   "name": "Hardcore Gardening",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 161259,
       "name": "Not That Nice",
       "url": "https://open.spotify.com/track/2pSOZSpvdkJUcgxVQHZgeu"
@@ -600,6 +600,24 @@
       "duration_ms": 62400,
       "name": "Ready to Fight - From 10 Song 7 Inch EP 1982",
       "url": "https://open.spotify.com/track/1xbtzsYo8a6nAJgOURQP9T"
+    },
+    {
+      "album": {
+        "name": "REAL LIFE LOVE",
+        "url": "https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "REAL LIFE LOVE",
+      "url": "https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Sebasti\u00e1n Yatra, Aitana",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Marta Santos",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 211127,
       "name": "COMO YO TE QUIERO (DELUXE)",
       "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 185473,
       "name": "Coraz\u00f3n Quemado",
       "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 202360,
       "name": "LA CAPI",
       "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
@@ -4335,6 +4335,28 @@
     },
     {
       "album": {
+        "name": "Lo Dejo Todo",
+        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159163,
+      "name": "Lo Dejo Todo",
+      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
+    },
+    {
+      "album": {
         "name": "Lo Que Queda de M\u00ed",
         "url": "https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc"
       },
@@ -4684,7 +4706,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 163986,
       "name": "Menamorao (demo)",
       "url": "https://open.spotify.com/track/1rknipvLh4fVNjrKvwb47B"
@@ -5262,6 +5284,24 @@
       "duration_ms": 150485,
       "name": "miprimeravez",
       "url": "https://open.spotify.com/track/6Dd4ZCRgGZAYioA2wv7HuS"
+    },
+    {
+      "album": {
+        "name": "tres",
+        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154794,
+      "name": "Misi\u00f3n Imposible",
+      "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
     },
     {
       "album": {
@@ -7338,7 +7378,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
@@ -8772,10 +8812,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
+    },
+    {
+      "album": {
+        "name": "Noctalgia",
+        "url": "https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196438,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9"
     },
     {
       "album": {

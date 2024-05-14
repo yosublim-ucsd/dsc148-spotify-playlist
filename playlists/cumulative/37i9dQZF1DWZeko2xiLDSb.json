@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "The Efferusphere",
+      "url": "https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 157500,
       "name": "the view from my bathroom window (feat. guccihighwaters)",
       "url": "https://open.spotify.com/track/4tFoX0vJIeVN082xbA6wCN"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 773120,
+  "description": "This is Panic! At The Disco. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 773129,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAAANV1dzVXPH8e7Li/gTb8pw",
+  "snapshot_id": "ZkAGgAAAAADk1cehk4SVVTNRx65pliSb",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Death of a Bachelor",
-      "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
+      "duration_ms": 196520,
+      "name": "LA Devotee",
+      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
     },
     {
       "added_at": null,
@@ -352,9 +352,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Crazy = Genius",
-      "url": "https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C"
+      "duration_ms": 203506,
+      "name": "Death of a Bachelor",
+      "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Let's Kill Tonight",
+      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
       "duration_ms": 186600,
       "name": "Roaring 20s",
       "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Nicotine",
-      "url": "https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 171520,
-      "name": "The Good, the Bad and the Dirty",
-      "url": "https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha"
+      "duration_ms": 198040,
+      "name": "Crazy = Genius",
+      "url": "https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Vegas Lights",
+      "url": "https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C'mon",
         "url": "https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 214430,
       "name": "C'mon - Single Version",
       "url": "https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200037,
-      "name": "Middle Of A Breakup",
-      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
     },
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 153653,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5VL7pScLlKe4MbB8EAivgA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 363114,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+      "duration_ms": 216093,
+      "name": "Trade Mistakes",
+      "url": "https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 227240,
       "name": "She Had the World",
       "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "Trade Mistakes",
-      "url": "https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9"
     },
     {
       "added_at": null,

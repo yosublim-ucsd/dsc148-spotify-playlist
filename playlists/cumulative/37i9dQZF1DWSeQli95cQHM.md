@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-75 songs - 6 hr 59 min
+76 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Gasolina](https://open.spotify.com/track/7rCNFbBjRhFedDMagiH32L) | [Teto Preto](https://open.spotify.com/artist/71SeHRvF7QAnG8kSC9qbW5) | [Gasolina](https://open.spotify.com/album/6SDAXKA5lyCHjIjvDgKArc) | 7:46 | 2023-06-16 |  |
 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 | 2023-06-16 |  |
 | [Guarapan](https://open.spotify.com/track/5GL0TndOjy07iDPx4YY25v) | [Bruno Afterall](https://open.spotify.com/artist/7JdigJ1leJusGEZ4ZzrpM6) | [CurraL 001](https://open.spotify.com/album/0sEEFnpLE5L0X3y5ZHqd1C) | 6:16 | 2023-11-10 | 2024-05-10 |
-| [High Hopes](https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [The Underground](https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov) | 4:48 | 2023-11-10 |  |
+| [High Hopes](https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [The Underground](https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov) | 4:48 | 2023-11-10 | 2024-05-14 |
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 | 2023-06-16 | 2024-01-14 |
 | [House Aprovado Pelo Governo](https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt) | 5:23 | 2023-11-10 | 2024-04-19 |
 | [If I Never See U Again](https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF) | [nørus](https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz) | [Our Spacial Place](https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3) | 7:20 | 2023-11-10 |  |
@@ -63,6 +63,7 @@
 | [No Rave](https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9) | [Mootron](https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv) | [Easytiiger\_\_001](https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt) | 6:26 | 2023-06-16 |  |
 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 | 2023-06-16 |  |
 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 | 2023-06-16 | 2024-04-19 |
+| [Ovinimix](https://open.spotify.com/track/7iNvEegDWjOfnmIyiDcnKu) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [Alegrias Inesperadas](https://open.spotify.com/album/5L7MDT4kFwrZRh4qin9uwr) | 7:06 | 2023-11-10 |  |
 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 | 2023-06-16 |  |
 | [Passo](https://open.spotify.com/track/2WORt2lp1EbXTED385XziR) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Passo](https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5) | 2:36 | 2023-11-10 | 2023-12-10 |
 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 | 2023-06-16 |  |

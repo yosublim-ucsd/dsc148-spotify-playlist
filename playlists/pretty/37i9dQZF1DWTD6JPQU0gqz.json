@@ -1,6 +1,6 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 1560,
+  "num_followers": 1236,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Los del Vacile",
-        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 213285,
-      "name": "Los del Vacile",
-      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sigue y Sigue",
         "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 146269,
       "name": "Sigue y Sigue",
       "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Latinos",
-        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 211722,
-      "name": "Latinos",
-      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 170481,
       "name": "Dale",
       "url": "https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Latinos",
+        "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
+      },
+      "artists": [
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 211722,
+      "name": "Latinos",
+      "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Estyland EP",
         "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 173904,
       "name": "7heaven",
       "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     },
     {
       "added_at": "2023-06-20 14:37:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,763 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,783 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 62 | [XXX](https://open.spotify.com/track/3itr5yI9mePkSfF6aJD4Pi) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [XXX](https://open.spotify.com/album/3BoODaRgVtVx8dlSHCCJlG) | 2:38 |
 | 63 | [FETUS](https://open.spotify.com/track/2IrpEOJbwVhRZalWHuWYgh) | [BANDIT](https://open.spotify.com/artist/5VY4w1VcbBJgl198THFkLC) | [FETUS](https://open.spotify.com/album/4Cq7XzJhPGcpNurCbBdrFM) | 4:32 |
 | 64 | [BO BEH ZAO 没马跑](https://open.spotify.com/track/2PyEVqNNmtbDIA81RYvp8D) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [BO BEH ZAO 没马跑](https://open.spotify.com/album/41MjzkvJDAajqaxx34pOlA) | 2:59 |
-| 65 | [Cry No More \(feat\. Tay Keith\)](https://open.spotify.com/track/7jTURTGpQ3hTWFBPCf5s57) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Tay Keith\)](https://open.spotify.com/album/4N4Ymm7vVgCNIdJghFnToW) | 3:24 |
+| 65 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/7jTURTGpQ3hTWFBPCf5s57) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/4N4Ymm7vVgCNIdJghFnToW) | 3:24 |
 | 66 | [Edge of Tomorrow](https://open.spotify.com/track/4FznDspHMXUQ5RtmzJPdnb) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Edge of Tomorrow](https://open.spotify.com/album/79H3KbKr9M5scaV5Q0RMnY) | 2:00 |
 | 67 | [Naked \- Feat\. Leven Kali \- Young Franco Remix](https://open.spotify.com/track/5uYcaG76x4k0qba7xe0vom) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali \- Young Franco Remix\)](https://open.spotify.com/album/3CtyEsxP2rQxgf4OcoLOF9) | 2:11 |
 | 68 | [KITTY GEEK](https://open.spotify.com/track/4zLDru8vuh4xHGYirdcf2E) | [KENTACATS](https://open.spotify.com/artist/0bmFxuu38S0esyG6Dwqeik) | [KITTY GEEK](https://open.spotify.com/album/51LPlDaQE6VQxeSafGldPj) | 4:14 |

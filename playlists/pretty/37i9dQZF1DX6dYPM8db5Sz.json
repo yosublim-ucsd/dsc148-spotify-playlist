@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=HygMrlfuRFKm5a-fVJpa9w\">Internet Girl</a> ",
-  "num_followers": 11551,
+  "num_followers": 11550,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
+    {
       "added_at": "2024-03-29 05:15:05",
       "album": {
         "name": "It Was Always You (Siempre Fuiste T\u00fa)",
@@ -255,22 +271,6 @@
       "duration_ms": 209493,
       "name": "It Was Always You (Siempre Fuiste T\u00fa)",
       "url": "https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Dutch Courage",
-        "url": "https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz"
-      },
-      "artists": [
-        {
-          "name": "aKING",
-          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Safe As House",
-      "url": "https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 136216,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Dutch Courage",
+        "url": "https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz"
+      },
+      "artists": [
+        {
+          "name": "aKING",
+          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Safe As House",
+      "url": "https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc"
     },
     {
       "added_at": "2024-04-12 09:24:34",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "See You Shine",
-        "url": "https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "See You Shine",
-      "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
         "name": "Setting Suns",
         "url": "https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199960,
       "name": "Setting Suns",
       "url": "https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "See You Shine",
+        "url": "https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "See You Shine",
+      "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
     },
     {
       "added_at": "2024-02-22 22:00:00",
@@ -719,22 +719,6 @@
       "duration_ms": 212500,
       "name": "Nyoni Yami",
       "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
-    },
-    {
-      "added_at": "2024-03-22 05:26:24",
-      "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 144260,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
     },
     {
       "added_at": "2024-04-12 09:24:34",
@@ -769,6 +753,22 @@
       "url": "https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr"
     },
     {
+      "added_at": "2024-03-22 05:26:24",
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 144260,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Yes / No / Grey.",
@@ -783,22 +783,6 @@
       "duration_ms": 196092,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1"
-      },
-      "artists": [
-        {
-          "name": "Joe Preyer",
-          "url": "https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi"
     },
     {
       "added_at": "2024-05-03 07:06:59",
@@ -817,20 +801,40 @@
       "url": "https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Holding On To You",
-        "url": "https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1"
       },
       "artists": [
         {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+          "name": "Joe Preyer",
+          "url": "https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt"
         }
       ],
-      "duration_ms": 154793,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
+      "duration_ms": 236666,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Platinumb Heart Open",
+        "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "White Shadow",
+      "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
     }
   ],
   "unique_name": "Indie GO",

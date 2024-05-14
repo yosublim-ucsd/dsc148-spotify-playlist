@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Pink Pablo.",
-  "num_followers": 755353,
+  "num_followers": 755370,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "Amor Artificial",
-        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Amor Artificial",
-      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 161142,
       "name": "Ojos Papel",
       "url": "https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -427,8 +427,8 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "SOLA",
-        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
+        "name": "Atelier",
+        "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
         }
       ],
-      "duration_ms": 191818,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
+      "duration_ms": 162500,
+      "name": "atelier",
+      "url": "https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -511,6 +511,38 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
-        "name": "Atelier",
-        "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "atelier",
-      "url": "https://open.spotify.com/track/5miqx1IxNV0nGtOessyrqd"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -603,22 +619,6 @@
       "duration_ms": 204310,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "Blockbuster (90's R&B)",
-        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 207204,
-      "name": "Blockbuster (90's R&B)",
-      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
         "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
         "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "MANY NIGHTS",
-        "url": "https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MANY NIGHTS",
-      "url": "https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
         "name": "El Abismo",
         "url": "https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 223500,
       "name": "Estrellas en la Oscuridad",
       "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
+        "name": "MANY NIGHTS",
+        "url": "https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MANY NIGHTS",
+      "url": "https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "Esta vida que eleg\u00ed",
-        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187783,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
         "name": "Aqui?",
         "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 242000,
       "name": "Aqui?",
       "url": "https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
+        "name": "Esta vida que eleg\u00ed",
+        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187783,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
     },
     {
       "added_at": "2024-05-10 04:02:04",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-05-10 04:02:04",
       "album": {
-        "name": "Unos y Ceros",
-        "url": "https://open.spotify.com/album/2h4LCRSNJZDsVdNddTQk0Z"
-      },
-      "artists": [
-        {
-          "name": "Agustina Giovio",
-          "url": "https://open.spotify.com/artist/3XUujv3Mitm8jEejafVR1O"
-        },
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
-        }
-      ],
-      "duration_ms": 156294,
-      "name": "Unos y Ceros",
-      "url": "https://open.spotify.com/track/6ASEjs65L4QRh1OP2GZlev"
-    },
-    {
-      "added_at": "2024-05-10 04:02:04",
-      "album": {
         "name": "Ninguno",
         "url": "https://open.spotify.com/album/1L0zldmVoC2vMjeJE08T8v"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 290000,
       "name": "Ninguno",
       "url": "https://open.spotify.com/track/0PEujJj7GotXkh2yzZniqT"
+    },
+    {
+      "added_at": "2024-05-10 04:02:04",
+      "album": {
+        "name": "Unos y Ceros",
+        "url": "https://open.spotify.com/album/2h4LCRSNJZDsVdNddTQk0Z"
+      },
+      "artists": [
+        {
+          "name": "Agustina Giovio",
+          "url": "https://open.spotify.com/artist/3XUujv3Mitm8jEejafVR1O"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "duration_ms": 156294,
+      "name": "Unos y Ceros",
+      "url": "https://open.spotify.com/track/6ASEjs65L4QRh1OP2GZlev"
     },
     {
       "added_at": "2024-05-10 04:02:04",

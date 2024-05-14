@@ -2,7 +2,7 @@
 
 ### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is 坂本真綾。アーティストの代表曲をひとつのプレイリストに。
+> This is 坂本真綾\. The essential tracks, all in one playlist.
 
 111 songs - 8 hr 23 min
 

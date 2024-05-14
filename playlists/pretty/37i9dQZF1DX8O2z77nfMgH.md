@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Yeri Mua, El Bogueto y Uzielito Mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,157 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,177 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 |
 | 22 | [GDL](https://open.spotify.com/track/3SZ0KQJWzFwqAEEOUz34Rv) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [GDL](https://open.spotify.com/album/0gRleK1TX3po4MIvEIwVa2) | 2:22 |
 | 23 | [Maldita Locura](https://open.spotify.com/track/1rNcwfz9wrMjMY2NzqpbSl) | [Candy Lover](https://open.spotify.com/artist/25wZZTTdpzwHtUtrEY3RwC), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Maldita Locura](https://open.spotify.com/album/2JXFn2kxJm0D7FNbGjNCLe) | 3:41 |
-| 24 | [Merci Beacoup](https://open.spotify.com/track/5ZVXzTK3D8WfouxVBCEIea) | [Anabella Queen](https://open.spotify.com/artist/0U4DrHIZBfvyd3olOr8EIi), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Merci Beacoup](https://open.spotify.com/album/36ZyaV2lExvLyDzxqSwo5B) | 2:42 |
+| 24 | [Merci Beaucoup](https://open.spotify.com/track/5ZVXzTK3D8WfouxVBCEIea) | [Anabella Queen](https://open.spotify.com/artist/0U4DrHIZBfvyd3olOr8EIi), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Merci Beaucoup](https://open.spotify.com/album/36ZyaV2lExvLyDzxqSwo5B) | 2:42 |
 | 25 | [APD](https://open.spotify.com/track/5osrCuTDdYz50A8CVgZBBI) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [APD](https://open.spotify.com/album/1Dy7ZCsu6OElfEgoE3L8Zb) | 2:49 |
 | 26 | [La Aplico](https://open.spotify.com/track/3pJbOESe9eybcUbpULfbTk) | [Diana Landa](https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [La Aplico](https://open.spotify.com/album/4kIGa41gSM9B2xiN5uExaV) | 2:32 |
 | 27 | [Es ahora](https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Es ahora](https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF) | 3:26 |

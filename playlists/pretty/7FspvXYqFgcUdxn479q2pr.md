@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,497 likes - 8 songs - 21 min 24 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,497 likes - 10 songs - 27 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,5 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 6 | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/track/4n0VL14tXWTWk8gFs40dZv) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Jono Dorr](https://open.spotify.com/artist/1yNrXpRb1GV0K8oeZCzNVa) | [Warmth \(feat\. Jono Dorr\)](https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr) | 3:39 |
 | 7 | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/track/2u3vWA61Vw0pFuOrR6alWc) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/album/14aKD3L9dAOGCRfcHIqXtf) | 2:25 |
 | 8 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
+| 9 | [From Paris To Berlin](https://open.spotify.com/track/4npIZEyL6aqIsIcp3zCE7j) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A) | [From Paris To Berlin](https://open.spotify.com/album/0qJdKpljt9DfkUrtsMuSrG) | 2:52 |
+| 10 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
 
-Snapshot ID: `AAAqdwM1YhJM2gXt5VD2ukcPPcVVGTZO`
+Snapshot ID: `AAAqeuQCG3u7zo2t8e6Vt4/fqgI17HXk`

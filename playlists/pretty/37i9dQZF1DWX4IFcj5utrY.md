@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP?si=bjd2Swa8RyiqorHV5oPoIw">Maline Aura</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,404 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,411 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

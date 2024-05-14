@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
@@ -7612,6 +7612,36 @@
       "duration_ms": 284573,
       "name": "Something Keeps Calling (feat. Rob Bacon)",
       "url": "https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV"
+    },
+    {
+      "album": {
+        "name": "Something To Hold (Live)",
+        "url": "https://open.spotify.com/album/6GMmpkehPMkrtVCyncizYL"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363976,
+      "name": "Something To Hold - Live",
+      "url": "https://open.spotify.com/track/3FeKqHml7fmWnlVmNWXw75"
     },
     {
       "album": {

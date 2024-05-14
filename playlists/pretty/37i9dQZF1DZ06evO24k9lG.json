@@ -1,12 +1,12 @@
 {
   "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
-  "num_followers": 55932,
+  "num_followers": 55951,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAADRF+GtSBJHS4zJTSISGXGg",
+  "snapshot_id": "ZkAGgAAAAAAtRHx8X/7ehIjJq4sIQLNe",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 289724,
-      "name": "Un Osito Dormilon",
-      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+      "duration_ms": 289724,
+      "name": "Un Osito Dormilon",
+      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Todo Su Esplendor",
+        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Un Recuerdo Que Mata",
+      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 289746,
       "name": "Como Hago",
       "url": "https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Todo Su Esplendor",
-        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Un Recuerdo Que Mata",
-      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
     },
     {
       "added_at": null,

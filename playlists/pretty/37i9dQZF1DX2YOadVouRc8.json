@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 24239,
+  "num_followers": 24253,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Men Are Crazy",
-        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Men Are Crazy",
-      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "YUSFUL MUSIC (RELOADED)",
-        "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 141562,
-      "name": "high and sober (go on soun)",
-      "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "YUSFUL MUSIC (RELOADED)",
+        "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 141562,
+      "name": "high and sober (go on soun)",
+      "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Magixx",
         "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
       },
@@ -1487,18 +1467,22 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Wild Ride - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
       "artists": [
         {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
         }
       ],
-      "duration_ms": 162313,
-      "name": "Wild Ride - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
+      "duration_ms": 166271,
+      "name": "imagine (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1523,26 +1507,18 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Done With Talking",
-        "url": "https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi"
+        "name": "Wild Ride - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
-        },
-        {
-          "name": "Tiimie",
-          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
-        },
-        {
-          "name": "Skondtrack",
-          "url": "https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ"
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Done With Talking",
-      "url": "https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K"
+      "duration_ms": 162313,
+      "name": "Wild Ride - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
       "added_at": "2024-05-10 00:01:00",
@@ -1563,6 +1539,30 @@
       "duration_ms": 180745,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Done With Talking",
+        "url": "https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Tiimie",
+          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
+        },
+        {
+          "name": "Skondtrack",
+          "url": "https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Done With Talking",
+      "url": "https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K"
     }
   ],
   "unique_name": "Afro Chill",

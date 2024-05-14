@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kweller, Enzo Cello, Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,698 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,749 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Caro](https://open.spotify.com/track/3EUhXVaFdt7pONMZkCJR2g) | [Elito](https://open.spotify.com/artist/7hTaNJ6aGpDoW7izIImHFY) | [Caro](https://open.spotify.com/album/438hSC3JLzsq7Mj9QgcGxG) | 2:32 |
 | 75 | [Sem Competição](https://open.spotify.com/track/4cMs4UogHQq5avftmKA3sr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MT RARO](https://open.spotify.com/artist/6gchtkIzZHW6OTPICIK0pv), [Kyoto.mp3](https://open.spotify.com/artist/0sfIusXkJOp74u87M1NCvP), [K2.icee](https://open.spotify.com/artist/5h91fWdSDnOSAdTg9H5Eee), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Sem Competição](https://open.spotify.com/album/0MLSe7CLxMQ7097eONYcsK) | 3:49 |
 
-Snapshot ID: `Zj5sigAAAAA0s9trZV2mBgtWlrvhxJL2`
+Snapshot ID: `ZkJrWAAAAACbYpY0hBIX56bzRt7fZLVe`

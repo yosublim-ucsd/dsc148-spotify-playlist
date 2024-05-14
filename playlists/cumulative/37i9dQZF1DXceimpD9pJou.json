@@ -5167,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "Como Tu No Hay",
+        "url": "https://open.spotify.com/album/1O9idh5Z5DYm48Lzv7XAwC"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177006,
+      "name": "Como Tu No Hay",
+      "url": "https://open.spotify.com/track/2innlJvrx6AgUYAUpoOSdE"
+    },
+    {
+      "album": {
         "name": "Como Vuelvo A Ti",
         "url": "https://open.spotify.com/album/1ETRRgXJe3AUvYyERdi3Vy"
       },
@@ -10494,7 +10512,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 227176,
       "name": "En Tu Mano",
       "url": "https://open.spotify.com/track/01hfMwIKpjhcs48LhMFbIo"
@@ -11428,6 +11446,28 @@
       "duration_ms": 201720,
       "name": "Ester",
       "url": "https://open.spotify.com/track/183xN4UmkP3WqyC8V7iFks"
+    },
+    {
+      "album": {
+        "name": "Esto No Tiene Precio",
+        "url": "https://open.spotify.com/album/0qfYgznr5QCkW3RjgPnNpQ"
+      },
+      "artists": [
+        {
+          "name": "Hermano Ramonet",
+          "url": "https://open.spotify.com/artist/0R1DNgPk8RhmxjDzyEYRDj"
+        },
+        {
+          "name": "eec Records",
+          "url": "https://open.spotify.com/artist/3WkMhQnWBROt6ohJWamUmg"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Esto No Tiene Precio",
+      "url": "https://open.spotify.com/track/7vfNrVrEg3BgFLMaRjqMLQ"
     },
     {
       "album": {
@@ -25603,6 +25643,28 @@
     },
     {
       "album": {
+        "name": "Quisiera Pero No",
+        "url": "https://open.spotify.com/album/7LUvzisAcZCqpWZufoTdH7"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Falsalarma",
+          "url": "https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268392,
+      "name": "Quisiera Pero No",
+      "url": "https://open.spotify.com/track/34tonjVesqqv0SOhfGOSVp"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Soy",
         "url": "https://open.spotify.com/album/0B8Es3TK9ZRpDlmyFsn7fP"
       },
@@ -30006,7 +30068,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 151578,
       "name": "Te Amo M\u00e1s Que a Mi Vida",
       "url": "https://open.spotify.com/track/0LiVBkaXLLnlVvDX8nZk2X"
@@ -31588,7 +31650,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 208141,
       "name": "Tu Gracia Basta",
       "url": "https://open.spotify.com/track/5G6lRSiYUFHtdoVlNmGCAn"

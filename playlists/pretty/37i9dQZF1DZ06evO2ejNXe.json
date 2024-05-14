@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1398,
+  "num_followers": 1399,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj61AAAAAABPGKkRg7hOAsIirKKRV0tc",
+  "snapshot_id": "ZkAGgAAAAADuAipHEijKJMd9DyGz4UPg",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+        "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
+        "url": "https://open.spotify.com/album/3HSSM7tr8DWdMJpNfj1Ajl"
       },
       "artists": [
         {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        },
+        {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        },
+        {
+          "name": "Roberto Junior Y Su Bande\u00f1o",
+          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 203426,
-      "name": "El Chango Lloron",
-      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+      "duration_ms": 645067,
+      "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
+      "url": "https://open.spotify.com/track/3a7BpZWSfk1QuOG7qaxXoN"
     },
     {
       "added_at": null,
@@ -123,26 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
-        "url": "https://open.spotify.com/album/3HSSM7tr8DWdMJpNfj1Ajl"
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        },
-        {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        },
-        {
-          "name": "Roberto Junior Y Su Bande\u00f1o",
-          "url": "https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb"
         }
       ],
-      "duration_ms": 645067,
-      "name": "Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres",
-      "url": "https://open.spotify.com/track/3a7BpZWSfk1QuOG7qaxXoN"
+      "duration_ms": 171640,
+      "name": "La Guera Karla",
+      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
       "duration_ms": 184293,
       "name": "Mambo, Mambo",
       "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Ritmo Caliente",
-      "url": "https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V"
     },
     {
       "added_at": null,
@@ -211,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Ritmo Caliente",
+      "url": "https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 200240,
       "name": "Hey Hey Tu",
       "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "La Guera Karla",
-      "url": "https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A"
     },
     {
       "added_at": null,
@@ -275,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "El Chango Lloron",
+      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 197706,
       "name": "El Pulpo",
       "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dale Biberon",
-      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
     },
     {
       "added_at": null,
@@ -339,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dale Biberon",
+      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
       },
@@ -351,38 +351,6 @@
       "duration_ms": 207226,
       "name": "La Gloria",
       "url": "https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dale Biberon",
-        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Que Esto Que Lo Otro",
-      "url": "https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "El Loco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
     },
     {
       "added_at": null,
@@ -403,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
       "artists": [
         {
@@ -412,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 202266,
-      "name": "El Suegro",
-      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
     },
     {
       "added_at": null,
@@ -428,15 +396,15 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Mambo Maria",
-      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+      "duration_ms": 212573,
+      "name": "Que Esto Que Lo Otro",
+      "url": "https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
       "artists": [
         {
@@ -444,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+      "duration_ms": 202266,
+      "name": "El Suegro",
+      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
     },
     {
       "added_at": null,
@@ -467,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Me Estas Volviendo Loco",
-      "url": "https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coleccion Suprema Plus- Banda Zarape",
         "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
@@ -511,6 +447,38 @@
       "duration_ms": 247720,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dale Biberon",
+        "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Mambo Maria",
+      "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
       "added_at": null,
@@ -531,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
       "artists": [
         {
@@ -540,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,
@@ -556,15 +524,15 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 163706,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
+      "duration_ms": 247960,
+      "name": "Me Estas Volviendo Loco",
+      "url": "https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -572,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+      "duration_ms": 218466,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
     },
     {
       "added_at": null,
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
       },
       "artists": [
         {
@@ -604,9 +572,25 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 161053,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "El Sancudito",
+      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 169520,
-      "name": "El Sancudito",
-      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
+      "duration_ms": 161053,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
+      "duration_ms": 222426,
+      "name": "Hombre Muerto",
+      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Hombre Muerto",
-      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Black Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,965 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,958 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Ø TirØ \- Aø ViVø](https://open.spotify.com/track/5M1xqajeOF4oiU32waRk0P) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Scatolove](https://open.spotify.com/artist/0icMce3ZQU1HdA8gGHo5Rg) | [Ø TirØ \- Aø ViVø](https://open.spotify.com/album/5wd6SinPpoaLCDuw18Fn3g) | 4:23 |
 | 75 | [Fogo](https://open.spotify.com/track/6wEiEmMHlej0JBEo51gG0q) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Canto Cego](https://open.spotify.com/album/2TvDoFaS8pi9DhiWYbjrwh) | 3:44 |
 
-Snapshot ID: `Zj5rEAAAAAAOY/EqMCr3eDVggeBJW510`
+Snapshot ID: `ZkJqHwAAAADQGB/C5Gr1mM3BXUOZhkb8`

@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 196106,
       "name": "Hunter\u2019s Moon",
       "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -974,6 +974,24 @@
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
+    },
+    {
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402760,
+      "name": "Respite On The Spitalfields",
+      "url": "https://open.spotify.com/track/0e0VwnPz0jVqov6z5SVVqr"
     },
     {
       "album": {

@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-14",
       "duration_ms": 288000,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0"
@@ -1076,6 +1076,24 @@
       "duration_ms": 266133,
       "name": "Orange Sunlight",
       "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
+    },
+    {
+      "album": {
+        "name": "Alegrias Inesperadas",
+        "url": "https://open.spotify.com/album/5L7MDT4kFwrZRh4qin9uwr"
+      },
+      "artists": [
+        {
+          "name": "Gabto",
+          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426939,
+      "name": "Ovinimix",
+      "url": "https://open.spotify.com/track/7iNvEegDWjOfnmIyiDcnKu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Ele A in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,183 likes - 57 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,200 likes - 57 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
